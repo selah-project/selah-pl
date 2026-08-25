@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I będzie to dla was ustawą wieczną, aby dokonywać oczyszczenia nad synami Jisraela od wszystkich ich grzechów — raz w roku. I uczynił tak, jak Jahwe przykazał ⟨את⟩ Mosze.",
+  "translation": "I będzie to dla was ustawą na wieki, aby dokonywać przebłagania nad synami Jisraela za wszystkie ich grzechy, raz w roku; i uczynił tak, jak Jahwe przykazał ⟨את⟩ Mosze.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עולם",
-      "gloss": "wieczną"
+      "gloss": "na wieki"
     },
     {
       "surface": "לכפר",
-      "gloss": "aby dokonywać oczyszczenia"
+      "gloss": "aby dokonywać przebłagania"
     },
     {
       "surface": "על",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "od wszystkich"
+      "gloss": "za wszystkie"
     },
     {
       "surface": "חטאתם",
-      "gloss": "ich grzechów"
+      "gloss": "ich grzechy"
     },
     {
       "surface": "אחת",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "tak, jak"
+      "gloss": "jak"
     },
     {
       "surface": "צוה",
@@ -85,6 +85,6 @@
       "gloss": "Mosze"
     }
   ],
-  "timestamp": "2026-08-24T22:44:56.918397996Z",
+  "timestamp": "2026-08-25T05:45:07.070570446Z",
   "model": "glm-5.3"
 }

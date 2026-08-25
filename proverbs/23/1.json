@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Gdy zasiadasz, by jeść ⟨את⟩ władcą, rozeznaj roztropnie ⟨את⟩ to, co przed tobą.",
+  "translation": "Gdy zasiadasz, by jeść ⟨את⟩ władcę, rozumiej — będziesz rozumiał ⟨את⟩ to, co przed tobą.",
   "tokens": [
     {
       "surface": "כי",
@@ -22,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "władcą"
+      "marks": "władcę"
     },
     {
       "surface": "מושל",
-      "gloss": "władcą"
+      "gloss": "władcę"
     },
     {
       "surface": "בין",
-      "gloss": "rozeznaj"
+      "gloss": "rozumiej"
     },
     {
       "surface": "תבין",
-      "gloss": "roztropnie"
+      "gloss": "będziesz rozumiał"
     },
     {
       "surface": "את",
@@ -50,6 +50,6 @@
       "gloss": "przed tobą"
     }
   ],
-  "timestamp": "2026-08-25T02:12:28.354769809Z",
+  "timestamp": "2026-08-25T06:17:54.389534826Z",
   "model": "glm-5.3"
 }

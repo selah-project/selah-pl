@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 37,
-  "translation": "To są dzieje Jaakowa: Josef, syn siedemnastu lat, był pasterzem ⟨את⟩ swoich braci przy trzodzie — a on był młodzieńcem z synami Bilhy i ⟨את⟩ synami Zilpy, żon jego ojca — i przyniósł Josef ⟨את⟩ złą wieść o nich ich ojcu.",
+  "translation": "To ⟨są⟩ dzieje Jaakowa: Josef, syn siedemnastu lat, był pasterzem ⟨את⟩ swoich braci przy trzodzie, a on ⟨był⟩ młodzieńcem z synami Bilhy i ⟨את⟩ synami Zilpy, kobiet jego ojca; i przyniósł Josef ⟨את⟩ ich złą wieść ich ojcu.",
   "tokens": [
     {
       "surface": "אלה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "שבע",
-      "gloss": "siedem"
+      "gloss": "siedemnastu"
     },
     {
       "surface": "עשרה",
-      "gloss": "nastu"
+      "gloss": "(siedem)nastu"
     },
     {
       "surface": "שנה",
@@ -70,7 +70,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩ ⟨z⟩",
+      "marks": "synami Bilhy"
     },
     {
       "surface": "בני",
@@ -82,8 +83,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "synami Zilpy"
+      "gloss": "i ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "נשי",
-      "gloss": "żon"
+      "gloss": "kobiet"
     },
     {
       "surface": "אביו",
@@ -112,11 +112,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "złą wieść o nich"
+      "marks": "ich złą wieść"
     },
     {
       "surface": "דבתם",
-      "gloss": "złą wieść o nich"
+      "gloss": "ich złą wieść"
     },
     {
       "surface": "רעה",
@@ -131,6 +131,6 @@
       "gloss": "ich ojcu"
     }
   ],
-  "timestamp": "2026-08-24T22:20:41.962858937Z",
+  "timestamp": "2026-08-25T05:39:17.865327017Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Okażesz wierzącą miłość przymierza twemu słudze, bo w przymierzu Jahwe wprowadziłeś ⟨את⟩ twego sługę z sobą; a jeśli jest we mnie winość, zabijesz mnie sam; a do twego ojca — czemu to mnie przywodzisz?",
+  "translation": "Uczynisz chesed (wierną miłość) twemu słudze, bo w przymierzu Jahwe wprowadziłeś ⟨את⟩ twego sługę z tobą; a jeśli jest we mnie wina, zabijesz mnie ty ⟨sam⟩, a co do twego ojca — dlaczego to mnie wprowadzasz?",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "okażesz"
+      "gloss": "Uczynisz"
     },
     {
       "surface": "חסד",
-      "gloss": "wierzącą miłość przymierza"
+      "gloss": "chesed (wierną miłość)"
     },
     {
       "surface": "על",
-      "gloss": "dla"
+      "gloss": "twemu"
     },
     {
       "surface": "עבדך",
-      "gloss": "twemu słudze"
+      "gloss": "słodze"
     },
     {
       "surface": "כי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "עמך",
-      "gloss": "z sobą"
+      "gloss": "z tobą"
     },
     {
       "surface": "ואם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "עון",
-      "gloss": "winość"
+      "gloss": "wina"
     },
     {
       "surface": "המיתני",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sam"
+      "gloss": "ty (sam)"
     },
     {
       "surface": "ועד",
-      "gloss": "a do"
+      "gloss": "a co do"
     },
     {
       "surface": "אביך",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "czemu"
+      "gloss": "dlaczego"
     },
     {
       "surface": "זה",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "תביאני",
-      "gloss": "mnie przywodzisz"
+      "gloss": "mnie wprowadzasz"
     }
   ],
-  "timestamp": "2026-08-24T23:40:45.805363001Z",
+  "timestamp": "2026-08-25T06:30:07.257157193Z",
   "model": "glm-5.3"
 }

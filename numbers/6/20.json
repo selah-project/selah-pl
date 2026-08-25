@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I wykona kapłan ⟨את⟩ nimi tenufę przed obliczem Jahwe; świętość ⟨to⟩ dla kapłana — na piersi tenufy i na udzie terumy; i potem może pić nazir wino.",
+  "translation": "I zakołysze ⟨את⟩ nimi kapłan — kołysanie przed Jahwe; świętość ⟨to⟩ dla kapłana, oprócz piersi kołysania i oprócz udźca terumy; a potem pić będzie nazir wino.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "i wykona ruch (tenufę)"
+      "gloss": "i zakołysze"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ nimi",
-      "marks": "dary na dłoniach nazira"
+      "marks": "nimi — dary trzymane przez nazira"
     },
     {
       "surface": "הכהן",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "tenufa (ofiarowanie przez wymachiwanie)"
+      "gloss": "kołysanie"
     },
     {
       "surface": "לפני",
-      "gloss": "przed obliczem"
+      "gloss": "przed"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "na\/przy"
+      "gloss": "oprócz"
     },
     {
       "surface": "חזה",
@@ -54,27 +54,27 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "tenufy"
+      "gloss": "kołysania"
     },
     {
       "surface": "ועל",
-      "gloss": "i na"
+      "gloss": "i oprócz"
     },
     {
       "surface": "שוק",
-      "gloss": "udzie"
+      "gloss": "udźca"
     },
     {
       "surface": "התרומה",
-      "gloss": "terumy (część podniesiona)"
+      "gloss": "terumy"
     },
     {
       "surface": "ואחר",
-      "gloss": "i potem"
+      "gloss": "a potem"
     },
     {
       "surface": "ישתה",
-      "gloss": "będzie pił"
+      "gloss": "pić będzie"
     },
     {
       "surface": "הנזיר",
@@ -85,6 +85,6 @@
       "gloss": "wino"
     }
   ],
-  "timestamp": "2026-08-24T22:51:57.527678599Z",
+  "timestamp": "2026-08-25T05:47:07.626127402Z",
   "model": "glm-5.3"
 }

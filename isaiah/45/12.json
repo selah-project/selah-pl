@@ -5,20 +5,15 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 45,
-  "translation": "Ja uczyniłem ⟨את⟩ ziemię, i człowieka na niej stworzyłem ⟨את⟩; Ja, moje ręce rozpięły ⟨את⟩ niebiosa, i całe ich wojsko rozkazałem.",
+  "translation": "Ja, uczyniłem ziemię i człowieka na niej stworzyłem; ja, moje ręce rozpostarły niebiosa i wszystkie ich zastępy rozkazałem.",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "עשיתי",
       "gloss": "uczyniłem"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ziemię"
     },
     {
       "surface": "ארץ",
@@ -38,7 +33,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "ידי",
@@ -46,7 +41,7 @@
     },
     {
       "surface": "נטו",
-      "gloss": "rozpięły"
+      "gloss": "rozpostarły"
     },
     {
       "surface": "שמים",
@@ -54,17 +49,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "i całe"
+      "gloss": "i wszystkie"
     },
     {
       "surface": "צבאם",
-      "gloss": "ich wojsko"
+      "gloss": "ich zastępy"
     },
     {
       "surface": "צויתי",
       "gloss": "rozkazałem"
     }
   ],
-  "timestamp": "2026-08-25T03:34:11.752960430Z",
+  "timestamp": "2026-08-25T06:31:08.637442742Z",
   "model": "glm-5.3"
 }

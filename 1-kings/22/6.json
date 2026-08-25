@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I zebrał król Izraela ⟨את⟩ proroków, około czterystu mężów, i rzekł do nich: Czy pójdę na Ramot-Gilead, do wojny, czy zaniecham? A oni powiedzieli: Wstępuj, a da Adonai ⟨w to⟩ w rękę króla.",
+  "translation": "I zgromadził król Jisraela ⟨את⟩ proroków, około czterystu mężów, i rzekł do nich: Czy pójść na Ramot-Gilad do wojny, czy zaniechać? A oni powiedzieli: Wyruszaj, a da Adonaj ⟨w to⟩ w rękę króla.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "i zebrał"
+      "gloss": "i zgromadził"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "כארבע",
-      "gloss": "około czterystu"
+      "gloss": "około czterech"
     },
     {
       "surface": "מאות",
-      "gloss": "czterystu"
+      "gloss": "set"
     },
     {
       "surface": "איש",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "האלך",
-      "gloss": "czy pójdę"
+      "gloss": "czy pójść"
     },
     {
       "surface": "על",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilead"
+      "gloss": "Gilad"
     },
     {
       "surface": "למלחמה",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "אחדל",
-      "gloss": "zaniecham"
+      "gloss": "zaniechać"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "a oni powiedzieli"
+      "gloss": "i powiedzieli"
     },
     {
       "surface": "עלה",
-      "gloss": "wstępuj"
+      "gloss": "wyruszaj"
     },
     {
       "surface": "ויתן",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "Adonaj"
     },
     {
       "surface": "ביד",
@@ -101,6 +101,6 @@
       "gloss": "króla"
     }
   ],
-  "timestamp": "2026-08-25T00:08:11.572235705Z",
+  "timestamp": "2026-08-25T06:00:08.807777015Z",
   "model": "glm-5.3"
 }

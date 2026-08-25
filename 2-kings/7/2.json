@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I odpowiedział trzeci dowódca, który należał do króla, ten, na którego ręce opierał się ⟨את⟩ mąż ha-Elohim, i rzekł: Oto Jahwe czyni okna w niebiosach — czy stanie się to słowo? I rzekł: Oto ty zobaczysz to własnymi oczami, a stamtąd jadać nie będziesz.",
+  "translation": "I odpowiedział dowódca-trzeci, który należał do króla, opierający się na ręce króla, ⟨את⟩ mąż-Elohim, i rzekł: Oto Jahwe czyniłby okna w niebiosach — czy stanie się ta rzecz? I rzekł: Oto ujrzysz ⟨to⟩ na własne oczy, a stamtąd jeść nie będziesz.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "I odpowiedział"
+      "gloss": "i odpowiedział"
     },
     {
       "surface": "השליש",
-      "gloss": "trzeci dowódca"
+      "gloss": "dowódca-trzeci"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נשען",
-      "gloss": "opierał się"
+      "gloss": "opierający się"
     },
     {
       "surface": "על",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "ידו",
-      "gloss": "swojej ręce"
+      "gloss": "ręce jego"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "męża ha-Elohim"
+      "marks": "męża-Elohim"
     },
     {
       "surface": "איש",
-      "gloss": "męża"
+      "gloss": "mąż"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ויאמר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "czyni"
+      "gloss": "czyniłby"
     },
     {
       "surface": "ארבות",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "היהיה",
-      "gloss": "czy stanie się"
+      "gloss": "czy się stanie"
     },
     {
       "surface": "הדבר",
-      "gloss": "to słowo"
+      "gloss": "ta rzecz"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "ta"
     },
     {
       "surface": "ויאמר",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "ראה",
-      "gloss": "zobaczysz"
+      "gloss": "ujrzysz"
     },
     {
       "surface": "בעיניך",
-      "gloss": "własnymi oczami"
+      "gloss": "na oczach twoich"
     },
     {
       "surface": "ומשם",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "jadać będziesz"
+      "gloss": "będziesz jeść"
     }
   ],
-  "timestamp": "2026-08-25T00:10:23.844502914Z",
+  "timestamp": "2026-08-25T06:02:18.328534707Z",
   "model": "glm-5.3"
 }

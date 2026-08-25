@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 31,
-  "translation": "Komu się tak przyrównałeś w chwale i w wielkości wśród drzew Edenu? A zostaniesz strącony ⟨את⟩ drzewa Edenu na ziemię najniższą: pośród nieobrzezanych będziesz leżał ⟨את⟩ przebitych mieczem. To ⟨jest⟩ Faraon i cały jego tłum — wyrocznia Adonai Jahwe.",
+  "translation": "Komu się przyrównałeś tak w chwale i w wielkości pośród drzew Edenu? Zostaniesz zstąpiony z drzewami Edenu na ziemię najniższą, pośród nieobrzezanych będziesz leżał ⟨את⟩ zabitych od miecza — to ⟨jest⟩ Paro i cały jego tłum, wyrocznia Adonai Jahwe.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "komu"
     },
     {
       "surface": "מי",
-      "gloss": "kogo"
+      "gloss": "komu"
     },
     {
       "surface": "דמית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בעצי",
-      "gloss": "wśród drzew"
+      "gloss": "pośród drzew"
     },
     {
       "surface": "עדן",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "והורדת",
-      "gloss": "a zostaniesz strącony"
+      "gloss": "zostaniesz zstąpiony"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "drzewa Edenu"
+      "marks": "drzewami Edenu"
     },
     {
       "surface": "עצי",
-      "gloss": "drzewa"
+      "gloss": "z drzewami"
     },
     {
       "surface": "עדן",
@@ -83,23 +83,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "przebitych mieczem"
+      "marks": "zabitych od miecza"
     },
     {
       "surface": "חללי",
-      "gloss": "przebitych"
+      "gloss": "zabitych"
     },
     {
       "surface": "חרב",
-      "gloss": "mieczem"
+      "gloss": "od miecza"
     },
     {
       "surface": "הוא",
-      "gloss": "to (on)"
+      "gloss": "to"
     },
     {
       "surface": "פרעה",
-      "gloss": "Faraon"
+      "gloss": "Paro"
     },
     {
       "surface": "וכל",
@@ -122,6 +122,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:22:41.552832592Z",
+  "timestamp": "2026-08-25T06:12:31.919035458Z",
   "model": "glm-5.3"
 }

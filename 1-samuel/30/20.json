@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 30,
-  "translation": "I wziął Dawid ⟨את⟩ całą trzodę owiec i bydło; pędzono je przed tamtym inwentarzem, i mówiono: to jest łup Dawida.",
+  "translation": "I wziął Dawid ⟨את⟩ całą trzodę i bydło — pędzono je przed tamtym inwentarzem — i mówiono: „To jest łup Dawida”.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "całą trzodę owiec i bydło"
+      "marks": "całą trzodę i bydło"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "trzodę owiec"
+      "gloss": "trzodę"
     },
     {
       "surface": "והבקר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i powiedzieli"
+      "gloss": "i mówiono"
     },
     {
       "surface": "זה",
@@ -65,6 +65,6 @@
       "gloss": "Dawida"
     }
   ],
-  "timestamp": "2026-08-24T23:43:22.726163826Z",
+  "timestamp": "2026-08-25T05:56:46.261606673Z",
   "model": "glm-5.3"
 }

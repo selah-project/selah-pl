@@ -5,26 +5,26 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 41,
-  "translation": "Oto wszyscy ⟨oni⟩ to nicość, marność — ich dzieła, wiatr i pustka — ich odlewy.",
+  "translation": "Oto wszyscy oni ⟨są⟩ nicością, niczym ⟨są⟩ ich dzieła — wiatr i pustka ⟨są⟩ ich ulanymi posągami.",
   "tokens": [
     {
       "surface": "הֵ֣ן",
       "gloss": "Oto"
     },
     {
-      "surface": "כֻּלָּ֔ם",
-      "gloss": "wszyscy ⟨oni⟩"
+      "surface": "כֻּלָּ֔ם",
+      "gloss": "wszyscy oni"
     },
     {
       "surface": "אָ֥וֶן",
-      "gloss": "nicość"
+      "gloss": "nicością"
     },
     {
       "surface": "אֶ֖פֶס",
-      "gloss": "marność"
+      "gloss": "niczym"
     },
     {
-      "surface": "מַעֲשֵׂיהֶ֖ם",
+      "surface": "מַעֲשֵׂיהֶ֑ם",
       "gloss": "ich dzieła"
     },
     {
@@ -36,10 +36,10 @@
       "gloss": "i pustka"
     },
     {
-      "surface": "נִסְכֵּיהֶֽם",
-      "gloss": "ich odlewy"
+      "surface": "נִסְכֵיהֶֽם",
+      "gloss": "ich ulanymi posągami"
     }
   ],
-  "timestamp": "2026-08-25T00:31:08.114145265Z",
+  "timestamp": "2026-08-25T06:05:42.232498991Z",
   "model": "glm-5.3"
 }

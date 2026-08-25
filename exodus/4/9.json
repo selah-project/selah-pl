@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I stanie się, jeśli nie uwierzą również tym dwom znakom i nie usłuchają twego głosu, to weźmiesz wody z rzeki i wylejesz na suchy ląd, i będą wody, które weźmiesz z rzeki, i będą krwią na suchym lądzie.",
+  "translation": "I ⟨będzie⟩, jeśli nie uwierzą także tym dwu znakom i nie usłuchają twego głosu, to weźmiesz wód z rzeki i wylejesz na suchy ląd; i będą wody, które weźmiesz z rzeki, i staną się krwią na suchym lądzie.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "I stanie się"
+      "gloss": "i ⟨będzie⟩"
     },
     {
       "surface": "אם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "również"
+      "gloss": "także"
     },
     {
       "surface": "לשני",
-      "gloss": "tym dwom"
+      "gloss": "tym dwu"
     },
     {
       "surface": "האתות",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ולקחת",
-      "gloss": "to weźmiesz"
+      "gloss": "weźmiesz"
     },
     {
       "surface": "ממימי",
-      "gloss": "wody z"
+      "gloss": "wód z"
     },
     {
       "surface": "היאר",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "i będą"
+      "gloss": "i staną się"
     },
     {
       "surface": "לדם",
@@ -108,6 +108,6 @@
       "gloss": "na suchym lądzie"
     }
   ],
-  "timestamp": "2026-08-24T22:26:42.493566342Z",
+  "timestamp": "2026-08-25T06:32:16.845868716Z",
   "model": "glm-5.3"
 }

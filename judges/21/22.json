@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I będzie, gdy przyjdą ich ojcowie albo ich bracia, by się uskarżać do nas, wtedy powiemy im: Okażcie nam łaskę wobec ⟨את⟩ nich, bo nie wzięliśmy każdy swojej żony w wojnie; bo to nie wy daliście im ⟨ich⟩ — czyż teraz stalibyście się winni?",
+  "translation": "I będzie, gdy przyjdą ich ojcowie lub ich bracia, by się upominać u nas, i powiemy im: Okażcie nam łaskę wobec ⟨את⟩ nich, bo nie wzięliśmy każdy swojej żony w czasie wojny, bo nie wy daliście im ⟨ich⟩ — teraz stalibyście się winni.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "אחיהם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "לרוב",
-      "gloss": "by się uskarżać"
+      "gloss": "by się upominać"
     },
     {
       "surface": "אלינו",
-      "gloss": "do nas"
+      "gloss": "u nas"
     },
     {
       "surface": "ואמרנו",
-      "gloss": "powiemy"
+      "gloss": "i powiemy"
     },
     {
       "surface": "אליהם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חנונו",
-      "gloss": "okażcie nam łaskę"
+      "gloss": "okażcie łaskę"
     },
     {
       "surface": "אותם",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "w wojnie"
+      "gloss": "w czasie wojny"
     },
     {
       "surface": "כי",
@@ -109,6 +109,6 @@
       "gloss": "stalibyście się winni"
     }
   ],
-  "timestamp": "2026-08-25T03:26:53.773551998Z",
+  "timestamp": "2026-08-25T06:29:45.809773011Z",
   "model": "glm-5.3"
 }

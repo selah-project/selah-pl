@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I odpowiedzieli ⟨את⟩ Jehoszue, i powiedzieli: Gdyż oznajmiono-wyraźnie oznajmiono sługom twoim ⟨את⟩ to, co rozkazał Jahwe, Elohim twój, ⟨את⟩ Moszemu, słudze swemu — dać wam ⟨את⟩ całą ⟨tę⟩ ziemię i wytracić ⟨את⟩ wszystkich mieszkańców ziemi spod oblicza waszego; i ulękliśmy się bardzo o nefesz nasze z oblicza waszego, i uczyniliśmy ⟨את⟩ rzecz tę tę.",
+  "translation": "I odpowiedzieli Jehoszui i powiedzieli: Ponieważ oznajmione zostało, oznajmione sługom twoim, ⟨את⟩ to, co przykazał Jahwe, Elohim twój, Moszemu, słudze jego — dać wam ⟨את⟩ całą ⟨tę⟩ ziemię i wytracić wszystkich mieszkańców ziemi sprzed waszych obliczy — i ulękliśmy się bardzo o nasze nefesz z powodu was, i uczyniliśmy ⟨את⟩ rzecz tę.",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "I odpowiedzieli"
+      "gloss": "i odpowiedzieli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehoszue"
+      "marks": "Jehoszui"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoszue"
+      "gloss": "Jehoszui"
     },
     {
       "surface": "ויאמרו",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "ponieważ"
     },
     {
       "surface": "הגד",
-      "gloss": "oznajmiono"
+      "gloss": "oznajmione zostało"
     },
     {
       "surface": "הגד",
-      "gloss": "oznajmiono-wyraźnie"
+      "gloss": "oznajmione"
     },
     {
       "surface": "לעבדיך",
@@ -43,15 +43,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "to, co przykazał Jahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "צוה",
-      "gloss": "rozkazał"
+      "gloss": "przykazał"
     },
     {
       "surface": "יהוה",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "słodze swemu"
+      "gloss": "słudze jego"
     },
     {
       "surface": "לתת",
@@ -102,7 +102,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkich mieszkańców ziemi"
+      "marks": "wszystkich mieszkańców"
     },
     {
       "surface": "כל",
@@ -118,10 +118,10 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "spod oblicza waszego"
+      "gloss": "sprzed waszych obliczy"
     },
     {
-      "surface": "ונירא",
+      "surface": "וירא",
       "gloss": "i ulękliśmy się"
     },
     {
@@ -130,11 +130,11 @@
     },
     {
       "surface": "לנפשתינו",
-      "gloss": "o nefesz nasze"
+      "gloss": "o nasze nefesz"
     },
     {
       "surface": "מפניכם",
-      "gloss": "z oblicza waszego"
+      "gloss": "z powodu was"
     },
     {
       "surface": "ונעשה",
@@ -154,6 +154,6 @@
       "gloss": "tę"
     }
   ],
-  "timestamp": "2026-08-25T03:25:05.632068171Z",
+  "timestamp": "2026-08-25T05:52:12.123047339Z",
   "model": "glm-5.3"
 }

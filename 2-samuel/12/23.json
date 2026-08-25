@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "A teraz, gdy umarł, czemu to ja mam pościć? Czy zdołam go jeszcze sprowadzić ⟨z powrotem⟩? Ja pójdę do niego, ale on nie wróci do mnie.",
+  "translation": "A teraz, gdy umarł, czemu to ja mam pościć? Czy zdołam go jeszcze sprowadzić ⟨z powrotem⟩? Ja pójdę do niego, lecz on nie wróci do mnie.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "a teraz"
+      "gloss": "A teraz"
     },
     {
       "surface": "מת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "להשיבו",
-      "gloss": "sprowadzić go"
+      "gloss": "sprowadzić go ⟨z powrotem⟩"
     },
     {
       "surface": "עוד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a on"
+      "gloss": "lecz on"
     },
     {
       "surface": "לא",
@@ -72,6 +72,6 @@
       "gloss": "do mnie"
     }
   ],
-  "timestamp": "2026-08-24T23:48:43.241527931Z",
+  "timestamp": "2026-08-25T05:57:33.958246852Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I dali im ⟨את⟩ Kirjat-Arba, ojca Anoka — ona ⟨to⟩ Chewron, na górze Jehudy — oraz ⟨את⟩ jej pastwiska dokoła niej.",
+  "translation": "I dali im ⟨את⟩ Kirjat-Arba, ⟨miasto⟩ Arby, ojca Anaka — ono ⟨to⟩ Chebron — na górze Jehudy, oraz ⟨את⟩ jego pastwiska dokoła niego.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "הענוק",
-      "gloss": "Anoka"
+      "gloss": "Anaka"
     },
     {
       "surface": "היא",
-      "gloss": "ona"
+      "gloss": "ono"
     },
     {
       "surface": "חברון",
-      "gloss": "Chewron"
+      "gloss": "Chebron"
     },
     {
       "surface": "בהר",
@@ -55,17 +55,17 @@
     {
       "surface": "ואת",
       "gloss": "oraz ⟨את⟩",
-      "marks": "jej pastwiska"
+      "marks": "jego pastwiska"
     },
     {
       "surface": "מגרשה",
-      "gloss": "jej pastwiska"
+      "gloss": "jego pastwiska"
     },
     {
       "surface": "סביבתיה",
-      "gloss": "dokoła niej"
+      "gloss": "dokoła niego"
     }
   ],
-  "timestamp": "2026-08-24T23:22:38.204972850Z",
+  "timestamp": "2026-08-25T06:34:20.682915444Z",
   "model": "glm-5.3"
 }

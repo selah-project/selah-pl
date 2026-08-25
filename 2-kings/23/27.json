@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I rzekł Jahwe: Także ⟨את⟩ Jehudę usunę sprzed mego oblicza, jak usunąłem ⟨את⟩ Jisraela, i odrzucę ⟨את⟩ to miasto, które wybrałem, ⟨את⟩ Jeruszalaim, i ⟨את⟩ ten dom, o którym powiedziałem: będzie tam moje imię.",
+  "translation": "I rzekł Jahwe: Także Jehudę odsunę spośród mego oblicza, jak odsunąłem Israela, i odrzucę ⟨את⟩ to miasto, które wybrałem — Jeruszalaim — oraz ⟨את⟩ ten dom, o którym powiedziałem: będzie tam moje imię.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "także"
+      "gloss": "Także"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "usunę"
+      "gloss": "odsunę"
     },
     {
       "surface": "מעל",
-      "gloss": "sprzed"
+      "gloss": "spośród"
     },
     {
       "surface": "פני",
@@ -46,16 +46,16 @@
     },
     {
       "surface": "הסרתי",
-      "gloss": "usunąłem"
+      "gloss": "odsunąłem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraela"
+      "marks": "Israela"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Israela"
     },
     {
       "surface": "ומאסתי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "ten dom"
     },
     {
@@ -121,6 +121,6 @@
       "gloss": "tam"
     }
   ],
-  "timestamp": "2026-08-25T00:17:12.929389673Z",
+  "timestamp": "2026-08-25T06:03:57.778528643Z",
   "model": "glm-5.3"
 }

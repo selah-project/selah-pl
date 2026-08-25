@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I stanie się: w zamian za to, że usłyszecie ⟨את⟩ te prawa, i będziecie je strzec, i uczynicie je — wtedy Jahwe, Elohim twój, zachowa tobie ⟨את⟩ przymierze i ⟨את⟩ chesed, które przysiągł twoim ojcom.",
+  "translation": "I stanie się ⟨jako⟩ następstwo tego, że będziecie słuchać ⟨את⟩ tych praw, i będziecie ich strzec, i będziecie ⟨את⟩ je wykonywać — to Jahwe, twój Elohim, zachowa tobie ⟨את⟩ przymierze i ⟨את⟩ chesed, które przysiągł twoim ojcom.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "עקב",
-      "gloss": "w zamian za"
+      "gloss": "następstwo"
     },
     {
       "surface": "תשמעון",
-      "gloss": "usłyszecie"
+      "gloss": "że będziecie słuchać"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "te prawa"
+      "marks": "tych praw"
     },
     {
       "surface": "המשפטים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "te"
+      "gloss": "tych"
     },
     {
       "surface": "ושמרתם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "i uczynicie"
+      "gloss": "i będziecie wykonywać"
     },
     {
       "surface": "אתם",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim twój"
+      "gloss": "twój Elohim"
     },
     {
       "surface": "לך",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "chesed"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "twoim ojcom"
     }
   ],
-  "timestamp": "2026-08-24T23:06:32.383249421Z",
+  "timestamp": "2026-08-25T06:28:54.436568497Z",
   "model": "glm-5.3"
 }

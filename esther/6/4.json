@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I rzekł król: Kto ⟨jest⟩ na dziedzińcu? A Haman właśnie przyszedł na zewnętrzny dziedziniec domu króla, aby powiedzieć królowi ⟨את⟩ o powieszeniu ⟨את⟩ Mordechaja na drzewie, które przygotował dla niego.",
+  "translation": "I rzekł król: Kto jest na dziedzińcu? A Haman wszedł na dziedziniec domu królewskiego zewnętrzny, aby powiedzieć królowi, by powiesić ⟨את⟩ Mordechaja na drzewie, które przygotował dla niego.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -24,16 +24,12 @@
       "gloss": "na dziedzińcu"
     },
     {
-      "surface": "ו",
-      "gloss": "a"
-    },
-    {
-      "surface": "המן",
-      "gloss": "Haman"
+      "surface": "והמן",
+      "gloss": "a Haman"
     },
     {
       "surface": "בא",
-      "gloss": "przyszedł"
+      "gloss": "wszedł"
     },
     {
       "surface": "לחצר",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "króla"
+      "gloss": "królewskiego"
     },
     {
       "surface": "החיצונה",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "לתלות",
-      "gloss": "⟨את⟩ o powieszeniu"
+      "gloss": "by powiesić"
     },
     {
       "surface": "את",
@@ -93,6 +89,6 @@
       "gloss": "dla niego"
     }
   ],
-  "timestamp": "2026-08-25T02:34:30.319316950Z",
+  "timestamp": "2026-08-25T06:32:43.596970965Z",
   "model": "glm-5.3"
 }

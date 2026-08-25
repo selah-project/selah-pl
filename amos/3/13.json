@@ -5,8 +5,45 @@
   "book": "amos",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Słuchajcie i świadczcie przeciwko domowi Jaakowa — wyrocznia Adonai Jahwe, Elohim不出 serafinów…",
-  "tokens": null,
-  "timestamp": "2026-08-25T04:18:26.735276914Z",
+  "translation": "Słuchajcie i świadczcie w domu Jaakowa — wyrocznia Adonai Jahwe, Elohim Szaddaj-Cebaot ⟨pan zastępów⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "i świadczcie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-08-25T06:13:39.154717554Z",
   "model": "glm-5.3"
 }

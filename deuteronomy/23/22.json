@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Gdy ślubujesz ślub Jahwe, Elohimowi twemu, nie zwlekaj z jego spełnieniem, gdyż wymagając wymaga go Jahwe, Elohim twój, od ciebie, i ⟨to⟩ będzie w tobie grzechem.",
+  "translation": "Gdy złożysz ślub ślub Jahwe, Elohim twojemu, nie zwlekaj z jego spełnieniem, bo wymagając zażąda go Jahwe, Elohim twój, od ciebie, i będzie w tobie grzech.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gdy"
+      "gloss": "Gdy"
     },
     {
       "surface": "תדר",
-      "gloss": "ślubujesz"
+      "gloss": "złożysz ślub"
     },
     {
       "surface": "נדר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimowi twemu"
+      "gloss": "Elohim twojemu"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "bo"
     },
     {
       "surface": "דרש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ידרשנו",
-      "gloss": "wymaga go"
+      "gloss": "zażąda go"
     },
     {
       "surface": "יהוה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "חטא",
-      "gloss": "grzechem"
+      "gloss": "grzech"
     }
   ],
-  "timestamp": "2026-08-24T23:11:38.492158198Z",
+  "timestamp": "2026-08-25T05:51:17.382233311Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Gdzie ty umrzesz, umrę i tam będę pogrzebana; tak niech Jahwe uczyni ⟨to⟩ mnie i tak niech doda, bo tylko śmierć rozdzieli między mną a między tobą.",
+  "translation": "Gdzie ty umrzesz, ja umrę, i tam będę pogrzebana; tak niech Jahwe uczyni mi, i tak niech dorzuci, bo ⟨tylko⟩ śmierć oddzieli między mną a między tobą.",
   "tokens": [
     {
       "surface": "באשר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "תמותי",
-      "gloss": "umrzesz"
+      "gloss": "ty umrzesz"
     },
     {
       "surface": "אמות",
-      "gloss": "umrę"
+      "gloss": "ja umrę"
     },
     {
       "surface": "ושם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "mnie"
+      "gloss": "mi"
     },
     {
       "surface": "וכה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יסיף",
-      "gloss": "niech doda"
+      "gloss": "niech dorzuci"
     },
     {
       "surface": "כי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יפריד",
-      "gloss": "rozdzieli"
+      "gloss": "oddzieli"
     },
     {
       "surface": "ביני",
@@ -72,6 +72,6 @@
       "gloss": "a między tobą"
     }
   ],
-  "timestamp": "2026-08-25T02:28:20.645651497Z",
+  "timestamp": "2026-08-25T06:19:39.912454522Z",
   "model": "glm-5.3"
 }

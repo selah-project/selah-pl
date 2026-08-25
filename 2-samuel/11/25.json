@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I rzekł Dawid do posłańca: tak powiesz do Joaba: niech nie będzie złe w twoich oczach ⟨את⟩ ta sprawa, bo tak i tak pożera miecz; umocnij twoją walkę przeciw miastu i zburz ją — i umocnij go.",
+  "translation": "I rzekł Dawid do posłańca: tak powiesz Joabowi: niech nie będzie złe w twoich oczach ⟨את⟩ ta sprawa, bo tak i tak pożera miecz; umocnij swoją walkę przeciw miastu i zniszcz je, i umocnij go.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "Joabowi"
     },
     {
       "surface": "יואב",
-      "gloss": "Joaba"
+      "gloss": "Joabowi"
     },
     {
       "surface": "אל",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ta sprawa"
+      "gloss": "sprawa"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "ta"
     },
     {
       "surface": "כי",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "מלחמתך",
-      "gloss": "twoją walkę"
+      "gloss": "swoją walkę"
     },
     {
       "surface": "אל",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "והרסה",
-      "gloss": "i zburz ją"
+      "gloss": "i zniszcz je"
     },
     {
       "surface": "וחזקהו",
       "gloss": "i umocnij go"
     }
   ],
-  "timestamp": "2026-08-24T23:48:13.253575358Z",
+  "timestamp": "2026-08-25T05:58:02.765207078Z",
   "model": "glm-5.3"
 }

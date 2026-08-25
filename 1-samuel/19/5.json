@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Bo wziął on ⟨את⟩ swoją nefesz w swoją dłoń i uderzył ⟨את⟩ Filistyna, i dokonał Jahwe wielkiego ocalenia dla całego Izraela — widziałeś ⟨to⟩ i radowałeś się — i dlaczego masz grzeszyć niewinną krwią, zabijając ⟨את⟩ Dawida bez powodu?",
+  "translation": "Bo on wziął swoją nefesz w swoją dłoń, i pobił ⟨את⟩ tego Pelisztijczyka, i dokonał Jahwe wielkiego wybawienia dla całego Israela; widziałeś ⟨to⟩ i się ucieszyłeś — i dlaczego masz grzeszyć niewinną krwią, zabijając ⟨את⟩ Dawida bez powodu?",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "bo wziął"
+      "gloss": "wziął"
     },
     {
       "surface": "את",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ויך",
-      "gloss": "i uderzył"
+      "gloss": "i pobił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Filistyna"
+      "marks": "tego Pelisztijczyka"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Filistyna"
+      "gloss": "tego Pelisztijczyka"
     },
     {
       "surface": "ויעש",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "תשועה",
-      "gloss": "ocalenia"
+      "gloss": "wybawienie"
     },
     {
       "surface": "גדולה",
-      "gloss": "wielkiego"
+      "gloss": "wielkie"
     },
     {
       "surface": "לכל",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraela"
+      "gloss": "Israela"
     },
     {
       "surface": "ראית",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ותשמח",
-      "gloss": "i radowałeś się"
+      "gloss": "i się ucieszyłeś"
     },
     {
       "surface": "ולמה",
@@ -103,6 +103,6 @@
       "gloss": "bez powodu"
     }
   ],
-  "timestamp": "2026-08-24T23:39:23.125728694Z",
+  "timestamp": "2026-08-25T05:56:07.908616521Z",
   "model": "glm-5.3"
 }

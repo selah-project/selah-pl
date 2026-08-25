@@ -5,38 +5,37 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Gdyż uczynisz ich ⟨את⟩ barkiem — twoimi cięciwami wycelujesz w ich oblicze.",
+  "translation": "Gdyż odwrócisz ich plecy, swoimi cięciwami wycelujesz w ich oblicza.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Gdyż"
+      "gloss": "gdyż"
     },
     {
       "surface": "תשיתמו",
-      "gloss": "uczynisz ich"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "barkiem (שכם)"
+      "gloss": "odwrócisz"
     },
     {
       "surface": "שכם",
-      "gloss": "barkiem"
+      "gloss": "plecy"
     },
     {
       "surface": "במיתריך",
-      "gloss": "twoimi cięciwami"
+      "gloss": "swoimi cięciwami"
     },
     {
       "surface": "תכונן",
       "gloss": "wycelujesz"
     },
     {
-      "surface": "על פניהם",
-      "gloss": "w ich oblicze"
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ich oblicza"
     }
   ],
-  "timestamp": "2026-08-25T01:46:03.305789630Z",
+  "timestamp": "2026-08-25T06:32:24.093753465Z",
   "model": "glm-5.3"
 }

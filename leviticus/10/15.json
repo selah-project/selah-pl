@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 10,
-  "translation": "Udo terumy i pierś ofiarowania machania — na ofiarach ogniowych tłuszczów — przyniosą, by wymachać machaniem przed Jahwe; i będzie to dla ciebie i dla twoich synów ⟨את⟩ z tobą na ustawę wieczną, jak nakazał Jahwe.",
+  "translation": "Udo ofiary podniesionej i pierś ofiarowania kołysanego obok ofiar ognistych z tłuszczów przyniosą, aby wznieść kołysanie przed obliczem Jahwe; i będzie ⟨to⟩ dla ciebie i dla twoich synów z tobą ⟨את⟩ na wieczną ustawę, tak jak przykazał Jahwe.",
   "tokens": [
     {
       "surface": "שוק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "terumy"
+      "gloss": "ofiary podniesionej"
     },
     {
       "surface": "וחזה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "ofiarowania machania"
+      "gloss": "ofiarowania kołysanego"
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "obok"
     },
     {
       "surface": "אשי",
-      "gloss": "ofiarch ogniowych"
+      "gloss": "ofiar ognistych"
     },
     {
       "surface": "החלבים",
-      "gloss": "tłuszczów"
+      "gloss": "z tłuszczów"
     },
     {
       "surface": "יביאו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "להניף",
-      "gloss": "by wymachać"
+      "gloss": "aby wznieść"
     },
     {
       "surface": "תנופה",
-      "gloss": "machanie"
+      "gloss": "kołysanie"
     },
     {
       "surface": "לפני",
-      "gloss": "przed"
+      "gloss": "przed obliczem"
     },
     {
       "surface": "יהוה",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ z tobą"
+      "gloss": "z tobą ⟨את⟩",
+      "marks": "z tobą"
     },
     {
       "surface": "לחק",
@@ -81,17 +82,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "jak"
+      "gloss": "tak jak"
     },
     {
       "surface": "צוה",
-      "gloss": "nakazał"
+      "gloss": "przykazał"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:43:32.588850576Z",
+  "timestamp": "2026-08-25T05:43:31.291243603Z",
   "model": "glm-5.3"
 }

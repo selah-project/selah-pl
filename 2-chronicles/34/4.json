@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 34,
-  "translation": "I zburzyli przed nim ⟨את⟩ ołtarze Baalim, a słoneczne kadzielniczki, które były wysoko nad nimi, powycinał; i aszerim, i posągi, i posągi lane połamał i rozdrobnił na proch, i rozsypał ⟨to⟩ na powierzchni grobowców tych, którzy im składali ofiary.",
+  "translation": "I zburzyli przed nim ⟨את⟩ ołtarze Baalów, a słupy słoneczne, które były wysoko ponad nimi, powycinal, i ⟨את⟩ Aszery, i ⟨את⟩ posągi rzeźbione, i ⟨את⟩ posągi lane połamał i pokruszył na drobno, i rozsypał ⟨to⟩ na powierzchni grobów tych, którzy im składali ofiary.",
   "tokens": [
     {
       "surface": "וינתצו",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ołtarze Baalim"
+      "marks": "ołtarze Baalów"
     },
     {
       "surface": "מזבחות",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הבעלים",
-      "gloss": "Baalim"
+      "gloss": "Baalów"
     },
     {
       "surface": "והחמנים",
-      "gloss": "i słoneczne kadzielniczki"
+      "gloss": "a słupy słoneczne"
     },
     {
       "surface": "אשר",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "מעליהם",
-      "gloss": "nad nimi"
+      "gloss": "ponad nimi"
     },
     {
       "surface": "גדע",
-      "gloss": "powycinał"
+      "gloss": "powycinal"
     },
     {
       "surface": "והאשרים",
-      "gloss": "i aszerim"
+      "gloss": "i Aszery"
     },
     {
       "surface": "והפסלים",
-      "gloss": "i posągi"
+      "gloss": "i posągi rzeźbione"
     },
     {
       "surface": "והמסכות",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "והדק",
-      "gloss": "i rozdrobnił"
+      "gloss": "i pokruszył na drobno"
     },
     {
       "surface": "ויזרק",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "הקברים",
-      "gloss": "grobowców"
+      "gloss": "grobów"
     },
     {
       "surface": "הזבחים",
-      "gloss": "składających ofiary"
+      "gloss": "tych, którzy składali ofiary"
     },
     {
       "surface": "להם",
       "gloss": "im"
     }
   ],
-  "timestamp": "2026-08-25T03:56:51.042422830Z",
+  "timestamp": "2026-08-25T06:27:06.226007177Z",
   "model": "glm-5.3"
 }

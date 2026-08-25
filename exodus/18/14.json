@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I widział teść Mosze ⟨את⟩ wszystko, co on czynił ludowi, i powiedział: co to za sprawa, którą ty czynisz ludowi? Dlaczego ty siedzisz sam, a cały lud stoi przy tobie od rana aż do wieczora?",
+  "translation": "Ujrzał teść Moszego ⟨את⟩ całość tego, co on czynił ludowi, i rzekł: Co to za rzecz, którą ty czynisz ludowi? Dlaczego siedzisz sam, a cały lud stoi przy tobie od rana aż do wieczora?",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "i widział"
+      "gloss": "ujrzał"
     },
     {
       "surface": "חתן",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosze"
+      "gloss": "Moszego"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystko"
+      "marks": "całość tego"
     },
     {
       "surface": "כל",
-      "gloss": "wszystko"
+      "gloss": "całość"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "מה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "za sprawa"
+      "gloss": "za rzecz"
     },
     {
       "surface": "הזה",
-      "gloss": "ta"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
@@ -125,6 +125,6 @@
       "gloss": "wieczora"
     }
   ],
-  "timestamp": "2026-08-24T22:30:48.829647565Z",
+  "timestamp": "2026-08-25T05:41:22.920193511Z",
   "model": "glm-5.3"
 }

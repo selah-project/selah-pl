@@ -5,24 +5,24 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I był wychowującym ⟨את⟩ Hadassę — ona to Estera, córkę jego stryja — bo nie miała ojca ani matki, a młoda kobieta była piękna postacią i dobra wyglądem; i po śmierci jej ojca i matki wziął ją Mordochaj sobie za córkę.",
+  "translation": "I wychowywał ⟨את⟩ Hadassa — ona ⟨to⟩ Ester, córkę jego stryja, bo nie było jej ojca ani matki; a dziewczyna była piękna postacią i dobra wyglądem; i po śmierci jej ojca i jej matki wziął ją Mordechai sobie za córkę.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i był"
+      "gloss": "i"
     },
     {
       "surface": "אמן",
-      "gloss": "wychowującym"
+      "gloss": "wychowywał"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hadassę"
+      "marks": "Hadassa"
     },
     {
       "surface": "הדסה",
-      "gloss": "Hadassę"
+      "gloss": "Hadassa"
     },
     {
       "surface": "היא",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אסתר",
-      "gloss": "Estera"
+      "gloss": "Ester"
     },
     {
       "surface": "בת",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "nie miała"
+      "gloss": "nie było"
     },
     {
       "surface": "לה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "והנערה",
-      "gloss": "a młoda kobieta"
+      "gloss": "a dziewczyna"
     },
     {
       "surface": "יפת",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordochaj"
+      "gloss": "Mordechai"
     },
     {
       "surface": "לו",
@@ -109,6 +109,6 @@
       "gloss": "za córkę"
     }
   ],
-  "timestamp": "2026-08-25T02:34:24.522812953Z",
+  "timestamp": "2026-08-25T06:21:23.069758537Z",
   "model": "glm-5.3"
 }

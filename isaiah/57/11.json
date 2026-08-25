@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 57,
-  "translation": "I ⟨את⟩ kogo się lękałaś i bałaś, że kłamałaś, a mnie nie pamiętałaś, nie wzięłaś tego do serca? Czyż nie ja milczę — i to od dawna — a mnie się nie boisz?",
+  "translation": "A ⟨את⟩ kogo się dręczyłaś i bałaś, że kłamiesz, a ⟨את⟩ mnie nie pamiętałaś, nie wzięłaś na serce twoje? Czyż nie ja milczę i od wieków — a ⟨את⟩ mnie się nie boisz?",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "דאגת",
-      "gloss": "się lękałaś"
+      "gloss": "dręczyłaś się"
     },
     {
       "surface": "ותיראי",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "תכזבי",
-      "gloss": "kłamałaś"
+      "gloss": "kłamiesz"
     },
     {
       "surface": "ואותי",
-      "gloss": "⟨את⟩",
+      "gloss": "a ⟨את⟩ mnie",
       "marks": "mnie"
     },
     {
@@ -55,11 +55,11 @@
     },
     {
       "surface": "על",
-      "gloss": "do"
+      "gloss": "na"
     },
     {
       "surface": "לבך",
-      "gloss": "serca"
+      "gloss": "serce twoje"
     },
     {
       "surface": "הלא",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "ומעלם",
-      "gloss": "i to od dawna"
+      "gloss": "i od wieków"
     },
     {
       "surface": "ואותי",
-      "gloss": "⟨את⟩",
+      "gloss": "a ⟨את⟩ mnie",
       "marks": "mnie"
     },
     {
@@ -88,9 +88,9 @@
     },
     {
       "surface": "תיראי",
-      "gloss": "się boisz"
+      "gloss": "bosisz się"
     }
   ],
-  "timestamp": "2026-08-25T00:37:07.023768170Z",
+  "timestamp": "2026-08-25T06:07:03.786313143Z",
   "model": "glm-5.3"
 }

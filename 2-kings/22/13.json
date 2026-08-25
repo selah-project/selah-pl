@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Idźcie, pytajcie Jahwe za mnie i za lud i za cały Jehuda ⟨dotycząco⟩ słów księgi tej znalezionej, bo wielki ⟨jest⟩ gniew Jahwe, który zapłonął przeciw nam za to, że nie słuchali nasi ojcowie słów księgi tej, by czynić według wszystkiego, co napisano o nas.",
+  "translation": "Idźcie, pytajcie Jahwe ⟨za⟩ mnie i ⟨za⟩ lud, i ⟨za⟩ cały Jehudę, względem słów tej księgi, która została znaleziona, ta; bo wielka ⟨jest⟩ zapalczywość Jahwe, która rozpaliła się przeciwko nam, dlatego że nie słuchali nasi ojcowie słów tej księgi, żeby czynić według wszystkiego, co napisano względem nas.",
   "tokens": [
     {
       "surface": "לכו",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Jehudę"
     },
     {
       "surface": "על",
-      "gloss": "dotycząco"
+      "gloss": "względem"
     },
     {
       "surface": "דברי",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "הספר",
-      "gloss": "księgi"
+      "gloss": "tej księgi"
     },
     {
       "surface": "הנמצא",
-      "gloss": "znalezionej"
+      "gloss": "która została znaleziona"
     },
     {
       "surface": "הזה",
-      "gloss": "tej"
+      "gloss": "ta"
     },
     {
       "surface": "כי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "wielki"
+      "gloss": "wielka"
     },
     {
       "surface": "חמת",
-      "gloss": "gniew"
+      "gloss": "zapalczywość"
     },
     {
       "surface": "יהוה",
@@ -86,27 +86,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "która"
     },
     {
       "surface": "היא",
-      "gloss": "⟨on⟩"
+      "gloss": "⟨ona⟩"
     },
     {
       "surface": "נצתה",
-      "gloss": "zapłonął"
+      "gloss": "rozpaliła się"
     },
     {
       "surface": "בנו",
-      "gloss": "przeciw nam"
+      "gloss": "przeciwko nam"
     },
     {
       "surface": "על",
-      "gloss": "za"
+      "gloss": "dlatego że"
     },
     {
       "surface": "אשר",
-      "gloss": "to, że"
+      "gloss": "⟨że⟩"
     },
     {
       "surface": "לא",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "względem"
     },
     {
       "surface": "דברי",
@@ -130,7 +130,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "księgi"
+      "gloss": "tej księgi"
     },
     {
       "surface": "הזה",
@@ -138,7 +138,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "by czynić"
+      "gloss": "żeby czynić"
     },
     {
       "surface": "ככל",
@@ -150,9 +150,9 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "o nas"
+      "gloss": "względem nas"
     }
   ],
-  "timestamp": "2026-08-25T00:17:00.325514471Z",
+  "timestamp": "2026-08-25T06:03:59.207139591Z",
   "model": "glm-5.3"
 }

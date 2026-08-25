@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli mężczyzna poświęci dla Jahwe część pola swojej posiadłości, to twoja wycena ⟨będzie⟩ według jego zasiewu: zasiew chomora jęczmienia za pięćdziesiąt sykli srebra.",
+  "translation": "A jeśli z pola swojej posiadłości poświęci człowiek dla Jahwe, to wycena twoja będzie według jego zasiewu: zasiew chomeru jęczmienia za pięćdziesiąt sykli srebra.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משדה",
-      "gloss": "część pola"
+      "gloss": "z pola"
     },
     {
       "surface": "אחזתו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mężczyzna"
+      "gloss": "człowiek"
     },
     {
       "surface": "ליהוה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "to będzie"
+      "gloss": "i będzie"
     },
     {
       "surface": "ערכך",
-      "gloss": "twoja wycena"
+      "gloss": "wycena twoja"
     },
     {
       "surface": "לפי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "חמר",
-      "gloss": "chomora"
+      "gloss": "chomeru"
     },
     {
       "surface": "שערים",
@@ -72,6 +72,6 @@
       "gloss": "srebra"
     }
   ],
-  "timestamp": "2026-08-24T22:49:53.772156093Z",
+  "timestamp": "2026-08-25T06:28:56.226680600Z",
   "model": "glm-5.3"
 }

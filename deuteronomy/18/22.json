@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 18,
-  "translation": "To, co powie prorok w imieniu Jahwe, a słowo ⟨nie⟩ stanie się i nie nadejdzie — to jest ⟨to⟩ słowo, którego nie mówił Jahwe; zuchwalstwem mówił to prorok; nie bój się go.",
+  "translation": "Gdy prorok mówi w imieniu Jahwe, a słowo się nie spełni i nie nastąpi — to ⟨jest⟩ słowo, którego nie mówił Jahwe; w zarozumiałości mówił je prorok — nie bój się go.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "gdy"
     },
     {
       "surface": "ידבר",
-      "gloss": "powie"
+      "gloss": "mówi"
     },
     {
       "surface": "הנביא",
@@ -28,12 +28,12 @@
       "gloss": "Jahwe"
     },
     {
-      "surface": "וloא",
-      "gloss": "a"
+      "surface": "ולא",
+      "gloss": "a nie"
     },
     {
       "surface": "יהיה",
-      "gloss": "stanie się"
+      "gloss": "się spełni"
     },
     {
       "surface": "הדבר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "nadejdzie"
+      "gloss": "nastąpi"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "to"
     },
     {
       "surface": "הדבר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "בזדון",
-      "gloss": "zuchwalstwem"
+      "gloss": "w zarozumiałości"
     },
     {
       "surface": "דברו",
@@ -96,6 +96,6 @@
       "gloss": "go"
     }
   ],
-  "timestamp": "2026-08-24T23:09:49.435011072Z",
+  "timestamp": "2026-08-25T06:29:07.008007939Z",
   "model": "glm-5.3"
 }

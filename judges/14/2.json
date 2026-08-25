@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I wstąpił, i oznajmił ojcu swemu i matce swojej, i rzekł: kobietę ujrzałem w Timnie spośród cór Pelisztów; a teraz ⟨את⟩ weźcie ⟨את⟩ niej dla mnie za żonę.",
+  "translation": "I wstąpił, i opowiedział ojcu swojemu i matce swojej, i rzekł: Kobietę widziałem w Timnie, spośród córek Pelisztów; a teraz weźcie ⟨את⟩ nią dla mnie za żonę.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -13,15 +13,11 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "i oznajmił"
+      "gloss": "i opowiedział"
     },
     {
       "surface": "לאביו",
-      "gloss": "ojcu swemu"
-    },
-    {
-      "surface": "וירא",
-      "gloss": ""
+      "gloss": "ojcu swojemu"
     },
     {
       "surface": "ולאמו",
@@ -33,11 +29,11 @@
     },
     {
       "surface": "אשה",
-      "gloss": "kobietę"
+      "gloss": "Kobietę"
     },
     {
       "surface": "ראיתי",
-      "gloss": "ujrzałem"
+      "gloss": "widziałem"
     },
     {
       "surface": "בתמנתה",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "מבנות",
-      "gloss": "spośród cór"
+      "gloss": "spośród córek"
     },
     {
       "surface": "פלשתים",
@@ -57,12 +53,12 @@
     },
     {
       "surface": "קחו",
-      "gloss": "⟨את⟩ weźcie"
+      "gloss": "weźcie"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "nią (kobietę)"
+      "marks": "nią"
     },
     {
       "surface": "לי",
@@ -73,6 +69,6 @@
       "gloss": "za żonę"
     }
   ],
-  "timestamp": "2026-08-24T23:29:38.654003894Z",
+  "timestamp": "2026-08-25T05:54:22.628930294Z",
   "model": "glm-5.3"
 }

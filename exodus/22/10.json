@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "przysięga Jahwe będzie między nimi dwoma, ⟨czy⟩ nie wyciągnął swej ręki na majątek bliźniego swego; i przyjmie to właściciel jego, a nie naprawi szkody.",
+  "translation": "Przysięga Jahwe będzie między nimi dwoma, czy nie wyciągnął swej ręki na własność bliźniego; właściciel ją przyjmie i nie będzie spłacał.",
   "tokens": [
     {
       "surface": "שבעת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨czy⟩"
+      "gloss": "czy"
     },
     {
       "surface": "לא",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ידו",
-      "gloss": "swej ręki"
+      "gloss": "swą rękę"
     },
     {
       "surface": "במלאכת",
-      "gloss": "na majątek"
+      "gloss": "na własność"
     },
     {
       "surface": "רעהו",
-      "gloss": "bliźniego swego"
+      "gloss": "bliźniego"
     },
     {
       "surface": "ולקח",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "בעליו",
-      "gloss": "właściciel jego"
+      "gloss": "właściciel"
     },
     {
       "surface": "ולא",
-      "gloss": "a nie"
+      "gloss": "i nie"
     },
     {
       "surface": "ישלם",
-      "gloss": "naprawi szkody"
+      "gloss": "będzie spłacał"
     }
   ],
-  "timestamp": "2026-08-24T22:32:01.111426187Z",
+  "timestamp": "2026-08-25T05:41:51.233784668Z",
   "model": "glm-5.3"
 }

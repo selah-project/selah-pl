@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "pl",
   "chapter": 10,
-  "translation": "Jeśli zgrzeszyłem, to pilnujesz mnie, a od mojej winy nie oczyścisz mnie.",
+  "translation": "Jeśli zgrzeszyłem, to mnie pilnujesz i od mojej winy mnie nie oczyścisz.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Jeśli"
+      "gloss": "jeśli"
     },
     {
       "surface": "חטאתי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ושמרתני",
-      "gloss": "pilnujesz mnie"
+      "gloss": "to mnie pilnujesz"
     },
     {
       "surface": "ומעוני",
-      "gloss": "a od mojej winy"
+      "gloss": "i od mojej winy"
     },
     {
       "surface": "לא",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "תנקני",
-      "gloss": "oczyścisz mnie"
+      "gloss": "mnie oczyścisz"
     }
   ],
-  "timestamp": "2026-08-25T03:48:19.566877031Z",
+  "timestamp": "2026-08-25T06:18:30.343100686Z",
   "model": "glm-5.3"
 }

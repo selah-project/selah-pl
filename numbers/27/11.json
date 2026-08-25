@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli nie ma braci dla jego ojca, to dacie ⟨את⟩ jego dziedzictwo jego krewnemu, bliskiemu jemu z jego rodziny, i odziedziczy ⟨את⟩ nią; i będzie to synom Israela ustawą prawa, jak przykazał Jahwe ⟨את⟩ Mosze.",
+  "translation": "A jeśli bracia nie ma dla jego ojca, to dacie ⟨את⟩ jego dziedzictwo jego krewnemu, bliskiemu mu z jego rodziny, i odziedziczy ⟨את⟩ ją; i będzie synom Jisraela ⟨to⟩ ustawą prawa, jak przykazał Jahwe ⟨את⟩ Mosze.",
   "tokens": [
     {
       "surface": "ואם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "to dacie"
+      "gloss": "dacie"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "jemu"
+      "gloss": "mu"
     },
     {
       "surface": "ממשפחתו",
@@ -59,7 +59,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "nią"
+      "marks": "ją (dziedzictwo)"
     },
     {
       "surface": "והיתה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "לחקת",
@@ -103,6 +103,6 @@
       "gloss": "Mosze"
     }
   ],
-  "timestamp": "2026-08-24T22:59:53.694326407Z",
+  "timestamp": "2026-08-25T05:48:28.801539310Z",
   "model": "glm-5.3"
 }

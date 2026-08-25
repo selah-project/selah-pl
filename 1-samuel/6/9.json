@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I zobaczycie: jeśli w stronę swojej granicy wzniesie się ku Beit-Szemesz — On uczynił nam ⟨את⟩ to wielkie zło; a jeśli nie, poznamy, że nie Jego ręka dotknęła nas: przypadek to był nam.",
+  "translation": "I ujrzycie: jeśli drogą swojej granicy wstąpi do Bet-Szemesz, ⟨to⟩ on uczynił nam ⟨את⟩ to wielkie zło; a jeśli nie — poznamy, że nie jego ręka dotknęła nas: wypadek ⟨to⟩ zdarzył się nam.",
   "tokens": [
     {
       "surface": "וראיתם",
-      "gloss": "i zobaczycie"
+      "gloss": "i ujrzycie"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "w stronę"
+      "gloss": "drogą"
     },
     {
       "surface": "גבולו",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "wzniesie się"
+      "gloss": "wstąpi"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Bet"
     },
     {
       "surface": "שמש",
-      "gloss": "Szemesz"
+      "gloss": "-Szemesz"
     },
     {
       "surface": "הוא",
-      "gloss": "On"
+      "gloss": "on"
     },
     {
       "surface": "עשה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "ידו",
-      "gloss": "Jego ręka"
+      "gloss": "jego ręka"
     },
     {
       "surface": "נגעה",
@@ -98,21 +98,21 @@
     },
     {
       "surface": "מקרה",
-      "gloss": "przypadek"
+      "gloss": "wypadek"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "היה",
-      "gloss": "był"
+      "gloss": "zdarzył się"
     },
     {
       "surface": "לנו",
       "gloss": "nam"
     }
   ],
-  "timestamp": "2026-08-24T23:34:55.124604682Z",
+  "timestamp": "2026-08-25T05:55:40.488312582Z",
   "model": "glm-5.3"
 }

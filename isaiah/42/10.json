@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 42,
-  "translation": "Śpiewajcie Jahwe pieśń nową, chwałę Jego od krańca ziemi — ⟨wy⟩, którzy schodzicie na morze i to, co je wypełnia, wyspy i mieszkańcy ich!",
+  "translation": "Śpiewajcie Jahwe pieśń nową, chwałę Jego ⟨od⟩ krańca ziemi, zstępujący ⟨w⟩ morze i wszystko co w nim, wyspy i mieszkańcy ich.",
   "tokens": [
     {
       "surface": "שירו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "od krańca"
+      "gloss": "⟨od⟩ krańca"
     },
     {
       "surface": "הארץ",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "יורדי",
-      "gloss": "którzy schodzicie na"
+      "gloss": "zstępujący"
     },
     {
       "surface": "הים",
-      "gloss": "morze"
+      "gloss": "⟨w⟩ morze"
     },
     {
       "surface": "ומלאו",
-      "gloss": "i to, co je wypełnia"
+      "gloss": "i wszystko co w nim"
     },
     {
       "surface": "איים",
@@ -56,6 +56,6 @@
       "gloss": "i mieszkańcy ich"
     }
   ],
-  "timestamp": "2026-08-25T00:31:23.893580496Z",
+  "timestamp": "2026-08-25T06:05:57.653474988Z",
   "model": "glm-5.3"
 }

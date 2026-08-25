@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "pl",
   "chapter": 42,
-  "translation": "Kto to jest, ten który zasłania radę bez poznania? Wszak mówiłem, a nie rozumiem; rzeczy zbyt przedziwne dla mnie, a których nie znałem.",
+  "translation": "Kto ⟨to⟩ skrywa radę bez poznania? Dlatego mówiłem, a nie rozumiem; rzeczy zdumiewające ⟨są⟩ dla mnie, a nie poznam.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "kto"
+      "gloss": "Kto"
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "מעלים",
-      "gloss": "zasłania"
+      "gloss": "skrywa"
     },
     {
       "surface": "עצה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לכן",
-      "gloss": "wszak"
+      "gloss": "Dlatego"
     },
     {
       "surface": "הגדתי",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "נפלאות",
-      "gloss": "rzeczy przedziwne"
+      "gloss": "rzeczy zdumiewające"
     },
     {
       "surface": "ממני",
-      "gloss": "dla mnie \/ ode mnie"
+      "gloss": "dla mnie"
     },
     {
       "surface": "ולא",
-      "gloss": "a których nie"
+      "gloss": "a nie"
     },
     {
       "surface": "אדע",
-      "gloss": "znałem"
+      "gloss": "poznam"
     }
   ],
-  "timestamp": "2026-08-25T02:25:34.860069282Z",
+  "timestamp": "2026-08-25T06:19:28.118691244Z",
   "model": "glm-5.3"
 }

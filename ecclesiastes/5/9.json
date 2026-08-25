@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Miłujący srebro nie nasyca się srebrem, a kto miłuje bogactwo — nie ⟨przychodzi⟩ ⟨dochód⟩; także to to jest hebel.",
+  "translation": "Miłujący srebro nie nasyci się srebrem, i kto miłuje obfitość ⟨z⟩ plonem ⟨nie⟩ — także to to jest marnością.",
   "tokens": [
     {
       "surface": "אהב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישבע",
-      "gloss": "nasyca się"
+      "gloss": "nasyci się"
     },
     {
       "surface": "כסף",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומי",
-      "gloss": "a kto"
+      "gloss": "i kto"
     },
     {
       "surface": "אהב",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בהמון",
-      "gloss": "bogactwo"
+      "gloss": "obfitość"
     },
     {
       "surface": "לא",
-      "gloss": "nie"
+      "gloss": "⟨nie⟩"
     },
     {
       "surface": "תבואה",
-      "gloss": "⟨przychodzi⟩ ⟨dochód⟩"
+      "gloss": "plonem"
     },
     {
       "surface": "גם",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "הבל",
-      "gloss": "hebel"
+      "gloss": "marnością"
     }
   ],
-  "timestamp": "2026-08-25T03:50:45.526527151Z",
+  "timestamp": "2026-08-25T06:20:34.348718548Z",
   "model": "glm-5.3"
 }

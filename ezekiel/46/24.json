@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 46,
-  "translation": "I rzekł do mnie: To są domy gotujących, w których będą tam gotować słudzy domu ⟨את⟩ ofiarę ludu.",
+  "translation": "I rzekł do mnie: To ⟨jest⟩ ⟨את⟩ dom gotujących, gdzie będą gotować tam słudzy domu ofiarę ludu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "to są"
+      "gloss": "to"
     },
     {
       "surface": "בית",
-      "gloss": "domy"
+      "gloss": "dom"
     },
     {
       "surface": "המבשלים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "w których"
+      "gloss": "gdzie"
     },
     {
       "surface": "יבשלו",
@@ -61,6 +61,6 @@
       "gloss": "ludu"
     }
   ],
-  "timestamp": "2026-08-25T01:28:32.658770387Z",
+  "timestamp": "2026-08-25T06:12:48.219682717Z",
   "model": "glm-5.3"
 }

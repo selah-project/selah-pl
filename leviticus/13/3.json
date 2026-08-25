@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I zobaczy kapłan ⟨את⟩ zarazę na skórze ciała, a włos w zarazie zmienił się na biały i wygląd zarazy jest głębszy od skóry jego ciała — zaraza cery to ⟨jest⟩; i zobaczy go kapłan i uzna go za nieczystego ⟨את⟩.",
+  "translation": "I widzi kapłan ⟨את⟩ plagę na skórze ciała, a włos w plage obrócił się w biały, i wygląd plagi ⟨jest⟩ głębszy od skóry ciała jego — plaga caryat ⟨to⟩ jest; i widzi go kapłan i ogłasza go nieczystym ⟨את⟩ niego.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "i zobaczy"
+      "gloss": "i widzi"
     },
     {
       "surface": "הכהן",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zarazę"
+      "marks": "plagę"
     },
     {
       "surface": "הנגע",
-      "gloss": "zaraza"
+      "gloss": "plaga"
     },
     {
       "surface": "בעור",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "בנגע",
-      "gloss": "w zarazie"
+      "gloss": "w plage"
     },
     {
       "surface": "הפך",
-      "gloss": "zmienił się"
+      "gloss": "obrócił się"
     },
     {
       "surface": "לבן",
-      "gloss": "na biały"
+      "gloss": "w biały"
     },
     {
       "surface": "ומראה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "zarazy"
+      "gloss": "plagi"
     },
     {
       "surface": "עמק",
-      "gloss": "jest głębszy"
+      "gloss": "głębszy"
     },
     {
       "surface": "מעור",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "jego ciała"
+      "gloss": "ciała jego"
     },
     {
       "surface": "נגע",
-      "gloss": "zaraza"
+      "gloss": "plaga"
     },
     {
       "surface": "צרעת",
-      "gloss": "cery"
+      "gloss": "caryat"
     },
     {
       "surface": "הוא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "וראהו",
-      "gloss": "i zobaczy go"
+      "gloss": "i widzi go"
     },
     {
       "surface": "הכהן",
@@ -90,13 +90,14 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "i uzna za nieczystego"
+      "gloss": "i ogłasza nieczystym"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go"
+      "gloss": "⟨את⟩ go",
+      "marks": "jego"
     }
   ],
-  "timestamp": "2026-08-24T22:44:21.043016179Z",
+  "timestamp": "2026-08-25T06:33:38.746521979Z",
   "model": "glm-5.3"
 }

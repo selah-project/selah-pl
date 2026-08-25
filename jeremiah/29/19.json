@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Za to, że nie słuchali moich słów — wyrocznia Jahwe — które posyłałem do nich przez moich sługi proroków, wstając rano i posyłając ⟨את⟩, a wy nie słuchaliście — wyrocznia Jahwe.",
+  "translation": "Dlatego, że nie słuchali moich słów — wyrocznia Jahwe — które posłałem do nich przez ⟨את⟩ moich sług, proroków, posyłając ich wcześnie i ciągle, a wy nie słuchaliście — wyrocznia Jahwe.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "za to"
+      "gloss": "dlatego, że"
     },
     {
       "surface": "אשר",
-      "gloss": "że"
+      "gloss": "którzy"
     },
     {
       "surface": "לא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "posyłałem"
+      "gloss": "posłałem"
     },
     {
       "surface": "אליהם",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sługi prorocy"
+      "marks": "moich sług, proroków"
     },
     {
       "surface": "עבדי",
-      "gloss": "moich sługi"
+      "gloss": "moich sług"
     },
     {
       "surface": "הנבאים",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "השכם",
-      "gloss": "wstając rano"
+      "gloss": "posyłając wcześnie"
     },
     {
       "surface": "ושלח",
-      "gloss": "i posyłając"
+      "gloss": "i ciągle"
     },
     {
       "surface": "ולא",
@@ -89,6 +89,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T00:55:01.793363453Z",
+  "timestamp": "2026-08-25T06:08:48.636352344Z",
   "model": "glm-5.3"
 }

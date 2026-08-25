@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 12,
-  "translation": "A jeśli dom będzie za mały na jagnię, weźmie on i jego sąsiad, bliski jego domowi, według liczby nefaszot — każdy według tego, ile zje, doliczycie na ⟨to⟩ jagnię.",
+  "translation": "A jeśli dom ⟨będzie⟩ za mały, by ⟨być⟩ od baranka, weźmie on i jego sąsiad, najbliższy jego domowi, według liczby ⟨osób⟩; każdy według swego jedzenia odliczycie na ⟨את⟩ baranka.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ימעט",
-      "gloss": "będzie za mały"
+      "gloss": "za mały"
     },
     {
       "surface": "הבית",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מהית",
-      "gloss": "na"
+      "gloss": "by ⟨być⟩"
     },
     {
       "surface": "משה",
-      "gloss": "jagnię"
+      "gloss": "od baranka"
     },
     {
       "surface": "ולקח",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "bliski"
+      "gloss": "najbliższy"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "do"
     },
     {
       "surface": "ביתו",
-      "gloss": "jego domowi"
+      "gloss": "jego domu"
     },
     {
       "surface": "במכסת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נפשת",
-      "gloss": "nefaszot (osób)"
+      "gloss": "osób"
     },
     {
       "surface": "איש",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אכלו",
-      "gloss": "tego, ile zje"
+      "gloss": "swego jedzenia"
     },
     {
       "surface": "תכסו",
-      "gloss": "doliczycie"
+      "gloss": "odliczycie"
     },
     {
       "surface": "על",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "השה",
-      "gloss": "jagnię"
+      "gloss": "baranka"
     }
   ],
-  "timestamp": "2026-08-24T22:28:46.594721764Z",
+  "timestamp": "2026-08-25T05:41:08.245254658Z",
   "model": "glm-5.3"
 }

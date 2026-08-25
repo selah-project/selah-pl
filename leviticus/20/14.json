@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 20,
-  "translation": "A mężczyzna, który weźmie ⟨את⟩ kobietę i ⟨את⟩ jej matkę — to nikczemność ⟨jest⟩; w ogniu spalą jego i je, i nie będzie nikczemności pośród was.",
+  "translation": "A mężczyzna, który weźmie ⟨את⟩ kobietę i ⟨את⟩ jej matkę — występek to ⟨jest⟩; w ogniu spalą ⟨את⟩ jego ⟨את⟩ i je, i nie będzie występku pośród was.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "jej matkę"
     },
     {
@@ -39,11 +39,11 @@
     },
     {
       "surface": "זמה",
-      "gloss": "nikczemność"
+      "gloss": "występek"
     },
     {
       "surface": "הוא",
-      "gloss": "to ⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "באש",
@@ -55,13 +55,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jego"
+      "gloss": "⟨את⟩ jego"
     },
     {
       "surface": "ואתהן",
-      "gloss": "⟨את⟩",
-      "marks": "je"
+      "gloss": "⟨את⟩ i je"
     },
     {
       "surface": "ולא",
@@ -73,13 +71,13 @@
     },
     {
       "surface": "זמה",
-      "gloss": "nikczemności"
+      "gloss": "występku"
     },
     {
       "surface": "בתוככם",
       "gloss": "pośród was"
     }
   ],
-  "timestamp": "2026-08-24T22:47:29.248533040Z",
+  "timestamp": "2026-08-25T05:45:17.271051822Z",
   "model": "glm-5.3"
 }

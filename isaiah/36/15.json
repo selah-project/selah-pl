@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 36,
-  "translation": "I niech was Chizkijahu ⟨את⟩ nie poucza ufności w Jahwe, mówiąc: Wyratuje, wyratuje nas Jahwe — nie zostanie wydana ta ⟨the⟩־miasto w rękę króla Aszszura.",
+  "translation": "I niech nie skłania ⟨את⟩ was Chizkijahu do ufności w Jahwe, mówiąc: Wyzwoli, wyzwoli nas Jahwe; nie ⟨zostanie⟩dana ⟨את⟩ ta ⟨jest⟩ miasto to w rękę króla Aszszuru.",
   "tokens": [
     {
       "surface": "ואל",
@@ -13,12 +13,11 @@
     },
     {
       "surface": "יבטח",
-      "gloss": "poucza ufności"
+      "gloss": "skłania do ufności"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was",
-      "marks": "Chizkijahu — was"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "חזקיהו",
@@ -38,11 +37,11 @@
     },
     {
       "surface": "הצל",
-      "gloss": "wyratuje"
+      "gloss": "wyzwoli"
     },
     {
       "surface": "יצילנו",
-      "gloss": "wyratuje nas"
+      "gloss": "wyzwoli nas"
     },
     {
       "surface": "יהוה",
@@ -54,11 +53,11 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "zostanie wydana"
+      "gloss": "zostaniedana"
     },
     {
       "surface": "העיר",
-      "gloss": "to miasto"
+      "gloss": "miasto"
     },
     {
       "surface": "הזאת",
@@ -74,9 +73,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Aszszura"
+      "gloss": "Aszszuru"
     }
   ],
-  "timestamp": "2026-08-25T00:30:10.717755872Z",
+  "timestamp": "2026-08-25T06:05:39.308471308Z",
   "model": "glm-5.3"
 }

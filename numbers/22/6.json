@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A teraz przyjdźże, przeklnij mi ⟨את⟩ ⟨the⟩ lud ten, bo jest liczniejszy ode mnie; może zdołam go pokonać i wypędzić go z ziemi, gdyż wiem ⟨את⟩ to, kogo błogosławisz — błogosławiony, a kogo przeklinasz — przeklęty.",
+  "translation": "A teraz przyjdźże, przeklnij mi ⟨את⟩ ten lud, bo ⟨jest⟩ on mocniejszy ode mnie; może zdołam go pokonać i wypędzę go z tej ziemi, bo wiem ⟨את⟩ to, że kogo błogosławisz — błogosławiony ⟨jest⟩, a kogo przeklinasz — przeklęty ⟨jest⟩.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "a teraz"
+      "gloss": "A teraz"
     },
     {
       "surface": "לכה",
-      "gloss": "przyjdź"
+      "gloss": "przyjdźże"
     },
     {
       "surface": "נא",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lud ten"
+      "marks": "ten lud"
     },
     {
       "surface": "העם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עצום",
-      "gloss": "liczniejszy"
+      "gloss": "mocniejszy"
     },
     {
       "surface": "הוא",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "bo"
     },
     {
       "surface": "ידעתי",
@@ -95,11 +95,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, kogo błogosławisz"
+      "marks": "to, że kogo błogosławisz"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "że kogo"
     },
     {
       "surface": "תברך",
@@ -111,7 +111,7 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "a co"
+      "gloss": "a kogo"
     },
     {
       "surface": "תאר",
@@ -122,6 +122,6 @@
       "gloss": "przeklęty"
     }
   ],
-  "timestamp": "2026-08-24T22:58:11.904103442Z",
+  "timestamp": "2026-08-25T06:29:29.568451292Z",
   "model": "glm-5.3"
 }

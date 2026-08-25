@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Bo jest człowiek, którego trud ⟨jest⟩ w mądrości, i w poznaniu, i w zręczności — a człowiekowi, który się w tym nie natrudził, da ⟨on⟩ to jako jego część. Także i to ⟨jest⟩ marność i wielkie zło.",
+  "translation": "Bo jest człowiek, którego trud ⟨jest⟩ w mądrości, i w poznaniu, i w zręczności — a człowiekowi, który się w to nie natrudził, da on jego dział. Także to ⟨jest⟩ marność i zło wielkie.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שעמלו",
-      "gloss": "którego trud"
+      "gloss": "którego trudy"
     },
     {
       "surface": "בחכמה",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "עמל",
-      "gloss": "się natrudził"
+      "gloss": "natrudził się"
     },
     {
       "surface": "בו",
-      "gloss": "w tym"
+      "gloss": "w to"
     },
     {
       "surface": "יתננו",
-      "gloss": "da to"
+      "gloss": "da on"
     },
     {
       "surface": "חלקו",
-      "gloss": "jego część"
+      "gloss": "jego dział"
     },
     {
       "surface": "גם",
-      "gloss": "także"
+      "gloss": "Także"
     },
     {
       "surface": "זה",
@@ -80,6 +80,6 @@
       "gloss": "wielkie"
     }
   ],
-  "timestamp": "2026-08-25T02:31:13.367823681Z",
+  "timestamp": "2026-08-25T06:36:41.843747368Z",
   "model": "glm-5.3"
 }

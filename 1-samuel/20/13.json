@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Tak niech Jahwe uczyni Jonatanowi i tak niech doda, jeśli ⟨את⟩ zło na ciebie będzie dobre mojemu ojcu — to odkryję ⟨את⟩ twoje ucho i wyślę cię, i pójdziesz w pokoju, i niech Jahwe będzie z tobą, jak był z moim ojcem.",
+  "translation": "Tak niech Jahwe uczyni Jonatanowi, i tak niech doda: jeśli mój ojciec uzna za dobre ⟨את⟩ zło względem ciebie, to ja odkryję ⟨את⟩ twoje ucho i wyślę cię, a ty pójdziesz w pokoju; i niech Jahwe będzie z tobą, jak był z moim ojcem.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Tak"
+      "gloss": "tak"
     },
     {
       "surface": "יעשה",
-      "gloss": "uczyni"
+      "gloss": "niech uczyni"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יסיף",
-      "gloss": "doda"
+      "gloss": "niech doda"
     },
     {
       "surface": "כי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "będzie dobre"
+      "gloss": "uzna za dobre"
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "względem"
     },
     {
       "surface": "אבי",
-      "gloss": "mojemu ojcu"
+      "gloss": "mój ojciec"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "na ciebie"
+      "gloss": "ciebie"
     },
     {
       "surface": "וגליתי",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "והלכת",
-      "gloss": "i pójdziesz"
+      "gloss": "a pójdziesz"
     },
     {
       "surface": "לשלום",
@@ -114,6 +114,6 @@
       "gloss": "moim ojcem"
     }
   ],
-  "timestamp": "2026-08-24T23:40:50.278344868Z",
+  "timestamp": "2026-08-25T05:56:22.787899061Z",
   "model": "glm-5.3"
 }

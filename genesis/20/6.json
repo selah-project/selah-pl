@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I powiedział do niego Elohim we śnie: Również ja wiedziałem, że w niewinności twego serca uczyniłeś to, i powstrzymałem, również ja, ⟨את⟩ ciebie od zgrzeszenia mi; dlatego nie pozwoliłem ci dotknąć jej.",
+  "translation": "I powiedział do niego Elohim we śnie: również ja wiedziałem, że w prostocie twego serca uczyniłeś to, i wstrzymałem cię — również ja ⟨את⟩ ciebie — od zgrzeszenia przeciw mnie; dlatego nie pozwoliłem ci dotknąć jej.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בתם",
-      "gloss": "w niewinności"
+      "gloss": "w prostocie"
     },
     {
       "surface": "לבבך",
-      "gloss": "twego serca"
+      "gloss": "serca twego"
     },
     {
       "surface": "עשית",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ואחשך",
-      "gloss": "i powstrzymałem"
+      "gloss": "i wstrzymałem cię"
     },
     {
       "surface": "גם",
@@ -70,7 +70,7 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "ciebie"
+      "marks": "ciebie (od zgrzeszenia)"
     },
     {
       "surface": "מחטו",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "mi"
+      "gloss": "przeciw mnie"
     },
     {
       "surface": "על",
-      "gloss": "dlatego (na)"
+      "gloss": "dlatego"
     },
     {
       "surface": "כן",
-      "gloss": "dlatego (to)"
+      "gloss": "przeto"
     },
     {
       "surface": "לא",
@@ -105,6 +105,6 @@
       "gloss": "jej"
     }
   ],
-  "timestamp": "2026-08-24T22:15:28.226616735Z",
+  "timestamp": "2026-08-25T05:38:06.481168717Z",
   "model": "glm-5.3"
 }

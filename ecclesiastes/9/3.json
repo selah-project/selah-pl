@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 9,
-  "translation": "To ⟨jest⟩ zło we wszystkim, co się czyni pod słońcem: że jeden los ⟨jest⟩ dla wszystkich; i także serce synów ludzkich pełne ⟨jest⟩ zła i szaleństwa w ich sercu za ich życia, a po nim — do umarłych.",
+  "translation": "To ⟨jest⟩ zło we wszystkim, co zrobiono pod słońcem, że jeden los dla wszystkich, a także serce synów ludzkich ⟨jest⟩ pełne zła i szaleństwa w ich sercach za ich życia, a po nim ⟨idą⟩ do umarłych.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "רע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "się czyni"
+      "gloss": "zrobiono"
     },
     {
       "surface": "תחת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "i także"
+      "gloss": "a także"
     },
     {
       "surface": "לב",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בלבבם",
-      "gloss": "w ich sercu"
+      "gloss": "w ich sercach"
     },
     {
       "surface": "בחייהם",
@@ -100,6 +100,6 @@
       "gloss": "umarłych"
     }
   ],
-  "timestamp": "2026-08-25T03:51:18.026816924Z",
+  "timestamp": "2026-08-25T06:21:16.687132546Z",
   "model": "glm-5.3"
 }

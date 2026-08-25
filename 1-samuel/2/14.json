@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "i uderzał w kocioł, albo w garniec, albo w miskę, albo w naczynie; wszystko, co wyciągnęły widły, brał kapłan ⟨przez to⟩. Tak czynili wszystkim Izraelitom przychodzącym tam, do Szilo.",
+  "translation": "i uderzał ⟨w⟩ kadź, albo w garniec, albo w rundlę, albo w wazę; wszystko, co wyniósł widelec, brał kapłan ⟨dla siebie⟩; tak czyniono całemu Izraelowi, przychodzącym tam, w Szilo.",
   "tokens": [
     {
       "surface": "והכה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בכיור",
-      "gloss": "w kocioł"
+      "gloss": "⟨w⟩ kadź"
     },
     {
       "surface": "או",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בקלחת",
-      "gloss": "w miskę"
+      "gloss": "w rundlę"
     },
     {
       "surface": "או",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בפרור",
-      "gloss": "w naczynie"
+      "gloss": "w wazę"
     },
     {
       "surface": "כל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "wyciągnęły"
+      "gloss": "wyniósł"
     },
     {
       "surface": "המזלג",
-      "gloss": "widły"
+      "gloss": "widelec"
     },
     {
       "surface": "יקח",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "⟨przez to⟩"
+      "gloss": "⟨dla siebie⟩"
     },
     {
       "surface": "ככה",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "czynili"
+      "gloss": "czyniono"
     },
     {
       "surface": "לכל",
-      "gloss": "wszystkim"
+      "gloss": "całemu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraelitom"
+      "gloss": "Izraelowi"
     },
     {
       "surface": "הבאים",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "בשלה",
-      "gloss": "do Szilo"
+      "gloss": "w Szilo"
     }
   ],
-  "timestamp": "2026-08-24T23:33:43.336697035Z",
+  "timestamp": "2026-08-25T05:55:07.576823090Z",
   "model": "glm-5.3"
 }

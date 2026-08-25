@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I stała się wam wizja wszystkiego jak słowa księgi zapieczętowanej, którą dają ⟨את⟩-nią temu, kto zna księgę, mówiąc: przeczytajże to; a on mówi: nie mogę, bo jest zapieczętowana.",
+  "translation": "I stała się dla was wizja tego wszystkiego jak słowa księgi zapieczętowanej, którą dadzą ⟨את⟩ temu, który zna księgę, mówiąc: Czytajże to; i on powie: Nie mogę, bo ⟨jest⟩ zapieczętkowana.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "I stała się"
+      "gloss": "i stała się"
     },
     {
       "surface": "לכם",
-      "gloss": "wam"
+      "gloss": "dla was"
     },
     {
       "surface": "חזות",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הכל",
-      "gloss": "wszystkiego"
+      "gloss": "tego wszystkiego"
     },
     {
       "surface": "כדברי",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "dają"
+      "gloss": "dadzą"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-nią",
-      "marks": "tę (księgę)"
+      "gloss": "⟨את⟩",
+      "marks": "temu, który zna księgę"
     },
     {
       "surface": "אל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "יודע",
-      "gloss": "kto zna"
+      "gloss": "znającemu"
     },
     {
       "surface": "הספר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "przeczytaj"
+      "gloss": "czytaj"
     },
     {
       "surface": "נא",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "a on mówi"
+      "gloss": "i powie"
     },
     {
       "surface": "לא",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "חתום",
-      "gloss": "jest zapieczętowana"
+      "gloss": "zapieczętowana"
     },
     {
       "surface": "הוא",
-      "gloss": "ona"
+      "gloss": "⟨jest⟩"
     }
   ],
-  "timestamp": "2026-08-25T00:27:33.146891484Z",
+  "timestamp": "2026-08-25T06:05:21.319771345Z",
   "model": "glm-5.3"
 }

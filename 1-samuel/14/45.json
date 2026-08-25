@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I rzekł lud do Szaula: czy Jonatan umrze, który dokonał tego wielkiego wybawienia w Izraelu? Otęsknione! Żywy jest Jahwe, jeśli spadnie włoso z głowy jego na ziemię, bo z Elohim działał dnia tego. I wykupił lud ⟨את⟩ Jonatana i nie umarł.",
+  "translation": "I rzekł lud do Szaula: czy Jonatan ma umrzeć, ⟨ten⟩ który dokonał tego wielkiego wybawienia w Izraelu? Chalila! Na życie Jahwe — ani jeden włos z jego głowy nie spadnie na ziemię, bo z pomocą Elohim dokonał ⟨on⟩ tego dnia ⟨tego⟩. I wykupił lud ⟨את⟩ Jonatana, i nie umarł.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ימות",
-      "gloss": "umrze"
+      "gloss": "ma umrzeć"
     },
     {
       "surface": "אשר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "otęsknione"
+      "gloss": "Chalila!"
     },
     {
       "surface": "חי",
-      "gloss": "żywy"
+      "gloss": "na życie"
     },
     {
       "surface": "יהוה",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "משערת",
-      "gloss": "włoso"
+      "gloss": "ani jeden włos"
     },
     {
       "surface": "ראשו",
-      "gloss": "z głowy jego"
+      "gloss": "z jego głowy"
     },
     {
       "surface": "ארצה",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "z"
+      "gloss": "z pomocą"
     },
     {
       "surface": "אלהים",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "działał"
+      "gloss": "dokonał"
     },
     {
       "surface": "היום",
-      "gloss": "dnia"
+      "gloss": "tego dnia"
     },
     {
       "surface": "הזה",
@@ -137,6 +137,6 @@
       "gloss": "umarł"
     }
   ],
-  "timestamp": "2026-08-24T23:37:52.354612422Z",
+  "timestamp": "2026-08-25T05:56:17.258478935Z",
   "model": "glm-5.3"
 }

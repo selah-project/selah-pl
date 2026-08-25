@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekł Achitofel do Abszaloma: Wejdź do nałożnic twojego ojca, które zostawił, aby strzegły ⟨the⟩ domu, i usłyszy cały Iszrael, że znienawidziłeś ⟨את⟩ twojego ojca, i wzmocnią się ręce wszystkich, którzy ⟨את⟩ tobą.",
+  "translation": "I rzekł Achitofel do Abszaloma: Wejdź do nałożnic twego ojca, które zostawił, aby strzegły ⟨domu⟩; i usłyszy cały Jisraél, że zbrukałeś ⟨את⟩ twego ojca, i wzmocnią się ręce wszystkich, którzy są ⟨את⟩ tobą.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -20,7 +20,7 @@
       "gloss": "do"
     },
     {
-      "surface": "אבשלום",
+      "surface": "אבשלם",
       "gloss": "Abszaloma"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "twojego ojca"
+      "gloss": "twego ojca"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "domu"
+      "gloss": "⟨domu⟩"
     },
     {
       "surface": "ושמע",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszrael"
+      "gloss": "Jisraél"
     },
     {
       "surface": "כי",
@@ -73,16 +73,16 @@
     },
     {
       "surface": "נבאשת",
-      "gloss": "znienawidziłeś"
+      "gloss": "zbrukałeś"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twojego ojca"
+      "marks": "twego ojca"
     },
     {
       "surface": "אביך",
-      "gloss": "twojego ojca"
+      "gloss": "twego ojca"
     },
     {
       "surface": "וחזקו",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którzy"
+      "gloss": "którzy są"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ tobą"
     }
   ],
-  "timestamp": "2026-08-24T23:49:47.442270525Z",
+  "timestamp": "2026-08-25T05:58:07.891504074Z",
   "model": "glm-5.3"
 }

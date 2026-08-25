@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I wspomnisz, że niewolnikiem byłeś w ziemi Micrajim, i wykupił cię Jahwe, twój Elohim; dlatego ja nakazuję ci ⟨את⟩ to słowo dzisiaj.",
+  "translation": "I będziesz pamiętać, że byłeś niewolnikiem w ziemi Micrajim, i wykupił cię Jahwe, Elohim twój; dlatego Ja nakazuję ci ⟨את⟩ to słowo dzisiaj.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "i wspomnisz"
+      "gloss": "i będziesz pamiętać"
     },
     {
       "surface": "כי",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "twój Elohim"
+      "gloss": "Elohim twój"
     },
     {
       "surface": "על",
-      "gloss": "z tego"
+      "gloss": "z tego powodu"
     },
     {
       "surface": "כן",
-      "gloss": "powodu"
+      "gloss": "dlatego"
     },
     {
       "surface": "אנכי",
-      "gloss": "ja"
+      "gloss": "Ja"
     },
     {
       "surface": "מצוך",
@@ -77,6 +77,6 @@
       "gloss": "dzisiaj"
     }
   ],
-  "timestamp": "2026-08-24T23:08:42.898590343Z",
+  "timestamp": "2026-08-25T05:50:42.607454576Z",
   "model": "glm-5.3"
 }

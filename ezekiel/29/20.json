@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Jego zapłatę, którą wykonał w niej, dałem ⟨mu⟩ — ⟨את⟩ ziemię Micraim za to, że wykonali ⟨to⟩ dla Mnie — wyrocznia Adonai Jahwe.",
+  "translation": "Jego dzieło, które wykonał w niej, dałem mu ⟨את⟩ ziemię Micrajim, bo dla Mnie działali — wyrocznia Adonai Jahwe.",
   "tokens": [
     {
       "surface": "פעלתו",
-      "gloss": "Jego zapłatę"
+      "gloss": "Jego dzieło"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "które"
     },
     {
       "surface": "עבד",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨mu⟩"
+      "gloss": "mu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemię Micraim"
+      "marks": "ziemię Micrajim"
     },
     {
       "surface": "ארץ",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraim"
+      "gloss": "Micrajim"
     },
     {
       "surface": "אשר",
-      "gloss": "za to, że"
+      "gloss": "ponieważ"
     },
     {
       "surface": "עשו",
-      "gloss": "wykonali"
+      "gloss": "działali"
     },
     {
       "surface": "לי",
@@ -69,6 +69,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:22:11.554217147Z",
+  "timestamp": "2026-08-25T06:11:57.821263603Z",
   "model": "glm-5.3"
 }

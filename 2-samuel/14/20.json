@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "Aby obejść ⟨twarz⟩ sprawy, uczynił to twój sługa Joab ⟨את⟩ tę rzecz; a mój pan jest mądry, według mądrości posłańca Elohim, by znać ⟨את⟩ wszystko, co ⟨jest⟩ na ziemi.",
+  "translation": "Aby obrócić oblicze sprawy, uczynił sługa twój Joab ⟨את⟩ rzecz tę; a pan mój ⟨jest⟩ mądry, jak mądrość posłańca Elohim, by poznawać ⟨את⟩ wszystko, co ⟨jest⟩ na ziemi.",
   "tokens": [
     {
       "surface": "לבעבור",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "סבב",
-      "gloss": "obejść"
+      "gloss": "obrócić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twarz sprawy"
+      "marks": "oblicze sprawy"
     },
     {
       "surface": "פני",
-      "gloss": "twarz"
+      "gloss": "oblicze"
     },
     {
       "surface": "הדבר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "twój sługa"
+      "gloss": "sługa twój"
     },
     {
       "surface": "יואב",
@@ -43,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tę rzecz"
+      "marks": "rzecz tę"
     },
     {
       "surface": "הדבר",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "ואדני",
-      "gloss": "a mój pan"
+      "gloss": "a pan mój"
     },
     {
       "surface": "חכם",
-      "gloss": "jest mądry"
+      "gloss": "mądry"
     },
     {
       "surface": "כחכמת",
-      "gloss": "według mądrości"
+      "gloss": "jak mądrość"
     },
     {
       "surface": "מלאך",
@@ -75,12 +75,12 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "by znać"
+      "gloss": "by poznawać"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystko, co na ziemi"
+      "marks": "wszystko"
     },
     {
       "surface": "כל",
@@ -95,6 +95,6 @@
       "gloss": "na ziemi"
     }
   ],
-  "timestamp": "2026-08-24T23:51:03.713946559Z",
+  "timestamp": "2026-08-25T06:30:30.356710114Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Ponieważ Haman, syn Hamdaty, Agagczyk, ciemięrca wszystkich Jehudim, knuł przeciw Jehudim, aby ich wytracić, i rzucił Pur — to jest los — aby ich zmiażdżyć i wytracić.",
+  "translation": "Ponieważ Haman, syn Hamdaty, Agagczyk, nieprzyjaciel wszystkich Jehudim, obmyślił przeciw Jehudim, by ich wytracić, i rzucił Pur — to jest los — by ich zmiażdżyć i wytracić.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צרר",
-      "gloss": "ciemięrca"
+      "gloss": "nieprzyjaciel"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "חשב",
-      "gloss": "knuł"
+      "gloss": "obmyślił"
     },
     {
       "surface": "על",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לאבדם",
-      "gloss": "aby ich wytrawić"
+      "gloss": "by ich wytrawić"
     },
     {
       "surface": "והפיל",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "להמם",
-      "gloss": "aby ich zmiażdżyć"
+      "gloss": "by ich zmiażdżyć"
     },
     {
       "surface": "ולאבדם",
-      "gloss": "i wytracić"
+      "gloss": "i wytrawić ich"
     }
   ],
-  "timestamp": "2026-08-25T02:35:14.490901715Z",
+  "timestamp": "2026-08-25T07:03:37.668840082Z",
   "model": "glm-5.3"
 }

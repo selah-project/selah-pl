@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I rzekł Mosze do Aharona: To ⟨jest⟩ to, co mówił Jahwe, mówiąc: W tych, którzy się do Mnie zbliżają, ⟨będę⟩ uświęcony, a wobec oblicza całego ludu ⟨będę⟩ wsławiony. I zamilkł Aharon.",
+  "translation": "I rzekł Mosze do Aharona: To ⟨jest⟩ to, o czym mówił Jahwe, mówiąc: W tych, którzy mi się przybliżają, będę uświęcony, a wobec oblicza całego ludu będę uczczony. I zamilkł Aharon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "בקרבי",
-      "gloss": "w tych, którzy się do Mnie zbliżają"
+      "gloss": "w tych, którzy mi się przybliżają"
     },
     {
       "surface": "אקדש",
-      "gloss": "uświęcony"
+      "gloss": "będę uświęcony"
     },
     {
       "surface": "ועל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אכבד",
-      "gloss": "wsławiony"
+      "gloss": "będę uczczony"
     },
     {
       "surface": "וידם",
@@ -80,6 +80,6 @@
       "gloss": "Aharon"
     }
   ],
-  "timestamp": "2026-08-24T22:43:06.168882401Z",
+  "timestamp": "2026-08-25T05:43:24.167342441Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I stał się głód za dni Dawida — trzy lata, rok po roku — i szukał Dawid ⟨את⟩ twarzy Jahwe, i rzekł Jahwe: ⟨to⟩ za Szaula i za dom krwawy, z powodu tego, że zamordował ⟨את⟩ Gibeonitów.",
+  "translation": "I powstał głód za dni Dawida przez trzy lata, rok za rokiem; i szukał Dawid ⟨את⟩ oblicza Jahwe, i rzekł Jahwe: ⟨To⟩ za Szaula i za ⟨את⟩ dom krwawy, dlatego że zgładził ⟨את⟩ Gibeonitów.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "I stał się"
+      "gloss": "i powstał"
     },
     {
       "surface": "רעב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "po"
+      "gloss": "za"
     },
     {
       "surface": "שנה",
-      "gloss": "roku"
+      "gloss": "rokiem"
     },
     {
       "surface": "ויבקש",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twarzy Jahwe"
+      "marks": "oblicza"
     },
     {
       "surface": "פני",
-      "gloss": "twarzy"
+      "gloss": "oblicza"
     },
     {
       "surface": "יהוה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "co do"
+      "gloss": "za"
     },
     {
       "surface": "שאול",
@@ -82,27 +82,27 @@
     },
     {
       "surface": "ואל",
-      "gloss": "i co do"
+      "gloss": "i za"
     },
     {
       "surface": "בית",
-      "gloss": "domu"
+      "gloss": "dom"
     },
     {
       "surface": "הדמים",
-      "gloss": "krwawego"
+      "gloss": "krwawy"
     },
     {
       "surface": "על",
-      "gloss": "z powodu"
+      "gloss": "dlatego że"
     },
     {
       "surface": "אשר",
-      "gloss": "tego, że"
+      "gloss": "że"
     },
     {
       "surface": "המית",
-      "gloss": "zamordował"
+      "gloss": "zgładził"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "Gibeonitów"
     }
   ],
-  "timestamp": "2026-08-24T23:53:42.818245955Z",
+  "timestamp": "2026-08-25T05:58:20.110350746Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Bo teraz ciężejsze niż piasek mórz byłoby ⟨to⟩, dlatego moje słowa są pochopne.",
+  "translation": "Bo teraz cięższe byłoby ⟨to⟩ niż piasek mórz, dlatego też moje słowa są pochopne.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "עתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מחול",
-      "gloss": "niż piasek"
+      "gloss": "piasek"
     },
     {
       "surface": "ימים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "יכבד",
-      "gloss": "ciężejsze byłoby"
+      "gloss": "cięższe byłoby"
     },
     {
       "surface": "על",
-      "gloss": "dlatego (על כן)"
+      "gloss": "niż"
     },
     {
       "surface": "כן",
-      "gloss": "—"
+      "gloss": "dlatego też"
     },
     {
       "surface": "דברי",
@@ -44,6 +44,6 @@
       "gloss": "są pochopne"
     }
   ],
-  "timestamp": "2026-08-25T02:16:44.290467495Z",
+  "timestamp": "2026-08-25T06:18:10.542237189Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 24,
-  "translation": "A ziemia skalana jest pod mieszkańcami swymi, bo przekroczyli ⟨את⟩ Tory, naruszyli ⟨את⟩ ustawę, złamali ⟨את⟩ przymierze wieczne.",
+  "translation": "A ziemia została skalana pod ⟨jej⟩ mieszkańcami, bo przekroczyli Tory, naruszyli ustawę, złamali przymierze wieczne.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "a ziemia"
+      "gloss": "A ziemia"
     },
     {
       "surface": "חנפה",
-      "gloss": "skalana"
+      "gloss": "została skalana"
     },
     {
       "surface": "תחת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישביה",
-      "gloss": "mieszkańcami swymi"
+      "gloss": "mieszkańcami jej"
     },
     {
       "surface": "כי",
@@ -32,22 +32,12 @@
       "gloss": "przekroczyli"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Tory"
-    },
-    {
       "surface": "תורת",
       "gloss": "Tory"
     },
     {
       "surface": "חלפו",
       "gloss": "naruszyli"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ustawę"
     },
     {
       "surface": "חק",
@@ -66,6 +56,6 @@
       "gloss": "wieczne"
     }
   ],
-  "timestamp": "2026-08-25T00:25:41.305457802Z",
+  "timestamp": "2026-08-25T06:30:49.362717336Z",
   "model": "glm-5.3"
 }

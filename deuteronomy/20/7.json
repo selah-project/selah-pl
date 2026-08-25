@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I kto ⟨to⟩ mąż, który zaręczył się z kobietą i nie wziął jej? Niech idzie i wróci do swego domu, aby nie umarł w wojnie i inny mąż ją nie wziął.",
+  "translation": "I kto ⟨jest⟩ mężem, który się zaręczył z kobietą i nie wziął jej? Niech idzie i niech wróci do swego domu, aby nie umarł w bitwie i inny mąż nie wziął jej.",
   "tokens": [
     {
       "surface": "ומי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "i wróci"
+      "gloss": "i niech wróci"
     },
     {
       "surface": "לביתו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "w wojnie"
+      "gloss": "w bitwie"
     },
     {
       "surface": "ואיש",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יקחנה",
-      "gloss": "ją nie wziął"
+      "gloss": "wziął ją"
     }
   ],
-  "timestamp": "2026-08-24T23:10:55.052368925Z",
+  "timestamp": "2026-08-25T05:51:11.543253274Z",
   "model": "glm-5.3"
 }

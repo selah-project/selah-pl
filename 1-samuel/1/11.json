@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I złożyła ślub, i powiedziała: Jahwe Zastępów, jeśli wejrzeniu wejrzysz na utrapienie służebnicy twojej, i wspomnisz na mnie, i nie zapomnisz służebnicy twojej, i dasz służebnicy twojej potomstwo męskie, to oddam go Jahwe wszystkie dni życia jego, a brzytwa nie wstąpi na głowę jego.",
+  "translation": "I złożyła ślub, i powiedziała: Jahwe Zastępów, jeśli spojrzawszy spojrzysz na udrękę służebnicy twojej, i wspomnisz na mnie, i nie zapomnisz ⟨את⟩ służebnicy twojej, i dasz służebnicy twojej potomstwo męskie, to oddam go Jahwe na wszystkie dni życia jego, a brzytwa nie wstąpi na głowę jego.",
   "tokens": [
     {
       "surface": "ותדר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ראה",
-      "gloss": "wejrzieniu"
+      "gloss": "spojrzawszy"
     },
     {
       "surface": "תראה",
-      "gloss": "wejrzysz"
+      "gloss": "spojrzysz"
     },
     {
       "surface": "בעני",
-      "gloss": "na utrapienie"
+      "gloss": "na udrękę"
     },
     {
       "surface": "אמתך",
@@ -125,6 +125,6 @@
       "gloss": "głowę jego"
     }
   ],
-  "timestamp": "2026-08-24T23:32:35.431015791Z",
+  "timestamp": "2026-08-25T06:29:40.872320533Z",
   "model": "glm-5.3"
 }

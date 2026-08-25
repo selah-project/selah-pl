@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 34,
-  "translation": "I rzekł Jahwe do niego: to ⟨jest⟩ ziemia, którą przysiągłem Awrahamowi, Jicchakowi i Jaakowowi, mówiąc: twojemu potomstwu dam ją; pokazałem ci ją twoimi oczami, lecz tam nie przejdziesz.",
+  "translation": "I rzekł Jahwe do niego: ta ⟨jest⟩ ziemia, którą przysiągłem Awrahamowi, Jicchakowi i Jaakowowi, mówiąc: nasieniowi twemu dam ją. Pokazałem ci ją twoimi oczami, lecz tam nie przejdziesz.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "to"
+      "gloss": "ta"
     },
     {
       "surface": "הארץ",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לזרעך",
-      "gloss": "twojemu potomstwu"
+      "gloss": "nasieniowi twemu"
     },
     {
       "surface": "אתננה",
@@ -80,6 +80,6 @@
       "gloss": "przejdziesz"
     }
   ],
-  "timestamp": "2026-08-24T23:15:46.749041126Z",
+  "timestamp": "2026-08-25T06:29:18.354051100Z",
   "model": "glm-5.3"
 }

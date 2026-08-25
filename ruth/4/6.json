@@ -5,15 +5,15 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I rzekł wyzwoliciel: Nie mogę wykupić ⟨to⟩ dla siebie, abym nie zniszczył ⟨את⟩ mego dziedzictwa; wykup sobie ty ⟨את⟩ moje prawo wykupu, bo nie mogę wykupić.",
+  "translation": "I rzekł goel: Nie zdołam wykupić dla siebie, abym nie zniszczył ⟨את⟩ mojego dziedzictwa; wykup dla siebie ty ⟨את⟩ mego prawa wykupu, bo nie zdołam wykupić.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "הגאל",
-      "gloss": "wyzwoliciel"
+      "gloss": "goel"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "mogę"
+      "gloss": "zdołam"
     },
     {
       "surface": "לגאול",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פן",
-      "gloss": "abym nie"
+      "gloss": "aby nie"
     },
     {
       "surface": "אשחית",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moje dziedzictwo"
+      "marks": "mego dziedzictwa"
     },
     {
       "surface": "נחלתי",
-      "gloss": "moje dziedzictwo"
+      "gloss": "mego dziedzictwa"
     },
     {
       "surface": "גאל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "sobie"
+      "gloss": "dla siebie"
     },
     {
       "surface": "אתה",
@@ -63,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moje prawo wykupu"
+      "marks": "mego prawa wykupu"
     },
     {
       "surface": "גאלתי",
-      "gloss": "moje prawo wykupu"
+      "gloss": "mego prawa wykupu"
     },
     {
       "surface": "כי",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "mogę"
+      "gloss": "zdołam"
     },
     {
       "surface": "לגאל",
       "gloss": "wykupić"
     }
   ],
-  "timestamp": "2026-08-25T02:27:50.673896631Z",
+  "timestamp": "2026-08-25T06:19:59.833893025Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 15,
-  "translation": "Żałuję, że ⟨את⟩ Szaula uczyniłem królem, bo odwrócił się od ⟨pójścia⟩ za mną, i ⟨את⟩ moich słów nie wypełnił; i zapłonęło ⟨to⟩ Szmuela gniewem, i wołał do Jahwe całą noc.",
+  "translation": "Żałuję, że ustanowiłem ⟨את⟩ Szaula królem, bo odwrócił się od following mnie i ⟨את⟩ moich słów nie wypełnił. I zapłonęło gniewem Samuelowi, i zawołał do Jahwe całą noc.",
   "tokens": [
     {
       "surface": "נחמתי",
-      "gloss": "żałuję"
+      "gloss": "Żałuję"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המלכתי",
-      "gloss": "uczyniłem królem"
+      "gloss": "ustanowiłem"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מאחרי",
-      "gloss": "od ⟨pójścia⟩ za mną"
+      "gloss": "ode mnie"
     },
     {
       "surface": "ואת",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "i zapłonęło"
+      "gloss": "i zapłonęło gniewem"
     },
     {
       "surface": "לשמואל",
-      "gloss": "Szmuela"
+      "gloss": "Samuelowi"
     },
     {
       "surface": "ויזעק",
-      "gloss": "i wołał"
+      "gloss": "i zawołał"
     },
     {
       "surface": "אל",
@@ -90,6 +90,6 @@
       "gloss": "noc"
     }
   ],
-  "timestamp": "2026-08-24T23:38:04.942292562Z",
+  "timestamp": "2026-08-25T05:55:58.404963493Z",
   "model": "glm-5.3"
 }

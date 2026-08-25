@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 18,
-  "translation": "A jeśli mówicie do mnie: W Jahwe, Elohimie naszym, pokładamy ufność — czyż nie On to, którego wyżyny jego i ⟨את⟩ ołtarze jego usunął Chizkijahu, i powiedział Jehudzie i Jeruszalaim: Przed ołtarzem tym pokłaniajcie się w Jeruszalaim?",
+  "translation": "A jeśli powiecie mi: „Na Jahwe, Elohima naszego, polegamy” — czyż nie ⟨on⟩ jest ten, którego wyżyny i którego ołtarze Chizkijahu usunął, i powiedział Jehudzie i Jeruszalaim: „Przed tym ołtarzem pokłaniajcie się w Jeruszalaim”?",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "תאמרון",
-      "gloss": "mówicie"
+      "gloss": "powiecie"
     },
     {
       "surface": "אלי",
-      "gloss": "do mnie"
+      "gloss": "mi"
     },
     {
       "surface": "אל",
-      "gloss": "W"
+      "gloss": "na"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohimie naszym"
+      "gloss": "Elohima naszego"
     },
     {
       "surface": "בטחנו",
-      "gloss": "pokładamy ufność"
+      "gloss": "polegamy"
     },
     {
       "surface": "הלוא",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "On"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "którego"
     },
     {
       "surface": "הסיר",
@@ -58,20 +58,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wyżyny jego"
+      "marks": "wyżyny"
     },
     {
       "surface": "במתיו",
-      "gloss": "wyżyny jego"
+      "gloss": "wyżyny"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "ołtarze jego"
+      "marks": "ołtarze"
     },
     {
       "surface": "מזבחתיו",
-      "gloss": "ołtarze jego"
+      "gloss": "ołtarze"
     },
     {
       "surface": "ויאמר",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "Przed"
+      "gloss": "przed"
     },
     {
       "surface": "המזבח",
@@ -106,6 +106,6 @@
       "gloss": "w Jeruszalaim"
     }
   ],
-  "timestamp": "2026-08-25T00:15:51.642315653Z",
+  "timestamp": "2026-08-25T06:03:10.678286557Z",
   "model": "glm-5.3"
 }

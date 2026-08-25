@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I zbudowali ⟨את⟩ wyżyny Baala, które są w dolinie syna Hinoma, by przeprowadzać ⟨את⟩ swoich synów i ⟨את⟩ swoje córki dla Molocha, czego im nie nakazałem, i nie wstąpiło to na moje serce, by czynić tę obrzydliwość, aby doprowadzić do grzechu ⟨את⟩ Jehudę.",
+  "translation": "I zbudowali wyżyny Baala, które ⟨są⟩ w dolinie syna Hinnoma, aby przeprowadzać ⟨את⟩ swoich synów i ⟨את⟩ swoje córki dla Molocha, czego im nie nakazałem i nie wstąpiło na moje serce, aby czynić tę obrzydliwość, po to, aby doprowadzić do grzechu ⟨את⟩ Jehudę.",
   "tokens": [
     {
       "surface": "ויבנו",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wyżyny Baala"
+      "marks": "wyżyny"
     },
     {
       "surface": "במות",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הנם",
-      "gloss": "Hinoma"
+      "gloss": "Hinnoma"
     },
     {
       "surface": "להעביר",
-      "gloss": "by przeprowadzać"
+      "gloss": "aby przeprowadzać"
     },
     {
       "surface": "את",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "nakazałem im"
+      "gloss": "nakazałem"
     },
     {
       "surface": "ולא",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "by czynić"
+      "gloss": "aby czynić"
     },
     {
       "surface": "התועבה",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "aby"
+      "gloss": "po to, aby"
     },
     {
       "surface": "החטי",
@@ -124,6 +124,6 @@
       "gloss": "Jehudę"
     }
   ],
-  "timestamp": "2026-08-25T00:56:25.023409518Z",
+  "timestamp": "2026-08-25T06:09:17.530462308Z",
   "model": "glm-5.3"
 }

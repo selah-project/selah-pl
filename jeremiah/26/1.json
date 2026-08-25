@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 26,
-  "translation": "Na początku królestwa Jehojakima, syna Joszijahu, króla Jehudy, było to słowo od Jahwe, mówiąc:",
+  "translation": "Na początku królestwa Jehojakima, syna Joszijahu, króla Jehudy, było ⟨to⟩ słowo od ⟨את⟩ Jahwe, mówiąc:",
   "tokens": [
     {
       "surface": "בראשית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Josszijahu"
+      "gloss": "Joszijahu"
     },
     {
       "surface": "מלך",
@@ -41,15 +41,16 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "to słowo"
+      "gloss": "słowo"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩"
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe"
     },
     {
       "surface": "יהוה",
@@ -60,6 +61,6 @@
       "gloss": "mówiąc"
     }
   ],
-  "timestamp": "2026-08-25T00:52:37.754156972Z",
+  "timestamp": "2026-08-25T06:08:41.188459937Z",
   "model": "glm-5.3"
 }

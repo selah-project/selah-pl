@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Dom ten, który ty budujesz — jeśli pójdziesz w moich ustawach i ⟨את⟩ moje prawa uczynisz, i zachowasz ⟨את⟩ wszystkich moich przykazań, aby chodzić w nich, to Ja wstanowię ⟨את⟩ moje słowo ⟨את⟩ tobie, które mówiłem do Dawida, ojca twego.",
+  "translation": "Ten dom, który ty budujesz — jeśli pójdziesz w moich ustawach i ⟨את⟩ moje prawa wykonasz, i będziesz strzegł ⟨את⟩ wszystkich moich przykazań, by chodzić w nich, to wzbudzę ⟨את⟩ moje słowo ⟨את⟩ z tobą, które mówiłem do Dawida, ojca twego.",
   "tokens": [
     {
       "surface": "הבית",
-      "gloss": "Dom"
+      "gloss": "dom"
     },
     {
       "surface": "הזה",
@@ -40,8 +40,8 @@
       "gloss": "w moich ustawach"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "surface": "וואת",
+      "gloss": "i ⟨את⟩",
       "marks": "moje prawa"
     },
     {
@@ -50,11 +50,11 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "uczynisz"
+      "gloss": "wykonasz"
     },
     {
       "surface": "ושמרת",
-      "gloss": "zachowasz"
+      "gloss": "i będziesz strzegł"
     },
     {
       "surface": "את",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "aby chodzić"
+      "gloss": "by chodzić"
     },
     {
       "surface": "בהם",
       "gloss": "w nich"
     },
     {
-      "surface": "והקמתי",
-      "gloss": "wstanowię"
+      "surface": "והקימותי",
+      "gloss": "to wzbudzę"
     },
     {
       "surface": "את",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tobie"
+      "gloss": "⟨את⟩ z tobą"
     },
     {
       "surface": "אשר",
@@ -115,6 +115,6 @@
       "gloss": "ojca twego"
     }
   ],
-  "timestamp": "2026-08-24T23:56:59.923054779Z",
+  "timestamp": "2026-08-25T05:59:21.435706838Z",
   "model": "glm-5.3"
 }

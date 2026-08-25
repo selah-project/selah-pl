@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 38,
-  "translation": "A podstawy słupów ⟨były z⟩ miedzi, a haki słupów i ich obręczy ze srebra, i okładzina ich głowic ze srebra, a one były obręczowane srebrem — wszelkie słupy dziedzińca.",
+  "translation": "A podstawy słupów ⟨były⟩ z brązu, a haki słupów i ich obręcze ze srebra, i okładzina ich głowic ze srebra; a one ⟨były⟩ opasane srebrem — wszystkie słupy dziedzińca.",
   "tokens": [
     {
       "surface": "והאדנים",
@@ -17,19 +17,23 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "miedzi"
+      "gloss": "z brązu"
     },
     {
-      "surface": "והאדניםלא",
-      "gloss": ""
+      "surface": "ואוי",
+      "gloss": "a haki"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "słupów"
     },
     {
       "surface": "וחשוקיהם",
-      "gloss": "i ich obręczy"
+      "gloss": "i ich obręcze"
     },
     {
       "surface": "כסף",
-      "gloss": "srebra"
+      "gloss": "ze srebra"
     },
     {
       "surface": "וצפוי",
@@ -41,7 +45,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "srebra"
+      "gloss": "ze srebra"
     },
     {
       "surface": "והם",
@@ -49,7 +53,7 @@
     },
     {
       "surface": "מחשקים",
-      "gloss": "obręczowane"
+      "gloss": "opasane"
     },
     {
       "surface": "כסף",
@@ -68,6 +72,6 @@
       "gloss": "dziedzińca"
     }
   ],
-  "timestamp": "2026-08-24T22:38:37.310228870Z",
+  "timestamp": "2026-08-25T06:28:18.831226374Z",
   "model": "glm-5.3"
 }

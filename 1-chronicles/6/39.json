@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A to ⟨są⟩ ich siedziby według ich osiedli w ich granicach — synom Ahrona, z rodu Kehatytów, bo im przypadł los.",
+  "translation": "A te są ich siedziby według ich osad ⟨w⟩ ich granicach: synom Ahrona, rodzinie kehaticie, bo im przypadł los.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "a to"
+      "gloss": "a te"
     },
     {
       "surface": "מושבותם",
@@ -17,10 +17,10 @@
     },
     {
       "surface": "לטירותם",
-      "gloss": "według ich osiedli"
+      "gloss": "według ich osad"
     },
     {
-      "surface": "בגבולam",
+      "surface": "בגבולם",
       "gloss": "w ich granicach"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "surface": "למשפחת",
-      "gloss": "z rodu"
+      "gloss": "rodzinie"
     },
     {
       "surface": "הקהתי",
-      "gloss": "Kehatytów"
+      "gloss": "kehaticie"
     },
     {
       "surface": "כי",
@@ -56,6 +56,6 @@
       "gloss": "los"
     }
   ],
-  "timestamp": "2026-08-25T02:52:38.086598165Z",
+  "timestamp": "2026-08-25T06:24:43.073315069Z",
   "model": "glm-5.3"
 }

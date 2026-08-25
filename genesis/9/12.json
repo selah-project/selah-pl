@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I rzekł Elohim: to znak przymierza, które Ja daję między Mną a wami i między każdą nefesz żywą, która ⟨jest⟩ z wami, na pokolenia wieczne.",
+  "translation": "I rzekł Elohim: to jest znak przymierza, które ja daję, między mną a między wami i między każdą nefesz żywą, która ⟨jest⟩ ⟨את⟩ wami, na pokolenia wieczne.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "נתן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ביני",
-      "gloss": "między Mną"
+      "gloss": "między mną"
     },
     {
       "surface": "וביניכם",
-      "gloss": "a wami"
+      "gloss": "a między wami"
     },
     {
       "surface": "ובין",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨z⟩ wami"
+      "gloss": "⟨את⟩ wami",
+      "marks": "wami"
     },
     {
       "surface": "לדרת",
@@ -80,6 +81,6 @@
       "gloss": "wieczne"
     }
   ],
-  "timestamp": "2026-08-24T22:11:07.640832970Z",
+  "timestamp": "2026-08-25T06:27:41.088496605Z",
   "model": "glm-5.3"
 }

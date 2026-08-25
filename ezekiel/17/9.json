@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "Powiedz: Tak powiedział Adonai Jahwe: Czy się powiedzie? Czy ⟨את⟩ jej korzeni nie wyrwie i ⟨את⟩ jej owocu nie obrzeże, i uschnie — wszelkie liście jej latorośli uschną — i to nie ramieniem wielkim i nie ludem licznym, aby wyrwać ją z jej korzeni?",
+  "translation": "Powiedz: Tak rzekł Adonai Jahwe: Czy ona się powiedzie? Czy ⟨את⟩ jej korzeni nie wyrwie i ⟨את⟩ jej owocu nie obetnie, i nie usechnie? Wszystkie listki jej latorośli usechną — i to nie wielkim ramieniem ani licznym ludem, aby ⟨את⟩ ją wyrwać z jej korzeni.",
   "tokens": [
     {
       "surface": "אמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "powiedział"
+      "gloss": "rzekł"
     },
     {
       "surface": "אדני",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "תצלח",
-      "gloss": "Czy się powiedzie?"
+      "gloss": "czy ona się powiedzie"
     },
     {
       "surface": "הלוא",
-      "gloss": "Czy nie"
+      "gloss": "czy nie"
     },
     {
       "surface": "את",
@@ -59,19 +59,19 @@
     },
     {
       "surface": "יקוסס",
-      "gloss": "obrzeże"
+      "gloss": "obetnie"
     },
     {
       "surface": "ויבש",
-      "gloss": "i uschnie"
+      "gloss": "i nie usechnie"
     },
     {
       "surface": "כל",
-      "gloss": "wszelkie"
+      "gloss": "wszystkie"
     },
     {
       "surface": "טרפי",
-      "gloss": "liście"
+      "gloss": "listki"
     },
     {
       "surface": "צמחה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "תיבש",
-      "gloss": "uschną"
+      "gloss": "usechną"
     },
     {
       "surface": "ולא",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "ובעם",
-      "gloss": "i ludem"
+      "gloss": "ani ludem"
     },
     {
       "surface": "רב",
@@ -107,14 +107,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ją",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją"
     },
     {
       "surface": "משרשיה",
       "gloss": "z jej korzeni"
     }
   ],
-  "timestamp": "2026-08-25T01:12:42.981917765Z",
+  "timestamp": "2026-08-25T06:11:36.752408274Z",
   "model": "glm-5.3"
 }

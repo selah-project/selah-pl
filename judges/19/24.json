@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Oto moja córka, dziewica, i jego nałożnica — wyprowadzę je, proszę, i utilisez je, i czyńcie im to, co dobre w waszych oczach; ale temu mężowi nie czyńcie sprawy tej niegodziwości.",
+  "translation": "Oto moja córka, ⟨ta⟩ dziewica, i jego nałożnica; wyprowadzę je, proszę, i poniżcie ⟨את⟩ je, i zróbcie ⟨את⟩ im to, co dobre w waszych oczach; ale temu mężczyźnie nie czyńcie rzeczy tej haniebnej.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "oto"
+      "gloss": "Oto"
     },
     {
       "surface": "בתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבתולה",
-      "gloss": "dziewica"
+      "gloss": "ta dziewica"
     },
     {
       "surface": "ופילגשהו",
@@ -33,19 +33,21 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ je"
+      "gloss": "⟨את⟩",
+      "marks": "je"
     },
     {
       "surface": "וענו",
-      "gloss": "i wykorzystajcie"
+      "gloss": "i poniżcie"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ je"
+      "gloss": "⟨את⟩",
+      "marks": "je"
     },
     {
       "surface": "ועשו",
-      "gloss": "i czyńcie"
+      "gloss": "i zróbcie"
     },
     {
       "surface": "להם",
@@ -61,7 +63,7 @@
     },
     {
       "surface": "ולאיש",
-      "gloss": "ale temu mężowi"
+      "gloss": "a temu mężczyźnie"
     },
     {
       "surface": "הזה",
@@ -77,17 +79,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "sprawy"
+      "gloss": "rzecz"
     },
     {
       "surface": "הנבלה",
-      "gloss": "niegodziwości"
+      "gloss": "haniebnej"
     },
     {
       "surface": "הזאת",
       "gloss": "tej"
     }
   ],
-  "timestamp": "2026-08-24T23:32:07.630009526Z",
+  "timestamp": "2026-08-25T05:54:21.152392172Z",
   "model": "glm-5.3"
 }

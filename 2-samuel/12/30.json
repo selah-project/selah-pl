@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I wziął ⟨את⟩ koronę ich króla z jego głowy — a jej waga ⟨to⟩ kikar złota i kamień drogocenny — i była na głowie Dawida; a łupy miasta wyprowadził bardzo wiele.",
+  "translation": "I wziął ⟨את⟩ koronę ich króla z jego głowy, a jej waga — talent złota i kamień drogocenny — i była na głowie Dawida; a łup miasta wyniósł bardzo wielce.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "koronę ich króla"
+      "marks": "koronę"
     },
     {
       "surface": "עטרת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ככר",
-      "gloss": "kikar"
+      "gloss": "talent"
     },
     {
       "surface": "זהב",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ושלל",
-      "gloss": "a łupy"
+      "gloss": "a łup"
     },
     {
       "surface": "העיר",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "wyprowadził"
+      "gloss": "wyniósł"
     },
     {
       "surface": "הרבה",
-      "gloss": "bardzo wiele"
+      "gloss": "wielce"
     },
     {
       "surface": "מאד",
       "gloss": "bardzo"
     }
   ],
-  "timestamp": "2026-08-24T23:48:40.656189349Z",
+  "timestamp": "2026-08-25T05:57:54.241352883Z",
   "model": "glm-5.3"
 }

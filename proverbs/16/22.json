@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Źródło życia ⟨jest⟩ rozwaga dla jej posiadacza, a karność głupich ⟨to⟩ głupota.",
+  "translation": "Źródło życia — rozum dla jego posiadaczy, a karność głupich — głupota.",
   "tokens": [
     {
       "surface": "מקור",
@@ -17,14 +17,14 @@
     },
     {
       "surface": "שכל",
-      "gloss": "rozwaga"
+      "gloss": "rozum"
     },
     {
       "surface": "בעליו",
-      "gloss": "jej posiadacza"
+      "gloss": "jego posiadaczy"
     },
     {
-      "surface": "ומוסר",
+      "surface": "ו מוסר",
       "gloss": "a karność"
     },
     {
@@ -36,6 +36,6 @@
       "gloss": "głupota"
     }
   ],
-  "timestamp": "2026-08-25T02:10:38.580531576Z",
+  "timestamp": "2026-08-25T06:17:43.585817930Z",
   "model": "glm-5.3"
 }

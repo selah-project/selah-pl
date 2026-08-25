@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A gdy wół jakiegoś człowieka zabije ⟨את⟩ wołu jego bliźniego i padnie martwy, to sprzedadzą ⟨את⟩ wół żywego i rozdzielą ⟨את⟩ jego srebra, a także ⟨את⟩ martwego rozdzielą.",
+  "translation": "A gdy wół jednego człowieka zabije ⟨את⟩ wółca jego bliźniego i padnie: sprzedadzą ⟨את⟩ wółca żywego i rozdzielą ⟨את⟩ srebro jego; a także ⟨את⟩ padłego rozdzielą.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יגף",
-      "gloss": "zabije"
+      "gloss": "zabode"
     },
     {
       "surface": "שור",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "איש",
-      "gloss": "jakiegoś człowieka"
+      "gloss": "człowieka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wół"
+      "marks": "wółca"
     },
     {
       "surface": "שור",
-      "gloss": "wołu"
+      "gloss": "wółca"
     },
     {
       "surface": "רעהו",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "ומת",
-      "gloss": "i padnie martwy"
+      "gloss": "i padnie"
     },
     {
       "surface": "ומכרו",
-      "gloss": "sprzedadzą"
+      "gloss": "i sprzedadzą"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wół żywy"
+      "marks": "wółca żywego"
     },
     {
       "surface": "השור",
-      "gloss": "wół"
+      "gloss": "wółca"
     },
     {
       "surface": "החי",
-      "gloss": "żywy"
+      "gloss": "żywego"
     },
     {
       "surface": "וחצו",
@@ -64,11 +64,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jego srebro"
+      "marks": "srebro jego"
     },
     {
       "surface": "כספו",
-      "gloss": "jego srebra"
+      "gloss": "srebro jego"
     },
     {
       "surface": "וגם",
@@ -77,17 +77,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "martwy"
+      "marks": "padłego"
     },
     {
       "surface": "המת",
-      "gloss": "martwego"
+      "gloss": "padłego"
     },
     {
       "surface": "יחצון",
       "gloss": "rozdzielą"
     }
   ],
-  "timestamp": "2026-08-25T04:05:57.510098147Z",
+  "timestamp": "2026-08-25T05:42:14.754495963Z",
   "model": "glm-5.3"
 }

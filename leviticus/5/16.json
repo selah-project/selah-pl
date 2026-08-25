@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I ⟨את⟩ to, w czym zgrzeszył względem świętości, odda, i ⟨את⟩ jego piątą część doda do niego, i da ⟨את⟩ to kapłanowi, a kapłan dokona przebłagania nad nim baranem ofiary winnej, i będzie mu odpuszczone.",
+  "translation": "I ⟨את⟩ to, w czym zgrzeszył względem świętości, naprawi, i ⟨את⟩ jego piątą część dołoży do tego, i da ⟨את⟩ to kapłanowi; a kapłan dokona przebłagania za nim baranem ofiary z winy — i będzie mu odpuszczone.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "to, w czym zgrzeszył"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "odda"
+      "gloss": "naprawi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "jego piątą część"
     },
     {
@@ -43,11 +43,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "doda"
+      "gloss": "dołoży"
     },
     {
       "surface": "עליו",
-      "gloss": "do niego"
+      "gloss": "do tego"
     },
     {
       "surface": "ונתן",
@@ -56,7 +56,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to — kapłanowi"
+      "marks": "to (kapłanowi)"
     },
     {
       "surface": "לכהן",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "nad nim"
+      "gloss": "za nim"
     },
     {
       "surface": "באיל",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "האשם",
-      "gloss": "ofiary winnej"
+      "gloss": "ofiary z winy"
     },
     {
       "surface": "ונסלח",
@@ -91,6 +91,6 @@
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-08-24T22:41:19.794266357Z",
+  "timestamp": "2026-08-25T05:43:44.432461793Z",
   "model": "glm-5.3"
 }

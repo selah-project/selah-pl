@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 21,
-  "translation": "to będzie w dniu, gdy przydzieli dziedzictwo ⟨את⟩ synom swoim, ⟨את⟩ tego, co będzie miał, nie będzie mógł uczynić pierworodnym ⟨את⟩ syna miłowanej na oczach syna nieznawidzonej, pierworodnego.",
+  "translation": "I stanie się w dniu, gdy będzie czynił dziedzicem ⟨את⟩ synów swoich — ⟨את⟩ wszystko, co będzie jego — że nie będzie mógł uczynić pierworodnym syna umiłowanej na obliczu syna niechęcianej, pierworodnego.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "to będzie"
+      "gloss": "i stanie się"
     },
     {
       "surface": "ביום",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "הנחילו",
-      "gloss": "gdy przydzieli dziedzictwo"
+      "gloss": "będzie czynił dziedzicem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synom swoim"
+      "marks": "synów swoich"
     },
     {
       "surface": "בניו",
-      "gloss": "synom swoim"
+      "gloss": "synów swoich"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tego, co będzie miał"
+      "marks": "wszystko, co będzie jego"
     },
     {
       "surface": "אשר",
-      "gloss": "tego, co"
+      "gloss": "co"
     },
     {
       "surface": "יהיה",
-      "gloss": "będzie miał"
+      "gloss": "będzie"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "jego"
     },
     {
       "surface": "לא",
@@ -60,7 +60,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "syna miłowanej"
+      "marks": "syna umiłowanej"
     },
     {
       "surface": "בן",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "האהובה",
-      "gloss": "miłowanej"
+      "gloss": "umiłowanej"
     },
     {
       "surface": "על",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "oczach"
+      "gloss": "obliczu"
     },
     {
       "surface": "בן",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "השנואה",
-      "gloss": "nieznawidzionej"
+      "gloss": "niechęcianej"
     },
     {
       "surface": "הבכר",
       "gloss": "pierworodnego"
     }
   ],
-  "timestamp": "2026-08-24T23:11:00.009908676Z",
+  "timestamp": "2026-08-25T05:50:40.769188880Z",
   "model": "glm-5.3"
 }

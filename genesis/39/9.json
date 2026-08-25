@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 39,
-  "translation": "Nie ma większego ode mnie w tym domu, i niczego mi nie wstrzymał, z wyjątkiem ciebie, ponieważ ty ⟨jesteś⟩ jego żoną; a jak miałbym uczynić to wielkie zło i zgrzeszyć przeciw Elohim?”",
+  "translation": "Nie ma większnego w tym domu ode mnie, i nie wstrzymał ode mnie niczego, jak tylko ciebie, ponieważ ty ⟨jesteś⟩ jego żoną; i jak miałbym uczynić to wielkie zło i zgrzeszyć Elohim?",
   "tokens": [
     {
       "surface": "איננו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ממני",
-      "gloss": "mi"
+      "gloss": "ode mnie"
     },
     {
       "surface": "מאומה",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ponieważ"
+      "gloss": "jak"
     },
     {
       "surface": "אם",
-      "gloss": "z wyjątkiem"
+      "gloss": "tylko"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ciebie",
       "marks": "ciebie"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ואיך",
-      "gloss": "a jak"
+      "gloss": "i jak"
     },
     {
       "surface": "אעשה",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "przeciw Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-24T22:21:20.893692533Z",
+  "timestamp": "2026-08-25T05:39:11.800689965Z",
   "model": "glm-5.3"
 }

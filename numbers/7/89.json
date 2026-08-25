@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I gdy wchodził Mosze do Namiotu Spotkania, aby mówić ⟨z את⟩ Nim, usłyszał ⟨את⟩ głos mówiący do niego spod〈nad〉 pokrywy, która jest nad Arką Świadectwa, spośród dwóch Kerubów — i mówił do niego.",
+  "translation": "Gdy Mosze wchodził do Namiotu Spotkania, aby mówić ⟨z⟩ ⟨את⟩ Nim, słyszał ⟨את⟩ głos mówiący do niego znad wieka (kaporet), który ⟨był⟩ na Arce Świadectwa, spośród dwóch cherubów; i mówił do niego.",
   "tokens": [
     {
       "surface": "ובבא",
-      "gloss": "i gdy wchodził"
+      "gloss": "gdy wchodził"
     },
     {
       "surface": "משה",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Nim",
-      "marks": "z Nim"
+      "gloss": "⟨z⟩ ⟨את⟩ Nim",
+      "marks": "Nim"
     },
     {
       "surface": "וישמע",
-      "gloss": "i usłyszał"
+      "gloss": "i słyszał"
     },
     {
       "surface": "את",
@@ -59,23 +59,23 @@
     },
     {
       "surface": "מעל",
-      "gloss": "nad"
+      "gloss": "znad"
     },
     {
       "surface": "הכפרת",
-      "gloss": "pokrywą"
+      "gloss": "wieka (kaporet)"
     },
     {
       "surface": "אשר",
-      "gloss": "która"
+      "gloss": "który"
     },
     {
       "surface": "על",
-      "gloss": "nad"
+      "gloss": "na"
     },
     {
       "surface": "ארן",
-      "gloss": "Arką"
+      "gloss": "Arce"
     },
     {
       "surface": "העדת",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "Kerubów"
+      "gloss": "cherubów"
     },
     {
       "surface": "וידבר",
@@ -102,6 +102,6 @@
       "gloss": "do niego"
     }
   ],
-  "timestamp": "2026-08-24T22:52:31.169846325Z",
+  "timestamp": "2026-08-25T05:47:42.874471925Z",
   "model": "glm-5.3"
 }

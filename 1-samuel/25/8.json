@@ -5,24 +5,24 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 25,
-  "translation": "Zapytaj ⟨את⟩ swoich młodzieńców, a powiedzą ci, i znajdą młodzieńcy łaskę w twoich oczach, bo w dobry dzień przybyliśmy — dajże, proszę, ⟨את⟩ to, co znajdzie twoja ręka, twoim sługom i twojemu synowi, Dawidowi.",
+  "translation": "Zapytaj ⟨את⟩ twoich młodych ludzi, a niech ci oznajmią, i niech znajdą młodzi łaskę w twoich oczach, bo w dobry dzień przyszliśmy — dajże, proszę, ⟨את⟩ to, co znajdzie twoja ręka, twoim sługom i twojemu synowi, Dawidowi.",
   "tokens": [
     {
       "surface": "שאל",
-      "gloss": "zapytaj"
+      "gloss": "Zapytaj"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swoich młodzieńców"
+      "marks": "twoich młodych ludzi"
     },
     {
       "surface": "נעריך",
-      "gloss": "swoich młodzieńców"
+      "gloss": "twoich młodych ludzi"
     },
     {
       "surface": "ויגידו",
-      "gloss": "a powiedzą"
+      "gloss": "a niech ci oznajmią"
     },
     {
       "surface": "לך",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "וימצאו",
-      "gloss": "i znajdą"
+      "gloss": "i niech znajdą"
     },
     {
       "surface": "הנערים",
-      "gloss": "młodzieńcy"
+      "gloss": "młodzi"
     },
     {
       "surface": "חן",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "przybyliśmy"
+      "gloss": "przyszliśmy"
     },
     {
       "surface": "תנה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "תמצא",
@@ -102,6 +102,6 @@
       "gloss": "Dawidowi"
     }
   ],
-  "timestamp": "2026-08-24T23:41:55.973202594Z",
+  "timestamp": "2026-08-25T05:57:03.498415194Z",
   "model": "glm-5.3"
 }

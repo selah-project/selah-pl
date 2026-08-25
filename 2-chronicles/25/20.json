@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 25,
-  "translation": "I nie usłuchał Amacjahu, bo od Elohim ⟨to⟩ ⟨było⟩, aby ich wydać w rękę, bo szukali ⟨את⟩ Elohim Edomu.",
+  "translation": "Lecz nie usłuchał Amacjasz, bo od Elohim to ⟨było⟩, aby ich wydać ⟨w⟩ rękę, bo szukali ⟨את⟩ bogów Edomu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "i nie"
+      "gloss": "a nie"
     },
     {
       "surface": "שמע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amacjahu"
+      "gloss": "Amacjasz"
     },
     {
       "surface": "כי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "תתם",
-      "gloss": "ich wydać"
+      "gloss": "wydać ich"
     },
     {
       "surface": "ביד",
-      "gloss": "w rękę"
+      "gloss": "⟨w⟩ rękę"
     },
     {
       "surface": "כי",
@@ -54,17 +54,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim Edomu"
+      "marks": "bogów Edomu"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "bogów"
     },
     {
       "surface": "אדום",
       "gloss": "Edomu"
     }
   ],
-  "timestamp": "2026-08-25T03:08:41.719400877Z",
+  "timestamp": "2026-08-25T06:26:17.562279114Z",
   "model": "glm-5.3"
 }

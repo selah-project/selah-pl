@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 24,
-  "translation": "A ⟨ty⟩ oznajmiłeś dziś, ⟨את⟩ to co uczyniłeś mi dobrego: ⟨את⟩ to, że zamknął mnie Jahwe w twoją rękę, a nie zabiłeś mnie.",
+  "translation": "I oto oznajmiłeś dziś ⟨את⟩ to, które uczyniłeś ⟨את⟩ mnie dobrze: ⟨את⟩ to, że zamknął mnie Jahwe w twoją rękę, a nie zabiłeś mnie.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "a ⟨ty⟩"
+      "gloss": "i oto"
     },
     {
       "surface": "הגדת",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to co uczyniłeś mi dobrego"
+      "marks": "to, które uczyniłeś mi dobrze"
     },
     {
       "surface": "אשר",
-      "gloss": "to co"
+      "gloss": "to, które"
     },
     {
       "surface": "עשיתה",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mi"
+      "gloss": "⟨את⟩ mnie"
     },
     {
       "surface": "טובה",
-      "gloss": "dobrego"
+      "gloss": "dobrze"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, że zamknął mnie Jahwe"
+      "marks": "to, że zamknął mnie Jahwe w twoją rękę"
     },
     {
       "surface": "אשר",
@@ -70,6 +70,6 @@
       "gloss": "zabiłeś mnie"
     }
   ],
-  "timestamp": "2026-08-24T23:41:14.047271665Z",
+  "timestamp": "2026-08-25T05:57:14.840394246Z",
   "model": "glm-5.3"
 }

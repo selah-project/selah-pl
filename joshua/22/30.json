@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I usłyszał Pinchas, kohen, oraz książęta zgromadzenia i naczelnicy tysięcy Israela, którzy byli ⟨את⟩ nim, ⟨את⟩ słowa, które wypowiedzieli synowie Rewuwena i synowie Gada i synowie Menasze — i wydało się to dobre w ich oczach.",
+  "translation": "I usłyszał Pinechas kapłan oraz książęta zgromadzenia i naczelnicy tysięcy Jisraela, którzy byli ⟨את⟩ nim, ⟨את⟩ słowa, które wypowiedzieli synowie Reuwena i synowie Gada i synowie Menasze — i było to dobre w ich oczach.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "I usłyszał"
+      "gloss": "i usłyszał"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinchas"
+      "gloss": "Pinechas"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "kapłan"
     },
     {
       "surface": "ונשיאי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nim"
+      "gloss": "⟨את⟩ nim",
+      "marks": "byli z nim"
     },
     {
       "surface": "את",
@@ -70,7 +71,7 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Rewuwena"
+      "gloss": "Reuwena"
     },
     {
       "surface": "ובני",
@@ -90,13 +91,13 @@
     },
     {
       "surface": "וייטב",
-      "gloss": "i wydało się dobre"
+      "gloss": "i było to dobre"
     },
     {
       "surface": "בעיניהם",
       "gloss": "w ich oczach"
     }
   ],
-  "timestamp": "2026-08-24T23:23:45.711207254Z",
+  "timestamp": "2026-08-25T05:53:05.282503224Z",
   "model": "glm-5.3"
 }

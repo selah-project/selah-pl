@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Lecz według ust Jahwe ⟨stało się⟩ to w Jehudzie, aby ich usunąć sprzed oblicza swego, z powodu win Menaszszego, według wszystkiego, co uczynił.",
+  "translation": "Zaprawdę, z ust Jahwe stało się to w Jehudzie, aby usunąć ⟨ich⟩ sprzed oblicza jego, z powodu win Menaszsze, według wszystkiego, co uczynił.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "lecz"
+      "gloss": "Zaprawdę"
     },
     {
       "surface": "על",
-      "gloss": "według"
+      "gloss": "z"
     },
     {
       "surface": "פי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "stała się"
+      "gloss": "stało się"
     },
     {
       "surface": "ביהודה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "פניו",
-      "gloss": "oblicza swego"
+      "gloss": "oblicza jego"
     },
     {
       "surface": "בחטאת",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaszszego"
+      "gloss": "Menaszsze"
     },
     {
       "surface": "ככל",
@@ -64,6 +64,6 @@
       "gloss": "uczynił"
     }
   ],
-  "timestamp": "2026-08-25T00:18:53.934502615Z",
+  "timestamp": "2026-08-25T06:30:46.530937198Z",
   "model": "glm-5.3"
 }

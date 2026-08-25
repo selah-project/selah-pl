@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rozpięli dla Abszaloma ⟨the⟩ namiot na ⟨the⟩ dachu, i wszedł Abszalom do nałożnic swojego ojca na oczach całego Iszraela.",
+  "translation": "I rozpięli dla Abszaloma ⟨namiot⟩ na dachu, i wszedł Abszalom do nałożnic swego ojca na oczach całego Jisraela.",
   "tokens": [
     {
       "surface": "ויטו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האהל",
-      "gloss": "namiot"
+      "gloss": "⟨namiot⟩"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "swojego ojca"
+      "gloss": "swego ojca"
     },
     {
       "surface": "לעיני",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-24T23:49:47.442631232Z",
+  "timestamp": "2026-08-25T05:58:07.891839390Z",
   "model": "glm-5.3"
 }

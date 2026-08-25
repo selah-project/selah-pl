@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I posłał ⟨את⟩ ⟨to⟩ przez rękę Natana proroka, i nazwał ⟨את⟩ jego imię Jedidja, ze względu na Jahwe.",
+  "translation": "I posłał ⟨przez⟩ rękę Natana, proroka, i nazwał ⟨את⟩ imię jego Jedidja, ze względu na Jahwe.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "i posłał"
+      "gloss": "I posłał"
     },
     {
       "surface": "ביד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "proroka"
+      "gloss": "prorok"
     },
     {
       "surface": "ויקרא",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jego imię"
+      "marks": "imię jego"
     },
     {
       "surface": "שמו",
-      "gloss": "jego imię"
+      "gloss": "imię jego"
     },
     {
       "surface": "ידידיה",
@@ -49,6 +49,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:47:58.256716021Z",
+  "timestamp": "2026-08-25T05:57:38.362969791Z",
   "model": "glm-5.3"
 }

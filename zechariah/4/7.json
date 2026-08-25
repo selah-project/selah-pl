@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "pl",
   "chapter": 4,
-  "translation": "Kim ty jesteś, wielka góro, przed Zerubbabelem — ⟨na⟩ równinę! I on wyprowadzi ⟨את⟩ kamień wierzchni〈owy〉 — okrzyki: Łaska, łaska niech ⟨mu będzie⟩!",
+  "translation": "Kim ⟨jesteś⟩, wielka góro, przed Zerubbabelem — równiną? I wyprowadzi ⟨את⟩ kamień wierzchni — okrzyki: Łaska, łaska jej!",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "kim"
+      "gloss": "Kim"
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "⟨jesteś⟩ ty"
     },
     {
       "surface": "הר",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "למישר",
-      "gloss": "⟨na⟩ równinę"
+      "gloss": "równiną"
     },
     {
       "surface": "והוציא",
-      "gloss": "i wyprowadzi"
+      "gloss": "I wyprowadzi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kamień wierzchniowy"
+      "marks": "kamień wierzchni"
     },
     {
       "surface": "האבן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הראשה",
-      "gloss": "wierzchniowy"
+      "gloss": "wierzchni"
     },
     {
       "surface": "תשאות",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "חן",
-      "gloss": "łaska"
+      "gloss": "Łaska"
     },
     {
       "surface": "חן",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לה",
-      "gloss": "niech ⟨mu będzie⟩"
+      "gloss": "jej"
     }
   ],
-  "timestamp": "2026-08-25T01:41:04.922824690Z",
+  "timestamp": "2026-08-25T06:15:05.313406806Z",
   "model": "glm-5.3"
 }

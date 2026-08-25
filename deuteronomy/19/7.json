@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Przeto ja nakazuję tobie, mówiąc: trzy miasta wydzielisz sobie.",
+  "translation": "Przeto ja nakazuję ci, mówiąc: trzy miasta wydzielisz ⟨sobie⟩.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "przeto (na)"
     },
     {
       "surface": "כן",
-      "gloss": "to"
+      "gloss": "przeto"
     },
     {
       "surface": "אנכי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "nakazuję tobie"
+      "gloss": "nakazuję ci"
     },
     {
       "surface": "לאמר",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "sobie"
+      "gloss": "⟨sobie⟩"
     }
   ],
-  "timestamp": "2026-08-24T23:11:00.770117064Z",
+  "timestamp": "2026-08-25T05:50:35.743344796Z",
   "model": "glm-5.3"
 }

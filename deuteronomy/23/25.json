@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Gdy wejdziesz do winnicy swego bliźniego i będziesz jadł winogrona według swej nefesz, do nasycenia, to do swego naczynia nie dasz.",
+  "translation": "Gdy wejdziesz do winnicy swojego bliźniego i będziesz jadł winogrona według swojej nefesz — według swojego nasycenia — to do swojego naczynia nie dasz.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Gdy"
+      "gloss": "gdy"
     },
     {
       "surface": "תבא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רעך",
-      "gloss": "swego bliźniego"
+      "gloss": "swojego bliźniego"
     },
     {
       "surface": "ואכלת",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "כנפשך",
-      "gloss": "według swej nefesz"
+      "gloss": "według swojej nefesz"
     },
     {
       "surface": "שבעך",
-      "gloss": "do nasycenia"
+      "gloss": "swoje nasycenie"
     },
     {
       "surface": "ואל",
-      "gloss": "to do"
+      "gloss": "a do"
     },
     {
       "surface": "כליך",
-      "gloss": "swego naczynia"
+      "gloss": "swojego naczynia"
     },
     {
       "surface": "לא",
@@ -56,6 +56,6 @@
       "gloss": "dasz"
     }
   ],
-  "timestamp": "2026-08-24T23:11:16.854849758Z",
+  "timestamp": "2026-08-25T05:51:51.509863233Z",
   "model": "glm-5.3"
 }

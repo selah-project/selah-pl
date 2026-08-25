@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I ujrzeli synowie Jisraela, i mówili jeden do drugiego: Man hu? — bo nie wiedzieli, co to jest. I rzekł Mosze do nich: To jest chleb, który dał Jahwe wam na pokarm.",
+  "translation": "I ujrzeli synowie Jisraela, i powiedzieli jeden do brata swego: „Co ⟨to⟩?” — bo nie wiedzieli, co ⟨to⟩ ⟨jest⟩. I powiedział Mosze do nich: „On ⟨jest⟩ chlebem, który dał Jahwe wam na pokarm.”",
   "tokens": [
     {
       "surface": "ויראו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i mówili"
+      "gloss": "i powiedzieli"
     },
     {
       "surface": "איש",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "drugiego"
+      "gloss": "brata swego"
     },
     {
       "surface": "מן",
-      "gloss": "Man"
+      "gloss": "Co"
     },
     {
       "surface": "הוא",
-      "gloss": "hu?"
+      "gloss": "to"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to jest"
+      "gloss": "to"
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i powiedział"
     },
     {
       "surface": "משה",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "On"
     },
     {
       "surface": "הלחם",
-      "gloss": "jest chleb"
+      "gloss": "chlebem"
     },
     {
       "surface": "אשר",
@@ -104,6 +104,6 @@
       "gloss": "na pokarm"
     }
   ],
-  "timestamp": "2026-08-24T22:31:36.562919239Z",
+  "timestamp": "2026-08-25T05:41:32.757914058Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 11,
-  "translation": "A bohaterzy sił: Asael, brat Joaba, Elchanan, syn Dodo, z Bet-Lechem.",
+  "translation": "A mocarze ⟨ha⟩szarów: Aszael, brat Joaba, Elchanan, syn Dodo, z Bet-Lechem.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "A bohaterzy"
+      "gloss": "A mocarze"
     },
     {
       "surface": "החילים",
-      "gloss": "sił"
+      "gloss": "⟨ha⟩szarów"
     },
     {
       "surface": "עשה",
-      "gloss": "Asael"
+      "gloss": "Aszael"
     },
     {
       "surface": "אחי",
@@ -41,13 +41,17 @@
     },
     {
       "surface": "מבית",
-      "gloss": "z Bet-"
+      "gloss": "z"
     },
     {
       "surface": "לחם",
-      "gloss": "Lechem"
+      "gloss": "Bet-Lechem"
+    },
+    {
+      "surface": "",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-25T02:53:36.567596191Z",
+  "timestamp": "2026-08-25T06:24:41.104566659Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I stanie się, jeśli podniesie się gniew króla i powie tobie: dlaczego zbliżyliście się do miasta, aby walczyć? czy nie wiecie, ⟨את⟩ to, co strzelają spod muru? —",
+  "translation": "I będzie, jeśli wstąpi gniew króla, i powie do ciebie: Dlaczego podeszliście tak blisko do miasta, aby walczyć? Czy nie wiecie ⟨את⟩ tego, co strzelają z góry muru?",
   "tokens": [
     {
-      "surface": "ויהיה→והיה",
-      "gloss": "i stanie się"
+      "surface": "והיה",
+      "gloss": "I będzie"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "podniesie się"
+      "gloss": "wstąpi"
     },
     {
       "surface": "חמת",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "tobie"
+      "gloss": "do ciebie"
     },
     {
       "surface": "מדוע",
-      "gloss": "dlaczego"
+      "gloss": "Dlaczego"
     },
     {
       "surface": "נגשתם",
-      "gloss": "zbliżyliście się"
+      "gloss": "podeszliście"
     },
     {
       "surface": "אל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "czy nie"
+      "gloss": "Czy nie"
     },
     {
       "surface": "ידעתם",
@@ -66,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co strzelają spod muru"
+      "marks": "tego, co strzelają z góry muru"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "ירו",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "מעל",
-      "gloss": "spod"
+      "gloss": "z góry"
     },
     {
       "surface": "החומה",
       "gloss": "muru"
     }
   ],
-  "timestamp": "2026-08-24T23:48:11.053578536Z",
+  "timestamp": "2026-08-25T05:57:59.415376283Z",
   "model": "glm-5.3"
 }

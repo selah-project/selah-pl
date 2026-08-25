@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Nie będzie pieczona z kwasem — ich udział to; dałem ⟨את⟩ niej z moich ofiar ogniowych; święte-świętych ⟨to⟩ ona, jak ofiara za grzech i jak ofiara zadośćuczynienia.",
+  "translation": "Nie będzie pieczona ⟨na⟩ kwasie; ich część to dałem ⟨את⟩ — z moich ognisk ofiarnych; rzecz święta ze świętych ⟨jest⟩, jak ofiara za grzech i jak ofiara zadośćuczynienia.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תאפה",
-      "gloss": "będzie-pieczona"
+      "gloss": "będzie pieczona"
     },
     {
       "surface": "חמץ",
-      "gloss": "z-kwasem"
+      "gloss": "kwas"
     },
     {
       "surface": "חלקם",
-      "gloss": "ich-udział"
+      "gloss": "ich część"
     },
     {
       "surface": "נתתי",
@@ -30,33 +30,33 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "nią"
+      "marks": "ją (miądzę\/minchę)"
     },
     {
       "surface": "מאשי",
-      "gloss": "z-moich-ofiar-ogniowych"
+      "gloss": "z moich ognisk ofiarnych"
     },
     {
       "surface": "קדש",
-      "gloss": "święte"
+      "gloss": "święta"
     },
     {
       "surface": "קדשים",
-      "gloss": "świętych"
+      "gloss": "ze świętych"
     },
     {
       "surface": "הוא",
-      "gloss": "to-ona"
+      "gloss": "to"
     },
     {
       "surface": "כחטאת",
-      "gloss": "jak-ofiara-za-grzech"
+      "gloss": "jak ofiara za grzech"
     },
     {
-      "surface": "ווכאשם",
-      "gloss": "i-jak-ofiara-zadośćuczynienia"
+      "surface": "וכאשם",
+      "gloss": "i jak ofiara zadośćuczynienia"
     }
   ],
-  "timestamp": "2026-08-25T03:19:19.387327493Z",
+  "timestamp": "2026-08-25T06:28:29.775027858Z",
   "model": "glm-5.3"
 }

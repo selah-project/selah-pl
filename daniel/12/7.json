@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I usłyszałem ⟨את⟩ męża przyodzianego w bisior, który ⟨był⟩ ponad wodami rzeki, gdy wznosił swoją prawicę i swoją lewicę ku niebiosom i przysiągł przez Żyjącego na wieki: bo ⟨jest to⟩ na czas, czasy i pół, i gdy zostanie dopełnione roztrzaskanie ręki ludu świętego, dopełnią się wszystkie te ⟨rzeczy⟩.",
+  "translation": "I usłyszałem ⟨את⟩ męża przyodzianego w bisior, który nad wodami rzeki, i uniósł swoją prawicę i swoją lewicę ku niebiosom, i przysiągł przy życiu świata: na czas wyznaczony, czasy wyznaczone i pół; a gdy roztrzaskanie ręki ludu świętego się dokona, skończą się wszystkie te rzeczy.",
   "tokens": [
     {
       "surface": "ואשמע",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "męża"
+      "marks": "męża przyodzianego w bisior"
     },
     {
       "surface": "האיש",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ממעל",
-      "gloss": "ponad"
+      "gloss": "nad"
     },
     {
       "surface": "למימי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וירם",
-      "gloss": "gdy wznosił"
+      "gloss": "i uniósł"
     },
     {
       "surface": "ימינו",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "בחי",
-      "gloss": "przez Żyjącego"
+      "gloss": "przy życiu"
     },
     {
       "surface": "העולם",
-      "gloss": "na wieki"
+      "gloss": "świata"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "że"
     },
     {
       "surface": "למועד",
-      "gloss": "na czas"
+      "gloss": "na czas wyznaczony"
     },
     {
       "surface": "מועדים",
-      "gloss": "czasy"
+      "gloss": "czasy wyznaczone"
     },
     {
       "surface": "וחצי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "וככלות",
-      "gloss": "i gdy zostanie dopełnione"
+      "gloss": "a gdy się dokona"
     },
     {
       "surface": "נפץ",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "ręka"
+      "gloss": "ręki"
     },
     {
       "surface": "עם",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "תכלינה",
-      "gloss": "dopełnią się"
+      "gloss": "skończą się"
     },
     {
       "surface": "כל",
@@ -122,9 +122,9 @@
     },
     {
       "surface": "אלה",
-      "gloss": "te"
+      "gloss": "te rzeczy"
     }
   ],
-  "timestamp": "2026-08-25T02:41:41.040820755Z",
+  "timestamp": "2026-08-25T06:33:04.595573720Z",
   "model": "glm-5.3"
 }

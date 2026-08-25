@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 54,
-  "translation": "Każde narzędzie wykute przeciw tobie nie powiedzie się, i każdy język, który powstanie ⟨את⟩-tobie na sąd, ty potępisz. To ⟨jest⟩ dziedzictwo sług Jahwe, a ich sprawiedliwość od ⟨את⟩-mnie, wyrocznia Jahwe.",
+  "translation": "Każde narzędzie uformowane przeciw tobie nie powiedzie się, i każdy język, który powstanie ⟨את⟩ ⟨z את⟩ tobą na sąd, potępisz — to jest dziedzictwo sług Jahwe, i ich sprawiedliwość ⟨jest⟩ od ⟨את⟩ mnie, wyrocznia Jahwe.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יוצר",
-      "gloss": "wykute"
+      "gloss": "uformowane"
     },
     {
       "surface": "עליך",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "תקום",
-      "gloss": "powstanie"
+      "gloss": "który powstanie"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩-tobie",
-      "marks": "ty (drugie os. l. poj., 'z tobą \/ przeciw tobie')"
+      "gloss": "⟨את⟩ ⟨z את⟩",
+      "marks": "tobą"
     },
     {
       "surface": "למשפט",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "וצדקתם",
-      "gloss": "a ich sprawiedliwość"
+      "gloss": "i ich sprawiedliwość"
     },
     {
       "surface": "מאתי",
-      "gloss": "od ⟨את⟩-mnie",
-      "marks": "mnie ('ode mnie')"
+      "gloss": "⟨את⟩ ⟨od את⟩",
+      "marks": "mnie"
     },
     {
       "surface": "נאם",
@@ -90,6 +90,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T00:35:32.060879071Z",
+  "timestamp": "2026-08-25T07:08:28.954975227Z",
   "model": "glm-5.3"
 }

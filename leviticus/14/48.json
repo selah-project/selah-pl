@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 14,
-  "translation": "A jeśli kapłan przyjdzie i zobaczy, a oto nie rozpostarła się zaraza w domu po otynkowaniu ⟨את⟩ domu, to kapłan oczyści ⟨את⟩ dom, bo zaraza została uleczona.",
+  "translation": "A jeśli przyjdzie kapłan i zobaczy, i oto nagniót nie rozprzestrzenił się w domu po otynkowaniu ⟨את⟩ domu, to oczyści kapłan ⟨את⟩ domu, bo nagniót się zagoił.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "niech przyjdzie"
+      "gloss": "(przyjdzie)"
     },
     {
       "surface": "הכהן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "a oto"
+      "gloss": "i oto"
     },
     {
       "surface": "לא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "rozpostarła się"
+      "gloss": "rozprzestrzenił się"
     },
     {
       "surface": "הנגע",
-      "gloss": "zaraza"
+      "gloss": "nagniót"
     },
     {
       "surface": "בבית",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "i oczyści"
+      "gloss": "to oczyści"
     },
     {
       "surface": "הכהן",
@@ -75,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dom"
+      "marks": "domu"
     },
     {
       "surface": "הבית",
-      "gloss": "dom"
+      "gloss": "domu"
     },
     {
       "surface": "כי",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "נרפא",
-      "gloss": "została uleczona"
+      "gloss": "zagoił się"
     },
     {
       "surface": "הנגע",
-      "gloss": "zaraza"
+      "gloss": "nagniót"
     }
   ],
-  "timestamp": "2026-08-24T22:44:21.302057258Z",
+  "timestamp": "2026-08-25T05:44:26.755937874Z",
   "model": "glm-5.3"
 }

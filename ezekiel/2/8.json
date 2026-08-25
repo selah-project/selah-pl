@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A ty, synu człowieczy, słuchaj ⟨את⟩ tego, co ja mówię do ciebie; nie bądź zbuntowany jak dom ⟨ten⟩ buntu; otwórz swoje usta i zjedz ⟨את⟩ to, co ja daję tobie.",
+  "translation": "A ty, synu człowieczy, słuchaj tego, co ja mówię do ciebie; nie bądź oporny jak dom oporny; otwórz swoje usta i zjedz ⟨את⟩ to, co ja daję tobie.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tego, co ja mówię do ciebie"
+      "marks": "to, co ja mówię do ciebie"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "אני",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מרי",
-      "gloss": "zbuntowany"
+      "gloss": "oporny"
     },
     {
       "surface": "כבית",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "המרי",
-      "gloss": "⟨ten⟩ buntu"
+      "gloss": "oporny"
     },
     {
       "surface": "פצה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "אני",
@@ -98,6 +98,6 @@
       "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-25T01:07:48.982169517Z",
+  "timestamp": "2026-08-25T06:10:54.436360257Z",
   "model": "glm-5.3"
 }

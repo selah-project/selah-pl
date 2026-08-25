@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I rzekła do sługi: Kto to za męża ten, idący w polu na spotkanie nas? I rzekł sługa: On ⟨jest⟩ moim panem. I wzięła zasłonę i okryła się.",
+  "translation": "I rzekła do sługi: Kto ⟨jest⟩ ów mąż, który idzie w polu na spotkanie nam? A sługa rzekł: On ⟨jest⟩ moim panem. I wzięła zasłonę i okryła się.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ten mąż"
+      "gloss": "mąż"
     },
     {
       "surface": "הלזה",
-      "gloss": "to za"
+      "gloss": "ów"
     },
     {
       "surface": "ההלך",
-      "gloss": "idący"
+      "gloss": "który idzie"
     },
     {
       "surface": "בשדה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לקראתנו",
-      "gloss": "na spotkanie nas"
+      "gloss": "na spotkanie nam"
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "a rzekł"
     },
     {
       "surface": "העבד",
@@ -72,6 +72,6 @@
       "gloss": "i okryła się"
     }
   ],
-  "timestamp": "2026-08-25T03:15:05.817249699Z",
+  "timestamp": "2026-08-25T05:37:44.340058659Z",
   "model": "glm-5.3"
 }

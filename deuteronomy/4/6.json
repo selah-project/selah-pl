@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I będziecie strzec ⟨ich⟩ i czynić, bo to ⟨jest⟩ wasza mądrość i wasze rozumienie w oczach ludów, które usłyszą ⟨את⟩ wszystkie te ustawy i powiedzą: tylko naród mądry i roztropny ⟨to⟩ ten wielki naród.",
+  "translation": "I będziecie strzec i będziecie czynić, bo ona ⟨jest⟩ mądrością waszą i roztropnością waszą w oczach ludów, które usłyszą ⟨את⟩ wszystkie ustawy te, i powiedzą: zaiste, lud mądry i roztropny — naród wielki ten!",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "i czynić"
+      "gloss": "i będziecie czynić"
     },
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "ona"
     },
     {
       "surface": "חכמתכם",
-      "gloss": "wasza mądrość"
+      "gloss": "mądrością waszą"
     },
     {
       "surface": "ובינתכם",
-      "gloss": "i wasze rozumienie"
+      "gloss": "i roztropnością waszą"
     },
     {
       "surface": "לעיני",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkie te ustawy"
+      "marks": "wszystkie ustawy te"
     },
     {
       "surface": "כל",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "רק",
-      "gloss": "tylko"
+      "gloss": "zaiste"
     },
     {
       "surface": "עם",
-      "gloss": "naród"
+      "gloss": "lud"
     },
     {
       "surface": "חכם",
@@ -97,6 +97,6 @@
       "gloss": "ten"
     }
   ],
-  "timestamp": "2026-08-24T23:05:58.487071266Z",
+  "timestamp": "2026-08-25T05:49:01.478129695Z",
   "model": "glm-5.3"
 }

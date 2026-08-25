@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Na zewnątrz zasłony ⟨the⟩ świadectwa, w Namiocie Spotkania, ułoży ją Aharon od wieczora aż do poranka przed Jahwe, nieustannie — ustawa wieczna dla waszych pokoleń.",
+  "translation": "Na zewnątrz zasłony ⟨od⟩ świadectwa, w Namiocie Spotkania, ułoży ⟨את⟩ niego Aharon — od wieczoru aż do poranka przed obliczą Jahwe, nieustannie; ustawa wieczna dla waszych pokoleń.",
   "tokens": [
     {
       "surface": "מחוץ",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "⟨the⟩ świadectwa"
+      "gloss": "świadectwa"
     },
     {
       "surface": "באהל",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ją",
-      "marks": "nią — świecznik\/światło z w. 2"
+      "gloss": "⟨את⟩",
+      "marks": "go (menorę — światło)"
     },
     {
       "surface": "אהרן",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מערב",
-      "gloss": "od wieczora"
+      "gloss": "od wieczoru"
     },
     {
       "surface": "עד",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "przed"
+      "gloss": "przed obliczą"
     },
     {
       "surface": "יהוה",
@@ -77,6 +77,6 @@
       "gloss": "dla waszych pokoleń"
     }
   ],
-  "timestamp": "2026-08-24T22:48:27.888459852Z",
+  "timestamp": "2026-08-25T05:45:55.510905038Z",
   "model": "glm-5.3"
 }

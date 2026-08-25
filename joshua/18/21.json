@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I były ⟨the⟩ miasta ⟨dla⟩ pokolenia synów Binjamina, według ich rodzin: Jerycho, Bet-Chogla i dolina Kecic.",
+  "translation": "I ⟨były⟩ miasta pokolenia synów Binjamina według rodzin ich: Jerycho, Bet-Chogla i dolina Kecic.",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "I były"
+      "gloss": "i ⟨były⟩"
     },
     {
       "surface": "הערים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "למשפחותיהם",
-      "gloss": "według ich rodzin"
+      "gloss": "według rodzin ich"
     },
     {
       "surface": "יריחו",
       "gloss": "Jerycho"
     },
     {
-      "surface": "ובית",
-      "gloss": "i Bet-"
+      "surface": "ויבית",
+      "gloss": "Bet-"
     },
     {
       "surface": "חגלה",
@@ -52,6 +52,6 @@
       "gloss": "Kecic"
     }
   ],
-  "timestamp": "2026-08-24T23:21:27.551714803Z",
+  "timestamp": "2026-08-25T05:53:29.913532155Z",
   "model": "glm-5.3"
 }

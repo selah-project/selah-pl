@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I rzekł Szmuel do Szaula: Zaniechaj, a oznajmię ci ⟨את⟩ to, co Jahwe mówił do mnie tej nocy. I rzekł do niego: mów!",
+  "translation": "I rzekł Szemuël do Szaula: Zaniechaj, a oznajmię ci ⟨את⟩ to, co mówił Jahwe do mnie tej nocy. I rzekli do niego: Mów.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "שמואל",
-      "gloss": "Szmuel"
+      "gloss": "Szemuël"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הרף",
-      "gloss": "zaniechaj"
+      "gloss": "Zaniechaj"
     },
     {
       "surface": "ואגידה",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co Jahwe mówił"
+      "marks": "to, co mówił Jahwe do mnie tej nocy"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "דבר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i rzekł"
+      "gloss": "I rzekli"
     },
     {
       "surface": "לו",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "mów!"
+      "gloss": "Mów"
     }
   ],
-  "timestamp": "2026-08-25T03:27:31.614106234Z",
+  "timestamp": "2026-08-25T05:55:56.597341073Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I odezwał się do nich ich ojciec: Którędy on poszedł? A synowie jego widzieli ⟨את⟩ drogę, którą poszedł mąż Elohim, który przyszedł z Jehudy.",
+  "translation": "I rzekł do nich ich ojciec: którędy wszedł tą drogą? A widzieli synowie jego ⟨את⟩ drogę, którąszedł mąż Elohim, który przybył z Jehudy.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "i odezwał się"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אלהם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "ten"
     },
     {
       "surface": "הדרך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "poszedł"
+      "gloss": "wszedł"
     },
     {
       "surface": "ויראו",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "בניו",
-      "gloss": "jego synowie"
+      "gloss": "synowie jego"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "drogą"
+      "marks": "drogę"
     },
     {
       "surface": "הדרך",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "poszedł"
+      "gloss": "szedł"
     },
     {
       "surface": "איש",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "בא",
-      "gloss": "przyszedł"
+      "gloss": "przybył"
     },
     {
       "surface": "מיהודה",
       "gloss": "z Jehudy"
     }
   ],
-  "timestamp": "2026-08-25T00:00:59.994359879Z",
+  "timestamp": "2026-08-25T06:00:18.935240365Z",
   "model": "glm-5.3"
 }

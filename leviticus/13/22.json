@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "A jeśli bardzo się rozprzestrzeni w skórze, to kapłan uzna go za nieczystego: plagą ⟨את⟩ to jest.",
+  "translation": "A jeśli rozprzestrzeni się mocno w skórze, to uzna go kapłan za nieczystego: zarazą ⟨את⟩ niego — to ⟨jest⟩ ona.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "פשה",
-      "gloss": "rozprzestrzeni"
+      "gloss": "rozprzestrzeni się"
     },
     {
       "surface": "תפשה",
-      "gloss": "bardzo się rozprzestrzeni"
+      "gloss": "mocno"
     },
     {
       "surface": "בעור",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "uzna za nieczystego"
+      "gloss": "to uzna za nieczystego"
     },
     {
       "surface": "הכהן",
@@ -34,17 +34,17 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jego"
+      "marks": "go"
     },
     {
       "surface": "נגע",
-      "gloss": "plaga"
+      "gloss": "zarazą"
     },
     {
       "surface": "הוא",
-      "gloss": "to jest"
+      "gloss": "to ⟨jest⟩"
     }
   ],
-  "timestamp": "2026-08-24T22:44:17.522543075Z",
+  "timestamp": "2026-08-25T05:44:58.970602328Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł król: Ta ⟨jest⟩ ta, która mówi: To mój syn — ⟨ten⟩ żyjący, a syn twój — ⟨ten⟩ martwy; a ta ⟨jest⟩ ta, która mówi: Nie, lecz syn twój — ⟨ten⟩ martwy, a mój syn — ⟨ten⟩ żyjący.",
+  "translation": "I powiedział król: Ta mówi: To jest mój syn, ten żyjący, a twój syn to ten martwy; a ta druga mówi: Nie, lecz twój syn to ten martwy, a mój syn to ten żyjący.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "I powiedział"
     },
     {
       "surface": "המלך",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "החי",
-      "gloss": "żyjący"
+      "gloss": "ten żyjący"
     },
     {
       "surface": "ובנך",
-      "gloss": "a syn twój"
+      "gloss": "a twój syn"
     },
     {
       "surface": "המת",
-      "gloss": "martwy"
+      "gloss": "ten martwy"
     },
     {
       "surface": "וזאת",
-      "gloss": "a ta"
+      "gloss": "a ta druga"
     },
     {
       "surface": "אמרת",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "בנך",
-      "gloss": "syn twój"
+      "gloss": "twój syn"
     },
     {
       "surface": "המת",
-      "gloss": "martwy"
+      "gloss": "ten martwy"
     },
     {
       "surface": "ובני",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "החי",
-      "gloss": "żyjący"
+      "gloss": "ten żyjący"
     }
   ],
-  "timestamp": "2026-08-25T04:12:46.382845845Z",
+  "timestamp": "2026-08-25T05:59:23.347856369Z",
   "model": "glm-5.3"
 }

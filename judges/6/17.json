@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I rzekł do niego: Jeżeli znalazłem łaskę w twoich oczach, to uczynisz mi znak, że ⟨to⟩ ty mówisz ze mną.",
+  "translation": "I rzekł do niego: Jeśli teraz znalazłem łaskę w twoich oczach, to dokonaj dla mnie znaku, ⟨że⟩ to ty mówisz ze mną.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אליו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeżeli"
+      "gloss": "jeśli"
     },
     {
       "surface": "נא",
-      "gloss": "proszę"
+      "gloss": " teraz"
     },
     {
       "surface": "מצאתי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "to uczynisz"
+      "gloss": "to dokonaj"
     },
     {
       "surface": "לי",
-      "gloss": "mi"
+      "gloss": "dla mnie"
     },
     {
       "surface": "אות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שאתה",
-      "gloss": "że ty"
+      "gloss": "⟨że⟩ to ty"
     },
     {
       "surface": "מדבר",
@@ -60,6 +60,6 @@
       "gloss": "ze mną"
     }
   ],
-  "timestamp": "2026-08-24T23:26:56.254331805Z",
+  "timestamp": "2026-08-25T05:53:50.246873344Z",
   "model": "glm-5.3"
 }

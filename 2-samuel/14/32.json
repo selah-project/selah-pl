@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I rzekł Awszalom do Joaba: Oto posłałem do ciebie, mówiąc: Przyjdź tu, a poślę cię do króla, by powiedzieć: Po co przyszedłem z Geszuru? Dobrze mi ⟨było⟩ jeszcze tam być. A teraz ujrzę oblicze króla; a jeśli jest we mnie winna wina, to niech mnie uśmierci.",
+  "translation": "I rzekł Abszalom do Joaba: Oto posłałem do ⟨את⟩ ciebie, mówiąc: Przyjdź tu, a wyślę cię do króla, aby powiedzieć: Po co przyszedłem z Geszuru? Lepiej było mi, gdy jeszcze byłem tam. A teraz niech zobaczę oblicze króla; a jeśli jest we mnie winość, to niech mnie ⟨on⟩ uśmierci.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אבשלום",
-      "gloss": "Awszalom"
+      "gloss": "Abszalom"
     },
     {
       "surface": "אל",
@@ -49,12 +49,11 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "a poślę"
+      "gloss": "a wyślę"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "ciebie"
+      "gloss": "⟨את⟩ ciebie"
     },
     {
       "surface": "אל",
@@ -66,7 +65,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "by powiedzieć"
+      "gloss": "aby powiedzieć"
     },
     {
       "surface": "למה",
@@ -82,11 +81,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "dobrze"
+      "gloss": "lepiej"
     },
     {
       "surface": "לי",
-      "gloss": "mi"
+      "gloss": "było mi"
     },
     {
       "surface": "עד",
@@ -106,7 +105,7 @@
     },
     {
       "surface": "אראה",
-      "gloss": "ujrzę"
+      "gloss": "niech zobaczę"
     },
     {
       "surface": "פני",
@@ -130,13 +129,13 @@
     },
     {
       "surface": "עון",
-      "gloss": "winna wina"
+      "gloss": "winość"
     },
     {
       "surface": "והמתני",
       "gloss": "niech mnie uśmierci"
     }
   ],
-  "timestamp": "2026-08-24T23:49:45.665021183Z",
+  "timestamp": "2026-08-25T06:30:21.136635526Z",
   "model": "glm-5.3"
 }

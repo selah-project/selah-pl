@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I rzekł Mosze do Ahrona i do jego synów: Ugotujcie ⟨את⟩ mięso przy wejściu do Namiotu Spotkania i tam ⟨je⟩ zjedzcie, oraz ⟨את⟩ chleb, który jest w koszu consacracji, tak jak nakazałem, mówiąc: Ahron i jego synowie ⟨to⟩ zjedzą.",
+  "translation": "I rzekł Mosze do Ahrona i do jego synów: Ugotujcie ⟨את⟩ mięso przy wejściu Namiotu Spotkania, i tam zjedzcie ⟨את⟩ je, oraz ⟨את⟩ chleb, który jest w koszu konsekracji, tak jak nakazałem, mówiąc: Ahron i jego synowie zjedzą go.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
       "marks": "mięso"
     },
     {
-      "surface": "הבששר",
+      "surface": "הבשר",
       "gloss": "mięso"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "do Namiotu"
+      "gloss": "Namiotu"
     },
     {
       "surface": "מועד",
@@ -66,7 +66,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ je"
+      "gloss": "⟨את⟩",
+      "marks": "je (mięso)"
     },
     {
       "surface": "ואת",
@@ -87,7 +88,7 @@
     },
     {
       "surface": "המלאים",
-      "gloss": "consecracji"
+      "gloss": "konsekracji"
     },
     {
       "surface": "כאשר",
@@ -110,10 +111,10 @@
       "gloss": "i jego synowie"
     },
     {
-      "surface": "יאכלהu",
-      "gloss": "zjedzą"
+      "surface": "יאכלהו",
+      "gloss": "zjedzą go"
     }
   ],
-  "timestamp": "2026-08-24T22:42:39.060374882Z",
+  "timestamp": "2026-08-25T05:43:43.870170224Z",
   "model": "glm-5.3"
 }

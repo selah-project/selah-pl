@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I dodadzą pisarze mówić do ludu, i powiedzą: Kto ⟨to⟩ mąż lękliwy i o sercu miękkim? Niech idzie i wróci do swego domu, i niech nie roztopi ⟨את⟩ serca jego braci jak serce jego.",
+  "translation": "I dodadzą pisarze mówić do ludu, i powiedzą: Kto ⟨jest⟩ mężem lękliwym i o miękkim sercu? Niech idzie i niech wróci do swego domu, i niech nie topi ⟨את⟩ serca jego braci jak serce jego.",
   "tokens": [
     {
       "surface": "ויספו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ורך",
-      "gloss": "i miękkie"
+      "gloss": "i o miękkim sercu"
     },
     {
       "surface": "הלבב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "i wróci"
+      "gloss": "i niech wróci"
     },
     {
       "surface": "לביתו",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ימס",
-      "gloss": "roztopi"
+      "gloss": "niech topi"
     },
     {
       "surface": "את",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "לבב",
-      "gloss": "serce"
+      "gloss": "serca"
     },
     {
       "surface": "אחיו",
@@ -89,6 +89,6 @@
       "gloss": "jak serce jego"
     }
   ],
-  "timestamp": "2026-08-24T23:10:55.052534129Z",
+  "timestamp": "2026-08-25T05:51:11.543418427Z",
   "model": "glm-5.3"
 }

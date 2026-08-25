@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I niech się stanie: dziewczyna, do której powiem: nachyl, proszę, twój dzban, abym pił, i ona powie: pij, a także twoim wielbłądom dam pić — ⟨את⟩ niej wyznaczyłeś twemu słudze, dla Jicchaka; i przez to poznam, że okazałeś chesed memu panu.",
+  "translation": "I niech się stanie: dziewczyna, której powiem: Nachyl, proszę, twój dzban, abym się napił, i powie: Napij się, a także twoje wielbłądy napoję — ⟨את⟩ niej wyznaczyłeś dla twego sługi, dla Jicchaka; i przez to poznam, że okazałeś chesed memu panu.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "której"
     },
     {
       "surface": "אמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הטי",
-      "gloss": "nachyl"
+      "gloss": "Nachyl"
     },
     {
       "surface": "נא",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ואשתה",
-      "gloss": "abym pił"
+      "gloss": "abym się napił"
     },
     {
       "surface": "ואמרה",
-      "gloss": "i ona powie"
+      "gloss": "i powie"
     },
     {
       "surface": "שתה",
-      "gloss": "pij"
+      "gloss": "Napij się"
     },
     {
       "surface": "וגם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "גמליך",
-      "gloss": "twoim wielbłądom"
+      "gloss": "twoje wielbłądy"
     },
     {
       "surface": "אשקה",
-      "gloss": "dam pić"
+      "gloss": "napoję"
     },
     {
       "surface": "אתה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "twemu słudze"
+      "gloss": "dla twego sługi"
     },
     {
       "surface": "ליצחק",
@@ -102,9 +102,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "memu panu — עם"
+      "gloss": "memu (z)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panu"
     }
   ],
-  "timestamp": "2026-08-25T03:15:14.274113187Z",
+  "timestamp": "2026-08-25T05:38:04.924096033Z",
   "model": "glm-5.3"
 }

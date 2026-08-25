@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 27,
-  "translation": "I przed Elazarem kapłanem on stanie, i zapyta za niego według wyroku Urim przed Jahwe; według jego ust będą wychodzić i według jego ust będą wchodzić — on i wszyscy synowie Jisraela ⟨את⟩ z nim, i cała ⟨the⟩ społeczność.",
+  "translation": "I stanie przed Elazarem kapłanem, i zapyta za niego według wyroku Urim przed Jahwe; na jego słowo będą wychodzić i na jego słowo będą wchodzić — on i wszyscy synowie Israela ⟨את⟩ z nim, i cała społeczność.",
   "tokens": [
     {
       "surface": "ולפני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יעמד",
-      "gloss": "on stanie"
+      "gloss": "stanie"
     },
     {
       "surface": "ושאל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "על",
-      "gloss": "według"
+      "gloss": "na"
     },
     {
       "surface": "פיו",
-      "gloss": "jego ust"
+      "gloss": "jego słowo"
     },
     {
       "surface": "יצאו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "i według"
+      "gloss": "i na"
     },
     {
       "surface": "פיו",
-      "gloss": "jego ust"
+      "gloss": "jego słowo"
     },
     {
       "surface": "יבאו",
@@ -85,12 +85,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Israela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "z nim (tu את w funkcji przyimka 'z')"
+      "gloss": "⟨את⟩ z nim",
+      "marks": "z nim — przy nim, wraz z nim"
     },
     {
       "surface": "וכל",
@@ -101,6 +101,6 @@
       "gloss": "społeczność"
     }
   ],
-  "timestamp": "2026-08-24T22:59:58.920042655Z",
+  "timestamp": "2026-08-25T05:48:12.357842480Z",
   "model": "glm-5.3"
 }

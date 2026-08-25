@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "pl",
   "chapter": 38,
-  "translation": "Znasz ⟨to⟩, bo wtedy się urodziłeś, i liczba twoich dni jest wielka!",
+  "translation": "Znałeś ⟨to⟩, bo wtedy się urodziłeś, a liczba twoich dni ⟨jest⟩ wielka!",
   "tokens": [
     {
       "surface": "ידעת",
-      "gloss": "Znasz"
+      "gloss": "Znałeś"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומספר",
-      "gloss": "i liczba"
+      "gloss": "a liczba"
     },
     {
       "surface": "ימיך",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "רבים",
-      "gloss": "jest wielka"
+      "gloss": "wielka"
     }
   ],
-  "timestamp": "2026-08-25T02:24:26.399297955Z",
+  "timestamp": "2026-08-25T06:19:20.962358251Z",
   "model": "glm-5.3"
 }

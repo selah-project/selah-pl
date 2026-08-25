@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "to ty usłyszysz w niebiosach, mieszkaniu siedziby twojej, i odpuścisz, i uczynisz, i dasz każdemu wedle dróg jego, które znasz ⟨את⟩ serca jego; bo ty sam znasz sam serce wszystkich synów człowieka — ⟨את⟩ serce wszystkich synów ludzkich",
+  "translation": "a Ty usłyszysz z niebios, siedziby przebywania Twego, i odpuścisz, i uczynisz, i dasz każdemu człowiekowi według wszystkich dróg jego, których serce znasz ⟨את⟩, bo Ty sam znasz ⟨את⟩ serca wszystkich synów człowieka",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "to ty"
+      "gloss": "a Ty"
     },
     {
       "surface": "תשמע",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "השמים",
-      "gloss": "w niebiosach"
+      "gloss": "z niebios"
     },
     {
       "surface": "מכון",
-      "gloss": "mieszkaniu"
+      "gloss": "siedziba"
     },
     {
       "surface": "שבתך",
-      "gloss": "siedziby twojej"
+      "gloss": "przebywania Twego"
     },
     {
       "surface": "וסלחת",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "każdemu"
+      "gloss": "każdemu człowiekowi"
     },
     {
       "surface": "ככל",
-      "gloss": "wedle"
+      "gloss": "według wszystkich"
     },
     {
       "surface": "דרכיו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "których"
     },
     {
       "surface": "תדע",
@@ -62,11 +62,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serca jego"
+      "marks": "serce jego (לבבו)"
     },
     {
       "surface": "לבבו",
-      "gloss": "serca jego"
+      "gloss": "serce jego"
     },
     {
       "surface": "כי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "Ty"
     },
     {
       "surface": "ידעת",
@@ -87,11 +87,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serca wszystkich synów ludzkich"
+      "marks": "serca (לבב)"
     },
     {
       "surface": "לבב",
-      "gloss": "serce"
+      "gloss": "serca"
     },
     {
       "surface": "כל",
@@ -106,6 +106,6 @@
       "gloss": "człowieka"
     }
   ],
-  "timestamp": "2026-08-24T23:58:58.061909620Z",
+  "timestamp": "2026-08-25T05:59:32.882565523Z",
   "model": "glm-5.3"
 }

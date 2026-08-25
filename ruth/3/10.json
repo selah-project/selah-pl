@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł: Błogosławiona ty ⟨jesteś⟩ od Jahwe, córko moja; dobrze uczyniłaś chesed twój ten ostatni więcej niż pierwszy — nie szłaś za młodzieńcami, czy to biednym, czy bogatym.",
+  "translation": "I rzekł: Błogosławiona ty ⟨jesteś⟩ od Jahwe, córko moja; dobrze uczyniłaś: chesed twój ostatni większy niż pierwszy — ⟨w tym,⟩ że nie poszłaś za młodymi, ani za biednym, ani za bogaczem.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "את",
-      "gloss": "ty"
+      "gloss": "ty",
+      "marks": ""
     },
     {
       "surface": "ליהוה",
@@ -37,23 +38,23 @@
     },
     {
       "surface": "האחרון",
-      "gloss": "ten ostatni"
+      "gloss": "ostatni"
     },
     {
       "surface": "מן",
-      "gloss": "więcej niż"
+      "gloss": "od\/niż"
     },
     {
       "surface": "הראשון",
-      "gloss": "ten pierwszy"
+      "gloss": "pierwszy"
     },
     {
       "surface": "לבלתי",
-      "gloss": "że nie"
+      "gloss": "żeby nie"
     },
     {
       "surface": "לכת",
-      "gloss": "szłaś"
+      "gloss": "iść"
     },
     {
       "surface": "אחרי",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "czy to"
+      "gloss": "czy"
     },
     {
       "surface": "דל",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "ואם",
-      "gloss": "czy"
+      "gloss": "i czy"
     },
     {
       "surface": "עשיר",
-      "gloss": "bogatym"
+      "gloss": "bogaczem"
     }
   ],
-  "timestamp": "2026-08-25T03:49:58.656434822Z",
+  "timestamp": "2026-08-25T06:19:31.106959221Z",
   "model": "glm-5.3"
 }

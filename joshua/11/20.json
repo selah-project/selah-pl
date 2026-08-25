@@ -5,15 +5,16 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Bo od ⟨את⟩ Jahwe pochodziło to, aby umocnić ⟨את⟩ ich serca do podejmowania walki z ⟨את⟩ Jisraelem, aby ich obłożyć klątwą, aby nie było dla nich łaskawości, bo po to, aby ich wytępić — jak nakazał Jahwe ⟨את⟩ Moszemu.",
+  "translation": "Bo od ⟨את⟩ Jahwe przyszło wzmocnienie ⟨את⟩ ich serca, by stanęły do bitwy przeciw ⟨את⟩ Izraelowi, aby ich obłożyć banem, tak by nie było dla nich upraszania łaski, lecz aby ich wytępić, jak nakazał Jahwe ⟨את⟩ Moszemu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩"
+      "gloss": "⟨את⟩ od",
+      "marks": "Jahwe"
     },
     {
       "surface": "יהוה",
@@ -21,11 +22,11 @@
     },
     {
       "surface": "היתה",
-      "gloss": "było to"
+      "gloss": "przyszło"
     },
     {
       "surface": "לחזק",
-      "gloss": "aby umocnić"
+      "gloss": "wzmocnienie"
     },
     {
       "surface": "את",
@@ -38,19 +39,20 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "do podejmowania"
+      "gloss": "by stanęły do"
     },
     {
       "surface": "המלחמה",
-      "gloss": "walki"
+      "gloss": "bitwy"
     },
     {
       "surface": "את",
-      "gloss": "z ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Izraelowi"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelem"
+      "gloss": "Izraelowi"
     },
     {
       "surface": "למען",
@@ -58,11 +60,11 @@
     },
     {
       "surface": "החרימם",
-      "gloss": "ich obłożyć klątwą"
+      "gloss": "obłożyć ich banem"
     },
     {
       "surface": "לבלתי",
-      "gloss": "aby nie"
+      "gloss": "tak by nie"
     },
     {
       "surface": "היות",
@@ -74,19 +76,19 @@
     },
     {
       "surface": "תחנה",
-      "gloss": "łaskawości"
+      "gloss": "upraszanie łaski"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "lecz"
     },
     {
       "surface": "למען",
-      "gloss": "po to, aby"
+      "gloss": "aby"
     },
     {
       "surface": "השמידם",
-      "gloss": "ich wytępić"
+      "gloss": "wytępić ich"
     },
     {
       "surface": "כאשר",
@@ -110,6 +112,6 @@
       "gloss": "Moszemu"
     }
   ],
-  "timestamp": "2026-08-25T03:24:45.580595107Z",
+  "timestamp": "2026-08-25T05:52:04.633167198Z",
   "model": "glm-5.3"
 }

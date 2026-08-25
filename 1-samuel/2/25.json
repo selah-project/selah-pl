@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Jeśli zgrzeszy człowiek przeciw człowiekowi, ⟨to⟩ wstawi się za nim Elohim; a jeśli przeciw Jahwe zgrzeszy człowiek, kto się za niego będzie wstawiał? Lecz nie usłuchali głosu swojego ojca, bo Jahwe chciał ich zgładzić.",
+  "translation": "Jeśli człowiek zgrzeszy przeciw człowiekowi, Elohim ⟨go⟩ rozsądzi; ale jeśli przeciw Jahwe zgrzeszy człowiek, kto będzie się za niego wstawiał? I nie usłuchali głosu swego ojca, bo Jahwe chciał ich zabić.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Jeśli"
+      "gloss": "jeśli"
     },
     {
       "surface": "יחטא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ופללו",
-      "gloss": "wstawi się"
+      "gloss": "Elohim rozsądzi"
     },
     {
       "surface": "אלהים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "ale jeśli"
     },
     {
       "surface": "ליהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lecz nie"
+      "gloss": "i nie"
     },
     {
       "surface": "ישמעו",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אביהם",
-      "gloss": "swojego ojca"
+      "gloss": "swego ojca"
     },
     {
       "surface": "כי",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "להמיתם",
-      "gloss": "ich zgładzić"
+      "gloss": "ich zabić"
     }
   ],
-  "timestamp": "2026-08-24T23:34:01.957815670Z",
+  "timestamp": "2026-08-25T05:55:08.944225129Z",
   "model": "glm-5.3"
 }

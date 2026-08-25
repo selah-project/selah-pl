@@ -5,8 +5,53 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 4,
-  "translation": "podobieństwo jakiejkolwiek pełzającejś istoty na ziemi, podobieństwo jakiejkolwiekś ryby, która ⟨jest⟩ w wodach pod ziemią",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:05:19.201250769Z",
+  "translation": "podobieństwo wszelkiego pełzającego na roli, podobieństwo wszelkiej ryby, która ⟨jest⟩ w wodach pod ziemią",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "podobieństwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiego"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "pełzającego"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "na roli"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "podobieństwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiej"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "ryby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodach"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ziemią"
+    }
+  ],
+  "timestamp": "2026-08-25T05:50:22.007308957Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 37,
-  "translation": "I posłali ⟨את⟩ tunikę pasiastą, i przynieśli ⟨ją⟩ do swojego ojca, i powiedzieli: Toteż znaleźliśmy; rozpoznajże, czy ⟨jest⟩ to tunika twojego syna, czy nie.",
+  "translation": "I posłali ⟨את⟩ tunikę z pasami, i przynieśli ją do ich ojca, i powiedzieli: „Tę znaleźliśmy; rozpoznaj teraz, czy ⟨jest⟩ to tunika twego syna, czy nie”.",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunikę pasiastą"
+      "marks": "tunikę z pasami"
     },
     {
       "surface": "כתנת",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הפסים",
-      "gloss": "pasiastą"
+      "gloss": "z pasami"
     },
     {
       "surface": "ויביאו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אביהם",
-      "gloss": "swojego ojca"
+      "gloss": "ich ojca"
     },
     {
       "surface": "ויאמרו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "toteż"
+      "gloss": "tę"
     },
     {
       "surface": "מצאנו",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "הכר",
-      "gloss": "rozpoznajże"
+      "gloss": "rozpoznaj"
     },
     {
       "surface": "נא",
-      "gloss": "-że"
+      "gloss": "teraz"
     },
     {
       "surface": "הכתנת",
-      "gloss": "tunikę"
+      "gloss": "tunika"
     },
     {
       "surface": "בנך",
-      "gloss": "twojego syna"
+      "gloss": "twego syna"
     },
     {
       "surface": "הוא",
-      "gloss": "to ⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "אם",
@@ -77,6 +77,6 @@
       "gloss": "nie"
     }
   ],
-  "timestamp": "2026-08-24T22:21:02.411503675Z",
+  "timestamp": "2026-08-25T05:39:09.282138095Z",
   "model": "glm-5.3"
 }

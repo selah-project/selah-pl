@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Czyż to nie jest ten Dawid, któremu odpowiadali w pląsach, mówiąc: Saul zabił w tysiącach swoich, a Dawid w dziesięciu tysiącach swoich?",
+  "translation": "Czyż to nie jest Dawid, któremu śpiewano w tańcach, mówiąc: Saul pobił tysiące swoje, a Dawid dziesiątki tysięcy swoje?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "czyż nie"
+      "gloss": "czyż to nie"
     },
     {
       "surface": "זה",
-      "gloss": "ten"
+      "gloss": "to"
     },
     {
       "surface": "דוד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יענו",
-      "gloss": "odpowiadali"
+      "gloss": "śpiewano"
     },
     {
       "surface": "לו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "במחלות",
-      "gloss": "w pląsach"
+      "gloss": "w tańcach"
     },
     {
       "surface": "לאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "zabił"
+      "gloss": "pobił"
     },
     {
       "surface": "שאול",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "באלפיו",
-      "gloss": "w tysiącach swoich"
+      "gloss": "tysiące swoje"
     },
     {
       "surface": "ודוד",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ברבבתו",
-      "gloss": "w dziesięciu tysiącach swoich"
+      "gloss": "dziesiątki tysięcy swoje"
     }
   ],
-  "timestamp": "2026-08-24T23:44:00.868050447Z",
+  "timestamp": "2026-08-25T06:29:52.822068845Z",
   "model": "glm-5.3"
 }

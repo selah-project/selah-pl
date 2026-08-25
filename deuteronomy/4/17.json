@@ -5,8 +5,57 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 4,
-  "translation": "podobieństwo jakiejkolwiek zwierzęcia, które ⟨jest⟩ na ziemi, podobieństwo jakiejkolwiek skrzydlatejś ptaków, które lata na niebiosach",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:05:19.201068182Z",
+  "translation": "podobieństwo wszelkiego bydła, które ⟨jest⟩ na ziemi, podobieństwo wszelkiego ptaka skrzydlatego, który lata na niebiosach",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "podobieństwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiego"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "podobieństwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiego"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptaka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skrzydlatego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "lata"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na niebiosach"
+    }
+  ],
+  "timestamp": "2026-08-25T05:50:22.007003951Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 30,
-  "translation": "A jeśli unieważni je po swym usłyszeniu, to poniesie ⟨את⟩ jej winę.",
+  "translation": "A jeśli unicestwi je po usłyszeniu swoim, to poniesie ⟨את⟩ jej winę.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הפר",
-      "gloss": "unieważni"
+      "gloss": "unicestwi"
     },
     {
       "surface": "יפר",
-      "gloss": "unieważni"
+      "gloss": "unicestwi"
     },
     {
       "surface": "אתם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "swym usłyszeniu"
+      "gloss": "usłyszeniu swoim"
     },
     {
       "surface": "ונשא",
@@ -46,6 +46,6 @@
       "gloss": "jej winę"
     }
   ],
-  "timestamp": "2026-08-25T03:22:26.368972621Z",
+  "timestamp": "2026-08-25T05:49:01.686736600Z",
   "model": "glm-5.3"
 }

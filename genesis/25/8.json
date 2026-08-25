@@ -5,8 +5,49 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 25,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-24T22:15:59.063217139Z",
+  "translation": "I skonał, i umarł Abraham w sędziwości dobrej, stary i syty, i został zgromadzony do swego ludu.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "i skonał"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "w sędziwości"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrej"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "stary"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i syty"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i został zgromadzony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "swego ludu"
+    }
+  ],
+  "timestamp": "2026-08-25T05:37:28.440152300Z",
   "model": "glm-5.3"
 }

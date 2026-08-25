@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Lecz wszelako wyciągnij, прошę, rękę twoją i dotknij wszystkiego, co ma — jeśli nie na twoje oblicze będzie ci błogosławił!",
+  "translation": "Lecz wyciągnij wszak rękę twoją i dotknij wszystkiego, co ma — ⟨jeśli⟩ nie ⟨przeklnie⟩ cię na twoją twarz!”",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "lecz wszelako"
+      "gloss": "Lecz wszak"
     },
     {
       "surface": "שלח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "proszę"
+      "gloss": "wszak"
     },
     {
       "surface": "ידך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "⟨jeśli⟩"
     },
     {
       "surface": "לא",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "פניך",
-      "gloss": "twoje oblicze"
+      "gloss": "twarz twoją"
     },
     {
       "surface": "יברכך",
-      "gloss": "będzie ci błogosławił"
+      "gloss": "przeklnie cię"
     }
   ],
-  "timestamp": "2026-08-25T02:15:21.514851801Z",
+  "timestamp": "2026-08-25T06:18:29.197659673Z",
   "model": "glm-5.3"
 }

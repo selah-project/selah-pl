@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I pragnął tam lud wody, i szemrał lud przeciwko Moszowi, i powiedział: Czemu to wyprowadziłeś nas z Micraim, żeby umorzyć ⟨את⟩ mnie, i ⟨את⟩ moich synów, i ⟨את⟩ moje bydło pragnieniem?",
+  "translation": "I spragniony tam był lud ⟨wody⟩ na wodę, i szemrał lud przeciw Moszemu, i rzekł: Po co to wyprowadziłeś nas z Micrajim, aby uśmiercić ⟨את⟩ mnie i ⟨את⟩ moje syny, i ⟨את⟩ mój dobytek pragnieniem?",
   "tokens": [
     {
       "surface": "ויצמא",
-      "gloss": "i pragnął"
+      "gloss": "i spragniony był"
     },
     {
       "surface": "שם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "למים",
-      "gloss": "wody"
+      "gloss": "na wodę"
     },
     {
       "surface": "וילן",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "על",
-      "gloss": "przeciwko"
+      "gloss": "przeciw"
     },
     {
       "surface": "משה",
-      "gloss": "Moszowi"
+      "gloss": "Moszemu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "למה",
-      "gloss": "czemu"
+      "gloss": "po co"
     },
     {
       "surface": "זה",
@@ -57,40 +57,40 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "z Micraim"
+      "gloss": "z Micrajim"
     },
     {
       "surface": "להמית",
-      "gloss": "żeby umorzyć"
+      "gloss": "aby uśmiercić"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mnie",
+      "gloss": "⟨את⟩",
       "marks": "mnie"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "moich synów"
+      "gloss": "⟨את⟩",
+      "marks": "moje syny"
     },
     {
       "surface": "בני",
-      "gloss": "moich synów"
+      "gloss": "moje syny"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "moje bydło"
+      "gloss": "⟨את⟩",
+      "marks": "mój dobytek"
     },
     {
       "surface": "מקני",
-      "gloss": "moje bydło"
+      "gloss": "mój dobytek"
     },
     {
       "surface": "בצמא",
       "gloss": "pragnieniem"
     }
   ],
-  "timestamp": "2026-08-24T22:31:38.356500360Z",
+  "timestamp": "2026-08-25T05:41:07.051519382Z",
   "model": "glm-5.3"
 }

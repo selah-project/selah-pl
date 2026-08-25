@@ -5,16 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 114,
-  "translation": "Który odwraca ⟨את⟩ skałę w staw wód, krzemień w źródło wód!",
+  "translation": "Który obraca skałę w zbiornik wód, krzemień w źródło wód.",
   "tokens": [
     {
       "surface": "ההפכי",
-      "gloss": "Który odwraca"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "skałę"
+      "gloss": "Który obraca"
     },
     {
       "surface": "הצור",
@@ -22,7 +17,7 @@
     },
     {
       "surface": "אגם",
-      "gloss": "w staw"
+      "gloss": "w zbiornik"
     },
     {
       "surface": "מים",
@@ -41,6 +36,6 @@
       "gloss": "wód"
     }
   ],
-  "timestamp": "2026-08-25T02:01:50.144132763Z",
+  "timestamp": "2026-08-25T06:16:35.253508923Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Gdy wyruszy obóz przeciwko twoim nieprzyjaciołom, тогда strzeż się od wszelkiej rzeczy złej.",
+  "translation": "Gdy wyruszy obóz przeciwko twoim wrogom, to strzeż się od wszelkiej złej rzeczy.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "איביך",
-      "gloss": "twoim nieprzyjaciołom"
+      "gloss": "twoim wrogom"
     },
     {
       "surface": "ונשמרת",
-      "gloss": "strzeż się"
+      "gloss": "to strzeż się"
     },
     {
       "surface": "מכל",
@@ -44,6 +44,6 @@
       "gloss": "złej"
     }
   ],
-  "timestamp": "2026-08-24T23:11:34.589297457Z",
+  "timestamp": "2026-08-25T05:50:42.928386710Z",
   "model": "glm-5.3"
 }

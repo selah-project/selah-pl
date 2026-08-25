@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 45,
-  "translation": "Tak powiesz do niego: Tak mówi Jahwe: Oto co zbudowałem — ja burzę, i ⟨את⟩ to, co zasadziłem — ja wyrywam, i ⟨את⟩ całą tę ziemię — ⟨ona⟩.",
+  "translation": "Tak powiesz do niego: tak powiedział Jahwe: oto, co zbudowałem, ja burzę, i ⟨את⟩ to, co zasadziłem, ja wyrywam — i ⟨את⟩ całą ⟨tę⟩ ziemię, ona ⟨to⟩.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Tak"
+      "gloss": "tak"
     },
     {
       "surface": "תאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Tak"
+      "gloss": "tak"
     },
     {
       "surface": "אמר",
-      "gloss": "mówi"
+      "gloss": "powiedział"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Oto"
+      "gloss": "oto"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "to, co zasadziłem"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "całą tę ziemię"
     },
     {
@@ -83,13 +83,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tę ziemię"
+      "gloss": "ziemię"
     },
     {
       "surface": "היא",
-      "gloss": "⟨ona⟩"
+      "gloss": "ona ⟨to⟩"
     }
   ],
-  "timestamp": "2026-08-25T01:00:52.105960486Z",
+  "timestamp": "2026-08-25T06:09:56.277645214Z",
   "model": "glm-5.3"
 }

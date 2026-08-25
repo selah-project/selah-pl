@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I powiedział: którą drogą pójdziemy w górę? A on powiedział: drogą pustyni Edomu.",
+  "translation": "I rzekł: Któraż to droga, byśmy wstąpili? I rzekł: Drogą pustyni Edomu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I powiedział"
+      "gloss": "I rzekł"
     },
     {
       "surface": "אי",
-      "gloss": "którędy"
+      "gloss": "która"
     },
     {
       "surface": "זה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "drogą"
+      "gloss": "droga"
     },
     {
       "surface": "נעלה",
-      "gloss": "pójdziemy w górę"
+      "gloss": "byśmy wstąpili"
     },
     {
       "surface": "ויאמר",
-      "gloss": "A on powiedział"
+      "gloss": "I rzekł"
     },
     {
       "surface": "דרך",
-      "gloss": "drogą"
+      "gloss": "Drogą"
     },
     {
       "surface": "מדבר",
@@ -44,6 +44,6 @@
       "gloss": "Edomu"
     }
   ],
-  "timestamp": "2026-08-25T00:08:08.428597906Z",
+  "timestamp": "2026-08-25T06:02:26.042302526Z",
   "model": "glm-5.3"
 }

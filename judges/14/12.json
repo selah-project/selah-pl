@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I rzekł do nich Szimszon: Zawiążę wam teraz zagadkę; jeśli oznajmicie mi ją w ciągu siedmiu dni uczty i rozwiążecie ⟨ją⟩, to dam wam trzydzieści koszul lnianych i trzydzieść zmian ubrań.",
+  "translation": "I rzekł im Szimszon: Zahajuję, nu, dla was zagadkę — jeśli z pewnością wyjawicie mi ⟨את⟩ ją w siedmiu dniach uczty i znajdziecie ⟨ją⟩, to dam wam trzydzieści koszul lnianych i trzydzieści zmian ubrań.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "do nich"
+      "gloss": "im"
     },
     {
       "surface": "שמשון",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אחודה",
-      "gloss": "zawiążę"
+      "gloss": "zahajuję"
     },
     {
       "surface": "נא",
-      "gloss": "teraz"
+      "gloss": "nu"
     },
     {
       "surface": "לכם",
-      "gloss": "wam"
+      "gloss": "dla was"
     },
     {
       "surface": "חידה",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "הגד",
-      "gloss": "oznajmicie"
+      "gloss": "z pewnością"
     },
     {
       "surface": "תגידו",
-      "gloss": "oznajmicie"
+      "gloss": "wyjawicie"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (zagadkę)"
     },
     {
       "surface": "לי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "siedmiu"
+      "gloss": "siedem"
     },
     {
       "surface": "ימי",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ומצאתם",
-      "gloss": "i rozwiążecie"
+      "gloss": "i znajdziecie"
     },
     {
       "surface": "ונתתי",
-      "gloss": "to dam"
+      "gloss": "i dam"
     },
     {
       "surface": "לכם",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "ושלשים",
-      "gloss": "i trzydzieść"
+      "gloss": "i trzydzieści"
     },
     {
       "surface": "חלפת",
@@ -101,6 +101,6 @@
       "gloss": "ubrań"
     }
   ],
-  "timestamp": "2026-08-24T23:29:58.103060366Z",
+  "timestamp": "2026-08-25T05:54:57.040377920Z",
   "model": "glm-5.3"
 }

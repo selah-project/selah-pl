@@ -5,12 +5,12 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 8,
-  "translation": "⟨את⟩ to wszystko widziałem, i przykładałem ⟨את⟩ moje serce do wszelkiego dzieła, które czynione jest pod słońcem — ⟨był⟩ czas, gdy człowiek władał nad człowiekiem, ku jego złu.",
+  "translation": "⟨את⟩ wszystko to widziałem i przykładałem ⟨את⟩ moje serce do każdego dzieła, które wykonano pod słońcem: ⟨jest⟩ czas, gdy człowiek panuje nad człowiekiem ku jego złu.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to wszystko"
+      "marks": "wszystko to"
     },
     {
       "surface": "כל",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "do wszelkiego"
+      "gloss": "do każdego"
     },
     {
       "surface": "מעשה",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "czynione jest"
+      "gloss": "wykonano"
     },
     {
       "surface": "תחת",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "שלט",
-      "gloss": "władał"
+      "gloss": "panuje"
     },
     {
       "surface": "האדם",
@@ -90,6 +90,6 @@
       "gloss": "jego"
     }
   ],
-  "timestamp": "2026-08-25T02:32:48.988787347Z",
+  "timestamp": "2026-08-25T06:21:51.672145842Z",
   "model": "glm-5.3"
 }

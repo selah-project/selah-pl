@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Za przestępstwo Jaakowa ⟨jest⟩ wszystko to, i za grzechy domu Israela. Które ⟨jest⟩ przestępstwo Jaakowa? Czy nie Szomeron? I które ⟨są⟩ wyżyny Jehudy? Czy nie Jeruszalaim?",
+  "translation": "Za bunt Jaakowa wszystko to, i za grzechy domu Jisraela. Kim ⟨jest⟩ bunt Jaakowa? Czy nie Szomeron? A czym wyżyny Jehudy? Czy nie Jeruszalaim?",
   "tokens": [
     {
       "surface": "בפשע",
-      "gloss": "za przestępstwo"
+      "gloss": "za bunt"
     },
     {
       "surface": "יעקב",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "מי",
-      "gloss": "które"
+      "gloss": "kim"
     },
     {
       "surface": "פשע",
-      "gloss": "przestępstwo"
+      "gloss": "bunt"
     },
     {
       "surface": "יעקב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ומי",
-      "gloss": "i które"
+      "gloss": "a czym"
     },
     {
       "surface": "במות",
@@ -76,6 +76,6 @@
       "gloss": "Jeruszalaim"
     }
   ],
-  "timestamp": "2026-08-25T01:36:16.345341713Z",
+  "timestamp": "2026-08-25T06:13:58.477131097Z",
   "model": "glm-5.3"
 }

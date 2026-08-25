@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "A teraz, Jahwe, Elohim Jisraela, zachowaj swojemu słudze Dawidowi, memu ojcu, ⟨את⟩ to, co mówiłeś mu, mówiąc: Nie będzie odcięty tobie człowiek sprzed mojego oblicza, zasiadający na tronie Jisraela — tylko jeśli twoi synowie będą strzec ⟨את⟩ swojej drogi, aby chodzić przed moim obliczem, jak ty chodziłeś przed moim obliczem.",
+  "translation": "A teraz, Jahwe, Elohim Jisraela, zachowaj swojemu słudze Dawidowi, memu ojcu, ⟨את⟩ to, co mu powiedziałeś, mówiąc: nie będzie ci odcięty mężczyzna sprzed mojego oblicza, zasiadający na tronie Jisraela — tylko jeśli twoi synowie będą strzec ⟨את⟩ swojej drogi, aby chodzić przed moim obliczem, jak ty chodziłeś przed moim obliczem.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -42,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co mówiłeś mu"
+      "marks": "to, co mu powiedziałeś"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "דברת",
-      "gloss": "mówiłeś"
+      "gloss": "powiedziałeś"
     },
     {
       "surface": "לו",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "tobie"
+      "gloss": "ci"
     },
     {
       "surface": "איש",
-      "gloss": "człowiek"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "מלפני",
-      "gloss": "sprzed mojego oblicza"
+      "gloss": "sprzed oblicza"
     },
     {
       "surface": "ישב",
@@ -127,7 +127,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "przed moim obliczem"
+      "gloss": "przed obliczem"
     },
     {
       "surface": "כאשר",
@@ -139,9 +139,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "przed moim obliczem"
+      "gloss": "przed obliczem"
     }
   ],
-  "timestamp": "2026-08-25T00:00:30.261902368Z",
+  "timestamp": "2026-08-25T05:59:50.229359553Z",
   "model": "glm-5.3"
 }

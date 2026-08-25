@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 47,
-  "translation": "ziemia Micraim przed tobą ⟨jest⟩; w najlepszej części kraju osadź ⟨את⟩ ojca twego i ⟨את⟩ braci twoich; niech mieszkają w ziemi Goszen; a jeśli znasz ⟨ich⟩ i są wśród nich mężowie dzielni, to ustanów ich przełożonymi nad bydłem tego, co moje.",
+  "translation": "Ziemia Micrajim przed tobą ⟨jest⟩; w najlepszej części ziemi osiedl ⟨את⟩ twego ojca i ⟨את⟩ twoich braci; niech mieszkają w ziemi Goszen; a jeśli znasz ⟨to⟩ i są wśród nich mężowie dzielni, ustanów ich przełożonymi bydła nad tym, co jest moje.",
   "tokens": [
     {
       "surface": "ארץ",
-      "gloss": "ziemia"
+      "gloss": "Ziemia"
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraim"
+      "gloss": "Micrajim"
     },
     {
       "surface": "לפניך",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "kraju"
+      "gloss": "ziemi"
     },
     {
       "surface": "הושב",
-      "gloss": "osadź"
+      "gloss": "osiedl"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ojca twego"
+      "marks": "twego ojca"
     },
     {
       "surface": "אביך",
-      "gloss": "ojca twego"
+      "gloss": "twego ojca"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "braci twoich"
+      "marks": "twoich braci"
     },
     {
       "surface": "אחיך",
-      "gloss": "braci twoich"
+      "gloss": "twoich braci"
     },
     {
       "surface": "ישבו",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "to ustanów ich"
+      "gloss": "ustanów ich"
     },
     {
       "surface": "שרי",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "מקנה",
-      "gloss": "nad bydłem"
+      "gloss": "bydła"
     },
     {
       "surface": "על",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tego, co"
+      "gloss": "tym, co"
     },
     {
       "surface": "לי",
-      "gloss": "moje"
+      "gloss": "jest moje"
     }
   ],
-  "timestamp": "2026-08-24T22:24:39.949767851Z",
+  "timestamp": "2026-08-25T05:39:52.323877652Z",
   "model": "glm-5.3"
 }

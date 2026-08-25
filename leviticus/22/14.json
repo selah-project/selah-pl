@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A jeśli mężczyzna zje rzecz świętą przez niedopatrzenie, to doda jej piątą część i da kapłanowi ⟨את⟩ ⟨tę⟩ rzecz świętą.",
+  "translation": "A jeśli człowiek zje rzecz świętą przez pomyłkę, doda jej piątą część do niej i da kapłanowi ⟨את⟩ rzecz świętą.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "A jeśli mężczyzna"
+      "gloss": "a człowiek"
     },
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בשגגה",
-      "gloss": "przez niedopatrzenie"
+      "gloss": "przez pomyłkę"
     },
     {
       "surface": "ויסף",
-      "gloss": "to doda"
+      "gloss": "doda"
     },
     {
       "surface": "חמשיתו",
@@ -40,7 +40,7 @@
       "gloss": "do niej"
     },
     {
-      "surface": "וינתן",
+      "surface": "ונתן",
       "gloss": "i da"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "rzecz świętą"
     }
   ],
-  "timestamp": "2026-08-24T22:47:09.179958090Z",
+  "timestamp": "2026-08-25T05:45:34.563466888Z",
   "model": "glm-5.3"
 }

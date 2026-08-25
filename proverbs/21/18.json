@@ -5,27 +5,23 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Okup ⟨dla⟩ sprawiedliwego — niesprawiedliwy, a w miejsce prostych — zdrajca.",
+  "translation": "Okupem za sprawiedliwego ⟨jest⟩ niegodziwy, a za prostych — zdrajca.",
   "tokens": [
     {
       "surface": "כפר",
-      "gloss": "okup"
+      "gloss": "okupem"
     },
     {
       "surface": "לצדיק",
-      "gloss": "dla sprawiedliwego"
+      "gloss": "za sprawiedliwego"
     },
     {
       "surface": "רשע",
-      "gloss": "niesprawiedliwy"
+      "gloss": "niegodziwy"
     },
     {
-      "surface": "ו",
-      "gloss": "a"
-    },
-    {
-      "surface": "תחת",
-      "gloss": "w miejsce"
+      "surface": "ותחת",
+      "gloss": "a za"
     },
     {
       "surface": "ישרים",
@@ -36,6 +32,6 @@
       "gloss": "zdrajca"
     }
   ],
-  "timestamp": "2026-08-25T02:11:32.912409844Z",
+  "timestamp": "2026-08-25T06:17:54.385851192Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I wysłał Chiram, król Coru, ⟨את⟩ sługi swoje do Szlomo, bo usłyszał, że go namaścili na króla вместо ojca jego, bo miłością był Chiram dla Dawida przez wszystkie dni.",
+  "translation": "I wysłał Chiram, król Coru, ⟨את⟩ swoich sług do Szelomo, bo usłyszał, że go namaścili na króla zamiast jego ojca, bo Chiram był miłośnikiem Dawida przez wszystkie dni.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sługi swoje"
+      "marks": "swoich sług"
     },
     {
       "surface": "עבדיו",
-      "gloss": "sługi swoje"
+      "gloss": "swoich sług"
     },
     {
       "surface": "אל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Szlomo"
+      "gloss": "Szelomo"
     },
     {
       "surface": "כי",
@@ -54,7 +54,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go"
+      "gloss": "⟨את⟩ go",
+      "marks": "go (namaścili go)"
     },
     {
       "surface": "משחו",
@@ -70,7 +71,7 @@
     },
     {
       "surface": "אביהו",
-      "gloss": "ojca jego"
+      "gloss": "jego ojca"
     },
     {
       "surface": "כי",
@@ -78,7 +79,7 @@
     },
     {
       "surface": "אהב",
-      "gloss": "miłością"
+      "gloss": "miłośnikiem"
     },
     {
       "surface": "היה",
@@ -90,17 +91,17 @@
     },
     {
       "surface": "לדוד",
-      "gloss": "dla Dawida"
+      "gloss": "Dawida"
     },
     {
       "surface": "כל",
-      "gloss": "przez wszystkie"
+      "gloss": "wszystkie"
     },
     {
       "surface": "הימים",
       "gloss": "dni"
     }
   ],
-  "timestamp": "2026-08-24T23:57:17.619925477Z",
+  "timestamp": "2026-08-25T07:00:41.504071568Z",
   "model": "glm-5.3"
 }

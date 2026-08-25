@@ -5,8 +5,37 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-25T00:25:13.097763316Z",
+  "translation": "Zburzone zostało miasto nicości; zamknięty jest każdy dom przed wejściem.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "zburzone zostało"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "nicości"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zamknięty jest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "przed wejściem"
+    }
+  ],
+  "timestamp": "2026-08-25T06:04:40.786111250Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I mówiliście: «Oto męcząca rzecz», i wzgardziliście ⟨nią⟩ — mówi Jahwe Сваоот… mówi Jahwe zastępów; i przyprowadziliście to, co porwane, oraz ⟨את⟩ kulawego i ⟨את⟩ chorego, i przynieśliście ⟨את⟩ ofiarę — czy przyjmę ⟨ją⟩ z waszej ręki? — mówi Jahwe.",
+  "translation": "I mówiliście: «Oto udręka!» i wzdragaliście się ⟨את⟩ nią — mówi Jahwe Zastępów; i przywieźliście to, co porwane, i ⟨את⟩ kulawego, i ⟨את⟩ chorego, i przynieśliście ⟨את⟩ ofiarę — czy mam ją przyjąć z waszej ręki? mówi Jahwe Zastępów.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "מתלאה",
-      "gloss": "męcząca rzecz"
+      "gloss": "udręka"
     },
     {
       "surface": "והפחתם",
-      "gloss": "i wzgardziliście"
+      "gloss": "i wzdragaliście się"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "to (stoła ofiarna)"
+      "marks": "nią"
     },
     {
       "surface": "אמר",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "zastępów"
+      "gloss": "Zastępów"
     },
     {
       "surface": "והבאתם",
-      "gloss": "i przyprowadziliście"
+      "gloss": "i przywieźliście"
     },
     {
       "surface": "גזול",
-      "gloss": "porwane"
+      "gloss": "to, co porwane"
     },
     {
       "surface": "ואת",
@@ -81,12 +81,12 @@
     },
     {
       "surface": "הארצה",
-      "gloss": "czy przyjmę"
+      "gloss": "czy mam przyjąć"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ją (ofiarę)"
+      "marks": "ją"
     },
     {
       "surface": "מידכם",
@@ -101,6 +101,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:41:55.211313696Z",
+  "timestamp": "2026-08-25T06:15:54.778139717Z",
   "model": "glm-5.3"
 }

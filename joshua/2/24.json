@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I powiedzieli do Jehoszuy: Zaprawdę Jahwe dał w nasze ręce ⟨את⟩ całą ziemię, a także rozpływają się wszyscy mieszkańcy ziemi przed nami.",
+  "translation": "I powiedzieli do Jehoszuy: Jahwe wydał w nasze ręce ⟨את⟩ całą ⟨tę⟩ ziemię, a także stopniało wszystkich mieszkańców ziemi przed nami.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "i powiedzieli"
+      "gloss": "I powiedzieli"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "zaprawdę"
+      "gloss": "że z pewnością"
     },
     {
       "surface": "נתן",
-      "gloss": "dał"
+      "gloss": "wydał"
     },
     {
       "surface": "יהוה",
@@ -54,21 +54,25 @@
     },
     {
       "surface": "נמגו",
-      "gloss": "rozpływają się"
+      "gloss": "stopniało"
     },
     {
       "surface": "כל",
-      "gloss": "wszyscy"
+      "gloss": "wszystkich"
     },
     {
-      "surface": "יושבי הארץ",
-      "gloss": "mieszkańcy ziemi"
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
     },
     {
       "surface": "מפנינו",
       "gloss": "przed nami"
     }
   ],
-  "timestamp": "2026-08-24T23:17:17.842529193Z",
+  "timestamp": "2026-08-25T05:52:05.056144883Z",
   "model": "glm-5.3"
 }

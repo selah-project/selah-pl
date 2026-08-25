@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 47,
-  "translation": "I rzekł Jaakow do Paro: dni pielgrzymek moich сто dziesięć lat i trzydzieści — małe i złe były dni lat życia mojego i nie sięgnęły ⟨את⟩ dni lat życia ojców moich za dni pielgrzymek ich.",
+  "translation": "I rzekł Jaakow do Paro: dni lat moich pielgrzymek — trzydzieści i sto lat; nieliczne i złe były dni lat mojego życia, i nie sięgnęły ⟨את⟩ dni lat życia moich ojców w dniach ich pielgrzymek.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מגורי",
-      "gloss": "pielgrzymek moich"
+      "gloss": "moich pielgrzymek"
     },
     {
       "surface": "שלשים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מעט",
-      "gloss": "małe"
+      "gloss": "nieliczne"
     },
     {
       "surface": "ורעים",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "חיי",
-      "gloss": "życia mojego"
+      "gloss": "mojego życia"
     },
     {
       "surface": "ולא",
@@ -82,7 +82,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dni lat życia ojców moich"
+      "marks": "dni lat życia moich ojców"
     },
     {
       "surface": "ימי",
@@ -98,17 +98,17 @@
     },
     {
       "surface": "אבתי",
-      "gloss": "ojców moich"
+      "gloss": "moich ojców"
     },
     {
       "surface": "בימי",
-      "gloss": "za dni"
+      "gloss": "w dniach"
     },
     {
       "surface": "מגוריהם",
-      "gloss": "pielgrzymek ich"
+      "gloss": "ich pielgrzymek"
     }
   ],
-  "timestamp": "2026-08-24T22:24:09.536522203Z",
+  "timestamp": "2026-08-25T06:31:39.229841688Z",
   "model": "glm-5.3"
 }

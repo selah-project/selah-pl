@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 19,
-  "translation": "A teraz wstań, wyjdź i mów do serca sług twoich, bo przysiągłem na Jahwe: jeśli nie wyjdziesz, zawiezie ⟨את⟩ z tobą tej nocy ani jeden mąż — i będzie to zło dla ciebiesże większe od całego zła, które przyszło na ciebie od młodości twojej aż dotąd",
+  "translation": "A teraz wstań, wyjdź i mów do serca twoich sług, bo przysiągłem na Jahwe: jeśli nie wyjdziesz, nie zostanie na noc z tobą ⟨את⟩ ani jeden mężczyzna tej nocy — i będzie to dla ciebie gorsze niż wszelkie zło, które przyszło na ciebie od twojej młodości aż dotąd.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "sług twoich"
+      "gloss": "twoich sług"
     },
     {
       "surface": "כי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "jeśli"
     },
     {
       "surface": "אינך",
-      "gloss": "jeśli nie"
+      "gloss": "nie"
     },
     {
       "surface": "יוצא",
@@ -61,23 +61,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "zawiezie"
+      "gloss": "nie zostanie"
     },
     {
-      "surface": "יוצא",
-      "gloss": ""
-    },
-    {
-      "surface": "יוצא",
-      "gloss": ""
-    },
-    {
-      "surface": "יוצא",
-      "gloss": "⟨את⟩"
+      "surface": "ילין",
+      "gloss": "na noc"
     },
     {
       "surface": "איש",
-      "gloss": "ani jeden mąż"
+      "gloss": "ani jeden mężczyzna"
     },
     {
       "surface": "אתך",
@@ -89,7 +81,7 @@
     },
     {
       "surface": "ורעה",
-      "gloss": "i będzie zło"
+      "gloss": "i będzie gorsze"
     },
     {
       "surface": "לך",
@@ -101,11 +93,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "od całego"
+      "gloss": "niż wszelkie"
     },
     {
       "surface": "הרעה",
-      "gloss": "zła"
+      "gloss": "zło"
     },
     {
       "surface": "אשר",
@@ -121,7 +113,7 @@
     },
     {
       "surface": "מנעריך",
-      "gloss": "od młodości twojej"
+      "gloss": "od twojej młodości"
     },
     {
       "surface": "עד",
@@ -132,6 +124,6 @@
       "gloss": "dotąd"
     }
   ],
-  "timestamp": "2026-08-24T23:53:24.414371872Z",
+  "timestamp": "2026-08-25T05:59:05.035401811Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I rzekł strażnik: ja widzę bieg pierwszego jak bieg Achimaasa, syna Cadoka. I rzekł król: mąż to dobry, i z dobrą wieścią przyjdzie.",
+  "translation": "I rzekł stróż: Ja widzę ⟨את⟩ bieg pierwszego — jak bieg Achimaasa, syna Cadoka. I rzekł król: Mąż dobry to ⟨ten⟩, i z dobrą nowiną przyjdzie.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הצפה",
-      "gloss": "strażnik"
+      "gloss": "stróż"
     },
     {
       "surface": "אני",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bieg"
+      "marks": "bieg pierwszego"
     },
     {
       "surface": "מרוצת",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "to ⟨ten⟩"
     },
     {
       "surface": "ואל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "בשורה",
-      "gloss": "wieścią"
+      "gloss": "dobrą nowiną"
     },
     {
       "surface": "טובה",
@@ -89,6 +89,6 @@
       "gloss": "przyjdzie"
     }
   ],
-  "timestamp": "2026-08-24T23:51:33.755252860Z",
+  "timestamp": "2026-08-25T05:58:41.791017396Z",
   "model": "glm-5.3"
 }

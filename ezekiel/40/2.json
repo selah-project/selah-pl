@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 40,
-  "translation": "W widzeniach Elohim przywiódł mnie do ziemi Jisraela, i postawił mnie na górze bardzo wysokiej, a na niej ⟨było⟩ jak budowa miasta, od południa.",
+  "translation": "W widzeniach Elohim wprowadził mnie do ziemi Jisraela i postawił mnie na górze bardzo wysokiej, a na niej ⟨było⟩ jakby zabudowanie miasta od południa.",
   "tokens": [
     {
       "surface": "במראות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הביאני",
-      "gloss": "przywiódł mnie"
+      "gloss": "wprowadził mnie"
     },
     {
       "surface": "אל",
@@ -52,16 +52,12 @@
       "gloss": "bardzo"
     },
     {
-      "surface": "ויניחני_ועליו",
-      "gloss": ""
-    },
-    {
       "surface": "ועליו",
       "gloss": "a na niej"
     },
     {
       "surface": "כמבנה",
-      "gloss": "jak budowa"
+      "gloss": "jakby zabudowanie"
     },
     {
       "surface": "עיר",
@@ -72,6 +68,6 @@
       "gloss": "od południa"
     }
   ],
-  "timestamp": "2026-08-25T01:27:30.730633267Z",
+  "timestamp": "2026-08-25T06:12:06.505030605Z",
   "model": "glm-5.3"
 }

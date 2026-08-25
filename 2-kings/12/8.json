@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I przywołał król Jehoasz Jehojadę kapłana ⟨i⟩ kapłanów, i rzekł do nich: dlaczego nie umacniacie ⟨את⟩ uszkodzeń domu? A teraz nie bierzcie już srebra od ⟨את⟩ waszych znajomych, bo ⟨to⟩ na uszkodzenia domu dajecie ⟨je⟩.",
+  "translation": "I przywołał król Jehoasz Jehojadę kapłana i ⟨את⟩ kapłanów, i rzekł do nich: Dlaczego nie wzmacniacie ⟨את⟩ pęknięć świątyni? A teraz nie bierzcie srebra od ⟨את⟩ swoich znajomych, bo na pęknięcia świątyni dacie je.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ליהוידע",
-      "gloss": "Jehojadzie"
+      "gloss": "Jehojadę"
     },
     {
       "surface": "הכהן",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "מחזקים",
-      "gloss": "umacniacie"
+      "gloss": "wzmacniacie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uszkodzeń"
+      "marks": "pęknięć"
     },
     {
       "surface": "בדק",
-      "gloss": "uszkodzeń"
+      "gloss": "pęknięć"
     },
     {
       "surface": "הבית",
-      "gloss": "domu"
+      "gloss": "świątyni"
     },
     {
-      "surface": "ועתה",
+      "surface": "וועתה",
       "gloss": "a teraz"
     },
     {
@@ -82,12 +82,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩",
-      "marks": "waszych znajomych"
+      "gloss": "od ⟨את⟩"
     },
     {
       "surface": "מכריכם",
-      "gloss": "waszych znajomych"
+      "gloss": "swoich znajomych"
     },
     {
       "surface": "כי",
@@ -95,17 +94,17 @@
     },
     {
       "surface": "לבדק",
-      "gloss": "na uszkodzenia"
+      "gloss": "na pęknięcia"
     },
     {
       "surface": "הבית",
-      "gloss": "domu"
+      "gloss": "świątyni"
     },
     {
       "surface": "תתנהו",
-      "gloss": "dajecie je"
+      "gloss": "dacie je"
     }
   ],
-  "timestamp": "2026-08-25T00:12:39.892886317Z",
+  "timestamp": "2026-08-25T07:01:27.664992155Z",
   "model": "glm-5.3"
 }

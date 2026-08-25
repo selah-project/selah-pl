@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Bo wstąpiła śmierć przez nasze okna, wkroczyła w nasze pałace, aby wyciąć ⟨את⟩ niemowlę z zewnątrz, młodych z placów.",
+  "translation": "Bo wstąpiła śmierć przez nasze okna, wkroczyła do naszych pałaców, by wyciąć ⟨dzieci⟩ z zewnątrz, młodzieńców z placów.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,20 +29,15 @@
     },
     {
       "surface": "בארמנותינו",
-      "gloss": "w nasze pałace"
+      "gloss": "do naszych pałaców"
     },
     {
       "surface": "להכרית",
-      "gloss": "aby wyciąć"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "niemowlę"
+      "gloss": "by wyciąć"
     },
     {
       "surface": "עולל",
-      "gloss": "niemowlę"
+      "gloss": "dzieci"
     },
     {
       "surface": "מחוץ",
@@ -50,13 +45,13 @@
     },
     {
       "surface": "בחורים",
-      "gloss": "młodych"
+      "gloss": "młodzieńcy"
     },
     {
       "surface": "מרחבות",
       "gloss": "z placów"
     }
   ],
-  "timestamp": "2026-08-25T03:35:55.118880519Z",
+  "timestamp": "2026-08-25T06:07:17.916276851Z",
   "model": "glm-5.3"
 }

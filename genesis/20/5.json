@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Czyż nie on powiedział mi: siostrą moją ⟨jest⟩ ona, i ona również sama powiedziała: bratem moim ⟨jest⟩ on? W niewinności mego serca i w czystości moich rąk uczyniłem to.",
+  "translation": "Czyż nie on powiedział mi: siostra moja ⟨jest⟩ ona? I ona, również ona sama, powiedziała: brat mój ⟨jest⟩ on. W prostocie serca mego i w czystości rąk moich uczyniłem to.",
   "tokens": [
     {
       "surface": "הלא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אחתי",
-      "gloss": "siostrą moją"
+      "gloss": "siostra moja"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩ ona"
+      "gloss": "ona"
     },
     {
       "surface": "והיא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "sama"
+      "gloss": "ona sama"
     },
     {
       "surface": "אמרה",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אחי",
-      "gloss": "bratem moim"
+      "gloss": "brat mój"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩ on"
+      "gloss": "on"
     },
     {
       "surface": "בתם",
-      "gloss": "w niewinności"
+      "gloss": "w prostocie"
     },
     {
       "surface": "לבבי",
-      "gloss": "mego serca"
+      "gloss": "serca mego"
     },
     {
       "surface": "ובנקין",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "כפי",
-      "gloss": "moich rąk"
+      "gloss": "rąk moich"
     },
     {
       "surface": "עשיתי",
@@ -80,6 +80,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T22:15:28.226344623Z",
+  "timestamp": "2026-08-25T05:38:06.480760681Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 32,
-  "translation": "A on rzekł: ⟨to⟩ nie ⟨jest⟩ głos okrzyku zwycięstwa i nie ⟨jest⟩ głos okrzyku klęski — głos okrzyków śpiewu ja słyszę.",
+  "translation": "I rzekł: ⟨nie ma⟩ głosu okrzyków zwycięstwa i ⟨nie ma⟩ głosu okrzyków porażki — głos okrzyków śpiewu ja słyszę.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אין",
-      "gloss": "nie"
+      "gloss": "⟨nie ma⟩"
     },
     {
       "surface": "קול",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ענות",
-      "gloss": "okrzyku"
+      "gloss": "okrzyków"
     },
     {
       "surface": "גבורה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "i nie"
+      "gloss": "i ⟨nie ma⟩"
     },
     {
       "surface": "קול",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ענות",
-      "gloss": "okrzyku"
+      "gloss": "okrzyków"
     },
     {
       "surface": "חלושה",
-      "gloss": "klęski"
+      "gloss": "porażki"
     },
     {
       "surface": "קול",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ענות",
-      "gloss": "okrzyków śpiewu"
+      "gloss": "okrzyków"
     },
     {
       "surface": "אנכי",
@@ -60,6 +60,6 @@
       "gloss": "słyszę"
     }
   ],
-  "timestamp": "2026-08-24T22:37:08.469442655Z",
+  "timestamp": "2026-08-25T05:42:35.455038439Z",
   "model": "glm-5.3"
 }

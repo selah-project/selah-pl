@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I rzekł do niego Zebul: Gdzież teraz twoje usta, którymi mówiłeś: Kto ⟨jest⟩ Awimelech, żebyśmy mu służyli? Czyż nie ten ⟨to⟩ lud, którym wzgardziłeś? Wyjdź teraz i walcz z nim!",
+  "translation": "I rzekł do niego Zebul: Gdzież teraz twoja pycha, ty, który mówiłeś: Kto to ⟨jest⟩ Awimelech, że mamy mu służyć? Czyż nie ten ⟨jest⟩ lud, którym wzgardziłeś? Wyjdź teraz i walcz z nim!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פיך",
-      "gloss": "twoje usta"
+      "gloss": "twoja pycha (dosł. twoje usta)"
     },
     {
       "surface": "אשר",
-      "gloss": "którymi"
+      "gloss": "ty, który"
     },
     {
       "surface": "תאמר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "żeby"
+      "gloss": "że"
     },
     {
       "surface": "נעבדנו",
-      "gloss": "mu służyli"
+      "gloss": "mamy mu służyć"
     },
     {
       "surface": "הלא",
@@ -85,14 +85,14 @@
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "proszę"
     },
     {
       "surface": "עתה",
       "gloss": "teraz"
     },
     {
-      "surface": "ווהלחם",
+      "surface": "והלחם",
       "gloss": "i walcz"
     },
     {
@@ -100,6 +100,6 @@
       "gloss": "z nim"
     }
   ],
-  "timestamp": "2026-08-24T23:27:43.874230569Z",
+  "timestamp": "2026-08-25T06:29:16.248669341Z",
   "model": "glm-5.3"
 }

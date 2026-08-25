@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 48,
-  "translation": "A to, co pozostaje ⟨będzie⟩ dla księcia, z tej strony i z tamtej strony ofiary wzniesionej świętości i posiadłości miasta: na przestrzeni dwudziestu pięciu tysięcy ofiary wzniesionej aż do granicy ku wschodowi, a ku morzu na przestrzeni dwudziestu pięciu tysięcy aż do granicy ku morzu, naprzeciw części dla księcia; i ⟨będzie⟩ ofiara wzniesiona świętości oraz świątynia świątyni pośrodku niej.",
+  "translation": "A to, co pozostaje, ⟨będzie⟩ dla księcia — z tej strony i z tamtej strony terumy świętości i posiadłości miasta: na przestrzeni pięciu i dwudziestu tysięcy terumy aż do granicy na wschód, i na zachód — na przestrzeni pięciu i dwudziestu tysięcy aż do granicy ku morzu — naprzeciwko części dla księcia; i będzie teruma świętości i świątynia Domu pośród niego.",
   "tokens": [
     {
       "surface": "והנותר",
-      "gloss": "a to, co pozostaje"
+      "gloss": "A to, co pozostaje"
     },
     {
       "surface": "לנשיא",
@@ -25,16 +25,15 @@
     },
     {
       "surface": "לתרומת",
-      "gloss": "ofiary wzniesionej"
+      "gloss": "dla terumy"
     },
     {
       "surface": "הקדש",
-      "gloss": "świętości",
-      "marks": "świętość"
+      "gloss": "świętości"
     },
     {
       "surface": "ולאחזת",
-      "gloss": "i posiadłości"
+      "gloss": "i dla posiadłości"
     },
     {
       "surface": "העיר",
@@ -42,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "na przestrzeni"
+      "gloss": "do"
     },
     {
       "surface": "פני",
-      "gloss": "przestrzeni"
+      "gloss": "przodu"
     },
     {
       "surface": "חמשה",
@@ -62,7 +61,7 @@
     },
     {
       "surface": "תרומה",
-      "gloss": "ofiara wzniesiona"
+      "gloss": "terumy"
     },
     {
       "surface": "עד",
@@ -74,11 +73,11 @@
     },
     {
       "surface": "קדימה",
-      "gloss": "ku wschodowi"
+      "gloss": "na wschód"
     },
     {
       "surface": "וימה",
-      "gloss": "a ku morzu"
+      "gloss": "i na zachód"
     },
     {
       "surface": "על",
@@ -102,7 +101,7 @@
     },
     {
       "surface": "על",
-      "gloss": "aż do"
+      "gloss": "na"
     },
     {
       "surface": "גבול",
@@ -114,7 +113,7 @@
     },
     {
       "surface": "לעמת",
-      "gloss": "naprzeciw"
+      "gloss": "naprzeciwko"
     },
     {
       "surface": "חלקים",
@@ -126,30 +125,29 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "i ⟨będzie⟩"
+      "gloss": "i będzie"
     },
     {
       "surface": "תרומת",
-      "gloss": "ofiara wzniesiona"
+      "gloss": "teruma"
     },
     {
       "surface": "הקדש",
-      "gloss": "świętości",
-      "marks": "świętość"
+      "gloss": "świętości"
     },
     {
       "surface": "ומקדש",
-      "gloss": "oraz świątynia"
+      "gloss": "i świątynia"
     },
     {
       "surface": "הבית",
-      "gloss": "świątyni"
+      "gloss": "Domu"
     },
     {
       "surface": "בתוכה",
-      "gloss": "pośrodku niej"
+      "gloss": "pośród niego"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.493017275Z",
+  "timestamp": "2026-08-25T06:13:18.086486701Z",
   "model": "glm-5.3"
 }

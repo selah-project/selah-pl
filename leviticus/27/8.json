@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli jest zbyt ubogi na ⟨twoją⟩ wycenę, to postawi go przed kapłanem, i wyceni go kapłan; według tego, co dosięgnie ręka składającego ślub, tak go wyceni kapłan.",
+  "translation": "A jeśli jest ubogi ⟨od⟩ twojej wyceny, to postawi się przed kapłanem, a kapłan wyceni ⟨את⟩ niego; według ust tego, co osiągnie ręka składającego ślub, wyceni go kapłan.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "מך",
-      "gloss": "jest zbyt ubogi"
+      "gloss": "ubogi"
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "jest"
     },
     {
       "surface": "מערכך",
-      "gloss": "na twoją wycenę"
+      "gloss": "twojej wyceny"
     },
     {
       "surface": "והעמידו",
-      "gloss": "postawi go"
+      "gloss": "to postawi się"
     },
     {
       "surface": "לפני",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "והעריך",
-      "gloss": "i wyceni"
+      "gloss": "a wyceni"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go"
+      "marks": "jego (wycenianego)"
     },
     {
       "surface": "הכהן",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "פי",
-      "gloss": "tego, co"
+      "gloss": "ust"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "tego, co"
     },
     {
       "surface": "תשיג",
-      "gloss": "dosięgnie"
+      "gloss": "osiągnie"
     },
     {
       "surface": "יד",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "יעריכנו",
-      "gloss": "tak go wyceni"
+      "gloss": "wyceni go"
     },
     {
       "surface": "הכהן",
       "gloss": "kapłan"
     }
   ],
-  "timestamp": "2026-08-24T22:49:54.094012560Z",
+  "timestamp": "2026-08-25T05:45:57.778375553Z",
   "model": "glm-5.3"
 }

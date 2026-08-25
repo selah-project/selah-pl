@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Nie ⟨את⟩ ⟨z⟩ naszymi ojcami zawarł Jahwe ⟨את⟩ to przymierze, lecz ⟨את⟩ z nami — my, ci oto, tutaj, dzisiaj, wszyscy my żywi.",
+  "translation": "Nie ⟨את⟩ naszych ojców zawarł Jahwe ⟨את⟩ przymierze to, lecz ⟨את⟩ nami — my, ci tutaj, dziś, my wszyscy żywi.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨z⟩",
-      "marks": "naszymi ojcami"
+      "gloss": "⟨את⟩",
+      "marks": "z (przyimek przy «ojców», nie znak dopełnienia)"
     },
     {
       "surface": "אבתינו",
-      "gloss": "naszymi ojcami"
+      "gloss": "naszych ojców"
     },
     {
       "surface": "כרת",
@@ -31,7 +31,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to przymierze"
+      "marks": "przymierze"
     },
     {
       "surface": "הברית",
@@ -47,7 +47,8 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ z nami"
+      "gloss": "⟨את⟩ nami",
+      "marks": "nami (przyimek «z nami»)"
     },
     {
       "surface": "אנחנו",
@@ -55,7 +56,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "ci oto"
+      "gloss": "ci"
     },
     {
       "surface": "פה",
@@ -63,17 +64,17 @@
     },
     {
       "surface": "היום",
-      "gloss": "dzisiaj"
+      "gloss": "dziś"
     },
     {
       "surface": "כלנו",
-      "gloss": "wszyscy my"
+      "gloss": "my wszyscy"
     },
     {
       "surface": "חיים",
       "gloss": "żywi"
     }
   ],
-  "timestamp": "2026-08-24T23:05:05.060515370Z",
+  "timestamp": "2026-08-25T05:49:50.630398776Z",
   "model": "glm-5.3"
 }

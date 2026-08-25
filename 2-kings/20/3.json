@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Ach, Jahwe, wspomnij proszę ⟨את⟩ to, jak chodziłem przed twoim obliczem w wierności i całym sercem, i to, co dobre w twoich oczach, czyniłem. I zapłakał Chizkijahu płaczem wielkim.",
+  "translation": "Proszę, Jahwe, wspomnij teraz ⟨את⟩ to, jak chodziłem przed Tobą w wierności i w pełnym sercu, a to, co dobre w Twoich oczach, uczyniłem. I zapłakał Chizkijahu — płaczem wielkim.",
   "tokens": [
     {
       "surface": "אנה",
-      "gloss": "Ach"
+      "gloss": "Proszę"
     },
     {
       "surface": "יהוה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "נא",
-      "gloss": "proszę"
+      "gloss": "teraz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, jak chodziłem…"
+      "marks": "to, jak chodziłem przed Tobą"
     },
     {
       "surface": "אשר",
-      "gloss": "jak"
+      "gloss": "to, jak"
     },
     {
       "surface": "התהלכתי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "przed twoim obliczem"
+      "gloss": "przed Tobą"
     },
     {
       "surface": "באמת",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "ובלבב",
-      "gloss": "i sercem"
+      "gloss": "i w sercu"
     },
     {
       "surface": "שלם",
-      "gloss": "całym"
+      "gloss": "pełnym"
     },
     {
       "surface": "והטוב",
-      "gloss": "i to, co dobre"
+      "gloss": "a to, co dobre"
     },
     {
       "surface": "בעיניך",
-      "gloss": "w twoich oczach"
+      "gloss": "w Twoich oczach"
     },
     {
       "surface": "עשיתי",
-      "gloss": "czyniłem"
+      "gloss": "uczyniłem"
     },
     {
       "surface": "ויבך",
@@ -81,6 +81,6 @@
       "gloss": "wielkim"
     }
   ],
-  "timestamp": "2026-08-25T00:16:36.104090424Z",
+  "timestamp": "2026-08-25T06:04:10.432727614Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I szły obie, aż przyszły do Bet-Lechem; i stało się, gdy przychodziły do Bet-Lechem, że poruszyło się całe miasto z powodu nich, i mówiły: Czy to jest Noemi?",
+  "translation": "I poszły obie, aż przyszły do Bet-Lechem; i stało się, gdy przychodziły do Bet-Lechem, że poruszyło się całe miasto z ich powodu, i mówiły: czyż to ⟨ona⟩, Noemi?",
   "tokens": [
     {
       "surface": "ותלכנה",
-      "gloss": "i szły"
+      "gloss": "i poszły"
     },
     {
       "surface": "שתיהם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bet"
     },
     {
       "surface": "לחם",
-      "gloss": "Lechem"
+      "gloss": "-Lechem"
     },
     {
       "surface": "ויהי",
@@ -41,14 +41,14 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bet"
     },
     {
       "surface": "לחם",
-      "gloss": "Lechem"
+      "gloss": "-Lechem"
     },
     {
-      "surface": "ותהם",
+      "surface": "ויהם",
       "gloss": "poruszyło się"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "surface": "עליהן",
-      "gloss": "z powodu nich"
+      "gloss": "z ich powodu"
     },
     {
       "surface": "ותאמרנה",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "czy to jest"
+      "gloss": "czyż to ⟨ona⟩"
     },
     {
       "surface": "נעמי",
       "gloss": "Noemi"
     }
   ],
-  "timestamp": "2026-08-25T02:28:20.646031009Z",
+  "timestamp": "2026-08-25T06:32:46.189087648Z",
   "model": "glm-5.3"
 }

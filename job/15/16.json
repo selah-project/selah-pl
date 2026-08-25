@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 15,
-  "translation": "Tym bardziej człowiek obrzydliwy i splugawiony, który pije nieprawość jak wodę!",
+  "translation": "Tym bardziej że obrzydliwy i skażony ⟨jest⟩ człowiek, pijący nieprawość jak wodę.",
   "tokens": [
     {
       "surface": "אף",
@@ -20,20 +20,16 @@
       "gloss": "obrzydliwy"
     },
     {
-      "surface": "ו",
-      "gloss": "i"
+      "surface": "ונאלח",
+      "gloss": "i skażony"
     },
     {
-      "surface": "נאלח",
-      "gloss": "splugawiony"
-    },
-    {
-      "surface": "איש",
+      "surface": "אישׁ",
       "gloss": "człowiek"
     },
     {
-      "surface": "שתה",
-      "gloss": "pije"
+      "surface": "שׁתה",
+      "gloss": "pijący"
     },
     {
       "surface": "כמים",
@@ -44,6 +40,6 @@
       "gloss": "nieprawość"
     }
   ],
-  "timestamp": "2026-08-25T03:48:32.485055048Z",
+  "timestamp": "2026-08-25T06:18:35.694455179Z",
   "model": "glm-5.3"
 }

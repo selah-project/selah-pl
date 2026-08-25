@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 10,
-  "translation": "Widziałeś, bo Ty spoglądasz na trud i gniew, aby oddać ⟨to⟩ w swoją rękę; na Ciebie polega nędzarz, sierocie Ty byłeś pomocnikiem.",
+  "translation": "Widziałeś, bo Ty na trud i gniew patrzysz, by oddać ⟨to⟩ w Twoją rękę; na Tobie porzuca nędzarz; sierocie Ty byłeś pomocnikiem.",
   "tokens": [
     {
       "surface": "ראתה",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "תביט",
-      "gloss": "spoglądasz"
+      "gloss": "patrzysz"
     },
     {
       "surface": "לתת",
-      "gloss": "aby oddać"
+      "gloss": "by oddać"
     },
     {
       "surface": "בידך",
-      "gloss": "w swoją rękę"
+      "gloss": "w Twoją rękę"
     },
     {
       "surface": "עליך",
-      "gloss": "na Ciebie"
+      "gloss": "na Tobie"
     },
     {
       "surface": "יעזב",
-      "gloss": "polega"
+      "gloss": "porzuca"
     },
     {
       "surface": "חלכה",
@@ -68,6 +68,6 @@
       "gloss": "pomocnikiem"
     }
   ],
-  "timestamp": "2026-08-25T01:45:38.304952666Z",
+  "timestamp": "2026-08-25T06:15:36.155392347Z",
   "model": "glm-5.3"
 }

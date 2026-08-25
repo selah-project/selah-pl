@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I gdy król przechodził, on zawołał do króla i rzekł: Sługa twój wyszedł w środek bitwy, a oto mąż zboczył i przyprowadził do mnie męża, i rzekł: Straż tego męża — jeśli zginie, ⟨to⟩ ⟨będzie⟩ twoja nefesz zamast jego nefesz, albo karę srebra odważysz.",
+  "translation": "I stało się, gdy król przechodził, że ⟨on⟩ zawołał do króla i rzekł: Sługa twój wyszedł w środek bitwy, i oto mąż zboczył i przyprowadził do mnie męża, i rzekł: Strzeż ⟨את⟩ tego męża — jeśli by został zgubiony, będzie twoja nefesz za jego nefesz albo karę srebra odważysz.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i gdy"
+      "gloss": "I stało się"
     },
     {
       "surface": "המלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "on"
+      "gloss": "że ⟨on⟩"
     },
     {
       "surface": "צעק",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "a oto"
+      "gloss": "i oto"
     },
     {
       "surface": "איש",
@@ -84,8 +84,8 @@
       "gloss": "i rzekł"
     },
     {
-      "surface": "שמור",
-      "gloss": "straż"
+      "surface": "שמר",
+      "gloss": "strzeż"
     },
     {
       "surface": "את",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "męża"
+      "gloss": "tego męża"
     },
     {
       "surface": "הזה",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "הפקד",
-      "gloss": "zostanie zgubiony"
+      "gloss": "został zgubiony"
     },
     {
       "surface": "יפקד",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "i będzie"
+      "gloss": "będzie"
     },
     {
       "surface": "נפשך",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "zamast"
+      "gloss": "za"
     },
     {
       "surface": "נפשו",
@@ -145,6 +145,6 @@
       "gloss": "odważysz"
     }
   ],
-  "timestamp": "2026-08-25T00:05:54.674160934Z",
+  "timestamp": "2026-08-25T06:00:36.478855091Z",
   "model": "glm-5.3"
 }

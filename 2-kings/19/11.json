@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Oto ty słyszałeś ⟨את⟩ to, co uczynili królowie Aszuru wszystkim ziemiom, ⟨żeby⟩ oddać ich na zagładę — a ty ⟨masz⟩ być ocalony?",
+  "translation": "Oto ty słyszałeś ⟨את⟩ to, co uczynili królowie Aszszur ⟨tym⟩ wszystkim ziemiom, ⟨aby je⟩ obłożyć klątwą zagłady — a ty będziesz ocalony?",
   "tokens": [
     {
       "surface": "הנה",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co uczynili królowie Aszuru"
+      "marks": "to, co uczynili królowie Aszszur"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "עשו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Aszuru"
+      "gloss": "Aszszur"
     },
     {
       "surface": "לכל",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "להחרימם",
-      "gloss": "⟨żeby⟩ oddać ich na zagładę"
+      "gloss": "obłożyć ich klątwą zagłady"
     },
     {
-      "surface": "ו אתה",
+      "surface": "ואתה",
       "gloss": "a ty"
     },
     {
       "surface": "תנצל",
-      "gloss": "masz być ocalony"
+      "gloss": "będziesz ocalony"
     }
   ],
-  "timestamp": "2026-08-25T03:32:11.216795609Z",
+  "timestamp": "2026-08-25T06:02:49.641259049Z",
   "model": "glm-5.3"
 }

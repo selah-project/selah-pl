@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Aby nie było wśród was mężczyzny albo kobiety, albo rodziny, albo pokolenia, którego serce odwraca się dziś od Jahwe, naszego Elohima, by пójść służyć ⟨את⟩ bogom tych narodów; aby nie było wśród was korzenia wydającego truciznę i piołun.",
+  "translation": "Aby nie było wśród was męża, czy niewiasty, czy rodziny, czy pokolenia, którego serce odwraca się dziś od Jahwe, Elohim naszego, by pójść i służyć ⟨את⟩ bogom tych narodów; aby nie było wśród was korzenia rodzącego truciznę i piołun.",
   "tokens": [
     {
       "surface": "פן",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "mężczyzny"
+      "gloss": "męża"
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "czy"
     },
     {
       "surface": "אשה",
-      "gloss": "kobiety"
+      "gloss": "niewiasty"
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "czy"
     },
     {
       "surface": "משפחה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "czy"
     },
     {
       "surface": "שבט",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "naszego Elohima"
+      "gloss": "Elohim naszego"
     },
     {
       "surface": "ללכת",
-      "gloss": "by iść"
+      "gloss": "by pójść"
     },
     {
       "surface": "לעבד",
-      "gloss": "służyć"
+      "gloss": "i służyć"
     },
     {
       "surface": "את",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ההם",
-      "gloss": "tych"
+      "gloss": "tamtych"
     },
     {
       "surface": "פן",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "פרה",
-      "gloss": "wydającego"
+      "gloss": "rodzącego"
     },
     {
       "surface": "ראש",
@@ -129,6 +129,6 @@
       "gloss": "i piołun"
     }
   ],
-  "timestamp": "2026-08-24T23:14:26.266770922Z",
+  "timestamp": "2026-08-25T05:51:39.225545190Z",
   "model": "glm-5.3"
 }

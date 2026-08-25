@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 32,
-  "translation": "Zepsuli się ku Niemu — nie Jego synowie, ⟨to⟩ ich skaza; pokolenie krzywe i przewrotne.",
+  "translation": "Skazili ⟨siebie⟩ — nie ⟨są⟩ synami jego, skaza ⟨jest⟩ w nich; pokolenie krzywe i przewrotne.",
   "tokens": [
     {
       "surface": "שחת",
-      "gloss": "Zepsuli się"
+      "gloss": "Skazili"
     },
     {
       "surface": "לו",
-      "gloss": "ku Niemu"
+      "gloss": "⟨siebie⟩ (dla niego)"
     },
     {
       "surface": "לא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בניו",
-      "gloss": "Jego synowie"
+      "gloss": "synami jego"
     },
     {
       "surface": "מומם",
-      "gloss": "ich skaza"
+      "gloss": "skaza"
     },
     {
       "surface": "דור",
@@ -40,6 +40,6 @@
       "gloss": "i przewrotne"
     }
   ],
-  "timestamp": "2026-08-24T23:15:12.843356241Z",
+  "timestamp": "2026-08-25T05:51:46.157083396Z",
   "model": "glm-5.3"
 }

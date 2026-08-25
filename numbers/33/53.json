@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I wypedujecie ⟨את⟩ ⟨the⟩ ziemię i zamieszkacie w niej, bo wam dałem ⟨את⟩ ⟨the⟩ ziemię, abyście ⟨את⟩ ją posiedli.",
+  "translation": "I wytępicie ⟨את⟩ ziemię〈tj. mieszkańców jej〉 i zamieszkacie w niej, bo wam dałem ⟨את⟩ ziemię, abyście ją posiedli ⟨את⟩.",
   "tokens": [
     {
       "surface": "והורשתם",
-      "gloss": "wypedujecie"
+      "gloss": "wytępicie"
     },
     {
       "surface": "את",
@@ -55,9 +55,10 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją (ziemię)"
     }
   ],
-  "timestamp": "2026-08-24T23:03:16.531932778Z",
+  "timestamp": "2026-08-25T07:00:17.382925896Z",
   "model": "glm-5.3"
 }

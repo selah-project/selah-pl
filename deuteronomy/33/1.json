@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 33,
-  "translation": "A to jest błogosławieństwo, którym Mosze, mąż Elohim, pobłogosławił ⟨את⟩ synów Jisraela przed swoją śmiercią.",
+  "translation": "A to jest błogosławieństwo, którym Mosze, mąż Elohim, błogosławił ⟨את⟩ synów Israela przed swą śmiercią.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "a to"
+      "gloss": "A to"
     },
     {
       "surface": "הברכה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ברך",
-      "gloss": "pobłogosławił"
+      "gloss": "błogosławił"
     },
     {
       "surface": "משה",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synów Jisraela"
+      "marks": "synów Israela"
     },
     {
       "surface": "בני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Israela"
     },
     {
       "surface": "לפני",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "מותו",
-      "gloss": "swoją śmiercią"
+      "gloss": "swą śmiercią"
     }
   ],
-  "timestamp": "2026-08-24T23:15:13.133190925Z",
+  "timestamp": "2026-08-25T05:51:56.447388335Z",
   "model": "glm-5.3"
 }

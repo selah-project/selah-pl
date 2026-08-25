@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I przemówią pisarze do ludu, mówiąc: Kto ⟨to⟩ mąż, który zbudował dom nowy i nie poświęcił go? Niech idzie i wróci do swego domu, aby nie umarł w wojnie i inny mąż go nie poświęcił.",
+  "translation": "I przemówią pisarze do ludu, mówiąc: Kto ⟨jest⟩ mężem, który zbudował dom nowy i nie rozpoczął jego użytkowania? Niech idzie i niech wróci do swego domu, aby nie umarł w bitwie i inny mąż nie rozpoczął jego użytkowania.",
   "tokens": [
     {
       "surface": "ודברו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "חנכו",
-      "gloss": "poświęcił go"
+      "gloss": "rozpoczął jego użytkowania"
     },
     {
       "surface": "ילך",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "i wróci"
+      "gloss": "i niech wróci"
     },
     {
       "surface": "לביתו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "w wojnie"
+      "gloss": "w bitwie"
     },
     {
       "surface": "ואיש",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יחנכנו",
-      "gloss": "go nie poświęci"
+      "gloss": "rozpoczął jego użytkowanie"
     }
   ],
-  "timestamp": "2026-08-24T23:10:55.051943533Z",
+  "timestamp": "2026-08-25T05:51:11.542843843Z",
   "model": "glm-5.3"
 }

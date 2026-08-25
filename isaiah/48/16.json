@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 48,
-  "translation": "Zbliżcie się do mnie, słuchajcie tego: nie od początku w ukryciu mówiłem; od czasu, gdy ⟨to⟩ zaistniało, tam jestem ja; a teraz Adonai Jahwe posłał mnie — i jego Ducha.",
+  "translation": "Zbliżcie się do mnie, słuchajcie tego: nie od początku w ukryciu mówiłem; od czasu ⟨gdy⟩ to zaistniało, tam jestem ja; a teraz Adonai Jahwe posłał mnie — i jego duch.",
   "tokens": [
     {
       "surface": "קרבו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "היותה",
-      "gloss": "gdy zaistniało"
+      "gloss": "zaistniało to"
     },
     {
       "surface": "שם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "jestem ja"
+      "gloss": "ja"
     },
     {
       "surface": "ועתה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "ורוחו",
-      "gloss": "i jego Duch"
+      "gloss": "i jego duch"
     }
   ],
-  "timestamp": "2026-08-25T00:33:34.787027711Z",
+  "timestamp": "2026-08-25T06:06:23.907918740Z",
   "model": "glm-5.3"
 }

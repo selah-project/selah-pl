@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 104,
-  "translation": "Oto morze, wielkie i szerokie ramionami, tam pełzające <istoty> bez liczby, stworzenia małe wraz z wielkimi.",
+  "translation": "To ⟨jest⟩ morze, wielkie i szerokie ramionami — tam płazy bez liczby, stworzenia żywe, małe wraz z wielkimi.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "oto"
+      "gloss": "to"
     },
     {
       "surface": "הים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "רמש",
-      "gloss": "pełzające"
+      "gloss": "płazy"
     },
     {
       "surface": "ואין",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "חיות",
-      "gloss": "stworzenia"
+      "gloss": "stworzenia żywe"
     },
     {
       "surface": "קטנות",
@@ -60,6 +60,6 @@
       "gloss": "wielkimi"
     }
   ],
-  "timestamp": "2026-08-25T02:00:05.091450556Z",
+  "timestamp": "2026-08-25T06:16:35.737843956Z",
   "model": "glm-5.3"
 }

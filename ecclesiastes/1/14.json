@@ -5,16 +5,16 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Widziałem ⟨את⟩ wszystkie czyny, które uczyniono pod słońcem, a oto wszystko to marność i gonienie za wiatrem.",
+  "translation": "Widziałem ⟨את⟩ wszystkie dzieła, które uczyniono pod słońcem, a oto wszystko to marność i gonienie za wiatrem.",
   "tokens": [
     {
       "surface": "ראיתי",
-      "gloss": "widziałem"
+      "gloss": "Widziałem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkie czyny"
+      "marks": "wszystkie dzieła"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "המעשים",
-      "gloss": "czyny"
+      "gloss": "dzieła"
     },
     {
       "surface": "שנעשו",
@@ -57,6 +57,6 @@
       "gloss": "za wiatrem"
     }
   ],
-  "timestamp": "2026-08-25T02:30:40.871516459Z",
+  "timestamp": "2026-08-25T06:20:31.017450453Z",
   "model": "glm-5.3"
 }

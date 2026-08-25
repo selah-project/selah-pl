@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 8,
-  "translation": "A ja i cały lud, który jest ⟨את⟩ ze mną, zbliżymy się do miasta; i będzie, gdy wyjdą nam naprzeciw, jak za pierwszym razem, to uciekniemy przed nimi",
+  "translation": "A ja i cały lud, który ⟨את⟩ mną jest, zbliżymy się ku miastu; i stanie się, gdy wyjdą nam naprzeciw jak za pierwszym razem, że uciekniemy przed nimi.",
   "tokens": [
     {
       "surface": "ואני",
@@ -25,7 +25,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ze mną"
+      "gloss": "⟨את⟩ ze mną",
+      "marks": "ze mną"
     },
     {
       "surface": "נקרב",
@@ -33,15 +34,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "ku"
     },
     {
       "surface": "העיר",
-      "gloss": "miasta"
+      "gloss": "miastu"
     },
     {
       "surface": "והיה",
-      "gloss": "i będzie"
+      "gloss": "i stanie się"
     },
     {
       "surface": "כי",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "ונסנו",
-      "gloss": "uciekniemy"
+      "gloss": "że uciekniemy"
     },
     {
       "surface": "לפניהם",
       "gloss": "przed nimi"
     }
   ],
-  "timestamp": "2026-08-24T23:19:24.091941274Z",
+  "timestamp": "2026-08-25T07:00:25.683844811Z",
   "model": "glm-5.3"
 }

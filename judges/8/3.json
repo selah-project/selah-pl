@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 8,
-  "translation": "W rękę waszych wydał Elohim ⟨את⟩ książąt Midianu, ⟨את⟩ Orega i ⟨את⟩ Zeeba; a cóż ja mogłem uczynić wobec was? Wtedy opadł ich duch nad nim, gdy wypowiedział słowo to.",
+  "translation": "W wasze ręce Elohim wydał ⟨את⟩ książąt Midianu, ⟨את⟩ Orewa i ⟨את⟩ Zeewa — a co mogłem uczynić jak wy? Wtedy ich duch opadł z niego, gdy wypowiedział ⟨to⟩ słowo to.",
   "tokens": [
     {
       "surface": "בידכם",
-      "gloss": "w rękę waszych"
+      "gloss": "w wasze ręce"
     },
     {
       "surface": "נתן",
@@ -35,24 +35,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Orega"
+      "marks": "Orewa"
     },
     {
       "surface": "ערב",
-      "gloss": "Orega"
+      "gloss": "Orewa"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "Zeeba"
+      "marks": "Zeewa"
     },
     {
       "surface": "זאב",
-      "gloss": "Zeeba"
+      "gloss": "Zeewa"
     },
     {
       "surface": "ומה",
-      "gloss": "a cóż"
+      "gloss": "a co"
     },
     {
       "surface": "יכלתי",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "ככם",
-      "gloss": "wobec was"
+      "gloss": "jak wy"
     },
     {
       "surface": "אז",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "מעליו",
-      "gloss": "nad nim"
+      "gloss": "z niego"
     },
     {
       "surface": "בדברו",
@@ -95,6 +95,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T23:28:17.653895731Z",
+  "timestamp": "2026-08-25T05:53:43.223232302Z",
   "model": "glm-5.3"
 }

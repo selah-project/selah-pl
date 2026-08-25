@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Ten ⟨to⟩ sen — a jego wykład powiemy przed królem.",
+  "translation": "To ⟨jest⟩ sen, a wykład jego powiedzimy przed królem.",
   "tokens": [
     {
       "surface": "דנה",
-      "gloss": "ten"
+      "gloss": "to"
     },
     {
       "surface": "חלמא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ופשרה",
-      "gloss": "a jego wykład"
+      "gloss": "a wykład jego"
     },
     {
       "surface": "נאמר",
-      "gloss": "powiemy"
+      "gloss": "powiedzimy"
     },
     {
       "surface": "קדם",
@@ -32,6 +32,6 @@
       "gloss": "królem"
     }
   ],
-  "timestamp": "2026-08-25T02:36:47.483916617Z",
+  "timestamp": "2026-08-25T06:22:00.037456232Z",
   "model": "glm-5.3"
 }

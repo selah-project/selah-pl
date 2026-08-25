@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 14,
-  "translation": "aby pouczać w dniu ⟨tego, co⟩ nieczyste, i w dniu ⟨tego, co⟩ czyste — to jest Tora trądu.",
+  "translation": "aby pouczać w dniu ⟨nie⟩czystości i w dniu czystości — to jest tora trądu.",
   "tokens": [
     {
       "surface": "להורת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הטמא",
-      "gloss": "nieczyste"
+      "gloss": "nieczystości"
     },
     {
       "surface": "וביום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הטהר",
-      "gloss": "czyste"
+      "gloss": "czystości"
     },
     {
       "surface": "זאת",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "תורת",
-      "gloss": "Tora"
+      "gloss": "tora"
     },
     {
       "surface": "הצרעת",
       "gloss": "trądu"
     }
   ],
-  "timestamp": "2026-08-24T22:43:19.257939042Z",
+  "timestamp": "2026-08-25T07:00:04.002749577Z",
   "model": "glm-5.3"
 }

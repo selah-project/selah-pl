@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I odpowiedział Jonadab, syn Szimei, brata Dawida, i rzekł: Niech nie mówi mój pan, że ⟨את⟩ wszystkich młodzieńców, synów króla, zabito, bo tylko Amnon umarł; bo na rozkaz Abszaloma było to postanowione od dnia, gdy zhańbił ⟨את⟩ Tamar, swoją siostrę.",
+  "translation": "I odpowiedział Jonadab, syn Szymea, brata Dawida, i rzekł: Niech nie mówi mój pan, że ⟨את⟩ wszystkich młodych, synów króla, zabito, gdyż Amnon sam umarł, bo według ust Abszaloma było to postanowione od dnia poniżenia przez niego ⟨את⟩ Tamar, siostry jego.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "i odpowiedział"
+      "gloss": "I odpowiedział"
     },
     {
       "surface": "יונדב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שמעה",
-      "gloss": "Szimei"
+      "gloss": "Szymea"
     },
     {
       "surface": "אחי",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkich młodzieńców, synów króla"
+      "marks": "wszystkich młodych, synów króla"
     },
     {
       "surface": "כל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנערים",
-      "gloss": "młodzieńców"
+      "gloss": "młodych"
     },
     {
       "surface": "בני",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "אמנון",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "tylko"
+      "gloss": "sam"
     },
     {
       "surface": "מת",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "według"
     },
     {
       "surface": "פי",
-      "gloss": "rozkaz"
+      "gloss": "ust"
     },
     {
       "surface": "אבשלום",
@@ -118,12 +118,12 @@
     },
     {
       "surface": "ענתו",
-      "gloss": "gdy zhańbił"
+      "gloss": "poniżenia przez niego"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tamar"
+      "marks": "Tamar, siostry jego"
     },
     {
       "surface": "תמר",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "אחתו",
-      "gloss": "swoją siostrę"
+      "gloss": "siostry jego"
     }
   ],
-  "timestamp": "2026-08-24T23:49:10.726673691Z",
+  "timestamp": "2026-08-25T05:58:05.437930438Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I ⟨את⟩ to słowo wykonaj: usuń królów, każdego z jego miejsca, i ustaw namiestników pod nich.",
+  "translation": "A ⟨את⟩ to słowo czyń: usuń królów, każdego z jego miejsca, i ustaw namiestników pod nimi.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
+      "gloss": "A ⟨את⟩",
       "marks": "to słowo"
     },
     {
       "surface": "הדבר",
-      "gloss": "to słowo"
+      "gloss": "słowo"
     },
     {
       "surface": "הזה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "wykonaj"
+      "gloss": "czyń"
     },
     {
       "surface": "הסר",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "תחתיהם",
-      "gloss": "pod nich"
+      "gloss": "pod nimi"
     }
   ],
-  "timestamp": "2026-08-25T00:05:25.684863634Z",
+  "timestamp": "2026-08-25T06:01:04.674336132Z",
   "model": "glm-5.3"
 }

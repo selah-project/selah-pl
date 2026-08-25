@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Bo jeśli mężczyzna znajdzie ⟨את⟩ swego wroga i puści go drogą dobrą — a Jahwe niech ci odpłaci dobrem zamiast dnia tego, który to uczyniłeś mi.",
+  "translation": "Bo czy znajdzie człowiek ⟨את⟩ swojego wroga i puści go dobrą drogą? A Jahwe niech odda tobie dobrą zapłatę za dzień ten, który uczyniłeś mi.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "bo jeśli"
+      "gloss": "bo czy"
     },
     {
       "surface": "ימצא",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "איש",
-      "gloss": "mężczyzna"
+      "gloss": "człowiek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego wroga"
+      "marks": "swojego wroga"
     },
     {
       "surface": "איבו",
-      "gloss": "swego wroga"
+      "gloss": "swojego wroga"
     },
     {
       "surface": "ושלחו",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "ישלמך",
-      "gloss": "niech ci odpłaci"
+      "gloss": "niech odda tobie"
     },
     {
       "surface": "טובה",
-      "gloss": "dobrem"
+      "gloss": "dobrą zapłatę"
     },
     {
       "surface": "תחת",
-      "gloss": "zamiast"
+      "gloss": "za"
     },
     {
       "surface": "היום",
-      "gloss": "dnia"
+      "gloss": "dzień"
     },
     {
       "surface": "הזה",
-      "gloss": "tego"
+      "gloss": "ten"
     },
     {
       "surface": "אשר",
@@ -77,6 +77,6 @@
       "gloss": "mi"
     }
   ],
-  "timestamp": "2026-08-24T23:41:14.047413503Z",
+  "timestamp": "2026-08-25T05:57:14.840682149Z",
   "model": "glm-5.3"
 }

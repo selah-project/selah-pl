@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Według prawa — co uczynić z królową Waszti, za to, że nie wykonała ⟨את⟩ rozkazu króla Achaszwerosza ⟨przekazanego⟩ ręką eunuchów?",
+  "translation": "Według prawa — co uczynić królowej Waszti, dlatego że nie wykonała ⟨את⟩ rozkazu króla Achaszwerosza ⟨przekazanego⟩ ręką eunuchów?",
   "tokens": [
     {
       "surface": "כדת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "במלכה",
-      "gloss": "z królową"
+      "gloss": "królowej"
     },
     {
       "surface": "ושתי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "על",
-      "gloss": "za to"
+      "gloss": "dla tego że"
     },
     {
       "surface": "אשר",
-      "gloss": "że"
+      "gloss": ""
     },
     {
       "surface": "לא",
@@ -69,6 +69,6 @@
       "gloss": "eunuchów"
     }
   ],
-  "timestamp": "2026-08-25T02:34:07.476131922Z",
+  "timestamp": "2026-08-25T06:32:34.022128821Z",
   "model": "glm-5.3"
 }

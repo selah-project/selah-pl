@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 26,
-  "translation": "A jeśli pójdziecie ze Mną w wrogości (keri), i nie zechcecie słuchać Mnie, to dodam na was plagę siedmiokrotną według waszych grzechów.",
+  "translation": "A jeśli pójdziecie ze Mną w przeciwności i nie zechcecie słuchać Mnie, wtedy dorzucę na was plagę siedmiokrotną według waszych grzechów.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "תלכו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קרי",
-      "gloss": "w wrogości (keri)"
+      "gloss": "w przeciwności"
     },
     {
       "surface": "ולא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ויספתי",
-      "gloss": "dodam"
+      "gloss": "dorzucę"
     },
     {
       "surface": "עליכם",
@@ -60,6 +60,6 @@
       "gloss": "według waszych grzechów"
     }
   ],
-  "timestamp": "2026-08-24T22:49:05.460992470Z",
+  "timestamp": "2026-08-25T05:46:04.436365600Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 52,
-  "translation": "Bo z powodu gniewu Jahwe stało się ⟨to⟩ w Jeruszalaim i Jehudzie, aż ich rzucił spod swojego oblicza; i zbuntował się Cedekijahu przeciw królowi Babelu.",
+  "translation": "Bo z powodu gniewu Jahwe ⟨to⟩ przyszło w Jeruszalaim i w Jehudzie, aż rzucił ⟨את⟩ ich sprzed swego oblicza; i zbuntował się Cydijahu przeciwko królowi Babel.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "stało się"
+      "gloss": "przyszło"
     },
     {
       "surface": "בירושלם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "i Jehudzie"
+      "gloss": "i w Jehudzie"
     },
     {
       "surface": "עד",
@@ -45,16 +45,15 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ich (Jeruszalaim i Jehuda)"
+      "gloss": "⟨את⟩ ich"
     },
     {
       "surface": "מעל",
-      "gloss": "spod"
+      "gloss": "sprzed"
     },
     {
       "surface": "פניו",
-      "gloss": "swojego oblicza"
+      "gloss": "swego oblicza"
     },
     {
       "surface": "וימרד",
@@ -62,17 +61,17 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cedekijahu"
+      "gloss": "Cydijahu"
     },
     {
       "surface": "במלך",
-      "gloss": "przeciw królowi"
+      "gloss": "przeciwko królowi"
     },
     {
       "surface": "בבל",
-      "gloss": "Babelu"
+      "gloss": "Babel"
     }
   ],
-  "timestamp": "2026-08-25T01:07:16.578559725Z",
+  "timestamp": "2026-08-25T06:10:54.855283303Z",
   "model": "glm-5.3"
 }

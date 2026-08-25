@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 11,
-  "translation": "aż do miesiąca dni, aż wyjdzie z nozdrzy waszych, i stanie się wam ⟨na⟩ obrzydzenie, dlatego że odrzuciliście ⟨את⟩ Jahwe, który jest pośród was, i płakaliście przed obliczem Jego, mówiąc: Po co to wyszliśmy z Micraim?",
+  "translation": "przez miesiąc dni, aż to wyjdzie z waszych nozdrzy i stanie się wam ⟨to⟩ na obrzydzenie, ponieważ wzgardziliście ⟨את⟩ Jahwe, który ⟨jest⟩ pośród was, i płakaliście przed nim, mówiąc: po co wyszliśmy z Micraim?",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "aż do"
+      "gloss": "przez"
     },
     {
       "surface": "חדש",
-      "gloss": "miesiąca"
+      "gloss": "miesiąc"
     },
     {
       "surface": "ימים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאפכם",
-      "gloss": "z nozdrzy waszych"
+      "gloss": "z waszych nozdrzy"
     },
     {
       "surface": "והיה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "dlatego że"
+      "gloss": "ponieważ"
     },
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מאסתם",
-      "gloss": "odrzuciliście"
+      "gloss": "wzgardziliście"
     },
     {
       "surface": "את",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "przed obliczem Jego"
+      "gloss": "przed nim"
     },
     {
       "surface": "לאמר",
@@ -105,6 +105,6 @@
       "gloss": "z Micraim"
     }
   ],
-  "timestamp": "2026-08-24T22:55:17.201805233Z",
+  "timestamp": "2026-08-25T05:47:33.256240163Z",
   "model": "glm-5.3"
 }

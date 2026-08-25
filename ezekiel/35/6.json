@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 35,
-  "translation": "Dlatego, żywy jestem Ja — wyrocznia Adonai Jahwe — że na kraw cię wydam, i krew będzie cię ścigać; jeśli krwi nie znienawidziłeś, to i krew będzie cię ścigać.",
+  "translation": "Dlatego — żyję Ja — wyrocznia Adonai Jahwe: oto na krew cię skazuję, i krew będzie cię ścigać; ponieważ nie znienawidziłeś krwi, krew będzie cię ścigać.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "חי",
-      "gloss": "żywy"
+      "gloss": "żyję"
     },
     {
       "surface": "אני",
-      "gloss": "ja"
+      "gloss": "Ja"
     },
     {
       "surface": "נאם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "ponieważ"
     },
     {
       "surface": "לדם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אעשך",
-      "gloss": "cię wydam"
+      "gloss": "cię skazuję"
     },
     {
       "surface": "ודם",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "ודם",
-      "gloss": "to i krew"
+      "gloss": "i krew"
     },
     {
       "surface": "ירדפך",
       "gloss": "będzie cię ścigać"
     }
   ],
-  "timestamp": "2026-08-25T01:25:09.727209414Z",
+  "timestamp": "2026-08-25T06:12:27.234990951Z",
   "model": "glm-5.3"
 }

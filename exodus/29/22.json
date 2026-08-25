@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I weźmiesz z barana tłuszcz i tłusty ogon, oraz ⟨את⟩ tłuszcz pokrywający ⟨את⟩ wnętrzności, i ⟨את⟩ płat wątroby, i ⟨את⟩ dwie nerki, oraz ⟨את⟩ tłuszcz, który jest na nich, i ⟨את⟩ nogę prawą, bo to baran konsekracji on.",
+  "translation": "I weźmiesz z tego barana tłuszcz i tłusty ogon, oraz ⟨את⟩ tłuszcz pokrywający wnętrzności, i ⟨את⟩ płat wątroby, i ⟨את⟩ obie nerki, i ⟨את⟩ tłuszcz, który jest na nich, oraz ⟨את⟩ prawą nogę — bo to baran poświęcenia ⟨jest⟩.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האיל",
-      "gloss": "barana"
+      "gloss": "tego barana"
     },
     {
       "surface": "החלב",
@@ -30,7 +30,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tłuszcz"
+      "marks": "tłuszcz pokrywający wnętrzności"
     },
     {
       "surface": "החלב",
@@ -65,11 +65,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "dwie nerki"
+      "marks": "obie nerki"
     },
     {
       "surface": "שתי",
-      "gloss": "dwie"
+      "gloss": "obie"
     },
     {
       "surface": "הכלית",
@@ -95,15 +95,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "nogę prawą"
+      "marks": "prawa noga"
     },
     {
       "surface": "שוק",
-      "gloss": "nogę"
+      "gloss": "noga"
     },
     {
       "surface": "הימין",
-      "gloss": "prawą"
+      "gloss": "prawa"
     },
     {
       "surface": "כי",
@@ -115,13 +115,13 @@
     },
     {
       "surface": "מלאים",
-      "gloss": "konsekracji"
+      "gloss": "poświęcenia"
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "to ⟨jest⟩"
     }
   ],
-  "timestamp": "2026-08-24T22:35:51.258041544Z",
+  "timestamp": "2026-08-25T06:49:29.915291680Z",
   "model": "glm-5.3"
 }

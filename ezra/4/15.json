@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 4,
-  "translation": "żeby szukano w księdze pamiętników ojców twoich, i znajdziesz w księdze pamiętników, i poznasz, że to miasto jest miastem buntowniczym i szkodliwym dla królów i prowincji, i że bunty wzniecano w nim od dni zamierzchłych; z tego powodu to miasto zostało zburzone.",
+  "translation": "żeby badano w księdze pamiętników ojców twoich, i znajdziesz w księdze pamiętników, i poznasz, że miasto to jest miastem buntowniczym i szkodliwym dla królów i prowincji, oraz że bunty wzniecali w jego wnętrzu od dni odwiecznych; z tego powodu miasto to zostało zburzone.",
   "tokens": [
     {
       "surface": "די",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יבקר",
-      "gloss": "szukano"
+      "gloss": "badano"
     },
     {
       "surface": "בספר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "אבהתך",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "ואשתדור",
-      "gloss": "i że bunty"
+      "gloss": "oraz że bunty"
     },
     {
       "surface": "עבדין",
-      "gloss": "wzniecano"
+      "gloss": "wzniecali"
     },
     {
       "surface": "בגוה",
-      "gloss": "w nim"
+      "gloss": "w jego wnętrzu"
     },
     {
       "surface": "מן",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "עלמא",
-      "gloss": "zamierzchłych"
+      "gloss": "odwiecznych"
     },
     {
       "surface": "על",
@@ -124,6 +124,6 @@
       "gloss": "zostało zburzone"
     }
   ],
-  "timestamp": "2026-08-25T02:44:14.496439020Z",
+  "timestamp": "2026-08-25T06:24:02.401495938Z",
   "model": "glm-5.3"
 }

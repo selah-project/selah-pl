@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Strzeż i słuchaj ⟨את⟩ wszystkich tych słów, które ja nakazuję tobie, aby było dobrze tobie i twoim synom po tobie na zawsze, gdy będziesz czynić to, co dobre i prawe w oczach Jahwe, Elohim twego.",
+  "translation": "Strzeż i słuchaj ⟨את⟩ wszystkich słów tych, które ja nakazuję tobie, aby było dobrze tobie i twoim synom po tobie na zawsze, gdy będziesz czynić to, co dobre i prawe w oczach Jahwe, Elohim twojego.",
   "tokens": [
     {
       "surface": "שמר",
-      "gloss": "strzeż"
+      "gloss": "Strzeż"
     },
     {
       "surface": "ושמעת",
-      "gloss": "i będziesz słuchać"
+      "gloss": "i słuchaj"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkich tych słów"
+      "marks": "wszystkich słów"
     },
     {
       "surface": "כל",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "to, co dobre"
+      "gloss": "co dobre"
     },
     {
       "surface": "והישר",
-      "gloss": "i to, co prawe"
+      "gloss": "i prawe"
     },
     {
       "surface": "בעיני",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim twego"
+      "gloss": "Elohim twojego"
     }
   ],
-  "timestamp": "2026-08-24T23:09:11.490206056Z",
+  "timestamp": "2026-08-25T05:49:58.729112160Z",
   "model": "glm-5.3"
 }

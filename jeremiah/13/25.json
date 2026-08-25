@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 13,
-  "translation": "To jest twój los, dział twoich miar ⟨את⟩ ode mnie — wyrocznia Jahwe, ponieważ zapomniałaś ⟨את⟩ mnie i zaufałaś kłamstwu.",
+  "translation": "To jest twój los, dział twych miar ode ⟨מני⟩ mnie — wyrocznia Jahwe — bo zapomniałaś ⟨את⟩ mnie i zaufałaś kłamstwu.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גורלך",
-      "gloss": "twój los"
+      "gloss": "jest twój los"
     },
     {
       "surface": "מנת",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "מדיך",
-      "gloss": "twoich miar"
+      "gloss": "twych miar"
     },
     {
       "surface": "מאתי",
       "gloss": "⟨את⟩ ode mnie",
-      "marks": "dział twoich miar"
+      "marks": "ode mnie"
     },
     {
       "surface": "נאם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ponieważ"
+      "gloss": "bo"
     },
     {
       "surface": "שכחת",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "בשקר",
-      "gloss": "w kłamstwie"
+      "gloss": "kłamstwu"
     }
   ],
-  "timestamp": "2026-08-25T00:47:03.328005938Z",
+  "timestamp": "2026-08-25T07:01:52.450337370Z",
   "model": "glm-5.3"
 }

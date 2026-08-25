@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 52,
-  "translation": "I wziął dowódca rzeźników ⟨את⟩ Serajaszу, kapłana naczelnego, i ⟨את⟩ Cefanjasza, kapłana drugiego, i ⟨את⟩ trzech strażników progu.",
+  "translation": "I wziął naczelnik rzeźników ⟨את⟩ Serajasz, kapłana naczelnego, i ⟨את⟩ Cefanjasz, kapłana drugiego, i ⟨את⟩ trzech strażników progu,",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "dowódca"
+      "gloss": "naczelnik"
     },
     {
       "surface": "טבחים",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Serajasza, kapłana naczelnego"
+      "marks": "Serajasz"
     },
     {
       "surface": "שריה",
-      "gloss": "Serajasza"
+      "gloss": "Serajasz"
     },
     {
       "surface": "כהן",
-      "gloss": "kapłana"
+      "gloss": "kapłan"
     },
     {
       "surface": "הראש",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Cefanjasza, kapłana drugiego"
+      "gloss": "i ⟨את⟩",
+      "marks": "Cefanjasz"
     },
     {
       "surface": "צפניה",
-      "gloss": "Cefanjasza"
+      "gloss": "Cefanjasz"
     },
     {
       "surface": "כהן",
-      "gloss": "kapłana"
+      "gloss": "kapłan"
     },
     {
       "surface": "המשנה",
-      "gloss": "drugiego"
+      "gloss": "drugi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "trzech strażników progu"
     },
     {
@@ -71,6 +71,6 @@
       "gloss": "progu"
     }
   ],
-  "timestamp": "2026-08-25T01:06:39.681035641Z",
+  "timestamp": "2026-08-25T06:10:45.807742679Z",
   "model": "glm-5.3"
 }

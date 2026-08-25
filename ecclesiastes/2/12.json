@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I zwróciłem się ja, by przyjrzeć się mądrości, i szaleństwu, i głupocie — bo czymże ⟨jest⟩ człowiek, który przyjdzie po królu? ⟨To⟩, co już uczynili go ⟨wcześniej⟩.",
+  "translation": "I zwróciłem się ja, aby widzieć mądrość, i szaleństwo, i głupotę; bo cóż ⟨jest⟩ człowiek, który przyjdzie po królu — ⟨את⟩ tego, co już zrobili?",
   "tokens": [
     {
       "surface": "ופניתי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "לראות",
-      "gloss": "by przyjrzeć się"
+      "gloss": "aby widzieć"
     },
     {
       "surface": "חכמה",
-      "gloss": "mądrości"
+      "gloss": "mądrość"
     },
     {
       "surface": "והוללות",
-      "gloss": "i szaleństwu"
+      "gloss": "i szaleństwo"
     },
     {
       "surface": "וסכלות",
-      "gloss": "i głupocie"
+      "gloss": "i głupotę"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "czymże"
+      "gloss": "cóż"
     },
     {
       "surface": "האדם",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co już uczynili"
+      "marks": "tego, co już zrobili"
     },
     {
       "surface": "אשר",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "עשוהו",
-      "gloss": "uczynili go"
+      "gloss": "zrobili"
     }
   ],
-  "timestamp": "2026-08-25T02:31:05.337890302Z",
+  "timestamp": "2026-08-25T06:21:05.463457168Z",
   "model": "glm-5.3"
 }

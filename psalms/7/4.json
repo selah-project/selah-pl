@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 7,
-  "translation": "Jahwe, Elohim mój, jeśli uczyniłem to, jeśli jest niesprawiedliwość na moich dłoniach —",
+  "translation": "Jahwe, Elohim mój, jeśli uczyniłem to, jeśli jest nieprawość na moich dłoniach",
   "tokens": [
     {
       "surface": "יהוה",
@@ -25,8 +25,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "to",
-      "marks": "to"
+      "gloss": "to"
     },
     {
       "surface": "אם",
@@ -38,13 +37,13 @@
     },
     {
       "surface": "עול",
-      "gloss": "niesprawiedliwość"
+      "gloss": "nieprawość"
     },
     {
       "surface": "בכפי",
       "gloss": "na moich dłoniach"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.478708550Z",
+  "timestamp": "2026-08-25T07:08:28.954468745Z",
   "model": "glm-5.3"
 }

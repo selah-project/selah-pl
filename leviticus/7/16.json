@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A jeśli ślubowaniem lub dobrowolną ofiarą ⟨jest⟩ ofiara jego, w dniu przyprowadzenia jego ⟨את⟩ ofiary jego będzie zjedzona, a nazajutrz; i to, co z niej pozostanie, będzie zjedzone.",
+  "translation": "A jeśli ⟨jest⟩ ślub lub dobrowolna ofiara, ofiara jego daru — w dniu przyniesienia ⟨את⟩ jego ofiary będzie zjedzona, i nazajutrz, a to, co z niej pozostanie, będzie zjedzone.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נדר",
-      "gloss": "ślubowaniem"
+      "gloss": "ślub"
     },
     {
       "surface": "או",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "dobrowolną ofiarą"
+      "gloss": "dobrowolna ofiara"
     },
     {
       "surface": "זבח",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "jego"
+      "gloss": "jego daru"
     },
     {
       "surface": "ביום",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "הקריבו",
-      "gloss": "przyprowadzenia"
+      "gloss": "przyniesienia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofiary jego"
+      "marks": "jego ofiary"
     },
     {
       "surface": "זבחו",
-      "gloss": "ofiary jego"
+      "gloss": "jego ofiary"
     },
     {
       "surface": "יאכל",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "וממחרת",
-      "gloss": "a nazajutrz"
+      "gloss": "i nazajutrz"
     },
     {
       "surface": "והנותר",
-      "gloss": "i to, co pozostanie"
+      "gloss": "a to, co pozostanie"
     },
     {
       "surface": "ממנו",
@@ -69,6 +69,6 @@
       "gloss": "będzie zjedzone"
     }
   ],
-  "timestamp": "2026-08-25T04:06:46.799630944Z",
+  "timestamp": "2026-08-25T05:43:35.638321926Z",
   "model": "glm-5.3"
 }

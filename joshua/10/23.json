@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I uczynili tak, i wyprowadzili do niego ⟨את⟩ tych pięciu królów z ⟨the⟩ jaskini: ⟨את⟩ króla Jeruszalaim, ⟨את⟩ króla Chewronu, ⟨את⟩ króla Jarmut, ⟨את⟩ króla Lakisz, ⟨את⟩ króla Eglonu.",
+  "translation": "I uczynili tak, i wyprowadzili do niego ⟨את⟩ tych pięciu królów z jaskini: ⟨את⟩ króla Jeruszalaim, ⟨את⟩ króla Chebronu, ⟨את⟩ króla Jarmut, ⟨את⟩ króla Lakisz, ⟨את⟩ króla Eglonu.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "I uczynili"
+      "gloss": "i uczynili"
     },
     {
       "surface": "כן",
@@ -64,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "króla Chewronu"
+      "marks": "króla Chebronu"
     },
     {
       "surface": "מלך",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "חברון",
-      "gloss": "Chewronu"
+      "gloss": "Chebronu"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "Eglonu"
     }
   ],
-  "timestamp": "2026-08-25T03:24:48.393545910Z",
+  "timestamp": "2026-08-25T05:52:40.891423682Z",
   "model": "glm-5.3"
 }

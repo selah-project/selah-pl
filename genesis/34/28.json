@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 34,
-  "translation": "⟨את⟩ Ich owce, i ⟨את⟩ ich bydło, i ⟨את⟩ ich osły, i ⟨את⟩ to, co w mieście, i ⟨את⟩ to, co na polu, wzięli.",
+  "translation": "⟨את⟩ ich trzody i ⟨את⟩ ich bydło, i ⟨את⟩ ich osły, i ⟨את⟩ wszystko, co ⟨było⟩ w mieście, i ⟨את⟩ wszystko, co ⟨było⟩ na polu — zabrali.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ich owce"
+      "marks": "ich trzody"
     },
     {
       "surface": "צאנם",
-      "gloss": "Ich owce"
+      "gloss": "ich trzody"
     },
     {
       "surface": "ואת",
@@ -37,7 +37,7 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "to, co w mieście"
+      "marks": "wszystko, co w mieście"
     },
     {
       "surface": "אשר",
@@ -50,7 +50,7 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "to, co na polu"
+      "marks": "wszystko, co na polu"
     },
     {
       "surface": "אשר",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "wzięli"
+      "gloss": "zabrali"
     }
   ],
-  "timestamp": "2026-08-24T22:20:05.855678745Z",
+  "timestamp": "2026-08-25T05:38:14.905557016Z",
   "model": "glm-5.3"
 }

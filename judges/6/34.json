@@ -5,8 +5,29 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A ruach Jahwe oblekła Gideona, i zatrąbił w szofar, i zawołano ⟨את⟩ Awiezer za nim.",
+  "translation": "A Duch Jahwe przyodział ⟨את⟩ Gidona, i zatrąbił w szofar, i zawołał Abiezer za nim.",
   "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "A Duch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "przyodział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gidona"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidona"
+    },
     {
       "surface": "ויתקע",
       "gloss": "i zatrąbił"
@@ -17,17 +38,17 @@
     },
     {
       "surface": "ויזעק",
-      "gloss": "i zawołano"
+      "gloss": "i zawołał"
     },
     {
       "surface": "אביעזר",
-      "gloss": "⟨את⟩ Awiezer"
+      "gloss": "Abiezer"
     },
     {
       "surface": "אחריו",
       "gloss": "za nim"
     }
   ],
-  "timestamp": "2026-08-24T23:26:31.143657586Z",
+  "timestamp": "2026-08-25T05:53:33.100773730Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I gdy znamię będzie zielonkawe lub czerwonawe w szacie, lub w skórze, lub w osnowie, lub w wątku, lub w jakimkolwiek przedmiocie ze skóry — to znamię trądu ⟨jest⟩, i zostanie pokazane ⟨את⟩ kapłanowi.",
+  "translation": "I ⟨będzie⟩ ⟨to⟩ zarazień — zielonkawy lub czerwonkawy — w szacie, lub w skórze, lub w osnowie, lub w wątku, lub w każdym przedmiocie ze skóry: zarazień cery ⟨to⟩, i zostanie pokazany ⟨את⟩ kapłanowi.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "i gdy będzie"
+      "gloss": "i ⟨będzie⟩"
     },
     {
       "surface": "הנגע",
-      "gloss": "znamię"
+      "gloss": "zarazień"
     },
     {
       "surface": "ירקרק",
-      "gloss": "zielonkawe"
+      "gloss": "zielonkawy"
     },
     {
       "surface": "או",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אדמדם",
-      "gloss": "czerwonawe"
+      "gloss": "czerwonkawy"
     },
     {
       "surface": "בבגד",
@@ -69,23 +69,23 @@
     },
     {
       "surface": "עור",
-      "gloss": "skóry"
+      "gloss": "ze skóry"
     },
     {
       "surface": "נגע",
-      "gloss": "znamię"
+      "gloss": "zarazień"
     },
     {
       "surface": "צרעת",
-      "gloss": "trądu"
+      "gloss": "cery"
     },
     {
       "surface": "הוא",
-      "gloss": "to ⟨jest⟩"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "והראה",
-      "gloss": "i zostanie pokazane"
+      "gloss": "i zostanie pokazany"
     },
     {
       "surface": "את",
@@ -97,6 +97,6 @@
       "gloss": "kapłanowi"
     }
   ],
-  "timestamp": "2026-08-24T22:44:29.493705996Z",
+  "timestamp": "2026-08-25T05:44:20.468280784Z",
   "model": "glm-5.3"
 }

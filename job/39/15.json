@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "pl",
   "chapter": 39,
-  "translation": "I zapomina, że stopa może ją zdeptać ⟨את⟩ — bo רגל tu znaczy wrógIdę prosto: ubezzieczyż — i zwierz polny zadeptuje ją.",
-  "tokens": [],
-  "timestamp": "2026-08-25T03:49:00.760894402Z",
+  "translation": "I zapomina, że stopa ją zadeptać może, i bestia pola ją podepcze.",
+  "tokens": [
+    {
+      "surface": "וַתִּשְׁכַּח",
+      "gloss": "i zapomina"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "że"
+    },
+    {
+      "surface": "רֶגֶל",
+      "gloss": "stopa"
+    },
+    {
+      "surface": "תְּזוּרֶהָ",
+      "gloss": "zadeptać ją może"
+    },
+    {
+      "surface": "וְחַיַּת",
+      "gloss": "i bestia"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "תְּדוּשֶׁהָ",
+      "gloss": "ją podepcze"
+    }
+  ],
+  "timestamp": "2026-08-25T06:19:26.174259447Z",
   "model": "glm-5.3"
 }

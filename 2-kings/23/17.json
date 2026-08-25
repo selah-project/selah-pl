@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I rzekł: Co ⟨jest⟩ ten znak, który ja widzę? I rzekli do niego mężowie miasta: ⟨To⟩ grób męża Elohim, który przybył z Jehudy, i obwieścił ⟨את⟩ te słowa, które uczyniłeś na ołtarzu Bet-El.",
+  "translation": "I rzekł: Co za znak ten, który ja widzę? I rzekli mu mężowie ⟨tego⟩ miasta: ⟨To⟩ grób męża Elohim, który przyszedł z Jehudy, i obwiescił ⟨את⟩ słowa te, które uczyniłeś na ołtarzu Bet-El.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "מה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i rzekli"
+      "gloss": "I rzekli"
     },
     {
       "surface": "אליו",
-      "gloss": "do niego"
+      "gloss": "mu"
     },
     {
       "surface": "אנשי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "przybył"
+      "gloss": "przyszedł"
     },
     {
       "surface": "מיהודה",
@@ -77,12 +77,12 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "i obwieścił"
+      "gloss": "i obwiescił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "te słowa"
+      "marks": "słowa"
     },
     {
       "surface": "הדברים",
@@ -117,6 +117,6 @@
       "gloss": "El"
     }
   ],
-  "timestamp": "2026-08-25T00:17:28.128117554Z",
+  "timestamp": "2026-08-25T06:04:18.045042360Z",
   "model": "glm-5.3"
 }

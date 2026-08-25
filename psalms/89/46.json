@@ -5,45 +5,37 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 89,
-  "translation": "Jak długo, Jahwe, będziesz się ukrywał na zawsze? Jak długo płonąć będzie jak ogień Twoja zapalczywość?",
+  "translation": "Skróciłeś dni jego młodości, okryłeś go wstydem. Sela.",
   "tokens": [
     {
-      "surface": "עד",
-      "gloss": "jak długo"
+      "surface": "הקצרת",
+      "gloss": "skróciłeś"
     },
     {
-      "surface": "מה",
-      "gloss": ""
+      "surface": "ימי",
+      "gloss": "dni"
     },
     {
-      "surface": "יהוה",
-      "gloss": "Jahwe"
+      "surface": "עלומיו",
+      "gloss": "jego młodości"
     },
     {
-      "surface": "תסתר",
-      "gloss": "będziesz się ukrywał"
+      "surface": "העטית",
+      "gloss": "okryłeś"
     },
     {
-      "surface": "לנצח",
-      "gloss": "na zawsze"
+      "surface": "עליו",
+      "gloss": "go"
     },
     {
-      "surface": "תבער",
-      "gloss": "płonąć będzie"
+      "surface": "בושה",
+      "gloss": "wstydem"
     },
     {
-      "surface": "כמו",
-      "gloss": "jak"
-    },
-    {
-      "surface": "אש",
-      "gloss": "ogień"
-    },
-    {
-      "surface": "חמתך",
-      "gloss": "Twoja zapalczywość"
+      "surface": "סלה",
+      "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-08-25T01:57:41.823368025Z",
+  "timestamp": "2026-08-25T06:17:06.053668364Z",
   "model": "glm-5.3"
 }

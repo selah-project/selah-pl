@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I rzekł Elohim: Oto dałem wam ⟨את⟩ wszelką roślinę siejącą nasienie, która jest na obliczu całej ziemi, i ⟨את⟩ wszelkie drzewo, w którym jest owoc drzewa siejący nasienie — wam to będzie na pokarm.",
+  "translation": "I rzekł Elohim: Oto dałem wam ⟨את⟩ każdą roślinę siejącą nasienie, która jest na obliczu całej ziemi, i ⟨את⟩ każde drzewo, w którym jest owoc drzewa siejący nasienie — wam to będzie na pokarm.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszelką roślinę"
+      "marks": "każdą roślinę"
     },
     {
       "surface": "כל",
-      "gloss": "wszelką"
+      "gloss": "każdą"
     },
     {
       "surface": "עשב",
@@ -71,11 +71,11 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "wszelkie drzewo"
+      "marks": "każde drzewo"
     },
     {
       "surface": "כל",
-      "gloss": "wszelkie"
+      "gloss": "każde"
     },
     {
       "surface": "העץ",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "זרע",
-      "gloss": "siejące"
+      "gloss": "siejący"
     },
     {
       "surface": "זרע",
@@ -118,6 +118,6 @@
       "gloss": "na pokarm"
     }
   ],
-  "timestamp": "2026-08-24T22:09:51.570477416Z",
+  "timestamp": "2026-08-25T05:36:47.176192876Z",
   "model": "glm-5.3"
 }

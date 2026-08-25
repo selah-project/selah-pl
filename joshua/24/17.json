@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Bo Jahwe, nasz Elohim, to On wyprowadził ⟨את⟩ nas i ⟨את⟩ naszych ojców z ziemi Micrajim, z domu niewolników; i który uczynił na naszych oczach ⟨את⟩ te wielkie znaki, i zachował nas na całej drodze, którą szliśmy, i wśród wszystkich ludów, przez których przeszliśmy w ich środku.",
+  "translation": "Bo Jahwe, nasz Elohim, ⟨to⟩ On wyprowadził ⟨את⟩ nas i ⟨את⟩ naszych ojców z ziemi Micrajim, z domu niewoli; i ⟨to⟩ On uczynił na naszych oczach ⟨את⟩ te znaki wielkie te, i strzegł nas na całej drodze, którą szliśmy nią, i pośród wszystkich ludów, które przeszliśmy w ich środku.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to On"
+      "gloss": "On"
     },
     {
       "surface": "המעלה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ nas",
+      "gloss": "⟨את⟩",
       "marks": "nas"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "niewolników"
+      "gloss": "niewoli"
     },
     {
       "surface": "ואשר",
@@ -72,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "te wielkie znaki"
+      "marks": "te znaki"
     },
     {
       "surface": "האתות",
-      "gloss": "znaki"
+      "gloss": "te znaki"
     },
     {
       "surface": "הגדלות",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "וישמרנו",
-      "gloss": "i zachował nas"
+      "gloss": "i strzegł nas"
     },
     {
       "surface": "בכל",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "i wśród wszystkich"
+      "gloss": "i pośród wszystkich"
     },
     {
       "surface": "העמים",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "których"
+      "gloss": "które"
     },
     {
       "surface": "עברנו",
@@ -131,6 +131,6 @@
       "gloss": "w ich środku"
     }
   ],
-  "timestamp": "2026-08-24T23:25:04.482832672Z",
+  "timestamp": "2026-08-25T05:54:08.367423405Z",
   "model": "glm-5.3"
 }

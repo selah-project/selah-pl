@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I powiedział mąż Elohim: Gdzie spadło? A on pokazał mu ⟨את⟩ to miejsce. I zaczął rąbać drewno i rzucił je tam, i ⟨spowodował, że⟩ żelazo wypłynęło.",
+  "translation": "I rzekł mąż Elohim: Gdzie padło? A on pokazał mu ⟨את⟩ ⟨to⟩ miejsce, i wyciął kawałek drzewa, i rzucił tam, i sprawił, że żelazo wypłynęło.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I powiedział"
+      "gloss": "I rzekł"
     },
     {
       "surface": "איש",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "נפל",
-      "gloss": "spadło"
+      "gloss": "padło"
     },
     {
       "surface": "ויראהו",
-      "gloss": "a on pokazał mu"
+      "gloss": "pokazał mu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to miejsce"
+      "marks": "miejsce"
     },
     {
       "surface": "המקום",
-      "gloss": "to miejsce"
+      "gloss": "⟨to⟩ miejsce"
     },
     {
       "surface": "ויקצב",
-      "gloss": "I zaczął rąbać"
+      "gloss": "wyciął"
     },
     {
       "surface": "עץ",
-      "gloss": "drewno"
+      "gloss": "kawałek drzewa"
     },
     {
       "surface": "וישלך",
-      "gloss": "i rzucił"
+      "gloss": "rzucił"
     },
     {
       "surface": "שמה",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ויצף",
-      "gloss": "i ⟨spowodował, że⟩ wypłynęło"
+      "gloss": "sprawił, że wypłynęło"
     },
     {
       "surface": "הברזל",
       "gloss": "żelazo"
     }
   ],
-  "timestamp": "2026-08-25T00:08:52.612047064Z",
+  "timestamp": "2026-08-25T06:02:11.898662911Z",
   "model": "glm-5.3"
 }

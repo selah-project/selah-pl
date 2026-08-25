@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A król Aramu toczył wojnę z Israelem i radził się ze sługami swymi, mówiąc: W takim to a takim miejscu będzie mój obóz.",
+  "translation": "A król Aramu był toczącym wojnę z Jisraelem, i radził się ze swymi sługami, mówiąc: W miejscu takim-a-takim, takim-a-takim ⟨będzie⟩ moje obozowisko.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "A król"
+      "gloss": "a król"
     },
     {
       "surface": "ארם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "toczący wojnę"
+      "gloss": "toczącym wojnę"
     },
     {
       "surface": "בישראל",
-      "gloss": "z Israelem"
+      "gloss": "z Jisraelem"
     },
     {
       "surface": "ויועץ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ze"
+      "gloss": "z"
     },
     {
       "surface": "עבדיו",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "אל",
-      "gloss": "W"
+      "gloss": "do"
     },
     {
       "surface": "מקום",
-      "gloss": "miejscu"
+      "gloss": "miejsca"
     },
     {
       "surface": "פלני",
-      "gloss": "takim to"
+      "gloss": "takiego-a-takiego"
     },
     {
       "surface": "אלמני",
-      "gloss": "a takim"
+      "gloss": "takiego-a-takiego"
     },
     {
       "surface": "תחנתי",
-      "gloss": "mój obóz"
+      "gloss": "moje obozowisko"
     }
   ],
-  "timestamp": "2026-08-25T00:08:52.612346862Z",
+  "timestamp": "2026-08-25T06:02:42.613329696Z",
   "model": "glm-5.3"
 }

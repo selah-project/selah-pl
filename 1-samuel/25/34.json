@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 25,
-  "translation": "Lecz jak żyje Jahwe, Elohim Izraela, który powstrzymał mnie od zła ⟨wobec⟩ ⟨את⟩ ciebie — bo gdybyś nie pośpieszyła się i nie przyszła mi na spotkanie, to na pewno nie zostałby Nabalowi aż do światła poranna ⟨nikt⟩ sikający o ścianę.",
+  "translation": "Lecz żyje Jahwe, Elohim Jisraela, który powstrzymał mnie od wyrządzenia zła ⟨את⟩ tobie — gdyż gdybyś nie pospieszyła się i nie przyszła mi na spotkanie, to na pewno nie zostałby Nabalowi aż do świtu poranka żaden sikający przy ścianie.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "lecz"
+      "gloss": "Lecz"
     },
     {
       "surface": "חי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "אשר",
@@ -42,11 +42,11 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "ciebie"
+      "marks": "tobie"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "לולי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מהרת",
-      "gloss": "pośpieszyłaś się"
+      "gloss": "pospieszyłaś się"
     },
     {
       "surface": "ותבאתי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "to"
-    },
-    {
-      "surface": "אם",
       "gloss": "na pewno"
     },
     {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
       "surface": "נותר",
-      "gloss": "zostałby"
+      "gloss": "nie zostałby"
     },
     {
       "surface": "לנבל",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אור",
-      "gloss": "światła"
+      "gloss": "świtu"
     },
     {
       "surface": "הבקר",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "בקיר",
-      "gloss": "o ścianę"
+      "gloss": "przy ścianie"
     }
   ],
-  "timestamp": "2026-08-24T23:44:23.033739816Z",
+  "timestamp": "2026-08-25T06:30:08.514970113Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,39 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 13,
-  "translation": "A reszta spraw Joasza i wszystko, co czynił, oraz jego moczt ¬— jak walczył z Amasjaszem, królem Jehudy — czy nie ⟨są one⟩ zapisane w księdze kronik dni królów Izraela?",
+  "translation": "A reszta dziejów Joasza, i wszystko, co czynił, i jego bohaterskie czyny, jakimi walczył z Amacjaszem, królem Jehudy — czyż nie ⟨są⟩ zapisane w księdze dziejów dni królów Izraela?",
   "tokens": [
     {
-      "surface": "וגבורתו",
-      "gloss": "oraz jego męstwo"
+      "surface": "ויתר",
+      "gloss": "a reszta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dziejów"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasza"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "i wszystko"
     },
     {
       "surface": "אשר",
-      "gloss": "jak"
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czynił"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "i jego bohaterskie czyny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jakimi"
     },
     {
       "surface": "נלחם",
@@ -25,7 +49,7 @@
     },
     {
       "surface": "אמציה",
-      "gloss": "Amasjaszem"
+      "gloss": "Amacjaszem"
     },
     {
       "surface": "מלך",
@@ -37,7 +61,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "czy nie"
+      "gloss": "czyż nie"
     },
     {
       "surface": "הם",
@@ -57,7 +81,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "kronik"
+      "gloss": "dziejów"
     },
     {
       "surface": "הימים",
@@ -72,6 +96,6 @@
       "gloss": "Izraela"
     }
   ],
-  "timestamp": "2026-08-25T03:31:50.213943436Z",
+  "timestamp": "2026-08-25T06:03:24.865596238Z",
   "model": "glm-5.3"
 }

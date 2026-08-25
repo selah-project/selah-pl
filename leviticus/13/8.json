@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I obejrzy kapłan, a oto -- rozpostarł się strup w skórze, i uzna go kapłan za nieczystego: trąd ⟨to⟩.",
+  "translation": "I obejrzy kapłan, a oto rozprzestrzeniła się wysypka w skórze, i uzna go kapłan za nieczystego: trąd ⟨to⟩ jest.",
   "tokens": [
     {
       "surface": "וראה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "פשתה",
-      "gloss": "rozpostarł się"
+      "gloss": "rozprzestrzeniła się"
     },
     {
       "surface": "המספחת",
-      "gloss": "strup"
+      "gloss": "wysypka"
     },
     {
       "surface": "בעור",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וטמאו",
-      "gloss": "i uzna go za nieczystego"
+      "gloss": "uzna go za nieczystego"
     },
     {
       "surface": "הכהן",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "to jest"
     }
   ],
-  "timestamp": "2026-08-24T22:43:53.756334409Z",
+  "timestamp": "2026-08-25T05:44:54.896732939Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 1,
-  "translation": "A te ⟨to⟩ imiona mężczyzn, którzy będą stać z wami ⟨את⟩: dla Rewuwena Elicur, syn Szedeur.",
+  "translation": "A te ⟨to⟩ imiona mężów, którzy staną ⟨את⟩ wami: dla Rewuwena Elicur, syn Szedeur.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "mężczyzn"
+      "gloss": "mężów"
     },
     {
       "surface": "אשר",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "יעמדו",
-      "gloss": "będą stać"
+      "gloss": "staną"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ z wami",
-      "marks": "wy"
+      "gloss": "⟨את⟩ wami",
+      "marks": "wami"
     },
     {
       "surface": "לראובן",
@@ -49,6 +49,6 @@
       "gloss": "Szedeur"
     }
   ],
-  "timestamp": "2026-08-24T22:49:01.184669773Z",
+  "timestamp": "2026-08-25T05:45:49.059480134Z",
   "model": "glm-5.3"
 }

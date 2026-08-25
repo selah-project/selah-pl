@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I napisał do nich list powtórnie, mówiąc: Jeśli moi ⟨jesteście⟩ wy i głosu mego słuchacie, weźcie ⟨את⟩ głowy mężów, synów waszych panów, i przyjdźcie do mnie o tej porze jutro do Jizreel. A synowie króla, siedemdziesięciu mężów, ⟨את⟩ z ⟨the⟩ wielkimi miasta byli — ⟨oni⟩ wychowywali ⟨את⟩ ich.",
+  "translation": "I napisał do nich list po wtóre, mówiąc: Jeśli moimi jesteście wy i głosu mego słuchacie, weźcie ⟨את⟩ głowy mężów, synów waszych panów, i przyjdźcie do mnie o tej porze jutro do Jizreel. A synowie króla, siedemdziesięciu mężów, ⟨byli⟩ ⟨את⟩ wielkich miasta, wychowujących ich.",
   "tokens": [
     {
       "surface": "ויכתב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שנית",
-      "gloss": "powtórnie"
+      "gloss": "po wtóre"
     },
     {
       "surface": "לאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "moi"
+      "gloss": "moimi"
     },
     {
       "surface": "אתם",
-      "gloss": "wy"
+      "gloss": "jesteście wy"
     },
     {
       "surface": "ולקלי",
@@ -114,11 +114,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩",
+      "marks": "wielkich miasta"
     },
     {
       "surface": "גדלי",
-      "gloss": "wielkimi"
+      "gloss": "wielkich"
     },
     {
       "surface": "העיר",
@@ -126,13 +127,14 @@
     },
     {
       "surface": "מגדלים",
-      "gloss": "wychowujący"
+      "gloss": "wychowujących"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich"
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich (synów króla)"
     }
   ],
-  "timestamp": "2026-08-25T03:31:00.576111349Z",
+  "timestamp": "2026-08-25T06:03:31.635646233Z",
   "model": "glm-5.3"
 }

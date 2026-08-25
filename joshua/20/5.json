@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 20,
-  "translation": "A gdyby goślańc krwi ścigał, to nie wydadzą zabójcy w jego rękę, bo bez wiedzy zabił on ⟨את⟩ swego bliźniego i nie nienawidził on jemu od wczoraj i przedwczoraj.",
+  "translation": "A gdyby goślad krwi ścigał go, nie wydadzą ⟨את⟩ zabójcy w jego rękę, bo bez wiedzy zabił on ⟨את⟩ bliźniego swego i nie nienawidził go on od wczoraj i przedwczoraj.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "goślańc"
+      "gloss": "goślad"
     },
     {
       "surface": "הדם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "to nie"
+      "gloss": "nie"
     },
     {
       "surface": "יסגרו",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "הכה",
-      "gloss": "zabił"
+      "gloss": "zabił on"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego bliźniego"
+      "marks": "bliźniego swego"
     },
     {
       "surface": "רעהו",
-      "gloss": "swego bliźniego"
+      "gloss": "bliźniego swego"
     },
     {
       "surface": "ולא",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "jemu"
+      "gloss": "go"
     },
     {
       "surface": "מתמול",
@@ -98,6 +98,6 @@
       "gloss": "i przedwczoraj"
     }
   ],
-  "timestamp": "2026-08-24T23:23:19.813035556Z",
+  "timestamp": "2026-08-25T06:29:17.833643448Z",
   "model": "glm-5.3"
 }

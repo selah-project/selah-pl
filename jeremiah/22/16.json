@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Sądził sprawę ubogiego i potrzebującego — wtedy ⟨było⟩ dobrze; czyż nie to ⟨jest⟩ poznanie ⟨את⟩ mnie? — wyrocznia Jahwe.",
+  "translation": "Sądził sprawę ubogiego i potrzebującego, wtedy ⟨było⟩ dobrze — czyż nie to jest poznaniem ⟨את⟩ Mnie? — wyrocznia Jahwe.",
   "tokens": [
     {
       "surface": "דן",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "היא",
-      "gloss": "to"
+      "gloss": "to jest"
     },
     {
       "surface": "הדעת",
-      "gloss": "poznanie"
+      "gloss": "poznaniem"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mnie",
-      "marks": "mnie"
+      "gloss": "⟨את⟩",
+      "marks": "Mnie"
     },
     {
       "surface": "נאם",
@@ -57,6 +57,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T00:50:14.271119268Z",
+  "timestamp": "2026-08-25T06:09:05.750967539Z",
   "model": "glm-5.3"
 }

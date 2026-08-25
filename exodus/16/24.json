@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I odłożyli ⟨את⟩ niego do rana, jak nakazał Mosze, i nie śmierdział, i robactwa nie było w nim.",
+  "translation": "I odłożyli ⟨את⟩ to do rana, jak nakazał Mosze, i nie śmierdziało, i robactwa w tym nie było.",
   "tokens": [
     {
       "surface": "ויניחו",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jego"
+      "gloss": "⟨את⟩ to",
+      "marks": "to (chleb)"
     },
     {
       "surface": "עד",
@@ -37,20 +37,16 @@
       "gloss": "Mosze"
     },
     {
-      "surface": "ויהי",
-      "gloss": ""
-    },
-    {
       "surface": "ולא",
       "gloss": "i nie"
     },
     {
       "surface": "הבאיש",
-      "gloss": "śmierdział"
+      "gloss": "śmierdziało"
     },
     {
       "surface": "ורמה",
-      "gloss": "i robactwa"
+      "gloss": "i robactwo"
     },
     {
       "surface": "לא",
@@ -62,9 +58,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "w nim"
+      "gloss": "w tym"
     }
   ],
-  "timestamp": "2026-08-24T22:30:35.611135120Z",
+  "timestamp": "2026-08-25T05:41:32.854138252Z",
   "model": "glm-5.3"
 }

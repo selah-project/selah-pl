@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 34,
-  "translation": "I przyniósł Szafan ⟨את⟩ księgę królowi, i złożył królowi jeszcze sprawozdanie, mówiąc: Wszystko, co wydano w ręce twoich sług, to oni wykonują.",
+  "translation": "I przyniósł Szafan ⟨את⟩ księgę do króla, i złożył ponownie królowi sprawozdanie, mówiąc: Wszystko, co zostało wydane w rękę twoich sług, oni wykonują.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "królowi"
+      "gloss": "do"
     },
     {
       "surface": "המלך",
-      "gloss": "królowi"
+      "gloss": "króla"
     },
     {
       "surface": "וישב",
-      "gloss": "i złożył z powrotem"
+      "gloss": "i złożył (sprawozdanie)"
     },
     {
       "surface": "עוד",
-      "gloss": "jeszcze"
+      "gloss": "ponownie"
     },
     {
       "surface": "את",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "wydano"
+      "gloss": "zostało wydane"
     },
     {
       "surface": "ביד",
-      "gloss": "w ręce"
+      "gloss": "w rękę"
     },
     {
       "surface": "עבדיך",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "הם",
-      "gloss": "to oni"
+      "gloss": "oni"
     },
     {
       "surface": "עשים",
       "gloss": "wykonują"
     }
   ],
-  "timestamp": "2026-08-25T03:12:33.852525907Z",
+  "timestamp": "2026-08-25T06:27:15.032885624Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "A ⟨את⟩ mięsko cielęcia, oraz ⟨את⟩ jego skórę, oraz ⟨את⟩ jego pomiot spalisz w ogniu na zewnątrz obozu — ofiara za grzech ⟨to⟩.",
+  "translation": "A ⟨את⟩ mięsko cielaka oraz ⟨את⟩ skórę jego oraz ⟨את⟩ pomyje jego spalisz w ogniu na zewnątrz obozu — ofiara za grzech ⟨jest⟩ on.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "a ⟨את⟩",
-      "marks": "mięsko cielęcia"
+      "gloss": "oraz ⟨את⟩",
+      "marks": "mięsko cielaka"
     },
     {
       "surface": "בשר",
@@ -18,25 +18,25 @@
     },
     {
       "surface": "הפר",
-      "gloss": "cielęcia"
+      "gloss": "cielaka"
     },
     {
       "surface": "ואת",
       "gloss": "oraz ⟨את⟩",
-      "marks": "jego skórę"
+      "marks": "skórę jego"
     },
     {
       "surface": "ערו",
-      "gloss": "jego skórę"
+      "gloss": "skórę jego"
     },
     {
       "surface": "ואת",
       "gloss": "oraz ⟨את⟩",
-      "marks": "jego pomiot"
+      "marks": "pomyje jego"
     },
     {
       "surface": "פרשו",
-      "gloss": "jego pomiot"
+      "gloss": "pomyje jego"
     },
     {
       "surface": "תשרף",
@@ -60,9 +60,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "on"
     }
   ],
-  "timestamp": "2026-08-24T22:35:14.256065883Z",
+  "timestamp": "2026-08-25T05:41:57.805052577Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,95 @@
   "book": "amos",
   "lang": "pl",
   "chapter": 4,
-  "translation": "Bo oto Ten, który formuje ⟨את⟩ góry i stwarza wiatr, i oznajmia człowiekowi, co jest jego myślą; który czyni świt ciemnością i kroczy po wyżynach ziemi — Jahwe, Elohim C otherwise nie, Elohim Sабаов... jego imię.",
-  "tokens": [],
-  "timestamp": "2026-08-25T03:41:29.031853167Z",
+  "translation": "Bo oto Ten, który formuje ⟨את⟩ góry i stwarza ⟨את⟩ wiatr, i oznajmia człowiekowi, jaka jest jego myśl, który czyni świt ciemnością i kroczy po wyżynach ziemi — Jahwe, Elohim-Sebaot, ⟨jest⟩ Jego imię!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "formuje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry",
+      "marks": "góry"
+    },
+    {
+      "surface": "וברא",
+      "gloss": "i stwarza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr",
+      "marks": "wiatr"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "i oznajmia"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaka"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "jest jego myśl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "który czyni"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "świt"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ciemnością"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "i kroczy"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "wyżynach"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jego imię"
+    }
+  ],
+  "timestamp": "2026-08-25T06:14:17.722446848Z",
   "model": "glm-5.3"
 }

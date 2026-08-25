@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I weźmie kapłan namaszczony z krwi(byka) — from the blood: I weźmie namaszczony kohen z krwi tego byka i wprowadzi ⟨את⟩ niego do Namiotu Spotkania.",
+  "translation": "I namaściony kapłan weźmie z krwi byka i wprowadzi ją ⟨את⟩ do Namiotu Spotkania.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המשיח",
-      "gloss": "namaszczony"
+      "gloss": "namaściony"
     },
     {
       "surface": "מדם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הפר",
-      "gloss": "tego byka"
+      "gloss": "byka"
     },
     {
       "surface": "והביא",
@@ -34,7 +34,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jego (nią — krew)"
+      "marks": "ją (krew)"
     },
     {
       "surface": "אל",
@@ -49,6 +49,6 @@
       "gloss": "Spotkania"
     }
   ],
-  "timestamp": "2026-08-24T22:41:30.137995367Z",
+  "timestamp": "2026-08-25T05:42:27.199724700Z",
   "model": "glm-5.3"
 }

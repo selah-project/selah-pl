@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I dana jest księga temu, kto nie zna księgi, mówiąc: przeczytajże to; a on mówi: nie znam się na księdze.",
+  "translation": "I dana będzie ⟨ta⟩ księga temu, który nie zna księgi, mówiąc: Czytajże to; a on powie: Nie znam się na piśmie.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "I dana jest"
+      "gloss": "i dana będzie"
     },
     {
       "surface": "הספר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "temu"
     },
     {
       "surface": "אשר",
-      "gloss": "temu, kto"
+      "gloss": "który"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "przeczytaj"
+      "gloss": "czytaj"
     },
     {
       "surface": "נא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "a on mówi"
+      "gloss": "a on powie"
     },
     {
       "surface": "לא",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ספר",
-      "gloss": "na księdze"
+      "gloss": "na piśmie"
     }
   ],
-  "timestamp": "2026-08-25T00:27:33.147083357Z",
+  "timestamp": "2026-08-25T06:05:21.320207748Z",
   "model": "glm-5.3"
 }

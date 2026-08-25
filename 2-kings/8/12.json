@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I rzekł Chazael: Dlaczego płacze mój pan? I ⟨on⟩ rzekł: Ponieważ wiem ⟨את⟩ to, co uczynisz synom Jisraela złego: twierdze ich ogniem spalisz, i młodzieńców ich mieczem zabijesz, i niemowlęta ich potłuczysz, i kobiety brzemienne ich rozporiesz.",
+  "translation": "I rzekł Chazael: Dlaczego pan mój płacze? A on rzekł: Ponieważ wiem ⟨את⟩ to, co uczynisz synom Jisraela — zło: ich warownie poślesz w ogniu, a ich młodzieńców mieczem zabijesz, ich niemowlęta potłuczesz, a ich brzemienne rozprujesz.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mój pan"
+      "gloss": "pan mój"
     },
     {
       "surface": "בכה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "a rzekł"
     },
     {
       "surface": "כי",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co uczynisz"
+      "marks": "to, co uczynisz synom Jisraela"
     },
     {
       "surface": "אשר",
@@ -62,23 +62,23 @@
     },
     {
       "surface": "רעה",
-      "gloss": "złego"
+      "gloss": "zło"
     },
     {
       "surface": "מבצריהם",
-      "gloss": "twierdze ich"
+      "gloss": "ich warownie"
     },
     {
       "surface": "תשלח",
-      "gloss": "spalisz"
+      "gloss": "poślesz"
     },
     {
       "surface": "באש",
-      "gloss": "ogniem"
+      "gloss": "w ogniu"
     },
     {
       "surface": "ובחריהם",
-      "gloss": "i młodzieńców ich"
+      "gloss": "a ich młodzieńców"
     },
     {
       "surface": "בחרב",
@@ -90,21 +90,21 @@
     },
     {
       "surface": "ועלליהם",
-      "gloss": "i niemowlęta ich"
+      "gloss": "ich niemowlęta"
     },
     {
       "surface": "תרטש",
-      "gloss": "potłuczysz"
+      "gloss": "potłuczesz"
     },
     {
       "surface": "והרתיהם",
-      "gloss": "i kobiety brzemienne ich"
+      "gloss": "a ich brzemienne"
     },
     {
       "surface": "תבקע",
-      "gloss": "rozporiesz"
+      "gloss": "rozprujesz"
     }
   ],
-  "timestamp": "2026-08-25T04:13:42.853224249Z",
+  "timestamp": "2026-08-25T06:30:32.011664855Z",
   "model": "glm-5.3"
 }

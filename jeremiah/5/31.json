@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Prorocy prorokują w fałszu, a kapłani panują według rąk swoich, i mój lud tak ⟨to⟩ umiłował — a co uczynicie przy jej końcu?",
+  "translation": "Prorocy prorokowali kłamliwie, a kapłani panowali ⟨przez⟩ ich ręce, i mój lud tak pokochał — a co uczynicie przy jej końcu?",
   "tokens": [
     {
       "surface": "הנביאים",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נבאו",
-      "gloss": "prorokują"
+      "gloss": "prorokowali"
     },
     {
       "surface": "בשקר",
-      "gloss": "w fałszu"
+      "gloss": "kłamliwie"
     },
     {
       "surface": "והכהנים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ירדו",
-      "gloss": "panują"
+      "gloss": "panowali"
     },
     {
       "surface": "על",
-      "gloss": "według"
+      "gloss": "na"
     },
     {
       "surface": "ידיהם",
-      "gloss": "rąk swoich"
+      "gloss": "ich ręce"
     },
     {
       "surface": "ועמי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אהבו",
-      "gloss": "umiłował"
+      "gloss": "pokochał"
     },
     {
       "surface": "כן",
@@ -60,6 +60,6 @@
       "gloss": "przy jej końcu"
     }
   ],
-  "timestamp": "2026-08-25T00:43:19.627861650Z",
+  "timestamp": "2026-08-25T06:07:26.767284315Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 10,
-  "translation": "Jeżeli wąż ukąsi bez zaklęcia, to nie ma przewagi pan języka.",
+  "translation": "Jeśli wąż ukąsi, bo nie zaklęto go, to nie ma przewagi pan języka.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeżeli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "ישך",
@@ -44,6 +44,6 @@
       "gloss": "języka"
     }
   ],
-  "timestamp": "2026-08-25T02:31:39.396537726Z",
+  "timestamp": "2026-08-25T06:21:54.084484259Z",
   "model": "glm-5.3"
 }

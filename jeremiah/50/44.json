@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 50,
-  "translation": "Oto jak lew wstąpi od pysznego Jordanu ku siedzibie trwałej, gdyż nagle sprawię, że pobiegną z niej; a kto wybrany, tego nad nią ustanowię, bo kto jak Ja? i kto Mnie wyznaczy na czas? i kto to jest pasterz, który stanie przede Mną?",
+  "translation": "Oto jak lew wstępuje z wyniosłości Jardenu ku siedzibie trwałej, bo nagle sprawię, że pobiegną z niej; a kto ⟨jest⟩ wybrany, tego nad nią ustanowię; bo kto jak Ja? I kto Mnie wyznaczy ⟨na czas⟩? I kto to ⟨jest⟩ pasterz, który stanie przede Mną?",
   "tokens": [
     {
       "surface": "הנה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "wstąpi"
+      "gloss": "wstępuje"
     },
     {
       "surface": "מגאון",
-      "gloss": "od pysznego"
+      "gloss": "z wyniosłości"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordanu"
+      "gloss": "Jardenu"
     },
     {
       "surface": "אל",
@@ -41,10 +41,10 @@
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "bo"
     },
     {
-      "surface": "ארגעה",
+      "surface": "ארגיעה",
       "gloss": "nagle sprawię"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "surface": "יועדני",
-      "gloss": "Mnie wyznaczy na czas"
+      "gloss": "Mnie wyznaczy"
     },
     {
       "surface": "ומי",
@@ -113,9 +113,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "przede Mną"
+      "gloss": "przed Mną"
     }
   ],
-  "timestamp": "2026-08-25T01:05:19.656458655Z",
+  "timestamp": "2026-08-25T06:10:11.429239034Z",
   "model": "glm-5.3"
 }

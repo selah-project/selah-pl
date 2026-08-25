@@ -5,27 +5,23 @@
   "book": "job",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Umocniłbym was moimi ustami, a poruszenie moich warg oszczędzałoby ⟨was⟩.",
+  "translation": "Lecz wzmocniłbym was moimi ustami, a poruszenie moich warg oszczędzałoby.",
   "tokens": [
     {
       "surface": "אאמצכם",
-      "gloss": "umocniłbym was"
+      "gloss": "wzmocniłbym was"
     },
     {
       "surface": "במו",
-      "gloss": "moimi"
+      "gloss": "przy pomocy"
     },
     {
       "surface": "פי",
-      "gloss": "ustami"
+      "gloss": "moich ust"
     },
     {
-      "surface": "ו",
-      "gloss": "a"
-    },
-    {
-      "surface": "ניד",
-      "gloss": "poruszenie"
+      "surface": "וניד",
+      "gloss": "a poruszenie"
     },
     {
       "surface": "שפתי",
@@ -36,6 +32,6 @@
       "gloss": "oszczędzałoby"
     }
   ],
-  "timestamp": "2026-08-25T03:48:45.784273225Z",
+  "timestamp": "2026-08-25T06:18:17.653404001Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 30,
-  "translation": "To dadzą wszyscy przechodzący do policzonych: połowa szekla, według szekla ⟨świętości⟩ — dwadzieścia ger ⟨to⟩ szekel — połowa szekla jako teruma dla Jahwe.",
+  "translation": "To dadzą wszyscy przechodzący do policzonych: połowa szekla, według szekla ⟨świętości⟩ ⟨to⟩ szekel świątyni — dwadzieścia gerów ⟨to⟩ szekel — połowa szekla jako teruma dla Jahwe.",
   "tokens": [
     {
       "surface": "זה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "świętości"
+      "gloss": "⟨świętości⟩"
     },
     {
       "surface": "עשרים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "גרה",
-      "gloss": "ger"
+      "gloss": "gerów"
     },
     {
       "surface": "השקל",
@@ -76,6 +76,6 @@
       "gloss": "dla Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:35:59.380090552Z",
+  "timestamp": "2026-08-25T07:00:02.757651386Z",
   "model": "glm-5.3"
 }

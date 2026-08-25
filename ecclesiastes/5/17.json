@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Oto co widziałem ⟨ja⟩: dobrym jest, że pięknie jest jeść i pić, i widzieć dobro przy całym trudem swym, przy którym się trudzi pod słońcem, ⟨przez⟩ liczbę dni życia swego, które dał mu Elohim — bo to jest dział jego.",
+  "translation": "Oto, co ujrzałem ja: dobrem jest, że pięknie jest jeść i pić, i widzieć dobro w całym swoim trudzie, którym się trudni pod słońcem, ⟨przez⟩ liczbę dni swego życia, które dał mu Elohim — bo to ⟨jest⟩ jego dział.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "oto"
+      "gloss": "Oto"
     },
     {
       "surface": "אשר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "widziałem"
+      "gloss": "ujrzałem"
     },
     {
       "surface": "אני",
-      "gloss": "⟨ja⟩"
+      "gloss": "ja"
     },
     {
       "surface": "טוב",
-      "gloss": "dobrym"
+      "gloss": "dobrem"
     },
     {
       "surface": "אשר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "בכל",
-      "gloss": "przy całym"
+      "gloss": "w całym"
     },
     {
       "surface": "עמלו",
-      "gloss": "trudem swym"
+      "gloss": "swoim trudzie"
     },
     {
       "surface": "שיעמל",
-      "gloss": "przy którym się trudzi"
+      "gloss": "którym się trudni"
     },
     {
       "surface": "תחת",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "liczba"
+      "gloss": "liczbę"
     },
     {
       "surface": "ימי",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חיו",
-      "gloss": "życia swego"
+      "gloss": "swego życia"
     },
     {
       "surface": "אשר",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "חלקו",
-      "gloss": "dział jego"
+      "gloss": "jego dział"
     }
   ],
-  "timestamp": "2026-08-25T02:31:38.989480092Z",
+  "timestamp": "2026-08-25T06:20:59.557950238Z",
   "model": "glm-5.3"
 }

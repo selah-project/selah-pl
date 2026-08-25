@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 18,
-  "translation": "oraz Cela, ha-Elef, i ⟨ha⟩Jebusyta — on ⟨jest⟩ Jeruszalaim, Gibat-Kirjat — czternaście miast wraz z ich osadami; to ⟨jest⟩ dziedzictwo synów Binjamina według ich rodzin.",
+  "translation": "oraz Cela, ha-Elef, oraz Jebusyta — ⟨to⟩ jest Jeruszalaim, Gibeat, Kirjat — czternaście miast i ich osady; to jest dziedzictwo synów Binjamina według ich rodów.",
   "tokens": [
     {
       "surface": "וצלע",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "והיבוסי",
-      "gloss": "i ⟨ha⟩Jebusyta"
+      "gloss": "oraz Jebusyta"
     },
     {
       "surface": "היא",
-      "gloss": "on"
+      "gloss": "⟨to⟩ jest"
     },
     {
       "surface": "ירושלם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גבעת",
-      "gloss": "Gibat"
+      "gloss": "Gibeat"
     },
     {
       "surface": "קרית",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "וחצריהן",
-      "gloss": "oraz ich osady"
+      "gloss": "i ich osady"
     },
     {
       "surface": "זאת",
-      "gloss": "to"
+      "gloss": "to jest"
     },
     {
       "surface": "נחלת",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "według ich rodzin"
+      "gloss": "według ich rodów"
     }
   ],
-  "timestamp": "2026-08-24T23:21:43.788620877Z",
+  "timestamp": "2026-08-25T05:52:55.200310277Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "Który zachowałeś słudze swojemu Dawidowi, ojcu memu, ⟨את⟩ to, co mówiłeś mu; i mówiłeś swoimi ustami, a swoją ręką wypełniłeś, jak dzień ten.",
+  "translation": "który zachowałeś swojemu słudze Dawidowi, memu ojcu, ⟨את⟩ to, co mu mówiłeś — ty mówiłeś swoimi ustami i swoją ręką wypełniłeś, jak ⟨jest⟩ ten dzień.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "Który"
+      "gloss": "który"
     },
     {
       "surface": "שמרת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "słudze swojemu"
+      "gloss": "swojemu słudze"
     },
     {
       "surface": "דוד",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ojcu memu"
+      "gloss": "memu ojcu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co"
+      "marks": "to, co mu mówiłeś"
     },
     {
       "surface": "אשר",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "בפיך",
-      "gloss": "ustami"
+      "gloss": "swoimi ustami"
     },
     {
       "surface": "ובידך",
-      "gloss": "ręką"
+      "gloss": "i swoją ręką"
     },
     {
       "surface": "מלאת",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "jak dzień"
+      "gloss": "jak ten dzień"
     },
     {
       "surface": "הזה",
       "gloss": "ten"
     }
   ],
-  "timestamp": "2026-08-24T23:59:20.275857235Z",
+  "timestamp": "2026-08-25T05:59:50.229068765Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I ⟨zapanował⟩ trwoga w obozie, w polu, i wśród całego ludu — załoga i niszczyciele, i oni zadrżeli; i zatrzęsła się ziemia, i ⟨stała się⟩ to trwoga od Elohim.",
+  "translation": "I ⟨stała się⟩ trwoga w obozie, na polu i wśród całego ludu — placówka i niszczyciele, także oni zatrwożyli się, i zadrżała ziemia, i ⟨stała się⟩ trwoga ⟨od⟩ Elohim.",
   "tokens": [
     {
-      "surface": "ויראו",
-      "gloss": ""
-    },
-    {
       "surface": "ותהי",
-      "gloss": "i ⟨zapanowała⟩"
+      "gloss": "i ⟨stała się⟩"
     },
     {
       "surface": "חרדה",
@@ -25,7 +21,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "w polu"
+      "gloss": "na polu"
     },
     {
       "surface": "ובכל",
@@ -37,7 +33,7 @@
     },
     {
       "surface": "המצב",
-      "gloss": "załoga"
+      "gloss": "placówka"
     },
     {
       "surface": "והמשחית",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "חרדו",
-      "gloss": "zadrżeli"
+      "gloss": "zatrwożyli się"
     },
     {
       "surface": "גם",
-      "gloss": "i"
+      "gloss": "także"
     },
     {
       "surface": "המה",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "ותרגז",
-      "gloss": "i zatrzęsła się"
+      "gloss": "i zadrżała"
     },
     {
       "surface": "הארץ",
@@ -69,13 +65,13 @@
     },
     {
       "surface": "לחרדת",
-      "gloss": "to trwoga"
+      "gloss": "trwoga ⟨od⟩"
     },
     {
       "surface": "אלהים",
-      "gloss": "od Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-24T23:37:49.705241081Z",
+  "timestamp": "2026-08-25T06:29:40.412745186Z",
   "model": "glm-5.3"
 }

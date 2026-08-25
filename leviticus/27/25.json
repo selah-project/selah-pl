@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "I każda twoja wycena będzie w szeklu ⟨świątyni⟩, dwadzieścia ger będzie ⟨to⟩ szekel.",
+  "translation": "I wszelka twoja wycena będzie w szeklu ⟨świętości⟩, dwadzieścia ger będzie szekel.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "i każda"
+      "gloss": "i wszelka"
     },
     {
       "surface": "ערכך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨świątyni⟩"
+      "gloss": "⟨świętości⟩"
     },
     {
       "surface": "עשרים",
@@ -44,6 +44,6 @@
       "gloss": "szekel"
     }
   ],
-  "timestamp": "2026-08-24T22:49:27.873034370Z",
+  "timestamp": "2026-08-25T05:46:28.319557762Z",
   "model": "glm-5.3"
 }

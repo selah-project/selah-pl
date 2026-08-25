@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I rzekł do Bidkara, trzeciego: Podnieś, rzuć go na dział pola Nawota Jizreelczyka, bo pamiętam, że ja i ty, ⟨את⟩ jeźdźców parami, jechaliśmy za Achabem, ojcem jego, a Jahwe wypowiedział na niego ⟨את⟩ to brzemię.",
+  "translation": "I rzekł do Bidkara, swego trójkarza: Weź ⟨go⟩, wrzuć go na dział pola Nabota Jizreelity, bo pamiętam, jak ja i ty jechaliśmy parami za Achabem, jego ojcem, a Jahwe wygłosił na niego ⟨את⟩ to brzemię.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "trzeciego"
+      "gloss": "trójkarza"
     },
     {
       "surface": "שא",
-      "gloss": "podnieś"
+      "gloss": "weź"
     },
     {
       "surface": "השלכהו",
-      "gloss": "rzuć go"
+      "gloss": "wrzuć go"
     },
     {
       "surface": "בחלקת",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "נבות",
-      "gloss": "Nawota"
+      "gloss": "Nabota"
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "Jizreelczyka"
+      "gloss": "Jizreelity"
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "bo"
     },
     {
       "surface": "זכר",
@@ -66,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jeźdźców parami"
+      "marks": "jechaliśmy"
     },
     {
       "surface": "רכבים",
-      "gloss": "jechaliśmy (jeźdźcy)"
+      "gloss": "jechaliśmy"
     },
     {
       "surface": "צמדים",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ojcem jego"
+      "gloss": "jego ojcem"
     },
     {
       "surface": "ויהוה",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "wypowiedział"
+      "gloss": "wygłosił"
     },
     {
       "surface": "עליו",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "המשא",
-      "gloss": "brzemię"
+      "gloss": "to brzemię"
     },
     {
       "surface": "הזה",
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-25T00:12:00.856221545Z",
+  "timestamp": "2026-08-25T06:02:16.712432699Z",
   "model": "glm-5.3"
 }

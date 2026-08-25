@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I posłał mąż Elohim do króla Jisraela, mówiąc: Strzeż się przejścia przez to miejsce, bo tam zstępują Aramejczycy.",
+  "translation": "I posłał mąż ⟨ה⟩Elohim do króla Jisraela, mówiąc: Strzeż się przechodzić przez to miejsce, bo tam Aram zstępuje.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "przejścia"
+      "gloss": "przechodzić"
     },
     {
       "surface": "המקום",
-      "gloss": "przez miejsce"
+      "gloss": "przez to miejsce"
     },
     {
       "surface": "הזה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aramejczycy"
+      "gloss": "Aram"
     },
     {
       "surface": "נחתים",
-      "gloss": "zstępują"
+      "gloss": "zstępuje"
     }
   ],
-  "timestamp": "2026-08-25T00:09:41.303375772Z",
+  "timestamp": "2026-08-25T06:02:42.613646525Z",
   "model": "glm-5.3"
 }

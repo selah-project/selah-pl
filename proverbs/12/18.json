@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Jest taki, co mówi raniąco jak przekłucia miecza, a język mędrców to lekarstwo.",
+  "translation": "Jest ⟨ten, który mówi⟩ zuchwale, jak przekłucia miecza, a język mędrców — uzdrowienie.",
   "tokens": [
     {
       "surface": "יש",
-      "gloss": "jest taki"
+      "gloss": "jest"
     },
     {
       "surface": "בוטה",
-      "gloss": "mówi raniąco"
+      "gloss": "mówi zuchwale"
     },
     {
       "surface": "כמדקרות",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חרב",
-      "gloss": "miecz"
+      "gloss": "miecza"
     },
     {
       "surface": "ולשון",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "lekarstwo"
+      "gloss": "uzdrowienie"
     }
   ],
-  "timestamp": "2026-08-25T02:09:30.717558042Z",
+  "timestamp": "2026-08-25T06:17:42.424664557Z",
   "model": "glm-5.3"
 }

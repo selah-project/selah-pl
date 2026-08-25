@@ -5,8 +5,41 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 39,
-  "translation": "I rzekł Jeszajahu do Chizkijahu: Słuchaj słowa Jahwe Cerat",
-  "tokens": [],
-  "timestamp": "2026-08-25T00:30:30.543072721Z",
+  "translation": "I rzekł Jeszajahu do Chizkijahu: Słuchaj słowa Jahwe Zastępów.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeszajahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Słuchaj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    }
+  ],
+  "timestamp": "2026-08-25T06:05:48.565821509Z",
   "model": "glm-5.3"
 }

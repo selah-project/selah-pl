@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I wstał wcześnie Jerubbaal, on ⟨to⟩ Gideon, i cały lud, który ⟨był⟩ ⟨את⟩ nim, i rozbili obóz nad źródłem Charod, a obóz Madianu był mu od północy, przy wzgórzu More, w dolinie.",
+  "translation": "Wstał wcześnie Jerubbaal — on ⟨jest⟩ Gideon — i cały lud, który ⟨jest⟩ ⟨את⟩ z nim, i rozbili obóz nad źródłem Charod, a obóz Midianu był mu od północy, przy wzgórzu More, w dolinie.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "i wstał wcześnie"
+      "gloss": "wstał wcześnie"
     },
     {
       "surface": "ירבעל",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nim",
-      "marks": "on — z nim"
+      "gloss": "⟨את⟩ z nim",
+      "marks": "z nim"
     },
     {
       "surface": "ויחנו",
-      "gloss": "rozbili obóz"
+      "gloss": "i rozbili obóz"
     },
     {
       "surface": "על",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מדין",
-      "gloss": "Madianu"
+      "gloss": "Midianu"
     },
     {
       "surface": "היה",
@@ -89,6 +89,6 @@
       "gloss": "w dolinie"
     }
   ],
-  "timestamp": "2026-08-24T23:27:21.230602969Z",
+  "timestamp": "2026-08-25T05:53:43.715198879Z",
   "model": "glm-5.3"
 }

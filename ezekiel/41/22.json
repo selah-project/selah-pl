@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 41,
-  "translation": "Ołtarz — drewno, trzy łokcie wysokości, a jego długość dwa łokcie, i jego narożniki ⟨dla⟩ niego, i jego długość, i jego ściany — drewno; i przemówił do mnie: to jest stół, który ⟨jest⟩ przed Jahwe.",
+  "translation": "Ołtarz z drewna: trzy łokcie wysokości, a jego długość dwa łokcie, i jego narożniki — ⟨ma⟩ je, i jego długość, i jego ściany ⟨to⟩ drewno; i przemówił do mnie: to jest stół, który ⟨jest⟩ przed Jahwe.",
   "tokens": [
     {
       "surface": "המזבח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "drewno"
+      "gloss": "z drewna"
     },
     {
       "surface": "שלוש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "dla niego"
+      "gloss": "— jemu"
     },
     {
       "surface": "וארכו",
@@ -88,6 +88,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:26:33.431799775Z",
+  "timestamp": "2026-08-25T06:12:39.961793986Z",
   "model": "glm-5.3"
 }

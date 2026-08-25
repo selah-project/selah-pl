@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Bo ⟨to⟩ nie ⟨jest⟩ mąż jak ja, bym mógł mu odpowiadać, byśmy przyszli razem na sąd.",
+  "translation": "Bo nie ⟨jest⟩ człowiekiem jak ja — nie mogę Mu odpowiedzieć, byśmy przyszli razem na sąd.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mąż"
+      "gloss": "człowiekiem"
     },
     {
       "surface": "כמני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אעננו",
-      "gloss": "mógł mu odpowiadać"
+      "gloss": "odpowiedzieć Mu"
     },
     {
       "surface": "נבוא",
@@ -40,6 +40,6 @@
       "gloss": "na sąd"
     }
   ],
-  "timestamp": "2026-08-25T02:16:58.910485215Z",
+  "timestamp": "2026-08-25T06:18:23.972554327Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I przyszedł Elohim do Bilama nocą, i rzekł do niego: Jeżeli po to, by cię zawołać, przyszli mężowie — wstań, idź ⟨את⟩ z nimi; lecz tylko ⟨את⟩ słowo, które Ja mówić będę do ciebie, ⟨את⟩ nie uczynisz?",
+  "translation": "I przyszedł Elohim do Bilama nocą, i powiedział mu: jeśli przybyli wołać cię mężowie — wstań, idź z nimi, lecz tylko ⟨את⟩ słowo, które ja wypowiadać będę do ciebie, ⟨את⟩ to uczynisz.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "i przyszedł"
+      "gloss": "I przyszedł"
     },
     {
       "surface": "אלהים",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i powiedział"
     },
     {
       "surface": "לו",
-      "gloss": "do niego"
+      "gloss": "mu"
     },
     {
       "surface": "אם",
-      "gloss": "jeżeli"
+      "gloss": "jeśli"
     },
     {
       "surface": "לקרא",
-      "gloss": "by zawołać"
+      "gloss": "wołać"
     },
     {
       "surface": "לך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "przyszli"
+      "gloss": "przybyli"
     },
     {
       "surface": "האנשים",
@@ -65,7 +65,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ z nimi"
+      "gloss": "⟨את⟩",
+      "marks": "z nimi"
     },
     {
       "surface": "ואך",
@@ -86,7 +87,7 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "mówić będę"
+      "gloss": "ja wypowiadać będę"
     },
     {
       "surface": "אליך",
@@ -99,9 +100,9 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "nie uczynisz"
+      "gloss": "ucznisz"
     }
   ],
-  "timestamp": "2026-08-24T22:58:16.594354573Z",
+  "timestamp": "2026-08-25T05:48:15.305804139Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,73 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Według swojej mocy dali do skarbca dzieła: złota darek szesc dziesieci tysiecy i tysiac, a srebra min piec tysiecy, i szat kaplanskich sto.",
-  "tokens": [],
-  "timestamp": "2026-08-25T02:42:23.102456483Z",
+  "translation": "Według swojej mocy dali do skarbca ⟨dla⟩ dzieła złota darejkonów sześćdziesiąt tysięcy i tysiąc, a srebra min pięć tysięcy, i szat kapłańskich sto.",
+  "tokens": [
+    {
+      "surface": "ככחם",
+      "gloss": "według swojej mocy"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "do skarbca"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "dzieła"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "darejkonów"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "dziesiątków tysięcy"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "i tysiąc"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "a srebra"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "min"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "i szat"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kapłańskich"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    }
+  ],
+  "timestamp": "2026-08-25T06:37:31.725155689Z",
   "model": "glm-5.3"
 }

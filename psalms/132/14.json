@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 132,
-  "translation": "To jest miejsce mego odpoczynku na wieki wieków; tutaj zamieszkam, bo jej pożądałem.",
+  "translation": "To mój odpoczynek na wieki wieków; tutaj zamieszkam, gdyż jej pożądałem.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מנוחתי",
-      "gloss": "miejsce mego odpoczynku"
+      "gloss": "mój odpoczynek"
     },
     {
       "surface": "עדי",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "אותיה",
       "gloss": "jej pożądałem"
     }
   ],
-  "timestamp": "2026-08-25T03:46:21.553859763Z",
+  "timestamp": "2026-08-25T06:32:20.000030206Z",
   "model": "glm-5.3"
 }

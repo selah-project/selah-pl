@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 11,
-  "translation": "To są dzieje Sema: Sem był synem stu lat i zrodził ⟨את⟩ Arpakszada, dwa lata po potopie.",
+  "translation": "To są dzieje Sema: Sem mając sto lat, zrodził ⟨את⟩ Arpakszada, dwa lata po potopie.",
   "tokens": [
     {
       "surface": "אלה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "synem"
+      "gloss": "mając (syn będąc)"
     },
     {
       "surface": "מאת",
-      "gloss": "stu"
+      "gloss": "sto"
     },
     {
       "surface": "שנה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויולד",
-      "gloss": "i zrodził"
+      "gloss": "zrodził"
     },
     {
       "surface": "את",
@@ -61,6 +61,6 @@
       "gloss": "potopie"
     }
   ],
-  "timestamp": "2026-08-25T04:41:20.960943117Z",
+  "timestamp": "2026-08-25T05:36:56.329780263Z",
   "model": "glm-5.3"
 }

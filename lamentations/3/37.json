@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Kto ⟨to⟩ rzekł, i ⟨to⟩ nastąpiło, skoro Adonai nie przykazał?",
+  "translation": "Kto ⟨to⟩ powiedział, i ⟨to⟩ się stało, skoro Adonai nie przykazał?",
   "tokens": [
     {
       "surface": "מי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "rzekł"
+      "gloss": "powiedział"
     },
     {
       "surface": "ותהי",
-      "gloss": "i-nastąpiło"
+      "gloss": "i ⟨to⟩ się stało"
     },
     {
       "surface": "אדני",
@@ -36,6 +36,6 @@
       "gloss": "przykazał"
     }
   ],
-  "timestamp": "2026-08-25T02:29:03.444506749Z",
+  "timestamp": "2026-08-25T06:20:23.973127915Z",
   "model": "glm-5.3"
 }

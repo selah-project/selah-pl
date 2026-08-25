@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 30,
-  "translation": "I rzekł mu Dawid: Czyj ⟨ty⟩ jesteś i skąd ⟨ty⟩ jesteś? A on rzekł: Młodzieniec egipski ⟨jestem⟩, sługa pewnego Amalekity; a opuścił mnie mój pan, bo zachorowałem — trzeci ⟨to⟩ dzień.",
+  "translation": "I rzekł Dawid do niego: Czyim ⟨jesteś⟩ i skąd ⟨jesteś⟩? A on rzekł: Niewolnikiem jestem — młody Egipcjanin, sługa pewnego Amalekity; a opuścił mnie pan mój, bo zachorowałem — dziś trzeci ⟨dzień⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "do niego"
     },
     {
       "surface": "דוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "למי",
-      "gloss": "czyj"
+      "gloss": "czyim"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨ty⟩ jesteś"
+      "gloss": "⟨jesteś⟩"
     },
     {
       "surface": "ואי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מזה",
-      "gloss": "stąd"
+      "gloss": "skąd"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨ty⟩ jesteś"
+      "gloss": "⟨jesteś⟩"
     },
     {
       "surface": "ויאמר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "נער",
-      "gloss": "młodzieniec"
+      "gloss": "młody"
     },
     {
       "surface": "מצרי",
-      "gloss": "egipski"
+      "gloss": "Egipcjanin"
     },
     {
       "surface": "אנכי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עבד",
-      "gloss": "sługa"
+      "gloss": "niewolnikiem\/sługą"
     },
     {
       "surface": "לאיש",
-      "gloss": "pewnego mężczyzny"
+      "gloss": "pewnego"
     },
     {
       "surface": "עמלקי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mój pan"
+      "gloss": "pan mój"
     },
     {
       "surface": "כי",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "dzień"
+      "gloss": "dziś"
     },
     {
       "surface": "שלשה",
-      "gloss": "trzeci"
+      "gloss": "trzeci ⟨dzień⟩"
     }
   ],
-  "timestamp": "2026-08-24T23:43:09.787424961Z",
+  "timestamp": "2026-08-25T05:57:12.843403824Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I przysiągł król Szlomo przez Jahwe, mówiąc: tak niech mi uczyni Elohim i tak niech doda, bo przeciwko swej nefesz mówił Adonijasz ⟨את⟩ słowo to.",
+  "translation": "I zaprzysiągł król Szlomo na Jahwe, mówiąc: tak niech mi uczyni Elohim i tak niech doda, gdyż przeciw swojej nefesz wypowiedział Adonijahu ⟨את⟩ to słowo.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "i przysiągł"
+      "gloss": "i zaprzysiągł"
     },
     {
       "surface": "המלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ביהוה",
-      "gloss": "przez Jahwe"
+      "gloss": "na Jahwe"
     },
     {
       "surface": "לאמר",
@@ -53,34 +53,34 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "בנפשו",
-      "gloss": "przeciwko swej nefesz"
+      "gloss": "przeciw swojej nefesz"
     },
     {
       "surface": "דבר",
-      "gloss": "mówił"
+      "gloss": "wypowiedział"
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adonijasz"
+      "gloss": "Adonijahu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowo to"
+      "marks": "to słowo"
     },
     {
       "surface": "הדבר",
-      "gloss": "słowo"
+      "gloss": "to słowo"
     },
     {
       "surface": "הזה",
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T23:55:51.556007396Z",
+  "timestamp": "2026-08-25T05:58:37.742724631Z",
   "model": "glm-5.3"
 }

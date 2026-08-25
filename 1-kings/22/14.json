@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I rzekł Mikajahu: Żyje Jahwe — ⟨את⟩ to, co Jahwe powie mi, ⟨את⟩ to będę mówić.",
+  "translation": "I rzekł Mikajahu: „Żywy jest Jahwe, że ⟨את⟩ to, co powie mi Jahwe, ⟨את⟩ to będę mówił.”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "żyje"
+      "gloss": "żywy"
     },
     {
       "surface": "יהוה",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "że"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co Jahwe powie mi"
+      "marks": "to, co powie mi Jahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "יאמר",
@@ -51,13 +51,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to (będę mówić)"
+      "marks": "to (będę mówił)"
     },
     {
       "surface": "אדבר",
-      "gloss": "będę mówić"
+      "gloss": "będę mówił"
     }
   ],
-  "timestamp": "2026-08-25T00:07:10.880087048Z",
+  "timestamp": "2026-08-25T06:02:26.354189405Z",
   "model": "glm-5.3"
 }

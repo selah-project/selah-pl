@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I wstałam rano, aby wykarmić ⟨את⟩ syna mego, a oto ⟨był⟩ martwy; i przyglądałam się mu rano, a oto nie ⟨był⟩ to syn mój, którego porodziłam.",
+  "translation": "I wstałam rano, aby karmić ⟨את⟩ mojego syna, a oto ⟨był⟩ martwy; i przyglądałam się mu rano, a oto nie był to mój syn, którego urodziłam.",
   "tokens": [
     {
       "surface": "ואקם",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "להיניק",
-      "gloss": "aby wykarmić"
+      "gloss": "aby karmić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "syna mego"
+      "marks": "mojego syna"
     },
     {
       "surface": "בני",
-      "gloss": "syna mego"
+      "gloss": "mojego syna"
     },
     {
       "surface": "והנה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "⟨był⟩ martwy"
+      "gloss": "martwy"
     },
     {
       "surface": "ואתבונן",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "mu"
+      "gloss": "jemu"
     },
     {
       "surface": "בבקר",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "⟨był⟩"
+      "gloss": "był"
     },
     {
       "surface": "בני",
-      "gloss": "syn mój"
+      "gloss": "mój syn"
     },
     {
       "surface": "אשר",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "ילדתי",
-      "gloss": "porodziłam"
+      "gloss": "urodziłam"
     }
   ],
-  "timestamp": "2026-08-25T03:29:20.494449136Z",
+  "timestamp": "2026-08-25T06:29:48.501357285Z",
   "model": "glm-5.3"
 }

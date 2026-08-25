@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A dni, w których szliśmy od Kadesz-Barnea aż do przejścia ⟨את⟩ potoku Zered, ⟨to⟩ trzydzieści i osiem lat, aż wyginął cały pokoleniec — mężowie wojny — ze środka obozu, jak przysiągł Jahwe im.",
+  "translation": "I dni, w których szliśmy od Kadesz-Barnea, aż przeszliśmy ⟨את⟩ potok Zered, ⟨to⟩ trzydzieści i osiem lat, aż się skończyło całe pokolenie mężów wojny ze środka obozu, jak przysiągł Jahwe im.",
   "tokens": [
     {
       "surface": "והימים",
-      "gloss": "A dni"
+      "gloss": "i dni"
     },
     {
       "surface": "אשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "aż do"
+      "gloss": "aż"
     },
     {
       "surface": "אשר",
-      "gloss": "kiedy"
+      "gloss": "gdy"
     },
     {
       "surface": "עברנו",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "potoku Zered"
+      "marks": "potok"
     },
     {
       "surface": "נחל",
-      "gloss": "potoku"
+      "gloss": "potok"
     },
     {
       "surface": "זרד",
@@ -70,19 +70,19 @@
     },
     {
       "surface": "תם",
-      "gloss": "wyginął"
+      "gloss": "się skończyło"
     },
     {
       "surface": "כל",
-      "gloss": "cały"
+      "gloss": "całe"
     },
     {
       "surface": "הדור",
-      "gloss": "pokoleniec"
+      "gloss": "pokolenie"
     },
     {
       "surface": "אנשי",
-      "gloss": "mężowie"
+      "gloss": "mężów"
     },
     {
       "surface": "המלחמה",
@@ -113,6 +113,6 @@
       "gloss": "im"
     }
   ],
-  "timestamp": "2026-08-24T23:03:38.916766915Z",
+  "timestamp": "2026-08-25T05:48:58.383150789Z",
   "model": "glm-5.3"
 }

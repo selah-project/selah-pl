@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 30,
-  "translation": "Bo ⟨to⟩ lud zbuntowany ⟨jest⟩, synowie kłamliwi, synowie nie chcący słuchać Tory Jahwe.",
+  "translation": "Gdyż lud buntowniczy to ⟨jest⟩, synowie kłamcy, synowie niechętni słuchać Tory Jahwe.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "עם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מרי",
-      "gloss": "zbuntowany"
+      "gloss": "buntowniczy"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "בנים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כחשים",
-      "gloss": "kłamliwi"
+      "gloss": "kłamcy"
     },
     {
       "surface": "בנים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אבו",
-      "gloss": "chcący"
+      "gloss": "niechętni"
     },
     {
       "surface": "שמוע",
@@ -56,6 +56,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T00:27:28.610912335Z",
+  "timestamp": "2026-08-25T06:05:19.686973316Z",
   "model": "glm-5.3"
 }

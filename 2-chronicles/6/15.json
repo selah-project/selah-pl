@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Który zachowałeś słudze swojemu Dawidowi, ojcu memu, ⟨את⟩ to, co powiedziałeś mu; i przemówiłeś ustami swoimi, i ręką swoją wypełniłeś, jak w dniu tym.",
+  "translation": "Który zachowałeś swojemu słudze Dawidowi, mojemu ojcu, ⟨את⟩ to, co mówiłeś mu; i mówiłeś swoimi ustami, i swoją ręką wypełniłeś, jak ⟨w⟩ ten dzień.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "Który"
     },
     {
       "surface": "שמרת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "słudze swojemu"
+      "gloss": "swojemu słudze"
     },
     {
       "surface": "דויד",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ojcu memu"
+      "gloss": "mojemu ojcu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co"
+      "marks": "to, co mówiłeś mu"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "דברת",
-      "gloss": "powiedziałeś"
+      "gloss": "mówiłeś"
     },
     {
       "surface": "לו",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "i przemówiłeś"
+      "gloss": "i mówiłeś"
     },
     {
       "surface": "בפיך",
-      "gloss": "ustami swoimi"
+      "gloss": "swoimi ustami"
     },
     {
       "surface": "ובידך",
-      "gloss": "i ręką swoją"
+      "gloss": "i swoją ręką"
     },
     {
       "surface": "מלאת",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "jak w dniu"
+      "gloss": "jak dzień"
     },
     {
       "surface": "הזה",
-      "gloss": "tym"
+      "gloss": "ten"
     }
   ],
-  "timestamp": "2026-08-25T03:01:05.116216093Z",
+  "timestamp": "2026-08-25T06:26:08.978342765Z",
   "model": "glm-5.3"
 }

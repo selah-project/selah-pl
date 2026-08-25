@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 18,
-  "translation": "A oni wzięli ⟨את⟩ to, co zrobił Michasz, i ⟨את⟩ kapłana, którego miał, i przyszli na Laisz, na lud spokojny i pewny, i pobili ⟨את⟩ ich ostrzem miecza, a ⟨את⟩ miasto spalili ogniem.",
+  "translation": "A oni wzięli ⟨את⟩ to, co uczynił Mika, i ⟨את⟩ kapłana, którego miał, i przyszli na Laisz, na lud spokojny i pewny, i pobili ⟨את⟩ ich ostrzem miecza, a ⟨את⟩ miasto spalili ogniem.",
   "tokens": [
     {
       "surface": "והמה",
-      "gloss": "A oni"
+      "gloss": "a oni"
     },
     {
       "surface": "לקחו",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co zrobił Michasz"
+      "marks": "to, co uczynił Mika"
     },
     {
       "surface": "אשר",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "zrobił"
+      "gloss": "uczynił"
     },
     {
       "surface": "מיכה",
-      "gloss": "Michasz"
+      "gloss": "Mika"
     },
     {
       "surface": "ואת",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "u siebie"
+      "gloss": "sobie"
     },
     {
       "surface": "ויבאו",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "לפי",
-      "gloss": "ostrzem (dosł. 'do ust')"
+      "gloss": "ostrzem"
     },
     {
       "surface": "חרב",
@@ -115,6 +115,6 @@
       "gloss": "ogniem"
     }
   ],
-  "timestamp": "2026-08-24T23:32:07.542219064Z",
+  "timestamp": "2026-08-25T06:29:25.262263810Z",
   "model": "glm-5.3"
 }

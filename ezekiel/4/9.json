@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 4,
-  "translation": "A ty weź sobie pszenicę i jęczmień, i bób, i soczewicę, i proso, i orkisz, i włożysz je ⟨את⟩ do jednego naczynia, i uczynisz je ⟨את⟩ sobie na chleb — według liczby dni, w których ty leżysz na swoim boku: trzysta dziewięćdziesiąt dni będziesz to jeść.",
+  "translation": "A ty weź sobie pszenicę i jęczmień, i bób, i soczewicę, i proso, i orkisz, i włożysz ⟨את⟩ je do jednego naczynia, i uczynisz ⟨את⟩ je sobie na chleb — według liczby dni, w których ty leżysz na swym boku: trzysta dziewięćdziesiąt dni będziesz je jadł.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "A ty"
+      "gloss": "a ty"
     },
     {
       "surface": "קח",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "ושערים",
-      "gloss": "jęczmień"
+      "gloss": "i jęczmień"
     },
     {
       "surface": "ופול",
-      "gloss": "bób"
+      "gloss": "i bób"
     },
     {
       "surface": "ועדשים",
-      "gloss": "soczewicę"
+      "gloss": "i soczewicę"
     },
     {
       "surface": "ודחן",
-      "gloss": "proso"
+      "gloss": "i proso"
     },
     {
       "surface": "וכסמים",
-      "gloss": "orkisz"
+      "gloss": "i orkisz"
     },
     {
       "surface": "ונתתה",
-      "gloss": "włożysz"
+      "gloss": "i włożysz"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "je (do jednego naczynia)"
+      "gloss": "⟨את⟩ je",
+      "marks": "je (ziarna) — do jednego naczynia"
     },
     {
       "surface": "בכלי",
@@ -66,8 +66,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "je (sobie na chleb)"
+      "gloss": "⟨את⟩ je",
+      "marks": "je — sobie na chleb"
     },
     {
       "surface": "לך",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "liczba"
+      "gloss": "według liczby"
     },
     {
       "surface": "הימים",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "w których"
     },
     {
       "surface": "אתה",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "צדך",
-      "gloss": "swoim boku"
+      "gloss": "swym boku"
     },
     {
       "surface": "שלש",
@@ -111,11 +111,11 @@
     },
     {
       "surface": "מאות",
-      "gloss": "set"
+      "gloss": "(setkach)"
     },
     {
       "surface": "ותשעים",
-      "gloss": "dziewięćdziesiąt"
+      "gloss": "i dziewięćdziesiąt"
     },
     {
       "surface": "יום",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "będziesz to jeść"
+      "gloss": "będziesz je jadł"
     }
   ],
-  "timestamp": "2026-08-25T01:08:10.140983506Z",
+  "timestamp": "2026-08-25T06:11:14.896824874Z",
   "model": "glm-5.3"
 }

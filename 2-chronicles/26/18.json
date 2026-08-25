@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 26,
-  "translation": "I stanęli ⟨przeciw⟩ Uzzjahu, królowi, i powiedzieli mu: Nie tobie, Uzzjahu, kadzić Jahwe, bo kapłanom, synom Ahrona, poświęconym, ⟨należy⟩ kadzić — wyjdź ze świątyni, bo postąpiłeś zdradziecko i nie będzie ci to ⟨na⟩ chwałę od Jahwe, Elohim.",
+  "translation": "I stanęli przeciw Uzzijahu, królowi, i powiedzieli mu: Nie tobie, Uzzijahu, kadzić Jahwe, lecz kapłanom, synom Aharona, poświęconym do kadzenia. Wyjdź ze świątyni, bo zdradziecko wystąpiłeś — i nie tobie do chwały od Jahwe, Elohim.",
   "tokens": [
     {
       "surface": "ויעמדו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עזיהו",
-      "gloss": "Uzzjahu"
+      "gloss": "Uzzijahu"
     },
     {
       "surface": "המלך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עזיהו",
-      "gloss": "Uzzjahu"
+      "gloss": "Uzzijahu"
     },
     {
       "surface": "להקטיר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "lecz"
     },
     {
       "surface": "לכהנים",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Ahrona"
+      "gloss": "Aharona"
     },
     {
       "surface": "המקדשים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "להקטיר",
-      "gloss": "kadzić"
+      "gloss": "do kadzenia"
     },
     {
       "surface": "צא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "מעלת",
-      "gloss": "postąpiłeś zdradziecko"
+      "gloss": "zdradziecko wystąpiłeś"
     },
     {
       "surface": "ולא",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "לכבוד",
-      "gloss": "na chwałę"
+      "gloss": "do chwały"
     },
     {
       "surface": "מיהוה",
@@ -116,6 +116,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-25T03:08:52.428927160Z",
+  "timestamp": "2026-08-25T06:26:59.590721523Z",
   "model": "glm-5.3"
 }

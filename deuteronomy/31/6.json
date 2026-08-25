@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 31,
-  "translation": "Bądźcie mocni i mężni, nie bójcie się i nie trwóżcie przed nimi, bo Jahwe, Elohim wasz, ⟨to⟩ On idący z wami — nie opuści was i nie porzuci was.",
+  "translation": "Bądźcie mocni i ⟨niech⟩ ⟨są⟩ odważni, nie bójcie się i nie trwóżcie przed nimi, bo Jahwe, Elohim twój, ⟨on⟩ jest tym, który idzie z tobą — nie osłabi cię i nie opuści cię.",
   "tokens": [
     {
       "surface": "חזקו",
-      "gloss": "bądźcie mocni"
+      "gloss": "Bądźcie mocni"
     },
     {
       "surface": "ואמצו",
-      "gloss": "i mężni"
+      "gloss": "i odważni"
     },
     {
       "surface": "אל",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wasz"
+      "gloss": "Elohim twój"
     },
     {
       "surface": "הוא",
-      "gloss": "On"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "ההלך",
-      "gloss": "idący"
+      "gloss": "tym, który idzie"
     },
     {
       "surface": "עמך",
-      "gloss": "z wami"
+      "gloss": "z tobą"
     },
     {
       "surface": "לא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ירפך",
-      "gloss": "opuści"
+      "gloss": "osłabi cię"
     },
     {
       "surface": "ולא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "יעזבך",
-      "gloss": "porzuci"
+      "gloss": "opuści cię"
     }
   ],
-  "timestamp": "2026-08-24T23:15:56.057000276Z",
+  "timestamp": "2026-08-25T06:29:15.271575574Z",
   "model": "glm-5.3"
 }

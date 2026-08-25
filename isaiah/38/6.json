@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 38,
-  "translation": "i z ręki króla Aszszura cię wyrwę, i ⟨את⟩ to miasto; i osłonię to miasto.",
+  "translation": "i z ręki króla Aszszuru wybawię cię, i ⟨את⟩ to miasto, i osłonię to miasto.",
   "tokens": [
     {
       "surface": "ומכף",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Aszszura"
+      "gloss": "Aszszuru"
     },
     {
       "surface": "אצילך",
-      "gloss": "cię wyrwę"
+      "gloss": "wybawię cię"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "to miasto"
     },
     {
@@ -46,13 +46,13 @@
     },
     {
       "surface": "העיר",
-      "gloss": "tym miastem"
+      "gloss": "miastem"
     },
     {
       "surface": "הזאת",
       "gloss": "tym"
     }
   ],
-  "timestamp": "2026-08-25T00:30:06.758452471Z",
+  "timestamp": "2026-08-25T07:00:53.286134845Z",
   "model": "glm-5.3"
 }

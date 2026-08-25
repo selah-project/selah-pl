@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 70,
-  "translation": "A ja ⟨jestem⟩ ubogi i biedny — Elohim, pośpiesz się do mnie! Moja pomoc i mój wybawiciel ⟨jesteś⟩ ty, Jahwe; nie zwlekaj!",
+  "translation": "A ja jestem ubogi i needy ⟨jestem⟩ — Elohimie, pośpiesz mi! pomocnikiem moim i wybawcą moim ⟨jesteś⟩ Ty — Jahwe, nie zwlekaj!",
   "tokens": [
     {
       "surface": "ואני",
@@ -16,36 +16,32 @@
       "gloss": "ubogi"
     },
     {
-      "surface": "ויאמרו",
-      "gloss": ""
-    },
-    {
       "surface": "ואביון",
       "gloss": "i biedny"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimie"
     },
     {
       "surface": "חושה",
-      "gloss": "pośpiesz się"
+      "gloss": "pośpiesz"
     },
     {
       "surface": "לי",
-      "gloss": "do mnie"
+      "gloss": "mi"
     },
     {
       "surface": "עזרי",
-      "gloss": "Moja pomoc"
+      "gloss": "pomocnik mój"
     },
     {
       "surface": "ומפלטי",
-      "gloss": "i mój wybawiciel"
+      "gloss": "i wybawca mój"
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "Ty"
     },
     {
       "surface": "יהוה",
@@ -60,6 +56,6 @@
       "gloss": "zwlekaj"
     }
   ],
-  "timestamp": "2026-08-25T01:54:06.749502079Z",
+  "timestamp": "2026-08-25T06:16:06.590141137Z",
   "model": "glm-5.3"
 }

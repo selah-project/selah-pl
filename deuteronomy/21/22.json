@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A gdy będzie w mężu grzech ⟨godny⟩ wyroku śmierci, i zostanie zabity, to powisisz ⟨את⟩ go na drzewie.",
+  "translation": "A gdy będzie w mężu grzech wyroku śmierci, i zostanie zabity, i powiesisz ⟨go את⟩ na drzewie,",
   "tokens": [
     {
       "surface": "וכי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "wyroku"
+      "gloss": "wyrok"
     },
     {
       "surface": "מות",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "ותלית",
-      "gloss": "powisisz"
+      "gloss": "i powiesisz"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ go",
-      "marks": "go"
+      "marks": "go (go)"
     },
     {
       "surface": "על",
@@ -53,6 +53,6 @@
       "gloss": "drzewie"
     }
   ],
-  "timestamp": "2026-08-25T03:23:18.177506085Z",
+  "timestamp": "2026-08-25T05:50:41.845000085Z",
   "model": "glm-5.3"
 }

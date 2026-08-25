@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "właściciel studni zapłaci, srebro zwróci właścicielowi ⟨jego⟩, a ⟨to⟩, co padło, będzie jego.",
+  "translation": "Właściciel studni naprawi szkodę; srebro zwróci właścicielowi ⟨go⟩, a ⟨to, co⟩ padło, będzie jego.",
   "tokens": [
     {
       "surface": "בעל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "zapłaci"
+      "gloss": "naprawi szkodę"
     },
     {
       "surface": "כסף",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לבעליו",
-      "gloss": "właścicielowi jego"
+      "gloss": "właścicielowi"
     },
     {
       "surface": "והמת",
-      "gloss": "a to, co padło"
+      "gloss": "a padłe"
     },
     {
       "surface": "יהיה",
@@ -44,6 +44,6 @@
       "gloss": "jego"
     }
   ],
-  "timestamp": "2026-08-25T03:18:32.416438791Z",
+  "timestamp": "2026-08-25T05:42:14.754183613Z",
   "model": "glm-5.3"
 }

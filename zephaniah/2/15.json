@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "pl",
   "chapter": 2,
-  "translation": "To ⟨jest⟩ miasto wesołe, mieszkające bezpiecznie, które mówiło w swoim sercu: „Ja jestem, i oprócz mnie nie ma nic więcej!” Jakże stała się pustkowiem, legowiskiem dla zwierząt! Każdy, kto przechodzi obok niej, zagwiżdże, potrząśnie swoją ręką.",
+  "translation": "To ⟨jest⟩ miasto wesołe, siedzące bezpiecznie, mówiące w swoim sercu: Ja jestem i oprócz mnie nie ma już niczego. Jakże stała się pustkowiem, legowiskiem dla bestii! Każdy przechodzący obok niej zagwiżdże, potrząśnie swoją ręką.",
   "tokens": [
     {
       "surface": "זאת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "היושבת",
-      "gloss": "mieszkające"
+      "gloss": "siedzące"
     },
     {
       "surface": "לבטח",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "האמרה",
-      "gloss": "które mówiło"
+      "gloss": "mówiące"
     },
     {
       "surface": "בלבבה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ואפסי",
-      "gloss": "i oprócz mnie"
+      "gloss": "i oprócz mnie nie ma"
     },
     {
       "surface": "עוד",
-      "gloss": "nie ma nic więcej"
+      "gloss": "już niczego"
     },
     {
       "surface": "איך",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לחיה",
-      "gloss": "dla zwierząt"
+      "gloss": "dla bestii"
     },
     {
       "surface": "כל",
@@ -92,6 +92,6 @@
       "gloss": "swoją ręką"
     }
   ],
-  "timestamp": "2026-08-25T01:38:55.172859062Z",
+  "timestamp": "2026-08-25T06:14:32.476181807Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Jeśli jego pan da mu żonę, a ona urodzi mu synów albo córki, to żona i jej dzieci będą należeć do jej pana, a on wyjdzie sam.",
+  "translation": "Jeśli jego pan da mu żonę i urodzi mu synów albo córki, żona i jej dzieci będą należeć do jej pana, a on wyjdzie sam.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "אדניו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וילדה",
-      "gloss": "a urodzi"
+      "gloss": "i urodzi"
     },
     {
       "surface": "לו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "będzie należeć"
+      "gloss": "będą należeć"
     },
     {
       "surface": "לאדניה",
@@ -76,6 +76,6 @@
       "gloss": "sam"
     }
   ],
-  "timestamp": "2026-08-24T22:32:41.938943294Z",
+  "timestamp": "2026-08-25T05:41:32.771750337Z",
   "model": "glm-5.3"
 }

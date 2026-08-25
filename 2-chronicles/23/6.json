@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I niech nie wchodzi do domu Jahwe nikt, tylko kapłani i usługujący z Lewitów — oni niech wchodzą, bo święci ⟨są⟩ oni; a cały lud niech strzeże straży Jahwe.",
+  "translation": "I niech nie wchodzi do domu Jahwe nikt, lecz tylko kapłani i usługujący z lewitów — oni wejdą, bo ⟨są⟩ święci — a cały lud niech strzeże straży Jahwe.",
   "tokens": [
     {
       "surface": "ואל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "do domu"
+      "gloss": "domu"
     },
     {
       "surface": "יהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tylko (כי אם)"
+      "gloss": "lecz"
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "tylko"
     },
     {
       "surface": "הכהנים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ללוים",
-      "gloss": "z Lewitów"
+      "gloss": "z lewitów"
     },
     {
       "surface": "המה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "niech wchodzą"
+      "gloss": "wejdą"
     },
     {
       "surface": "כי",
@@ -84,6 +84,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T03:06:50.632103643Z",
+  "timestamp": "2026-08-25T06:26:24.775557482Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 27,
-  "translation": "Kto błogosławi swego przyjaciela głosem wielkim, rano wstając wcześnie — za przekleństwo zostanie mu to poczytane.",
+  "translation": "Kto błogosławi swego bliźniego donośnym głosem, wcześnie rano wstając — przekleństwem to zostanie mu poczytane.",
   "tokens": [
     {
       "surface": "מברך",
-      "gloss": "kto błogosławi"
+      "gloss": "błogosławi"
     },
     {
       "surface": "רעהו",
-      "gloss": "swego przyjaciela"
+      "gloss": "swego bliźniego"
     },
     {
       "surface": "בקול",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "wielkim"
+      "gloss": "donośnym"
     },
     {
       "surface": "בבקר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "השכים",
-      "gloss": "wstając wcześnie"
+      "gloss": "wcześnie wstając"
     },
     {
       "surface": "קללה",
-      "gloss": "za przekleństwo"
+      "gloss": "przekleństwem"
     },
     {
       "surface": "תחשב",
@@ -44,6 +44,6 @@
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-08-25T02:13:27.726082446Z",
+  "timestamp": "2026-08-25T06:17:56.796413918Z",
   "model": "glm-5.3"
 }

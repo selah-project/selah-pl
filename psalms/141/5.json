@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 141,
-  "translation": "Niech mnie uderzy sprawiedliwy — chesed ⟨to⟩, i niech mnie przekona — olejek na głowę; niech moja głowa nie odmawia ⟨go⟩, bo jeszcze i moja modlitwa ⟨jest⟩ przy ich złych czynach.",
+  "translation": "Niech sprawiedliwy uderzy mnie — ⟨to⟩ chesed; i niech mnie upomni — ⟨to⟩ olejek na głowę; niech głowa moja tego nie odmówi, bo jeszcze i moja modlitwa jest w ich złych czynach.",
   "tokens": [
     {
       "surface": "יהלמני",
-      "gloss": "niech mnie uderzy"
+      "gloss": "niech uderzy mnie"
     },
     {
       "surface": "צדיק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויוכיחני",
-      "gloss": "i niech mnie przekona"
+      "gloss": "i niech mnie upomni"
     },
     {
       "surface": "שמן",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "niech nie"
+      "gloss": "nie"
     },
     {
       "surface": "יני",
-      "gloss": "odmawia"
+      "gloss": "niech odmówi"
     },
     {
       "surface": "ראשי",
-      "gloss": "moja głowa"
+      "gloss": "głowa moja"
     },
     {
       "surface": "כי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ותפלתי",
-      "gloss": "i moja modlitwa"
+      "gloss": "i modlitwa moja"
     },
     {
       "surface": "ברעותיהם",
-      "gloss": "przy ich złych czynach"
+      "gloss": "w ich złych czynach"
     }
   ],
-  "timestamp": "2026-08-25T02:05:43.075410716Z",
+  "timestamp": "2026-08-25T06:17:32.351166127Z",
   "model": "glm-5.3"
 }

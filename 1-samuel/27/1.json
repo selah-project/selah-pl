@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 27,
-  "translation": "I rzekł Dawid do swego serca: teraz zostanę zgładzony dzień jeden przez rękę Szaula; nie ma dla mnie ⟨nic⟩ dobrego, gdyż uciekając ucieknę do ziemi Pelisztów, i rozpaczy Szaul po mnie, by szukać mnie jeszcze w całej granicy Iszraela, i wymknę się z jego ręki.",
+  "translation": "I rzekł Dawid do swego serca: teraz zostanę zgładzony prędzej czy później ręką Szaula; niczego dla mnie ⟨nie ma⟩ lepszego, niż że uszczęśliwię się ucieczką do ziemi Pelisztów, i zrozpaczy Szaul co do mnie, by szukać mnie jeszcze w całym granicznym krańcu Iszraela, i usunę się z jego ręki.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "דוד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יום",
-      "gloss": "dzień"
+      "gloss": "prędzej czy później (dzień)"
     },
     {
       "surface": "אחד",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "przez rękę"
+      "gloss": "ręką"
     },
     {
       "surface": "שאול",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "טוב",
-      "gloss": "dobrego"
+      "gloss": "lepszego"
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "niż że"
     },
     {
       "surface": "המלט",
-      "gloss": "uciekając"
+      "gloss": "uszczęśliwię się ucieczką"
     },
     {
       "surface": "אמלט",
-      "gloss": "ucieknę"
+      "gloss": "uciekę"
     },
     {
       "surface": "אל",
@@ -84,16 +84,12 @@
       "gloss": "Pelisztów"
     },
     {
-      "surface": "ויקם",
-      "gloss": ""
-    },
-    {
       "surface": "ונואש",
-      "gloss": "i rozpaczy"
+      "gloss": "i zrozpaczy"
     },
     {
       "surface": "ממני",
-      "gloss": "po mnie"
+      "gloss": "co do mnie"
     },
     {
       "surface": "שאול",
@@ -101,7 +97,7 @@
     },
     {
       "surface": "לבקשני",
-      "gloss": "by mnie szukać"
+      "gloss": "by szukać mnie"
     },
     {
       "surface": "עוד",
@@ -109,11 +105,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "w całej"
+      "gloss": "w całym"
     },
     {
       "surface": "גבול",
-      "gloss": "granicy"
+      "gloss": "granicznym krańcu"
     },
     {
       "surface": "ישראל",
@@ -121,13 +117,13 @@
     },
     {
       "surface": "ונמלטתי",
-      "gloss": "i wymknę się"
+      "gloss": "i usunę się"
     },
     {
       "surface": "מידו",
       "gloss": "z jego ręki"
     }
   ],
-  "timestamp": "2026-08-24T23:43:26.858061205Z",
+  "timestamp": "2026-08-25T05:56:58.448602519Z",
   "model": "glm-5.3"
 }

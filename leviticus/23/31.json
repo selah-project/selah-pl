@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Żadnej pracy nie będziecie wykonywać — to ustawa wieczna dla waszych pokoleń we wszystkich waszych siedzibach.",
+  "translation": "Każdej pracy nie będziecie robić — ⟨to⟩ ustawa wieczna dla waszych pokoleń we wszystkich waszych siedzibach.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "żadnej"
+      "gloss": "każdej"
     },
     {
       "surface": "מלאכה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "będziecie wykonywać"
+      "gloss": "będziecie robić"
     },
     {
       "surface": "חקת",
@@ -44,6 +44,6 @@
       "gloss": "waszych siedzibach"
     }
   ],
-  "timestamp": "2026-08-24T22:47:49.669702634Z",
+  "timestamp": "2026-08-25T05:46:10.309147439Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 118,
-  "translation": "Od ⟨את⟩ Jahwe stało się to; ⟨ono⟩ jest cudowne w oczach naszych.",
+  "translation": "Od Jahwe ⟨stało się to⟩ — ⟨jest⟩ cudowna w oczach naszych.",
   "tokens": [
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩",
-      "marks": "tego (czynu)"
+      "gloss": "⟨את⟩ od",
+      "marks": "Jahwe"
     },
     {
       "surface": "יהוה",
@@ -26,17 +26,17 @@
     },
     {
       "surface": "היא",
-      "gloss": "ono"
+      "gloss": "ona"
     },
     {
       "surface": "נפלאת",
-      "gloss": "cudowne"
+      "gloss": "cudowna"
     },
     {
       "surface": "בעינינו",
       "gloss": "w oczach naszych"
     }
   ],
-  "timestamp": "2026-08-25T02:02:13.009016942Z",
+  "timestamp": "2026-08-25T06:16:49.430107989Z",
   "model": "glm-5.3"
 }

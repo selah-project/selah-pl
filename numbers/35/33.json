@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 35,
-  "translation": "I nie skażajcie ⟨את⟩ ziemi, w której jesteście, bo krew to ona skaża ⟨את⟩ ziemię, i ziemi nie uczyni się odkupienia za krew, który został w niej wylany, tylko krwią tego, który go wylał.",
+  "translation": "I nie skalcie ⟨את⟩ ziemi, w której jesteście, bo krew — to ona skalania ⟨את⟩ ziemię, a ziemi nie zostanie przebłagana za krew, która została w niej wylana, lecz tylko krwią tego, który ją wylał.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "תחניפו",
-      "gloss": "skażajcie"
+      "gloss": "skalcie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemi"
+      "marks": "ziemię"
     },
     {
       "surface": "הארץ",
-      "gloss": "ziemi"
+      "gloss": "ziemię"
     },
     {
       "surface": "אשר",
-      "gloss": "której"
+      "gloss": "którą"
     },
     {
       "surface": "אתם",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "to ona"
     },
     {
       "surface": "יחניף",
-      "gloss": "skaża"
+      "gloss": "skalania"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
       "gloss": "ziemię"
     },
     {
-      "surface": "ולארץ",
+      "surface": "וְלָאָרֶץ",
       "gloss": "a ziemi"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "uczyni się odkupienia"
+      "gloss": "zostanie przebłagana"
     },
     {
       "surface": "לדם",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "która"
     },
     {
       "surface": "שפך",
-      "gloss": "został wylany"
+      "gloss": "została wylana"
     },
     {
       "surface": "בה",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tylko"
+      "gloss": "lecz"
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "tylko"
     },
     {
       "surface": "בדם",
@@ -103,9 +103,9 @@
     },
     {
       "surface": "שפכו",
-      "gloss": "tego który wylał"
+      "gloss": "tego, który wylał"
     }
   ],
-  "timestamp": "2026-08-24T23:02:29.209917815Z",
+  "timestamp": "2026-08-25T05:49:06.313164845Z",
   "model": "glm-5.3"
 }

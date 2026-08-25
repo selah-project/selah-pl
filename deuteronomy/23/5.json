@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Za ⟨sprawę⟩, której — nie wyszli naprzeciw wam ⟨את⟩ chlebem i wodą po drodze, przy waszym wyjściu z Micraim, i za to, że najął przeciwko tobie ⟨את⟩ Bilama, syna Beora, z Petor Aram Naharaim, aby ci przekląć.",
+  "translation": "Z powodu tego, że nie wyszli naprzeciw ⟨את⟩ was chlebem i wodą w drodze, gdy wychodziliście z Micraim, i z powodu tego, że nająli przeciwko tobie ⟨את⟩ Bilama, syna Beora, z Pterror, Aram Naharaim, aby ci przekląć.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "za"
+      "gloss": "z powodu"
     },
     {
       "surface": "דבר",
-      "gloss": "sprawę"
+      "gloss": "sprawy"
     },
     {
       "surface": "אשר",
-      "gloss": "której"
+      "gloss": "że"
     },
     {
       "surface": "לא",
@@ -29,8 +29,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wam",
-      "marks": "wam"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "בלחם",
@@ -42,11 +41,11 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "po drodze"
+      "gloss": "w drodze"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "przy waszym wyjściu"
+      "gloss": "gdy wychodziliście"
     },
     {
       "surface": "ממצרים",
@@ -54,11 +53,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "i za to, że"
+      "gloss": "i że"
     },
     {
       "surface": "שכר",
-      "gloss": "najął"
+      "gloss": "najęli"
     },
     {
       "surface": "עליך",
@@ -83,7 +82,7 @@
     },
     {
       "surface": "מפתור",
-      "gloss": "z Petor"
+      "gloss": "z Pterror"
     },
     {
       "surface": "ארם",
@@ -98,6 +97,6 @@
       "gloss": "aby ci przekląć"
     }
   ],
-  "timestamp": "2026-08-24T23:12:12.721214037Z",
+  "timestamp": "2026-08-25T05:50:35.779237330Z",
   "model": "glm-5.3"
 }

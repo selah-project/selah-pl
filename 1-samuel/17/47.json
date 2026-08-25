@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I pozna całe to zgromadzenie, że nie mieczem i włócznią Jahwe wyzwala, bo Jahwe ⟨należy⟩ wojna, i wyda was ⟨את⟩-w nasze ręce.",
+  "translation": "I niech pozna całe to zgromadzenie, że nie mieczem i nie włócznią Jahwe wybawia, bo Jahwe ⟨jest włodarzem⟩ wojny, i wyda ⟨את⟩ was w rękę naszą.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "i pozna"
+      "gloss": "i niech pozna"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יהושיע",
-      "gloss": "Jahwe wyzwala"
+      "gloss": "wybawia"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahwe ⟨należy⟩"
+      "gloss": "Jahwie"
     },
     {
       "surface": "המלחמה",
@@ -65,14 +65,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩-was",
-      "marks": "w nasze ręce"
+      "gloss": "⟨את⟩",
+      "marks": "was"
     },
     {
       "surface": "בידנו",
-      "gloss": "w nasze ręce"
+      "gloss": "w rękę naszą"
     }
   ],
-  "timestamp": "2026-08-24T23:39:28.409475465Z",
+  "timestamp": "2026-08-25T06:29:44.782057167Z",
   "model": "glm-5.3"
 }

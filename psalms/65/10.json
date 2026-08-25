@@ -5,16 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 65,
-  "translation": "Odwiedzasz ⟨את⟩ ziemię i podlewasz ją, obficie ją wzbogacasz; strumień Elohim pełen ⟨jest⟩ wody; przygotowujesz ich zboże, tak bowiem ją przygotowujesz.",
+  "translation": "Nawiedziłeś ⟨את⟩ ziemię i napełniłeś ją wodą, obficie ją wzbogaciłeś; strumień Elohim pełen jest wody; przygotowujesz ich zboże, bo tak ją przygotowujesz.",
   "tokens": [
     {
       "surface": "פקדת",
-      "gloss": "Odwiedzasz"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ziemię"
+      "gloss": "Nawiedziłeś"
     },
     {
       "surface": "הארץ",
@@ -22,7 +17,7 @@
     },
     {
       "surface": "ותשקקה",
-      "gloss": "i podlewasz ją"
+      "gloss": "i napełniłeś ją wodą"
     },
     {
       "surface": "רבת",
@@ -30,7 +25,7 @@
     },
     {
       "surface": "תעשרנה",
-      "gloss": "ją wzbogacasz"
+      "gloss": "wzbogaciłeś ją"
     },
     {
       "surface": "פלג",
@@ -58,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bowiem"
+      "gloss": "bo"
     },
     {
       "surface": "כן",
@@ -69,6 +64,6 @@
       "gloss": "ją przygotowujesz"
     }
   ],
-  "timestamp": "2026-08-25T01:53:18.335989038Z",
+  "timestamp": "2026-08-25T07:02:02.653168235Z",
   "model": "glm-5.3"
 }

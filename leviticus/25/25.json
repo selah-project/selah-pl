@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 25,
-  "translation": "Gdy zbiednieje twój brat i sprzeda ⟨z części⟩ swojej posiadłości, i przyjdzie jego wykupiciel, krewny mu bliski, i wykupi ⟨את⟩ to, co sprzedał jego brat.",
+  "translation": "Gdy twój brat zubożeje i sprzeda część swego posiadania, przyjdzie jego goel — ten, który jest mu bliski — i wykupi ⟨את⟩ to, co sprzedał jego brat.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ימוך",
-      "gloss": "zbiednieje"
+      "gloss": "zubożeje"
     },
     {
       "surface": "אחיך",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "מאחזתו",
-      "gloss": "swojej posiadłości"
+      "gloss": "część swego posiadania"
     },
     {
       "surface": "ובא",
-      "gloss": "i przyjdzie"
+      "gloss": "przyjdzie"
     },
     {
       "surface": "גאלו",
-      "gloss": "jego wykupiciel"
+      "gloss": "jego goel (wykupiciel)"
     },
     {
       "surface": "הקרב",
-      "gloss": "krewny bliski"
+      "gloss": "bliski"
     },
     {
       "surface": "אליו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "jego brata"
+      "gloss": "jego brat"
     }
   ],
-  "timestamp": "2026-08-24T22:48:45.243627990Z",
+  "timestamp": "2026-08-25T05:45:48.747139446Z",
   "model": "glm-5.3"
 }

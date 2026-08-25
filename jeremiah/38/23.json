@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 38,
-  "translation": "I ⟨את⟩ wszystkie twoje żony oraz ⟨את⟩ twoich synów wyprowadzą do Kasditów, a ty nie ocalejesz z ich ręki, bo w ręce króla Babelu zostaniesz pochwycony, i ⟨את⟩ to miasto spalisz ogniem.”",
+  "translation": "i ⟨את⟩ wszystkie twoje żony oraz ⟨את⟩ twoich synów wyprowadzą do Kasdytów, a ty nie umkniesz z ich ręki, gdyż ręką króla Bawelu zostaniesz pojmany, a ⟨את⟩ to miasto spłonie w ogniu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "wszystkie twoje żony"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "twoich synów"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kasditów"
+      "gloss": "Kasdytów"
     },
     {
       "surface": "ואתה",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "תמלט",
-      "gloss": "ocalejesz"
+      "gloss": "umkniesz"
     },
     {
       "surface": "מידם",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "ביד",
-      "gloss": "w ręce"
+      "gloss": "ręką"
     },
     {
       "surface": "מלך",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babelu"
+      "gloss": "Bawelu"
     },
     {
       "surface": "תתפש",
-      "gloss": "zostaniesz pochwycony"
+      "gloss": "zostaniesz pojmany"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "a ⟨את⟩",
       "marks": "to miasto"
     },
     {
@@ -92,13 +92,13 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "spalisz"
+      "gloss": "spłonie"
     },
     {
       "surface": "באש",
-      "gloss": "ogniem"
+      "gloss": "w ogniu"
     }
   ],
-  "timestamp": "2026-08-25T00:59:44.323671218Z",
+  "timestamp": "2026-08-25T06:09:53.403533439Z",
   "model": "glm-5.3"
 }

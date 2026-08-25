@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I wziął Gedeon dziesięciu mężów ze swoich sług i uczynił tak, jak Jahwe do niego mówił; i stało się, ponieważ bał się ⟨את⟩ domu swego ojca i ⟨את⟩ mężów miasta uczynić to za dnia, że uczynił nocą.",
+  "translation": "I wziął Gideon dziesięciu mężów ze swoich sług i uczynił tak, jak mówił do niego Jahwe; i stało się, ponieważ bał się ⟨את⟩ domu swojego ojca i ⟨את⟩ mężów ⟨tego⟩ miasta czynić to dniem, uczynił nocą.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gedeon"
+      "gloss": "Gideon"
     },
     {
       "surface": "עשרה",
@@ -62,7 +62,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "domu"
+      "marks": "domu swojego ojca"
     },
     {
       "surface": "בית",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "אביו",
-      "gloss": "swego ojca"
+      "gloss": "swojego ojca"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "mężów"
+      "marks": "mężów miasta"
     },
     {
       "surface": "אנשי",
@@ -87,21 +87,21 @@
     },
     {
       "surface": "מעשות",
-      "gloss": "uczynić"
+      "gloss": "czynić"
     },
     {
       "surface": "יומם",
-      "gloss": "za dnia"
+      "gloss": "dniem"
     },
     {
       "surface": "ויעש",
-      "gloss": "że uczynił"
+      "gloss": "uczynił"
     },
     {
       "surface": "לילה",
       "gloss": "nocą"
     }
   ],
-  "timestamp": "2026-08-24T23:27:11.256984760Z",
+  "timestamp": "2026-08-25T05:53:59.479183420Z",
   "model": "glm-5.3"
 }

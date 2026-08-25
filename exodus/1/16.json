@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I rzekł: Przy odbieraniu porodów Hebrejek zobaczycie na kamieniach porodowych — jeśli syn, to zabijecie go, a jeśli córka, to niech żyje.",
+  "translation": "I rzekł: gdy położniczym u ⟨את⟩ Hebrejki i ujrzycie na kamieniach porodowych — jeśli ⟨to⟩ syn, to zabijecie ⟨את⟩ niego, a jeśli córka, to ⟨ona⟩ żyje.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "בילדכן",
-      "gloss": "Przy odbieraniu porodów"
+      "gloss": "gdy położniczym u"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hebrejek"
+      "marks": "Hebrejki"
     },
     {
       "surface": "העבריות",
-      "gloss": "Hebrejek"
+      "gloss": "Hebrejki"
     },
     {
       "surface": "וראיתן",
-      "gloss": "zobaczycie"
+      "gloss": "i ujrzycie"
     },
     {
       "surface": "על",
@@ -50,11 +50,12 @@
     },
     {
       "surface": "והמתן",
-      "gloss": "zabijecie"
+      "gloss": "to zabijecie"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go"
+      "gloss": "⟨את⟩",
+      "marks": "niego"
     },
     {
       "surface": "ואם",
@@ -62,17 +63,17 @@
     },
     {
       "surface": "בת",
-      "gloss": "córkę"
+      "gloss": "córka"
     },
     {
       "surface": "היא",
-      "gloss": "to"
+      "gloss": "ona"
     },
     {
       "surface": "וחיה",
-      "gloss": "niech żyje"
+      "gloss": "żyje"
     }
   ],
-  "timestamp": "2026-08-24T22:25:35.141459249Z",
+  "timestamp": "2026-08-25T05:40:25.621277796Z",
   "model": "glm-5.3"
 }

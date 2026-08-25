@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 43,
-  "translation": "I weźmiesz ⟨את⟩ bydlę ⟨the⟩ grzechu, i spłoniesz je na wyznaczonym ⟨miejscu⟩ domu, na zewnątrz świątyni.",
+  "translation": "I weźmiesz ⟨את⟩ tego bydłca ofiary za grzech, i spłoniesz go na wyznaczonym ⟨miejscu⟩ domu, na zewnątrz przybytku.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -14,23 +14,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bydlę grzechu"
+      "marks": "tego bydłca ofiary za grzech"
     },
     {
       "surface": "הפר",
-      "gloss": "bydlę"
+      "gloss": "tego bydłca"
     },
     {
       "surface": "החטאת",
-      "gloss": "grzechu"
+      "gloss": "ofiary za grzech"
     },
     {
       "surface": "ושרפו",
-      "gloss": "i spłoniesz je"
+      "gloss": "i spłoniesz go"
     },
     {
       "surface": "במפקד",
-      "gloss": "na wyznaczonym"
+      "gloss": "na wyznaczonym ⟨miejscu⟩"
     },
     {
       "surface": "הבית",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "למקדש",
-      "gloss": "świątyni"
+      "gloss": "przybytku"
     }
   ],
-  "timestamp": "2026-08-25T01:28:04.702709148Z",
+  "timestamp": "2026-08-25T07:01:47.374253648Z",
   "model": "glm-5.3"
 }

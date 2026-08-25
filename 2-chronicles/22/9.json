@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I szukał ⟨את⟩ Achazjachu, i schwytali go, a on ukrywał się w Szomron, i przyprowadzili go do Jehu, i zabili go, i pochowali go, bo powiedzieli: syn Jehoszafata to ⟨on⟩, który szukał ⟨את⟩ Jahwe całym swoim sercem; i nie było ⟨nic⟩ domowi Achazjachu ⟨siły⟩ do utrzymania królestwa.",
+  "translation": "I szukał ⟨את⟩ Achazjahahu, i pochwycono go — a on ukrywał się w Szomron — i przyprowadzili go do Jehu, i zabili go, i pochowali go, bo powiedzieli: syn Jehoszafata ⟨jest⟩ on, ten, który szukał ⟨את⟩ Jahwe całym swoim sercem; i nie było ⟨nikogo⟩ z domu Achazjahahu, ⟨kto by⟩ zatrzymał siłę do królestwa.",
   "tokens": [
     {
       "surface": "ויבקש",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Achazjachu"
+      "marks": "Achazjahahu"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Achazjachu"
+      "gloss": "Achazjahahu"
     },
     {
       "surface": "וילכדהו",
-      "gloss": "i schwytali go"
+      "gloss": "i pochwycono go"
     },
     {
       "surface": "והוא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to on"
+      "gloss": "on"
     },
     {
       "surface": "אשר",
@@ -107,25 +107,25 @@
     },
     {
       "surface": "לבית",
-      "gloss": "domowi"
+      "gloss": "z domu"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Achazjachu"
+      "gloss": "Achazjahahu"
     },
     {
       "surface": "לעצר",
-      "gloss": "do utrzymania"
+      "gloss": "zatrzymał"
     },
     {
       "surface": "כח",
-      "gloss": "siły"
+      "gloss": "siłę"
     },
     {
       "surface": "לממלכה",
-      "gloss": "królestwa"
+      "gloss": "do królestwa"
     }
   ],
-  "timestamp": "2026-08-25T03:06:42.533538295Z",
+  "timestamp": "2026-08-25T06:26:40.900016796Z",
   "model": "glm-5.3"
 }

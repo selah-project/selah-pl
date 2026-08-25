@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I rzekł król do Cadoka: Odnieś ⟨את⟩ arkę Elohim do miasta. Jeśli znajdę łaskę w oczach Jahwe, to mnie zawróci i pokaże mi ją ⟨את⟩ oraz ⟨את⟩ Jego przybytek.",
+  "translation": "I rzekł król do Cadoka: Odmień ⟨את⟩ arkę Elohim do miasta. Jeśli znajdę łaskę w oczach Jahwe, to odwiedzie mnie i okaże mi ⟨את⟩ ją i ⟨את⟩ jego mieszkanie.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "המלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "השב",
-      "gloss": "odnieś"
+      "gloss": "Odmień"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "אמצא",
@@ -62,25 +62,27 @@
     },
     {
       "surface": "והשבני",
-      "gloss": "zawróci mnie"
+      "gloss": "odwiedzie mnie"
     },
     {
       "surface": "והראני",
-      "gloss": "pokaże mi"
+      "gloss": "okaże mi"
     },
     {
       "surface": "אתו",
-      "gloss": "ją ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ją"
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "jego mieszkanie"
     },
     {
       "surface": "נוהו",
-      "gloss": "Jego przybytek"
+      "gloss": "jego mieszkanie"
     }
   ],
-  "timestamp": "2026-08-24T23:50:55.592839101Z",
+  "timestamp": "2026-08-25T05:57:34.590084764Z",
   "model": "glm-5.3"
 }

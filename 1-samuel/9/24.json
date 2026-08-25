@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I podniósł rzeźnik ⟨את⟩ szynkę i to, co na niej, i położył przed Szaulem. I powiedział: Oto co zostało zachowane — połóż przed sobą i jedz, bo na tę okazję zostało to dla ciebie zachowane, gdy powiedziałem: lud zaprosiłem. I jadł Szaul ze Szemuuelem w dniu owym.",
+  "translation": "I podniósł kucharz ⟨את⟩ udo wraz z tym, co na nim, i położył przed Szaulem; i rzekł ⟨on⟩: Oto ⟨to, co⟩ zostało zachowane — połóż przed sobą i jedz, bo na ⟨ten⟩ czas zostało to dla ciebie zachowane, gdy powiedziałem: Wezwałem lud. I jadł Szaul z Szemujelem w owym dniu.",
   "tokens": [
     {
       "surface": "וירם",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "הטבח",
-      "gloss": "rzeźnik"
+      "gloss": "kucharz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "szynkę"
+      "marks": "udo"
     },
     {
       "surface": "השוק",
-      "gloss": "szynkę"
+      "gloss": "udo"
     },
     {
       "surface": "והעליה",
-      "gloss": "i to, co na niej"
+      "gloss": "wraz z tym, co na nim"
     },
     {
       "surface": "וישם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "הנה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנשאר",
-      "gloss": "co zostało zachowane"
+      "gloss": "zostało"
     },
     {
       "surface": "שים",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "למועד",
-      "gloss": "na tę okazję"
+      "gloss": "na czas"
     },
     {
       "surface": "שמור",
-      "gloss": "zostało zachowane"
+      "gloss": "zachowane"
     },
     {
       "surface": "לך",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "קראתי",
-      "gloss": "zaprosiłem"
+      "gloss": "wezwałem"
     },
     {
       "surface": "ויאכל",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "ze"
+      "gloss": "z"
     },
     {
       "surface": "שמואל",
-      "gloss": "Szemuuelem"
+      "gloss": "Szemujelem"
     },
     {
       "surface": "ביום",
@@ -117,6 +117,6 @@
       "gloss": "owym"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.488532842Z",
+  "timestamp": "2026-08-25T05:55:24.618093481Z",
   "model": "glm-5.3"
 }

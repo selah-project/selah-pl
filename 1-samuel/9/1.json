@@ -5,8 +5,85 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I był ⟨pewien⟩ mąż z synów Binjamina, a jego imię — Kisz, syn Awielaela... ",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:35:03.733101385Z",
+  "translation": "I był pewien mąż z ⟨pokolenia⟩ Beniamina, a imię jego — Kisz, syn Awuela, syn Cerora, syn Bekorata, syn Afiacha, syn męża z Beniamina, mocarz dzielny.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I był"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pewien mąż"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "z ⟨pokolenia⟩"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "Beniamina"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a imię jego"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kisz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Awuela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "Cerora"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "בכורת",
+      "gloss": "Bekorata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אפיח",
+      "gloss": "Afiacha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "z Beniamina"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarz"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzielny"
+    }
+  ],
+  "timestamp": "2026-08-25T05:55:14.086256319Z",
   "model": "glm-5.3"
 }

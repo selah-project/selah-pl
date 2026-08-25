@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Nie ma ocalałego ⟨dla⟩ jego jedzenia; dlatego nie ostoi się jego dobro.",
+  "translation": "Nie zostanie ocalałość ⟨z⟩ jego jedzenia, dlatego nie ostoi się jego dobro.",
   "tokens": [
     {
       "surface": "אין",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "שריד",
-      "gloss": "ocalałego"
+      "gloss": "ocalałości"
     },
     {
       "surface": "לאכלו",
-      "gloss": "dla jego jedzenia"
+      "gloss": "z jego jedzenia"
     },
     {
       "surface": "על",
-      "gloss": "przez"
+      "gloss": "przez to"
     },
     {
       "surface": "כן",
-      "gloss": "to"
+      "gloss": "dlatego"
     },
     {
       "surface": "לא",
@@ -40,6 +40,6 @@
       "gloss": "jego dobro"
     }
   ],
-  "timestamp": "2026-08-25T02:20:12.684516188Z",
+  "timestamp": "2026-08-25T06:18:59.586573177Z",
   "model": "glm-5.3"
 }

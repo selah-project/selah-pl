@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 28,
-  "translation": "I uląkł się, i rzekł: Jak straszne ⟨jest⟩ to miejsce! Nie jest to nic innego jak dom Elohim, a ⟨to⟩ ⟨jest⟩ brama niebios.",
+  "translation": "I uląkł się, i rzekł: Jak straszne ⟨jest⟩ to miejsce! Nie ⟨jest⟩ to nic innego jak dom Elohim, a to brama niebios.",
   "tokens": [
     {
       "surface": "ויירא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "nie jest"
+      "gloss": "nie"
     },
     {
       "surface": "זה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "jak"
+      "gloss": "innego jak"
     },
     {
       "surface": "אם",
-      "gloss": "nic innego niż"
+      "gloss": "jak"
     },
     {
       "surface": "בית",
@@ -56,7 +56,7 @@
       "gloss": "Elohim"
     },
     {
-      "surface": "וזה",
+      "surface": "ווזה",
       "gloss": "a to"
     },
     {
@@ -68,6 +68,6 @@
       "gloss": "niebios"
     }
   ],
-  "timestamp": "2026-08-24T22:18:02.852084098Z",
+  "timestamp": "2026-08-25T05:38:15.149841545Z",
   "model": "glm-5.3"
 }

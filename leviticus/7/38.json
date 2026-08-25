@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 7,
-  "translation": "Którą to przykazał Jahwe ⟨את⟩ Mosze na górze Synaj, w dniu, gdy przykazał ⟨את⟩ synom Jisraela, by składali ⟨את⟩ swoje ofiary Jahwe, na pustyni Synaj.",
+  "translation": "którą Jahwe nakazał ⟨את⟩ Mosze na górze Synaj, w dniu swego nakazania ⟨את⟩ synom Israela, by składali ⟨את⟩ swoje korban jako ofiary Jahwe, na pustyni Synaj.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "przykazał"
+      "gloss": "nakazał"
     },
     {
       "surface": "יהוה",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "צותו",
-      "gloss": "przykazał on"
+      "gloss": "swego nakazania"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synom Jisraela"
+      "marks": "synom Israela"
     },
     {
       "surface": "בני",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Israela"
     },
     {
       "surface": "להקריב",
@@ -64,11 +64,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swoje ofiary"
+      "marks": "swoje korban"
     },
     {
       "surface": "קרבניהם",
-      "gloss": "swoje ofiary"
+      "gloss": "swoje korban"
     },
     {
       "surface": "ליהוה",
@@ -83,6 +83,6 @@
       "gloss": "Synaj"
     }
   ],
-  "timestamp": "2026-08-24T22:40:16.414043274Z",
+  "timestamp": "2026-08-25T05:43:25.177029476Z",
   "model": "glm-5.3"
 }

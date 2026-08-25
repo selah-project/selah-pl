@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 11,
-  "translation": "To ⟨jest⟩ Tora zwierzęcia i ptactwa, i wszelkiej istoty żywej ruszającej się w wodach, i wszelkiej istoty pełzającej po ziemi.",
+  "translation": "To jest Tora ⟨dotycząca⟩ zwierząt, i ptactwa, i wszelkiej istoty żywej, która się rusza w wodach, i wszelkiej istoty pełzającej po ⟨tej⟩ ziemi.",
   "tokens": [
     {
       "surface": "זאת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "zwierzęcia"
+      "gloss": "zwierząt"
     },
     {
       "surface": "והעוף",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הרמשת",
-      "gloss": "ruszającej się"
+      "gloss": "która się rusza"
     },
     {
       "surface": "במים",
@@ -64,6 +64,6 @@
       "gloss": "ziemi"
     }
   ],
-  "timestamp": "2026-08-24T22:42:11.915483310Z",
+  "timestamp": "2026-08-25T06:28:16.393779300Z",
   "model": "glm-5.3"
 }

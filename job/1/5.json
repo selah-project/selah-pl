@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I stało się, gdy dopełniły się dni ⟨the⟩ uczty, że Ijob posłał i poświęcił ich, i wstał rano o poranku, i sprawił, że weszły na wysokość całopalenia według liczby ich wszystkich; bo Ijob rzekł: Może zgrzeszyli moi synowie i pobłogosławili Elohim w swoich sercach. Tak czynił Ijob wszystkie dni.",
+  "translation": "I stało się, gdy odbyły się dni uczty, że Ijob posłał i ich poświęcił, i wstawał wcześnie rano, i wznosił całopalenia według liczby ich wszystkich, bo rzekł Ijob: Może zgrzeszyli moi synowie i błogosławili Elohim w swoich sercach. Tak czynił Ijob wszystkie dni.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הקיפו",
-      "gloss": "dopełniły się"
+      "gloss": "odbyły się"
     },
     {
       "surface": "ימי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ויקדשם",
-      "gloss": "i poświęcił ich"
+      "gloss": "i ich poświęcił"
     },
     {
       "surface": "והשכים",
-      "gloss": "i wstał rano"
+      "gloss": "i wstawał wcześnie"
     },
     {
       "surface": "בבקר",
-      "gloss": "o poranku"
+      "gloss": "rano"
     },
     {
       "surface": "והעלה",
-      "gloss": "i sprawił, że weszły na wysokość"
+      "gloss": "i wznosił"
     },
     {
       "surface": "עלות",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "וברכו",
-      "gloss": "i pobłogosławili"
+      "gloss": "i błogosławili"
     },
     {
       "surface": "אלהים",
@@ -120,6 +120,6 @@
       "gloss": "dni"
     }
   ],
-  "timestamp": "2026-08-25T02:15:25.783512059Z",
+  "timestamp": "2026-08-25T06:18:43.134695121Z",
   "model": "glm-5.3"
 }

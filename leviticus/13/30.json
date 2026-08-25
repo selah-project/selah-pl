@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "i kapłan zobaczy ⟨את⟩ znamienie, a oto jego wygląd ⟨jest⟩ głębszy niż skóra i ⟨jest⟩ w nim włos żółty cienki, to kapłan ogłosi go nieczystym: netek ⟨to⟩, cárácąt ⟨to⟩ głowy albo brody.",
+  "translation": "I obejrzy kapłan ⟨את⟩ plagę, i oto wygląd jej głębszy niż ⟨od⟩ skóry, a w niej włos żółty cienki — i uzna go kapłan za nieczystego: netek to ⟨jest⟩, cara'at głowy albo brody to ⟨jest⟩.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "i zobaczy"
+      "gloss": "i obejrzy"
     },
     {
       "surface": "הכהן",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "znamienie"
+      "marks": "plagę"
     },
     {
       "surface": "הנגע",
-      "gloss": "znamienie"
+      "gloss": "plagę"
     },
     {
       "surface": "והנה",
-      "gloss": "a oto"
+      "gloss": "i oto"
     },
     {
       "surface": "מראהו",
-      "gloss": "jego wygląd"
+      "gloss": "wygląd jej"
     },
     {
       "surface": "עמק",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "niż"
+      "gloss": "niż ⟨od⟩"
     },
     {
       "surface": "העור",
-      "gloss": "skóra"
+      "gloss": "skóry"
     },
     {
       "surface": "ובו",
-      "gloss": "i w nim"
+      "gloss": "a w niej"
     },
     {
       "surface": "שער",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "i ogłosi nieczystym"
+      "gloss": "i uzna za nieczystego"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ go",
-      "marks": "go (osobę z znamieniem)"
+      "marks": "go (dotkniętego)"
     },
     {
       "surface": "הכהן",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "נתק",
-      "gloss": "netek (łupież strupowaty)"
+      "gloss": "netek"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "to"
     },
     {
       "surface": "צרעת",
-      "gloss": "cárácąt (trąd)"
+      "gloss": "cara'at"
     },
     {
       "surface": "הראש",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T22:44:24.648261040Z",
+  "timestamp": "2026-08-25T05:44:40.182773902Z",
   "model": "glm-5.3"
 }

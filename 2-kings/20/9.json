@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I rzekł Jeszajahu: To ⟨jest⟩ tobie znak od ⟨את⟩ Jahwe, że Jahwe uczyni ⟨את⟩ słowo, które powiedział: czy cień ma pójść dziesięć stopni, czy wrócić dziesięć stopni?",
+  "translation": "I rzekł Jeszajahu: Tobie ten znak od ⟨את⟩ Jahwe, że Jahwe wykona ⟨את⟩ słowo, które powiedział: cień pójdzie dziesięć stopni — czy wróci dziesięć stopni?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "ישעיהו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ od",
       "marks": "Jahwe"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "uczyni"
+      "gloss": "wykona"
     },
     {
       "surface": "יהוה",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ma pójść"
+      "gloss": "pójdzie"
     },
     {
       "surface": "הצל",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "wrócić"
+      "gloss": "wróci"
     },
     {
       "surface": "עשר",
@@ -98,6 +98,6 @@
       "gloss": "stopni"
     }
   ],
-  "timestamp": "2026-08-25T00:16:33.483457142Z",
+  "timestamp": "2026-08-25T06:30:43.663964843Z",
   "model": "glm-5.3"
 }

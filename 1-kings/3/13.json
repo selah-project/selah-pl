@@ -5,8 +5,81 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 3,
-  "translation": "A także to, czego nie prosiłeś, dałem ci: i bogactwo, i chwałę, tak że nie było nikogo takiego jak ty среди królów przez wszystkie twoje dni.",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:55:30.761086834Z",
+  "translation": "A także to, czego nie prosiłeś, dałem ci: zarówno bogactwo, jak i chwałę, tak że ⟨nie⟩ było nikogo takiego jak ty, męża pośród królów, przez wszystkie twoje dni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "czego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "prosiłeś"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zarówno"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogactwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak i"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tak że"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "takiego jak ty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "pośród królów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "twoje dni"
+    }
+  ],
+  "timestamp": "2026-08-25T05:59:40.949492670Z",
   "model": "glm-5.3"
 }

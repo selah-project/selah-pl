@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "A jeśli kapłan zobaczy, a oto plaga zbladła po jego upraniu, to wyrwie ⟨את⟩ je z szaty, albo ze skóry, albo z osnowy, albo z wątku.",
+  "translation": "A jeśli zobaczy kapłan, a oto pociemniała zaraza po wypraniu ⟨את⟩ go, to wyrwie ⟨את⟩ go z szaty, lub ze skóry, lub z osnowy, lub z wątku.",
   "tokens": [
     {
       "surface": "ואם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כהה",
-      "gloss": "zbladła"
+      "gloss": "pociemniała"
     },
     {
       "surface": "הנגע",
-      "gloss": "plaga"
+      "gloss": "zaraza"
     },
     {
       "surface": "אחרי",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "הכבס",
-      "gloss": "upraniu"
+      "gloss": "wypraniu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "go (plagi, przy upraniu)"
+      "gloss": "⟨את⟩ go",
+      "marks": "go (zarazę)"
     },
     {
       "surface": "וקרע",
@@ -50,8 +50,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "je (zarażony przedmiot, przy wyrwaniu)"
+      "gloss": "⟨את⟩ go",
+      "marks": "go (fragment)"
     },
     {
       "surface": "מן",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "מן",
-      "gloss": "ze"
+      "gloss": "z"
     },
     {
       "surface": "העור",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "מן",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "מן",
@@ -98,6 +98,6 @@
       "gloss": "wątku"
     }
   ],
-  "timestamp": "2026-08-24T22:44:52.723255272Z",
+  "timestamp": "2026-08-25T05:45:19.017515640Z",
   "model": "glm-5.3"
 }

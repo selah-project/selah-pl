@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A on przyszedł i stanął przy swoim panu, a on rzekł do niego Eliszа: „Skąd, Gechazi?” A on rzekł: „Twój sługa nie chodził ⟨tu⟩ ani ⟨tam⟩.”",
+  "translation": "A on przyszedł i stanął przy swoim panie, i rzekł mu Eli-sza: Czyż nie, Gechazi, ⟨skąd przyszedłeś⟩? I rzekł: Nie chodził twój sługa ani tu, ani tam.",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "A on"
+      "gloss": "a on"
     },
     {
       "surface": "בא",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "swoim panu"
+      "gloss": "swoim panie"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אליו",
-      "gloss": "do niego"
+      "gloss": "mu"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elisza"
+      "gloss": "Eli-sza"
     },
     {
       "surface": "מאן",
-      "gloss": "skąd"
+      "gloss": "czyż nie"
     },
     {
       "surface": "גחזי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "לא",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "אנה",
-      "gloss": "⟨tu⟩"
+      "gloss": "ani tu"
     },
     {
       "surface": "ואנה",
-      "gloss": "ani ⟨tam⟩"
+      "gloss": "ani tam"
     }
   ],
-  "timestamp": "2026-08-25T00:08:48.470085557Z",
+  "timestamp": "2026-08-25T06:02:56.799862623Z",
   "model": "glm-5.3"
 }

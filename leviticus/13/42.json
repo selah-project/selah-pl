@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I jeśli na łysinie potylicznej lub na łysinie czoła będzie plaga biała czerwonawa, trąd rozkwitający ⟨to⟩ — na jego łysinie potylicznej lub na jego czole.",
+  "translation": "A gdyby na łysinie z tyłu głowy lub na łysinie czoła powstał Wykwit biały czerwonawy — ⟨to⟩ trąd rozkwitający jest ⟨to⟩ na jego łysinie z tyłu głowy lub na jego łysinie czoła.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "i jeśli"
+      "gloss": "A gdyby"
     },
     {
       "surface": "יהיה",
-      "gloss": "będzie"
+      "gloss": "powstał"
     },
     {
       "surface": "בקרחת",
-      "gloss": "na łysinie potylicznej"
+      "gloss": "na łysinie z tyłu głowy"
     },
     {
       "surface": "או",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "נגע",
-      "gloss": "plaga"
+      "gloss": "Wykwit"
     },
     {
       "surface": "לבן",
-      "gloss": "biała"
+      "gloss": "biały"
     },
     {
       "surface": "אדמדם",
-      "gloss": "czerwonawa"
+      "gloss": "czerwonawy"
     },
     {
       "surface": "צרעת",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "jest ⟨to⟩"
     },
     {
       "surface": "בקרחתו",
-      "gloss": "na jego łysinie potylicznej"
+      "gloss": "na jego łysinie z tyłu głowy"
     },
     {
       "surface": "או",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "בגבחתו",
-      "gloss": "na jego czole"
+      "gloss": "na jego łysinie czoła"
     }
   ],
-  "timestamp": "2026-08-24T22:43:56.838452303Z",
+  "timestamp": "2026-08-25T05:44:23.406704775Z",
   "model": "glm-5.3"
 }

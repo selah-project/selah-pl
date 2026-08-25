@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 14,
-  "translation": "A to ⟨są te rzeczy⟩, które odziedziczyli synowie Jisraela w ziemi Kenaan, które im dal w dziedzictwo Elazar kapłan i Jehoszua syn Nuna oraz naczelnicy domów ojców pokoleń dla synów Jisraela.",
+  "translation": "A to ⟨jest to⟩, co odziedziczyli synowie Jisraela w ziemi Kenaan, co ⟨את⟩ tego rozdzielili jako dziedzictwo Elazar kapłan, Jehoszua syn Nuna i naczelnicy rodów pokoleń synów Jisraela.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "a to"
+      "gloss": "A to"
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "co"
     },
     {
       "surface": "נחלו",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "co"
     },
     {
       "surface": "נחלו",
-      "gloss": "dal w dziedzictwo"
+      "gloss": "rozdzielili jako dziedzictwo"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "im"
+      "marks": "tego — obiekt: to, co odziedziczyli"
     },
     {
       "surface": "אלעזר",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "וראשי",
-      "gloss": "oraz naczelnicy"
+      "gloss": "i naczelnicy"
     },
     {
       "surface": "אבות",
-      "gloss": "ojców"
+      "gloss": "rodów"
     },
     {
       "surface": "המטות",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "dla synów"
+      "gloss": "synów"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-24T23:20:47.410879386Z",
+  "timestamp": "2026-08-25T05:52:57.862122805Z",
   "model": "glm-5.3"
 }

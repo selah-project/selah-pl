@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 41,
-  "translation": "I zmierzył ⟨את⟩ ⟨ten⟩ dom — długość sto łokci; a ⟨to⟩ wydzielone miejsce i ⟨ta⟩ budowla, i jego ściany — długość sto łokci.",
+  "translation": "I zmierzył ⟨את⟩ ⟨the⟩ świątynię: długość sto łokci; a wydzielenie i budowla, i jej mury — długość sto łokci.",
   "tokens": [
     {
       "surface": "ומדד",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dom"
+      "marks": "świątynię"
     },
     {
       "surface": "הבית",
-      "gloss": "dom"
+      "gloss": "świątynię"
     },
     {
       "surface": "ארך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והגזרה",
-      "gloss": "a wydzielone miejsce"
+      "gloss": "a wydzielenie"
     },
     {
       "surface": "והבניה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וקירותיה",
-      "gloss": "i jego ściany"
+      "gloss": "i jej mury"
     },
     {
       "surface": "ארך",
@@ -57,6 +57,6 @@
       "gloss": "łokci"
     }
   ],
-  "timestamp": "2026-08-25T01:27:31.130068384Z",
+  "timestamp": "2026-08-25T07:03:27.307405741Z",
   "model": "glm-5.3"
 }

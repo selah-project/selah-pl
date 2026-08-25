@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I pozostał Jaakow sam, i zapaśnik z nim się zmagał ⟨איש⟩ — męż — aż do wstania świtu.",
+  "translation": "I pozostał Jaakow sam jeden, i zmagał się ⟨pewien⟩ mąż z nim, aż do wstania świtu.",
   "tokens": [
     {
       "surface": "ויותר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "sam"
+      "gloss": "sam jeden"
     },
     {
       "surface": "ויאבק",
-      "gloss": "i zmagał się zapaśniczo"
+      "gloss": "i zmagał się"
     },
     {
       "surface": "איש",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "השחר",
-      "gloss": "świtu ⟨the⟩"
+      "gloss": "świtu"
     }
   ],
-  "timestamp": "2026-08-24T22:18:33.158692097Z",
+  "timestamp": "2026-08-25T06:27:45.552023565Z",
   "model": "glm-5.3"
 }

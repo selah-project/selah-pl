@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 22,
-  "translation": "a jeśli nie — z obawy o ⟨to⟩ słowo uczyniliśmy ⟨את⟩ to, mówiąc: jutro powiedzą wasi synowie naszym synom: co ⟨wam⟩ do Jahwe, Elohim Jisraela?",
+  "translation": "a jeśli nie ze obawy ⟨przed⟩ rzeczą uczyniliśmy ⟨את⟩ tego, mówiąc: jutro powiedzą wasze syny naszym synom, mówiąc: Co ⟨wam⟩ do Jahwe, Elohim Izraela?",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מדאגה",
-      "gloss": "z obawy"
+      "gloss": "ze obawy"
     },
     {
       "surface": "מדבר",
-      "gloss": "o słowo"
+      "gloss": "⟨przed⟩ rzeczą"
     },
     {
       "surface": "עשינו",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "tego"
     },
     {
       "surface": "זאת",
-      "gloss": "to"
+      "gloss": "tego"
     },
     {
       "surface": "לאמר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בניכם",
-      "gloss": "wasi synowie"
+      "gloss": "wasze syny"
     },
     {
       "surface": "לבנינו",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "וליהוה",
-      "gloss": "do Jahwe"
+      "gloss": "i do Jahwe"
     },
     {
       "surface": "אלהי",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Izraela"
     }
   ],
-  "timestamp": "2026-08-24T23:23:08.035279209Z",
+  "timestamp": "2026-08-25T05:53:26.820812991Z",
   "model": "glm-5.3"
 }

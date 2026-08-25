@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 18,
-  "translation": "Dlatego, że nie słuchali głosu Jahwe, swojego Elohim, lecz przekroczyli jego przymierze — ⟨את⟩ wszystko, co przykazał Mosze, sługa Jahwe — i nie słuchali, i nie czynili.",
+  "translation": "Dlatego, że nie usłuchali głosu Jahwe, Elohima swego, lecz przekroczyli ⟨את⟩ przymierze Jego — ⟨את⟩ wszystko, co przykazał Mosze, sługa Jahwe — i nie usłuchali, i nie wykonali.",
   "tokens": [
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "słuchali"
+      "gloss": "usłuchali"
     },
     {
       "surface": "בקול",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "swojego Elohim"
+      "gloss": "Elohima swego"
     },
     {
       "surface": "ויעברו",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "przymierze jego"
+      "marks": "przymierze Jego"
     },
     {
       "surface": "בריתו",
-      "gloss": "jego przymierze"
+      "gloss": "przymierze Jego"
     },
     {
       "surface": "את",
@@ -78,11 +78,22 @@
       "gloss": "Jahwe"
     },
     {
-      "surface": "וילא_ולא",
-      "gloss": "i nie",
-      "note": "placeholder"
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłuchali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wykonali"
     }
   ],
-  "timestamp": "2026-08-25T00:14:26.988141533Z",
+  "timestamp": "2026-08-25T06:30:23.650072695Z",
   "model": "glm-5.3"
 }

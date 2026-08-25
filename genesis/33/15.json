@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I rzekł Esaw: Pozwolę, proszę, zostać przy tobie części ludu, który jest ⟨את⟩ przy mnie. A on rzekł: Po co to? Niechże znajdę łaskę w oczach mego pana.",
+  "translation": "I rzekł Esaw: Niechaj, proszę, zostawię przy tobie ⟨z⟩ ludu, który jest ⟨את⟩ przy mnie. A on rzekł: Po co to? Niechaj znajdę łaskę w oczach pana mego.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "עשו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אציגה",
-      "gloss": "pozwolę zostać"
+      "gloss": "niechaj zostawię"
     },
     {
       "surface": "נא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "części"
+      "gloss": "z"
     },
     {
       "surface": "העם",
@@ -42,11 +42,11 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "jest przy mnie"
+      "marks": "przy mnie"
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "a on rzekł"
     },
     {
       "surface": "למה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אמצא",
-      "gloss": "niechże znajdę"
+      "gloss": "znajdę"
     },
     {
       "surface": "חן",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mego pana"
+      "gloss": "pana mego"
     }
   ],
-  "timestamp": "2026-08-24T22:18:57.043609011Z",
+  "timestamp": "2026-08-25T05:38:48.357914253Z",
   "model": "glm-5.3"
 }

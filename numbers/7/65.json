@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A na ofiarę szalomim dwa woły, pięć baranów, pięć kozłów, pięć jagniąt rocznych — to ⟨jest⟩ dar ofiarny Awidana, syna Gidoniego.",
+  "translation": "A na ofiarę shelamim: dwa woły, pięć baranów, pięć kozłów, pięć jagniąt rocznych — to jest dar ofiarny Awidana, syna Gidoniego.",
   "tokens": [
     {
       "surface": "ולזבח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "szalomim"
+      "gloss": "shelamim"
     },
     {
       "surface": "בקר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "rocznych (dosł. synów)"
+      "gloss": "rocznych"
     },
     {
       "surface": "שנה",
-      "gloss": "roku"
+      "gloss": "rok (dosł. synowie roku)"
     },
     {
       "surface": "חמשה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "גדעני",
-      "gloss": "Gidoniego"
+      "gloss": "Gidoni"
     }
   ],
-  "timestamp": "2026-08-25T03:20:08.010407495Z",
+  "timestamp": "2026-08-25T05:46:37.430741601Z",
   "model": "glm-5.3"
 }

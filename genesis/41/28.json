@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 41,
-  "translation": "To ⟨jest⟩ słowo, które mówiłem do faraona: ⟨את⟩ tego, co Elohim czyni, pokazał faraonowi.",
+  "translation": "To ⟨jest⟩ słowo, które mówiłem do Paro: to, co Elohim czyni, pokazał ⟨את⟩ Paro.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "הדבר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "faraona"
+      "gloss": "Paro"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "האלהים",
@@ -50,13 +50,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "faraonowi"
+      "marks": "Paro"
     },
     {
       "surface": "פרעה",
-      "gloss": "faraonowi"
+      "gloss": "Paro"
     }
   ],
-  "timestamp": "2026-08-24T22:21:34.916740559Z",
+  "timestamp": "2026-08-25T05:39:12.321673068Z",
   "model": "glm-5.3"
 }

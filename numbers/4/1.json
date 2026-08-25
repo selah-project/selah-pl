@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I przemówił Jahwe do Moszego i do Ahrona, mówiąc:",
+  "translation": "I przemówił Jahwe do Mosze i do Aharona, mówiąc:",
   "tokens": [
     {
       "surface": "וידבר",
@@ -21,25 +21,21 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moszego"
+      "gloss": "Mosze"
     },
     {
-      "surface": "ו",
-      "gloss": "i"
-    },
-    {
-      "surface": "אל",
-      "gloss": "do"
+      "surface": "ואל",
+      "gloss": "i do"
     },
     {
       "surface": "אהרן",
-      "gloss": "Ahrona"
+      "gloss": "Aharona"
     },
     {
       "surface": "לאמר",
       "gloss": "mówiąc"
     }
   ],
-  "timestamp": "2026-08-24T22:50:43.041076838Z",
+  "timestamp": "2026-08-25T05:46:30.137203449Z",
   "model": "glm-5.3"
 }

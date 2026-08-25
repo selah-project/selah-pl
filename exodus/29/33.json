@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I zjedzą ⟨את⟩ te rzeczy, którymi dokonano odkupienia, by napełnić ⟨את⟩ ich ręce, by ⟨את⟩ ich poświęcić; a obcy nie będzie jadł, bo świętość to oni.",
+  "translation": "I będą jeść ⟨את⟩ one rzeczy, którymi dokonano odkupienia, aby napełnić ⟨את⟩ ich ręce, aby ⟨את⟩ nich poświęcić; a obcy nie będzie jadł, bo święte one są.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "gloss": "i zjedzą"
+      "gloss": "i będą jeść"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "te rzeczy"
+      "marks": "one rzeczy"
     },
     {
       "surface": "אשר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "למלא",
-      "gloss": "by napełnić"
+      "gloss": "aby napełnić"
     },
     {
       "surface": "את",
@@ -43,12 +43,12 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "by poświęcić"
+      "gloss": "aby poświęcić"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ich (Ahrona i jego synów)"
+      "marks": "nich"
     },
     {
       "surface": "וזר",
@@ -68,13 +68,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "świętość"
+      "gloss": "święte"
     },
     {
       "surface": "הם",
-      "gloss": "to oni"
+      "gloss": "one są"
     }
   ],
-  "timestamp": "2026-08-24T22:35:28.044208075Z",
+  "timestamp": "2026-08-25T05:42:15.729414312Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "haggai",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I przywołałem posuchę na ziemię, i na góry, i na zboże, i na moszcz, i na oliwę, i na to, co wynosi gleba, i na człowieka, i na bydło, i na cały trud dłoni.",
+  "translation": "I wezwałem suszę na ⟨tę⟩ ziemię, i na te góry, i na zboże, i na młode wino, i na oliwę, i na to, co rodzi gleba, i na człowieka, i na bydło, i na cały trud rąk.",
   "tokens": [
     {
       "surface": "ואקרא",
-      "gloss": "I przywołałem"
+      "gloss": "i wezwałem"
     },
     {
       "surface": "חרב",
-      "gloss": "posuchę"
+      "gloss": "suszę"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "התירוש",
-      "gloss": "moszcz"
+      "gloss": "młode wino"
     },
     {
       "surface": "ועל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "תוציא",
-      "gloss": "wynosi"
+      "gloss": "rodzi"
     },
     {
       "surface": "האדמה",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "כפים",
-      "gloss": "dłoni"
+      "gloss": "rąk"
     }
   ],
-  "timestamp": "2026-08-25T03:43:03.682214032Z",
+  "timestamp": "2026-08-25T06:14:53.100264743Z",
   "model": "glm-5.3"
 }

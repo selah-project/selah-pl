@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Gdy będziesz strzec ⟨את⟩ całego tego przykazania, aby je czynić, które ja nakażuję ci dzisiaj, aby miłować ⟨את⟩ Jahwe, Elohima twego, i chodzić jego drogami wszystkie dni — to dodasz sobie jeszcze trzy miasta ponad te trzy.",
+  "translation": "Jeżeli będziesz strzec ⟨את⟩ całego tego przykazania, by je czynić, które ja nakazuję ci dziś — miłować ⟨את⟩ Jahwe, Elohima twego, i chodzić jego drogami wszystkie dni — to dodasz sobie jeszcze trzy miasta ponad te trzy.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gdy"
+      "gloss": "Jeżeli"
     },
     {
       "surface": "תשמר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לעשתה",
-      "gloss": "aby je czynić"
+      "gloss": "by je czynić"
     },
     {
       "surface": "אשר",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "nakażuję ci"
+      "gloss": "nakazuję ci"
     },
     {
       "surface": "היום",
-      "gloss": "dzisiaj"
+      "gloss": "dziś"
     },
     {
       "surface": "לאהבה",
-      "gloss": "aby miłować"
+      "gloss": "miłować"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahwe, Elohima twego"
+      "marks": "Jahwe"
     },
     {
       "surface": "יהוה",
@@ -115,9 +115,9 @@
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "te"
     }
   ],
-  "timestamp": "2026-08-24T23:10:01.032355217Z",
+  "timestamp": "2026-08-25T05:50:50.890791456Z",
   "model": "glm-5.3"
 }

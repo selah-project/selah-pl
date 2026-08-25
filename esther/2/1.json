@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Po tych rzeczach, gdy ostygł gniew króla Achaszwerosza, wspomnął ⟨את⟩ Waszti oraz ⟨את⟩ to, co uczyniła, i ⟨את⟩ to, co postanowiono przeciwko niej.",
+  "translation": "Po tych rzeczach, gdy ostygł gniew króla Achaszwerosza, wspomniał ⟨את⟩ Waszti, i ⟨את⟩ to, co zrobiła, i ⟨את⟩ to, co było postanowione przeciw niej.",
   "tokens": [
     {
       "surface": "אחר",
@@ -46,39 +46,39 @@
     },
     {
       "surface": "ושתי",
-      "gloss": "oraz Waszti"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
-      "marks": "to, co uczyniła"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "co"
-    },
-    {
-      "surface": "עשתה",
-      "gloss": "uczyniła"
+      "gloss": "Waszti"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "to, co postanowiono"
+      "marks": "to, co zrobiła"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "zrobiła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co było postanowione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
     },
     {
       "surface": "נגזר",
-      "gloss": "postanowiono"
+      "gloss": "było postanowione"
     },
     {
       "surface": "עליה",
-      "gloss": "przeciwko niej"
+      "gloss": "przeciw niej"
     }
   ],
-  "timestamp": "2026-08-25T02:34:01.288375305Z",
+  "timestamp": "2026-08-25T06:21:31.978794203Z",
   "model": "glm-5.3"
 }

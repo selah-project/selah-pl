@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Wróć, proszę, niech sługa twój, i umrę w swoim mieście, przy grobie ojca mego i matki mojej; a oto sługa twój Kimham niech przejdzie z panem moim, królem; i uczyń mu ⟨את⟩ to, co dobre w oczach twoich.",
+  "translation": "Niechże wróci, proszę, twój sługa, a niech umrę w moim mieście, przy grobie mojego ojca i mojej matki; a oto twój sługa Kimham — niech przejdzie z panem moim, królem, i uczyń mu ⟨את⟩ to, co dobre w twoich oczach.",
   "tokens": [
     {
       "surface": "ישב",
-      "gloss": "wróć"
+      "gloss": "Niechże wróci"
     },
     {
       "surface": "נא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sługa twój"
+      "gloss": "twój sługa"
     },
     {
       "surface": "ואמת",
-      "gloss": "i umrę"
+      "gloss": "a niech umrę"
     },
     {
       "surface": "בעירי",
-      "gloss": "w swoim mieście"
+      "gloss": "w moim mieście"
     },
     {
       "surface": "עם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ojca mego"
+      "gloss": "mojego ojca"
     },
     {
       "surface": "ואמי",
-      "gloss": "i matki mojej"
+      "gloss": "i mojej matki"
     },
     {
       "surface": "והנה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sługa twój"
+      "gloss": "twój sługa"
     },
     {
       "surface": "כמהם",
@@ -82,11 +82,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co dobre"
+      "marks": "to, co dobre w twoich oczach"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "טוב",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "w oczach twoich"
+      "gloss": "w twoich oczach"
     }
   ],
-  "timestamp": "2026-08-24T23:51:49.130841979Z",
+  "timestamp": "2026-08-25T05:58:58.063054050Z",
   "model": "glm-5.3"
 }

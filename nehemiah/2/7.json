@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I powiedziałem do króla: jeśli królowi ⟨to⟩ dobre, listy niech dadzą mi namiestnikom Za-Rzeki, ⟨aby⟩ przepuścili mnie, aż przyjdę do Jehudy;",
+  "translation": "I rzekłem do króla: jeśli królowi ⟨to⟩ dobre, niech dadzą mi listy do namiestników za Rzeką, żeby przepuścili mnie, aż przyjdę do Jehudy.",
   "tokens": [
     {
       "surface": "ואומר",
-      "gloss": "i powiedziałem"
+      "gloss": "i rzekłem"
     },
     {
       "surface": "למלך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "król"
+      "gloss": "królowi"
     },
     {
       "surface": "טוב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "dla"
+      "gloss": "do"
     },
     {
       "surface": "פחוות",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "Za-"
+      "gloss": "za"
     },
     {
       "surface": "הנהר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨aby⟩"
+      "gloss": "żeby"
     },
     {
       "surface": "יעבירוני",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨że⟩"
+      "gloss": "⟨aż⟩"
     },
     {
       "surface": "אבוא",
@@ -88,6 +88,6 @@
       "gloss": "Jehudy"
     }
   ],
-  "timestamp": "2026-08-25T02:47:18.250358902Z",
+  "timestamp": "2026-08-25T06:32:53.969415078Z",
   "model": "glm-5.3"
 }

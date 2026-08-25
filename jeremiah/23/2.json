@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Dlatego tak mówi Jahwe, Elohim Jisraela, o pasterzach pasterzujących ⟨את⟩ mój lud: To wy rozproszyliście ⟨את⟩ moją trzodę i odpędziliście ich, a nie odwiedzaliście ⟨את⟩ ⟨אותם⟩ — oto Ja odwiedzę na was ⟨את⟩ zło waszych czynów, wyrocznia Jahwe.",
+  "translation": "Dlatego tak mówi Jahwe, Elohim Jisraela, o pasterzach, pasterzach pasterskich ludu mego: wy rozproszyliście ⟨את⟩ trzodę moją i rozpędziliście ich, a nie obejrzeliście ⟨את⟩ ich — oto Ja zejdę na was ⟨את⟩ złość waszych czynów, wyrocznia Jahwe.",
   "tokens": [
     {
       "surface": "לכן",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "הרעים",
-      "gloss": "pasterzujących"
+      "gloss": "pasterzach"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mój lud"
+      "marks": " ludu mego"
     },
     {
       "surface": "עמי",
-      "gloss": "mój lud"
+      "gloss": "ludu mego"
     },
     {
       "surface": "אתם",
-      "gloss": "To wy"
+      "gloss": "wy"
     },
     {
       "surface": "הפצתם",
@@ -63,15 +63,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moją trzodę"
+      "marks": "trzodę moją"
     },
     {
       "surface": "צאני",
-      "gloss": "moją trzodę"
+      "gloss": "trzodę moją"
     },
     {
       "surface": "ותדחום",
-      "gloss": "i odpędziliście ich"
+      "gloss": "i rozpędziliście ich"
     },
     {
       "surface": "ולא",
@@ -79,11 +79,12 @@
     },
     {
       "surface": "פקדתם",
-      "gloss": "odwiedzaliście"
+      "gloss": "obejrzeliście"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אותם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ich"
     },
     {
       "surface": "הנני",
@@ -91,7 +92,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "odwiedzę"
+      "gloss": "zejdę"
     },
     {
       "surface": "עליכם",
@@ -100,11 +101,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zło"
+      "marks": "złość"
     },
     {
       "surface": "רע",
-      "gloss": "zło"
+      "gloss": "złość"
     },
     {
       "surface": "מעלליכם",
@@ -119,6 +120,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T03:37:16.980917645Z",
+  "timestamp": "2026-08-25T06:08:39.454636729Z",
   "model": "glm-5.3"
 }

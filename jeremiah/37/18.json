@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 37,
-  "translation": "I powiedział Jirmejahu do króla Tsidkijahu: Czym zgrzeszyłem tobie, i twoim sługom, i temu ludowi, że ⟨את⟩ wtrąciliście mnie do domu więzienia?",
+  "translation": "I rzekł Jeremiasz do króla Tsidkijahu: Czym zgrzeszyłem tobie, i twoim sługom, i temu ludowi, że daliście ⟨את⟩ mnie do domu więzienia?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremiasz"
     },
     {
       "surface": "אל",
@@ -40,12 +40,8 @@
       "gloss": "tobie"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "i twoim"
-    },
-    {
       "surface": "ולעבדיך",
-      "gloss": "sługom"
+      "gloss": "i twoim sługom"
     },
     {
       "surface": "ולעם",
@@ -61,12 +57,11 @@
     },
     {
       "surface": "נתתם",
-      "gloss": "⟨את⟩ wtrąciliście"
+      "gloss": "daliście"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mnie",
-      "marks": "mnie"
+      "gloss": "⟨את⟩ mnie"
     },
     {
       "surface": "אל",
@@ -81,6 +76,6 @@
       "gloss": "więzienia"
     }
   ],
-  "timestamp": "2026-08-25T00:59:07.938016350Z",
+  "timestamp": "2026-08-25T06:09:51.266184456Z",
   "model": "glm-5.3"
 }

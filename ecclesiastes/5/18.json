@@ -5,19 +5,19 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Również każdemu człowiekowi, któremu dał Elohim bogactwo i majątek, i dał mu władzę, by jadł z niego, i nosił ⟨את⟩ dział swój, i radował się w trudem swoim — to ⟨jest⟩ dar Elohim.",
+  "translation": "Również każdy człowiek, któremu dał Elohim bogactwo i majątek, i dał mu władzę, by z tego jadł ⟨את⟩ swój dział i radował się swoim trudem — to ⟨jest⟩ dar Elohim.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "również"
+      "gloss": "Również"
     },
     {
       "surface": "כל",
-      "gloss": "każdemu"
+      "gloss": "każdy"
     },
     {
       "surface": "האדם",
-      "gloss": "człowiekowi"
+      "gloss": "człowiek"
     },
     {
       "surface": "אשר",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "z niego"
+      "gloss": "z tego"
     },
     {
       "surface": "ולשאת",
-      "gloss": "i nosił"
+      "gloss": "i unosić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dział swój"
+      "marks": "swój dział"
     },
     {
       "surface": "חלקו",
-      "gloss": "dział swój"
+      "gloss": "swój dział"
     },
     {
       "surface": "ולשמח",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "בעמלו",
-      "gloss": "w trudem swoim"
+      "gloss": "swoim trudem"
     },
     {
       "surface": "זה",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨jest⟩"
+      "gloss": "jest"
     }
   ],
-  "timestamp": "2026-08-25T02:31:38.989798275Z",
+  "timestamp": "2026-08-25T06:20:59.558232159Z",
   "model": "glm-5.3"
 }

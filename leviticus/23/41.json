@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I obchodzić będziecie ⟨את⟩ to święto dla Jahwe przez siedem dni w roku — ustawą wieczną dla waszych pokoleń; w siódmym miesiącu obchodzić będziecie ⟨את⟩ je.",
+  "translation": "I będziecie obchodzić ⟨את⟩ niego jako święto dla Jahwe przez siedem dni w roku — ustawa wieczna dla waszych pokoleń; w siódmym miesiącu będziecie je obchodzić ⟨את⟩ nie.",
   "tokens": [
     {
       "surface": "וחגתם",
-      "gloss": "i obchodzić będziecie"
+      "gloss": "i będziecie obchodzić"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "święto"
+      "gloss": "⟨את⟩ nie",
+      "marks": "nie (חג — święto)"
     },
     {
       "surface": "חג",
-      "gloss": "święto"
+      "gloss": "jako święto"
     },
     {
       "surface": "ליהוה",
@@ -58,14 +58,14 @@
     },
     {
       "surface": "תחגו",
-      "gloss": "obchodzić będziecie"
+      "gloss": "będziecie obchodzić"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "je (święto)"
+      "gloss": "⟨את⟩ nie",
+      "marks": "nie (חג — święto)"
     }
   ],
-  "timestamp": "2026-08-24T22:47:49.703346566Z",
+  "timestamp": "2026-08-25T05:45:56.145737556Z",
   "model": "glm-5.3"
 }

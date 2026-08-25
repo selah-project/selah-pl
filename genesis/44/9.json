@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 44,
-  "translation": "Przy kim z twoich sług zostanie to znalezione, niech umrze, a także my staniemy się niewolnikami mojego pana.",
+  "translation": "U którego z twoich sług ⟨את⟩-go znajdzie — i niech umrze, a także my staniemy się niewolnikami twego pana.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "przy kim"
+      "gloss": "którego"
     },
     {
       "surface": "ימצא",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "to (znalezione)"
+      "gloss": "⟨את⟩-go",
+      "marks": "rzecz znaleziona u sługi (kubek) — tu אִתּוֹ znaczy „przy nim\/z nim”"
     },
     {
       "surface": "מעבדיך",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "i niech umrze"
+      "gloss": "i umrze"
     },
     {
       "surface": "וגם",
@@ -38,17 +38,17 @@
     },
     {
       "surface": "נהיה",
-      "gloss": "staniemy się"
+      "gloss": "stanie się"
     },
     {
       "surface": "לאדני",
-      "gloss": "niewolnikami mojego pana"
+      "gloss": "niewolnikami twego pana"
     },
     {
       "surface": "לעבדים",
-      "gloss": "(niewolnikami)"
+      "gloss": "za niewolników"
     }
   ],
-  "timestamp": "2026-08-24T22:22:59.137207658Z",
+  "timestamp": "2026-08-25T05:39:36.936205303Z",
   "model": "glm-5.3"
 }

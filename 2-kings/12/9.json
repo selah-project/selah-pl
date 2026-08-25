@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I zgodzili się kapłani, by nie brać srebra od ⟨את⟩ ludu i by nie wzmacniać ⟨את⟩ uszkodzeń ⟨the⟩ świątyni.",
+  "translation": "I zgodzili się kapłani, by nie brać srebra od ⟨את⟩ ludu i nie naprawiać ⟨את⟩ pęknięć świątyni.",
   "tokens": [
     {
       "surface": "ויאתו",
-      "gloss": "i zgodzili się"
+      "gloss": "I zgodzili się"
     },
     {
       "surface": "הכהנים",
@@ -29,8 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩",
-      "marks": "ludu"
+      "gloss": "od ⟨את⟩"
     },
     {
       "surface": "העם",
@@ -38,26 +37,26 @@
     },
     {
       "surface": "ולבלתי",
-      "gloss": "i by nie"
+      "gloss": "i nie"
     },
     {
       "surface": "חזק",
-      "gloss": "wzmacniać"
+      "gloss": "naprawiać"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uszkodzeń"
+      "marks": "pęknięć świątyni"
     },
     {
       "surface": "בדק",
-      "gloss": "uszkodzeń"
+      "gloss": "pęknięć"
     },
     {
       "surface": "הבית",
       "gloss": "świątyni"
     }
   ],
-  "timestamp": "2026-08-25T00:12:43.897066551Z",
+  "timestamp": "2026-08-25T06:03:28.356899212Z",
   "model": "glm-5.3"
 }

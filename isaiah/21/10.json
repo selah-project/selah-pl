@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Wyklepana moja i synu mojego klepiska! Co usłyszałem od ⟨את⟩ Jahwe Zastępów, Elohim Jisraela, to oznajmiłem wam.",
+  "translation": "Młócone moje i synu mojego klepiska! To, co usłyszałem od ⟨את⟩ Jahwe Zastępów, Elohima Jisraela, oznajmiłem wam.",
   "tokens": [
     {
       "surface": "מדשתי",
-      "gloss": "wyklepana moja"
+      "gloss": "młócone moje"
     },
     {
       "surface": "ובן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "גרני",
-      "gloss": "klepiska mojego"
+      "gloss": "mojego klepiska"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "שמעתי",
@@ -30,7 +30,7 @@
     {
       "surface": "מאת",
       "gloss": "od ⟨את⟩",
-      "marks": "Jahwe Zastępów, Elohim Jisraela"
+      "marks": "Jahwe Zastępów, Elohima Jisraela"
     },
     {
       "surface": "יהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohima"
     },
     {
       "surface": "ישראל",
@@ -57,6 +57,6 @@
       "gloss": "wam"
     }
   ],
-  "timestamp": "2026-08-25T03:32:33.135432911Z",
+  "timestamp": "2026-08-25T06:30:53.910806051Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekł do nich: To jest to, co mówił Jahwe: szabatoton, szabat święty dla Jahwe, jutro; ⟨את⟩ to, co macie upiec, upieczcie, i ⟨את⟩ to, co macie ugotować, ugotujcie, a ⟨את⟩ całą resztę odłóżcie sobie na przechowanie do rana.",
+  "translation": "I powiedział do nich: To ⟨jest⟩ to, co powiedział Jahwe: szabaton, święty szabat dla Jahwe, jutro; ⟨את⟩ to, co będziecie piec — pieczcie, i ⟨את⟩ to, co będziecie gotować — gotujcie; a ⟨את⟩ wszystko, co pozostanie, odłóżcie sobie na przechowanie do rana.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i powiedział"
     },
     {
       "surface": "אלהם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "mówił"
+      "gloss": "powiedział"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "szabatoton"
+      "gloss": "szabaton"
     },
     {
       "surface": "שבת",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co macie upiec"
+      "marks": "to, co będziecie piec"
     },
     {
       "surface": "אשר",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "תאפו",
-      "gloss": "macie upiec"
+      "gloss": "będziecie piec"
     },
     {
       "surface": "אפו",
-      "gloss": "upieczcie"
+      "gloss": "pieczcie"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "to, co macie ugotować"
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co będziecie gotować"
     },
     {
       "surface": "אשר",
@@ -79,24 +79,24 @@
     },
     {
       "surface": "תבשלו",
-      "gloss": "macie ugotować"
+      "gloss": "będziecie gotować"
     },
     {
       "surface": "בשלו",
-      "gloss": "ugotujcie"
+      "gloss": "gotujcie"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "całą resztę"
+      "gloss": "a ⟨את⟩",
+      "marks": "wszystko, co pozostanie"
     },
     {
       "surface": "כל",
-      "gloss": "całą"
+      "gloss": "wszystko"
     },
     {
       "surface": "העדף",
-      "gloss": "resztę"
+      "gloss": "co pozostaje"
     },
     {
       "surface": "הניחו",
@@ -119,6 +119,6 @@
       "gloss": "rana"
     }
   ],
-  "timestamp": "2026-08-24T22:30:35.610959366Z",
+  "timestamp": "2026-08-25T05:41:32.853787868Z",
   "model": "glm-5.3"
 }

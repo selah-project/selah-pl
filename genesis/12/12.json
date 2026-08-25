@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I będzie, gdy zobaczą ⟨את⟩ ciebie Micryjczycy, i powiedzą: żona jego to; i zabiją ⟨את⟩ mnie, a ⟨את⟩ ciebie zachowają przy życiu.",
+  "translation": "I będzie, gdy ujrzą ⟨את⟩ cię Micrajmowie i powiedzą: żona jego to, i zabiją ⟨את⟩ mnie, a ⟨את⟩ ciebie zachowają przy życiu.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "יראו",
-      "gloss": "zobaczą"
+      "gloss": "ujrzą"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ cię",
-      "marks": "ciebie"
+      "marks": "cię"
     },
     {
       "surface": "המצרים",
-      "gloss": "Micryjczycy"
+      "gloss": "Micrajmowie"
     },
     {
       "surface": "ואמרו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "żona"
+      "gloss": "żona jego"
     },
     {
       "surface": "זאת",
-      "gloss": "ta"
+      "gloss": "to"
     },
     {
       "surface": "והרגו",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mnie",
+      "gloss": "⟨את⟩",
       "marks": "mnie"
     },
     {
       "surface": "ואתך",
-      "gloss": "a ⟨את⟩ ciebie",
+      "gloss": "⟨את⟩",
       "marks": "ciebie"
     },
     {
@@ -59,6 +59,6 @@
       "gloss": "zachowają przy życiu"
     }
   ],
-  "timestamp": "2026-08-24T22:12:13.937046298Z",
+  "timestamp": "2026-08-25T05:36:54.240360609Z",
   "model": "glm-5.3"
 }

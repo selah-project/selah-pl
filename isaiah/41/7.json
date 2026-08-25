@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 41,
-  "translation": "I umacnia rzemieślnik ⟨את⟩ odlewnika, wygładzający młotkiem ⟨את⟩ bijącego kowadło, mówiąc do spajającego: Dobrze! I umocnił go gwoździami, by się nie chwiało.",
+  "translation": "I umacnia rzemieślnik ⟨את⟩ złotnika, wygładza młotkiem ⟨את⟩ bijącego młotem, mówiąc do lutowiącego: Dobrze jest! I umocnił go gwoździami — nie zachwieje się.",
   "tokens": [
     {
       "surface": "ויחזק",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "odlewnika"
+      "marks": "złotnika"
     },
     {
       "surface": "צרף",
-      "gloss": "odlewnika"
+      "gloss": "złotnika"
     },
     {
       "surface": "מחליק",
-      "gloss": "wygładzający"
+      "gloss": "wygładza"
     },
     {
       "surface": "פטיש",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "פעם",
-      "gloss": "ude cza kowadło"
+      "gloss": "młotem"
     },
     {
       "surface": "אמר",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לדבק",
-      "gloss": "do spajającego"
+      "gloss": "do lutowiącego"
     },
     {
       "surface": "טוב",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "jest"
     },
     {
       "surface": "ויחזקהו",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "ימוט",
-      "gloss": "chwiało się"
+      "gloss": "zachwieje się"
     }
   ],
-  "timestamp": "2026-08-25T00:31:45.093154680Z",
+  "timestamp": "2026-08-25T06:05:35.964121029Z",
   "model": "glm-5.3"
 }

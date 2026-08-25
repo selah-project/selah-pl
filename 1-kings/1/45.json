@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I namaścili ⟨את⟩ niego Cadok kapłan i Natan prorok na króla w Gichonie; i wstąpili stamtąd radujący się, i zawrzało ⟨ה⟩ miasto — ⟨to⟩ ⟨jest⟩ głos, który słyszeliście.",
+  "translation": "I namaścili ⟨את⟩ niego Cadok kapłan i Natan prorok na króla w Gichon; i weszli stamtąd radujący się, i zaszumiało miasto — to ⟨jest⟩ głos, który słyszeliście.",
   "tokens": [
     {
       "surface": "וימשחו",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "niego"
+      "gloss": "⟨את⟩ niego",
+      "marks": "go (Salomona)"
     },
     {
       "surface": "צדוק",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "בגחון",
-      "gloss": "w Gichonie"
+      "gloss": "w Gichon"
     },
     {
       "surface": "ויעלו",
-      "gloss": "i wstąpili"
+      "gloss": "i weszli"
     },
     {
       "surface": "משם",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ותהם",
-      "gloss": "i zawrzało"
+      "gloss": "i zaszumiało"
     },
     {
       "surface": "הקריה",
@@ -77,6 +77,6 @@
       "gloss": "słyszeliście"
     }
   ],
-  "timestamp": "2026-08-24T23:55:27.620927819Z",
+  "timestamp": "2026-08-25T05:58:21.971634567Z",
   "model": "glm-5.3"
 }

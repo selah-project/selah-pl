@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Ci to ⟨są⟩ ci, którzy przeszli ⟨את⟩ Jordan w miesiącu pierwszym, a on napełniał ⟨się⟩ na wszystkie swoje brzegi, i przepędzili ⟨את⟩ wszystkich ⟨mieszkańców⟩ dolin ku wschodowi i ku zachodowi.",
+  "translation": "To są oni, którzy przeszli ⟨את⟩ Jordan w miesiącu pierwszym, gdy ⟨on⟩ wypełwał wszystkie swoje brzegi, i rozpędzili ⟨את⟩ wszystkich mieszkańców dolin ku wschodowi i ku zachodowi.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ci"
+      "gloss": "To"
     },
     {
       "surface": "הם",
-      "gloss": "to"
+      "gloss": "są oni"
     },
     {
       "surface": "אשר",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a on"
+      "gloss": "gdy ⟨on⟩"
     },
     {
       "surface": "ממלא",
-      "gloss": "napełniał"
+      "gloss": "wypełwał"
     },
     {
       "surface": "על",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ויבריחו",
-      "gloss": "i przepędzili"
+      "gloss": "i rozpędzili"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkich"
+      "marks": "wszystkich mieszkańców dolin"
     },
     {
       "surface": "כל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "העמקים",
-      "gloss": "dolin"
+      "gloss": "mieszkańców dolin"
     },
     {
       "surface": "למזרח",
@@ -86,6 +86,6 @@
       "gloss": "i ku zachodowi"
     }
   ],
-  "timestamp": "2026-08-25T02:55:05.865901303Z",
+  "timestamp": "2026-08-25T06:25:00.245784758Z",
   "model": "glm-5.3"
 }

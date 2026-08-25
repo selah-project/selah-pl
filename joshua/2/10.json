@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Bo usłyszeliśmy ⟨את⟩ to, co Jahwe wysuszył ⟨את⟩ wody Morza Suf przed wami, gdy wychodziliście z Micraim, i to, co uczyniliście dwóm królom Emorytów, którzy za Jardén — Sichonowi i Ogowi, których obłożyliście klątwą ⟨את⟩ ich.",
+  "translation": "Bo słyszeliśmy ⟨את⟩ to, co wysuszył Jahwe — ⟨את⟩ wody morza Suf przed wami, gdy wychodziliście z Micraim, i to, co uczyniliście dwóm królom Emorytów, którzy są za Jordanem — Sichonowi i Ogowi, których obłożyliście klątwą ⟨את⟩ nich.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "שמענו",
-      "gloss": "usłyszeliśmy"
+      "gloss": "słyszeliśmy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co Jahwe wysuszył"
+      "marks": "to"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "הוביש",
@@ -35,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wody Morza Suf"
+      "marks": "wody"
     },
     {
       "surface": "מי",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ים",
-      "gloss": "Morza"
+      "gloss": "morza"
     },
     {
       "surface": "סוף",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardén"
+      "gloss": "Jordanem"
     },
     {
       "surface": "לסיחן",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich"
+      "gloss": "⟨את⟩ nich"
     }
   ],
-  "timestamp": "2026-08-24T23:18:04.919486835Z",
+  "timestamp": "2026-08-25T05:52:37.417181493Z",
   "model": "glm-5.3"
 }

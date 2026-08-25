@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Bo Cheszbon — miasto Sichona, króla ha-Emorytów, ⟨to⟩; on toczył wojnę z pierwszym królem Moabu i zajął ⟨את⟩ całą jego ziemię z jego ręki, aż do Arnonu.",
+  "translation": "Bo Cheszon ⟨jest⟩ miasto Sichona, króla Emorytów, a on toczył wojnę z pierwszym królem Moabu i wziął ⟨את⟩ całą jego ziemię z jego ręki aż do Arnonu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "חשבון",
-      "gloss": "Cheszbon"
+      "gloss": "Cheszon"
     },
     {
       "surface": "עיר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "ha-Emorytów"
+      "gloss": "Emorytów"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "והוא",
-      "gloss": "on"
+      "gloss": "a on"
     },
     {
       "surface": "נלחם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "i zajął"
+      "gloss": "i wziął"
     },
     {
       "surface": "את",
@@ -85,6 +85,6 @@
       "gloss": "Arnonu"
     }
   ],
-  "timestamp": "2026-08-24T22:57:29.921530655Z",
+  "timestamp": "2026-08-25T05:48:01.128287246Z",
   "model": "glm-5.3"
 }

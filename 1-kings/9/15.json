@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 9,
-  "translation": "A to jest sprawa przymusowego robocizny, którą podniósł król Szelomo, by budować ⟨את⟩ dom Jahwe, i ⟨את⟩ dom swój, i ⟨את⟩ Millo, i ⟨את⟩ mur Jeruszalaim, i ⟨את⟩ Chacor, i ⟨את⟩ Megiddo, i ⟨את⟩ Gezer.",
+  "translation": "A to jest sprawa przymusu, który król Szlomo nałożył, by zbudować ⟨את⟩ dom Jahwe, i ⟨את⟩ dom swój, i ⟨את⟩ Millo, i ⟨את⟩ mur Jeruszalaim, i ⟨את⟩ Chacor, i ⟨את⟩ Megiddo, i ⟨את⟩ Gezer.",
   "tokens": [
     {
       "surface": "וזה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "המס",
-      "gloss": "przymusowej robocizny"
+      "gloss": "przymus"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "który"
     },
     {
       "surface": "העלה",
-      "gloss": "podniósł"
+      "gloss": "nałożył"
     },
     {
       "surface": "המלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Szelomo"
+      "gloss": "Szlomo"
     },
     {
       "surface": "לבנות",
-      "gloss": "by budować"
+      "gloss": "by zbudować"
     },
     {
       "surface": "את",
@@ -111,6 +111,6 @@
       "gloss": "Gezer"
     }
   ],
-  "timestamp": "2026-08-25T00:00:16.236830417Z",
+  "timestamp": "2026-08-25T06:30:07.030964796Z",
   "model": "glm-5.3"
 }

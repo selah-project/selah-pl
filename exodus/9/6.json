@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I uczynił Jahwe ⟨את⟩ słowo to nazajutrz, i padła cała trzoda Micraim, a z trzody synów Israela nie padło ⟨ani⟩ jedno.",
+  "translation": "I uczynił Jahwe ⟨את⟩ rzeczy tej nazajutrz, i wyginęło całe bydło Micraim, a z bydła synów Jisraeel nie padło ⟨ani jedno⟩.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "I uczynił"
+      "gloss": "i uczynił"
     },
     {
       "surface": "יהוה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowo to"
+      "marks": "rzecz tę"
     },
     {
       "surface": "הדבר",
-      "gloss": "słowo"
+      "gloss": "rzecz"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "tę"
     },
     {
       "surface": "ממחרת",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "וימת",
-      "gloss": "i padła"
+      "gloss": "i wyginęło"
     },
     {
       "surface": "כל",
-      "gloss": "cała"
+      "gloss": "całe"
     },
     {
       "surface": "מקנה",
-      "gloss": "trzoda"
+      "gloss": "bydło"
     },
     {
       "surface": "מצרים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "וממקנה",
-      "gloss": "a z trzody"
+      "gloss": "a z bydła"
     },
     {
       "surface": "בני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraeel"
     },
     {
       "surface": "לא",
@@ -73,6 +73,6 @@
       "gloss": "jedno"
     }
   ],
-  "timestamp": "2026-08-24T22:28:05.298942019Z",
+  "timestamp": "2026-08-25T05:40:46.122810858Z",
   "model": "glm-5.3"
 }

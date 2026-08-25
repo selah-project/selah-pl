@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 30,
-  "translation": "Przykazanie to, które ja nakazuję ci dziś, nie jest zbyt cudowne ⟨od ciebie⟩, ani nie jest odległa ⟨ona⟩.",
+  "translation": "To przykazanie, które ja nakazuję ci dziś, nie jest ⟨nadludzko cudowne⟩ dla ciebie i nie jest odległa ⟨ona⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "⟨oto⟩"
+      "gloss": "bowiem"
     },
     {
       "surface": "המצוה",
-      "gloss": "Przykazanie"
+      "gloss": "przykazanie"
     },
     {
       "surface": "הזאת",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "נפלאת",
-      "gloss": "jest zbyt cudowne"
+      "gloss": "⟨nadludzko cudowne⟩"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ono⟩"
+      "gloss": "jest ona"
     },
     {
       "surface": "ממך",
-      "gloss": "⟨od ciebie⟩"
+      "gloss": "dla ciebie"
     },
     {
       "surface": "ולא",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "רחקה",
-      "gloss": "jest odległa"
+      "gloss": "odległa"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ona⟩"
+      "gloss": "ona"
     }
   ],
-  "timestamp": "2026-08-24T23:13:48.909306378Z",
+  "timestamp": "2026-08-25T05:51:21.115753723Z",
   "model": "glm-5.3"
 }

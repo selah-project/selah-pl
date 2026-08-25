@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "Nie zamieni go i nie wymieni ⟨את⟩ — dobre na złe albo złe na dobre; a jeśli na pewno zamieni zwierzę na zwierzę, to ⟨ono⟩ i jego zamiana ⟨będzie⟩ święte.",
+  "translation": "Nie zamieni go ani nie wymieni ⟨את⟩ go, dobrego na złe albo złego na dobre; a jeśli zamieni zwierzę na zwierzę, to ⟨ono⟩ i jego zamiana będą ⟨były⟩ święte.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "i nie"
+      "gloss": "ani nie"
     },
     {
       "surface": "ימיר",
@@ -26,11 +26,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dobre"
+      "marks": "go"
     },
     {
       "surface": "טוב",
-      "gloss": "dobre"
+      "gloss": "dobrego"
     },
     {
       "surface": "ברע",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "רע",
-      "gloss": "złe"
+      "gloss": "złego"
     },
     {
       "surface": "בטוב",
       "gloss": "na dobre"
     },
     {
-      "surface": "ו אם",
+      "surface": "ואם",
       "gloss": "a jeśli"
     },
     {
       "surface": "המר",
-      "gloss": "na pewno zamieni"
+      "gloss": "zamieniając"
     },
     {
       "surface": "ימיר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "to będzie"
+      "gloss": "to"
     },
     {
       "surface": "הוא",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "będzie"
+      "gloss": "będą"
     },
     {
       "surface": "קדש",
       "gloss": "święte"
     }
   ],
-  "timestamp": "2026-08-24T22:49:41.827030705Z",
+  "timestamp": "2026-08-25T05:46:20.552648627Z",
   "model": "glm-5.3"
 }

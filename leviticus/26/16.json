@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 26,
-  "translation": "Także Ja uczynię to wam, i ześlę na was przerażenie — ⟨את⟩ suchotę i ⟨את⟩ gorączkę, niszczące oczy i przygnębiające nefesz; i siać będziecie nadaremnie wasze nasienie, a zjedzą je wasi wrogowie.",
+  "translation": "To także ja zrobię wam, i wyznaczę na was trwogę: ⟨את⟩ wycieńczenie i ⟨את⟩ gorączkę, niszczące oczy i przygniatające nefesz; i posiejecie na próżno wasze nasienie, a zjedzą je wasi wrogowie.",
   "tokens": [
     {
       "surface": "אף",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "אעשה",
-      "gloss": "uczynię"
+      "gloss": "zrobię"
     },
     {
       "surface": "זאת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והפקדתי",
-      "gloss": "i ześlę"
+      "gloss": "i wyznaczę"
     },
     {
       "surface": "עליכם",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "בהלה",
-      "gloss": "przerażenie"
+      "gloss": "trwogę"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suchotę"
+      "marks": "wycieńczenie"
     },
     {
       "surface": "השחפת",
-      "gloss": "suchotę"
+      "gloss": "wycieńczenie"
     },
     {
       "surface": "ואת",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ומדיבת",
-      "gloss": "i przygnębiające"
+      "gloss": "i przygniatające"
     },
     {
       "surface": "נפש",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "וזרעתם",
-      "gloss": "i siać będziecie"
+      "gloss": "i posiejecie"
     },
     {
       "surface": "לריק",
-      "gloss": "nadaremnie"
+      "gloss": "na próżno"
     },
     {
       "surface": "זרעכם",
@@ -94,6 +94,6 @@
       "gloss": "wasi wrogowie"
     }
   ],
-  "timestamp": "2026-08-25T03:20:31.377866216Z",
+  "timestamp": "2026-08-25T05:45:57.537882889Z",
   "model": "glm-5.3"
 }

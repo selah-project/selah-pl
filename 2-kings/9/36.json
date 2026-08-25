@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I wrócili, i donieśli mu, a on rzekł: To jest słowo Jahwe, które wypowiedział przez sługę swego, Elijahu Taszbita, mówiąc: W dziale Jizreel zjedzą psy ⟨את⟩ ciało Izebel.",
+  "translation": "I wrócili, i donieśli mu, a on rzekł: ⟨To⟩ słowo Jahwe ⟨jest⟩, które przemówił przez rękę swego sługi Elijasza Teszbity, mówiąc: Na polu Jizreel zjedzą psy ⟨את⟩ ciało Izebel.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "i wrócili"
+      "gloss": "I wrócili"
     },
     {
       "surface": "ויגידו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "wypowiedział"
+      "gloss": "przemówił"
     },
     {
       "surface": "ביד",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "sługę swego"
+      "gloss": "swego sługi"
     },
     {
       "surface": "אליהו",
-      "gloss": "Elijahu"
+      "gloss": "Eliasza"
     },
     {
       "surface": "התשבי",
-      "gloss": "Taszbita"
+      "gloss": "Teszbity"
     },
     {
       "surface": "לאמר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בחלק",
-      "gloss": "w dziale"
+      "gloss": "Na polu"
     },
     {
       "surface": "יזרעאל",
@@ -93,6 +93,6 @@
       "gloss": "Izebel"
     }
   ],
-  "timestamp": "2026-08-25T00:11:37.528387655Z",
+  "timestamp": "2026-08-25T06:02:31.999891436Z",
   "model": "glm-5.3"
 }

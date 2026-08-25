@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 25,
-  "translation": "Słowo, które było do Jeremijasza o całym ludzie Jehudy, w roku czwartym Jehojakima, syna Joszijahu, króla Jehudy — on ⟨to⟩ rok pierwszy Nebukadneccara, króla Bawel.",
+  "translation": "Słowo, które było do Jeremijahu o całym ludzie Jehudy, w roku czwartym Jehojakima, syna Joszijahu, króla Jehudy — to ⟨jest⟩ rok pierwszy Nebukadnesara, króla Babelu.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "על",
-      "gloss": "do"
+      "gloss": "do\/o"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jeremijasza"
+      "gloss": "Jeremijahu"
     },
     {
       "surface": "על",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "on ⟨to⟩"
+      "gloss": "to"
     },
     {
       "surface": "השנה",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לנבוכדראצר",
-      "gloss": "Nebukadneccara"
+      "gloss": "Nebukadnesara"
     },
     {
       "surface": "מלך",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bawel"
+      "gloss": "Babelu"
     }
   ],
-  "timestamp": "2026-08-25T00:52:13.380833068Z",
+  "timestamp": "2026-08-25T06:31:30.842901254Z",
   "model": "glm-5.3"
 }

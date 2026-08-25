@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Ludzie krwi nienawidzą ⟨את⟩ niewinnego, a prości szukają jego życia.",
+  "translation": "Ludzie krwi nienawidzą niewinnego, a prości szukają jego nefesz.",
   "tokens": [
     {
       "surface": "אנשי",
@@ -20,10 +20,22 @@
       "gloss": "nienawidzą"
     },
     {
-      "surface": "",
-      "gloss": ""
+      "surface": "תם",
+      "gloss": "niewinnego"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "a prości"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "szukają"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jego nefesz"
     }
   ],
-  "timestamp": "2026-08-25T03:47:54.278650485Z",
+  "timestamp": "2026-08-25T06:17:51.262461128Z",
   "model": "glm-5.3"
 }

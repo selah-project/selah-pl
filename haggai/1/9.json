@@ -5,8 +5,101 @@
   "book": "haggai",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Wyczekiwaliście wiele, a oto ⟨jest⟩ tego mało; i przynieśliście to do domu, a Ja na to dmuchałem. Dlaczego? — wyrocznia Jahwe Цваot…",
-  "tokens": [],
-  "timestamp": "2026-08-25T01:39:52.699217651Z",
+  "translation": "Oczekiwaliście wiele, a oto ⟨było⟩ mało; i przynieśliście ⟨את⟩ ⟨to⟩ do domu, a Ja na to dmuchałem — dlaczego? — wyrocznia Jahwe Cełwaot: dlatego, że mój dom leży w gruzach, a wy każdy biegnie do swojego domu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Oczekiwaliście (spojrzeliście)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wiele"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "mało"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "i przynieśliście"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "a Ja dmuchałem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na to"
+    },
+    {
+      "surface": "יען",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cełwaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "dlatego, że"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mój dom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "leży w gruzach"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a wy"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "biegniecie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swojego domu"
+    }
+  ],
+  "timestamp": "2026-08-25T06:15:01.521267088Z",
   "model": "glm-5.3"
 }

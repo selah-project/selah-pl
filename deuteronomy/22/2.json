@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A jeśli nie ⟨jest⟩ blisko twój brat przy tobie i nie znasz go, zgromadzisz ⟨את⟩ tego do wnętrza twego domu, i ⟨będzie⟩ z tobą, aż poszuka twój brat ⟨את⟩ tego, i oddasz mu to.",
+  "translation": "A jeśli nie ⟨jest⟩ blisko twój brat przy tobie i nie znasz go, to zabierzesz go do wnętrza twojego domu, i ⟨będzie⟩ z tobą, aż twój brat poszuka ⟨את⟩ niego, i zwrócisz mu go.",
   "tokens": [
     {
       "surface": "ואם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואספתו",
-      "gloss": "zgromadzisz go"
+      "gloss": "zabierzesz go"
     },
     {
       "surface": "אל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ביתך",
-      "gloss": "twego domu"
+      "gloss": "twojego domu"
     },
     {
       "surface": "והיה",
@@ -73,18 +73,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ tego",
-      "marks": "go (zwierzę)"
+      "gloss": "⟨את⟩",
+      "marks": "jego (zwierzę brata)"
     },
     {
       "surface": "והשבתו",
-      "gloss": "i oddasz go"
+      "gloss": "zwrócisz go"
     },
     {
       "surface": "לו",
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-08-24T23:11:10.376121046Z",
+  "timestamp": "2026-08-25T05:50:30.935073611Z",
   "model": "glm-5.3"
 }

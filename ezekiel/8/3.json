@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I wyciągnął postać ręki, i chwycił mnie za kosmyk mojej głowy, i uniósł mnie duch między ziemią a między niebiami, i wprowadził mnie do Jeruszalaim w widzeniach Elohim, do wejścia bramy wewnętrznej zwróconej ku północy, gdzie <stoi> siedzisko posągu zazdrości, tego co przyprawia o zazdrość.",
+  "translation": "I wyciągnął podobieństwo ręki, i wziął mnie za kosmyk głowy mojej; i uniosła ⟨את⟩ mnie ruach między ziemią a między niebami, i wprowadziła ⟨את⟩ mnie do Jeruszalaim w widzeniach Elohim, do wejścia bramy wewnętrznej, zwróconej ku północy, gdzie tam ⟨jest⟩ siedzenie posągu zazdrości, wywołującej zazdrość.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "I wyciągnął"
+      "gloss": "i wyciągnął"
     },
     {
       "surface": "תבנית",
-      "gloss": "postać"
+      "gloss": "podobieństwo"
     },
     {
       "surface": "יד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויקחני",
-      "gloss": "i chwycił mnie"
+      "gloss": "i wziął mnie"
     },
     {
       "surface": "בציצת",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "mojej głowy"
+      "gloss": "głowy mojej"
     },
     {
       "surface": "ותשא",
-      "gloss": "i uniósł"
+      "gloss": "i uniosła"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "mnie"
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie — unoszone przez ruach"
     },
     {
       "surface": "רוח",
-      "gloss": "duch"
+      "gloss": "ruach"
     },
     {
       "surface": "בין",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "i wprowadził"
+      "gloss": "i wprowadziła"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "mnie"
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie — do Jeruszalaim"
     },
     {
       "surface": "ירושלמה",
@@ -115,7 +115,7 @@
     },
     {
       "surface": "מושב",
-      "gloss": "siedzisko"
+      "gloss": "siedzenie"
     },
     {
       "surface": "סמל",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "המקנה",
-      "gloss": "tego co przyprawia o zazdrość"
+      "gloss": "wywołującej zazdrość"
     }
   ],
-  "timestamp": "2026-08-25T01:09:58.450200396Z",
+  "timestamp": "2026-08-25T06:11:23.789947970Z",
   "model": "glm-5.3"
 }

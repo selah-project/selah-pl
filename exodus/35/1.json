@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 35,
-  "translation": "I zgromadził Mosze ⟨את⟩ całą społeczność synów Jisraela, i powiedział do nich: To ⟨są⟩ słowa, które Jahwe nakazał wykonać ⟨את⟩ ⟨אתם⟩.",
+  "translation": "I zgromadził Mosze ⟨את⟩ cały zgromadzenie synów Jisraela, i powiedział do nich: te ⟨są⟩ słowa, które Jahwe nakazał wykonać ⟨את⟩ je.",
   "tokens": [
     {
       "surface": "ויקהל",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "całą społeczność synów Jisraela"
+      "marks": "cały zgromadzenie synów Jisraela"
     },
     {
       "surface": "כל",
-      "gloss": "całą"
+      "gloss": "cały"
     },
     {
       "surface": "עדת",
-      "gloss": "społeczność"
+      "gloss": "zgromadzenie"
     },
     {
       "surface": "בני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "to"
+      "gloss": "te"
     },
     {
       "surface": "הדברים",
@@ -70,10 +70,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "słowa"
+      "gloss": "⟨את⟩ je"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.482179777Z",
+  "timestamp": "2026-08-25T05:42:35.577830328Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 19,
-  "translation": "To ⟨jest⟩ Torah: człowiek, gdy umrze w namiocie — każdy wchodzący do namiotu i wszystko, co w namiocie ⟨jest⟩, będzie nieczyste siedem dni.",
+  "translation": "To jest ⟨ה⟩tora ⟨ה⟩człowieka, gdy umrze w namiocie: każdy, kto wejdzie do namiotu, i wszystko, co ⟨jest⟩ w namiocie, będzie nieczyste przez siedem dni.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Torah"
+      "gloss": "jest ⟨ה⟩tora"
     },
     {
       "surface": "אדם",
-      "gloss": "człowiek"
+      "gloss": "⟨ה⟩człowieka"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הבא",
-      "gloss": "wchodzący"
+      "gloss": "któ wchodzi"
     },
     {
       "surface": "אל",
@@ -72,6 +72,6 @@
       "gloss": "dni"
     }
   ],
-  "timestamp": "2026-08-24T22:57:50.519325409Z",
+  "timestamp": "2026-08-25T05:47:19.338886659Z",
   "model": "glm-5.3"
 }

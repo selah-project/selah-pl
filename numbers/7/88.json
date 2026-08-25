@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I wszystkiego bydła ofiary pokoju: dwadzieścia i cztery młode woły, baranów sześćdziesiąt, kozłów sześćdziesiąt, jagniąt rocznych sześćdziesiąt; to ⟨jest⟩ poświęcenie ołtarza po namaszczeniu ⟨את⟩ niego.",
+  "translation": "A całego bydła ofiary pokoju (szelamim) — dwadzieścia cztery woły, barany sześćdziesiąt, kozły sześćdziesiąt, jagnięta roczne sześćdziesiąt. To ⟨jest⟩ poświęcenie ołtarza po jego namaszczeniu ⟨את⟩.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "i wszystkiego"
+      "gloss": "a całego"
     },
     {
       "surface": "בקר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "pokoju"
+      "gloss": "pokoju (szelamim)"
     },
     {
       "surface": "עשרים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "וארבעה",
-      "gloss": "i cztery"
+      "gloss": "cztery"
     },
     {
       "surface": "פרים",
-      "gloss": "młode woły"
+      "gloss": "woły"
     },
     {
       "surface": "אילם",
-      "gloss": "baranów"
+      "gloss": "barany"
     },
     {
       "surface": "ששים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עתדים",
-      "gloss": "kozłów"
+      "gloss": "kozły"
     },
     {
       "surface": "ששים",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "jagniąt"
+      "gloss": "jagnięta"
     },
     {
       "surface": "בני",
-      "gloss": "synów"
+      "gloss": "roczne"
     },
     {
       "surface": "שנה",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "המשח",
-      "gloss": "namaśczeniu"
+      "gloss": "namaszczeniu"
     },
     {
       "surface": "אתו",
@@ -93,6 +93,6 @@
       "marks": "go (ołtarza)"
     }
   ],
-  "timestamp": "2026-08-24T22:53:19.012068724Z",
+  "timestamp": "2026-08-25T05:47:42.874149786Z",
   "model": "glm-5.3"
 }

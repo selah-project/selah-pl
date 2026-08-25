@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I stało się, gdy ⟨on⟩ oddawał pokłon w świątyni Nisrok, jego boga, to Adrammelech i Szar'ezer zabili go mieczem, a oni uciekli do ziemi Ararat; i został królem Esar-Chaddon, jego syn, na jego miejscu.",
+  "translation": "I stało się, gdy ⟨on⟩ oddawał pokłon w świątyni Nisrok, boga swego, to Adramelek i Szar-ecer zabili go mieczem, a oni uciekli do ziemi Ararat; i królował Esar-Chaddon, syn jego, zamiast niego.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨on⟩ oddając pokłon"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "משתחוה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "jego boga"
+      "gloss": "boga swego"
     },
     {
       "surface": "ואדרמלך",
-      "gloss": "i Adrammelech"
+      "gloss": "i Adramelek"
     },
     {
       "surface": "ושראצר",
-      "gloss": "i Szar'ezer"
+      "gloss": "i Szar-ecer"
     },
     {
       "surface": "הכהו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "i został królem"
+      "gloss": "i królował"
     },
     {
       "surface": "אסר",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "בנו",
-      "gloss": "jego syn"
+      "gloss": "syn jego"
     },
     {
       "surface": "תחתיו",
-      "gloss": "na jego miejscu"
+      "gloss": "zamiast niego"
     }
   ],
-  "timestamp": "2026-08-25T00:15:29.910255791Z",
+  "timestamp": "2026-08-25T06:03:01.238444900Z",
   "model": "glm-5.3"
 }

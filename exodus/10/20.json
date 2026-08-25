@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 10,
-  "translation": "A Jahwe wzmocnił ⟨את⟩ serce Faraona, i nie ⟨את⟩ wysłał ⟨את⟩ synów Jisraela.",
+  "translation": "I utwierdził Jahwe ⟨את⟩ serce Paroha, i nie wypuścił synów Jisraela.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "a wzmocnił"
+      "gloss": "i utwierdził"
     },
     {
       "surface": "יהוה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serce Faraona"
+      "marks": "serce"
     },
     {
       "surface": "לב",
@@ -26,11 +26,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faraona"
-    },
-    {
-      "surface": "ויחזק",
-      "gloss": ""
+      "gloss": "Paroha"
     },
     {
       "surface": "ולא",
@@ -38,12 +34,12 @@
     },
     {
       "surface": "שלח",
-      "gloss": "⟨את⟩ wysłał"
+      "gloss": "wypuścił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synów Jisraela"
+      "marks": "synów"
     },
     {
       "surface": "בני",
@@ -54,6 +50,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-24T22:28:45.561947141Z",
+  "timestamp": "2026-08-25T05:41:07.434503502Z",
   "model": "glm-5.3"
 }

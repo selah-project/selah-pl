@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I posłał ten, który nad ⟨the⟩ domem, i ten, który nad ⟨the⟩ miastem, i starsi, i wychowawcy dzieci do Jehu, mówiąc: Twoimi sługami ⟨jesteśmy⟩ my, i wszystko, co powiesz do nas, uczynimy; nie ustanowimy królem żadnego męża — co dobre w twoich oczach, czyń.",
+  "translation": "I wysłał ten, który nad domem, i ten, który nad miastem, i starsi, i wychowawcy, do Jehu, mówiąc: Twoimi sługami jesteśmy my, i wszystko, co powiesz do nas, uczynimy; nie uczynimy królem żadnego męża; co dobre w twoich oczach, czyń.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "i posłał"
+      "gloss": "i wysłał"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "my"
+      "gloss": "jesteśmy my"
     },
     {
       "surface": "וכל",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "נמליך",
-      "gloss": "ustanowimy królem"
+      "gloss": "uczynimy królem"
     },
     {
       "surface": "איש",
@@ -108,6 +108,6 @@
       "gloss": "czyń"
     }
   ],
-  "timestamp": "2026-08-25T03:31:00.575717929Z",
+  "timestamp": "2026-08-25T06:03:31.635251Z",
   "model": "glm-5.3"
 }

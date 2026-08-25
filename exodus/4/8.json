@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I stanie się, jeśli nie uwierzą ci i nie usłuchają głosu pierwszego znaku, to uwierzą głosowi ostatniego znaku.",
+  "translation": "I stanie się, jeśli nie uwierzą tobie i nie usłuchają głosu pierwszego znaku, to uwierzą głosowi znaku ostatniego.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     },
     {
       "surface": "ולא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לקל",
-      "gloss": "głosowi"
+      "gloss": "głosu"
     },
     {
       "surface": "האת",
@@ -64,6 +64,6 @@
       "gloss": "ostatniego"
     }
   ],
-  "timestamp": "2026-08-25T03:17:38.354515569Z",
+  "timestamp": "2026-08-25T06:32:13.897645522Z",
   "model": "glm-5.3"
 }

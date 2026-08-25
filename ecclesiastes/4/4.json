@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I widziałem ja ⟨את⟩ cały trud i ⟨את⟩ każdą biegłość w dziele, że ⟨to⟩ zazdrość człowieka względem jego bliźniego; także to to marność i pastwienie się ducha.",
+  "translation": "I widziałem ja ⟨את⟩ wszelki trud i ⟨את⟩ wszelką biegłość w dziele, że to zazdrość człowieka wobec bliźniego jego; także to to marność i pastwienie się ducha.",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "i widziałem"
+      "gloss": "I widziałem"
     },
     {
       "surface": "אני",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cały trud"
+      "marks": "wszelki trud"
     },
     {
       "surface": "כל",
-      "gloss": "cały"
+      "gloss": "wszelki"
     },
     {
       "surface": "עמל",
@@ -31,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "każdą biegłość"
+      "marks": "wszelką biegłość w dziele"
     },
     {
       "surface": "כל",
-      "gloss": "każdą"
+      "gloss": "wszelką"
     },
     {
       "surface": "כשרון",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "מרעהו",
-      "gloss": "względem jego bliźniego"
+      "gloss": "wobec bliźniego jego"
     },
     {
       "surface": "גם",
@@ -86,6 +86,6 @@
       "gloss": "ducha"
     }
   ],
-  "timestamp": "2026-08-25T02:31:23.872884457Z",
+  "timestamp": "2026-08-25T06:20:24.906149495Z",
   "model": "glm-5.3"
 }

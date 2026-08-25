@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I wołali do Jahwe, i uczynił ciemność między wami a Micrajim, i przywiódł na nich ⟨את⟩ morze, i okryło ich; i widziały wasze oczy ⟨את⟩ to, co uczyniłem w Micrajim, i mieszkaliście na pustyni dni wiele.",
+  "translation": "I wołali do Jahwe, a On umieścił ciemność między wami a ⟨tymi⟩ Egipcjanami, i przyprowadził na nich ⟨את⟩ morze, i okryło ich; i widziały wasze oczy ⟨את⟩ to, co uczyniłem w Micrajim; i mieszkaliście na pustyni dni wiele.",
   "tokens": [
     {
       "surface": "ויצעקו",
-      "gloss": "i wołali"
+      "gloss": "I wołali"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "i uczynił"
+      "gloss": "a umieścił"
     },
     {
       "surface": "מאפל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "המצרים",
-      "gloss": "Micrajim"
+      "gloss": "Egipcjanami"
     },
     {
       "surface": "ויבא",
-      "gloss": "i przywiódł"
+      "gloss": "i przyprowadził"
     },
     {
       "surface": "עליו",
@@ -71,11 +71,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co uczyniłem"
+      "marks": "to, co uczyniłem w Micrajim"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "עשיתי",
@@ -102,6 +102,6 @@
       "gloss": "wiele"
     }
   ],
-  "timestamp": "2026-08-24T23:24:32.460183530Z",
+  "timestamp": "2026-08-25T05:53:53.000965308Z",
   "model": "glm-5.3"
 }

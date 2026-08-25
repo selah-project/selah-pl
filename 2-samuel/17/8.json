@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I rzekł Chuszaj: Ty znasz ⟨את⟩ swego ojca i ⟨את⟩ jego ludzi, że są mocarzami i są gorzkiego ducha, jak niedźwiedzica pozbawiona młodych na polu; a twój ojciec to mąż wojenny, i nie zostanie na noc ⟨את⟩ ludem.",
+  "translation": "I rzekł Chuszaj: Ty znasz ⟨את⟩ swojego ojca i ⟨את⟩ jego ludzi, że ⟨są⟩ mocarzami i gorzkiego ducha, jak niedźwiedzica pozbawiona młodych na polu; a twój ojciec to mężny wojownik i nie ⟨את⟩ zanocuje ⟨את⟩ ludem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "חושי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "Ty"
     },
     {
       "surface": "ידעת",
@@ -26,15 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego ojca"
+      "marks": "swojego ojca"
     },
     {
       "surface": "אביך",
-      "gloss": "swego ojca"
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "וידעת את ואת",
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "jego ludzi"
     },
     {
@@ -51,7 +55,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "są"
+      "gloss": "oni"
     },
     {
       "surface": "ומרי",
@@ -63,7 +67,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "są"
+      "gloss": "oni"
     },
     {
       "surface": "כדב",
@@ -83,11 +87,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "mąż"
+      "gloss": "mężny"
     },
     {
       "surface": "מלחמה",
-      "gloss": "wojenny"
+      "gloss": "wojownik"
     },
     {
       "surface": "ולא",
@@ -95,7 +99,7 @@
     },
     {
       "surface": "ילין",
-      "gloss": "zostanie na noc"
+      "gloss": "⟨את⟩ zanocuje"
     },
     {
       "surface": "את",
@@ -107,6 +111,6 @@
       "gloss": "ludem"
     }
   ],
-  "timestamp": "2026-08-24T23:50:48.635329172Z",
+  "timestamp": "2026-08-25T07:01:37.092651435Z",
   "model": "glm-5.3"
 }

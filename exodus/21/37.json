@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Jeżeli mężczyzna ukradnie wołu albo owcę i ją zatrzaści albo ją sprzeda, pięć wołów zapłaci za ⟨את⟩ wół-codzienna ⟨the⟩ i cztery owce za ⟨the⟩ owcę.",
+  "translation": "Jeżeli mężczyzna ukradnie wołu albo owcę, i ją zarżnie albo sprzeda, zapłaci pięć wołów ⟨za⟩ wół i cztery owce ⟨za⟩ owcę.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jeżeli"
+      "gloss": "jeżeli"
     },
     {
       "surface": "יגנב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שור",
-      "gloss": "wół"
+      "gloss": "wołu"
     },
     {
       "surface": "או",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וטבחו",
-      "gloss": "i ją zatrzaści"
+      "gloss": "i ją zarżnie"
     },
     {
       "surface": "או",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מכרו",
-      "gloss": "ją sprzeda"
+      "gloss": "sprzeda"
     },
     {
       "surface": "חמשה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "za"
+      "gloss": "⟨za⟩ (w zamian za)"
     },
     {
       "surface": "השור",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "תחת",
-      "gloss": "za"
+      "gloss": "⟨za⟩ (w zamian za)"
     },
     {
       "surface": "השה",
       "gloss": "owcę"
     }
   ],
-  "timestamp": "2026-08-24T22:31:46.860048099Z",
+  "timestamp": "2026-08-25T07:03:28.705616838Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I będzie, jeśli usłyszysz ⟨את⟩ wszystko, co ci nakażę, i pójdziesz moimi drogami, i uczynisz to, co proste w moich oczach, strzegąc moich ustaw i moich przykazań, jak czynił Dawid, mój sługa, to będę z tobą i zbuduję tobie dom wierny, jak zbudowałem Dawidowi, i dam tobie ⟨את⟩ Jisraela.",
+  "translation": "I będzie, jeśli będziesz słuchał ⟨את⟩ wszystkiego, co ci rozkażę, i będziesz chodził moimi drogami, i uczynisz to, co prawe w moich oczach, zachowując moje ustawy i moje przykazania, jak uczynił Dawid, mój sługa — to ja będę z tobą i zbuduję tobie trwały dom, jak zbudowałem Dawidowi, i dam tobie ⟨את⟩ Izraela.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "usłyszysz"
+      "gloss": "będziesz słuchał"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystko"
+      "marks": "wszystkiego"
     },
     {
       "surface": "כל",
-      "gloss": "wszystko"
+      "gloss": "wszystkiego"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "אצוך",
-      "gloss": "ci nakażę"
+      "gloss": "ci rozkażę"
     },
     {
       "surface": "והלכת",
-      "gloss": "i pójdziesz"
+      "gloss": "i będziesz chodził"
     },
     {
       "surface": "בדרכי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הישר",
-      "gloss": "to, co proste"
+      "gloss": "to, co prawe"
     },
     {
       "surface": "בעיני",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "לשמור",
-      "gloss": "strzegąc"
+      "gloss": "zachowując"
     },
     {
       "surface": "חקותי",
-      "gloss": "moich ustaw"
+      "gloss": "moje ustawy"
     },
     {
       "surface": "ומצותי",
-      "gloss": "i moich przykazań"
+      "gloss": "i moje przykazania"
     },
     {
       "surface": "כאשר",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "czynił"
+      "gloss": "uczynił"
     },
     {
       "surface": "דוד",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "והייתי",
-      "gloss": "to będę"
+      "gloss": "to ja będę"
     },
     {
       "surface": "עמך",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "נאמן",
-      "gloss": "wierny"
+      "gloss": "trwały"
     },
     {
       "surface": "כאשר",
@@ -131,13 +131,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraela"
+      "marks": "Izraela"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Izraela"
     }
   ],
-  "timestamp": "2026-08-25T03:29:48.803437731Z",
+  "timestamp": "2026-08-25T05:59:28.911607980Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 34,
-  "translation": "I przykazał Mosze ⟨את⟩ synom Iszraela, mówiąc: to ⟨jest⟩ ziemia, którą odziedziczycie przez los, którą przykazał Jahwe dać dziewięciu pokoleniom i połowie pokolenia.",
+  "translation": "I przykazał Mosze ⟨את⟩ synów Jisraela, mówiąc: to ⟨jest⟩ ziemia, którą odziedziczycie ⟨את⟩ ją w losie, którą przykazał Jahwe dać dziewięciu plemionom i połowie plemienia.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synom Iszraela"
+      "marks": "synów Jisraela"
     },
     {
       "surface": "בני",
-      "gloss": "synom"
+      "gloss": "synów"
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "לאמר",
@@ -50,12 +50,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "przez los"
+      "gloss": "⟨את⟩ ją"
     },
     {
       "surface": "בגורל",
-      "gloss": "przez los"
+      "gloss": "w losie"
     },
     {
       "surface": "אשר",
@@ -79,7 +78,7 @@
     },
     {
       "surface": "המטות",
-      "gloss": "pokoleniom"
+      "gloss": "plemionom"
     },
     {
       "surface": "וחצי",
@@ -87,9 +86,9 @@
     },
     {
       "surface": "המטה",
-      "gloss": "pokolenia"
+      "gloss": "plemienia"
     }
   ],
-  "timestamp": "2026-08-24T23:02:38.161772662Z",
+  "timestamp": "2026-08-25T05:49:16.052052359Z",
   "model": "glm-5.3"
 }

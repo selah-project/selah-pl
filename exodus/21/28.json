@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A jeśli wół zabodzie ⟨את⟩ mężczyznę albo ⟨את⟩ kobietę i ⟨on⟩ umrze — ukamienowany będzie ukamienowany ⟨the⟩ wół i nie będzie jedzone ⟨את⟩ jego mięso, a właściciel wołu będzie niewinny.",
+  "translation": "A gdy wół zabodzie ⟨את⟩ mężczyznę lub ⟨את⟩ kobietę i ⟨ten⟩ umrze, kamieniami ⟨będzie⟩ ukamienowany wół i nie będzie się jadło ⟨את⟩ jego ciała, a właściciel wołu będzie niewinny.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "a jeśli"
+      "gloss": "a gdy"
     },
     {
       "surface": "יגח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "את",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "סקול",
-      "gloss": "ukamienowany"
+      "gloss": "kamieniami"
     },
     {
       "surface": "יסקל",
@@ -63,16 +63,16 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "będzie jedzone"
+      "gloss": "będzie się jadło"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jego mięso"
+      "marks": "jego ciała"
     },
     {
       "surface": "בשרו",
-      "gloss": "jego mięso"
+      "gloss": "jego ciała"
     },
     {
       "surface": "ובעל",
@@ -87,6 +87,6 @@
       "gloss": "niewinny"
     }
   ],
-  "timestamp": "2026-08-24T22:32:21.071004194Z",
+  "timestamp": "2026-08-25T05:42:09.727231601Z",
   "model": "glm-5.3"
 }

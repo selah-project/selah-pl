@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 30,
-  "translation": "A jeśli w dniu usłyszenia mąż jej ją unieważni — powstrzyma ją i unieważni ⟨את⟩ ślub jej, który jest na niej, oraz ⟨את⟩ pochopny wyraz jej warg, którym związała ⟨sobie⟩ na swojej nefesz — to Jahwe jej odpuści.",
+  "translation": "A jeżeli w dniu usłyszenia zabroni jej jej mąż, to unieważni ⟨את⟩ jej ślub, który ⟨jest⟩ na niej, i ⟨את⟩ pochopne wyznanie jej warg, którym związała na swojej nefesz — a Jahwe jej przebaczy.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "A jeżeli"
     },
     {
       "surface": "ביום",
@@ -21,29 +21,29 @@
     },
     {
       "surface": "אישה",
-      "gloss": "mąż jej"
+      "gloss": "jej mąż"
     },
     {
       "surface": "יניא",
-      "gloss": "powstrzyma"
+      "gloss": "zabroni"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "ją (mąż powstrzymuje ją)"
+      "gloss": "⟨את⟩ ją",
+      "marks": "unieważni — zanimunowania"
     },
     {
       "surface": "והפר",
-      "gloss": "i unieważni"
+      "gloss": "to unieważni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ślub jej"
+      "marks": "jej ślub"
     },
     {
       "surface": "נדרה",
-      "gloss": "ślub jej"
+      "gloss": "jej ślub"
     },
     {
       "surface": "אשר",
@@ -55,12 +55,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
-      "marks": "pochopny wyraz jej warg"
+      "gloss": "i ⟨את⟩",
+      "marks": "pochopne wyznanie"
     },
     {
       "surface": "מבטא",
-      "gloss": "pochopny wyraz"
+      "gloss": "pochopne wyznanie"
     },
     {
       "surface": "שפתיה",
@@ -84,17 +84,17 @@
     },
     {
       "surface": "ויהוה",
-      "gloss": "to Jahwe"
+      "gloss": "a Jahwe"
     },
     {
       "surface": "יסלח",
-      "gloss": "odpuści"
+      "gloss": "przebaczy"
     },
     {
       "surface": "לה",
       "gloss": "jej"
     }
   ],
-  "timestamp": "2026-08-24T23:01:15.256997426Z",
+  "timestamp": "2026-08-25T05:49:29.068449049Z",
   "model": "glm-5.3"
 }

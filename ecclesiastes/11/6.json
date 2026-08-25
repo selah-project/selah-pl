@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Rano siej ⟨את⟩ swoje ziarno, a wieczorem nie odpuszczaj swojej ręki, bo nie wiesz, czy to, czy tamto ⟨się⟩ powiedzie, albo czy oba jako jedno będą dobre.",
+  "translation": "Rano siej ⟨את⟩ swoje nasienie, a wieczorem nie odpuszczaj swojej ręki, bo ty nie wiesz, czy to, czy tamto się powiedzie — albo czy oba razem będą dobre.",
   "tokens": [
     {
       "surface": "בבקר",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziarno swoje"
+      "marks": "swoje nasienie"
     },
     {
       "surface": "זרעך",
-      "gloss": "ziarno swoje"
+      "gloss": "swoje nasienie"
     },
     {
       "surface": "ולערב",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "כאחד",
-      "gloss": "jako jedno"
+      "gloss": "razem"
     },
     {
       "surface": "טובים",
       "gloss": "będą dobre"
     }
   ],
-  "timestamp": "2026-08-25T02:33:02.441446384Z",
+  "timestamp": "2026-08-25T06:21:20.446288336Z",
   "model": "glm-5.3"
 }

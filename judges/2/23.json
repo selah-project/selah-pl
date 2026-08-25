@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I zostawił Jahwe ⟨את⟩ te narody, tak by nie wypędzać ich prędko, i nie wydał ich w rękę Jehoszui.",
+  "translation": "I zostawił Jahwe ⟨את⟩ te narody, nie wygniatając ich szybko, i nie wydał ich w rękę Jehoszui.",
   "tokens": [
     {
       "surface": "וינח",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "narody"
+      "gloss": "te narody"
     },
     {
       "surface": "האלה",
@@ -30,19 +30,15 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "tak by nie"
+      "gloss": "nie"
     },
     {
       "surface": "הורישם",
-      "gloss": "wypędzać ich"
+      "gloss": "wygniatając ich"
     },
     {
       "surface": "מהר",
-      "gloss": "prędko"
-    },
-    {
-      "surface": "ויקרא",
-      "gloss": ""
+      "gloss": "szybko"
     },
     {
       "surface": "ולא",
@@ -61,6 +57,6 @@
       "gloss": "Jehoszui"
     }
   ],
-  "timestamp": "2026-08-24T23:23:40.273841614Z",
+  "timestamp": "2026-08-25T05:53:41.920754170Z",
   "model": "glm-5.3"
 }

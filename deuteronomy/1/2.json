@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Jedenaste ⟨dní⟩ — ⟨to droga⟩ z Chorewu drogą góry Seir aż do Kadesz-Barnea.",
+  "translation": "Jedenaście dni drogi ⟨jest⟩ od Chorewu, drogą góry Seir, aż do Kadesz Barnea.",
   "tokens": [
     {
       "surface": "אחד",
-      "gloss": "Jedenaste"
+      "gloss": "Jedenaście (jeden)"
     },
     {
       "surface": "עשר",
-      "gloss": "—"
+      "gloss": "(na)dzieście"
     },
     {
       "surface": "יום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מחרב",
-      "gloss": "z Chorewu"
+      "gloss": "od Chorewu"
     },
     {
       "surface": "דרך",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "Kadesz-"
+      "gloss": "Kadesz"
     },
     {
       "surface": "ברנע",
       "gloss": "Barnea"
     }
   ],
-  "timestamp": "2026-08-24T23:04:25.708547097Z",
+  "timestamp": "2026-08-25T05:49:15.190932563Z",
   "model": "glm-5.3"
 }

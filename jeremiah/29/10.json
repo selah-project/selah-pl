@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Bo tak powiedział Jahwe: Gdy się dopełni dla Babilonu siedemdziesiąt lat, nawiedzę was i wzbudzę nad wami ⟨את⟩ moje słowo dobre, żeby was sprowadzić z powrotem na to miejsce.",
+  "translation": "Bo tak mówi Jahwe: Gdy się dopełni dla Babelu siedemdziesiąt lat, nawiedzę was ⟨את⟩ i wzbudzę nad wami ⟨את⟩ moje dobre słowo, aby was zawrócić ⟨את⟩ do tego miejsca.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "powiedział"
+      "gloss": "mówi"
     },
     {
       "surface": "יהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "Gdy"
+      "gloss": "gdy"
     },
     {
       "surface": "לפי",
-      "gloss": "gdy się dopełni"
+      "gloss": "według"
     },
     {
       "surface": "מלאת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לבבל",
-      "gloss": "dla Babilonu"
+      "gloss": "dla Babelu"
     },
     {
       "surface": "שבעים",
@@ -53,7 +53,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was"
+      "gloss": "⟨את⟩",
+      "marks": "was"
     },
     {
       "surface": "והקמתי",
@@ -65,11 +66,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "moje dobre słowo"
     },
     {
       "surface": "דברי",
-      "gloss": "moje słowo"
+      "gloss": "słowo"
     },
     {
       "surface": "הטוב",
@@ -77,25 +79,26 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "żeby sprowadzić z powrotem"
+      "gloss": "aby zawrócić"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was"
+      "gloss": "⟨את⟩",
+      "marks": "was"
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "do"
     },
     {
       "surface": "המקום",
-      "gloss": "to miejsce"
+      "gloss": "miejsca"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "tego"
     }
   ],
-  "timestamp": "2026-08-25T00:53:46.838561356Z",
+  "timestamp": "2026-08-25T06:08:56.439785844Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Koniec sprawy — wszystko zostało usłyszane: bój się ⟨את⟩ Elohim i strzeż ⟨את⟩ jego przykazań, bo to jest cały człowiek.",
+  "translation": "Koniec sprawy — wszystko zostało usłyszane: ⟨את⟩ Elohim się bój i ⟨את⟩ jego przykazań strzeż, bo to ⟨jest⟩ cały człowiek.",
   "tokens": [
     {
       "surface": "סוף",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ירא",
-      "gloss": "bój się"
+      "gloss": "się bój"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "jego przykazań"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "człowiek"
     }
   ],
-  "timestamp": "2026-08-25T02:32:55.921654369Z",
+  "timestamp": "2026-08-25T06:32:52.198331674Z",
   "model": "glm-5.3"
 }

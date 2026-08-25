@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I poznacie, że Ja jestem Jahwe, gdy wprowadzać będę ⟨את⟩ was do gleby Jisraela, do ⟨the⟩ ziemi, którą podniosłem ⟨את⟩ moją rękę, ⟨by⟩ dać ją waszym ojcom.",
+  "translation": "I poznacie, że Ja jestem Jahwe, gdy wprowadzę ⟨את⟩ was do ziemi Jisraela, do ziemi, którą ⟨את⟩ podniosłem moją rękę, aby dać ⟨את⟩ ją waszym ojcom.",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -25,12 +25,11 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "gdy wprowadzać będę"
+      "gloss": "gdy wprowadzę"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was",
-      "marks": "was"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "אל",
@@ -38,7 +37,7 @@
     },
     {
       "surface": "אדמת",
-      "gloss": "gleby"
+      "gloss": "ziemi"
     },
     {
       "surface": "ישראל",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ziemi"
+      "gloss": "ziemi"
     },
     {
       "surface": "אשר",
@@ -71,18 +70,17 @@
     },
     {
       "surface": "לתת",
-      "gloss": "by dać"
+      "gloss": "aby dać"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ją",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją"
     },
     {
       "surface": "לאבותיכם",
       "gloss": "waszym ojcom"
     }
   ],
-  "timestamp": "2026-08-25T01:17:06.688931135Z",
+  "timestamp": "2026-08-25T06:11:13.291410988Z",
   "model": "glm-5.3"
 }

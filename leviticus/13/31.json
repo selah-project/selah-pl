@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "A gdy kapłan zobaczy ⟨את⟩ znamię neteku, a oto jego wygląd nie ⟨jest⟩ głębszy niż skóra i włosu czarnego nie ma w nim, to kapłan zamknie ⟨את⟩ znamię neteku na siedem dni.",
+  "translation": "A gdy obejrzy kapłan ⟨את⟩ plagę netek, i oto wygląd jej nie ⟨jest⟩ głębszy niż ⟨od⟩ skóry, a włosu czarnego nie ma w niej — i zamknie kapłan ⟨את⟩ plagę netek na siedem dni.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "A gdy"
+      "gloss": "a gdy"
     },
     {
       "surface": "יראה",
-      "gloss": "zobaczy"
+      "gloss": "obejrzy"
     },
     {
       "surface": "הכהן",
@@ -22,27 +22,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "znamię neteku"
+      "marks": "plagę"
     },
     {
       "surface": "נגע",
-      "gloss": "znamię"
+      "gloss": "plagę"
     },
     {
       "surface": "הנתק",
-      "gloss": "neteku"
+      "gloss": "netek"
     },
     {
       "surface": "והנה",
-      "gloss": "a oto"
+      "gloss": "i oto"
     },
     {
       "surface": "אין",
-      "gloss": "nie"
+      "gloss": "nie ⟨jest⟩"
     },
     {
       "surface": "מראהו",
-      "gloss": "jego wygląd"
+      "gloss": "wygląd jej"
     },
     {
       "surface": "עמק",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "מן",
-      "gloss": "niż"
+      "gloss": "niż ⟨od⟩"
     },
     {
       "surface": "העור",
-      "gloss": "skóra"
+      "gloss": "skóry"
     },
     {
       "surface": "ושער",
-      "gloss": "i włosu"
+      "gloss": "a włos"
     },
     {
       "surface": "שחר",
-      "gloss": "czarnego"
+      "gloss": "czarny"
     },
     {
       "surface": "אין",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "w nim"
+      "gloss": "w niej"
     },
     {
       "surface": "והסגיר",
-      "gloss": "zamknie"
+      "gloss": "i zamknie"
     },
     {
       "surface": "הכהן",
@@ -83,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "znamię neteku"
+      "marks": "plagę"
     },
     {
       "surface": "נגע",
-      "gloss": "znamię"
+      "gloss": "plagę"
     },
     {
       "surface": "הנתק",
-      "gloss": "neteku"
+      "gloss": "netek"
     },
     {
       "surface": "שבעת",
@@ -102,6 +102,6 @@
       "gloss": "dni"
     }
   ],
-  "timestamp": "2026-08-24T22:44:24.648474777Z",
+  "timestamp": "2026-08-25T05:44:40.183050142Z",
   "model": "glm-5.3"
 }

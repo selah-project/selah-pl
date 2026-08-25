@@ -5,19 +5,20 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 40,
-  "translation": "A bruk przy boku bram, naprzeciw długości bram — ⟨to⟩ bruk dolny.",
+  "translation": "I bruk ⟨od⟩ boku bram, naprzeciw długości bram — to ⟨był⟩ bruk dolny.",
   "tokens": [
     {
       "surface": "והרצפה",
-      "gloss": "a bruk"
+      "gloss": "i bruk"
     },
     {
       "surface": "אל",
-      "gloss": "przy"
+      "gloss": "⟨od⟩ boku",
+      "marks": ""
     },
     {
       "surface": "כתף",
-      "gloss": "boku (ramieniu)"
+      "gloss": "bok (ramię)"
     },
     {
       "surface": "השערים",
@@ -44,6 +45,6 @@
       "gloss": "dolny"
     }
   ],
-  "timestamp": "2026-08-25T01:27:03.609869019Z",
+  "timestamp": "2026-08-25T06:31:35.833367257Z",
   "model": "glm-5.3"
 }

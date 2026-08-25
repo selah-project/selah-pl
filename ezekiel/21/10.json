@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I pozna wszelkie ciało, że to Ja, Jahwe, wyciągnąłem miecz mój z pochwy jego — już nie zawróci.",
+  "translation": "I pozna całe ciało, że to ja, Jahwe, wyciągnąłem mój miecz z pochwy — on ⟨nie⟩ zawróci już więcej.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "wszelkie"
+      "gloss": "całe"
     },
     {
       "surface": "בשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "to Ja"
+      "gloss": "ja"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "חרבי",
-      "gloss": "miecz mój"
+      "gloss": "mój miecz"
     },
     {
       "surface": "מתערה",
-      "gloss": "z pochwy jego"
+      "gloss": "z pochwy"
     },
     {
       "surface": "לא",
@@ -56,6 +56,6 @@
       "gloss": "już więcej"
     }
   ],
-  "timestamp": "2026-08-25T01:15:33.593874366Z",
+  "timestamp": "2026-08-25T06:11:23.053564665Z",
   "model": "glm-5.3"
 }

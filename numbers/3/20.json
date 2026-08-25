@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 3,
-  "translation": "A synowie Merariego według ich rodów: Machli i Muszi. To ⟨są⟩ rody Lewiego według domów ich ojców.",
+  "translation": "A synowie Merari według ich rodzin: Machli i Muszi. To są rodziny Lewiego według domu ich ojców.",
   "tokens": [
     {
       "surface": "ובני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מררי",
-      "gloss": "Merariego"
+      "gloss": "Merari"
     },
     {
       "surface": "למשפחתם",
-      "gloss": "według ich rodów"
+      "gloss": "według ich rodzin"
     },
     {
       "surface": "מחלי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "⟨są⟩ oni"
+      "gloss": "są"
     },
     {
       "surface": "משפחת",
-      "gloss": "rody"
+      "gloss": "rodziny"
     },
     {
       "surface": "הלוי",
@@ -52,6 +52,6 @@
       "gloss": "ich ojców"
     }
   ],
-  "timestamp": "2026-08-24T22:50:34.886046806Z",
+  "timestamp": "2026-08-25T05:46:03.172711412Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekł Mosze do Aharona: Weź jeden dzbanuszek i włóż tam pełny omer mannu, i złóż ⟨את⟩ to przed obliczem Jahwe, na przechowanie dla waszych pokoleń.",
+  "translation": "I rzekł Mosze do Aharona: Weź jeden słój i włóż tam pełnię omeru manu, i złóż ⟨את⟩ niego przed Jahwe na przechowanie dla waszych pokoleń.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "משה",
@@ -25,18 +25,18 @@
     },
     {
       "surface": "קח",
-      "gloss": "weź"
+      "gloss": "Weź"
     },
     {
       "surface": "צנצנת",
-      "gloss": "dzbanuszek"
+      "gloss": "słój"
     },
     {
       "surface": "אחת",
       "gloss": "jeden"
     },
     {
-      "surface": "ותן",
+      "surface": "וותן",
       "gloss": "i włóż"
     },
     {
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מלא",
-      "gloss": "pełny"
+      "gloss": "pełnię"
     },
     {
       "surface": "העמר",
-      "gloss": "omer"
+      "gloss": "omeru"
     },
     {
       "surface": "מן",
-      "gloss": "mannu"
+      "gloss": "manu"
     },
     {
       "surface": "והנח",
@@ -62,11 +62,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "go"
     },
     {
       "surface": "לפני",
-      "gloss": "przed obliczem"
+      "gloss": "przed"
     },
     {
       "surface": "יהוה",
@@ -81,6 +81,6 @@
       "gloss": "dla waszych pokoleń"
     }
   ],
-  "timestamp": "2026-08-25T04:05:34.440466155Z",
+  "timestamp": "2026-08-25T05:41:50.999465189Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Jak Jahwe przykazał Mosze, tak Aharon złożył ⟨to⟩ przed ⟨את⟩ Świadectwem dla zachowania.",
+  "translation": "Jak nakazał Jahwe ⟨do⟩ Moszego, tak złożył ⟨את⟩ niego Aharon przed ⟨את⟩ Świadectwem, na przechowanie.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "przykazał"
+      "gloss": "nakazał"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨do⟩"
     },
     {
       "surface": "משה",
-      "gloss": "Mosze"
+      "gloss": "Moszego"
     },
     {
       "surface": "ויניחהו",
-      "gloss": "tak złożył ⟨to⟩"
+      "gloss": "tak złożył go"
     },
     {
       "surface": "אהרן",
@@ -41,14 +41,13 @@
     },
     {
       "surface": "העדת",
-      "gloss": "Świadectwem",
-      "marks": "⟨את⟩ Świadectwem"
+      "gloss": "Świadectwem"
     },
     {
       "surface": "למשמרת",
-      "gloss": "dla zachowania"
+      "gloss": "na przechowanie"
     }
   ],
-  "timestamp": "2026-08-25T04:05:29.376299207Z",
+  "timestamp": "2026-08-25T05:41:50.999684347Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I odwrócili się mężczyźni Aju za nimi, i zobaczyli, a oto dym miasta wznosił się ku niebiosom — i nie było w nich siły, by uciekać tam i tu; a lud, uciekający na pustynię, odwrócił się ku ścigającemu.",
+  "translation": "I odwrócili się mężowie ⟨את⟩ Haj za nimi, i zobaczyli, a oto wzniósł się dym miasta ku niebiosom, i nie było w nich rąk, by uciekać tam i tu; a lud uciekający na pustkowiu odwrócił się ku ścigającemu.",
   "tokens": [
     {
       "surface": "ויפנו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "mężczyźni"
+      "gloss": "mężowie"
     },
     {
       "surface": "העי",
-      "gloss": "Aju"
+      "gloss": "Haj"
     },
     {
       "surface": "אחריהם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "wznosił się"
+      "gloss": "wzniósł się"
     },
     {
       "surface": "עשן",
@@ -46,10 +46,6 @@
     {
       "surface": "השמימה",
       "gloss": "ku niebiosom"
-    },
-    {
-      "surface": "ויהי",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "ידים",
-      "gloss": "siły"
+      "gloss": "rąk"
     },
     {
       "surface": "לנוס",
@@ -89,7 +85,7 @@
     },
     {
       "surface": "המדבר",
-      "gloss": "na pustynię"
+      "gloss": "na pustkowiu"
     },
     {
       "surface": "נהפך",
@@ -104,6 +100,6 @@
       "gloss": "ścigającemu"
     }
   ],
-  "timestamp": "2026-08-24T23:18:36.428788499Z",
+  "timestamp": "2026-08-25T05:52:13.607032552Z",
   "model": "glm-5.3"
 }

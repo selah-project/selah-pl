@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli nie wykupi ⟨את⟩ pola, a jeśli sprzedał ⟨את⟩ pole innemu człowiekowi, nie zostanie wykupione ponownie.",
+  "translation": "A jeśli nie wykupi ⟨את⟩ pola, a jeśli sprzedał ⟨את⟩ pole człowiekowi innemu — nie będzie wykupione ponownie.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "לא",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "polа"
+      "gloss": "pola"
     },
     {
       "surface": "ואם",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "innemu człowiekowi"
+      "gloss": "człowiekowi"
     },
     {
       "surface": "אחר",
-      "gloss": ""
+      "gloss": "innemu"
     },
     {
       "surface": "לא",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "zostanie wykupione"
+      "gloss": "będzie wykupione"
     },
     {
       "surface": "עוד",
       "gloss": "ponownie"
     }
   ],
-  "timestamp": "2026-08-24T22:49:55.280801821Z",
+  "timestamp": "2026-08-25T06:28:44.281870577Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Co do wszelkiej sprawy wykroczenia — w sprawie wołu, osła, owcy, szaty, wszelkiej rzeczy zgubionej, o której ktoś powie: «To właśnie ono» — sprawa obu ⟨stron⟩ przyjdzie przed Elohim; kogo Elohim uznają ⟨za winnego⟩, ten zapłaci podwójnie bliźniemu swojemu.",
+  "translation": "O każdą sprawę wykroczenia — o wołu, o osła, o owcę, o szatę, o każdą rzecz zgubioną, o którą ktoś powie: „To właśnie jest to” — do Elohim przyjdzie sprawa obu ⟨z nich⟩; kogo Elohim uzna winnym, ten zapłaci podwójnie swemu bliźniemu.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "co do"
+      "gloss": "o"
     },
     {
       "surface": "כל",
-      "gloss": "wszelkiej"
+      "gloss": "każdą"
     },
     {
       "surface": "דבר",
-      "gloss": "sprawy"
+      "gloss": "sprawę"
     },
     {
       "surface": "פשע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "w sprawie"
+      "gloss": "o"
     },
     {
       "surface": "שור",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "w sprawie"
+      "gloss": "o"
     },
     {
       "surface": "חמור",
@@ -41,35 +41,35 @@
     },
     {
       "surface": "על",
-      "gloss": "w sprawie"
+      "gloss": "o"
     },
     {
       "surface": "שה",
-      "gloss": "owcy"
+      "gloss": "owcę"
     },
     {
       "surface": "על",
-      "gloss": "w sprawie"
+      "gloss": "o"
     },
     {
       "surface": "שלמה",
-      "gloss": "szaty"
+      "gloss": "szatę"
     },
     {
       "surface": "על",
-      "gloss": "co do"
+      "gloss": "o"
     },
     {
       "surface": "כל",
-      "gloss": "wszelkiej"
+      "gloss": "każdą"
     },
     {
       "surface": "אבדה",
-      "gloss": "rzeczy zgubionej"
+      "gloss": "rzecz zgubioną"
     },
     {
       "surface": "אשר",
-      "gloss": "o której"
+      "gloss": "o którą"
     },
     {
       "surface": "יאמר",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ono"
-    },
-    {
-      "surface": "זה",
       "gloss": "to"
     },
     {
+      "surface": "זה",
+      "gloss": "właśnie jest to"
+    },
+    {
       "surface": "עד",
-      "gloss": "przed"
+      "gloss": "do"
     },
     {
       "surface": "האלהים",
@@ -109,11 +109,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którego"
+      "gloss": "kogo"
     },
     {
       "surface": "ירשיען",
-      "gloss": "uznają za winnego"
+      "gloss": "uzna winnym"
     },
     {
       "surface": "אלהים",
@@ -129,9 +129,9 @@
     },
     {
       "surface": "לרעהו",
-      "gloss": "bliźniemu swojemu"
+      "gloss": "swemu bliźniemu"
     }
   ],
-  "timestamp": "2026-08-24T22:33:11.509673803Z",
+  "timestamp": "2026-08-25T06:28:10.223109259Z",
   "model": "glm-5.3"
 }

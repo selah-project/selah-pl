@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 19,
-  "translation": "To poślą starsi miasta jego i wezmą ⟨את⟩ niego stamtąd, i wydadzą ⟨את⟩ niego w rękę mściciela krwi, i umrze.",
+  "translation": "I wyślą starsi jego miasta, i wezmą go ⟨את⟩ stamtąd, i wydadzą go ⟨את⟩ w rękę goela krwi, i umrze.",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "to poślą"
+      "gloss": "i wyślą"
     },
     {
       "surface": "זקני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עירו",
-      "gloss": "miasta jego"
+      "gloss": "jego miasta"
     },
     {
       "surface": "ולקחו",
@@ -26,7 +26,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "niego (z miasta ucieczki)"
+      "marks": "go"
     },
     {
       "surface": "משם",
@@ -39,7 +39,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "niego (w rękę mściciela)"
+      "marks": "go"
     },
     {
       "surface": "ביד",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "mściciela"
+      "gloss": "goela"
     },
     {
       "surface": "הדם",
@@ -58,6 +58,6 @@
       "gloss": "i umrze"
     }
   ],
-  "timestamp": "2026-08-24T23:10:01.033070306Z",
+  "timestamp": "2026-08-25T05:50:38.712499439Z",
   "model": "glm-5.3"
 }

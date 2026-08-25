@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 17,
-  "translation": "A jeśli nie usłuchacie mnie, żeby święcić ⟨את⟩ dzień szabatu, i nie nosić brzemienia, i nie wchodzić przez bramy Jeruszalaim w dniu szabatu, to rozpalę ogień w jej bramach, i pochłonie ⟨on⟩ warownie Jeruszalaim, i nie zostanie zgaszony.",
+  "translation": "A jeśli nie usłuchacie mnie, by święcić ⟨את⟩ dzień szabatu, i by nie nosić brzemienia i nie wchodzić przez bramy Jeruszalaim w dzień szabatu, to rozpalę ogień w jej bramach, i pochłonie on twierdze Jeruszalaim, i nie zagaśnie.",
   "tokens": [
     {
       "surface": "ואם",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "święcić"
+      "gloss": "by święcić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dzień"
+      "marks": "dzień szabatu"
     },
     {
       "surface": "יום",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ולבלתי",
-      "gloss": "i nie"
+      "gloss": "i by nie"
     },
     {
       "surface": "שאת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "w dniu"
+      "gloss": "w dzień"
     },
     {
       "surface": "השבת",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "ארמנות",
-      "gloss": "warownie"
+      "gloss": "twierdze"
     },
     {
       "surface": "ירושלם",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "תכבה",
-      "gloss": "zostanie zgaszony"
+      "gloss": "zagaśnie"
     }
   ],
-  "timestamp": "2026-08-25T03:36:07.641687748Z",
+  "timestamp": "2026-08-25T06:31:29.745627624Z",
   "model": "glm-5.3"
 }

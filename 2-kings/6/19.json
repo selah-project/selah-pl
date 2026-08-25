@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I rzekł do nich Eliszua: Nie ta ⟨jest⟩ droga i nie to ⟨jest⟩ miasto; idźcie za mną, a poprowadzę was ⟨את⟩ do męża, którego szukacie. I poprowadził ich ⟨את⟩ do Szomronu.",
+  "translation": "I rzekł Eliša do nich: Nie ta ⟨jest⟩ droga i nie to ⟨jest⟩ ⟨to⟩ miasto; idźcie za mną, a zawiodę ⟨את⟩ was do męża, którego szukacie. I wprowadził ⟨את⟩ ich Szomrona.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Eliszua"
+      "gloss": "Elisza"
     },
     {
       "surface": "לא",
@@ -53,12 +53,11 @@
     },
     {
       "surface": "ואוליכה",
-      "gloss": "a poprowadzę"
+      "gloss": "a zawiodę"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was",
-      "marks": "do męża"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "אל",
@@ -78,18 +77,17 @@
     },
     {
       "surface": "וילך",
-      "gloss": "i poprowadził"
+      "gloss": "i wprowadził"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich",
-      "marks": "do Szomronu"
+      "gloss": "⟨את⟩ ich"
     },
     {
       "surface": "שמרונה",
-      "gloss": "do Szomronu"
+      "gloss": "Szomrona"
     }
   ],
-  "timestamp": "2026-08-25T00:09:59.540517378Z",
+  "timestamp": "2026-08-25T06:01:12.399007Z",
   "model": "glm-5.3"
 }

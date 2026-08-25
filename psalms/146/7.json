@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 146,
-  "translation": "Czyniącymi sprawiedliwość dla skrzywdzonych, dającymi chleb głodnym — Jahwe uwija więźniów.",
-  "tokens": [],
-  "timestamp": "2026-08-25T03:46:40.632494453Z",
+  "translation": "Czyniącym sprawiedliwość dla skrzywdzonych, dającym chleb głodnym — Jahwe uwalnia związanym.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "czyniącym"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "dla skrzywdzonych"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dającym"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "głodnym"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "uwalnia"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "związanym"
+    }
+  ],
+  "timestamp": "2026-08-25T06:17:35.341354227Z",
   "model": "glm-5.3"
 }

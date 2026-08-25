@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Ziemia ⟨jest⟩ wydana w rękę bezbożnego; twarze jej sędziów ⟨on⟩ zakrywa — jeśli nie ⟨tak⟩, to kto ⟨to jest⟩?",
+  "translation": "Ziemia ⟨jest⟩ dana w rękę bezbożnego, oblicze jej sędziów ⟨on⟩ zakrywa; jeśli nie ⟨On⟩ — to kto ⟨jest⟩?",
   "tokens": [
     {
       "surface": "ארץ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נתנה",
-      "gloss": "wydana"
+      "gloss": "dana"
     },
     {
       "surface": "ביד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "twarze"
+      "gloss": "oblicze"
     },
     {
       "surface": "שפטיה",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to jest⟩"
+      "gloss": "On"
     }
   ],
-  "timestamp": "2026-08-25T02:17:09.191086226Z",
+  "timestamp": "2026-08-25T06:18:21.544320640Z",
   "model": "glm-5.3"
 }

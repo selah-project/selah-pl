@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I każda nefesz, która by zjadła padlinę albo rozdartą ⟨zwierzynę⟩ — ⟨czy to⟩ rodowity, ⟨czy to⟩ przybysz — wypierze swoje szaty i obmyje się w wodzie i będzie nieczysty aż do wieczora, i będzie czysty.",
+  "translation": "I każda nefesz, która by zjadła padlinę lub szarpaninę — zarówno tubylec, jak i przybysz — i wypierze swoje szaty, i obmyje się w wodzie, i ⟨będzie⟩ nieczysta aż do wieczora, i ⟨będzie⟩ czysta.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "I każda"
+      "gloss": "i każda"
     },
     {
       "surface": "נפש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "zjadła"
+      "gloss": "by zjadła"
     },
     {
       "surface": "נבלה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "וטרפה",
-      "gloss": "albo rozdartą"
+      "gloss": "lub szarpaninę"
     },
     {
       "surface": "באזרח",
-      "gloss": "rodowity"
+      "gloss": "tubylec"
     },
     {
       "surface": "ובגר",
-      "gloss": "przybysz"
+      "gloss": "jak i przybysz"
     },
     {
       "surface": "וכבס",
-      "gloss": "wypierze"
+      "gloss": "i wypierze"
     },
     {
       "surface": "בגדיו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "i będzie nieczysty"
+      "gloss": "i ⟨będzie⟩ nieczysta"
     },
     {
       "surface": "עד",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "i będzie czysty"
+      "gloss": "i ⟨będzie⟩ czysta"
     }
   ],
-  "timestamp": "2026-08-24T22:45:54.782508996Z",
+  "timestamp": "2026-08-25T05:45:08.138460667Z",
   "model": "glm-5.3"
 }

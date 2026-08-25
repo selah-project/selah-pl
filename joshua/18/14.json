@@ -5,19 +5,20 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I wytyczono ⟨wygięto⟩ granicę, i okrążyła ⟨ku⟩ stronie morza od południa, od góry, która ⟨jest⟩ naprzeciw Bet-Choron od południa; i były wyjścia jej do Kirjat-Baal — ona ⟨jest⟩ Kirjat-Jearim, miasto synów Jehudy — to ⟨jest⟩ strona morza.",
+  "translation": "I był wytyczony ⟨את⟩-granica i okrążał ku stronie zachodu, ku południu, od góry, która jest przed Bet-Choron, ku południu; i były jego wyjścia ku Kirjat-Baal, ona ⟨jest⟩ Kirjat-Jearim, miasto synów Jehudy — to ⟨jest⟩ strona zachodu.",
   "tokens": [
     {
       "surface": "ותאר",
-      "gloss": "i wytyczono"
+      "gloss": "i był wytyczony"
     },
     {
       "surface": "הגבול",
-      "gloss": "granica"
+      "gloss": "-granica",
+      "marks": "granica"
     },
     {
       "surface": "ונסב",
-      "gloss": "i okrążyła"
+      "gloss": "i okrążał"
     },
     {
       "surface": "לפאת",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "ים",
-      "gloss": "morza"
+      "gloss": "zachodu"
     },
     {
       "surface": "נגבה",
-      "gloss": "od południa"
+      "gloss": "ku południu"
     },
     {
       "surface": "מן",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "על",
-      "gloss": "naprzeciw"
+      "gloss": "jest przed"
     },
     {
       "surface": "פני",
-      "gloss": "twarzy\/naprzeciw"
+      "gloss": "obliczem"
     },
     {
       "surface": "בית",
@@ -57,11 +58,11 @@
     },
     {
       "surface": "חרון",
-      "gloss": "-Choron"
+      "gloss": "Choron"
     },
     {
       "surface": "נגבה",
-      "gloss": "od południa"
+      "gloss": "ku południu"
     },
     {
       "surface": "והיה",
@@ -69,11 +70,11 @@
     },
     {
       "surface": "תצאתיו",
-      "gloss": "wyjścia jego"
+      "gloss": "jego wyjścia"
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "ku"
     },
     {
       "surface": "קרית",
@@ -81,7 +82,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "-Baal"
+      "gloss": "Baal"
     },
     {
       "surface": "היא",
@@ -93,7 +94,7 @@
     },
     {
       "surface": "יערים",
-      "gloss": "-Jearim"
+      "gloss": "Jearim"
     },
     {
       "surface": "עיר",
@@ -117,9 +118,9 @@
     },
     {
       "surface": "ים",
-      "gloss": "morza"
+      "gloss": "zachodu"
     }
   ],
-  "timestamp": "2026-08-24T23:22:12.423834930Z",
+  "timestamp": "2026-08-25T07:08:28.955516838Z",
   "model": "glm-5.3"
 }

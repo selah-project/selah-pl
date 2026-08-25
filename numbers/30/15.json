@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 30,
-  "translation": "A jeśli zupełnie zamilczy mąż jej do niej, od dnia do dnia, to ustanowi ⟨את⟩ wszystkie jej śluby albo ⟨את⟩ wszystkie jej zobowiązania, które są na niej: ustanowił ⟨את⟩ je, bo zamilczał do niej w dniu swego usłyszenia.",
+  "translation": "A jeśli zamilczy, zamilcza jej mąż od dnia do dnia — to potwierdził ⟨את⟩ wszystkie jej śluby albo ⟨את⟩ wszystkie jej zobowiązania, które na niej; potwierdził ⟨את⟩ je, bo zamilczał jej w dniu swego usłyszenia.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "החרש",
-      "gloss": "zupełnie"
-    },
-    {
-      "surface": "יחריש",
       "gloss": "zamilczy"
     },
     {
+      "surface": "יחריש",
+      "gloss": "zamilcza"
+    },
+    {
       "surface": "לה",
-      "gloss": "do niej"
+      "gloss": "jej"
     },
     {
       "surface": "אישה",
-      "gloss": "mąż jej"
+      "gloss": "mąż"
     },
     {
       "surface": "מיום",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והקים",
-      "gloss": "to ustanowi"
+      "gloss": "to potwierdził"
     },
     {
       "surface": "את",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הקים",
-      "gloss": "ustanowił"
+      "gloss": "potwierdził"
     },
     {
       "surface": "אתם",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "לה",
-      "gloss": "do niej"
+      "gloss": "jej"
     },
     {
       "surface": "ביום",
@@ -111,6 +111,6 @@
       "gloss": "swego usłyszenia"
     }
   ],
-  "timestamp": "2026-08-25T03:22:26.368735416Z",
+  "timestamp": "2026-08-25T05:49:35.605733295Z",
   "model": "glm-5.3"
 }

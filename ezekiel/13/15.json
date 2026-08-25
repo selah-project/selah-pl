@@ -5,24 +5,24 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 13,
-  "translation": "i wytaczam ⟩את⟩ moją zapalczywość na mur i na tych, co go tynkują marnym tynkiem, i powiem wam: nie ma już muru ani tych, co go tynkowały.",
+  "translation": "I dopełnię ⟨את⟩ mojej wściekłości na murze i na tynkujących go tynkiem nietrwałym, i powiem wam: nie ma muru ani tynkujących go.",
   "tokens": [
     {
       "surface": "וכליתי",
-      "gloss": "i wytaczam (do końca)"
+      "gloss": "i dopełnię"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moją zapalczywość"
+      "marks": "mojej wściekłości"
     },
     {
       "surface": "חמתי",
-      "gloss": "moją zapalczywość"
+      "gloss": "mojej wściekłości"
     },
     {
       "surface": "בקיר",
-      "gloss": "na mur"
+      "gloss": "na murze"
     },
     {
       "surface": "ובטחים",
@@ -30,12 +30,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
-      "marks": "marnym tynkiem (oznacza 'go' — mur)"
+      "gloss": "⟨את⟩ go"
     },
     {
       "surface": "תפל",
-      "gloss": "marnym tynkiem"
+      "gloss": "tynkiem nietrwałym"
     },
     {
       "surface": "ואמר",
@@ -51,7 +50,7 @@
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨już⟩ muru"
+      "gloss": "muru"
     },
     {
       "surface": "ואין",
@@ -63,10 +62,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
-      "marks": "go (mur)"
+      "gloss": "⟨את⟩ go"
     }
   ],
-  "timestamp": "2026-08-25T01:11:52.771140641Z",
+  "timestamp": "2026-08-25T06:11:21.643621555Z",
   "model": "glm-5.3"
 }

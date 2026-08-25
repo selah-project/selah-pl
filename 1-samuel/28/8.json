@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 28,
-  "translation": "I przebrał się Szaul, i przywdział inne szaty, i poszedł, on i dwaj mężowie z nim, i przyszli do kobiety nocą; i rzekł: Wracóż mi, proszę, przez אוב, i sprowadź mi ⟨את⟩ tego, którego ci nazwę.",
+  "translation": "I przebrał się Szaul, i przywdział inne szaty, i poszedł — on i dwóch mężów z nim — i przyszli do tej kobiety nocą, i rzekł: Wraóż mi, proszę, przez ow, i wyprowadź mi ⟨את⟩ tego, którego ci wskażę.",
   "tokens": [
     {
       "surface": "ויתחפש",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ושני",
-      "gloss": "i dwaj"
+      "gloss": "i dwóch"
     },
     {
       "surface": "אנשים",
-      "gloss": "mężowie"
+      "gloss": "mężów"
     },
     {
       "surface": "עמו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "kobiety"
+      "gloss": "tej kobiety"
     },
     {
       "surface": "לילה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "קסומי",
-      "gloss": "wracóż"
+      "gloss": "wraóż"
     },
     {
       "surface": "נא",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "באוב",
-      "gloss": "przez אוב"
+      "gloss": "przez ow"
     },
     {
       "surface": "והעלי",
-      "gloss": "i sprowadź"
+      "gloss": "i wyprowadź"
     },
     {
       "surface": "לי",
@@ -94,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tego, którego ci nazwę"
+      "marks": "tego, którego ci wskażę"
     },
     {
       "surface": "אשר",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "אמר",
-      "gloss": "nazwę"
+      "gloss": "wskażę"
     },
     {
       "surface": "אליך",
-      "gloss": "ci"
+      "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-24T23:43:45.116483245Z",
+  "timestamp": "2026-08-25T05:57:23.343992218Z",
   "model": "glm-5.3"
 }

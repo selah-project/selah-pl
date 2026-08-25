@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 120,
-  "translation": "Ja — pokój; lecz gdy mówię, oni — na wojnę.",
+  "translation": "Ja ⟨jestem⟩ pokój, a gdy mówię, oni ⟨są⟩ dla wojny.",
   "tokens": [
     {
       "surface": "אני",
@@ -16,12 +16,8 @@
       "gloss": "pokój"
     },
     {
-      "surface": "ו",
-      "gloss": "lecz"
-    },
-    {
-      "surface": "כי",
-      "gloss": "gdy"
+      "surface": "וכי",
+      "gloss": "a gdy"
     },
     {
       "surface": "אדבר",
@@ -33,9 +29,9 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "na wojnę"
+      "gloss": "dla wojny"
     }
   ],
-  "timestamp": "2026-08-25T02:03:40.256841390Z",
+  "timestamp": "2026-08-25T06:17:18.641081490Z",
   "model": "glm-5.3"
 }

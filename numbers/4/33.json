@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 4,
-  "translation": "To ⟨jest⟩ służba rodów synów Merariego według całej ich służby w Namiocie Spotkania, pod ręką Itamara, syna Ahrona kapłana.",
+  "translation": "To jest służba rodzin synów Merari według całej ich służby w Namiocie Spotkania, pod ręką Itamara, syna Ahrona, kapłana.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עבדת",
-      "gloss": "służba"
+      "gloss": "jest służba"
     },
     {
       "surface": "משפחת",
-      "gloss": "rodów"
+      "gloss": "rodzin"
     },
     {
       "surface": "בני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מררי",
-      "gloss": "Merariego"
+      "gloss": "Merari"
     },
     {
       "surface": "לכל",
@@ -64,6 +64,6 @@
       "gloss": "kapłana"
     }
   ],
-  "timestamp": "2026-08-24T22:50:59.901999528Z",
+  "timestamp": "2026-08-25T05:46:32.308103226Z",
   "model": "glm-5.3"
 }

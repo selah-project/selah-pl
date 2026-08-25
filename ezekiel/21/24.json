@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A ty, synu człowieczy, wyznacz sobie dwie drogi, by przyszedł miecz króla Babelu; z jednej ziemi wyjdą one obie; i ręka wyznaczy na początku drogi do miasta — wyznacz ⟨to⟩ wyraźnie.",
+  "translation": "A ty, synu człowieczy, ustaw sobie dwie drogi, by przyszedł ⟨mieczem⟩ król Babel — z jednej ziemi wyjdą obie — i ręka wybra przy głowie drogi miasta, wybra.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שים",
-      "gloss": "wyznacz"
+      "gloss": "ustaw"
     },
     {
       "surface": "לך",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "חרב",
-      "gloss": "miecz"
+      "gloss": "mieczem"
     },
     {
       "surface": "מלך",
-      "gloss": "króla"
+      "gloss": "król"
     },
     {
       "surface": "בבל",
-      "gloss": "Babelu"
+      "gloss": "Babel"
     },
     {
       "surface": "מארץ",
-      "gloss": "z ziemi"
+      "gloss": "z"
     },
     {
       "surface": "אחד",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יצאו",
-      "gloss": "wyjdą"
+      "gloss": "ziemi wyjdą"
     },
     {
       "surface": "שניהם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ברא",
-      "gloss": "wyznaczy"
+      "gloss": "wybra"
     },
     {
       "surface": "בראש",
-      "gloss": "na początku"
+      "gloss": "przy głowie"
     },
     {
       "surface": "דרך",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "עיר",
-      "gloss": "do miasta"
+      "gloss": "miasta"
     },
     {
       "surface": "ברא",
-      "gloss": "wyznacz wyraźnie"
+      "gloss": "wybra"
     }
   ],
-  "timestamp": "2026-08-25T01:15:33.241029085Z",
+  "timestamp": "2026-08-25T06:11:30.863060589Z",
   "model": "glm-5.3"
 }

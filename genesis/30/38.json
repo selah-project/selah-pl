@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 30,
-  "translation": "I ustawił ⟨את⟩ pręty, które naciął, w korytach, przy wodopojach wody, gdzie przychodziło ⟨to⟩ bydło, żeby pić — naprzeciw bydła; i parały się przy swoim przyjściu, żeby pić.",
+  "translation": "I ustawił ⟨את⟩ laski, które naciął, w korytach przy poidłach wody, gdzie przychodziły trzody, żeby pić — naprzeciw trzód — i parzyły się, gdy przychodziły pić.",
   "tokens": [
     {
       "surface": "ויצג",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pręty"
+      "marks": "laski"
     },
     {
       "surface": "המקלות",
-      "gloss": "pręty"
+      "gloss": "laski"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "בשקתות",
-      "gloss": "przy wodopojach"
+      "gloss": "przy poidłach"
     },
     {
       "surface": "המים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "תבאן",
-      "gloss": "przychodziło"
+      "gloss": "przychodziły"
     },
     {
       "surface": "הצאן",
-      "gloss": "bydło"
+      "gloss": "trzody"
     },
     {
       "surface": "לשתות",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "bydła"
+      "gloss": "trzód"
     },
     {
       "surface": "ויחמנה",
-      "gloss": "i parały się"
+      "gloss": "i parzyły się"
     },
     {
       "surface": "בבאן",
-      "gloss": "przy swoim przyjściu"
+      "gloss": "gdy przychodziły"
     },
     {
       "surface": "לשתות",
-      "gloss": "żeby pić"
+      "gloss": "pić"
     }
   ],
-  "timestamp": "2026-08-24T22:18:53.997020732Z",
+  "timestamp": "2026-08-25T05:38:37.981327275Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Dlatego czekajcie na mnie — wyrocznia Jahwe — na dzień mego powstania ⟨na łup⟩, bo mój wyrok to: zgromadzić narody, zebrać królestwa, by wylać na nich moją wściekłość, cały żar mego gniewu; bo ogniem mej zazdrości pożarta będzie cała ⟨ta⟩ ziemia.",
+  "translation": "Dlatego czekajcie na mnie — wyrocznia Jahwe — na dzień mego powstania na łup, bo moim wyrokiem jest zgromadzić narody, zebrać królestwa, wylać na nie moją srogość, cały żar mojego gniewu, bo w ogniu mojej zazdrości pochłonięta będzie cała ziemia.",
   "tokens": [
     {
       "surface": "לכן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לעד",
-      "gloss": "⟨na łup⟩"
+      "gloss": "na łup"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "mój wyrok"
+      "gloss": "moim wyrokiem"
     },
     {
       "surface": "לאסף",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "לשפך",
-      "gloss": "by wylać"
+      "gloss": "wylać"
     },
     {
       "surface": "עליהם",
-      "gloss": "na nich"
+      "gloss": "na nie"
     },
     {
       "surface": "זעמי",
-      "gloss": "moją wściekłość"
+      "gloss": "moją srogość"
     },
     {
       "surface": "כל",
@@ -93,15 +93,15 @@
     },
     {
       "surface": "באש",
-      "gloss": "ogniem"
+      "gloss": "w ogniu"
     },
     {
       "surface": "קנאתי",
-      "gloss": "mez zazdrości"
+      "gloss": "mojej zazdrości"
     },
     {
       "surface": "תאכל",
-      "gloss": "pożarta będzie"
+      "gloss": "pochłonięta będzie"
     },
     {
       "surface": "כל",
@@ -112,6 +112,6 @@
       "gloss": "ziemia"
     }
   ],
-  "timestamp": "2026-08-25T03:43:25.495892151Z",
+  "timestamp": "2026-08-25T06:14:46.526001722Z",
   "model": "glm-5.3"
 }

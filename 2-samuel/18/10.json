@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I zobaczył to pewien mąż, i doniósł Joabowi, i rzekł: Oto widziałem ⟨את⟩ Awszaloma wiszącego w terpencie.",
+  "translation": "I ujrzał jeden mąż, i doniósł Joabowi, i rzekł: Oto widziałem ⟨את⟩ Abszaloma zawieszonego w ⟨dębie⟩.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "i zobaczył"
+      "gloss": "i ujrzał"
     },
     {
       "surface": "איש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "pewien"
+      "gloss": "jeden"
     },
     {
       "surface": "ויגד",
@@ -42,21 +42,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Awszaloma"
+      "marks": "Abszaloma"
     },
     {
       "surface": "אבשלם",
-      "gloss": "Awszaloma"
+      "gloss": "Abszaloma"
     },
     {
       "surface": "תלוי",
-      "gloss": "wiszącego"
+      "gloss": "zawieszonego"
     },
     {
       "surface": "באלה",
-      "gloss": "w terpencie"
+      "gloss": "w dębie"
     }
   ],
-  "timestamp": "2026-08-24T23:51:48.929398755Z",
+  "timestamp": "2026-08-25T06:30:00.322209622Z",
   "model": "glm-5.3"
 }

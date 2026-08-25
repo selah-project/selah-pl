@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I wzmocniło się serce Paro, i nie ⟨את⟩ wypuścił ⟨את⟩ synów Israela, jak mówił Jahwe ręką Mosze.",
+  "translation": "I wzmocniło się serce Paroha i nie wypuścił ⟨את⟩ synów Jisraela, jak mówił Jahwe ręką Moszego.",
   "tokens": [
     {
       "surface": "ויחזק",
@@ -17,12 +17,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
-    },
-    {
-      "surface": "ויחזק",
-      "gloss": "",
-      "note": "duplikat — patrz wyżej"
+      "gloss": "Paroha"
     },
     {
       "surface": "ולא",
@@ -30,12 +25,12 @@
     },
     {
       "surface": "שלח",
-      "gloss": "⟨את⟩ wypuścił"
+      "gloss": "wypuścił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "synów Israela"
+      "marks": "synów Jisraela"
     },
     {
       "surface": "בני",
@@ -43,7 +38,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "כאשר",
@@ -63,9 +58,9 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mosze"
+      "gloss": "Moszego"
     }
   ],
-  "timestamp": "2026-08-24T22:27:37.804099467Z",
+  "timestamp": "2026-08-25T07:00:24.245508134Z",
   "model": "glm-5.3"
 }

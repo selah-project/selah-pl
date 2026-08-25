@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "A Amasa nie pilnował się miecza, który był w ręce Joaba, i uderzył go nim w piąte żebro, i wylały się wnętrzności jego na ziemię, i nie powtórzył mu ⟨to⟩, i umarł; a Joab i Abiszaj, brat jego, ścigali Szebę, syna Bikriego.",
+  "translation": "A Amasa nie czuwał wobec miecza, który ⟨był⟩ w ręce Joaba, i uderzył go nim w ⟨piąte żebro⟩, i wylał jego wnętrzności na ziemię, i nie powtórzył ⟨uderzenia⟩ jemu, i umarł; a Joab i Abiszaj, brat jego, ścigali Szewę, syna Bikriego.",
   "tokens": [
     {
       "surface": "ועמשא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נשמר",
-      "gloss": "pilnował się"
+      "gloss": "czuwał"
     },
     {
       "surface": "בחרב",
-      "gloss": "miecza"
+      "gloss": "wobec miecza"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "וישפך",
-      "gloss": "i wylały się"
+      "gloss": "i wylał"
     },
     {
       "surface": "מעיו",
-      "gloss": "wnętrzności jego"
+      "gloss": "jego wnętrzności"
     },
     {
       "surface": "ארצה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "jemu"
     },
     {
       "surface": "וימת",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Szebą"
+      "gloss": "Szewą"
     },
     {
       "surface": "בן",
@@ -112,6 +112,6 @@
       "gloss": "Bikriego"
     }
   ],
-  "timestamp": "2026-08-25T04:12:12.525427204Z",
+  "timestamp": "2026-08-25T05:58:39.967056669Z",
   "model": "glm-5.3"
 }

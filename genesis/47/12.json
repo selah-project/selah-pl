@@ -5,38 +5,38 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 47,
-  "translation": "I zaopatrywał Josef ⟨את⟩ ojca swego i ⟨את⟩ braci swoich, i ⟨את⟩ весь dom ojca swego, chlebem według liczby dzieci.",
+  "translation": "I Józef zaopatrywał ⟨את⟩ swojego ojca i ⟨את⟩ swoich braci oraz ⟨את⟩ cały dom swojego ojca — chlebem, według liczby dzieci.",
   "tokens": [
     {
       "surface": "ויכלכל",
-      "gloss": "i zaopatrywał"
+      "gloss": "zaopatrywał"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josef"
+      "gloss": "Józef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ojca swego"
+      "marks": "swojego ojca"
     },
     {
       "surface": "אביו",
-      "gloss": "ojca swego"
+      "gloss": "swojego ojca"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "braci swoich"
+      "marks": "swoich braci"
     },
     {
       "surface": "אחיו",
-      "gloss": "braci swoich"
+      "gloss": "swoich braci"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "cały dom ojca swego"
+      "gloss": "oraz ⟨את⟩",
+      "marks": "cały dom"
     },
     {
       "surface": "כל",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ojca swego"
+      "gloss": "swojego ojca"
     },
     {
       "surface": "לחם",
@@ -63,6 +63,6 @@
       "gloss": "dzieci"
     }
   ],
-  "timestamp": "2026-08-24T22:24:09.537085054Z",
+  "timestamp": "2026-08-25T05:39:42.893690852Z",
   "model": "glm-5.3"
 }

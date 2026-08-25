@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I przyprowadzi mężyn ⟨את⟩ swojej żony do kapłana, i przyniesie ⟨את⟩ jej ofiarę za nią: dziesiątą ⟨część⟩ efy mąki jęczmiennej; nie wyleje na nią oliwy ani nie położy na niej kadzidła, ponieważ to jest ofiara z zazdrości, ofiara na pamiątkę, przypominająca winę.",
+  "translation": "I przyprowadzi mężczyzna ⟨את⟩ swojej żony do kapłana, i przyprowadzi ⟨את⟩ jej ofiarę za nią — dziesiątą ⟨część⟩ efy mąki jęczmiennej; nie wyleje na nią oliwy ani nie położy na niej kadzidła, bo to jest ofiara z pokarmu zazdrości, ofiara na wspomnienie, przypominająca winę.",
   "tokens": [
     {
       "surface": "והביא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "mąż"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והביא",
-      "gloss": "i przyniesie"
+      "gloss": "i przyprowadzi"
     },
     {
       "surface": "את",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "האיפה",
-      "gloss": "efy"
+      "gloss": "⟨część⟩ efy"
     },
     {
       "surface": "קמח",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ani"
+      "gloss": "ani nie"
     },
     {
       "surface": "יתן",
-      "gloss": "nie położy"
+      "gloss": "położy"
     },
     {
       "surface": "עליו",
@@ -99,15 +99,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ponieważ"
+      "gloss": "bo"
     },
     {
       "surface": "מנחת",
-      "gloss": "ofiara"
+      "gloss": "ofiara z pokarmu"
     },
     {
       "surface": "קנאת",
-      "gloss": "z zazdrości"
+      "gloss": "zazdrości"
     },
     {
       "surface": "הוא",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "זכרון",
-      "gloss": "na pamiątkę"
+      "gloss": "na wspomnienie"
     },
     {
       "surface": "מזכרת",
@@ -130,6 +130,6 @@
       "gloss": "winę"
     }
   ],
-  "timestamp": "2026-08-25T03:20:43.535664573Z",
+  "timestamp": "2026-08-25T06:28:53.534845381Z",
   "model": "glm-5.3"
 }

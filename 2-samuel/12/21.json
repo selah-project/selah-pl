@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I rzekli jego słudzy do niego: Cóż to za rzecz, którą uczyniłeś? Przez wzgląd na dziecko ⟨gdy było⟩ żywe, pościłeś i płakałeś, a gdy umarło dziecko, powstałeś i jadłeś chleb.",
+  "translation": "I rzekli jego słudzy do niego: Cóż to za rzecz, którą uczyniłeś? Przez wzgląd na dziecko, gdy żyło, pościłeś i płakałeś; a gdy dziecko umarło, powstałeś i jadłeś chleb.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מה",
-      "gloss": "co"
+      "gloss": "cóż"
     },
     {
       "surface": "הדבר",
-      "gloss": "rzecz"
+      "gloss": "za rzecz"
     },
     {
       "surface": "הזה",
-      "gloss": "ta"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
@@ -49,14 +49,14 @@
     },
     {
       "surface": "חי",
-      "gloss": "żywe"
+      "gloss": "gdy żyło"
     },
     {
       "surface": "צמת",
       "gloss": "pościłeś"
     },
     {
-      "surface": "ויבך",
+      "surface": "וותבך",
       "gloss": "i płakałeś"
     },
     {
@@ -84,6 +84,6 @@
       "gloss": "chleb"
     }
   ],
-  "timestamp": "2026-08-24T23:48:43.241128568Z",
+  "timestamp": "2026-08-25T05:57:51.618706071Z",
   "model": "glm-5.3"
 }

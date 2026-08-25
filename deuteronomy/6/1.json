@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A to ⟨jest⟩ przykazanie — ustawy i prawa, które nakazał Jahwe, Elohim wasi, nauczać was, abyście czynili ⟨je⟩ w ziemi, do której wy przechodzicie tam, aby ją posiąść.",
+  "translation": "A to ⟨jest⟩ przykazanie — ustawy i prawa, które nakazał Jahwe, Elohim wasz, aby was nauczyć, żebyście czynili ⟨je⟩ w ziemi, do której przezechodzicie tam, aby ją odziedziczyć.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "a to"
+      "gloss": "A to"
     },
     {
       "surface": "המצוה",
@@ -37,20 +37,19 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim wasi"
+      "gloss": "Elohim wasz"
     },
     {
       "surface": "ללמד",
-      "gloss": "nauczać"
+      "gloss": "aby nauczyć"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "was"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "לעשות",
-      "gloss": "abyście czynili"
+      "gloss": "żebyście czynili"
     },
     {
       "surface": "בארץ",
@@ -66,7 +65,7 @@
     },
     {
       "surface": "עברים",
-      "gloss": "przechodzicie"
+      "gloss": "przezechodzicie"
     },
     {
       "surface": "שמה",
@@ -74,9 +73,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "aby ją posiąść"
+      "gloss": "aby ją odziedziczyć"
     }
   ],
-  "timestamp": "2026-08-24T23:06:00.799479652Z",
+  "timestamp": "2026-08-25T05:49:45.990412949Z",
   "model": "glm-5.3"
 }

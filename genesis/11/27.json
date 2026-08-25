@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 11,
-  "translation": "A to ⟨są⟩ dzieje Teracha: Terach zrodził ⟨את⟩ Awrama, ⟨את⟩ Nachora i ⟨את⟩ Harana; a Haran zrodził ⟨את⟩ Lota.",
+  "translation": "A oto dzieje Teracha: Terach zrodził ⟨את⟩ Awrama, ⟨את⟩ Nachora i ⟨את⟩ Charana; a Charan zrodził ⟨את⟩ Lota.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "A to"
+      "gloss": "A oto"
     },
     {
       "surface": "תולדת",
@@ -48,15 +48,15 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "Harana"
+      "marks": "Charana"
     },
     {
       "surface": "הרן",
-      "gloss": "Harana"
+      "gloss": "Charana"
     },
     {
       "surface": "והרן",
-      "gloss": "a Haran"
+      "gloss": "a Charan"
     },
     {
       "surface": "הוליד",
@@ -72,6 +72,6 @@
       "gloss": "Lota"
     }
   ],
-  "timestamp": "2026-08-25T03:14:19.648364130Z",
+  "timestamp": "2026-08-25T05:36:54.776055330Z",
   "model": "glm-5.3"
 }

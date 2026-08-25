@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I wyszedł Lot, i mówił do swych zięciów, którzy mieli pojąć jego córki, i rzekł: Wstańcie, wyjdźcie z tego miejsca, bo niszczy Jahwe ⟨את⟩ to miasto; lecz w oczach jego zięciów było to jakby żarty.",
+  "translation": "I wyszedł Lot, i mówił do swych zięciów, biorących jego córki, i powiedział: Wstańcie, wyjdźcie z tego miejsca, bo niszczy Jahwe ⟨את⟩ miasto — i było to jak żart w oczach jego zięciów.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לקחי",
-      "gloss": "którzy mieli pojąć"
+      "gloss": "biorących"
     },
     {
       "surface": "בנתיו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i powiedział"
     },
     {
       "surface": "קומו",
-      "gloss": "wstańcie"
+      "gloss": "Wstańcie"
     },
     {
       "surface": "צאו",
@@ -74,7 +74,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to miasto"
+      "marks": "miasto"
     },
     {
       "surface": "העיר",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "כמצחק",
-      "gloss": "jak żarty"
+      "gloss": "jak żart"
     },
     {
       "surface": "בעיני",
@@ -97,6 +97,6 @@
       "gloss": "jego zięciów"
     }
   ],
-  "timestamp": "2026-08-24T22:14:01.808013553Z",
+  "timestamp": "2026-08-25T05:37:46.682852698Z",
   "model": "glm-5.3"
 }

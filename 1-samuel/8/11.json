@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I powiedział: To będzie prawo króla, który będzie królował nad wami: ⟨את⟩ waszych synów weźmie i ustanowi sobie na swoim rydwanie i wśród swoich jeźdźców, i będą biec przed jego rydwanem.",
+  "translation": "I rzekł: To ⟨będzie⟩ prawo króla, który będzie królował nad wami: ⟨את⟩ synów waszych weźmie i ustanowi ich dla siebie na swoich rydwanach i wśród swoich jeźdźców, i będą biec przed jego rydwanem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "זה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "będzie"
+      "gloss": "⟨będzie⟩"
     },
     {
       "surface": "משפט",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "waszych synów"
+      "marks": "synów waszych"
     },
     {
       "surface": "בניכם",
-      "gloss": "waszych synów"
+      "gloss": "synów waszych"
     },
     {
       "surface": "יקח",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "sobie"
+      "gloss": "dla siebie"
     },
     {
       "surface": "במרכבתו",
-      "gloss": "na swoim rydwanie"
+      "gloss": "na swoich rydwanach"
     },
     {
       "surface": "ובפרשיו",
@@ -81,6 +81,6 @@
       "gloss": "jego rydwanem"
     }
   ],
-  "timestamp": "2026-08-24T23:34:25.539037199Z",
+  "timestamp": "2026-08-25T05:55:30.403121064Z",
   "model": "glm-5.3"
 }

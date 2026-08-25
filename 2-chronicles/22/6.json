@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I wrócił, by się leczyć w Jizreel, bo to Aramejczycy, którzy go porazili w Ramie, gdy walczył ⟨z⟩ ⟨את⟩ Chazaelem, królem Aramu. A Azariasz, syn Jehorama, króla Judy, zszedł, by zobaczyć ⟨את⟩ Jehorama, syna Achaba, w Jizreel, bo on ⟨był⟩ chory.",
+  "translation": "I wrócił, by się leczyć w Jizreel, gdyż raniącymi, którzy go zranili w Rama, podczas jego walki ⟨את⟩ Chazael, królem Aramu — a Azarjasz, syn Jehorama, króla Jehudy, zszedł, by zobaczyć ⟨את⟩ Jehorama, syna Achaba, w Jizreel, gdyż ⟨był⟩ chory.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "I wrócił"
+      "gloss": "i wrócił"
     },
     {
       "surface": "להתרפא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "המכים",
-      "gloss": "raniący"
+      "gloss": "raniącymi"
     },
     {
       "surface": "אשר",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "הכהו",
-      "gloss": "porazili go"
+      "gloss": "go zranili"
     },
     {
       "surface": "ברמה",
-      "gloss": "w Ramie"
+      "gloss": "w Rama"
     },
     {
       "surface": "בהלחמו",
-      "gloss": "gdy walczył"
+      "gloss": "podczas jego walki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Chazaelem, królem Aramu"
+      "marks": "Chazael, królem Aramu"
     },
     {
       "surface": "חזהאל",
-      "gloss": "Chazaelem"
+      "gloss": "Chazael"
     },
     {
       "surface": "מלך",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ועזריהו",
-      "gloss": "A Azariasz"
+      "gloss": "a Azarjasz"
     },
     {
       "surface": "בן",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Judy"
+      "gloss": "Jehudy"
     },
     {
       "surface": "ירד",
@@ -111,7 +111,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "חלה",
@@ -122,6 +122,6 @@
       "gloss": "on"
     }
   ],
-  "timestamp": "2026-08-25T03:08:06.464444448Z",
+  "timestamp": "2026-08-25T06:26:42.059051201Z",
   "model": "glm-5.3"
 }

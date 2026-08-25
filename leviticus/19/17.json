@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Nie będziesz nienawidził ⟨את⟩ swego brata w swoim sercu; naganą naganisz ⟨את⟩ swojego współplemienca, i nie poniesiesz na nim winy.",
+  "translation": "Nie będziesz nienawidził ⟨את⟩ swego brata w swym sercu; wystarczająco naganiaj ⟨את⟩ swego bliźniego, i nie poniesiesz na jego temat winy.",
   "tokens": [
     {
       "surface": "לא",
@@ -26,32 +26,28 @@
     },
     {
       "surface": "בלבבך",
-      "gloss": "w swoim sercu"
+      "gloss": "w swym sercu"
     },
     {
       "surface": "הוכח",
-      "gloss": "naganą"
+      "gloss": "naganiaj"
     },
     {
       "surface": "תוכיח",
-      "gloss": "naganisz"
+      "gloss": "wystarczająco naganiaj"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swojego współplemienca"
+      "marks": "swego bliźniego"
     },
     {
       "surface": "עמיתך",
-      "gloss": "swojego współplemienca"
+      "gloss": "swego bliźniego"
     },
     {
-      "surface": "ו",
-      "gloss": "i"
-    },
-    {
-      "surface": "לא",
-      "gloss": "nie"
+      "surface": "ולא",
+      "gloss": "i nie"
     },
     {
       "surface": "תשא",
@@ -59,13 +55,13 @@
     },
     {
       "surface": "עליו",
-      "gloss": "na nim"
+      "gloss": "na jego temat"
     },
     {
       "surface": "חטא",
-      "gloss": "winę"
+      "gloss": "winy"
     }
   ],
-  "timestamp": "2026-08-24T22:46:43.491220813Z",
+  "timestamp": "2026-08-25T06:49:38.838178787Z",
   "model": "glm-5.3"
 }

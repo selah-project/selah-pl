@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I obejrzał kapłan ⟨to⟩ po upraniu ⟨את⟩ plagi, a oto plaga nie zmieniła ⟨את⟩ swego wyglądu, i plaga nie rozpostarła się — nieczysta ⟨jest⟩; w ogniu ją spalisz; ⟨jest⟩ to wyrwa, czy na jej przedzie, czy na tyle.",
+  "translation": "I zobaczy kapłan po wypraniu ⟨את⟩ zarazy, a oto zaraza nie zmieniła ⟨את⟩ swego wyglądu, a zaraza się nie rozprzestrzeniła — nieczyste ⟨to⟩ ⟨jest⟩; w ogniu spalisz je; to wyrwa ⟨jest⟩, z tyłu jego lub z przodu jego.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "i obejrzał"
+      "gloss": "i zobaczy"
     },
     {
       "surface": "הכהן",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "הכבס",
-      "gloss": "upraniu"
+      "gloss": "wypraniu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "plagi"
+      "marks": "zarazę"
     },
     {
       "surface": "הנגע",
-      "gloss": "plaga"
+      "gloss": "zarazę"
     },
     {
       "surface": "והנה",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "plaga"
+      "gloss": "zaraza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego wyglądu"
+      "marks": "swój wygląd"
     },
     {
       "surface": "עינו",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "והנגע",
-      "gloss": "i plaga"
+      "gloss": "a zaraza"
     },
     {
       "surface": "לא",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "פשה",
-      "gloss": "rozpostarła się"
+      "gloss": "rozprzestrzeniła się"
     },
     {
       "surface": "טמא",
-      "gloss": "nieczysta"
+      "gloss": "nieczyste"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "באש",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "תשרפנו",
-      "gloss": "ją spalisz"
+      "gloss": "spalisz je"
     },
     {
       "surface": "פחתת",
@@ -91,21 +91,21 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "בקרחתו",
-      "gloss": "na jej przedzie"
+      "gloss": "z tyłu jego"
     },
     {
       "surface": "או",
-      "gloss": "czy"
+      "gloss": "lub"
     },
     {
       "surface": "בגבחתו",
-      "gloss": "na tyle"
+      "gloss": "z przodu jego"
     }
   ],
-  "timestamp": "2026-08-24T22:44:52.723078878Z",
+  "timestamp": "2026-08-25T05:45:19.017318144Z",
   "model": "glm-5.3"
 }

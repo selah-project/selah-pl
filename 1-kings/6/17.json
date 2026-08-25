@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A czterdzieści łokci miał ⟨את⟩ dom, to jest hekal przed nim.",
+  "translation": "A czterdzieści łokci miał ⟨ten⟩ dom; on ⟨jest⟩ główną salą przed nim.",
   "tokens": [
     {
       "surface": "וארבעים",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to jest"
+      "gloss": "on"
     },
     {
       "surface": "ההיכל",
-      "gloss": "hekal"
+      "gloss": "główna sala"
     },
     {
       "surface": "לפני",
       "gloss": "przed nim"
     }
   ],
-  "timestamp": "2026-08-24T23:57:29.857776632Z",
+  "timestamp": "2026-08-25T05:59:21.351599754Z",
   "model": "glm-5.3"
 }

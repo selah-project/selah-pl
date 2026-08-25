@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I spali ⟨את⟩ szatę, lub ⟨את⟩ osnowę, lub ⟨את⟩ wątek z wełny lub z lnu, albo ⟨את⟩ każdy przedmiot ze skóry, w którym będzie znamię, bo to trąd złośliwy ⟨jest⟩ — w ogniu zostanie spalone.",
+  "translation": "I spali ⟨את⟩ szatę albo ⟨את⟩ osnowę, albo ⟨את⟩ wątek, z wełny albo z lnu, albo ⟨את⟩ każdy przedmiot ze skóry, w którym będzie zaraza, gdyż trąd usilnie_gryzący ⟨to⟩ — w ogniu ⟨będzie⟩ spalone.",
   "tokens": [
     {
       "surface": "ושרף",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "את",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "את",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "בפשתים",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "את",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "w którym"
     },
     {
       "surface": "יהיה",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "znamię"
+      "gloss": "zaraza"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "צרעת",
@@ -105,11 +105,11 @@
     },
     {
       "surface": "ממארת",
-      "gloss": "złośliwy"
+      "gloss": "usilnie gryzący"
     },
     {
       "surface": "הוא",
-      "gloss": "to ⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "באש",
@@ -117,9 +117,9 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "zostanie spalone"
+      "gloss": "spalone"
     }
   ],
-  "timestamp": "2026-08-24T22:44:29.494261961Z",
+  "timestamp": "2026-08-25T06:28:36.275756627Z",
   "model": "glm-5.3"
 }

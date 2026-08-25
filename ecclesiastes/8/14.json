@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 8,
-  "translation": "Jest marność, która się dzieje na ziemi: że są sprawiedliwi, których dosięga ⟨to⟩ jak dzieło bezbożnych, i są bezbożni, których dosięga ⟨to⟩ jak dzieło sprawiedliwych. Powiedziałem, że także to ⟨jest⟩ marność.",
+  "translation": "Jest marność, która się czyni na ziemi: że są sprawiedliwi, którym przydarza się według uczynku bezbożnych, i są bezbożni, którym przydarza się według uczynku sprawiedliwych. Powiedziałem, że także to ⟨jest⟩ marność.",
   "tokens": [
     {
       "surface": "יש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "się dzieje"
+      "gloss": "się czyni"
     },
     {
       "surface": "על",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "których"
+      "gloss": "którym"
     },
     {
       "surface": "מגיע",
-      "gloss": "dosięga"
+      "gloss": "przydarza się"
     },
     {
       "surface": "אלהם",
-      "gloss": "ich"
+      "gloss": "im"
     },
     {
       "surface": "כמעשה",
-      "gloss": "jak dzieło"
+      "gloss": "według uczynku"
     },
     {
       "surface": "הרשעים",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "שמגיע",
-      "gloss": "że dosięga"
+      "gloss": "którym przydarza się"
     },
     {
       "surface": "אלהם",
-      "gloss": "ich"
+      "gloss": "im"
     },
     {
       "surface": "כמעשה",
-      "gloss": "jak dzieło"
+      "gloss": "według uczynku"
     },
     {
       "surface": "הצדיקים",
@@ -104,6 +104,6 @@
       "gloss": "marność"
     }
   ],
-  "timestamp": "2026-08-25T02:33:05.419607061Z",
+  "timestamp": "2026-08-25T06:21:38.011061306Z",
   "model": "glm-5.3"
 }

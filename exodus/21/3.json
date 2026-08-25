@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "Jeśli sam przyjdzie, sam wyjdzie; jeśli ⟨jest⟩ panem żony, to jego żona wyjdzie z nim.",
+  "translation": "Jeśli sam przyjdzie, sam wyjdzie; jeśli ⟨jest⟩ panem żony, wyjdzie jego żona z nim.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "בגפו",
@@ -24,7 +24,7 @@
       "gloss": "sam"
     },
     {
-      "surface": "יצא",
+      "surface": "ייצא",
       "gloss": "wyjdzie"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "ויצאה",
@@ -56,6 +56,6 @@
       "gloss": "z nim"
     }
   ],
-  "timestamp": "2026-08-24T22:32:41.938758172Z",
+  "timestamp": "2026-08-25T05:41:32.771466603Z",
   "model": "glm-5.3"
 }

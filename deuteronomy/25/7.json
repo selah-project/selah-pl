@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 25,
-  "translation": "A jeśli mąż nie zechce wziąć ⟨את⟩ swojej szwagrowej, to wstąpi jego szwagrowa do bramy, do starszych, i powie: odmawia mój szwagier wznieść imię jego bratu w Jisraelu, nie chce czynić obowiązku szwagra wobec mnie.",
+  "translation": "A jeśli mężczyzna nie zechce wziąć ⟨את⟩ swojej bratowej, to wstąpi bratowa jego do bramy, do starszych, i powie: Odmawia szwagier mój wzbudzić bratu swemu imię w Israelu — nie chce szwagier mój spełnić lewiratu.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "A jeśli"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "mąż"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "לקחת",
@@ -30,19 +30,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swojej szwagrowej"
+      "marks": "swojej bratowej"
     },
     {
       "surface": "יבמתו",
-      "gloss": "swej szwagrowej"
+      "gloss": "swojej bratowej"
     },
     {
       "surface": "ועלתה",
-      "gloss": "wstąpi"
+      "gloss": "to wstąpi"
     },
     {
       "surface": "יבמתו",
-      "gloss": "jego szwagrowa"
+      "gloss": "bratowa jego"
     },
     {
       "surface": "השערה",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "יבמי",
-      "gloss": "mój szwagier"
+      "gloss": "szwagier mój"
     },
     {
       "surface": "להקים",
-      "gloss": "wznieść"
+      "gloss": "wzbudzić"
     },
     {
       "surface": "לאחיו",
-      "gloss": "jego bratu"
+      "gloss": "bratu swemu"
     },
     {
       "surface": "שם",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "w Jisraelu"
+      "gloss": "w Israelu"
     },
     {
       "surface": "לא",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "יבמי",
-      "gloss": "czynić obowiązek szwagra"
+      "gloss": "spełnić lewiratu"
     }
   ],
-  "timestamp": "2026-08-24T23:12:27.957922687Z",
+  "timestamp": "2026-08-25T05:51:36.376237674Z",
   "model": "glm-5.3"
 }

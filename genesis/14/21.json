@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I rzekł król Sedomu do Abrama: Oddaj mi ⟨the⟩ nefesz (osoby), a majątność weź sobie.",
+  "translation": "I rzekł król Sedomu do Abrama: Daj mi nefesz (ludzi), a dobytek weź sobie.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תן",
-      "gloss": "oddaj"
+      "gloss": "Daj"
     },
     {
       "surface": "לי",
@@ -37,11 +37,12 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "nefesz (osoby)"
+      "gloss": "nefesz (ludzi)",
+      "marks": "nefesz (ludzi)"
     },
     {
       "surface": "והרכש",
-      "gloss": "a majątność"
+      "gloss": "a dobytek"
     },
     {
       "surface": "קח",
@@ -52,6 +53,6 @@
       "gloss": "sobie"
     }
   ],
-  "timestamp": "2026-08-24T22:12:34.091331180Z",
+  "timestamp": "2026-08-25T07:08:28.953858800Z",
   "model": "glm-5.3"
 }

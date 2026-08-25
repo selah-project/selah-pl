@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I wszystko, czego dotknie ⟨on⟩, ⟨to⟩ nieczyste ⟨będzie⟩ nieczyste — a nefesz, która go dotknie, będzie nieczysta aż do wieczora.",
+  "translation": "I wszystko, czego dotknie nieczysty, będzie nieczyste; a nefesz, która tego dotknie, będzie nieczysta aż do wieczora.",
   "tokens": [
     {
       "surface": "וכל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "go"
+      "gloss": "tego"
     },
     {
       "surface": "הטמא",
@@ -52,6 +52,6 @@
       "gloss": "wieczora"
     }
   ],
-  "timestamp": "2026-08-24T22:56:44.710025998Z",
+  "timestamp": "2026-08-25T05:47:32.850709467Z",
   "model": "glm-5.3"
 }

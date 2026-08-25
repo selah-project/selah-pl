@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Ucho słyszące i oko widzące — Jahwe uczynił oba razem.",
+  "translation": "Ucho słyszące i oko widzące — Jahwe uczynił oba je.",
   "tokens": [
     {
       "surface": "אזן",
@@ -33,17 +33,13 @@
     },
     {
       "surface": "גם",
-      "gloss": "oba razem"
+      "gloss": "oba"
     },
     {
       "surface": "שניהם",
-      "gloss": "оба"
-    },
-    {
-      "surface": "גם שניהם",
-      "gloss": ""
+      "gloss": "je (oba)"
     }
   ],
-  "timestamp": "2026-08-25T02:11:08.026527834Z",
+  "timestamp": "2026-08-25T06:32:21.336295038Z",
   "model": "glm-5.3"
 }

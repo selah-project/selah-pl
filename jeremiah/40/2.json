@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 40,
-  "translation": "I zabrał dowódca katów Jirmejahu i rzekł do niego: Jahwe, Elohim twój, wypowiedział ⟨את⟩ tę nieszczęsność ⟨skierowaną⟩ na to miejsce.",
+  "translation": "I wziął dowódca rzeźników Jirmejahu i rzekł do niego: Jahwe, twój Elohim, wyrzekł ⟨את⟩ tę złowrogość na to miejsce.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "i zabrał"
+      "gloss": "i wziął"
     },
     {
       "surface": "רב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "katów"
+      "gloss": "rzeźników"
     },
     {
       "surface": "לירמיהו",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim twój"
+      "gloss": "twój Elohim"
     },
     {
       "surface": "דבר",
-      "gloss": "wypowiedział"
+      "gloss": "wyrzekł"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tę nieszczęsność"
+      "marks": "tę złowrogość"
     },
     {
       "surface": "הרעה",
-      "gloss": "tę nieszczęsność"
+      "gloss": "tę złowrogość"
     },
     {
       "surface": "הזאת",
@@ -69,6 +69,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-25T00:59:49.009389834Z",
+  "timestamp": "2026-08-25T06:10:37.580910477Z",
   "model": "glm-5.3"
 }

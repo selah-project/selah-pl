@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 15,
-  "translation": "Bo neder złożył twój sługa, gdy przebywałem w Geszur, w Aram, mówiąc: Jeśli Jahwe na pewno mnie sprowadzi z powrotem do Jeruszalaim, to będę służył ⟨את⟩ Jahwe.",
+  "translation": "gdyż ślub ślubował twój sługa, gdy przebywałem w Geszur, w Aram, mówiąc: jeśli rzeczywiście sprowadzi mnie z powrotem Jahwe do Jeruszalaim, będę służył ⟨את⟩ Jahwe.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "נדר",
-      "gloss": "neder"
+      "gloss": "ślub"
     },
     {
       "surface": "נדר",
-      "gloss": "złożył"
+      "gloss": "ślubował"
     },
     {
       "surface": "עבדך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "Jeśli"
+      "gloss": "jeśli"
     },
     {
       "surface": "ישיב",
-      "gloss": "na pewno sprowadzi"
+      "gloss": "sprowadzi"
     },
     {
       "surface": "ישיבני",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ועבדתי",
-      "gloss": "to będę służył"
+      "gloss": "będę służył"
     },
     {
       "surface": "את",
@@ -73,6 +73,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:49:42.968876594Z",
+  "timestamp": "2026-08-25T06:30:06.789888289Z",
   "model": "glm-5.3"
 }

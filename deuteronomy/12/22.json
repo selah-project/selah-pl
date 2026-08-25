@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Tylko jak się je ⟨את⟩ gazela i ⟨את⟩ jelenia, tak będziesz to jeść; nieczysty i czysty spożywać to będą razem.",
+  "translation": "Tylko jak się je ⟨את⟩ gazela i ⟨את⟩ jelenia, tak możesz go jeść — nieczysty i czysty razem będą go jeść.",
   "tokens": [
     {
       "surface": "אך",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "jelenia"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "będziesz to jeść"
+      "gloss": "możesz go jeść"
     },
     {
       "surface": "הטמא",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "spożywać to będą"
+      "gloss": "będą go jeść"
     }
   ],
-  "timestamp": "2026-08-24T23:08:15.591824629Z",
+  "timestamp": "2026-08-25T05:50:11.330846587Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I wziął Mosze ⟨את⟩ piersi i wymachał nimi jako ofiarą kołysaną przed Jahwe; z barana consacracji było ⟨to⟩ dla Moszego na część, tak jak nakazał Jahwe ⟨את⟩ Moszemu.",
+  "translation": "I wziął Mosze ⟨את⟩ piersi i wymachał nią machaniem przed Jahwe; z barana wyświęcenia przypadła Moszemu na udział, jak nakazał Jahwe ⟨את⟩ Moszemu.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ויניפהו",
-      "gloss": "i wymachał nimi"
+      "gloss": "i wymachał nią"
     },
     {
       "surface": "תנופה",
-      "gloss": "ofiarą kołysaną"
+      "gloss": "machaniem"
     },
     {
       "surface": "לפני",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "המלאים",
-      "gloss": "consecracji"
+      "gloss": "wyświęcenia"
     },
     {
       "surface": "למשה",
-      "gloss": "dla Moszego"
+      "gloss": "Moszemu"
     },
     {
       "surface": "היה",
-      "gloss": "było"
+      "gloss": "przypadła"
     },
     {
       "surface": "למנה",
-      "gloss": "na część"
+      "gloss": "na udział"
     },
     {
       "surface": "כאשר",
-      "gloss": "tak jak"
+      "gloss": "jak"
     },
     {
       "surface": "צוה",
@@ -75,13 +75,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moszego"
+      "marks": "Moszemu"
     },
     {
       "surface": "משה",
       "gloss": "Moszemu"
     }
   ],
-  "timestamp": "2026-08-24T22:42:39.059874585Z",
+  "timestamp": "2026-08-25T05:43:44.172644454Z",
   "model": "glm-5.3"
 }

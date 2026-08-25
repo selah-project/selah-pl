@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I doszło ⟨to⟩ słowo do króla Niniwy, i wstał z tronu swojego, i zdjął płaszcz swój z siebie, i okrył się wor, i usiadł na popiele.",
+  "translation": "I dotarło ⟨to⟩ słowo do króla Niniwy, i wstał z ⟨od⟩ swojego tronu, i zdjął swoją szatę z siebie, i okrył się worzem, i usiadł na popiele.",
   "tokens": [
     {
       "surface": "ויגע",
-      "gloss": "i doszło"
+      "gloss": "i dotarło"
     },
     {
       "surface": "הדבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מכסאו",
-      "gloss": "z tronu swojego"
+      "gloss": "z jego tronu"
     },
     {
       "surface": "ויעבר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אדרתו",
-      "gloss": "płaszcz swój"
+      "gloss": "swoją szatę"
     },
     {
       "surface": "מעליו",
-      "gloss": "z siebie"
+      "gloss": "z niego"
     },
     {
       "surface": "ויכס",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "שק",
-      "gloss": "wor"
+      "gloss": "worem"
     },
     {
       "surface": "וישב",
@@ -68,6 +68,6 @@
       "gloss": "popiele"
     }
   ],
-  "timestamp": "2026-08-25T01:36:28.243713086Z",
+  "timestamp": "2026-08-25T06:13:46.949477930Z",
   "model": "glm-5.3"
 }

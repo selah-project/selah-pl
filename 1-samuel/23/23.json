@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I zobaczcie, i poznajcie wszystkie kryjówki, w których tam się ukrywa, i wróćcie do mnie ⟨z⟩ pewnością, i pójdę ⟨את⟩ wami; i będzie, jeśli jest w ziemi, to wypatrzę go ⟨את⟩ we wszystkich tysiącach Jehudy.",
+  "translation": "Rozejrzyjcie się i poznajcie wszystkie kryjówki, w których on się tam ukrywa, i wróćcie do mnie z pewnością ⟨co do rzeczy⟩, a pójdę z ⟨את⟩ wami; i ⟨będzie⟩ tak: jeśli jest on w ziemi, to wytropię ⟨את⟩ jego po wszystkich tysiącach Jehudy.",
   "tokens": [
     {
       "surface": "וראו",
-      "gloss": "i zobaczcie"
+      "gloss": "Rozejrzyjcie się"
     },
     {
       "surface": "ודעו",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "והלכתי",
-      "gloss": "i pójdę"
+      "gloss": "a pójdę"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wami"
+      "gloss": "z ⟨את⟩ wami"
     },
     {
       "surface": "והיה",
-      "gloss": "i będzie"
+      "gloss": "i ⟨będzie⟩"
     },
     {
       "surface": "אם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ישנו",
-      "gloss": "jest"
+      "gloss": "jest on"
     },
     {
       "surface": "בארץ",
@@ -77,16 +77,16 @@
     },
     {
       "surface": "וחפשתי",
-      "gloss": "to wypatrzę"
+      "gloss": "to wytropię"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
-      "marks": "we wszystkich tysiącach Jehudy"
+      "gloss": "⟨את⟩",
+      "marks": "jego"
     },
     {
       "surface": "בכל",
-      "gloss": "we wszystkich"
+      "gloss": "po wszystkich"
     },
     {
       "surface": "אלפי",
@@ -97,6 +97,6 @@
       "gloss": "Jehudy"
     }
   ],
-  "timestamp": "2026-08-24T23:42:03.338777252Z",
+  "timestamp": "2026-08-25T05:56:11.256868133Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 30,
-  "translation": "Żebyś miłował ⟨את⟩ Jahwe, Elohima twego, chodził jego drogami i strzegł jego przykazań, jego ustaw i jego praw — ja nakazuję ci to dzisiaj — i będziesz żył i rozmnożysz się, i pobłogosławi ci Jahwe, Elohim twój, w ziemi, do której wchodzisz, aby ją odziedziczyć.",
+  "translation": "że miłować Jahwe, Elohim twojego, chodzić drogami jego i strzec przykazań jego, ustaw jego i praw jego — i będziesz żył i rozmnożysz się, i pobłogosławi ci Jahwe, Elohim twój, w ziemi, do której ty wchodzisz tam, aby ją odziedziczyć; tego ja tobie dziś nakazuję.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "żebyś"
+      "gloss": "że"
     },
     {
       "surface": "אנכי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "nakazuję ci"
+      "gloss": "nakazuję tobie"
     },
     {
       "surface": "היום",
-      "gloss": "dzisiaj"
+      "gloss": "dziś"
     },
     {
       "surface": "לאהבה",
-      "gloss": "miłował"
+      "gloss": "miłować"
     },
     {
       "surface": "את",
@@ -38,31 +38,31 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohima twego"
+      "gloss": "Elohim twój"
     },
     {
       "surface": "ללכת",
-      "gloss": "chodził"
+      "gloss": "chodzić"
     },
     {
       "surface": "בדרכיו",
-      "gloss": "jego drogami"
+      "gloss": "drogami jego"
     },
     {
-      "surface": "ולשמר",
-      "gloss": "i strzegł"
+      "surface": "ו לשמר",
+      "gloss": "i strzec"
     },
     {
       "surface": "מצותיו",
-      "gloss": "jego przykazań"
+      "gloss": "przykazań jego"
     },
     {
       "surface": "וחקתיו",
-      "gloss": "jego ustaw"
+      "gloss": "ustaw jego"
     },
     {
       "surface": "ומשפטיו",
-      "gloss": "jego praw"
+      "gloss": "praw jego"
     },
     {
       "surface": "וחיית",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "do której"
+      "gloss": "której"
     },
     {
       "surface": "אתה",
@@ -109,6 +109,6 @@
       "gloss": "aby ją odziedziczyć"
     }
   ],
-  "timestamp": "2026-08-24T23:14:10.312998762Z",
+  "timestamp": "2026-08-25T05:51:38.495681405Z",
   "model": "glm-5.3"
 }

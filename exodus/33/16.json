@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I czymże ⟨to⟩ będzie poznane, czy znalazłem łaskę w Twoich oczach, ja i Twój lud? Czyż nie ⟨tym⟩, że pójdziesz z nami? I będę wyróżniony, ja i Twój lud, spośród wszelkiego ludu, który jest na powierzchni ziemi.",
+  "translation": "I przez co będzie poznane, że znalazłem łaskę w twoich oczach — ja i twój lud? Czyż nie tym, że pójdziesz z nami, i wyróżnimy się — ja i twój lud — spośród wszystkiego ludu, który ⟨jest⟩ na powierzchni ziemi?",
   "tokens": [
     {
       "surface": "ובמה",
-      "gloss": "i czym"
+      "gloss": "i przez co"
     },
     {
       "surface": "יודע",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אפוא",
-      "gloss": "czyże"
+      "gloss": "więc"
     },
     {
       "surface": "כי",
-      "gloss": "czy"
+      "gloss": "że"
     },
     {
       "surface": "מצאתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "w Twoich oczach"
+      "gloss": "w twoich oczach"
     },
     {
       "surface": "אני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ועמך",
-      "gloss": "i Twój lud"
+      "gloss": "i twój lud"
     },
     {
       "surface": "הלוא",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "בלכתך",
-      "gloss": "że pójdziesz"
+      "gloss": "tym, że pójdziesz"
     },
     {
       "surface": "עמנו",
       "gloss": "z nami"
     },
     {
-      "surface": "ונפלינו",
-      "gloss": "i będę wyróżniony"
+      "surface": "ויפלינו",
+      "gloss": "i wyróżnimy się"
     },
     {
       "surface": "אני",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ועמך",
-      "gloss": "i Twój lud"
+      "gloss": "i twój lud"
     },
     {
       "surface": "מכל",
-      "gloss": "spośród wszelkiego"
+      "gloss": "spośród wszystkiego"
     },
     {
       "surface": "העם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "על",
-      "gloss": "jest na"
+      "gloss": "na"
     },
     {
       "surface": "פני",
@@ -92,6 +92,6 @@
       "gloss": "ziemi"
     }
   ],
-  "timestamp": "2026-08-24T22:37:08.363935110Z",
+  "timestamp": "2026-08-25T05:43:03.304308771Z",
   "model": "glm-5.3"
 }

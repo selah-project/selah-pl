@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 25,
-  "translation": "a jeśli jego ręka nie znalazła ⟨dość⟩ na oddanie mu, to będzie jego sprzedaż w ręce nabywcy ⟨את⟩-go aż do roku jubileuszowego, i wyjdzie w jubileuszu, i wróci do swojej posiadłości.",
+  "translation": "A jeśli jego ręka nie znalazła dosyć, by mu zwrócić, to jego sprzedaż pozostanie w ręku nabywcy ⟨את⟩ aż do roku jubileuszowego, i wyjdzie w jubileuszu, i wróci do swojej posiadłości.",
   "tokens": [
     {
       "surface": "ואם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "די",
-      "gloss": "dość"
+      "gloss": "dosyć"
     },
     {
       "surface": "השיב",
-      "gloss": "na oddanie"
+      "gloss": "by zwrócić"
     },
     {
       "surface": "לו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "w ręce"
+      "gloss": "w ręku"
     },
     {
       "surface": "הקנה",
@@ -53,8 +53,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-go",
-      "marks": "nabywca jako posiadacz rzeczy sprzedanej"
+      "gloss": "⟨את⟩",
+      "marks": "jego sprzedaż"
     },
     {
       "surface": "עד",
@@ -85,6 +85,6 @@
       "gloss": "do swojej posiadłości"
     }
   ],
-  "timestamp": "2026-08-24T22:48:45.244175109Z",
+  "timestamp": "2026-08-25T05:46:26.721146552Z",
   "model": "glm-5.3"
 }

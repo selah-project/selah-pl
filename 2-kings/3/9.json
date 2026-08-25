@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I ruszył król Izraela, i król Jehudy, i król Edomu, i okrążyli drogę siedmiu dni, i nie było wody dla obozu ani dla bydła, które było przy ich nogach.",
+  "translation": "I ruszył król Jisraela, i król Jehudy, i król Edomu, i okrążyli ⟨ drogę⟩ siedmiu dni, i nie było wody dla obozu ani dla bydła, które było przy ich nogach.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "i ruszył"
+      "gloss": "I ruszył"
     },
     {
       "surface": "מלך",
@@ -17,11 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraela"
-    },
-    {
-      "surface": "וילך",
-      "gloss": ""
+      "gloss": "Jisraela"
     },
     {
       "surface": "ומלך",
@@ -73,7 +69,7 @@
     },
     {
       "surface": "ולבהמה",
-      "gloss": "i dla bydła"
+      "gloss": "ani dla bydła"
     },
     {
       "surface": "אשר",
@@ -84,6 +80,6 @@
       "gloss": "przy ich nogach"
     }
   ],
-  "timestamp": "2026-08-25T00:08:01.918192762Z",
+  "timestamp": "2026-08-25T06:02:26.042557324Z",
   "model": "glm-5.3"
 }

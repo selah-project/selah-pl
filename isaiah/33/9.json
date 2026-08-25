@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 33,
-  "translation": "Żałuje, więdnie ziemia, zawstydził się Lewanôn i usechł; stał się ⟨the⟩ Szaron jak step, a strząsają ⟨owoce⟩ Baszan i Karmel.",
+  "translation": "Żałuje, więdnie ziemia; zawstydził się Liban, usechł; stał się Szaron jak step, a Baszan i Karmel ⟨się⟩ strząsają ⟨owocami⟩.",
   "tokens": [
     {
       "surface": "אבל",
-      "gloss": "żałuje"
+      "gloss": "Żałuje"
     },
     {
       "surface": "אמללה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לבנון",
-      "gloss": "Lewanon"
+      "gloss": "Liban"
     },
     {
       "surface": "קמל",
@@ -56,6 +56,6 @@
       "gloss": "i Karmel"
     }
   ],
-  "timestamp": "2026-08-25T03:32:28.262323008Z",
+  "timestamp": "2026-08-25T06:05:36.144049220Z",
   "model": "glm-5.3"
 }

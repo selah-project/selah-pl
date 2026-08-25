@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I przeszedł Joram do Cajry, i wszystkie rydwany z nim; i stało się, on powstał nocą ⟨את⟩ i pobił ⟨את⟩ Edom Otaczający ⟨את⟩ go, i ⟨את⟩ dowódców rydwanów; i uciekł lud do swoich namiotów.",
+  "translation": "I przeszedł Joram do Cair z całym rydwanami ⟨את⟩ — przepraszam: I przeszedł Joram do Cair, i wszystkie rydwany z nim; i stało się, on powstał nocą i pobił ⟨את⟩ Edomitów otaczających go, oraz ⟨את⟩ dowódców rydwanów; i uciekł lud do swoich namiotów.",
   "tokens": [
     {
       "surface": "ויעבר",
@@ -17,11 +17,7 @@
     },
     {
       "surface": "צעירה",
-      "gloss": "do Cajry"
-    },
-    {
-      "surface": "ויכל—",
-      "gloss": ""
+      "gloss": "do Cair"
     },
     {
       "surface": "וכל",
@@ -53,28 +49,28 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "⟨את⟩ i pobił"
+      "gloss": "i pobił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Edom Otaczający go"
+      "marks": "Edomitów"
     },
     {
       "surface": "אדום",
-      "gloss": "Edom"
+      "gloss": "Edomitów"
     },
     {
       "surface": "הסביב",
-      "gloss": "Otaczający"
+      "gloss": "otaczających"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨את⟩ go"
+      "gloss": "go"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "dowódców rydwanów"
     },
     {
@@ -98,6 +94,6 @@
       "gloss": "do swoich namiotów"
     }
   ],
-  "timestamp": "2026-08-25T00:10:15.682015404Z",
+  "timestamp": "2026-08-25T06:30:18.462778018Z",
   "model": "glm-5.3"
 }

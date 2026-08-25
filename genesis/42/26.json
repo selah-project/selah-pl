@@ -5,8 +5,38 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 42,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-24T22:22:57.863918179Z",
+  "translation": "I załadowali ⟨את⟩ swój zboże na swoje osły, i wyszli stamtąd.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i załadowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje zboże"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "swoje zboże"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "swoje osły"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    }
+  ],
+  "timestamp": "2026-08-25T05:39:38.290863587Z",
   "model": "glm-5.3"
 }

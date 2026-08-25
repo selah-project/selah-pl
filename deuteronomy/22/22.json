@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Jeśli zostanie znaleziony mężczyzna leżący z kobietą poślubioną ⟨mężowi⟩, to umrą obydwoje — mężczyzna leżący z kobietą i kobieta; a usuniesz zło z Israela.",
+  "translation": "Gdy zostanie znaleziony mężczyzna śpiący z kobietą — zamężną ⟨od⟩ męża — to umrą obaj: mężczyzna śpiący z kobietą oraz kobieta; i usuniesz zło z Israela.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jeśli"
+      "gloss": "Gdy"
     },
     {
       "surface": "ימצא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "leżący"
+      "gloss": "śpiący"
     },
     {
       "surface": "עם",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "בעלת",
-      "gloss": "poślubiona"
+      "gloss": "zamężną"
     },
     {
       "surface": "בעל",
-      "gloss": "mężowi"
+      "gloss": "męża"
     },
     {
       "surface": "ומתו",
-      "gloss": "to umrą"
+      "gloss": "i umrą"
     },
     {
       "surface": "גם",
-      "gloss": "obydwoje"
+      "gloss": "obaj"
     },
     {
       "surface": "שניהם",
-      "gloss": "ich dwóch"
+      "gloss": "oboje"
     },
     {
       "surface": "האיש",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "השכב",
-      "gloss": "leżący"
+      "gloss": "śpiący"
     },
     {
       "surface": "עם",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "והאשה",
-      "gloss": "i kobieta"
+      "gloss": "oraz kobieta"
     },
     {
       "surface": "ובערת",
-      "gloss": "a usuniesz"
+      "gloss": "i usuniesz"
     },
     {
       "surface": "הרע",
@@ -84,6 +84,6 @@
       "gloss": "z Israela"
     }
   ],
-  "timestamp": "2026-08-24T23:12:21.322399872Z",
+  "timestamp": "2026-08-25T05:50:32.151779517Z",
   "model": "glm-5.3"
 }

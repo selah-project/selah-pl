@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Dlatego rozważny w owym czasie zamilczy, bo to czas zły.",
+  "translation": "Dlatego rozważny zamilknie w tym czasie, bo to czas zły ⟨jest⟩.",
   "tokens": [
     {
       "surface": "לכן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "owym"
+      "gloss": "tym"
     },
     {
       "surface": "ידם",
-      "gloss": "zamilczy"
+      "gloss": "zamilknie"
     },
     {
       "surface": "כי",
@@ -44,6 +44,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-25T01:35:13.446790326Z",
+  "timestamp": "2026-08-25T06:13:46.718578966Z",
   "model": "glm-5.3"
 }

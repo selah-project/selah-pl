@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 27,
-  "translation": "I rzekł Jicchak do Jaakowa: Podejdź teraz, a dotknę cię, synu mój — czy ty ⟨to⟩ jesteś synem mój Esaw, czy nie?",
+  "translation": "I rzekł Jicchak do Jaakowa: Podejdź, proszę, abym cię pomacał, synu mój — czy ty ⟨jesteś⟩ tym moim synem Esawem, czy nie?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "יצחק",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "גשה",
-      "gloss": "podejdź"
+      "gloss": "Podejdź"
     },
     {
       "surface": "נא",
-      "gloss": "teraz"
+      "gloss": "proszę"
     },
     {
-      "surface": "ואמשך",
-      "gloss": "a dotknę cię"
+      "surface": "ו אמשך",
+      "gloss": "abym cię pomacał"
     },
     {
       "surface": "בני",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "זה",
-      "gloss": "⟨to⟩"
+      "gloss": "tym"
     },
     {
       "surface": "בני",
-      "gloss": "synem mój"
+      "gloss": "moim synem"
     },
     {
       "surface": "עשו",
-      "gloss": "Esaw"
+      "gloss": "Esawem"
     },
     {
       "surface": "אם",
@@ -64,6 +64,6 @@
       "gloss": "nie"
     }
   ],
-  "timestamp": "2026-08-24T22:17:10.588629725Z",
+  "timestamp": "2026-08-25T05:38:52.006099322Z",
   "model": "glm-5.3"
 }

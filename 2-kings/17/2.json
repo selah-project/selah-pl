@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I czynił ⟨to, co⟩ złe w oczach Jahwe, tylko nie jak królowie Israel, którzy byli przed nim.",
+  "translation": "I czynił ⟨to, co⟩ złe w oczach Jahwe, jednak nie tak jak królowie Jisraela, którzy byli przed nim.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "tylko"
+      "gloss": "jednak"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Jisraela"
     },
     {
       "surface": "אשר",
@@ -52,6 +52,6 @@
       "gloss": "przed nim"
     }
   ],
-  "timestamp": "2026-08-25T00:15:01.877879225Z",
+  "timestamp": "2026-08-25T06:03:03.147345546Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 33,
-  "translation": "A jeśli nie wypedzicie ⟨את⟩ mieszkańców ziemi przed sobą, to stanie się: których z nich zostawicie, będą cierniami w waszych oczach i kolcami w waszych bokach, i będą ⟨את⟩ was ściskać na ziemi, w której zamieszkujecie.",
+  "translation": "A jeśli nie wypędzicie ⟨את⟩ mieszkańców ziemi przed sobą, stanie się, że ci, których zostawicie z nich, będą kolcami w waszych oczach i cierniami w waszych bokach, i będą was ściskać na ziemi, w której wy zamieszkujecie ⟨w⟩ niej.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תורישו",
-      "gloss": "wypedzicie"
+      "gloss": "wypędzicie"
     },
     {
       "surface": "את",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "to stanie się"
+      "gloss": "i stanie się"
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "których"
     },
     {
       "surface": "תותירו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לשכים",
-      "gloss": "cierniami"
+      "gloss": "kolcami"
     },
     {
       "surface": "בעיניכם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ולצנינם",
-      "gloss": "i kolcami"
+      "gloss": "i cierniami"
     },
     {
       "surface": "בצדיכם",
@@ -101,6 +101,6 @@
       "gloss": "w niej"
     }
   ],
-  "timestamp": "2026-08-24T23:03:16.532470109Z",
+  "timestamp": "2026-08-25T05:49:30.300228650Z",
   "model": "glm-5.3"
 }

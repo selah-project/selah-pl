@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 25,
-  "translation": "I stało się, gdy ⟨on⟩ mówił do niego, że ⟨król⟩ rzekł mu: Czy za doradcę króla cię ustanowiono? Zaprzestań! Po co mają cię bić? I zaprzestał prorok, i rzekł: Wiem, że Elohim postanowił cię zniszczyć, bo to uczyniłeś i nie usłuchałeś mojej rady.",
+  "translation": "I stało się, gdy ⟨on⟩ mówił do niego, że ⟨król⟩ rzekł do niego: Czy na doradcę króla cię ustanowiono? Zaprzestań ⟨sobie⟩! Czemu ⟨miałbyś⟩ być zraniony? I zaprzestał prorok, i rzekł: Wiem, że Elohim postanowił cię zniszczyć, bo to uczyniłeś i nie usłuchałeś mojej rady.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "do niego"
     },
     {
       "surface": "הליועץ",
-      "gloss": "Czy za doradcę"
+      "gloss": "czy na doradcę"
     },
     {
       "surface": "למלך",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "חדל",
-      "gloss": "Zaprzestań"
+      "gloss": "zaprzestań"
     },
     {
       "surface": "לך",
-      "gloss": "!"
+      "gloss": "⟨sobie⟩"
     },
     {
       "surface": "למה",
-      "gloss": "Po co"
+      "gloss": "czemu"
     },
     {
       "surface": "יכוך",
-      "gloss": "mają cię bić"
+      "gloss": "zranić cię"
     },
     {
       "surface": "ויחדל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "Wiem"
+      "gloss": "wiem"
     },
     {
       "surface": "כי",
@@ -112,6 +112,6 @@
       "gloss": "mojej rady"
     }
   ],
-  "timestamp": "2026-08-25T03:09:20.089745995Z",
+  "timestamp": "2026-08-25T06:26:42.107893386Z",
   "model": "glm-5.3"
 }

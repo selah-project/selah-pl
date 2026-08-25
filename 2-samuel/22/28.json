@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A ⟨את⟩ lud uciśniony wybawisz, i twoje oczy na wyniosłych pochylią ⟨ich⟩.",
+  "translation": "A ⟨את⟩ ludu uciskanego wybawisz, a twoje oczy na wyniosłych sprowadzisz ⟨na⟩ dół.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "lud uciśniony"
+      "marks": "ludu"
     },
     {
       "surface": "עם",
-      "gloss": "lud"
+      "gloss": "ludu"
     },
     {
       "surface": "עני",
-      "gloss": "uciśniony"
+      "gloss": "uciskanego"
     },
     {
       "surface": "תושיע",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ועיניך",
-      "gloss": "i twoje oczy"
+      "gloss": "a twoje oczy"
     },
     {
       "surface": "על",
@@ -38,13 +38,9 @@
     },
     {
       "surface": "תשפיל",
-      "gloss": "pochylą"
-    },
-    {
-      "notes": [],
-      "tokens_note": "placeholder"
+      "gloss": "sprowadzisz ⟨na⟩ dół"
     }
   ],
-  "timestamp": "2026-08-25T03:28:14.165881727Z",
+  "timestamp": "2026-08-25T07:00:37.391424416Z",
   "model": "glm-5.3"
 }

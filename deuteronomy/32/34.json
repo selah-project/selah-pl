@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 32,
-  "translation": "Czyż nie ⟨jest⟩ to złożone u mnie, zapieczętowane w moich skarbcach?",
+  "translation": "Czyż to nie ⟨jest⟩ zgromadzone u Mnie, zapieczętowane w moich skarbcach?",
   "tokens": [
     {
       "surface": "הלא",
@@ -17,14 +17,14 @@
     },
     {
       "surface": "כמס",
-      "gloss": "złożone"
+      "gloss": "zgromadzone"
     },
     {
       "surface": "עמדי",
-      "gloss": "u mnie"
+      "gloss": "u Mnie"
     },
     {
-      "surface": "חתם",
+      "surface": "חתום",
       "gloss": "zapieczętowane"
     },
     {
@@ -32,6 +32,6 @@
       "gloss": "w moich skarbcach"
     }
   ],
-  "timestamp": "2026-08-24T23:15:06.461312067Z",
+  "timestamp": "2026-08-25T05:51:40.022563689Z",
   "model": "glm-5.3"
 }

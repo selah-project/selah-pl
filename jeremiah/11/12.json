@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Wtedy pójdą miasta Jehudy i mieszkańcy Jeruszalaim, i będą wołać do bogów, którym kadzą — a ci nie zbawią ich wcale w czasie niedoli ich.",
+  "translation": "I pójdą miasta Jehudy i mieszkańcy Jeruszalaim, i będą wołać do bogów, którym ⟨oni⟩ kadzą — ale nie wybawią ich wcale w czasie ich niedoli.",
   "tokens": [
     {
       "surface": "והלכו",
-      "gloss": "pójdą"
+      "gloss": "i pójdą"
     },
     {
       "surface": "ערי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "oni"
+      "gloss": "⟨oni⟩"
     },
     {
       "surface": "מקטרים",
@@ -56,12 +56,8 @@
       "gloss": "im"
     },
     {
-      "surface": "ויקוטרים",
-      "gloss": ""
-    },
-    {
       "surface": "והושע",
-      "gloss": "a ci nie zbawią"
+      "gloss": "ale wybawią"
     },
     {
       "surface": "לא",
@@ -69,7 +65,7 @@
     },
     {
       "surface": "יושיעו",
-      "gloss": "zbawią"
+      "gloss": "wcale"
     },
     {
       "surface": "להם",
@@ -81,9 +77,9 @@
     },
     {
       "surface": "רעתם",
-      "gloss": "niedoli ich"
+      "gloss": "ich niedoli"
     }
   ],
-  "timestamp": "2026-08-25T00:45:04.874219291Z",
+  "timestamp": "2026-08-25T06:31:29.253024390Z",
   "model": "glm-5.3"
 }

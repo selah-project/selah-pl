@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Dlatego powiedz im: Tak mówi Adonai Jahwe: Uciszam ⟨את⟩ przysłowie to, i nie będą go więcej przysłowiem w Iszraelu; lecz mów do nich: Zbliżyły się dni i słowo każdego widzenia.",
+  "translation": "Dlatego powiedz do nich: Tak powiedział Adonai Jahwe: Uczyniłem kres ⟨את⟩ temu przysłowiu i nie będą ⟨go⟩ używać więcej w Jisraelu; lecz mów do nich: Przybliżyły się dni i ⟨dopełni się⟩ słowo każdego widzenia.",
   "tokens": [
     {
       "surface": "לכן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "im"
+      "gloss": "do nich"
     },
     {
       "surface": "כה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "mówi"
+      "gloss": "powiedział"
     },
     {
       "surface": "אדני",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "Uciszam"
+      "gloss": "Uczyniłem kres"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "przysłowie to"
+      "marks": "temu przysłowiu"
     },
     {
       "surface": "המשל",
-      "gloss": "przysłowie"
+      "gloss": "przysłowiu"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "temu"
     },
     {
       "surface": "ולא",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "ימשלו",
-      "gloss": "będą przysłowiem"
+      "gloss": "będą używać"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go"
+      "marks": "go (przysłowie)"
     },
     {
       "surface": "עוד",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "w Iszraelu"
+      "gloss": "w Jisraelu"
     },
     {
       "surface": "כי",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "Zbliżyły się"
+      "gloss": "Przybliżyły się"
     },
     {
       "surface": "הימים",
@@ -110,6 +110,6 @@
       "gloss": "widzenia"
     }
   ],
-  "timestamp": "2026-08-25T01:11:00.541140072Z",
+  "timestamp": "2026-08-25T06:11:26.179821891Z",
   "model": "glm-5.3"
 }

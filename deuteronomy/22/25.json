@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A jeśli w polu znajdzie ⟨את⟩ mężczyzna ⟨את⟩ młodą niewiastę zaręczoną i chwyci ją ten mężczyzna i obejmie z nią, to umrze ten mężczyzna, który z nią obcował — on sam.",
+  "translation": "A jeśli mężczyzna znajdzie na polu ⟨את⟩ młodą niewiastę zaręczoną, i uchwyci ją mężczyzna, i złączy się z nią — to umrze mężczyzna sam, który złączył się z nią.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "w polu"
+      "gloss": "na polu"
     },
     {
       "surface": "ימצא",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "młodą niewiastę zaręczoną"
+      "marks": "młodą niewiastę"
     },
     {
       "surface": "הנער",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "והחזיק",
-      "gloss": "i chwyci"
+      "gloss": "i uchwyci"
     },
     {
       "surface": "בה",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ten mężczyzna"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "ושכב",
-      "gloss": "i obejmie z nią"
+      "gloss": "i złączy się"
     },
     {
       "surface": "עמה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ten mężczyzna"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "אשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "obcował"
+      "gloss": "złączył się"
     },
     {
       "surface": "עמה",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "on sam"
+      "gloss": "sam"
     }
   ],
-  "timestamp": "2026-08-24T23:12:09.750884222Z",
+  "timestamp": "2026-08-25T05:51:09.098942989Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 18,
-  "translation": "Wyczerpiesz się — wyczerpiesz, zarówno ty, jak i ten lud, który ⟨jest⟩ z tobą, bo zbyt ciężkie jest dla ciebie ⟨to⟩ słowo — nie zdołasz uczynić go sam jeden.",
+  "translation": "Na pewno się wyczerpiesz — zarówno ty, jak i ten lud, który ⟨jest⟩ z tobą; bo zbyt ciężka jest od ciebie ta rzecz: nie zdołasz uczynić jej ⟨sam⟩.",
   "tokens": [
     {
       "surface": "נבל",
-      "gloss": "wyczerpiesz się"
+      "gloss": "na pewno się wyczerpiesz"
     },
     {
       "surface": "תבל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "ten lud"
+      "gloss": "lud"
     },
     {
       "surface": "הזה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "כבד",
-      "gloss": "ciężkie"
+      "gloss": "zbyt ciężka"
     },
     {
       "surface": "ממך",
-      "gloss": "dla ciebie"
+      "gloss": "od ciebie"
     },
     {
       "surface": "הדבר",
-      "gloss": "słowo"
+      "gloss": "ta rzecz"
     },
     {
       "surface": "לא",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "עשהו",
-      "gloss": "uczynić go"
+      "gloss": "uczynić ją"
     },
     {
       "surface": "לבדך",
-      "gloss": "sam jeden"
+      "gloss": "sam"
     }
   ],
-  "timestamp": "2026-08-24T22:31:01.621574414Z",
+  "timestamp": "2026-08-25T05:41:08.379547421Z",
   "model": "glm-5.3"
 }

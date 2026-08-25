@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 38,
-  "translation": "I powiedział: Ach, Jahwe, wspomnij proszę ⟨את⟩ to, iż kroczyłem przed obliczem twoim w wierności i w sercu całym, i to, co dobre w oczach twoich, czyniłem; i płakał Chizkijahu płaczem wielkim.",
+  "translation": "I rzekł: Ach, Jahwe, pamiętaj proszę ⟨את⟩ to, jakże chodziłem przed Twoim obliczem w wierności i w sercu całym, i co dobre w Twoich oczach, czyniłem; i zapłakał Chizkijahu płaczem wielkim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "זכר",
-      "gloss": "wspomnij"
+      "gloss": "pamiętaj"
     },
     {
       "surface": "נא",
@@ -30,19 +30,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, iż kroczyłem..."
+      "marks": "to, jakże chodziłem"
     },
     {
       "surface": "אשר",
-      "gloss": "to, iż"
+      "gloss": "to, jakże"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "kroczyłem"
+      "gloss": "chodziłem"
     },
     {
       "surface": "לפניך",
-      "gloss": "przed obliczem twoim"
+      "gloss": "przed Twoim obliczem"
     },
     {
       "surface": "באמת",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "והטוב",
-      "gloss": "i to, co dobre"
+      "gloss": "i co dobre"
     },
     {
       "surface": "בעיניך",
-      "gloss": "w oczach twoich"
+      "gloss": "w Twoich oczach"
     },
     {
       "surface": "עשיתי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ויבך",
-      "gloss": "i płakał"
+      "gloss": "i zapłakał"
     },
     {
       "surface": "חזקיהו",
@@ -85,6 +85,6 @@
       "gloss": "wielkim"
     }
   ],
-  "timestamp": "2026-08-25T00:29:27.407818750Z",
+  "timestamp": "2026-08-25T06:05:55.480676864Z",
   "model": "glm-5.3"
 }

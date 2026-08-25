@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Nie będziecie oglądać się na twarze w sądzie; jak małego, tak i wielkiego usłyszycie; nie będziecie się lękać oblicza żadnego męża, bo sąd należy do Elohim; a sprawę, która będzie dla was zbyt trudna, przedstawicie mnie, a ja jej wysłucham.",
+  "translation": "Nie będziecie rozpoznawać twarzy w sądzie; jak małego, tak wielkiego będziecie słuchać; nie będziecie się lękać przed obliczem męża, bo sąd ⟨należy⟩ do Elohim; a sprawę, która będzie zbyt trudna dla was, przedstawicie mi, a ja ją wysłucham.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "תכירו",
-      "gloss": "będziecie oglądać się na"
+      "gloss": "będziecie rozpoznawać"
     },
     {
       "surface": "פנים",
-      "gloss": "twarze"
+      "gloss": "twarzy"
     },
     {
       "surface": "במשפט",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כגדל",
-      "gloss": "tak i wielkiego"
+      "gloss": "tak wielkiego"
     },
     {
       "surface": "תשמעון",
-      "gloss": "usłyszycie"
+      "gloss": "będziecie słuchać"
     },
     {
       "surface": "לא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מפני",
-      "gloss": "oblicza"
+      "gloss": "przed obliczem"
     },
     {
       "surface": "איש",
-      "gloss": "żadnego męża"
+      "gloss": "męża"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "należy do Elohim"
+      "gloss": "do Elohim"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨należy⟩"
     },
     {
       "surface": "והדבר",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mnie"
+      "gloss": "mi"
     },
     {
       "surface": "ושמעתיו",
-      "gloss": "a ja jej wysłucham"
+      "gloss": "a ja ją wysłucham"
     }
   ],
-  "timestamp": "2026-08-24T23:04:27.719695093Z",
+  "timestamp": "2026-08-25T06:29:10.186891797Z",
   "model": "glm-5.3"
 }

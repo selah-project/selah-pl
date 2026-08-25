@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Imię ⟨jednego⟩ to Piszon — on to ⟨ten⟩, który opływa ⟨את⟩ całą ziemię Chawila, gdzie ⟨tam⟩ ⟨jest⟩ złoto.",
+  "translation": "Imię ⟨tego⟩ jednego ⟨to⟩ Piszon — on ⟨jest⟩ tym, który okrąża ⟨את⟩ całą ziemię Chawila, gdzie ⟨tam⟩ ⟨jest⟩ złoto.",
   "tokens": [
     {
       "surface": "שם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הסבב",
-      "gloss": "opływa"
+      "gloss": "który okrąża"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "gdzie"
     },
     {
       "surface": "שם",
@@ -57,6 +57,6 @@
       "gloss": "złoto"
     }
   ],
-  "timestamp": "2026-08-25T03:13:03.859715009Z",
+  "timestamp": "2026-08-25T05:36:43.558465405Z",
   "model": "glm-5.3"
 }

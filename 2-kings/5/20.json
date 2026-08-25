@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I rzekł Gechazi, sługa Elizeusza, męża ha-Elohim: Oto pan mój oszczędził ⟨את⟩ Naamana tego Aramejczyka, nie biorąc z ręki jego ⟨את⟩ to, co przyniósł; żywy jest Jahwe, że jeśli pobiegnę za nim, wezmę od ⟨את⟩ niego coś.",
+  "translation": "I rzekł Gechazi, sługa Eliszysza, mąż-Elohim: oto powstrzymał mój pan ⟨את⟩ Naamana, tego Aramejczyka, od wzięcia z jego ręki ⟨את⟩ tego, co przywiózł; żywy jest Jahwe, że jeśli pobiegnę za nim i wezmę od ⟨את⟩ niego coś-kolwiek.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "גיחזי",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elizeusza"
+      "gloss": "Eliszy"
     },
     {
       "surface": "איש",
-      "gloss": "męża"
+      "gloss": "mężem"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הנה",
-      "gloss": "Oto"
+      "gloss": "oto"
     },
     {
       "surface": "חשך",
-      "gloss": "oszczędził"
+      "gloss": "powstrzymał"
     },
     {
       "surface": "אדני",
-      "gloss": "pan mój"
+      "gloss": "mój pan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Naamana tego Aramejczyka"
+      "marks": "Naamana, tego Aramejczyka"
     },
     {
       "surface": "נעמן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הארמי",
-      "gloss": "Aramejczyka"
+      "gloss": "Aramejczyk"
     },
     {
       "surface": "הזה",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "מקחת",
-      "gloss": "nie biorąc"
+      "gloss": "od wzięcia"
     },
     {
       "surface": "מידו",
-      "gloss": "z ręki jego"
+      "gloss": "z jego ręki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co przyniósł"
+      "marks": "tego, co przywiózł"
     },
     {
       "surface": "אשר",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "הביא",
-      "gloss": "przyniósł"
+      "gloss": "przywiózł"
     },
     {
       "surface": "חי",
@@ -111,14 +111,13 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "od ⟨את⟩",
-      "marks": "niego"
+      "gloss": "od ⟨את⟩ niego"
     },
     {
       "surface": "מאומה",
-      "gloss": "coś"
+      "gloss": "cokolwiek"
     }
   ],
-  "timestamp": "2026-08-25T00:09:53.402750445Z",
+  "timestamp": "2026-08-25T06:02:06.238432729Z",
   "model": "glm-5.3"
 }

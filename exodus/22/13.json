@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A jeśli pożyczy mężczyzna od bliźniego swego ⟨coś⟩, a ⟨to⟩ złamie się lub umrze — właściciela jego nie ma z nim — pełną zapłatę zapłaci.",
+  "translation": "A jeśli pożyczy mąż od bliźniego swego ⟨i⟩ zostanie złamane albo padnie — właściciela jego nie ma z nim — pełną naprawę niech w pełni uczyni.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "ישאל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mężczyzna"
+      "gloss": "mąż"
     },
     {
       "surface": "מעם",
@@ -28,16 +28,16 @@
       "gloss": "bliźniego swego"
     },
     {
-      "surface": "ונשבר",
-      "gloss": "a złamie się"
+      "surface": "וישבר",
+      "gloss": "zostanie złamane"
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "מת",
-      "gloss": "umrze"
+      "gloss": "padnie"
     },
     {
       "surface": "בעליו",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "שלם",
-      "gloss": "pełną zapłatę"
+      "gloss": "pełną naprawę"
     },
     {
       "surface": "ישלם",
-      "gloss": "zapłaci"
+      "gloss": "niech w pełni uczyni"
     }
   ],
-  "timestamp": "2026-08-24T22:32:31.619808674Z",
+  "timestamp": "2026-08-25T05:41:59.333280538Z",
   "model": "glm-5.3"
 }

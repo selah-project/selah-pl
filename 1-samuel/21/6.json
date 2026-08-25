@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I odpowiedział Dawid ⟨את⟩ kapłana i rzekł mu: zaprawdę, jeśli kobieta była powstrzymana od nas jak wczoraj, przedwczoraj, w moim wychodzeniu, i były naczynia młodzieńców święte, a to jest droga pospolita — tym bardziej dziś uświęcą się w naczyniu.",
+  "translation": "I odpowiedział Dawid ⟨את⟩ kapłana i rzekł mu: Zaiste, kobiety były powstrzymywane dla nas od wczoraj i przedwczoraj, od czasu gdy wyszedłem, i naczynia młodych mężczyzn ⟨są⟩ święte, a droga — pospolita, a tym bardziej dziś poświęci się w naczyniu.",
   "tokens": [
     {
       "surface": "ויען",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "zaprawdę"
+      "gloss": "zaiste"
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "zaprawdę"
     },
     {
       "surface": "אשה",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "עצרה",
-      "gloss": "była powstrzymana"
+      "gloss": "była powstrzymywana"
     },
     {
       "surface": "לנו",
-      "gloss": "od nas"
+      "gloss": "dla nas"
     },
     {
       "surface": "כתמול",
-      "gloss": "jak wczoraj"
+      "gloss": "od wczoraj"
     },
     {
       "surface": "שלשם",
-      "gloss": "przedwczoraj"
+      "gloss": "i przedwczoraj"
     },
     {
       "surface": "בצאתי",
-      "gloss": "w moim wychodzeniu"
+      "gloss": "od czasu gdy wyszedłem"
     },
     {
       "surface": "ויהיו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הנערים",
-      "gloss": "młodzieńców"
+      "gloss": "młodych mężczyzn"
     },
     {
       "surface": "קדש",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a to"
+      "gloss": "a ono"
     },
     {
       "surface": "דרך",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ואף",
-      "gloss": "tym bardziej"
+      "gloss": "a tym bardziej"
     },
     {
       "surface": "כי",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "uświęcą się"
+      "gloss": "poświęci się"
     },
     {
       "surface": "בכלי",
       "gloss": "w naczyniu"
     }
   ],
-  "timestamp": "2026-08-24T23:42:16.698375526Z",
+  "timestamp": "2026-08-25T05:56:15.633277287Z",
   "model": "glm-5.3"
 }

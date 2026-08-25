@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Gdyby Balak dał mi pełność swego domu srebra i złota, nie zdołałbym przekroczyć ⟨את⟩ ust Jahwe, by czynić dobro albo zło z mego serca — to, co powie Jahwe, ⟨את⟩ to będę mówił.",
+  "translation": "Gdyby Balak dał mi pełen swój dom srebra i złota, nie zdołam przekroczyć ⟨את⟩ słowa Jahwe, aby czynić dobro lub zło z mego serca — ⟨את⟩ to, co powie Jahwe, to będę mówił.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "gdyby"
+      "gloss": "Gdyby"
     },
     {
       "surface": "יתן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "pełność"
+      "gloss": "pełen"
     },
     {
       "surface": "ביתו",
-      "gloss": "swego domu"
+      "gloss": "swój dom"
     },
     {
       "surface": "כסף",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "zdołałbym"
+      "gloss": "zdołam"
     },
     {
       "surface": "לעבר",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ust Jahwe"
+      "marks": "słowa Jahwe"
     },
     {
       "surface": "פי",
-      "gloss": "ust"
+      "gloss": "słowa"
     },
     {
       "surface": "יהוה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "by czynić"
+      "gloss": "aby czynić"
     },
     {
       "surface": "טובה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "רעה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "ידבר",
@@ -98,13 +98,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to"
+      "gloss": "⟨את⟩ go",
+      "marks": "to, co powie Jahwe"
     },
     {
       "surface": "אדבר",
       "gloss": "będę mówił"
     }
   ],
-  "timestamp": "2026-08-24T22:58:41.128574091Z",
+  "timestamp": "2026-08-25T05:48:13.424002231Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I położy swoją rękę na głowie kozła, i zabije go w miejscu, gdzie zabija się ⟨את⟩ całopalenie przed Jahwe — to ofiara za grzech.",
+  "translation": "I położy swoją rękę na głowie kozła, i zarżnie go ⟨את⟩ w miejscu, gdzie się zarzyna ⟨את⟩ całopalenie przed Jahwe — ⟨to⟩ ofiara za grzech, on ⟨jest⟩.",
   "tokens": [
     {
       "surface": "וסמך",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "i zabije"
+      "gloss": "i zarżnie"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
-      "marks": "go (kozła)"
+      "gloss": "⟨את⟩",
+      "marks": "go"
     },
     {
       "surface": "במקום",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ישחט",
-      "gloss": "zabija się"
+      "gloss": "zarzyna"
     },
     {
       "surface": "את",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "on"
     }
   ],
-  "timestamp": "2026-08-25T03:19:09.912776411Z",
+  "timestamp": "2026-08-25T06:28:14.064259940Z",
   "model": "glm-5.3"
 }

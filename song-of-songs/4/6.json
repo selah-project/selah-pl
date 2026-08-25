@@ -5,7 +5,7 @@
   "book": "song-of-songs",
   "lang": "pl",
   "chapter": 4,
-  "translation": "Aż ⟨powieje⟩ dzień i uciekną cienie, pójdę ⟨sobie⟩ na górę mirry i na pagórek kadzidła (lebanonu).",
+  "translation": "Aż się rozpłynie dzień i uciekną cienie, pójdę sobie ⟨את⟩ — na górę mirry i na pagórek kadzidła.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,16 +13,11 @@
     },
     {
       "surface": "שיפוח",
-      "gloss": "powieje"
+      "gloss": "się rozpłynie"
     },
     {
       "surface": "היום",
       "gloss": "dzień"
-    },
-    {
-      "surface": "צללים",
-      "gloss": "cienie",
-      "note": ""
     },
     {
       "surface": "ונסו",
@@ -42,11 +37,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "do"
     },
     {
       "surface": "הר",
-      "gloss": "górę"
+      "gloss": "góra"
     },
     {
       "surface": "המור",
@@ -54,17 +49,17 @@
     },
     {
       "surface": "ואל",
-      "gloss": "i na"
+      "gloss": "i do"
     },
     {
       "surface": "גבעת",
-      "gloss": "pagórek"
+      "gloss": "pagórka"
     },
     {
       "surface": "הלבונה",
-      "gloss": "kadzidła (lebanonu)"
+      "gloss": "kadzidła"
     }
   ],
-  "timestamp": "2026-08-25T02:26:31.891234925Z",
+  "timestamp": "2026-08-25T06:19:28.338082097Z",
   "model": "glm-5.3"
 }

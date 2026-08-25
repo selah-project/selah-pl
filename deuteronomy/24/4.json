@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Nie może jej pierwszy mąż, który ją wysłał, wrócić, by wziąć ją, by być mu za żonę, po tym jak została skalana — bo obrzydliwość to przed Jahwe; i nie doprowadzisz do grzechu ⟨את⟩ ziemi, którą Jahwe, twój Elohim, daje ci w dziedzictwo.",
+  "translation": "Nie może mąż jej pierwszy, który ją oddalił, wrócić, by ją wziąć, by być mu za żonę, po tym jak została skalana, gdyż obrzydliwością ⟨jest⟩ ona przed obliczem Jahwe; i nie doprowadzisz do grzechu ⟨את⟩ ziemi, którą Jahwe, Elohim twój, daje ci w dziedzictwo.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בעלה",
-      "gloss": "jej mąż"
+      "gloss": "mąż jej"
     },
     {
       "surface": "הראשון",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שלחה",
-      "gloss": "ją wysłał"
+      "gloss": "oddzielił ją"
     },
     {
       "surface": "לשוב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לקחתה",
-      "gloss": "by wziąć ją"
+      "gloss": "by ją wziąć"
     },
     {
       "surface": "להיות",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "po tym jak"
+      "gloss": "po"
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "tym jak"
     },
     {
       "surface": "הטמאה",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "תועבה",
-      "gloss": "obrzydliwość"
+      "gloss": "obrzydliwością"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "ona"
     },
     {
       "surface": "לפני",
-      "gloss": "przed"
+      "gloss": "przed obliczem"
     },
     {
       "surface": "יהוה",
@@ -94,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemi"
+      "marks": "ziemię"
     },
     {
       "surface": "הארץ",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "twój Elohim"
+      "gloss": "Elohim twój"
     },
     {
       "surface": "נתן",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     },
     {
       "surface": "נחלה",
       "gloss": "w dziedzictwo"
     }
   ],
-  "timestamp": "2026-08-25T03:24:01.697971548Z",
+  "timestamp": "2026-08-25T05:51:31.116035399Z",
   "model": "glm-5.3"
 }

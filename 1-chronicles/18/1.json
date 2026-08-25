@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I stało się potem, że Dawid pobił ⟨את⟩ Filistynów i upokorzył ich, i wziął ⟨את⟩ Gat i jego córki z ręki Filistynów.",
+  "translation": "I stało się potem, że Dawid pobił ⟨את⟩ Pelisztów i upokorzył ich, i wziął ⟨את⟩ Gat wraz z jego córkami (miejscowościami) z ręki Pelisztów.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "to"
+      "gloss": ""
     },
     {
       "surface": "ויך",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Filistynów"
+      "marks": "Pelisztów"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistynów"
+      "gloss": "Pelisztów"
     },
     {
       "surface": "ויכניעם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ובנתיה",
-      "gloss": "i jego córki"
+      "gloss": "wraz z jego córkami (miejscowościami)"
     },
     {
       "surface": "מיד",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistynów"
+      "gloss": "Pelisztów"
     }
   ],
-  "timestamp": "2026-08-25T02:56:25.110384387Z",
+  "timestamp": "2026-08-25T06:25:05.814456546Z",
   "model": "glm-5.3"
 }

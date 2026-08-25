@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Jeszcze ten mówił, a ten przyszedł i rzekł: Kasdimowie ustawili trzy hufce, i ruszyli na wielbłądy, i zabrali je, a ⟨את⟩ sługi pobili ostrzem miecza; i uszedłem — tylko ja sam — aby ci to oznajmić.",
+  "translation": "Jeszcze ten mówił, a ⟨ten⟩ przyszedł i rzekł: Kasdimowie uczynili trzy oddziały, i napadli na wielbłądy, i wzięli je, a ⟨את⟩ sługi pobili ostrzem miecza; i ocalałem — tylko ja sam — aby ⟨to⟩ oznajmić tobie.",
   "tokens": [
     {
       "surface": "עוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "a ten"
+      "gloss": "a ⟨ten⟩"
     },
     {
       "surface": "בא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "ustawili"
+      "gloss": "uczynili"
     },
     {
       "surface": "שלשה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ראשים",
-      "gloss": "hufce"
+      "gloss": "oddziały"
     },
     {
       "surface": "ויפשטו",
-      "gloss": "i ruszyli"
+      "gloss": "i napadli"
     },
     {
       "surface": "על",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויקחום",
-      "gloss": "i zabrali je"
+      "gloss": "i wzięli je"
     },
     {
       "surface": "ואת",
@@ -85,8 +85,8 @@
       "gloss": "miecza"
     },
     {
-      "surface": "ויאמלטה (ואמלטה)",
-      "gloss": "i uszedłem"
+      "surface": "ואמלטה",
+      "gloss": "i ocalałem"
     },
     {
       "surface": "רק",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-25T03:48:08.513003166Z",
+  "timestamp": "2026-08-25T06:18:28.328304392Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A ⟨była⟩ ⟨to⟩ godzina zamykania bramy, gdy ściemniało się, a mężowie wyszli — nie wiem, dokąd owi mężowie poszli. Ścigajcie ich, pośpieszcie się za nimi, bo ich dogonicie.”",
+  "translation": "I stało się: ⟨gdy⟩ brama miała być zamknięta w ciemnościach, a ludzie wyszli — nie wiem, dokąd poszli ludzie. Ścigajcie ich szybko, bo ich dościgniecie.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "A było"
+      "gloss": "I stało się"
     },
     {
       "surface": "השער",
-      "gloss": "brama"
+      "gloss": "⟨gdy⟩ brama"
     },
     {
       "surface": "לסגור",
-      "gloss": "zamykania"
+      "gloss": "miała być zamknięta"
     },
     {
       "surface": "בחשך",
-      "gloss": "gdy ściemniało się"
+      "gloss": "w ciemnościach"
     },
     {
       "surface": "והאנשים",
-      "gloss": "a mężowie"
+      "gloss": "a ludzie"
     },
     {
       "surface": "יצאו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "owi mężowie"
+      "gloss": "ludzie"
     },
     {
       "surface": "רדפו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "מהר",
-      "gloss": "pośpieszcie się"
+      "gloss": "szybko"
     },
     {
       "surface": "אחריהם",
-      "gloss": "za nimi"
+      "gloss": "ich"
     },
     {
       "surface": "כי",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "תשיגום",
-      "gloss": "ich dogonicie"
+      "gloss": "dościgniecie"
     }
   ],
-  "timestamp": "2026-08-24T23:16:46.421786427Z",
+  "timestamp": "2026-08-25T05:52:11.174536270Z",
   "model": "glm-5.3"
 }

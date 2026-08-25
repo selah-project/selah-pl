@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A gdy nadeszła kolej Ester, córki Abichaila, stryja Mordechaja, który wziął ją sobie za córkę, by wejść do króla — nie prosiła o ⟨את⟩ nic, tylko o to, co powie Hegaj, eunuch króla, strażnik kobiet; i Ester znajdowała łaskę w oczach wszystkich, którzy ją widzieli.",
+  "translation": "Gdy nadeszła kolej Ester, córki Awichajila, wuja Mordechaja, który wziął ją sobie za córkę — na przyjście do króla — nie prosiła o nic, prócz ⟨את⟩ tego, co miał powiedzieć Hegaj, rzeziec królewski, strażnik niewiast; i Ester zjednała sobie łaskę w oczach wszystkich, którzy ją widzieli.",
   "tokens": [
     {
       "surface": "ובהגיע",
-      "gloss": "a gdy nadeszła"
+      "gloss": "gdy nadeszła"
     },
     {
       "surface": "תר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "בת",
-      "gloss": "córki"
+      "gloss": "córka"
     },
     {
       "surface": "אביחיל",
-      "gloss": "Abichaila"
+      "gloss": "Awichajila"
     },
     {
       "surface": "דד",
-      "gloss": "stryja"
+      "gloss": "wuja"
     },
     {
       "surface": "מרדכי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "by wejść"
+      "gloss": "na przyjście"
     },
     {
       "surface": "אל",
@@ -77,24 +77,24 @@
     },
     {
       "surface": "כי",
-      "gloss": "tylko"
+      "gloss": "prócz"
     },
     {
       "surface": "אם",
-      "gloss": "oprócz"
+      "gloss": ""
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co powie Hegaj"
+      "marks": "tego, co miał powiedzieć Hegaj"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "tego, co"
     },
     {
       "surface": "יאמר",
-      "gloss": "powie"
+      "gloss": "miał powiedzieć"
     },
     {
       "surface": "הגי",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "סריס",
-      "gloss": "eunuch"
+      "gloss": "rzeziec"
     },
     {
       "surface": "המלך",
-      "gloss": "króla"
+      "gloss": "królewski"
     },
     {
       "surface": "שמר",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "הנשים",
-      "gloss": "kobiet"
+      "gloss": "niewiast"
     },
     {
       "surface": "ותהי",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "נשאת",
-      "gloss": "znajdująca"
+      "gloss": "zjednała sobie"
     },
     {
       "surface": "חן",
@@ -142,9 +142,9 @@
     },
     {
       "surface": "ראיה",
-      "gloss": "widzących ją"
+      "gloss": "którzy ją widzieli"
     }
   ],
-  "timestamp": "2026-08-25T02:34:25.315842620Z",
+  "timestamp": "2026-08-25T06:21:44.753131492Z",
   "model": "glm-5.3"
 }

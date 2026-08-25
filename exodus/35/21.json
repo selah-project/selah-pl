@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 35,
-  "translation": "I przyszli — każdy mąż, którego serce go uniosło, i każdy, którego duch go skłonił dobrowolnie — przynieśli ⟨את⟩ dar Jahwe na dzieło Namiotu Spotkania, i na całą jego służbę, i na szaty ⟨the⟩ święte.",
+  "translation": "I przyszli — każdy mężczyzna, którego serce go poniosło, i każdy, którego duch skłonił dobrowolnie — przynieśli ⟨את⟩ ofiarę wznieśną Jahwe na dzieło Namiotu Spotkania i na całą jego służbę, i na szaty święte.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mąż"
+      "gloss": "mężczyzna"
     },
     {
       "surface": "אשר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "uniosło"
+      "gloss": "poniosło"
     },
     {
       "surface": "לבו",
-      "gloss": "serce jego"
+      "gloss": "serce"
     },
     {
       "surface": "וכל",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "רוחו",
-      "gloss": "duch jego"
+      "gloss": "duch"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
-      "marks": "każdy"
+      "gloss": "⟨את⟩",
+      "marks": "go"
     },
     {
       "surface": "הביאו",
@@ -59,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dar"
+      "marks": "ofiarę wznieśną Jahwe"
     },
     {
       "surface": "תרומת",
-      "gloss": "dar"
+      "gloss": "ofiarę wznieśną"
     },
     {
       "surface": "יהוה",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "służbę jego"
+      "gloss": "jego służbę"
     },
     {
       "surface": "ולבגדי",
@@ -98,6 +98,6 @@
       "gloss": "święte"
     }
   ],
-  "timestamp": "2026-08-24T22:37:29.767122678Z",
+  "timestamp": "2026-08-25T05:42:31.545877394Z",
   "model": "glm-5.3"
 }

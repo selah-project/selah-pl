@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "A Dawid ⟨był⟩ synem męża Efratytego tego, z Beit-Lechem Jehudy, a jego imię — Jiszaj, i jego było ośmiu synów; a mąż za dni Szauła już się zestarzał, wkroczył w lata ⟨wśród⟩ ludzi.",
+  "translation": "A Dawid — syn tego Efraty z Bet-Lechem Jehudy, a jego imię Iszaj, i ⟨ma⟩ ośmiu synów; a człowiek ten za dni Szaula zestarzał się, przyszedłszy w ⟨lata⟩ ludzi.",
   "tokens": [
     {
       "surface": "ודוד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "synem"
+      "gloss": "syn"
     },
     {
       "surface": "איש",
@@ -21,15 +21,19 @@
     },
     {
       "surface": "אפרתי",
-      "gloss": "Efratyty"
+      "gloss": "Efraty"
     },
     {
       "surface": "הזה",
       "gloss": "tego"
     },
     {
-      "surface": "מבית לחם",
-      "gloss": "z Beit-Lechem"
+      "surface": "מבית",
+      "gloss": "z Bet-Lechem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "(Bet-)Lechem"
     },
     {
       "surface": "יהודה",
@@ -41,11 +45,11 @@
     },
     {
       "surface": "ישי",
-      "gloss": "Jiszaj"
+      "gloss": "Iszaj"
     },
     {
       "surface": "ולו",
-      "gloss": "i jego"
+      "gloss": "i jemu"
     },
     {
       "surface": "שמנה",
@@ -57,7 +61,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "a mąż"
+      "gloss": "a człowiek ten"
     },
     {
       "surface": "בימי",
@@ -65,21 +69,21 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Szauła"
+      "gloss": "Szaula"
     },
     {
       "surface": "זקן",
-      "gloss": "już się zestarzał"
+      "gloss": "zestarzał się"
     },
     {
       "surface": "בא",
-      "gloss": "wkroczył"
+      "gloss": "przyszedłszy"
     },
     {
       "surface": "באנשים",
-      "gloss": "w lata ⟨wśród⟩ ludzi"
+      "gloss": "wśród ludzi"
     }
   ],
-  "timestamp": "2026-08-24T23:38:57.829438221Z",
+  "timestamp": "2026-08-25T06:30:06.977630014Z",
   "model": "glm-5.3"
 }

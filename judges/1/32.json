@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I zamieszkał Aszeryta pośród Kanaanejczyków, mieszkańców ⟨the⟩ ziemi, bo go nie wypędzili.",
+  "translation": "I zamieszkał Aszeryta wśród Kananejczyka, mieszkańców ziemi, bo nie wypędzili go.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "I zamieszkał"
+      "gloss": "i zamieszkał"
     },
     {
       "surface": "האשרי",
@@ -17,14 +17,14 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "pośród"
+      "gloss": "wśród"
     },
     {
       "surface": "הכנעני",
-      "gloss": "Kanaanejczyków"
+      "gloss": "Kanananejczyka"
     },
     {
-      "surface": "יושבי",
+      "surface": "ישבי",
       "gloss": "mieszkańców"
     },
     {
@@ -40,10 +40,10 @@
       "gloss": "nie"
     },
     {
-      "surface": "הורישו",
-      "gloss": "wypędzili"
+      "surface": "הורישׁו",
+      "gloss": "wypędzili go"
     }
   ],
-  "timestamp": "2026-08-24T23:24:02.155692497Z",
+  "timestamp": "2026-08-25T05:53:32.311949810Z",
   "model": "glm-5.3"
 }

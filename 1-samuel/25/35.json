@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 25,
-  "translation": "I wziął Dawid z jej ręki ⟨את⟩ to, co mu przyniosła, i do niej powiedział: Wstępuj w pokoju do twego domu; patrz — usłuchałem twego głosu i podniosłem twoje oblicze.",
+  "translation": "I wziął Dawid z jej ręki ⟨את⟩ to, co przyniosła mu, i do niej powiedział: Wracaj w pokoju do twego domu; patrz, usłuchałem twego głosu i uniósłem twe oblicze.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "i wziął"
+      "gloss": "I wziął"
     },
     {
       "surface": "דוד",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co mu przyniosła"
+      "marks": "to, co"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "wstępuj"
+      "gloss": "Wracaj w górę"
     },
     {
       "surface": "לשלום",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "פניך",
-      "gloss": "twoje oblicze"
+      "gloss": "twe oblicze"
     }
   ],
-  "timestamp": "2026-08-24T23:44:23.033929348Z",
+  "timestamp": "2026-08-25T06:30:08.515340918Z",
   "model": "glm-5.3"
 }

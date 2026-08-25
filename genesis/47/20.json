@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 47,
-  "translation": "I kupił Józef ⟨את⟩ całą ziemię Micraim dla faraona, bo Micrajczycy sprzedali każdego swoje pole, bo слишком mocny nad nimi był głód; i stała się ziemia własnością faraona.",
+  "translation": "I nabył Józef ⟨את⟩ całą ziemię Micraim dla faraona, gdyż sprzedali Micrajczycy, każdy swoje pole, gdyż wzmógł się na nich głód, i stała się ⟨ta⟩ ziemia własnością faraona.",
   "tokens": [
     {
       "surface": "ויקן",
-      "gloss": "i kupił"
+      "gloss": "i nabył"
     },
     {
       "surface": "יוסף",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "מכרו",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "חזק",
-      "gloss": "mocny"
+      "gloss": "wzmógł się"
     },
     {
       "surface": "עלהם",
-      "gloss": "nad nimi"
+      "gloss": "na nich"
     },
     {
       "surface": "הרעב",
@@ -85,6 +85,6 @@
       "gloss": "własnością faraona"
     }
   ],
-  "timestamp": "2026-08-24T22:24:56.151736709Z",
+  "timestamp": "2026-08-25T06:27:41.967567565Z",
   "model": "glm-5.3"
 }

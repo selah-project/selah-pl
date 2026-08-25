@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A dziewczynie nie czyń niczego; nie ma w dziewczynie winy śmierci, bo jak powstaje mężczyzna przeciw bliźniemu swojemu i zabija go — ⟨to⟩ nefesz, tak ⟨jest⟩ ta sprawa ta.",
+  "translation": "A młodej niewieście nie zrobisz nic — nie ma w młodej niewieście grzechu ⟨zasługującego na⟩ śmierć, bo jak gdy mężczyzna powstanie przeciw bliźniemu swemu i zamorduje ⟨go⟩ — ⟨to⟩ dusza — tak ⟨jest⟩ sprawa ta.",
   "tokens": [
     {
       "surface": "ולנער",
-      "gloss": "a dziewczynie"
+      "gloss": "a młodej niewieście"
     },
     {
       "surface": "לא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "czyń"
+      "gloss": "zrobisz"
     },
     {
       "surface": "דבר",
-      "gloss": "niczego"
+      "gloss": "nic"
     },
     {
       "surface": "אין",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לנער",
-      "gloss": "w dziewczynie"
+      "gloss": "w młodej niewieście"
     },
     {
       "surface": "חטא",
-      "gloss": "winy"
+      "gloss": "grzechu"
     },
     {
       "surface": "מות",
-      "gloss": "śmierci"
+      "gloss": "śmierć"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יקום",
-      "gloss": "powstaje"
+      "gloss": "powstanie"
     },
     {
       "surface": "איש",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "bliźniemu swojemu"
+      "gloss": "bliźniemu swemu"
     },
     {
       "surface": "ורצחו",
-      "gloss": "i zabija go"
+      "gloss": "i zamorduje"
     },
     {
       "surface": "נפש",
-      "gloss": "nefesz"
+      "gloss": "dusza"
     },
     {
       "surface": "כן",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ta sprawa"
+      "gloss": "sprawa"
     },
     {
       "surface": "הזה",
       "gloss": "ta"
     }
   ],
-  "timestamp": "2026-08-24T23:12:09.751180581Z",
+  "timestamp": "2026-08-25T05:51:09.099181506Z",
   "model": "glm-5.3"
 }

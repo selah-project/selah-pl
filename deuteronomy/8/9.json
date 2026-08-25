@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 8,
-  "translation": "Ziemia, na której nie w niedostatku będziesz jadł w niej chleb, nie będziesz potrzebować niczego w niej; ziemia, której kamienie ⟨to⟩ żelazo, a z jej gór będziesz wydobywał miedź.",
+  "translation": "Ziemia, w której nie w nedzy będziesz jadł w niej chleba, nie będziesz brakować niczego w niej; ziemia, której kamienie ⟨to⟩ żelazo, a z jej gór będziesz wydobywał miedź.",
   "tokens": [
     {
       "surface": "ארץ",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "במסכנת",
-      "gloss": "w niedostatku"
+      "gloss": "w nedzy"
     },
     {
       "surface": "תאכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "chleb"
+      "gloss": "chleba"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תחסר",
-      "gloss": "będziesz potrzebować"
+      "gloss": "będziesz brakować"
     },
     {
       "surface": "כל",
@@ -80,6 +80,6 @@
       "gloss": "miedź"
     }
   ],
-  "timestamp": "2026-08-24T23:06:22.654174383Z",
+  "timestamp": "2026-08-25T06:28:52.062702260Z",
   "model": "glm-5.3"
 }

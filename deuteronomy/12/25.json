@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Nie będziesz ⟨go⟩ jadł, aby było dobrze tobie i twoim synom po tobie, gdy będziesz czynić to, co prawe w oczach Jahwe.",
+  "translation": "Nie będziesz go jadł, aby było dobrze tobie i twoim synom po tobie, bo będziesz czynić to, co proste w oczach Jahwe.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "będziesz jadł (go)"
+      "gloss": "będziesz go jadł"
     },
     {
       "surface": "למען",
@@ -21,14 +21,14 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "będzie dobrze"
+      "gloss": "było dobrze"
     },
     {
       "surface": "לך",
       "gloss": "tobie"
     },
     {
-      "surface": "ויבניך",
+      "surface": "ולבניך",
       "gloss": "i twoim synom"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gdy"
+      "gloss": "bo"
     },
     {
       "surface": "תעשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הישר",
-      "gloss": "to, co prawe"
+      "gloss": "to, co proste"
     },
     {
       "surface": "בעיני",
@@ -56,6 +56,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:09:11.489500275Z",
+  "timestamp": "2026-08-25T05:50:11.331417132Z",
   "model": "glm-5.3"
 }

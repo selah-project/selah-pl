@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I wzięli Geszur i Aram ⟨את⟩ Hawot-Jaira od nich, ⟨את⟩ Kenat i ⟨את⟩ córki jego — sześćdziesiąt miast; wszystko to byli synowie Machira, ojca Giladu.",
+  "translation": "I wzięli Geszur i Aram ⟨את⟩ Osady-Jaira od nich — ⟨את⟩ Kenat i ⟨את⟩ jego osady: sześćdziesiąt miast. Wszystkie te ⟨byli⟩ synami Machira, ojca Gilada.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "I wzięli"
+      "gloss": "i wzięli"
     },
     {
       "surface": "גשור",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hawot-Jaira"
+      "marks": "Osady-Jaira"
     },
     {
       "surface": "חות",
-      "gloss": "Hawot"
+      "gloss": "Osady"
     },
     {
       "surface": "יאיר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "od nich ⟨את⟩"
+      "gloss": "⟨את⟩ nich"
     },
     {
       "surface": "את",
@@ -48,11 +48,11 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "córki jego"
+      "marks": "jego osady"
     },
     {
       "surface": "בנתיה",
-      "gloss": "córki jego"
+      "gloss": "jego osady"
     },
     {
       "surface": "ששים",
@@ -64,15 +64,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "wszystko"
+      "gloss": "wszystkie"
     },
     {
       "surface": "אלה",
-      "gloss": "to"
+      "gloss": "te"
     },
     {
       "surface": "בני",
-      "gloss": "byli synami"
+      "gloss": "synami"
     },
     {
       "surface": "מכיר",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "Giladu"
+      "gloss": "Gilada"
     }
   ],
-  "timestamp": "2026-08-25T02:50:58.179133982Z",
+  "timestamp": "2026-08-25T06:24:11.535305207Z",
   "model": "glm-5.3"
 }

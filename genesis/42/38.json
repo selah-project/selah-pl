@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 42,
-  "translation": "I rzekł: Nie zejdzie mój syn z wami, bo jego brat umarł i on sam pozostał; gdyby spotkało go nieszczęście na drodze, którą pójdziecie, to sprowadzilibyście moją siwiznę w smutku do Szeolu.",
+  "translation": "I rzekł: Nie zejdzie mój syn z wami, bo brat jego umarł i on sam został; gdyby spotkało go nieszczęście na drodze, którą pójdziecie, to sprowadzilibyście siwiznę moją w smutku do Szeolu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "לא",
-      "gloss": "nie"
+      "gloss": "Nie"
     },
     {
       "surface": "ירד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "jego brat"
+      "gloss": "brat jego"
     },
     {
       "surface": "מת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a on"
+      "gloss": "i on"
     },
     {
       "surface": "לבדו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נשאר",
-      "gloss": "pozostał"
+      "gloss": "został"
     },
     {
       "surface": "וקראהו",
@@ -77,16 +77,16 @@
     },
     {
       "surface": "והורדתם",
-      "gloss": "sprowadzilibyście"
+      "gloss": "to sprowadzilibyście"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moją siwiznę"
+      "marks": "siwiznę moją"
     },
     {
       "surface": "שיבתי",
-      "gloss": "moją siwiznę"
+      "gloss": "siwiznę moją"
     },
     {
       "surface": "ביגון",
@@ -97,6 +97,6 @@
       "gloss": "do Szeolu"
     }
   ],
-  "timestamp": "2026-08-25T03:16:39.911220492Z",
+  "timestamp": "2026-08-25T06:27:42.593272234Z",
   "model": "glm-5.3"
 }

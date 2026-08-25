@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I rzekł: Puść mnie, bo wzeszła zorza poranna. A ⟨on⟩ rzekł: Nie puszczę cię, jeśli mnie nie pobłogosławisz.",
+  "translation": "I rzekł: Puść mnie, bo wzeszła zorza poranna. A on rzekł: Nie puszczę cię, ⟨jeśli⟩ nie pobłogosławisz mnie.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השחר",
-      "gloss": "zorza poranna ⟨the⟩"
+      "gloss": "zorza poranna"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a rzekł"
+      "gloss": "a on rzekł"
     },
     {
       "surface": "לא",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "nie"
     },
     {
       "surface": "ברכתני",
       "gloss": "pobłogosławisz mnie"
     }
   ],
-  "timestamp": "2026-08-24T22:18:33.159071630Z",
+  "timestamp": "2026-08-25T05:38:26.424949914Z",
   "model": "glm-5.3"
 }

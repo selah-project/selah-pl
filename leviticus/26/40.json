@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 26,
-  "translation": "i wyznają ⟨את⟩ winę swoją i ⟨את⟩ winę ojców swoich w swojej zdradzie, którą zdradzili wobec Mnie, i także to, że chodzili ze Mną na przekór.",
+  "translation": "I wyznają ⟨את⟩ swoją winę oraz ⟨את⟩ winę swoich ojców — w swojej zdradzie, której dopuścili się względem Mnie, a także to, że szykownie (z oporem) chodzili ze Mną.",
   "tokens": [
     {
       "surface": "והתודו",
@@ -14,16 +14,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "winę swoją"
+      "marks": "swoją winę"
     },
     {
       "surface": "עונם",
-      "gloss": "winę swoją"
+      "gloss": "swoją winę"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "winę ojców"
+      "gloss": "oraz ⟨את⟩",
+      "marks": "winę"
     },
     {
       "surface": "עון",
@@ -31,7 +31,7 @@
     },
     {
       "surface": "אבתם",
-      "gloss": "ojców swoich"
+      "gloss": "swoich ojców"
     },
     {
       "surface": "במעלם",
@@ -39,19 +39,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "której"
     },
     {
       "surface": "מעלו",
-      "gloss": "zdradzili"
+      "gloss": "dopuścili się zdrady"
     },
     {
       "surface": "בי",
-      "gloss": "wobec Mnie"
+      "gloss": "względem Mnie"
     },
     {
       "surface": "ואף",
-      "gloss": "i także"
+      "gloss": "a także"
     },
     {
       "surface": "אשר",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "בקרי",
-      "gloss": "na przekór"
+      "gloss": "z oporem"
     }
   ],
-  "timestamp": "2026-08-24T22:49:18.652416117Z",
+  "timestamp": "2026-08-25T05:45:54.790168152Z",
   "model": "glm-5.3"
 }

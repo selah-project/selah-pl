@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I usłyszał prorok, który go odciągnął z drogi, i rzekł: ⟨To⟩ mąż Elohim ⟨jest⟩, który zbuntował się przeciw ustom Jahwe; i wydał go Jahwe lwu, a ten go porwał i zabił, według słowa Jahwe, które do niego wyrzekł.",
+  "translation": "I usłyszał prorok, który go zawrócił z drogi, i rzekł: ⟨To⟩ mąż Elohim ⟨jest⟩ to, który zbuntował się przeciw ⟨את⟩ ustom Jahwe; i wydał go Jahwe lwu, który go poranił i zabił, według słowa Jahwe, które on powiedział do niego.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "השיבו",
-      "gloss": "odciągnął go"
+      "gloss": "zawrócił go"
     },
     {
       "surface": "מן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "usta"
+      "marks": "ustom Jahwe"
     },
     {
       "surface": "פי",
-      "gloss": "usta"
+      "gloss": "ustom"
     },
     {
       "surface": "יהוה",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "וישברהו",
-      "gloss": "i porwał go"
+      "gloss": "poranił go"
     },
     {
       "surface": "וימתהו",
-      "gloss": "i zabił go"
+      "gloss": "zabił go"
     },
     {
       "surface": "כדבר",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "wyrzekł"
+      "gloss": "powiedział"
     },
     {
       "surface": "לו",
       "gloss": "do niego"
     }
   ],
-  "timestamp": "2026-08-25T00:00:54.007151843Z",
+  "timestamp": "2026-08-25T06:00:07.710778612Z",
   "model": "glm-5.3"
 }

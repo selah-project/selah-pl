@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 42,
-  "translation": "I rzekł do nich Josef: To jest to, co mówiłem wam, mówiąc: szpiegami jesteście.",
+  "translation": "I rzekł do nich Józef: To ⟨jest⟩ to, co mówiłem do was, mówiąc: Szpiegami jesteście.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אלהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josef"
+      "gloss": "Józef"
     },
     {
       "surface": "הוא",
-      "gloss": "To"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלכם",
-      "gloss": "wam"
+      "gloss": "do was"
     },
     {
       "surface": "לאמר",
@@ -48,6 +48,6 @@
       "gloss": "jesteście"
     }
   ],
-  "timestamp": "2026-08-24T22:23:13.908569315Z",
+  "timestamp": "2026-08-25T05:39:55.351099957Z",
   "model": "glm-5.3"
 }

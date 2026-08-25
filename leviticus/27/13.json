@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli wykupi ⟨go⟩ ten, kto wykupuje, to doda piątą ⟨jego⟩ część do twojej wyceny.",
+  "translation": "A jeśli wykupujący ją wykupi, to doda piątą jej część do twojej wyceny.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "A jeśli"
     },
     {
       "surface": "גאל",
-      "gloss": "wykupuje"
+      "gloss": "wykupujący"
     },
     {
       "surface": "יגאלנה",
-      "gloss": "wykupi go"
+      "gloss": "ją wykupi"
     },
     {
       "surface": "ויסף",
-      "gloss": "doda"
+      "gloss": "to doda"
     },
     {
       "surface": "חמישתו",
-      "gloss": "piątą jego część"
+      "gloss": "piątą jej część"
     },
     {
       "surface": "על",
@@ -36,6 +36,6 @@
       "gloss": "twojej wyceny"
     }
   ],
-  "timestamp": "2026-08-24T22:49:53.771476034Z",
+  "timestamp": "2026-08-25T06:28:53.073426840Z",
   "model": "glm-5.3"
 }

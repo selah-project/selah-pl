@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Bo Jahwe, Elohim twój, błogosławił cię w każdym dziele twoich rąk; znał ⟨את⟩ twoją wędrówkę przez ⟨tę⟩ wielką pustynię — ⟨to⟩ te czterdzieści lat Jahwe, Elohim twój, ⟨jest⟩ z tobą: nie zabrakło ci żadnej rzeczy.",
+  "translation": "Bo Jahwe, twój Elohim, błogosławił cię w każdym dziele twoich rąk; znał twoją wędrówkę ⟨את⟩ ⟨tę⟩ pustynię wielką tę — te czterdzieści lat Jahwe, twój Elohim, ⟨jest⟩ z tobą — nie brakło ci niczego.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim twój"
+      "gloss": "twój Elohim"
     },
     {
       "surface": "ברכך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "dziale"
+      "gloss": "dziele"
     },
     {
       "surface": "ידך",
@@ -46,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twoją wędrówkę"
+      "marks": "pustynię wielką tę"
     },
     {
       "surface": "המדבר",
-      "gloss": "przez pustynię"
+      "gloss": "pustynię"
     },
     {
       "surface": "הגדל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "te"
     },
     {
       "surface": "ארבעים",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim twój"
+      "gloss": "twój Elohim"
     },
     {
       "surface": "עמך",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "חסרת",
-      "gloss": "zabrakło ci"
+      "gloss": "brakło ci"
     },
     {
       "surface": "דבר",
-      "gloss": "żadnej rzeczy"
+      "gloss": "niczego"
     }
   ],
-  "timestamp": "2026-08-24T23:04:43.608781571Z",
+  "timestamp": "2026-08-25T05:49:01.505670566Z",
   "model": "glm-5.3"
 }

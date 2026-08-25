@@ -5,15 +5,16 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I ukończono ⟨ten⟩ dom ten w dniu trzecim miesiąca Adar — który to jest rok szósty królowania Dariusza króla.",
+  "translation": "I dokończono ⟨את⟩ ten dom ⟨את⟩ trzeciego dnia miesiąca Adar, który ⟨to⟩ rok szósty królestwa Darjusza, króla.",
   "tokens": [
     {
       "surface": "ושיציא",
-      "gloss": "i ukończono"
+      "gloss": "i dokończono"
     },
     {
       "surface": "ביתה",
-      "gloss": "dom"
+      "gloss": "dom",
+      "note": "sufiks -ה = accusatywny znacznik aramejski"
     },
     {
       "surface": "דנה",
@@ -21,15 +22,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "w"
+      "gloss": "aż do"
     },
     {
       "surface": "יום",
-      "gloss": "dniu"
+      "gloss": "dnia"
     },
     {
       "surface": "תלתה",
-      "gloss": "trzecim"
+      "gloss": "trzeciego"
     },
     {
       "surface": "לירח",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "to jest"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "שנת",
@@ -57,17 +58,17 @@
     },
     {
       "surface": "למלכות",
-      "gloss": "królowania"
+      "gloss": "królestwa"
     },
     {
       "surface": "דריוש",
-      "gloss": "Dariusza"
+      "gloss": "Darjusza"
     },
     {
       "surface": "מלכא",
       "gloss": "króla"
     }
   ],
-  "timestamp": "2026-08-25T02:43:29.692013271Z",
+  "timestamp": "2026-08-25T06:23:12.862599055Z",
   "model": "glm-5.3"
 }

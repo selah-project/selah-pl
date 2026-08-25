@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 8,
-  "translation": "Bo on nie wie, co będzie, bo gdy się stanie, kto mu ⟨to⟩ oznajmi?",
+  "translation": "Bo nie wie on, co będzie, bo skoro się stanie, kto mu to oznajmi?",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "on nie"
+      "gloss": "nie"
     },
     {
       "surface": "ידע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "gdy"
+      "gloss": "skoro"
     },
     {
       "surface": "יהיה",
@@ -52,6 +52,6 @@
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-08-25T02:32:35.472543905Z",
+  "timestamp": "2026-08-25T06:21:23.352934412Z",
   "model": "glm-5.3"
 }

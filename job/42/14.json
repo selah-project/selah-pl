@@ -5,8 +5,53 @@
   "book": "job",
   "lang": "pl",
   "chapter": 42,
-  "translation": "x",
-  "tokens": [],
-  "timestamp": "2026-08-25T02:25:55.806304915Z",
+  "translation": "I nadał imię pierwszej Jemima, a imię drugiej Kecja, a imię trzeciej Keren-Hapuk.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nadał imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "pierwszej"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugiej"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Kecja"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trzeciej"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapuk"
+    }
+  ],
+  "timestamp": "2026-08-25T06:19:28.882540870Z",
   "model": "glm-5.3"
 }

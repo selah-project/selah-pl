@@ -5,8 +5,91 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 4,
-  "translation": "oraz ⟨את⟩ гранаты — hmm",
-  "tokens": [],
-  "timestamp": "2026-08-25T03:00:29.410553893Z",
+  "translation": "oraz ⟨את⟩ granaty — czterysta dla dwóch krat — dwa rzędy granatów na jedną kratę, by pokryć ⟨את⟩ dwie kule głowic, które są na czole kolumn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "granaty"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "granaty"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sety"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "dla dwóch"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "krat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rzędy"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "granatów"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "na kratę"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedną"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "by pokryć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwie kule głowic"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "kule"
+    },
+    {
+      "surface": "הכתרות",
+      "gloss": "głowice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "czole"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kolumn"
+    }
+  ],
+  "timestamp": "2026-08-25T06:33:09.357424461Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I będzie wam to za cyced, i ujrzycie ⟨את⟩ ⟨אתו⟩, i wspomnicie ⟨את⟩ wszystkie przykazania Jahwe, i będziecie je pełnić ⟨את⟩ ⟨אתם⟩; i nie będziecie błądzić za swoim sercem i za swoimi oczami, którymi wy nierządzicie za nimi.",
+  "translation": "I będzie wam na frędzle, i zobaczycie ⟨את⟩ to, i wspomnicie ⟨את⟩ wszystkie przykazania Jahwe, i będziecie je pełnić, i nie będziecie błąkać się za waszym sercem i za waszymi oczami, którymi wy cudzołubicie za nimi.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "לציצת",
-      "gloss": "za cyced"
+      "gloss": "na frędzle"
     },
     {
       "surface": "וראיתם",
-      "gloss": "i ujrzycie"
+      "gloss": "i zobaczycie"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "cyced"
+      "gloss": "⟨את⟩ to",
+      "marks": "to (frędzle)"
     },
     {
       "surface": "וזכרתם",
@@ -55,8 +55,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "je (wszystkie przykazania Jahwe)"
+      "gloss": "⟨את⟩ je",
+      "marks": "je (przykazania)"
     },
     {
       "surface": "ולא",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "תתרו",
-      "gloss": "błądzić będziecie"
+      "gloss": "będziecie błąkać się"
     },
     {
       "surface": "אחרי",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "swoim sercem"
+      "gloss": "waszym sercem"
     },
     {
       "surface": "ואחרי",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "עיניכם",
-      "gloss": "swoimi oczami"
+      "gloss": "waszymi oczami"
     },
     {
       "surface": "אשר",
@@ -92,13 +92,13 @@
     },
     {
       "surface": "זנים",
-      "gloss": "nierządzicie"
+      "gloss": "cudzołubicie"
     },
     {
       "surface": "אחריהם",
       "gloss": "za nimi"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.500643161Z",
+  "timestamp": "2026-08-25T05:47:30.929887305Z",
   "model": "glm-5.3"
 }

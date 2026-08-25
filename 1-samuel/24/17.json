@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I stało się, gdy Dawid skończył mówić ⟨את⟩ słowa te do Szeula, że Szeul powiedział: czy to głos twój, synu mój Dawidzie? I podniósł Szeul swój głos i zapłakał.",
+  "translation": "I stało się, gdy Dawid skończył mówić ⟨את⟩ słowa te do Szaula, że Szaul rzekł: Czy to głos twój, mój synu Dawidzie? I podniósł Szaul głos swój i zapłakał.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i stało się"
+      "gloss": "I stało się"
     },
     {
       "surface": "ככלות",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowa te"
+      "marks": "słowa"
     },
     {
       "surface": "הדברים",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Szeul"
+      "gloss": "Szaula"
     },
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "שאול",
-      "gloss": "Szeul"
+      "gloss": "Szaul"
     },
     {
-      "surface": "הקולך",
-      "gloss": "czy głos twój"
+      "surface": "הקלך",
+      "gloss": "czy to głos twój"
     },
     {
       "surface": "זה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "synu mój"
+      "gloss": "mój synu"
     },
     {
       "surface": "דוד",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Szeul"
+      "gloss": "Szaul"
     },
     {
-      "surface": "קולו",
-      "gloss": "swój głos"
+      "surface": "קלו",
+      "gloss": "głos swój"
     },
     {
       "surface": "ויבך",
       "gloss": "i zapłakał"
     }
   ],
-  "timestamp": "2026-08-24T23:41:14.046753880Z",
+  "timestamp": "2026-08-25T06:29:36.697086337Z",
   "model": "glm-5.3"
 }

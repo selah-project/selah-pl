@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I uciekł Aram spod oblicza Israela, i zabił Dawid z Aramu siedem tysięcy rydwanów i czterdzieści tysięcy ludzi ⟨את⟩ pieszych, a ⟨את⟩ Szofacha, wodza wojska, zabił.",
+  "translation": "I uciekł Aram przed obliczem Israela, i zabił Dawid z Aramu siedem tysięcy rydwanów i czterdzieści tysięcy ludzi pieszych, a ⟨את⟩ Szofaka, księcia wojska, zabił.",
   "tokens": [
     {
       "surface": "וינס",
-      "gloss": "uciekł"
+      "gloss": "i uciekł"
     },
     {
       "surface": "ארם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "spod oblicza"
+      "gloss": "przed obliczem"
     },
     {
       "surface": "ישראל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויהרג",
-      "gloss": "zabił"
+      "gloss": "i zabił"
     },
     {
       "surface": "דויד",
@@ -48,12 +48,8 @@
       "gloss": "rydwanów"
     },
     {
-      "surface": "ויהרג",
-      "gloss": "—"
-    },
-    {
       "surface": "וארבעים",
-      "gloss": "czterdzieści"
+      "gloss": "i czterdzieści"
     },
     {
       "surface": "אלף",
@@ -65,20 +61,20 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "⟨את⟩ pieszych"
+      "gloss": "pieszych"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Szofacha"
+      "marks": "Szofaka"
     },
     {
       "surface": "שופך",
-      "gloss": "Szofach"
+      "gloss": "Szofaka"
     },
     {
       "surface": "שר",
-      "gloss": "wodza"
+      "gloss": "księcia"
     },
     {
       "surface": "הצבא",
@@ -89,6 +85,6 @@
       "gloss": "zabił"
     }
   ],
-  "timestamp": "2026-08-25T02:56:09.677085524Z",
+  "timestamp": "2026-08-25T07:03:36.348171405Z",
   "model": "glm-5.3"
 }

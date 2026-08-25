@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Co było, tym ⟨jest⟩ to, co będzie, i co zostało zrobione, tym ⟨jest⟩ to, co będzie zrobione; i nie ma nic nowego pod słońcem.",
+  "translation": "Co było, ⟨to⟩ samo będzie, i co zostało zrobione, ⟨to⟩ samo będzie zrobione — i nie ma niczego nowego pod słońcem.",
   "tokens": [
     {
       "surface": "מה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tym ⟨jest⟩"
+      "gloss": "⟨to⟩ samo"
     },
     {
       "surface": "שיהיה",
-      "gloss": "co będzie"
+      "gloss": "będzie"
     },
     {
       "surface": "ומה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tym ⟨jest⟩"
+      "gloss": "⟨to⟩ samo"
     },
     {
       "surface": "שיעשה",
-      "gloss": "co będzie zrobione"
+      "gloss": "będzie zrobione"
     },
     {
       "surface": "ואין",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "nic"
+      "gloss": "niczego"
     },
     {
       "surface": "חדש",
@@ -60,6 +60,6 @@
       "gloss": "słońcem"
     }
   ],
-  "timestamp": "2026-08-25T02:30:30.870839966Z",
+  "timestamp": "2026-08-25T06:20:45.524314121Z",
   "model": "glm-5.3"
 }

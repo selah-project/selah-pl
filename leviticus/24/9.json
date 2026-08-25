@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I będzie ⟨את⟩ to dla Ahrona i dla jego synów, i zjedzą ⟨את⟩ to w miejscu świętym, bo świętość świętości ⟨jest⟩ dla niego, spośród ofiar ogniowych Jahwe — ustawa wieczna.",
+  "translation": "I będzie ⟨to⟩ dla Ahrona i dla jego synów, i zjedzą ⟨to⟩ w miejscu świętym, bo świętość świętości ⟨jest⟩ to dla niego spośród ofiar ognistych Jahwe — ustawa wieczna.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -16,12 +16,12 @@
       "gloss": "dla Ahrona"
     },
     {
-      "surface": "ויבניו",
+      "surface": "ולבניו",
       "gloss": "i dla jego synów"
     },
     {
       "surface": "ואכלהו",
-      "gloss": "i zjedzą to"
+      "gloss": "i zjedzą go"
     },
     {
       "surface": "במקום",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "to ⟨jest⟩"
     },
     {
       "surface": "לו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאשי",
-      "gloss": "spośród ofiar ogniowych"
+      "gloss": "spośród ofiar ognistych"
     },
     {
       "surface": "יהוה",
@@ -68,6 +68,6 @@
       "gloss": "wieczna"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.496174880Z",
+  "timestamp": "2026-08-25T05:45:55.110262808Z",
   "model": "glm-5.3"
 }

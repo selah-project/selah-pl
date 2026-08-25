@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 17,
-  "translation": "A to ich wykaz według domu ich ojców: dla Jehudy książęta tysięcy — Adna książę, a z nim mocarze dzielności trzysta tysięcy.",
+  "translation": "A to jest ich spis według domów ich ojców: z Jehudy książęta tysięcy — Adna, książę, a z nim mocarze dzielni: trzysta tysięcy.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "a to"
+      "gloss": "a to jest"
     },
     {
       "surface": "פקדתם",
-      "gloss": "ich wykaz"
+      "gloss": "ich spis"
     },
     {
       "surface": "לבית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ליהודה",
-      "gloss": "dla Jehudy"
+      "gloss": "z Jehudy"
     },
     {
       "surface": "שרי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "dzielności"
+      "gloss": "dzielni"
     },
     {
       "surface": "שלש",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "מאות",
-      "gloss": "setek"
+      "gloss": "trzysta"
     },
     {
       "surface": "אלף",
-      "gloss": "tysiąc"
+      "gloss": "tysięcy"
     }
   ],
-  "timestamp": "2026-08-25T03:04:52.615032478Z",
+  "timestamp": "2026-08-25T06:26:14.433875975Z",
   "model": "glm-5.3"
 }

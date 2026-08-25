@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Jak wygląd tęczy, która bywa w chmurze w dzień deszczu, tak ⟨bywał⟩ wygląd blasku wokoło — to ⟨jest⟩ wygląd podobieństwa chwały Jahwe; i widziałem, i upadłem na twarz swoją, i usłyszałem głos mówiącego.",
+  "translation": "Jak wygląd tęczy, która bywa w obłoku w dniu deszczu, tak wyglądał blask wokół — to ⟨był⟩ wygląd podobieństwa chwały Jahwe; i ujrzałem, i upadłem na twarz moją, i usłyszałem głos mówiącego.",
   "tokens": [
     {
       "surface": "כמראה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בענן",
-      "gloss": "w chmurze"
+      "gloss": "w obłoku"
     },
     {
       "surface": "ביום",
-      "gloss": "w dzień"
+      "gloss": "w dniu"
     },
     {
       "surface": "הגשם",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מראה",
-      "gloss": "wygląd"
+      "gloss": "wyglądał"
     },
     {
       "surface": "הנגה",
-      "gloss": "blasku"
+      "gloss": "blask"
     },
     {
       "surface": "סביב",
-      "gloss": "wokoło"
+      "gloss": "wokół"
     },
     {
       "surface": "הוא",
@@ -72,8 +72,8 @@
       "gloss": "Jahwe"
     },
     {
-      "surface": "ואראה",
-      "gloss": "i widziałem"
+      "surface": "ו אראה",
+      "gloss": "i ujrzałem"
     },
     {
       "surface": "ואפל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "twarz"
+      "gloss": "twarz moją"
     },
     {
       "surface": "ואשמע",
@@ -100,6 +100,6 @@
       "gloss": "mówiącego"
     }
   ],
-  "timestamp": "2026-08-25T01:07:49.230043618Z",
+  "timestamp": "2026-08-25T06:11:00.229020037Z",
   "model": "glm-5.3"
 }

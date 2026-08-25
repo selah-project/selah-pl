@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 26,
-  "translation": "To ⟨są⟩ policzeni ⟨przez⟩ Mosze i Elazara, kapłana, którzy spisali ⟨את⟩ synów Jisraela na równinach Moabu, nad Jordanem ⟨przy⟩ Jerychu.",
+  "translation": "To ci policzeni przez Mosze i Elazara, kapłana, którzy policzyli ⟨את⟩ synów Jisraela na równinach Moabu, nad Jordanem, ⟨naprzeciw⟩ Jerycha",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "To"
+      "gloss": "To ci"
     },
     {
       "surface": "פקודי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kapłana"
+      "gloss": "kapłan"
     },
     {
       "surface": "אשר",
-      "gloss": "ktorzy"
+      "gloss": "którzy"
     },
     {
       "surface": "פקדו",
-      "gloss": "spisali"
+      "gloss": "policzyli"
     },
     {
       "surface": "את",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "ירחו",
-      "gloss": "Jerychu"
+      "gloss": "Jerycha"
     }
   ],
-  "timestamp": "2026-08-24T22:59:52.687294404Z",
+  "timestamp": "2026-08-25T05:47:52.636537530Z",
   "model": "glm-5.3"
 }

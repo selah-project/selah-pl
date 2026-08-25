@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Szabat, szabat całkowitego odpoczynku to jest dla was i umartwiacie ⟨את⟩ swoje nefesz — ustawa na wieki.",
+  "translation": "Szabat szabatonu ⟨jest⟩ dla was, i umartwiacie ⟨את⟩ swoje nefesz — ustawa na wieczność.",
   "tokens": [
     {
       "surface": "שבת",
@@ -13,18 +13,18 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "całkowitego odpoczynku"
+      "gloss": "szabatonu (uroczystego odpoczynku)"
     },
     {
       "surface": "היא",
-      "gloss": "to jest"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "לכם",
       "gloss": "dla was"
     },
     {
-      "surface": "ועניתם",
+      "surface": "ו עניתם",
       "gloss": "i umartwiacie"
     },
     {
@@ -42,9 +42,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "na wieki"
+      "gloss": "na wieczność"
     }
   ],
-  "timestamp": "2026-08-24T22:45:47.685380786Z",
+  "timestamp": "2026-08-25T05:45:16.000349509Z",
   "model": "glm-5.3"
 }

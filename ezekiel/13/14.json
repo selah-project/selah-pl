@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I zburzę ⟨את⟩ mur, który omarzowaliście marnym tynkiem, i zwalę go na ziemię, i obnaży się jego fundament, i upadnie; a wy wyginiecie w jego wnętrzu, i poznacie, że ja jestem Jahwe.",
+  "translation": "I zburzę ⟨את⟩ mur, który tynkowaliście, tynkiem nietrwałym, i strącę go aż do ziemi, i odsłoni się jego fundament, i runie, a wy zginiecie w jego środku, i poznacie, że ja ⟨jestem⟩ Jahwe.",
   "tokens": [
     {
       "surface": "והרסתי",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨the⟩ mur"
+      "gloss": "mur"
     },
     {
       "surface": "אשר",
@@ -26,27 +26,27 @@
     },
     {
       "surface": "טחתם",
-      "gloss": "omarzowaliście"
+      "gloss": "tynkowaliście"
     },
     {
       "surface": "תפל",
-      "gloss": "marnym tynkiem"
+      "gloss": "tynkiem nietrwałym"
     },
     {
       "surface": "והגעתיהו",
-      "gloss": "i zwalę go"
+      "gloss": "i strącę go"
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "aż do"
     },
     {
       "surface": "הארץ",
-      "gloss": "ziemię"
+      "gloss": "ziemi"
     },
     {
       "surface": "ונגלה",
-      "gloss": "i obnaży się"
+      "gloss": "i odsłoni się"
     },
     {
       "surface": "יסדו",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "ונפלה",
-      "gloss": "i upadnie"
+      "gloss": "i runie"
     },
     {
       "surface": "וכליתם",
-      "gloss": "a wy wyginiecie"
+      "gloss": "a wy zginiecie"
     },
     {
       "surface": "בתוכה",
-      "gloss": "w jego wnętrzu"
+      "gloss": "w jego środku"
     },
     {
       "surface": "וידעתם",
@@ -81,6 +81,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:11:52.770922443Z",
+  "timestamp": "2026-08-25T06:11:21.643302852Z",
   "model": "glm-5.3"
 }

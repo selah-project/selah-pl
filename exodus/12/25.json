@@ -5,8 +5,70 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I stanie się, gdy wejdziecie do ziemi, którą da wam Jahwe, jak powiedział, że będziecie strzec tej służby ⟨את⟩ — tej oto obługi.",
-  "tokens": [],
-  "timestamp": "2026-08-24T22:29:45.579916433Z",
+  "translation": "I stanie się, gdy wejdziecie do ziemi, którą da Jahwe wam, jak obiecał, że będziecie strzec ⟨את⟩ tej służby.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I stanie się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "wejdziecie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "obiecał"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "że będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tej służby"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "służby"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    }
+  ],
+  "timestamp": "2026-08-25T05:41:43.516608810Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I obejrzy go kapłan siódmego dnia; jeśli rozprzestrzeni się bardzo w skórze, i uzna go kapłan ⟨את⟩ za nieczystego — nagroda cars to ⟨jest⟩.",
+  "translation": "I obejrzy go kapłan w dniu siódmym: jeśli bardzo się rozprzestrzeniła w skórze, to kapłan uzna go za nieczystego ⟨את⟩ — plaga trądu to ⟨jest⟩.",
   "tokens": [
     {
       "surface": "וראהו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "rozprzestrzeni"
+      "gloss": "bardzo się rozprzestrzeniła"
     },
     {
       "surface": "תפשה",
-      "gloss": "się bardzo"
+      "gloss": "rozprzestrzeni"
     },
     {
       "surface": "בעור",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "i uzna za nieczystego"
+      "gloss": "uzna za nieczystego"
     },
     {
       "surface": "הכהן",
@@ -50,21 +50,21 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go"
+      "marks": "go (badanego)"
     },
     {
       "surface": "נגע",
-      "gloss": "nagroda"
+      "gloss": "plaga"
     },
     {
       "surface": "צרעת",
-      "gloss": "cars"
+      "gloss": "trądu"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "to jest"
     }
   ],
-  "timestamp": "2026-08-24T22:44:41.613334733Z",
+  "timestamp": "2026-08-25T05:44:46.553367368Z",
   "model": "glm-5.3"
 }

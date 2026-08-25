@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I stanęli kapłani niosący aron przymierza Jahwe na suchym, po środku Jardena, ⟨nieporuszenie⟩, i cały Jisraeel przechodził po suchym, aż ⟨się⟩ dopełniło, że cały naród przeszedł ⟨את⟩ Jardena.",
+  "translation": "I stali kapłani, nosicze Arki Przymierza Jahwe, po suchym, pośrodku Jordanu, niewzruszenie; i cały Izrael przechodził po suchym, aż dokonał przejścia cały naród, aby przekroczyć ⟨את⟩ Jordan.",
   "tokens": [
     {
       "surface": "ויעמדו",
-      "gloss": "i stanęli"
+      "gloss": "i stali"
     },
     {
       "surface": "הכהנים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "נשאי",
-      "gloss": "niosący"
+      "gloss": "nosicze"
     },
     {
       "surface": "הארון",
-      "gloss": "aron"
+      "gloss": "Arki"
     },
     {
       "surface": "ברית",
-      "gloss": "przymierza"
+      "gloss": "Przymierza"
     },
     {
       "surface": "יהוה",
@@ -33,23 +33,27 @@
     },
     {
       "surface": "בחרבה",
-      "gloss": "na suchym"
+      "gloss": "po suchym"
     },
     {
       "surface": "בתוך",
-      "gloss": "po środku"
+      "gloss": "pośrodku"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardena"
+      "gloss": "Jordanu"
     },
     {
       "surface": "הכן",
-      "gloss": "⟨nieporuszenie⟩"
+      "gloss": "niewzruszenie"
     },
     {
-      "surface": "ויכל-העם",
-      "gloss": "a cały naród"
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
     },
     {
       "surface": "עברים",
@@ -69,7 +73,7 @@
     },
     {
       "surface": "תמו",
-      "gloss": "dopełniło się"
+      "gloss": "dokonał"
     },
     {
       "surface": "כל",
@@ -81,18 +85,18 @@
     },
     {
       "surface": "לעבר",
-      "gloss": "przejść"
+      "gloss": "aby przejść"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jardena"
+      "marks": "Jordan"
     },
     {
       "surface": "הירדן",
-      "gloss": "⟨את⟩ Jardena"
+      "gloss": "Jordan"
     }
   ],
-  "timestamp": "2026-08-24T23:16:33.693195728Z",
+  "timestamp": "2026-08-25T05:52:44.532977896Z",
   "model": "glm-5.3"
 }

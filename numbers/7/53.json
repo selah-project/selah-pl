@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A na ofiarę szelamim: dwa woły, pięć baranów, pięć kozłów, pięć jagniąt rocznych — to jest dar (korban) Eliszamy, syna Ammihuda.",
+  "translation": "A na ofiarę shelamim dwa woły, pięć baranów, pięć kozłów, pięć jagniąt rocznych — to jest dar Eliszamy, syna Ammihuda.",
   "tokens": [
     {
       "surface": "ולזבח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "szelamim"
+      "gloss": "shelamim"
     },
     {
       "surface": "בקר",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "jagnięta"
+      "gloss": "jagniąt"
     },
     {
       "surface": "בני",
-      "gloss": "w wieku"
+      "gloss": "rocznych"
     },
     {
       "surface": "שנה",
-      "gloss": "roku"
+      "gloss": "—"
     },
     {
       "surface": "חמשה",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "dar (korban)"
+      "gloss": "dar ofiarny"
     },
     {
       "surface": "אלישמע",
-      "gloss": "Eliszama"
+      "gloss": "Eliszamy"
     },
     {
       "surface": "בן",
-      "gloss": "syn"
+      "gloss": "syna"
     },
     {
       "surface": "עמיהוד",
       "gloss": "Ammihuda"
     }
   ],
-  "timestamp": "2026-08-25T03:20:02.708844314Z",
+  "timestamp": "2026-08-25T05:46:40.651690204Z",
   "model": "glm-5.3"
 }

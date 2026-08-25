@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I wszystko, co się roi, rojące się na ziemi — obrzydliwością ⟨to⟩ ⟨jest⟩, nie będzie się tego jadło.",
+  "translation": "I wszystko, co roi się, rojące się po ⟨na⟩ ziemi, ⟨to⟩ obrzydliwość ⟨jest⟩ — nie będzie jedzone.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "I wszystko"
+      "gloss": "i wszystko"
     },
     {
       "surface": "השרץ",
-      "gloss": "co się roi"
+      "gloss": "co roi się"
     },
     {
       "surface": "השרץ",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "po"
     },
     {
       "surface": "הארץ",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "obrzydliwością"
+      "gloss": "obrzydliwość"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨to⟩ ⟨jest⟩"
     },
     {
       "surface": "לא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "będzie się jadło"
+      "gloss": "będzie jedzone"
     }
   ],
-  "timestamp": "2026-08-24T22:42:57.447121019Z",
+  "timestamp": "2026-08-25T05:44:17.514187066Z",
   "model": "glm-5.3"
 }

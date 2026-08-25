@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Jest rzecz, o której ⟨się⟩ mówi: zobacz, to ⟨jest⟩ nowe — już dawno istniała w wiekach wieków, które były przed nami.",
+  "translation": "Jest rzecz, o której się mówi: zobacz, to jest nowe? Już dawno istniała w wiekach, które były przed nami.",
   "tokens": [
     {
       "surface": "יש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שיאמר",
-      "gloss": "o której mówi się"
+      "gloss": "o której się mówi"
     },
     {
       "surface": "ראה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "jest"
     },
     {
       "surface": "כבר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לעלמים",
-      "gloss": "w wiekach wieków"
+      "gloss": "w wiekach"
     },
     {
       "surface": "אשר",
@@ -60,6 +60,6 @@
       "gloss": "przed nami"
     }
   ],
-  "timestamp": "2026-08-25T02:30:30.871097780Z",
+  "timestamp": "2026-08-25T06:20:45.524562476Z",
   "model": "glm-5.3"
 }

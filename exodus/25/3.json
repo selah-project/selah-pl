@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 25,
-  "translation": "A to ⟨jest⟩ teruma, którą weźmiecie ⟨את⟩ od nich: złoto, i srebro, i miedź.",
+  "translation": "A to ⟨jest⟩ danina, którą weźmiecie od ⟨את⟩nich: złoto, srebro i miedź,",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "A to"
+      "gloss": "a to"
     },
     {
       "surface": "התרומה",
-      "gloss": "teruma"
+      "gloss": "danina"
     },
     {
       "surface": "אשר",
@@ -25,14 +25,15 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ od nich"
+      "gloss": "od ⟨את⟩nich",
+      "marks": "oni (dzieci Izraela)"
     },
     {
       "surface": "זהב",
       "gloss": "złoto"
     },
     {
-      "surface": "ווכסף",
+      "surface": "וכסף",
       "gloss": "i srebro"
     },
     {
@@ -40,6 +41,6 @@
       "gloss": "i miedź"
     }
   ],
-  "timestamp": "2026-08-24T22:34:12.385077281Z",
+  "timestamp": "2026-08-25T06:27:59.214920318Z",
   "model": "glm-5.3"
 }

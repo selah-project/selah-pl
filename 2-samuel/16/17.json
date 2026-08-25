@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekł Abshalom do Chuszaja: To jest wierna miłość twoja ⟨את⟩ przyjaciela twego? Dlaczego nie szedłeś ⟨את⟩ przyjacielem twoim?",
+  "translation": "I rzekł Awszalom do Chuszaja: Czy to twoja wierna miłość ⟨את⟩ przyjacielem twoim? Dlaczego nie poszedłeś ⟨את⟩ przyjacielem twoim?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אבשלום",
-      "gloss": "Abshalom"
+      "gloss": "Awszalom"
     },
     {
       "surface": "אל",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "czy to"
     },
     {
       "surface": "חסדך",
-      "gloss": "wierna miłość twoja"
+      "gloss": "twoja wierna miłość"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "przyjaciela twego"
+      "marks": "przyjacielem twoim"
     },
     {
       "surface": "רעך",
-      "gloss": "przyjaciela twego"
+      "gloss": "przyjacielem twoim"
     },
     {
       "surface": "למה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "szedłeś"
+      "gloss": "poszedłeś"
     },
     {
       "surface": "את",
@@ -62,6 +62,6 @@
       "gloss": "przyjacielem twoim"
     }
   ],
-  "timestamp": "2026-08-24T23:50:15.708614740Z",
+  "timestamp": "2026-08-25T05:57:30.998861730Z",
   "model": "glm-5.3"
 }

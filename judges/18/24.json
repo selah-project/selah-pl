@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I rzekł: ⟨את⟩ moich Elohim, których zrobiłem, zabraliście, i ⟨את⟩ kapłana, i odeszliście — a co mi jeszcze ⟨pozostało⟩? i co to mówicie mi: co ci ⟨jest⟩?",
+  "translation": "I rzekł: ⟨את⟩ bogów moich, których zrobiłem, zabraliście, i ⟨את⟩ kapłana, i odeszliście — a co mi jeszcze? i co to mówicie do mnie: co tobie?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moich Elohim"
+      "marks": "bogów moich"
     },
     {
       "surface": "אלהי",
-      "gloss": "moich Elohim"
+      "gloss": "bogów moich"
     },
     {
       "surface": "אשר",
@@ -33,13 +33,8 @@
       "gloss": "zabraliście"
     },
     {
-      "surface": "וית",
-      "gloss": "⟨את⟩",
-      "marks": "kapłana"
-    },
-    {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "kapłana"
     },
     {
@@ -76,7 +71,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mi"
+      "gloss": "do mnie"
     },
     {
       "surface": "מה",
@@ -84,9 +79,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-24T23:31:28.128950213Z",
+  "timestamp": "2026-08-25T05:54:36.966632700Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Tylko ⟨to, co⟩ święte twoje, które będzie dla ciebie, i twoje śluby wzniesiesz, i przyjdziesz do miejsca, które wybierze Jahwe.",
+  "translation": "Jedynie twe rzeczy święte, które będą dla ciebie, i twe śluby — wzniesiesz ⟨je⟩ i przyjdziesz do miejsca, które wybierze Jahwe.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "tylko"
+      "gloss": "jedynie"
     },
     {
       "surface": "קדשיך",
-      "gloss": "twoje rzeczy święte"
+      "gloss": "twe rzeczy święte"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "będzie"
+      "gloss": "będą"
     },
     {
       "surface": "לך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונדריך",
-      "gloss": "i twoje śluby"
+      "gloss": "i twe śluby"
     },
     {
       "surface": "תשא",
@@ -60,6 +60,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:09:11.489824279Z",
+  "timestamp": "2026-08-25T05:49:42.102648107Z",
   "model": "glm-5.3"
 }

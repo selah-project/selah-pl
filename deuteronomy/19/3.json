@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 19,
-  "translation": "przygotujesz sobie drogę i podzielisz na trzy części granicę swojej ziemi, którą sprawi ci odziedziczyć Jahwe, twój Elohim, i będzie ⟨to⟩ na ucieczkę tam każdego zabójcy,",
+  "translation": "Przygotujesz sobie ⟨drogę⟩ i podzielisz na trzy części ⟨את⟩ granicę twej ziemi, którą Jahwe, twój Elohim, da ci w dziedzictwo, i będzie ⟨to⟩ na ucieczkę tam każdego zabójcy.",
   "tokens": [
     {
       "surface": "תכין",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "granicę"
+      "marks": "granicę twej ziemi"
     },
     {
       "surface": "גבול",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ארצך",
-      "gloss": "swojej ziemi"
+      "gloss": "twej ziemi"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ינחילך",
-      "gloss": "sprawi ci odziedziczyć"
+      "gloss": "da ci w dziedzictwo"
     },
     {
       "surface": "יהוה",
@@ -73,6 +73,6 @@
       "gloss": "zabójcy"
     }
   ],
-  "timestamp": "2026-08-24T23:10:20.163940014Z",
+  "timestamp": "2026-08-25T07:00:22.317510110Z",
   "model": "glm-5.3"
 }

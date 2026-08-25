@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł Mosze do ⟨the⟩ Elohim: Oto ja przychodzę do synów Jisra'ela i powiem im: Elohim ojców waszych posłał mnie do was; i powiedzą mi: Jakie ⟨jest⟩ imię jego? Co mam powiedzieć do nich?",
+  "translation": "I rzekł Mosze do Elohim: Oto ja przychodzę do synów Jisraela i powiem im: Elohim ojców waszych posłał mnie do was — a oni powiedzą mi: Jakie ⟨jest⟩ jego imię? Co im mam powiedzieć?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "משה",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisra'ela"
+      "gloss": "Jisraela"
     },
     {
-      "surface": "ואמרתי",
+      "surface": "ו אמרתי",
       "gloss": "i powiem"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "i powiedzą"
+      "gloss": "a oni powiedzą"
     },
     {
       "surface": "לי",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "imię jego"
+      "gloss": "jego imię"
     },
     {
       "surface": "מה",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "do nich"
+      "gloss": "im"
     }
   ],
-  "timestamp": "2026-08-25T03:17:15.165122131Z",
+  "timestamp": "2026-08-25T05:40:53.907123250Z",
   "model": "glm-5.3"
 }

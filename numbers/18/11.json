@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 18,
-  "translation": "A to jest twoje — jako podarunek z ich darów: wszystkie ofiary machania synów Jisrael; tobie dałem je, i twoim synom, i twoim córkom ⟨z⟩ tobą, na wieczną ustawę; każdy czysty w twoim domu jeść może ⟨את⟩ to.",
+  "translation": "I to dla ciebie: danina ich podarunków, wszystkie ofiary machania synów Israela; tobie dałem je, i twoim synom, i twoim córkom ⟨את⟩ z tobą, jako ustawę wieczną; każdy czysty w twoim domu jeść będzie ⟨את⟩ to.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "a to"
+      "gloss": "I to"
     },
     {
       "surface": "לך",
-      "gloss": "twoje"
+      "gloss": "dla ciebie"
     },
     {
       "surface": "תרומת",
-      "gloss": "podarunek"
+      "gloss": "danina"
     },
     {
       "surface": "מתנם",
-      "gloss": "z ich darów"
+      "gloss": "ich podarunków"
     },
     {
       "surface": "לכל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Israela"
     },
     {
       "surface": "לך",
@@ -57,12 +57,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ z tobą",
-      "marks": "tobą"
+      "gloss": "⟨את⟩ z tobą"
     },
     {
       "surface": "לחק",
-      "gloss": "na ustawę"
+      "gloss": "jako ustawę"
     },
     {
       "surface": "עולם",
@@ -82,7 +81,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "jeść może"
+      "gloss": "będzie jeść"
     },
     {
       "surface": "אתו",
@@ -90,6 +89,6 @@
       "marks": "to"
     }
   ],
-  "timestamp": "2026-08-24T22:56:45.612255236Z",
+  "timestamp": "2026-08-25T05:48:00.784718418Z",
   "model": "glm-5.3"
 }

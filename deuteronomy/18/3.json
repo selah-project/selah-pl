@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 18,
-  "translation": "A to będzie prawem kapłanów od ⟨את⟩ ludu, od ⟨את⟩ tych, którzy składają ofiarę, czy wół, czy owca: i dadzą kapłanowi ramię, i obie policzki, i żołądek.",
+  "translation": "I to będzie prawo kapłanów ze strony ludu, od ⟨את⟩ tych, którzy składają ⟨את⟩ ofiarę — czy wół, czy owca — i dadzą kapłanowi ramię, i obie policzki, i żołądek.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "a to"
+      "gloss": "i to"
     },
     {
       "surface": "יהיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "prawem"
+      "gloss": "prawo"
     },
     {
       "surface": "הכהנים",
@@ -26,7 +26,7 @@
     {
       "surface": "מאת",
       "gloss": "od ⟨את⟩",
-      "marks": "ludu"
+      "marks": "tych, którzy składają ofiarę"
     },
     {
       "surface": "העם",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "זבחי",
-      "gloss": "tych, którzy składają"
+      "gloss": "składających ofiarę"
     },
     {
       "surface": "הזבח",
@@ -82,6 +82,6 @@
       "gloss": "i żołądek"
     }
   ],
-  "timestamp": "2026-08-24T23:10:54.559953832Z",
+  "timestamp": "2026-08-25T05:50:36.612446786Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I mówili każdy do swego towarzysza: Chodźcie, rzućmy losy, i dowiedzmy się, z czyjej ⟨przyczyny⟩ ⟨jest⟩ ta złota rzecz na nas. I rzucili losy, a los padł na Jonaszа.",
+  "translation": "I mówili każdy do swego towarzysza: Chodźcie, rzucimy losy i dowiemy się, z czyjej ⟨przyczyny⟩ nieszczęście to ⟨jest⟩ nad nami. I rzucili losy, i padł los na Jonę.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -28,8 +28,8 @@
       "gloss": "chodźcie"
     },
     {
-      "surface": "וינפילה",
-      "gloss": "rzućmy"
+      "surface": "ונפילה",
+      "gloss": "rzucimy"
     },
     {
       "surface": "גורלות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ונדעה",
-      "gloss": "i dowiedzmy się"
+      "gloss": "i dowiemy się"
     },
     {
       "surface": "בשלמי",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "ta złota rzecz"
+      "gloss": "nieszczęście"
     },
     {
       "surface": "הזאת",
-      "gloss": "ta"
+      "gloss": "to"
     },
     {
       "surface": "לנו",
-      "gloss": "na nas"
+      "gloss": "nad nami"
     },
     {
       "surface": "ויפלו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "a padł"
+      "gloss": "i padł"
     },
     {
       "surface": "הגורל",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "יונה",
-      "gloss": "Jonaszа"
+      "gloss": "Jonę"
     }
   ],
-  "timestamp": "2026-08-25T01:36:57.323913411Z",
+  "timestamp": "2026-08-25T06:14:26.765367979Z",
   "model": "glm-5.3"
 }

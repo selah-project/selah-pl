@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 42,
-  "translation": "I rzekł do nich Jaakow, ojciec ich: Mnie pozbawiliście dzieci; Josefowy nie ma, i Szymeonowy nie ma, a ⟨את⟩ Binjamina weźmiecie — na mnie przyszło to wszystko.",
+  "translation": "I rzekł do nich Jaakow, ich ojciec: mnie pozbawiliście dzieci — Josef go nie ma, i Szim'on go nie ma, i ⟨את⟩ Binjamina zabierzecie — wszystko to na mnie spadło.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,12 +21,11 @@
     },
     {
       "surface": "אביהם",
-      "gloss": "ojciec ich"
+      "gloss": "ich ojciec"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "Mnie"
+      "gloss": "⟨את⟩ mnie"
     },
     {
       "surface": "שכלתם",
@@ -34,32 +33,32 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefowy"
+      "gloss": "Josef"
     },
     {
       "surface": "איננו",
-      "gloss": "nie ma"
+      "gloss": "go nie ma"
     },
     {
       "surface": "ושמעון",
-      "gloss": "i Szymeonowy"
+      "gloss": "i Szim'on"
     },
     {
       "surface": "איננו",
-      "gloss": "nie ma"
+      "gloss": "go nie ma"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Binjamina"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binjamina"
+      "gloss": "Binjamina",
+      "marks": "Binjamina"
     },
     {
       "surface": "תקחו",
-      "gloss": "weźmiecie"
+      "gloss": "zabierzecie"
     },
     {
       "surface": "עלי",
@@ -67,13 +66,13 @@
     },
     {
       "surface": "היו",
-      "gloss": "przyszło"
+      "gloss": "spadło"
     },
     {
       "surface": "כלנה",
-      "gloss": "to wszystko"
+      "gloss": "wszystko to"
     }
   ],
-  "timestamp": "2026-08-24T22:22:46.023503210Z",
+  "timestamp": "2026-08-25T05:39:48.699767793Z",
   "model": "glm-5.3"
 }

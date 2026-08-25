@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I rzekł król: ⟨את⟩-ze mną przejdzie Kimham, a ja uczynię mu ⟨את⟩ to, co dobre w oczach twoich; i wszystko, co wybierzesz na mnie, uczynię tobie.",
+  "translation": "I rzekł król: ze ⟨את⟩ mną przejdzie Kimham, a ja uczynię mu ⟨את⟩ to dobre w twoich oczach; i wszystko, co wybierzesz na mnie, uczynię tobie.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "המלך",
@@ -17,8 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩-ze mną",
-      "marks": "Kimham"
+      "gloss": "⟨את⟩ ze mną"
     },
     {
       "surface": "יעבר",
@@ -43,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co dobre"
+      "marks": "to dobre"
     },
     {
       "surface": "הטוב",
-      "gloss": "to, co dobre"
+      "gloss": "to dobre"
     },
     {
       "surface": "בעיניך",
-      "gloss": "w oczach twoich"
+      "gloss": "w twoich oczach"
     },
     {
       "surface": "וכל",
@@ -78,6 +77,6 @@
       "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-24T23:51:49.131050117Z",
+  "timestamp": "2026-08-25T05:58:58.063332465Z",
   "model": "glm-5.3"
 }

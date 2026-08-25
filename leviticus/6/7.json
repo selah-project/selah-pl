@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A to ⟨jest⟩ tora ofiary z pokarmów: przynieście ⟨את⟩ ją, synowie Aharona, przed Jahwe, ku obliczu ołtarza.",
+  "translation": "A to ⟨jest⟩ tora ofiary z pokarmów: przybliżą ją syni Ahrona przed Jahwe, przed obliczem ołtarza.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "A to"
+      "gloss": "a to"
     },
     {
       "surface": "תורת",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "przynieście"
+      "gloss": "przybliżą"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "ofiara z pokarmów"
     },
     {
       "surface": "בני",
-      "gloss": "synowie"
+      "gloss": "syni"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharona"
+      "gloss": "Ahrona"
     },
     {
       "surface": "לפני",
@@ -57,6 +57,6 @@
       "gloss": "ołtarza"
     }
   ],
-  "timestamp": "2026-08-24T22:40:56.975546293Z",
+  "timestamp": "2026-08-25T06:28:30.825846163Z",
   "model": "glm-5.3"
 }

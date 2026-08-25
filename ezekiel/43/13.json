@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 43,
-  "translation": "A te ⟨są⟩ wymiary ołtarza łokciami — łokieć ⟨to⟩ łokieć i dłoń; a zagłębienie łokcia oraz łokieć szerokości, a granica jego do krawędzi jego dokoła jedna piędź — a to ⟨jest⟩ grzbiet ołtarza.",
+  "translation": "A te ⟨są⟩ wymiary ołtarza łokciami: łokieć to łokieć i piędź; a zagłębienie ⟨ma⟩ łokieć i łokieć szerokości, a jego obrzeże przy jego krawędzi dokoła jedną piędź; a to ⟨jest⟩ grzbiet ołtarza.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וטפח",
-      "gloss": "i dłoń"
+      "gloss": "i piędź"
     },
     {
       "surface": "וחיק",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "האמה",
-      "gloss": "łokcia"
+      "gloss": "łokieć"
     },
     {
       "surface": "ואמה",
-      "gloss": "oraz łokieć"
+      "gloss": "i łokieć"
     },
     {
       "surface": "רחב",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "וגבולה",
-      "gloss": "a granica jego"
+      "gloss": "a jego obrzeże"
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "przy"
     },
     {
       "surface": "שפתה",
-      "gloss": "krawędzi jego"
+      "gloss": "jego krawędzi"
     },
     {
       "surface": "סביב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "jedna"
+      "gloss": "jedną"
     },
     {
       "surface": "וזה",
@@ -88,6 +88,6 @@
       "gloss": "ołtarza"
     }
   ],
-  "timestamp": "2026-08-25T01:27:32.228159610Z",
+  "timestamp": "2026-08-25T07:03:33.122032734Z",
   "model": "glm-5.3"
 }

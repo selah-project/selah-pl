@@ -5,58 +5,65 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A reszta spraw Amona, które uczynił, czy nie są one zapisane w księdze spraw dni królów Jehudy?",
+  "translation": "A reszta spraw Amona, które uczynił — czyż nie ⟨są⟩ zapisane w księdze spraw dni królów Jehudy?",
   "tokens": [
     {
-      "surface": "ולא",
-      "gloss": ""
+      "surface": "ויתר",
+      "gloss": "reszta"
     },
     {
-      "surface": "המה",
-      "gloss": ""
+      "surface": "דברי",
+      "gloss": "spraw"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "grzechy Jehudy i Jeruszalaim"
+      "surface": "אמון",
+      "gloss": "Amona"
     },
     {
       "surface": "אשר",
       "gloss": "które"
     },
     {
-      "surface": "חטאו",
-      "gloss": "zgrzeszyli"
+      "surface": "עשה",
+      "gloss": "uczynił"
     },
     {
-      "surface": "בעשותם",
-      "gloss": "czyniąc"
+      "surface": "הלא",
+      "gloss": "czyż nie"
     },
     {
-      "surface": "הרע",
-      "gloss": "zło"
+      "surface": "הם",
+      "gloss": "one"
     },
     {
-      "surface": "בעיני",
-      "gloss": "w oczach"
+      "surface": "כתובים",
+      "gloss": "zapisane"
     },
     {
-      "surface": "וכפשעם",
-      "gloss": "i jak ich odstępstwo"
+      "surface": "על",
+      "gloss": "w"
     },
     {
-      "surface": "אשר",
-      "gloss": "którego"
+      "surface": "ספר",
+      "gloss": "księdze"
     },
     {
-      "surface": "עברו",
-      "gloss": "przekroczyli"
+      "surface": "דברי",
+      "gloss": "spraw"
     },
     {
-      "surface": "עלי",
-      "gloss": "nade MNĄ"
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
     }
   ],
-  "timestamp": "2026-08-25T00:15:36.059459177Z",
+  "timestamp": "2026-08-25T06:04:08.786147117Z",
   "model": "glm-5.3"
 }

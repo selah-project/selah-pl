@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 28,
-  "translation": "sześć ich imion na ⟨the⟩ jednym kamieniu, a ⟨את⟩ imiona sześciu pozostałych na ⟨the⟩ drugim kamieniu, według ich urodzenia.",
+  "translation": "Sześć ich imion na ⟨tym jednym⟩ kamieniu, a ⟨את⟩ imiona pozostałych sześciu na drugim kamieniu, według ich urodzeń.",
   "tokens": [
     {
       "surface": "ששה",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "האחת",
-      "gloss": "jednym"
+      "gloss": "⟨tym jednym⟩"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "imiona sześciu pozostałych"
+      "marks": "imiona pozostałych sześciu"
     },
     {
       "surface": "שמות",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "כתולדתם",
-      "gloss": "według ich urodzenia"
+      "gloss": "według ich urodzeń"
     }
   ],
-  "timestamp": "2026-08-24T22:33:51.872008301Z",
+  "timestamp": "2026-08-25T05:42:30.118192385Z",
   "model": "glm-5.3"
 }

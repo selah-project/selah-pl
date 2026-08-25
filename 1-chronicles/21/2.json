@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I rzekł Dawid do Joaba i do książąt ⟨tego⟩ ludu: Idźcie, policzcie ⟨את⟩ JisraEl, od Beer-Szewy aż do Dan, i przynieście ⟨to⟩ do mnie, abym poznał ⟨את⟩ liczbę ich.",
+  "translation": "I rzekł Dawid do Joaba i do książąt ludu: Idźcie, policzcie ⟨את⟩ Jisraela od Beer-Szeby aż do Dan, i przynieście mi ⟨to⟩, a poznam ich liczbę.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,23 +46,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "JisraEl"
+      "marks": "Jisraela"
     },
     {
       "surface": "ישראל",
-      "gloss": "JisraEl"
+      "gloss": "Jisraela"
     },
     {
       "surface": "מבאר",
-      "gloss": "od studni"
+      "gloss": "od Beer-"
     },
     {
       "surface": "שבע",
-      "gloss": "Szewy"
+      "gloss": "-Szeby"
     },
     {
       "surface": "ועד",
-      "gloss": "i aż do"
+      "gloss": "aż do"
     },
     {
       "surface": "דן",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "אלי",
-      "gloss": "do mnie"
+      "gloss": "mi"
     },
     {
       "surface": "ואדעה",
-      "gloss": "abym poznał"
+      "gloss": "a poznam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "liczbę ich"
+      "marks": "ich liczbę"
     },
     {
       "surface": "מספרם",
-      "gloss": "liczbę ich"
+      "gloss": "ich liczbę"
     }
   ],
-  "timestamp": "2026-08-25T02:57:16.907946257Z",
+  "timestamp": "2026-08-25T06:25:55.879128695Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Pamiętaj, nie zapominaj, ⟨את⟩ to, czym rozgniewałeś ⟨את⟩ Jahwe, twego Elohim, na pustyni — od dnia, w którym wyszedłeś z ziemi Micrajim, aż wasze przyjście aż to tego miejsca: buntowniczymi byliście wobec Jahwe.",
+  "translation": "Pamiętaj, nie zapomnij ⟨את⟩ tego, że rozgniewałeś ⟨את⟩ Jahwe, Elohima twego, na pustyni — od dnia, w którym wyszedłeś z ziemi Micrajim, aż do przyjścia waszego aż do tego miejsca — buntowniczymi byliście z Jahwe.",
   "tokens": [
     {
       "surface": "זכר",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "תשכח",
-      "gloss": "zapominaj"
+      "gloss": "zapomnij"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, czym rozgniewałeś"
+      "marks": "tego"
     },
     {
       "surface": "אשר",
-      "gloss": "to, czym"
+      "gloss": "że"
     },
     {
       "surface": "הקצפת",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "twego Elohim"
+      "gloss": "Elohim twój"
     },
     {
       "surface": "במדבר",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "aż"
+      "gloss": "aż do"
     },
     {
       "surface": "באכם",
-      "gloss": "wasze przyjście"
+      "gloss": "przyjścia waszego"
     },
     {
       "surface": "עד",
-      "gloss": "aż to"
+      "gloss": "aż do"
     },
     {
       "surface": "המקום",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "wobec"
+      "gloss": "z"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:07:11.031388677Z",
+  "timestamp": "2026-08-25T06:29:01.419085125Z",
   "model": "glm-5.3"
 }

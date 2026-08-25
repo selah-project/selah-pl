@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I kto ⟨to⟩ mąż, który zasadził winnicę i nie rozpoczął jej owoców ⟨zbierać⟩? Niech idzie i wróci do swego domu, aby nie umarł w wojnie i inny mąż jej owoców nie rozpoczął.",
+  "translation": "I kto ⟨jest⟩ mężem, który zasadził winnicę i nie zaczął jej użytkować? Niech idzie i niech wróci do swego domu, aby nie umarł w bitwie i inny mąż nie zaczął jej użytkować.",
   "tokens": [
     {
       "surface": "ומי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חללו",
-      "gloss": "jej rozpoczął"
+      "gloss": "zaczął ją użytkować"
     },
     {
       "surface": "ילך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "i wróci"
+      "gloss": "i niech wróci"
     },
     {
       "surface": "לביתו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "w wojnie"
+      "gloss": "w bitwie"
     },
     {
       "surface": "ואיש",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יחללנו",
-      "gloss": "jej nie rozpoczął"
+      "gloss": "zaczął ją użytkować"
     }
   ],
-  "timestamp": "2026-08-24T23:10:55.052229032Z",
+  "timestamp": "2026-08-25T05:51:11.543097309Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I powiedziałem do króla: jeśli królowi ⟨to⟩ dobre, a jeśli sługa twój jest dobrzy przed obliczem twoim, ⟨aby⟩ posłał mnie do Jehudy, do miasta grobów ojców moich — a zbuduję je.",
+  "translation": "I powiedziałem do króla: jeśli ⟨jest⟩ dobre dla króla i jeśli sługa twój ⟨znajdzie⟩ łaskę przed tobą, ⟨to⟩ poślesz mnie do Jehudy, do miasta grobów ojców moich, i je zbuduję.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨temu⟩"
+      "gloss": "dla"
     },
     {
       "surface": "המלך",
-      "gloss": "król"
+      "gloss": "króla"
     },
     {
       "surface": "טוב",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "i jeśli"
     },
     {
       "surface": "ייטב",
-      "gloss": "jest dobrzy"
+      "gloss": "⟨znajdzie⟩ łaskę"
     },
     {
       "surface": "עבדך",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "przed obliczem twoim"
+      "gloss": "przed tobą"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨aby⟩"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "תשלחני",
-      "gloss": "posłał mnie"
+      "gloss": "poślesz mnie"
     },
     {
       "surface": "אל",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "ואבננה",
-      "gloss": "a zbuduję je"
+      "gloss": "i je zbuduję"
     }
   ],
-  "timestamp": "2026-08-25T02:47:18.249845387Z",
+  "timestamp": "2026-08-25T07:02:08.999839005Z",
   "model": "glm-5.3"
 }

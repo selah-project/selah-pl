@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I rzekł Jehoszua: Otwórzcie ⟨את⟩ usta ⟨the⟩ jaskini, i wyprowadźcie do mnie ⟨את⟩ tych pięciu królów z ⟨the⟩ jaskini.",
+  "translation": "I rzekł Jehoszua: Otwórzcie ⟨את⟩ otwór jaskini i wyprowadźcie do mnie ⟨את⟩ tych pięciu królów z jaskini.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "יהושע",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "פתחו",
-      "gloss": "Otwórzcie"
+      "gloss": "otwórzcie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "usta"
+      "marks": "otwór jaskini"
     },
     {
       "surface": "פי",
-      "gloss": "usta"
+      "gloss": "otwór"
     },
     {
       "surface": "המערה",
@@ -66,6 +66,6 @@
       "gloss": "jaskini"
     }
   ],
-  "timestamp": "2026-08-25T03:24:48.393247265Z",
+  "timestamp": "2026-08-25T05:52:40.891248469Z",
   "model": "glm-5.3"
 }

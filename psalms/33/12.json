@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 33,
-  "translation": "Szczęśliwy ⟨jest⟩ naród, którego Elohim ⟨to⟩ Jahwe — lud, który wybrał sobie na dziedzictwo.",
+  "translation": "Szczęśliwy ⟨jest⟩ naród, którego Jahwe ⟨jest⟩ Elohimem, lud, który wybrał na dziedzictwo dla siebie.",
   "tokens": [
     {
       "surface": "אשרי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "Elohim jego"
+      "gloss": "Elohimem"
     },
     {
       "surface": "העם",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "sobie"
+      "gloss": "dla siebie"
     }
   ],
-  "timestamp": "2026-08-25T03:43:56.483939423Z",
+  "timestamp": "2026-08-25T06:15:22.567642361Z",
   "model": "glm-5.3"
 }

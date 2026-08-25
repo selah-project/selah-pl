@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I każdy, kto nie wykona prawa tweego Eloah ani prawa króla, sąd pilnie ma być wykonany nad nim: czy to ⟨na⟩ śmierć, czy to ⟨na⟩ wygnanie, czy to ⟨na⟩ karę majątkową i uwięzienie.",
+  "translation": "A ktokolwiek nie będzie wykonywał prawa twojego Elohim i prawa króla, sąd nad nim niech będzie bezzwłocznie wykonywany — czy to na śmierć, czy to na wygnanie, czy to na grzywnę majątku, czy to na uwięzienie.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "i każdy"
+      "gloss": "a ktokolwiek"
     },
     {
       "surface": "די",
-      "gloss": "który"
+      "gloss": "⟨który⟩"
     },
     {
       "surface": "לא",
@@ -21,39 +21,39 @@
     },
     {
       "surface": "להוא",
-      "gloss": "wykona"
+      "gloss": "będzie"
     },
     {
       "surface": "עבד",
-      "gloss": "wykona"
+      "gloss": "wykonywał"
     },
     {
       "surface": "דתא",
-      "gloss": "prawo"
+      "gloss": "prawa"
     },
     {
       "surface": "די",
-      "gloss": "twego"
+      "gloss": "twojego"
     },
     {
       "surface": "אלהך",
-      "gloss": "Eloah"
+      "gloss": "Elohim"
     },
     {
       "surface": "ודתא",
-      "gloss": "ani prawa"
+      "gloss": "i prawa"
     },
     {
       "surface": "די",
-      "gloss": "które"
-    },
-    {
-      "surface": "מלכא",
       "gloss": "króla"
     },
     {
+      "surface": "מלכא",
+      "gloss": "⟨króla⟩"
+    },
+    {
       "surface": "אספרנא",
-      "gloss": "pilnie"
+      "gloss": "bezzwłocznie"
     },
     {
       "surface": "דינה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "להוא",
-      "gloss": "ma być"
+      "gloss": "niech będzie"
     },
     {
       "surface": "מתעבד",
-      "gloss": "wykonany"
+      "gloss": "wykonywany"
     },
     {
       "surface": "מנה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "למות",
-      "gloss": "⟨na⟩ śmierć"
+      "gloss": "na śmierć"
     },
     {
       "surface": "הן",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לשרשו",
-      "gloss": "⟨na⟩ wygnanie"
+      "gloss": "na wygnanie"
     },
     {
       "surface": "הן",
@@ -93,17 +93,17 @@
     },
     {
       "surface": "לענש",
-      "gloss": "⟨na⟩ karę"
+      "gloss": "na grzywnę"
     },
     {
       "surface": "נכסין",
-      "gloss": "majątkową"
+      "gloss": "majątku"
     },
     {
       "surface": "ולאסורין",
-      "gloss": "i uwięzienie"
+      "gloss": "czy to na uwięzienie"
     }
   ],
-  "timestamp": "2026-08-25T04:24:05.767703950Z",
+  "timestamp": "2026-08-25T06:23:31.525828845Z",
   "model": "glm-5.3"
 }

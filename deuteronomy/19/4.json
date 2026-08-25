@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 19,
-  "translation": "a to jest sprawa zabójcy, który ucieknie tam i przeżyje: kto uderzy ⟨את⟩ swojego bliźniego bez wiedzy, a on nie nienawidził go od wczoraj i przedwczoraj,",
+  "translation": "A to ⟨jest⟩ sprawa zabójcy, który ucieknie tam i żyje: ⟨ten⟩ który uderzy ⟨את⟩ swego bliźniego bez wiedzy, a on nie nienawidził go ⟨nawzajem⟩ od wczoraj i przedwczoraj.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "a to"
+      "gloss": "A to"
     },
     {
       "surface": "דבר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "וחי",
-      "gloss": "i przeżyje"
+      "gloss": "i żyje"
     },
     {
       "surface": "אשר",
-      "gloss": "kto"
+      "gloss": "⟨ten⟩ który"
     },
     {
       "surface": "יכה",
@@ -46,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swojego bliźniego"
+      "marks": "swego bliźniego"
     },
     {
       "surface": "רעהו",
-      "gloss": "swojego bliźniego"
+      "gloss": "swego bliźniego"
     },
     {
       "surface": "בבלי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "go"
+      "gloss": "mu"
     },
     {
       "surface": "מתמל",
@@ -85,6 +85,6 @@
       "gloss": "i przedwczoraj"
     }
   ],
-  "timestamp": "2026-08-24T23:10:20.164160024Z",
+  "timestamp": "2026-08-25T05:51:05.272325271Z",
   "model": "glm-5.3"
 }

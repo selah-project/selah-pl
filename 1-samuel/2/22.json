@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A Eli zestarzał się bardzo, i słyszał ⟨את⟩ wszystko, co czynili jego synowie całemu Izraelowi, oraz ⟨את⟩ to, że spółkowali ⟨את⟩ z kobietami usługującymi u wejścia do Namiotu Spotkania.",
+  "translation": "A Eli był bardzo stary i usłyszał ⟨את⟩ wszystko, co czynili jego synowie całemu Izraelowi, oraz ⟨את⟩ to, że kładli się z ⟨את⟩ kobietami pełniącymi służbę u wejścia do Namiotu Spotkania.",
   "tokens": [
     {
       "surface": "ועלי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זקן",
-      "gloss": "zestarzał się"
+      "gloss": "był stary"
     },
     {
       "surface": "מאד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ושמע",
-      "gloss": "i słyszał"
+      "gloss": "i usłyszał"
     },
     {
       "surface": "את",
@@ -55,19 +55,20 @@
     {
       "surface": "ואת",
       "gloss": "oraz ⟨את⟩",
-      "marks": "to"
+      "marks": "to, że kładli się"
     },
     {
       "surface": "אשר",
-      "gloss": "że"
+      "gloss": "to, że"
     },
     {
       "surface": "ישכבון",
-      "gloss": "spółkowali"
+      "gloss": "kładli się"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩",
+      "marks": "kobietami pełniącymi służbę"
     },
     {
       "surface": "הנשים",
@@ -75,7 +76,7 @@
     },
     {
       "surface": "הצבאות",
-      "gloss": "usługującymi"
+      "gloss": "pełniącymi służbę"
     },
     {
       "surface": "פתח",
@@ -90,6 +91,6 @@
       "gloss": "Spotkania"
     }
   ],
-  "timestamp": "2026-08-24T23:33:24.207342849Z",
+  "timestamp": "2026-08-25T05:55:22.475928139Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A także ty znasz ⟨את⟩ to, co uczynił mnie Joab, syn Cerui, co uczynił dwóm dowódcom wojsk Israela — Awnerowi, synowi Nera, i Amasie, synowi Jetera; i zabił ich, i uczynił krew wojny w pokoju, i włożył krew wojny na swój pas, który na jego biodrach, i na swoje obuwie, które na jego nogach.",
+  "translation": "A także ty wiesz ⟨את⟩ to, co uczynił mi Joab, syn Ceurii, co uczynił dwóm dowódcom wojsk Jisraela — Awnerowi, synowi Nera, i Amasie, synowi Jetera — i zabił ich, i włożył krew wojny w pokoju, i dał krew wojny na pas, który na jego biodrach, i na obuwie jego, które na jego nogach.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "A także"
+      "gloss": "a także"
     },
     {
       "surface": "אתה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "znasz"
+      "gloss": "wiesz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co uczynił mnie Joab"
+      "marks": "to, co uczynił mi Joab"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "mnie"
+      "gloss": "mi"
     },
     {
       "surface": "יואב",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "צרויה",
-      "gloss": "Cerui"
+      "gloss": "Ceurii"
     },
     {
       "surface": "אשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "לאבנר",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "i uczynił"
+      "gloss": "i włożył"
     },
     {
       "surface": "דמי",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "i włożył"
+      "gloss": "i dał"
     },
     {
       "surface": "דמי",
@@ -130,7 +130,7 @@
     },
     {
       "surface": "בחגרתו",
-      "gloss": "na swój pas"
+      "gloss": "na pas jego"
     },
     {
       "surface": "אשר",
@@ -142,7 +142,7 @@
     },
     {
       "surface": "ובנעלו",
-      "gloss": "i na swoje obuwie"
+      "gloss": "i na obuwie jego"
     },
     {
       "surface": "אשר",
@@ -153,6 +153,6 @@
       "gloss": "na jego nogach"
     }
   ],
-  "timestamp": "2026-08-24T23:56:38.813015310Z",
+  "timestamp": "2026-08-25T05:58:41.824387651Z",
   "model": "glm-5.3"
 }

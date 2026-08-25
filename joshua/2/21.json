@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I rzekła: Według waszych słów tak ⟨jest⟩. I wysłała ich, i odeszli; i przywiązała ⟨את⟩ sznur szkarłatny w oknie.",
+  "translation": "I powiedziała: Według waszych słów, tak ⟨jest⟩; i wysłała ich, i odeszli; i przywiązała ⟨את⟩ szkarłatną nić w oknie.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "i rzekła"
+      "gloss": "i powiedziała"
     },
     {
       "surface": "כדבריכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "ותשלחם",
@@ -38,21 +38,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sznur szkarłatny"
+      "marks": "szkarłatną nić"
     },
     {
       "surface": "תקות",
-      "gloss": "sznur"
+      "gloss": "nić"
     },
     {
       "surface": "השני",
-      "gloss": "szkarłatny"
+      "gloss": "szkarłatną"
     },
     {
       "surface": "בחלון",
       "gloss": "w oknie"
     }
   ],
-  "timestamp": "2026-08-24T23:17:17.841885937Z",
+  "timestamp": "2026-08-25T05:51:58.052819914Z",
   "model": "glm-5.3"
 }

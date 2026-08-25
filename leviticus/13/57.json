@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "A jeśli ukaże się jeszcze na odzieniu, albo w osnowie, albo w wątku, albo w każdym przedmiocie ze skóry — to ⟨jest⟩ rozkrzewiająca ⟨się⟩: w ogniu spalisz ⟨את⟩ tego, w którym ⟨jest⟩ zaraza.",
+  "translation": "A jeśli nadal pokaże się w szacie, lub w osnowie, lub w wątku, lub w każdym przedmiocie ze skóry — to zakwitająca ⟨jest⟩; w ogniu spalisz ⟨את⟩ to, w czym ⟨jest⟩ zaraza.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "תראה",
-      "gloss": "ukaże się"
+      "gloss": "pokaże się"
     },
     {
       "surface": "עוד",
-      "gloss": "jeszcze"
+      "gloss": "nadal"
     },
     {
       "surface": "בבגד",
-      "gloss": "na odzieniu"
+      "gloss": "w szacie"
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "בשתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "בערב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "lub"
     },
     {
       "surface": "בכל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "פרחת",
-      "gloss": "rozkrzewiająca"
+      "gloss": "zakwitająca"
     },
     {
       "surface": "הוא",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tego, w którym"
+      "marks": "to, co w nim"
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "co"
     },
     {
       "surface": "בו",
@@ -89,6 +89,6 @@
       "gloss": "zaraza"
     }
   ],
-  "timestamp": "2026-08-24T22:43:58.378354202Z",
+  "timestamp": "2026-08-25T05:45:19.017712344Z",
   "model": "glm-5.3"
 }

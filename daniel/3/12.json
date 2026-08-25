@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Są mężowie judzcy, których ustanowiłeś ⟨את⟩ nad służbą prowincji Babilonu: Szadrak, Meszak i Abed-Nego — ci mężowie, królu, nie uszanowali ciebie; twoim elohim nie służą, a posągowi ze złota, który wzniósłeś, nie oddają pokłonu.",
+  "translation": "Są mężowie judzcy, których ustanowiłeś ⟨את⟩ nich nad służbą prowincji Babilonu — Szadrak, Meszak i Awed-Nego — ci mężowie, królu, nie uszanowali tobie dekretu; Elohim twojemu nie służą i posągowi złotemu, który wzniósłeś, nie oddają pokłonu.",
   "tokens": [
     {
       "surface": "איתי",
-      "gloss": "Są"
+      "gloss": "są"
     },
     {
       "surface": "גברין",
@@ -30,7 +30,7 @@
     {
       "surface": "יתהון",
       "gloss": "⟨את⟩",
-      "marks": "mężowie judzcy (Szadrak, Meszak i Abed-Nego)"
+      "marks": "nich"
     },
     {
       "surface": "על",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "נגו",
-      "gloss": "Abed-Nego"
+      "gloss": "Awed-Nego"
     },
     {
       "surface": "גבריא",
-      "gloss": "mężowie"
+      "gloss": "ci mężowie"
     },
     {
       "surface": "אלך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "ciebie"
+      "gloss": "tobie"
     },
     {
       "surface": "מלכא",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "לאלהיך",
-      "gloss": "twoim elohim"
+      "gloss": "Elohim twojemu"
     },
     {
       "surface": "לא",
@@ -106,11 +106,11 @@
     },
     {
       "surface": "ולצלם",
-      "gloss": "a posągowi"
+      "gloss": "i posągowi"
     },
     {
       "surface": "דהבא",
-      "gloss": "ze złota"
+      "gloss": "złotemu"
     },
     {
       "surface": "די",
@@ -129,6 +129,6 @@
       "gloss": "oddają pokłonu"
     }
   ],
-  "timestamp": "2026-08-25T02:36:47.322327276Z",
+  "timestamp": "2026-08-25T07:02:10.044721762Z",
   "model": "glm-5.3"
 }

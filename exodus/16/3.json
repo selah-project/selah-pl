@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekli do nich synowie Jisraela: Kto da, byśmy umarli ręką Jahwe w ziemi Micraim, gdyśmy siadali przy garnku mięsa, gdyśmy jedli chleb do sytości; wy bowiem wyprowadziliście ⟨את⟩ nas na tę pustynię, aby zabić ⟨את⟩ całe to zgromadzenie głodem.",
+  "translation": "I rzekli do nich synowie Jisraela: Kto da, byśmy umarli ręką Jahwe w ziemi Micraim, gdy siadaliśmy przy garnku mięsa, jedząc chleb do sytości — bo wyprowadziliście ⟨את⟩ nas na tę pustynię, by zgładzić ⟨את⟩ całe to zgromadzenie głodem.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בשבתנו",
-      "gloss": "gdyśmy siadali"
+      "gloss": "gdy siadaliśmy"
     },
     {
       "surface": "על",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "באכלנו",
-      "gloss": "gdyśmy jedli"
+      "gloss": "jedząc"
     },
     {
       "surface": "לחם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bowiem"
+      "gloss": "bo"
     },
     {
       "surface": "הוצאתם",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ nas",
+      "gloss": "⟨את⟩",
       "marks": "nas"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "aby zabić"
+      "gloss": "by zgładzić"
     },
     {
       "surface": "את",
@@ -130,6 +130,6 @@
       "gloss": "głodem"
     }
   ],
-  "timestamp": "2026-08-24T22:30:14.828940073Z",
+  "timestamp": "2026-08-25T05:41:25.699156399Z",
   "model": "glm-5.3"
 }

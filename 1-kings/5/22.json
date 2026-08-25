@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I posłał Chiram do Szlomoha, mówiąc: Usłyszałem ⟨את⟩ to, co posłałeś do mnie; ja uczynię ⟨את⟩ całą twoją wolę w drzewach cedrowych i w drzewach cyprysowych.",
+  "translation": "I Chiram posłał do Szelomo, aby powiedzieć: Usłyszałem ⟨את⟩ to, co posłałeś do mnie; ja uczynię ⟨את⟩ całą twoją wolę w drzewach cedrowych i w drzewach cyprysowych.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Szlomoha"
+      "gloss": "Szelomo"
     },
     {
       "surface": "לאמר",
-      "gloss": "mówiąc"
+      "gloss": "aby powiedzieć"
     },
     {
       "surface": "שמעתי",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co posłałeś"
+      "marks": "to, co posłałeś do mnie"
     },
     {
       "surface": "אשר",
@@ -86,6 +86,6 @@
       "gloss": "cyprysowych"
     }
   ],
-  "timestamp": "2026-08-24T23:57:35.207269960Z",
+  "timestamp": "2026-08-25T05:59:20.758235842Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I kołek będzie dla ciebie przy twoim okuciu, i ⟨będzie⟩, gdy usiądziesz na zewnątrz, i wkopiesz się w nią, i wrócisz, i przykryjesz ⟨את⟩ to, co z ciebie wychodzi.",
+  "translation": "I będzie ci kołek na twoim rynsztunku, i będzie, gdy usiądziesz na zewnątrz, wykopiesz nim, i zawrócisz, i przykryjesz ⟨את⟩ swój kał.",
   "tokens": [
     {
       "surface": "ויתד",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "dla ciebie"
+      "gloss": "ci"
     },
     {
       "surface": "על",
-      "gloss": "przy"
+      "gloss": "na"
     },
     {
       "surface": "אזנך",
-      "gloss": "twoim okuciu"
+      "gloss": "twoim rynsztunku"
     },
     {
       "surface": "והיה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "וחפרתה",
-      "gloss": "i wkopiesz"
+      "gloss": "i wykopiesz"
     },
     {
       "surface": "בה",
-      "gloss": "w nią"
+      "gloss": "nim"
     },
     {
       "surface": "ושבת",
-      "gloss": "i wrócisz"
+      "gloss": "i zawrócisz"
     },
     {
       "surface": "וכסית",
@@ -58,13 +58,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co z ciebie wychodzi"
+      "marks": "swój kał"
     },
     {
       "surface": "צאתך",
-      "gloss": "twój kał"
+      "gloss": "swój kał"
     }
   ],
-  "timestamp": "2026-08-24T23:11:52.558691220Z",
+  "timestamp": "2026-08-25T05:51:14.301260800Z",
   "model": "glm-5.3"
 }

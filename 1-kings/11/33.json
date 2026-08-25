@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Ponieważ opuścili Mnie i korzyli się przed Asztoret, elohim cidońskim, przed Kemosz, elohim Moabu, i przed Milkom, elohim synów Amonu, i nie chodzili moimi drogami, by czynić to, co prawe w moich oczach, ⟨i by zachowywać⟩ moje ustawy i moje prawa, jak Dawid, ojciec jego.",
+  "translation": "Dlatego, że mnie opuścili i kłaniali się Asztoret, elohim ⟨elohim⟩ Cydończyków, Kemosz, elohim Moabu, i Milkam, elohim synów Ammonu, a nie chodzili moimi drogami, by czynić to, co prawe w moich oczach, ⟨i by zachowywać⟩ moje ustawy i moje prawa, jak Dawid, jego ojciec.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "ponieważ"
+      "gloss": "dlatego, że"
     },
     {
       "surface": "אשר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "עזבוני",
-      "gloss": "opuścili Mnie"
+      "gloss": "opuścili mnie"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "i korzyli się"
+      "gloss": "i kłaniali się"
     },
     {
       "surface": "לעשתרת",
-      "gloss": "przed Asztoret"
+      "gloss": "Asztoret"
     },
     {
       "surface": "אלהי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "צדנין",
-      "gloss": "cidońskim"
+      "gloss": "Cydończyków"
     },
     {
       "surface": "לכמוש",
-      "gloss": "przed Kemosz"
+      "gloss": "Kemosz"
     },
     {
       "surface": "אלהי",
@@ -48,8 +48,12 @@
       "gloss": "Moabu"
     },
     {
+      "surface": "וישתחוו",
+      "gloss": ""
+    },
+    {
       "surface": "ולמלכם",
-      "gloss": "i przed Milkom"
+      "gloss": "i Milkam"
     },
     {
       "surface": "אלהי",
@@ -61,11 +65,11 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amonu"
+      "gloss": "Ammonu"
     },
     {
       "surface": "ולא",
-      "gloss": "i nie"
+      "gloss": "a nie"
     },
     {
       "surface": "הלכו",
@@ -89,7 +93,7 @@
     },
     {
       "surface": "וחקתי",
-      "gloss": "moje ustawy"
+      "gloss": "i moje ustawy"
     },
     {
       "surface": "ומשפטי",
@@ -101,9 +105,9 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ojciec jego"
+      "gloss": "jego ojciec"
     }
   ],
-  "timestamp": "2026-08-25T00:01:16.774015350Z",
+  "timestamp": "2026-08-25T07:00:51.447353958Z",
   "model": "glm-5.3"
 }

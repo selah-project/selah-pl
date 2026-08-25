@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "A jeśli prawdą ⟨było⟩ to słowo — nie znaleziono dowodów dziewictwa dla dziewczyny —",
+  "translation": "A jeśli prawdą ⟨jest⟩ ta rzecz, że nie znaleziono dowodów dziewictwa dla dziewczyny —",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "A jeśli"
     },
     {
       "surface": "אמת",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "היה",
-      "gloss": "było"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "to słowo"
+      "gloss": "ta rzecz"
     },
     {
       "surface": "הזה",
-      "gloss": "to"
+      "gloss": "ta"
     },
     {
       "surface": "לא",
@@ -44,6 +44,6 @@
       "gloss": "dla dziewczyny"
     }
   ],
-  "timestamp": "2026-08-24T23:11:49.057478448Z",
+  "timestamp": "2026-08-25T05:50:45.992915471Z",
   "model": "glm-5.3"
 }

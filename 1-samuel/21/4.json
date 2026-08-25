@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A teraz, co jest pod twoją ręką? Pięć chlebów daj ⟨mi⟩ w moją rękę, albo ⟨to⟩, co się znajdzie.",
+  "translation": "A teraz, co ⟨jest⟩ pod twoją ręką? pięć chlebów daj w moją rękę, albo cokolwiek się znajdzie.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יש",
-      "gloss": "jest"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "תחת",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "הנמצא",
-      "gloss": "to, co się znajdzie"
+      "gloss": "cokolwiek się znajdzie"
     }
   ],
-  "timestamp": "2026-08-24T23:41:02.561194191Z",
+  "timestamp": "2026-08-25T05:55:55.633531727Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I powiedział: Ukryję oblicze moje przed nimi, zobaczę, jaka ich przyszłość, bo to pokolenie przewrotne, synowie, w których nie ma wierności.",
+  "translation": "I rzekł: Ukryję oblicze moje przed nimi, zobaczę, jaka ich ⟨będzie⟩ przyszłość, bo to pokolenie przewrotne ⟨to⟩ — synowie, w których nie ma wierności.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I powiedział"
+      "gloss": "I rzekł"
     },
     {
       "surface": "אסתירה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "oblicze moje"
+      "gloss": "oblicze"
     },
     {
       "surface": "מהם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "בנים",
@@ -68,6 +68,6 @@
       "gloss": "w nich"
     }
   ],
-  "timestamp": "2026-08-24T23:15:28.957800551Z",
+  "timestamp": "2026-08-25T05:51:24.128010030Z",
   "model": "glm-5.3"
 }

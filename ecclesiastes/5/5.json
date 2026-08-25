@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Nie dawaj ⟨את⟩ swoich ust, by dać się uwieść grzechowi ⟨את⟩ twemu ciału, i nie mów przed posłańcem, że ⟨to⟩ pomyłka ⟨jest⟩; dlaczego miałby gniewać się Elohim na twój głos i zniweczyć ⟨את⟩ dzieło twych rąk?",
+  "translation": "Nie pozwalaj ⟨את⟩ twoim ustom doprowadzić do winy ⟨את⟩ twoje ciało, i nie mów przed posłańcem, że ⟨to⟩ pomyłka — dlaczego miałby się rozgniewać Elohim na twój głos i zniszczyć ⟨את⟩ dzieło twoich rąk?",
   "tokens": [
     {
       "surface": "אל",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "תתן",
-      "gloss": "dawaj"
+      "gloss": "pozwalaj\/dawaj"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swoich ust"
+      "marks": "twoim ustom"
     },
     {
       "surface": "פיך",
-      "gloss": "swoich ust"
+      "gloss": "twoje usta"
     },
     {
       "surface": "לחטיא",
-      "gloss": "by dać się uwieść grzechowi"
+      "gloss": "doprowadzić do winy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twemu ciału"
+      "marks": "twoje ciało"
     },
     {
       "surface": "בשרך",
-      "gloss": "twemu ciału"
+      "gloss": "twoje ciało"
     },
     {
       "surface": "ואל",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "posłańcem"
+      "gloss": "posłaniec"
     },
     {
       "surface": "כי",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "jest"
+      "gloss": "to"
     },
     {
       "surface": "למה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "יקצף",
-      "gloss": "miałby gniewać się"
+      "gloss": "ma się rozgniewać"
     },
     {
       "surface": "האלהים",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "וחבל",
-      "gloss": "i zniweczyć"
+      "gloss": "i zniszczyć"
     },
     {
       "surface": "את",
@@ -100,9 +100,9 @@
     },
     {
       "surface": "ידיך",
-      "gloss": "twych rąk"
+      "gloss": "twoich rąk"
     }
   ],
-  "timestamp": "2026-08-25T02:32:08.072727514Z",
+  "timestamp": "2026-08-25T06:20:41.334826712Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Czy nie ⟨את⟩ to, co kazał ci dziedziczyć Kemosz, twój elohim — ⟨את⟩ to masz dziedziczyć? A ⟨את⟩ wszystko, co wydziedziczył Jahwe, Elohim nasz, sprzed oblicza naszego — ⟨את⟩ to my odziedziczymy.",
+  "translation": "Czy nie to, co Kemosz, twój bóg, da ci w dziedzictwo, to posiądziesz? A ⟨את⟩ wszystko, co Jahwe, nasz Elohim, wydziedziczył sprzed nas — to posiądziemy.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "czy nie"
+      "gloss": "Czy nie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co kazał ci dziedziczyć Kemosz"
+      "marks": "to, co"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "יורישך",
-      "gloss": "kazał ci dziedziczyć"
+      "gloss": "da ci w dziedzictwo"
     },
     {
       "surface": "כמוש",
@@ -30,21 +30,21 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "twój elohim"
+      "gloss": "twój bóg"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ to",
-      "marks": "masz dziedziczyć"
+      "gloss": "⟨את⟩",
+      "marks": "to"
     },
     {
       "surface": "תירש",
-      "gloss": "masz dziedziczyć"
+      "gloss": "posiądziesz"
     },
     {
-      "surface": "ואת",
-      "gloss": "a ⟨את⟩",
-      "marks": "wszystko, co wydziedziczył Jahwe"
+      "surface": "ו את",
+      "gloss": "A ⟨את⟩",
+      "marks": "wszystko"
     },
     {
       "surface": "כל",
@@ -64,22 +64,22 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim nasz"
+      "gloss": "nasz Elohim"
     },
     {
       "surface": "מפנינו",
-      "gloss": "sprzed oblicza naszego"
+      "gloss": "sprzed nas"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ to",
-      "marks": "my odziedziczymy"
+      "gloss": "⟨את⟩",
+      "marks": "to"
     },
     {
       "surface": "נירש",
-      "gloss": "my odziedziczymy"
+      "gloss": "posiądziemy"
     }
   ],
-  "timestamp": "2026-08-24T23:29:22.967366308Z",
+  "timestamp": "2026-08-25T05:54:12.451620445Z",
   "model": "glm-5.3"
 }

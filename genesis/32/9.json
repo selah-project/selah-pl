@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I rzekł: Jeśli Esaw przyjdzie do jednego obozu i go pobije, to obóz, który pozostanie, będzie ⟨na⟩ ocalenie.",
+  "translation": "I rzekł: Jeśli Esaw przyjdzie do ⟨את⟩ jednego obozu i pobije go, to obóz pozostały będzie na ratunek.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "יבוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "והכהו",
-      "gloss": "i go pobije"
+      "gloss": "i pobije go"
     },
     {
       "surface": "והיה",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "הנשאר",
-      "gloss": "który pozostanie"
+      "gloss": "pozostały"
     },
     {
       "surface": "לפליטה",
-      "gloss": "na ocalenie"
+      "gloss": "na ratunek"
     }
   ],
-  "timestamp": "2026-08-24T22:19:20.890863694Z",
+  "timestamp": "2026-08-25T05:38:31.514464142Z",
   "model": "glm-5.3"
 }

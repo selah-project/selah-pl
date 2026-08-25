@@ -5,23 +5,24 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 28,
-  "translation": "Ilekroć przemknie, porwie ⟨את⟩ was, bo poranek za porankiem przemija, we dnie i w nocy; i będzie to tylko trwoga — rozumieć wieść.",
+  "translation": "Z każdym jego przejściem zabierze ⟨את⟩ was, bo rano po raniu przechodzić będzie, we dnie i w nocy; i będzie tylko trwoga, zrozumienie wieści.",
   "tokens": [
     {
       "surface": "מדי",
-      "gloss": "ilekroć"
+      "gloss": "z każdym"
     },
     {
       "surface": "עברו",
-      "gloss": "przemknie"
+      "gloss": "jego przejściem"
     },
     {
       "surface": "יקח",
-      "gloss": "porwie"
+      "gloss": "zabierze"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was"
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
     },
     {
       "surface": "כי",
@@ -29,15 +30,15 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "poranek"
+      "gloss": "rano"
     },
     {
       "surface": "בבקר",
-      "gloss": "za porankiem"
+      "gloss": "po raniu"
     },
     {
       "surface": "יעבר",
-      "gloss": "przemija"
+      "gloss": "przechodzić będzie"
     },
     {
       "surface": "ביום",
@@ -61,13 +62,13 @@
     },
     {
       "surface": "הבין",
-      "gloss": "rozumieć"
+      "gloss": "zrozumienie"
     },
     {
       "surface": "שמועה",
-      "gloss": "wieść"
+      "gloss": "wieści"
     }
   ],
-  "timestamp": "2026-08-25T00:26:47.731314855Z",
+  "timestamp": "2026-08-25T06:04:59.969303621Z",
   "model": "glm-5.3"
 }

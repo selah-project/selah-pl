@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Idź i zbierzesz ⟨את⟩ starszych Israela, i powiesz im: Jahwe, Elohim ojców waszych, ukazał się mi — Elohim Awrahama, Jicchaka i Jaakowa — mówiąc: Wejrzeniem wejrzałem ⟨את⟩ was i ⟨את⟩ to, co wam uczyniono w Micrajim.",
+  "translation": "Idź i zgromadzisz ⟨את⟩ starszych Israela, i powiesz im: Jahwe, Elohim ojców waszych, ukazał się mnie, Elohim Awrahama, Jicchaka i Jaakowa, mówiąc: Nawiedziłem, nawiedziłem ⟨את⟩ was i ⟨את⟩ to, co wam uczyniono w Micraim.",
   "tokens": [
     {
       "surface": "לך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ואספת",
-      "gloss": "i zbierzesz"
+      "gloss": "i zgromadzisz"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mi"
+      "gloss": "mnie"
     },
     {
       "surface": "אלהי",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "פקד",
-      "gloss": "Wejrzeniem"
+      "gloss": "Nawiedziłem"
     },
     {
       "surface": "פקדתי",
-      "gloss": "wejrzałem"
+      "gloss": "nawiedziłem"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was",
+      "gloss": "⟨את⟩",
       "marks": "was"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "surface": "העשוי",
-      "gloss": "to, co uczyniono"
+      "gloss": "co uczyniono"
     },
     {
       "surface": "לכם",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "במצרים",
-      "gloss": "w Micrajim"
+      "gloss": "w Micraim"
     }
   ],
-  "timestamp": "2026-08-25T03:17:34.569101605Z",
+  "timestamp": "2026-08-25T05:40:51.576079498Z",
   "model": "glm-5.3"
 }

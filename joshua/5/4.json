@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A to ⟨jest⟩ powód, dla którego obrzezał Jehoszua: cały lud, który wyszedł z Micraim, mężczyźni, wszyscy mężowie wojenni pomarli na pustyni, w drodze, przy wyjściu ich z Micraim.",
+  "translation": "A to ⟨jest⟩ ⟨tę⟩ sprawa, z powodu której obrzezał Jehoszua: cały lud, wyszedłszy z Micraim, wszyscy mężczyźni, wszyscy mężowie wojny pomarli na pustyni, w drodze, przy wyjściu ich z Micraim.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "powód"
+      "gloss": "sprawa"
     },
     {
       "surface": "אשר",
-      "gloss": "dla którego"
+      "gloss": "z powodu której"
     },
     {
       "surface": "מל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "היצא",
-      "gloss": "który wyszedł"
+      "gloss": "wyszedłszy"
     },
     {
       "surface": "ממצרים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הזכרים",
-      "gloss": "mężczyźni"
+      "gloss": "wszyscy mężczyźni"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "wojenni"
+      "gloss": "wojny"
     },
     {
       "surface": "מתו",
@@ -80,6 +80,6 @@
       "gloss": "z Micraim"
     }
   ],
-  "timestamp": "2026-08-24T23:18:09.877002622Z",
+  "timestamp": "2026-08-25T05:51:58.257987996Z",
   "model": "glm-5.3"
 }

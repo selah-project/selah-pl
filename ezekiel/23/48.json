@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I usunę niegodziwość z ziemi, i będą pouczone wszystkie kobiety, i nie będą czynić według waszej niegodziwości.",
+  "translation": "I sprawię, że niecność ustanie z ziemi, i pouczone będą wszystkie kobiety, i nie będą czynić według waszej niecności.",
   "tokens": [
     {
       "surface": "והשבתי",
-      "gloss": "i usunę"
+      "gloss": "i sprawię, że ustanie"
     },
     {
       "surface": "זמה",
-      "gloss": "niegodziwość"
+      "gloss": "niecność"
     },
     {
       "surface": "מן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ונוסרו",
-      "gloss": "i będą pouczone"
+      "gloss": "i pouczone będą"
     },
     {
       "surface": "כל",
@@ -36,12 +36,8 @@
       "gloss": "kobiety"
     },
     {
-      "surface": "ו",
-      "gloss": "i"
-    },
-    {
-      "surface": "לא",
-      "gloss": "nie"
+      "surface": "ולא",
+      "gloss": "i nie"
     },
     {
       "surface": "תעשינה",
@@ -49,9 +45,9 @@
     },
     {
       "surface": "כזמתכנה",
-      "gloss": "według waszej niegodziwości"
+      "gloss": "według waszej niecności"
     }
   ],
-  "timestamp": "2026-08-25T01:18:19.583756472Z",
+  "timestamp": "2026-08-25T06:11:15.946374705Z",
   "model": "glm-5.3"
 }

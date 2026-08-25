@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I poświęcili ⟨את⟩ Kedesz w Galil, w górze Naftalego, oraz ⟨את⟩ Sychem w górze Efrajima, oraz ⟨את⟩ Kirjat-Arba, to jest Chebron, w górze Jehudy.",
+  "translation": "I wyznaczyli ⟨את⟩ Kedesz w Galil, w górze Naftalego, oraz ⟨את⟩ Szechem w górze Efrajima, oraz ⟨את⟩ Kirjat-Arba, to ⟨jest⟩ Chebron, w górze Jehudy.",
   "tokens": [
     {
       "surface": "ויקדשו",
-      "gloss": "I poświęcili"
+      "gloss": "I wyznaczyli"
     },
     {
       "surface": "את",
@@ -35,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "oraz ⟨את⟩",
-      "marks": "Sychem"
+      "marks": "Szechem"
     },
     {
       "surface": "שכם",
-      "gloss": "Sychem"
+      "gloss": "Szechem"
     },
     {
       "surface": "בהר",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "קרית",
-      "gloss": "Kirjat-"
+      "gloss": "Kirjat"
     },
     {
       "surface": "ארבע",
-      "gloss": "Arba"
+      "gloss": "-Arba"
     },
     {
       "surface": "היא",
-      "gloss": "to jest"
+      "gloss": "to"
     },
     {
       "surface": "חברון",
@@ -79,6 +79,6 @@
       "gloss": "Jehudy"
     }
   ],
-  "timestamp": "2026-08-24T23:23:19.813477104Z",
+  "timestamp": "2026-08-25T05:53:00.232130405Z",
   "model": "glm-5.3"
 }

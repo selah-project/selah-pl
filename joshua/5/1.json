@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I stało się, gdy usłyszeli wszyscy królowie Emorytów, którzy ⟨byli⟩ po drugiej stronie Jardenu, od strony morza, i wszyscy królowie Kanaanejczyków, którzy nad morzem, ⟨את⟩ to, co Jahwe wysuszył ⟨את⟩ wody Jardenu sprzed oblicza synów Iszraela, aż przeszli, że stopniało ich serce i nie było już w nich ducha, sprzed oblicza synów Iszraela.",
+  "translation": "I stało się, gdy usłyszeli wszyscy królowie Amorytów, którzy za Jordanem, ku morzu, i wszyscy królowie Kananejczyków, którzy nad morzem, ⟨את⟩ tego, że Jahwe wysuszył ⟨את⟩ wody Jordanu sprzed oblicza synów Jisraela, aż przeszli, że stopniało ich serce i nie było już w nich ducha sprzed oblicza synów Jisraela.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorytów"
+      "gloss": "Amorytów"
     },
     {
       "surface": "אשר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "po drugiej stronie"
+      "gloss": "za"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardenu"
+      "gloss": "Jordanem"
     },
     {
       "surface": "ימה",
-      "gloss": "od strony morza"
+      "gloss": "ku morzu"
     },
     {
       "surface": "וכל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "Kanaanejczyków"
+      "gloss": "Kanan ejczyków"
     },
     {
       "surface": "אשר",
@@ -70,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co Jahwe wysuszył"
+      "marks": "tego, że Jahwe wysuszył wody Jordanu"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "tego, że"
     },
     {
       "surface": "הוביש",
@@ -87,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wody Jardenu"
+      "marks": "wody Jordanu"
     },
     {
       "surface": "מי",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardenu"
+      "gloss": "Jordanu"
     },
     {
       "surface": "מפני",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "עד",
@@ -116,14 +116,6 @@
     {
       "surface": "עברנו",
       "gloss": "przeszli"
-    },
-    {
-      "surface": "וימס",
-      "gloss": "że stopniało"
-    },
-    {
-      "surface": "לבבם",
-      "gloss": "ich serce"
     },
     {
       "surface": "וימס",
@@ -163,9 +155,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-24T23:18:09.876418483Z",
+  "timestamp": "2026-08-25T05:52:12.788133847Z",
   "model": "glm-5.3"
 }

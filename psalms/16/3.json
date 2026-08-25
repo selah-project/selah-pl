@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 16,
-  "translation": "⟨Do⟩ świętych, którzy ⟨są⟩ na ziemi — to oni ⟨są⟩ wspaniali; wszystka moja przyjemność ⟨jest⟩ w nich.",
+  "translation": "⟨Do⟩ świętych, którzy ⟨są⟩ w ziemi — oni to ⟨są⟩, i wspaniali, w których cała moja przyjemność.",
   "tokens": [
     {
       "surface": "לקדושים",
-      "gloss": "świętym"
+      "gloss": "⟨Do⟩ świętych"
     },
     {
       "surface": "אשר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "na ziemi"
+      "gloss": "w ziemi"
     },
     {
       "surface": "המה",
       "gloss": "oni"
     },
     {
-      "surface": "ו אדירי",
+      "surface": "ואדירי",
       "gloss": "i wspaniali"
     },
     {
       "surface": "כל",
-      "gloss": "wszystka"
+      "gloss": "cała"
     },
     {
       "surface": "חפצי",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "בם",
-      "gloss": "w nich"
+      "gloss": "w których"
     }
   ],
-  "timestamp": "2026-08-25T01:45:47.848463534Z",
+  "timestamp": "2026-08-25T06:15:09.980010019Z",
   "model": "glm-5.3"
 }

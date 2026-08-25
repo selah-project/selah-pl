@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 3,
-  "translation": "A książę domu ojca rodzin Merariego ⟨to⟩ Curiel, syn Abichaila; po boku przybytku rozbiją obóz na północy.",
+  "translation": "A książę rodu ojców rodzin Merari — Curiél, syn Abichajila; boku Przybytku mieli rozbijać obóz, od strony północnej.",
   "tokens": [
     {
       "surface": "ונשיא",
-      "gloss": "a książę"
+      "gloss": "A książę"
     },
     {
       "surface": "בית",
-      "gloss": "domu"
+      "gloss": "rodu"
     },
     {
       "surface": "אב",
-      "gloss": "ojca"
+      "gloss": "ojców"
     },
     {
       "surface": "למשפחת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מררי",
-      "gloss": "Merariego"
+      "gloss": "Merari"
     },
     {
       "surface": "צוריאל",
-      "gloss": "Curiel"
+      "gloss": "Curiél"
     },
     {
       "surface": "בן",
@@ -37,29 +37,29 @@
     },
     {
       "surface": "אביחיל",
-      "gloss": "Abichaila"
+      "gloss": "Abichajila"
     },
     {
       "surface": "על",
-      "gloss": "po"
-    },
-    {
-      "surface": "ירך",
       "gloss": "boku"
     },
     {
+      "surface": "ירך",
+      "gloss": "⟨boku⟩"
+    },
+    {
       "surface": "המשכן",
-      "gloss": "przybytku"
+      "gloss": "Przybytku"
     },
     {
       "surface": "יחנו",
-      "gloss": "rozbiją obóz"
+      "gloss": "mieli rozbijać obóz"
     },
     {
       "surface": "צפנה",
-      "gloss": "na północy"
+      "gloss": "od strony północnej"
     }
   ],
-  "timestamp": "2026-08-25T03:20:29.216522634Z",
+  "timestamp": "2026-08-25T05:46:01.239750925Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I posłańców posłał Gideon na całą górę Efraima, mówiąc: Zstąpcie naprzeciw Midianitów i zajmijcie im ⟨את⟩ wody aż do Bet-Bary i ⟨את⟩ Jordan; i zwołano każdego męża Efraima, i zajęli ⟨את⟩ wody aż do Bet-Bary i ⟨את⟩ Jordan.",
+  "translation": "A posłańców wysłał Gideon na całą górę Efrajima, aby powiedzieć: Zstąpcie naprzeciw Midianitów i zajmijcie im ⟨את⟩ wody aż do Bet-Bara oraz ⟨את⟩ Jordana. I zawył każdy mąż Efrajima, i zajęli ⟨את⟩ wody aż do Bet-Bara oraz ⟨את⟩ Jordana.",
   "tokens": [
     {
       "surface": "ומלאכים",
-      "gloss": "i posłańców"
+      "gloss": "a posłańców"
     },
     {
       "surface": "שלח",
-      "gloss": "posłał"
+      "gloss": "wysłał"
     },
     {
       "surface": "גדעון",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efraima"
+      "gloss": "Efrajima"
     },
     {
       "surface": "לאמר",
-      "gloss": "mówiąc"
+      "gloss": "aby powiedzieć"
     },
     {
       "surface": "רדו",
@@ -74,27 +74,32 @@
     },
     {
       "surface": "ברה",
-      "gloss": "Bary"
+      "gloss": "Bara"
     },
     {
-      "surface": "וירדן",
-      "gloss": "⟨את⟩ i Jordan"
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Jordana"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
     },
     {
       "surface": "ויצעק",
-      "gloss": "i zwołano"
+      "gloss": "i zawył"
     },
     {
       "surface": "כל",
-      "gloss": "każdego"
+      "gloss": "każdy"
     },
     {
       "surface": "איש",
-      "gloss": "męża"
+      "gloss": "mąż"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efraima"
+      "gloss": "Efrajima"
     },
     {
       "surface": "וילכדו",
@@ -107,7 +112,7 @@
     },
     {
       "surface": "המים",
-      "gloss": "⟨את⟩ wody"
+      "gloss": "wody"
     },
     {
       "surface": "עד",
@@ -119,13 +124,18 @@
     },
     {
       "surface": "ברה",
-      "gloss": "Bary"
+      "gloss": "Bara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Jordana"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordan"
+      "gloss": "Jordana"
     }
   ],
-  "timestamp": "2026-08-24T23:27:58.900914476Z",
+  "timestamp": "2026-08-25T05:53:54.196554232Z",
   "model": "glm-5.3"
 }

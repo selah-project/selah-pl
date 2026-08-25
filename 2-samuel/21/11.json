@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I doniesiono Dawidowi ⟨את⟩ ⟨to, co⟩ uczyniła Rispah córka Ajji, nałożnica Szaula.",
+  "translation": "I opowiedziano Dawidowi ⟨את⟩ to, co uczyniła Ricpa, córka Ajji, nałożnica Szaula.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "i doniesiono"
+      "gloss": "i opowiedziano"
     },
     {
       "surface": "לדוד",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co uczyniła Rispah"
+      "marks": "to, co uczyniła Ricpa"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "עשתה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "רצפה",
-      "gloss": "Rispah"
+      "gloss": "Ricpa"
     },
     {
       "surface": "בת",
@@ -49,6 +49,6 @@
       "gloss": "Szaula"
     }
   ],
-  "timestamp": "2026-08-24T23:52:23.575937180Z",
+  "timestamp": "2026-08-25T05:58:12.943361828Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "To ⟨jest⟩ ofiara Aharona i jego synów, którą złożą Jahwe w dniu namaszczenia jego: dziesiąta ⟨część⟩ efy świeżej mąki jako ofiara pokarmowa stała, połowa jej rano i połowa jej wieczorem.",
+  "translation": "To ⟨jest⟩ ofiara Ahrona i jego synów, którą złożą Jahwe w dniu namaszczenia jego ⟨את⟩: dziesiąta ⟨część⟩ efy grubej mąki jako ofiara mincha nieustanna — połowa jej rano i połowa jej wieczorem.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "קרבן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharona"
+      "gloss": "Ahrona"
     },
     {
       "surface": "ובניו",
@@ -46,7 +46,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jego"
+      "marks": "go (Ahrona)"
     },
     {
       "surface": "עשירת",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "סלת",
-      "gloss": "świeżej mąki"
+      "gloss": "grubej mąki"
     },
     {
       "surface": "מנחה",
-      "gloss": "jako ofiara pokarmowa"
+      "gloss": "ofiara mincha"
     },
     {
       "surface": "תמיד",
-      "gloss": "stała"
+      "gloss": "nieustanna"
     },
     {
       "surface": "מחציתה",
@@ -85,6 +85,6 @@
       "gloss": "wieczorem"
     }
   ],
-  "timestamp": "2026-08-24T22:41:12.996929668Z",
+  "timestamp": "2026-08-25T05:43:20.954655195Z",
   "model": "glm-5.3"
 }

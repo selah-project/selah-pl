@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Kohen, który ją purification-of-grzech ofiaruje, ⟨את⟩ ją zje; w miejscu świętym będzie spożyta, na dziedzińcu Namiotu Spotkania.",
+  "translation": "Kapłan, który ją ofiaruje za grzech, zje ⟨את⟩ ją; w miejscu świętym zostanie zjedzona, na dziedzińcu Namiotu Spotkania.",
   "tokens": [
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "Kapłan"
     },
     {
       "surface": "המחטא",
-      "gloss": "który grzech nią expiates"
+      "gloss": "który ją ofiaruje za grzech"
     },
     {
       "surface": "אתה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "יאכלנה",
-      "gloss": "zje"
+      "gloss": "zje ją"
     },
     {
       "surface": "במקום",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "będzie spożyta"
+      "gloss": "zostanie zjedzona"
     },
     {
       "surface": "בחצר",
@@ -49,6 +49,6 @@
       "gloss": "Spotkania"
     }
   ],
-  "timestamp": "2026-08-24T22:40:47.304105532Z",
+  "timestamp": "2026-08-25T05:44:08.115176734Z",
   "model": "glm-5.3"
 }

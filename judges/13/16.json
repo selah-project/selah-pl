@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I rzekł posłaniec Jahwe do Manoacha: choćbyś mnie zatrzymał, nie będę jadł twego chleba; a jeśli złożysz ofiarę całopalną, złóż ⟨את⟩ niej dla Jahwe. — Bo Manoach nie wiedział, że to posłaniec Jahwe.",
+  "translation": "I rzekł posłaniec Jahwe do Manoacha: Jeżeli mnie zatrzymasz, nie będę jadł twojego chleba; a jeżeli złożysz ofiarę całopalną, dla Jahwe ją wzniesiesz — bo Manoach nie wiedział, że ⟨on⟩ posłaniecem Jahwe ⟨jest⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "choćby"
+      "gloss": "Jeżeli"
     },
     {
       "surface": "תעצרני",
-      "gloss": "mnie zatrzymał"
+      "gloss": "mnie zatrzymasz"
     },
     {
       "surface": "לא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "בלחמך",
-      "gloss": "twego chleba"
+      "gloss": "twojego chleba"
     },
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "a jeżeli"
     },
     {
       "surface": "תעשה",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "תעלנה",
-      "gloss": "złóż niej"
+      "gloss": "ją wzniesiesz"
     },
     {
       "surface": "כי",
-      "gloss": "Bo"
+      "gloss": "bo"
     },
     {
       "surface": "לא",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "on"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.474393638Z",
+  "timestamp": "2026-08-25T05:54:20.917111817Z",
   "model": "glm-5.3"
 }

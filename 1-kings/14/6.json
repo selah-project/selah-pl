@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I stało się, gdy Achijasz usłyszał ⟨את⟩ dźwięk jej kroków przy wchodzeniu w drzwi, że powiedział: Wejdź, żono Jeroboama! Dlaczego ⟨to⟩ udajesz obcą? A ja jestem posłany do ciebie z ⟨twardą wieścią⟩.",
+  "translation": "I stało się, gdy Achijasz usłyszał ⟨את⟩ głos jej kroków, wchodzącej w progi, że rzekł: Wejdź, żono Jarobama! Czemu to ty udajesz obcą? A ja posłany jestem do ciebie z surową ⟨wieścią⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dźwięk jej kroków"
+      "marks": "głos jej kroków"
     },
     {
       "surface": "קול",
-      "gloss": "dźwięk"
+      "gloss": "głos"
     },
     {
       "surface": "רגליה",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "באה",
-      "gloss": "przy wchodzeniu"
+      "gloss": "wchodzącej"
     },
     {
       "surface": "בפתח",
-      "gloss": "w drzwi"
+      "gloss": "w progi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "że powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "באי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jeroboama"
+      "gloss": "Jarobama"
     },
     {
       "surface": "למה",
-      "gloss": "Dlaczego"
+      "gloss": "Czemu"
     },
     {
       "surface": "זה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "שלוח",
-      "gloss": "jestem posłany"
+      "gloss": "posłany jestem"
     },
     {
       "surface": "אליך",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "קשה",
-      "gloss": "z twardą ⟨wieścią⟩"
+      "gloss": "z surową"
     }
   ],
-  "timestamp": "2026-08-25T00:02:27.166372414Z",
+  "timestamp": "2026-08-25T06:00:17.666199532Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I nazwały go sąsiadki imieniem, mówiąc: narodził się syn Noemi; i nazwały jego imię Obed; on ⟨to⟩ ojciec Iszaja, ojca Dawida.",
+  "translation": "I sąsiadki nadały ⟨mu⟩ imię, mówiąc: narodził się syn Naomi; i nazwały jego imię Owed — on ⟨jest⟩ ojcem Iszaja, ojca Dawida.",
   "tokens": [
     {
       "surface": "ותקראנה",
-      "gloss": "i nazwały"
+      "gloss": "i nadały"
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "⟨mu⟩"
     },
     {
       "surface": "השכנות",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "imieniem"
+      "gloss": "imię"
     },
     {
       "surface": "לאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לנעמי",
-      "gloss": "Noemi"
+      "gloss": "Naomi"
     },
     {
       "surface": "ותקראנה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עובד",
-      "gloss": "Obed"
+      "gloss": "Owed"
     },
     {
       "surface": "הוא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ojciec"
+      "gloss": "ojcem"
     },
     {
       "surface": "ישי",
@@ -72,6 +72,6 @@
       "gloss": "Dawida"
     }
   ],
-  "timestamp": "2026-08-25T02:27:48.084832588Z",
+  "timestamp": "2026-08-25T06:19:44.480628494Z",
   "model": "glm-5.3"
 }

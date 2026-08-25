@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A po Achitofelu ⟨byli⟩ Jehojada syn Benajahu i Ewjatar, a dowódcą wojska króla ⟨był⟩ Joab.",
+  "translation": "A po Achitofelu — Jehojada, syn Benajahu, i Ebiatar; a dowódcą wojska króla ⟨był⟩ Joab.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "A po"
+      "gloss": "a po"
     },
     {
       "surface": "אחיתפל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואביתר",
-      "gloss": "i Ewjatar"
+      "gloss": "i Ebiatar"
     },
     {
       "surface": "ושר",
@@ -44,14 +44,10 @@
       "gloss": "króla"
     },
     {
-      "surface": "יהוידע... יואב",
-      "gloss": ""
-    },
-    {
       "surface": "יואב",
       "gloss": "Joab"
     }
   ],
-  "timestamp": "2026-08-25T02:58:37.967220799Z",
+  "timestamp": "2026-08-25T06:25:31.105724308Z",
   "model": "glm-5.3"
 }

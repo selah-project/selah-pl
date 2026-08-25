@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Kto to ⟨jest⟩, król ⟨ten⟩ chwały? Jahwe, mocarz i bohater, Jahwe bohater wojny.",
+  "translation": "Kto ⟨to⟩, król chwały? Jahwe — potężny i mocarz, Jahwe, mocarz wojny.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "kto"
+      "gloss": "Kto"
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הכבוד",
-      "gloss": "⟨ten⟩ chwały"
+      "gloss": "chwały"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עזוז",
-      "gloss": "mocarz"
+      "gloss": "potężny"
     },
     {
       "surface": "וגבור",
-      "gloss": "i bohater"
+      "gloss": "i mocarz"
     },
     {
       "surface": "יהוה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "גבור",
-      "gloss": "bohater"
+      "gloss": "mocarz"
     },
     {
       "surface": "מלחמה",
       "gloss": "wojny"
     }
   ],
-  "timestamp": "2026-08-25T01:47:39.563442240Z",
+  "timestamp": "2026-08-25T06:15:18.447209633Z",
   "model": "glm-5.3"
 }

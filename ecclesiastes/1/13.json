@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I oddałem ⟨את⟩ moje serce, by badać i zgłębiać w mądrości wszystko, co się czyni pod niebami — to zły trud dał Elohim synom ⟨the⟩ człowieka, by się w nim trudzili.",
+  "translation": "I oddałem ⟨את⟩ serce moje, by badać i zgłębiać w mądrości wszystko, co się czyni pod niebiami; to ⟨jest⟩ zły trud, który dał Elohim synom ⟨od⟩ Adama, aby się w nim trudzili.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moje serce"
+      "marks": "serce moje"
     },
     {
       "surface": "לבי",
-      "gloss": "moje serce"
+      "gloss": "serce moje"
     },
     {
       "surface": "לדרוש",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ponad"
+      "gloss": "co do"
     },
     {
       "surface": "כל",
-      "gloss": "wszystko"
+      "gloss": "wszystkiego"
     },
     {
       "surface": "אשר",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "האדם",
-      "gloss": "człowieka"
+      "gloss": "Adama"
     },
     {
       "surface": "לענות",
-      "gloss": "by się trudzili"
+      "gloss": "aby się trudzili"
     },
     {
       "surface": "בו",
       "gloss": "w nim"
     }
   ],
-  "timestamp": "2026-08-25T02:30:40.871277481Z",
+  "timestamp": "2026-08-25T07:02:07.276070730Z",
   "model": "glm-5.3"
 }

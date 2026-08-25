@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "Przez siedem dni będziesz jeść mace, a siódmego dnia ⟨to⟩ święto dla Jahwe.",
+  "translation": "Przez siedem dni będziesz jeść mace, a siódmego dnia ⟨będzie⟩ święto dla Jahwe.",
   "tokens": [
     {
       "surface": "שבעת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "וביום",
-      "gloss": "a w dniu"
+      "gloss": "a siódmego dnia"
     },
     {
       "surface": "השביעי",
-      "gloss": "siódmym"
+      "gloss": "siódmy"
     },
     {
       "surface": "חג",
@@ -40,6 +40,6 @@
       "gloss": "dla Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:29:05.036308877Z",
+  "timestamp": "2026-08-25T05:41:01.686318655Z",
   "model": "glm-5.3"
 }

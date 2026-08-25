@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I będzie ⟨to⟩ dla Ahrona i dla jego synów na ustawę wieczną ⟨od⟩ strony synów Iszraela, gdyż ofiarą podniesienia ⟨to⟩ jest; i ofiarą podniesienia będzie ⟨to⟩ od ⟨את⟩ synów Iszraela — z ofiar ich pokojowych: ich podniesienie dla Jahwe.",
+  "translation": "I będzie to dla Ahrona i dla jego synów na wieczną ustawę ⟨od⟩ synów Jisraela, bo ⟨to jest⟩ teruma — i teruma będzie ⟨od⟩ synów Jisraela, spośród ofiar ich szelamim, ich teruma dla Jahwe.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ od strony"
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
     },
     {
       "surface": "בני",
@@ -37,23 +38,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "bo"
     },
     {
       "surface": "תרומה",
-      "gloss": "ofiarą podniesienia"
+      "gloss": "teruma"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "to jest"
     },
     {
       "surface": "ותרומה",
-      "gloss": "i ofiarą podniesienia"
+      "gloss": "i teruma"
     },
     {
       "surface": "יהיה",
@@ -61,7 +62,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ od"
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
     },
     {
       "surface": "בני",
@@ -69,25 +71,25 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iszraela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "מזבחי",
-      "gloss": "z ofiar"
+      "gloss": "spośród ofiar"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "ich pokojowych"
+      "gloss": "ich szelamim"
     },
     {
       "surface": "תרומתם",
-      "gloss": "ich podniesienie"
+      "gloss": "ich teruma"
     },
     {
       "surface": "ליהוה",
       "gloss": "dla Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:35:53.570001495Z",
+  "timestamp": "2026-08-25T05:41:52.279577234Z",
   "model": "glm-5.3"
 }

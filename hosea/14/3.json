@@ -5,15 +5,15 @@
   "book": "hosea",
   "lang": "pl",
   "chapter": 14,
-  "translation": "Weźcie ze sobą słowa i wróćcie do Jahwe; mówcie do Niego: „Całą winę unieś, a przyjmij to, co dobre, i oddamy cielce naszych warg”.",
+  "translation": "Weźcie z sobą słowa i zawróćcie do Jahwe; powiedzcie Mu: całą winę unieś, a przyjmij dobro, i oddamy cielce naszych warg.",
   "tokens": [
     {
       "surface": "קחו",
-      "gloss": "weźcie"
+      "gloss": "Weźcie"
     },
     {
       "surface": "עמכם",
-      "gloss": "ze sobą"
+      "gloss": "z sobą"
     },
     {
       "surface": "דברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ושובו",
-      "gloss": "i wróćcie"
+      "gloss": "i zawróćcie"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "mówcie"
+      "gloss": "powiedzcie"
     },
     {
       "surface": "אליו",
-      "gloss": "do Niego"
+      "gloss": "Mu"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "to, co dobre"
+      "gloss": "dobro"
     },
     {
       "surface": "ונשלמה",
@@ -72,6 +72,6 @@
       "gloss": "naszych warg"
     }
   ],
-  "timestamp": "2026-08-25T01:32:23.153620801Z",
+  "timestamp": "2026-08-25T07:02:00.916438430Z",
   "model": "glm-5.3"
 }

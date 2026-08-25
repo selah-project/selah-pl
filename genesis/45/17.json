@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 45,
-  "translation": "I rzekł Paroh do Józefa: Powiedz braciom swoim tak: Zróbcie to: załadujcie ⟨את⟩ wasze zwierzęta juczne i idźcie, wejdźcie do ziemi Kenaan.",
+  "translation": "I rzekł faraon do Josefa: Powiedz twoim braciom: To zróbcie: załadujcie ⟨את⟩ wasze bydło i idźcie, wejdźcie do ziemi Kenaan.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "faraon"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Józefa"
+      "gloss": "Josefa"
     },
     {
       "surface": "אמר",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "braciom"
+      "gloss": "do"
     },
     {
       "surface": "אחיך",
-      "gloss": "swoim"
+      "gloss": "twoich braci"
     },
     {
       "surface": "זאת",
-      "gloss": "tak"
+      "gloss": "to"
     },
     {
       "surface": "עשו",
-      "gloss": "Zróbcie"
+      "gloss": "zróbcie"
     },
     {
       "surface": "טענו",
@@ -50,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wasze zwierzęta juczne"
+      "marks": "wasze bydło"
     },
     {
       "surface": "בעירכם",
-      "gloss": "wasze zwierzęta juczne"
+      "gloss": "wasze bydło"
     },
     {
       "surface": "ולכו",
@@ -73,6 +73,6 @@
       "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-25T03:15:37.387786849Z",
+  "timestamp": "2026-08-25T05:40:09.974069953Z",
   "model": "glm-5.3"
 }

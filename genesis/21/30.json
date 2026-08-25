@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I rzekł: Ponieważ ⟨את⟩ siedem owiec weźmiesz z mojej ręki, aby ⟨to⟩ było mi na świadectwo, że wykopałem ⟨את⟩ tę studnię.",
+  "translation": "I rzekł: bo ⟨את⟩ siedem owiec weźmiesz z mojej ręki, aby było mi za świadectwo, że wykopałem ⟨את⟩ tę studnię.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ponieważ"
+      "gloss": "bo"
     },
     {
       "surface": "את",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לעדה",
-      "gloss": "na świadectwo"
+      "gloss": "za świadectwo"
     },
     {
       "surface": "כי",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "הבאר",
-      "gloss": "tę studnię"
+      "gloss": "studnię"
     },
     {
       "surface": "הזאת",
       "gloss": "tę"
     }
   ],
-  "timestamp": "2026-08-24T22:14:29.776510678Z",
+  "timestamp": "2026-08-25T06:28:06.008024095Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I poszedł Dawid oraz cały Jisrael do Jeruszalaim — ono ⟨to⟩ Jebus — i tam ⟨siedzieli⟩ Jebusyci, mieszkańcy ⟨tej⟩ ziemi.",
+  "translation": "I poszedł Dawid oraz cały Israel do Jeruszalaim — ⟨jest ona⟩ Jebus — i tam ⟨byli⟩ Jebusyci, mieszkańcy ⟨tej⟩ ziemi.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jeruszalaim"
+      "gloss": "do Jeruszalaim"
     },
     {
       "surface": "היא",
-      "gloss": "ono"
+      "gloss": "ona"
     },
     {
       "surface": "יבוס",
@@ -52,6 +52,6 @@
       "gloss": "ziemi"
     }
   ],
-  "timestamp": "2026-08-25T03:54:19.302479045Z",
+  "timestamp": "2026-08-25T06:25:01.375703843Z",
   "model": "glm-5.3"
 }

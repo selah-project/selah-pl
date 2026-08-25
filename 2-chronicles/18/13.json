@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 18,
-  "translation": "I rzekł Mikajahu: Żywy ⟨jest⟩ Jahwe — ⟨את⟩ to, co powie mój Elohim, ⟨את⟩ to będę mówić.",
+  "translation": "I rzekł Mikajahu: Jak żyje Jahwe — ⟨את⟩ to, co powie mój Elohim, ⟨את⟩ to będę mówił.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "żywy"
+      "gloss": "jak żyje"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "—"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "יאמר",
@@ -46,14 +46,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "to"
+      "gloss": "⟨את⟩ to",
+      "marks": "to będę mówił"
     },
     {
       "surface": "אדבר",
-      "gloss": "będę mówić"
+      "gloss": "będę mówił"
     }
   ],
-  "timestamp": "2026-08-25T03:56:10.454342656Z",
+  "timestamp": "2026-08-25T06:26:33.321916104Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I odpowiedział jego towarzysz, i rzekł: Nic to innego jak tylko miecz Gidona, syna Joasza, męża Izraela; Elohim dał w jego rękę ⟨את⟩ Midjana i ⟨את⟩ cały obóz.",
+  "translation": "I odpowiedział jego towarzysz, i rzekł: To ⟨nie⟩ jest nic innego, tylko miecz Gidona, syna Joasza, męża Israela — Elohim wydał w jego rękę ⟨את⟩ Midian i ⟨את⟩ cały obóz.",
   "tokens": [
     {
       "surface": "ויען",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "nic"
+      "gloss": "⟨nie⟩"
     },
     {
       "surface": "זאת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בלתי",
-      "gloss": "innego"
+      "gloss": "nic innego"
     },
     {
       "surface": "אם",
-      "gloss": "jak tylko"
+      "gloss": "tylko"
     },
     {
       "surface": "חרב",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izraela"
+      "gloss": "Israela"
     },
     {
       "surface": "נתן",
-      "gloss": "dał"
+      "gloss": "wydał"
     },
     {
       "surface": "האלהים",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Midjana"
+      "marks": "Midian"
     },
     {
       "surface": "מדין",
-      "gloss": "Midjana"
+      "gloss": "Midian"
     },
     {
       "surface": "ואת",
@@ -94,6 +94,6 @@
       "gloss": "obóz"
     }
   ],
-  "timestamp": "2026-08-24T23:28:53.108486732Z",
+  "timestamp": "2026-08-25T06:29:28.217487580Z",
   "model": "glm-5.3"
 }

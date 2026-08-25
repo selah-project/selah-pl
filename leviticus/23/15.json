@@ -5,8 +5,62 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 23,
-  "translation": "I policzycie sobie od dnia po szabacie, od dnia, w którym przynieśliście ⟨את⟩ omer kyrt—omer干辣椒\u0000—omer",
-  "tokens": [],
-  "timestamp": "2026-08-24T22:47:45.330511617Z",
+  "translation": "I policzycie sobie od dnia następnego po szabacie, od dnia waszego przyniesienia ⟨את⟩ omera ofiary kołysania: siedem szabatów doskonałych będzie.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "I policzycie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "od dnia następnego"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "po szabacie"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dnia"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "waszego przyniesienia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omera"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omera"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ofiary kołysania"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "szabatów"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "doskonałych"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T06:28:34.226934902Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I rzekł Mosze do nich: jeśli przejdą synowie Gada i synowie Reubena z ⟨את⟩ wami ⟨את⟩ Jordan, każdy uzbrojony do wojny przed Jahwe, i zostanie podbita ziemia przed wami, to dacie im ⟨את⟩ ziemię Gileadu na własność.",
+  "translation": "I rzekł Mosze do nich: jeśli przejdą synowie Gada i synowie Reubena ⟨את⟩ z wami ⟨את⟩ Jarden, wszyscy uzbrojeni do wojny przed Jahwe, i zostanie podbita ziemia przed wami, to dacie im ⟨את⟩ ziemię Gilad na własność.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,25 +45,24 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wami",
-      "marks": "z wami"
+      "gloss": "⟨את⟩ z wami"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jordan"
+      "marks": "Jarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordan"
+      "gloss": "Jarden"
     },
     {
       "surface": "כל",
-      "gloss": "każdy"
+      "gloss": "wszyscy"
     },
     {
       "surface": "חלוץ",
-      "gloss": "uzbrojony"
+      "gloss": "uzbrojeni"
     },
     {
       "surface": "למלחמה",
@@ -100,7 +99,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemię Gileadu"
+      "marks": "ziemię Gilad"
     },
     {
       "surface": "ארץ",
@@ -108,13 +107,13 @@
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gileadu"
+      "gloss": "Gilad"
     },
     {
       "surface": "לאחזה",
       "gloss": "na własność"
     }
   ],
-  "timestamp": "2026-08-24T23:02:08.453106059Z",
+  "timestamp": "2026-08-25T05:49:25.260907711Z",
   "model": "glm-5.3"
 }

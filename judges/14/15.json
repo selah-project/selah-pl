@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I stało się siódmego dnia, że rzekli do żony Szimszona: Nakłoń swego męża, aby nam wyłożył ⟨את⟩ zagadkę, żebyśmy nie spalili ⟨את⟩ ciebie i ⟨את⟩ domu twego ojca ogniem. Czy na to, by nas wzbogacić, nas wezwaliście? Czyż nie?",
+  "translation": "I stało się siódmego dnia, że powiedzieli do żony Szimszona: Nakłoń ⟨את⟩ twego męża, a niech nam wyzna ⟨את⟩ zagadkę, bo ⟨w przeciwnym razie⟩ spalimy ⟨את⟩ ciebie i ⟨את⟩ domu twego ojca w ogniu. Czy aby nas wyzuci uczynić wezwaliście nas? Czy nie?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "że rzekli"
+      "gloss": "i powiedzieli"
     },
     {
       "surface": "לאשת",
@@ -38,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego męża"
+      "marks": "twego męża"
     },
     {
       "surface": "אישך",
-      "gloss": "swego męża"
+      "gloss": "twego męża"
     },
     {
       "surface": "ויגד",
-      "gloss": "aby wyłożył"
+      "gloss": "a niech wyzna"
     },
     {
       "surface": "לנו",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "żebyśmy nie"
+      "gloss": "bo"
     },
     {
       "surface": "נשרף",
-      "gloss": "spalili"
+      "gloss": "spalimy"
     },
     {
       "surface": "אותך",
@@ -88,11 +88,11 @@
     },
     {
       "surface": "באש",
-      "gloss": "ogniem"
+      "gloss": "w ogniu"
     },
     {
       "surface": "הלירשנו",
-      "gloss": "by nas wzbogacić"
+      "gloss": "aby nas wyzuci uczynić"
     },
     {
       "surface": "קראתם",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "הלא",
-      "gloss": "Czyż nie?"
+      "gloss": "czy nie"
     }
   ],
-  "timestamp": "2026-08-24T23:30:36.367054555Z",
+  "timestamp": "2026-08-25T05:54:47.083716998Z",
   "model": "glm-5.3"
 }

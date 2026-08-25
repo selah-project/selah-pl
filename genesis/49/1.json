@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 49,
-  "translation": "I wezwał Jaakow do swoich synów i powiedział: Zbierzcie się, a ja oznajmię wam ⟨את⟩ to, co spotka was w ostatku dni.",
+  "translation": "I przywołał Jaakow swoich synów, i rzekł: Zbierzcie się, a oznajmię wam ⟨את⟩ to, co spotka ⟨את⟩ was w dniach ostatnich.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "i wezwał"
+      "gloss": "i przywołał"
     },
     {
       "surface": "יעקב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "האספו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואגידה",
-      "gloss": "a ja oznajmię"
+      "gloss": "a oznajmię"
     },
     {
       "surface": "לכם",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co spotka"
+      "marks": "to, co spotka was"
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "יקרא",
@@ -54,8 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "was"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "באחרית",
@@ -63,9 +62,9 @@
     },
     {
       "surface": "הימים",
-      "gloss": "dni"
+      "gloss": "dniach"
     }
   ],
-  "timestamp": "2026-08-24T22:25:46.429118580Z",
+  "timestamp": "2026-08-25T05:40:32.726449847Z",
   "model": "glm-5.3"
 }

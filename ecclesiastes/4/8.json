@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 4,
-  "translation": "Jest jeden, a drugiego nie ma; także syna i brata nie ma mu, i nie ma końca całemu jego trudowi; także jego oko nie nasyca się bogactwem. I dla kogo ja się trudzę, i pozbawiam ⟨את⟩ moją duszę dobra? Także to ⟨jest⟩ marność i przykry trud.",
+  "translation": "Jest jeden, a drugiego nie ma; także syna i brata nie ma jemu, i nie ma końca całemu jego trudowi; także jego oko nie nasyca się bogactwem — a dla kogo ja się trudzę i pozbawiam ⟨את⟩ mej nefesz dobra? Także to ⟨jest⟩ marność i zajęcie złe — to ⟨jest⟩.",
   "tokens": [
     {
       "surface": "יש",
-      "gloss": "Jest"
+      "gloss": "jest"
     },
     {
       "surface": "אחד",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "jemu"
     },
     {
       "surface": "ואין",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ולמי",
-      "gloss": "i dla kogo"
+      "gloss": "a dla kogo"
     },
     {
       "surface": "אני",
@@ -98,11 +98,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moją duszę"
+      "marks": "mej nefesz"
     },
     {
       "surface": "נפשי",
-      "gloss": "moją duszę"
+      "gloss": "mej nefesz"
     },
     {
       "surface": "מטובה",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "Także"
+      "gloss": "także"
     },
     {
       "surface": "זה",
@@ -122,17 +122,17 @@
     },
     {
       "surface": "וענין",
-      "gloss": "i przykry trud"
+      "gloss": "i zajęcie"
     },
     {
       "surface": "רע",
-      "gloss": "przykry"
+      "gloss": "złe"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩ to"
+      "gloss": "to ⟨jest⟩"
     }
   ],
-  "timestamp": "2026-08-25T02:31:28.109238594Z",
+  "timestamp": "2026-08-25T06:20:28.618880157Z",
   "model": "glm-5.3"
 }

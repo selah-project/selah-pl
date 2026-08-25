@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Jeśli ⟨to⟩ królowi ⟨jest⟩ dobre, niech będzie zapisane, aby ich wytępić; a dziesięć tysięcy talentów srebra zważyć na ręce wykonawcom dzieła, by wnieść ⟨to⟩ do skarbców króla.",
+  "translation": "Jeśli ⟨jest⟩ dobre w oczach króla, niech będzie zapisane, aby ich wytracić, a dziesięć tysięcy talentów srebra zważę w ręce wykonawców pracy, aby wnieść ⟨to⟩ do skarbów króla.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨to⟩"
+      "gloss": "w oczach"
     },
     {
       "surface": "המלך",
-      "gloss": "królowi"
+      "gloss": "króla"
     },
     {
       "surface": "טוב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לאבדם",
-      "gloss": "aby ich wytępić"
+      "gloss": "aby ich wytracić"
     },
     {
       "surface": "ועשרת",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אשקול",
-      "gloss": "zważyć"
+      "gloss": "zważę"
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "w"
     },
     {
       "surface": "ידי",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "עשי",
-      "gloss": "wykonawcom"
+      "gloss": "wykonawców"
     },
     {
       "surface": "המלאכה",
-      "gloss": "dzieła"
+      "gloss": "pracy"
     },
     {
       "surface": "להביא",
-      "gloss": "by wnieść"
+      "gloss": "aby wnieść"
     },
     {
       "surface": "אל",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "גנזי",
-      "gloss": "skarbców"
+      "gloss": "skarbów"
     },
     {
       "surface": "המלך",
       "gloss": "króla"
     }
   ],
-  "timestamp": "2026-08-25T03:51:12.602426251Z",
+  "timestamp": "2026-08-25T06:21:29.108163651Z",
   "model": "glm-5.3"
 }

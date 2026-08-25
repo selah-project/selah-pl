@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A na ofiarę peace-offeringów — nie, patrz niżej. Dwa woły z bydła, pięć baranów, pięć kozłów, pięć jagniąt, synów roku, pięć: to ⟨jest⟩ dar Netanela, syna Cuara.",
+  "translation": "A na ofiarę shelamim: dwa woły, pięć baranów, pięć kozłów, pięć jagniąt rocznych — to ⟨jest⟩ dar Netanela, syna Cuara.",
   "tokens": [
     {
       "surface": "ולזבח",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "pokojową"
+      "gloss": "shelamim (ofiary pojednania)"
     },
     {
       "surface": "בקר",
-      "gloss": "bydła"
+      "gloss": "woły"
     },
     {
       "surface": "שנים",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "jagniąt"
+      "gloss": "jagnięta"
     },
     {
       "surface": "בני",
-      "gloss": "synów"
+      "gloss": "(w wieku) rocznych"
     },
     {
       "surface": "שנה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "dar"
+      "gloss": "dar (korban)"
     },
     {
       "surface": "נתנאל",
@@ -76,6 +76,6 @@
       "gloss": "Cuara"
     }
   ],
-  "timestamp": "2026-08-24T22:52:04.764649680Z",
+  "timestamp": "2026-08-25T06:28:43.751138303Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I abyś opowiadał w uszach syna twojego i syna syna twojego, ⟨את⟩ to, co czyniłem w Micraim, i ⟨את⟩ znaki moje, które włożyłem w nich — i poznacie, że Ja ⟨jestem⟩ Jahwe.",
+  "translation": "i abyś opowiadał w uszach twego syna i syna twego syna ⟨את⟩ to, czego dokonałem w Micraim, i ⟨את⟩ moje znaki, które uczyniłem w nich — i poznacie, że ja jestem Jahwe.",
   "tokens": [
     {
       "surface": "ולמען",
-      "gloss": "I aby"
+      "gloss": "i abyś"
     },
     {
       "surface": "תספר",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "בנך",
-      "gloss": "syna twojego"
+      "gloss": "twego syna"
     },
     {
       "surface": "ובן",
-      "gloss": "i syn"
+      "gloss": "i syna"
     },
     {
       "surface": "בנך",
-      "gloss": "syna twojego"
+      "gloss": "twego syna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co czyniłem w Micraim"
+      "marks": "to, czego dokonałem w Micraim"
     },
     {
       "surface": "אשר",
-      "gloss": "to co"
+      "gloss": "to, czego"
     },
     {
       "surface": "התעללתי",
-      "gloss": "czyniłem"
+      "gloss": "dokonałem"
     },
     {
       "surface": "במצרים",
@@ -51,11 +51,11 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "znaki moje"
+      "marks": "moje znaki"
     },
     {
       "surface": "אתתי",
-      "gloss": "znaki moje"
+      "gloss": "moje znaki"
     },
     {
       "surface": "אשר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "שמתי",
-      "gloss": "włożyłem"
+      "gloss": "uczyniłem"
     },
     {
       "surface": "בם",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:28:31.813744507Z",
+  "timestamp": "2026-08-25T05:40:34.861495497Z",
   "model": "glm-5.3"
 }

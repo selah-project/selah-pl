@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I zbadano sprawę, i została znaleziona, i powieszono obu ich na drzewie; i zapisano to w księdze dziejów dni przed królem.",
+  "translation": "I zbadano ⟨את⟩ sprawę, i została znaleziona, i powieszono obu ich na drzewie, i zostało zapisane w księdze kronik dni przed królem.",
   "tokens": [
     {
       "surface": "ויבקש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "obu"
+      "gloss": "obu ich"
     },
     {
       "surface": "על",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויכתב",
-      "gloss": "i zapisano"
+      "gloss": "i zostało zapisane"
     },
     {
       "surface": "בספר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "dziejach"
+      "gloss": "kronik"
     },
     {
       "surface": "הימים",
@@ -60,6 +60,6 @@
       "gloss": "królem"
     }
   ],
-  "timestamp": "2026-08-25T02:33:17.186682581Z",
+  "timestamp": "2026-08-25T06:21:21.357709167Z",
   "model": "glm-5.3"
 }

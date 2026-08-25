@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I wyleję na dom Dawida i na mieszkańca Jeruszalaim ducha łaski i błagań, i spojrzą ⟨את⟩ na mnie — ⟨את⟩ tego, którego przebili — i będą opłakiwać go jak narzekanie nad jedynakiem, i będą gorzko biadać nad nim, jak gorzko biada się nad pierworodnym.",
+  "translation": "I wyleję na dom Dawida i na mieszkańców Jeruszalaim ducha łaski i błagań, i spojrzą na mnie ⟨את⟩ tego, którego przebili, i będą go opłakiwać, jak opłakuje się jedynaka, i gorzko biadać nad nim, jak gorzko biada się nad pierworodnym.",
   "tokens": [
     {
       "surface": "ושפכתי",
-      "gloss": "I wyleję"
+      "gloss": "i wyleję"
     },
     {
       "surface": "על",
@@ -24,16 +24,12 @@
       "gloss": "Dawida"
     },
     {
-      "surface": "וישב... ועל",
-      "gloss": ""
-    },
-    {
       "surface": "ועל",
       "gloss": "i na"
     },
     {
       "surface": "יושב",
-      "gloss": "mieszkańca"
+      "gloss": "mieszkańców"
     },
     {
       "surface": "ירושלם",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "⟨את⟩ na mnie"
+      "gloss": "na mnie"
     },
     {
       "surface": "את",
@@ -82,7 +78,7 @@
     },
     {
       "surface": "כמספד",
-      "gloss": "jak narzekanie"
+      "gloss": "jak opłakuje się"
     },
     {
       "surface": "על",
@@ -94,7 +90,7 @@
     },
     {
       "surface": "והמר",
-      "gloss": "i będą gorzko biadać"
+      "gloss": "i gorzko biadać"
     },
     {
       "surface": "עליו",
@@ -113,6 +109,6 @@
       "gloss": "pierworodnym"
     }
   ],
-  "timestamp": "2026-08-25T01:42:22.962488414Z",
+  "timestamp": "2026-08-25T06:15:33.568237005Z",
   "model": "glm-5.3"
 }

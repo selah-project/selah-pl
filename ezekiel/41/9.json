@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 41,
-  "translation": "Szerokość muru, który ⟨jest⟩ dla przybudówki, na zewnątrz — pięć łokci; a to, co pozostawione — ⟨to⟩ dom przybudówek, które należą do domu.",
+  "translation": "Szerokość muru, który ⟨był⟩ dla przybudówki, od zewnątrz, ⟨wynosiła⟩ pięć łokci; a to, co pozostawione — ⟨to⟩ przybudówki przyległe do domu.",
   "tokens": [
     {
       "surface": "רחב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "od"
     },
     {
       "surface": "החוץ",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "dom"
+      "gloss": "⟨przybudówki⟩ domu"
     },
     {
       "surface": "צלעות",
-      "gloss": "przybudówek"
+      "gloss": "przybudówki"
     },
     {
       "surface": "אשר",
@@ -64,6 +64,6 @@
       "gloss": "do domu"
     }
   ],
-  "timestamp": "2026-08-25T01:26:39.793849913Z",
+  "timestamp": "2026-08-25T06:12:05.577848924Z",
   "model": "glm-5.3"
 }

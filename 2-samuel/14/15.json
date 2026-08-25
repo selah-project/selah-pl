@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "A teraz, że przyszłam przemówić do króla, pana mego, ⟨את⟩ to słowo — bo lud mnie zlękał — i powiedziała twoja służebnica: przemówię oto do króla; może uczyni król ⟨את⟩ słowo swojej niewolnicy.",
+  "translation": "A teraz, ponieważ przyszłam mówić do króla, pana mego, ⟨את⟩ to słowo — bo lud mnie przestraszył — i powiedziała twoja służebnica: przemówię, proszę, do króla, może król wykona ⟨את⟩ sprawę jego służebnicy.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "że"
+      "gloss": "ponieważ"
     },
     {
       "surface": "באתי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "przemówić"
+      "gloss": "mówić"
     },
     {
       "surface": "אל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "יראני",
-      "gloss": "mnie zlękał"
+      "gloss": "przestraszył mnie"
     },
     {
       "surface": "העם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "oto"
+      "gloss": "proszę"
     },
     {
       "surface": "אל",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "uczyni"
+      "gloss": "wykona"
     },
     {
       "surface": "המלך",
@@ -99,17 +99,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowo"
+      "marks": "sprawę jego służebnicy"
     },
     {
       "surface": "דבר",
-      "gloss": "słowo"
+      "gloss": "sprawę"
     },
     {
       "surface": "אמתו",
-      "gloss": "swojej niewolnicy"
+      "gloss": "jego służebnicy"
     }
   ],
-  "timestamp": "2026-08-24T23:49:33.145170143Z",
+  "timestamp": "2026-08-25T05:57:58.152295172Z",
   "model": "glm-5.3"
 }

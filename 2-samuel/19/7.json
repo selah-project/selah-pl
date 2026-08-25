@@ -5,33 +5,33 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 19,
-  "translation": "miłując ⟨את⟩ nienawidzących cię, i nienawidząc ⟨את⟩ miłujących cię; bo oznajmiłeś dziś, że nie masz dla siebie książąt ani sług, bo wiem dziś, że gdyby nie Awszalom żył i my wszyscy dziś pomarli — bo wtedy byłoby to proste w oczach twoich",
+  "translation": "Kochasz ⟨את⟩ twoich nienawidzących, a nienawidzisz ⟨את⟩ twoich kochających; bo oznajmiłeś dziś, że nie ma dla ciebie książąt ani sług — bo poznałem dziś, że gdyby Awszalom żył, a my wszyscy dziś pomarli, wtedy byłoby to proste w twoich oczach.",
   "tokens": [
     {
       "surface": "לאהבה",
-      "gloss": "miłując"
+      "gloss": "kochasz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nienawidzących cię"
+      "marks": "twoich nienawidzących"
     },
     {
       "surface": "שנאיך",
-      "gloss": "nienawidzących cię"
+      "gloss": "twoich nienawidzących"
     },
     {
       "surface": "ולשנא",
-      "gloss": "i nienawidząc"
+      "gloss": "a nienawidzisz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miłujących cię"
+      "marks": "twoich kochających"
     },
     {
       "surface": "אהביך",
-      "gloss": "miłujących cię"
+      "gloss": "twoich kochających"
     },
     {
       "surface": "כי",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "nie masz"
+      "gloss": "nie ma"
     },
     {
       "surface": "לך",
-      "gloss": "dla siebie"
+      "gloss": "dla ciebie"
     },
     {
       "surface": "שרים",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "wiem"
+      "gloss": "poznałem"
     },
     {
       "surface": "היום",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "gdyby nie"
+      "gloss": "gdyby"
     },
     {
       "surface": "אבשלום",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "וכלנו",
-      "gloss": "i my wszyscy"
+      "gloss": "a my wszyscy"
     },
     {
       "surface": "היום",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "wtedy"
     },
     {
       "surface": "אז",
@@ -119,9 +119,9 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "w oczach twoich"
+      "gloss": "w twoich oczach"
     }
   ],
-  "timestamp": "2026-08-24T23:53:24.414182320Z",
+  "timestamp": "2026-08-25T05:59:05.035068459Z",
   "model": "glm-5.3"
 }

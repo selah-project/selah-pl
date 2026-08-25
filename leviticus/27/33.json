@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "Nie będzie badał, czy dobre, czy złe, i nie zamieni go; a jeśli jednak zamieni go, to ⟨on⟩ i jego zamiana będą ⟨poświęcone⟩ — nie będzie wykupione.",
+  "translation": "Nie będzie badał między dobrym a złym, i nie zamieni go; a jeśli zamieni go, to ⟨będzie⟩ on i jego zamiana ⟨będzie⟩ świętością — nie zostanie wykupiony.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יבקר",
-      "gloss": "badał"
+      "gloss": "będzie badał"
     },
     {
       "surface": "בין",
-      "gloss": "czy"
+      "gloss": "między"
     },
     {
       "surface": "טוב",
-      "gloss": "dobre"
+      "gloss": "dobrym"
     },
     {
       "surface": "לרע",
-      "gloss": "czy złe"
+      "gloss": "złym"
     },
     {
       "surface": "ולא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המר",
-      "gloss": "jednak zamieni"
+      "gloss": "zamieni"
     },
     {
       "surface": "ימירנו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "to"
+      "gloss": "to ⟨będzie⟩"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨on⟩"
+      "gloss": "on"
     },
     {
       "surface": "ותמורתו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "będą"
+      "gloss": "⟨będzie⟩"
     },
     {
       "surface": "קדש",
-      "gloss": "⟨poświęcone⟩"
+      "gloss": "świętością"
     },
     {
       "surface": "לא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "będzie wykupione"
+      "gloss": "zostanie wykupiony"
     }
   ],
-  "timestamp": "2026-08-24T22:48:46.876297727Z",
+  "timestamp": "2026-08-25T05:45:59.570169548Z",
   "model": "glm-5.3"
 }

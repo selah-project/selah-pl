@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 51,
-  "translation": "Ofiary Elohim ⟨to⟩ duch skruszony; serze skruszone i starte, Elohim, nie wzgardzisz.",
+  "translation": "Ofiarami Elohim ⟨są⟩ duch skruszony; serce skruszone i przygniecione, Elohim, nie wzgardzisz.",
   "tokens": [
     {
       "surface": "זבחי",
-      "gloss": "ofiary"
+      "gloss": "Ofiarami"
     },
     {
       "surface": "אלהים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ונדכה",
-      "gloss": "i starte"
+      "gloss": "i przygniecione"
     },
     {
       "surface": "אלהים",
@@ -48,6 +48,6 @@
       "gloss": "wzgardzisz"
     }
   ],
-  "timestamp": "2026-08-25T01:51:40.512059753Z",
+  "timestamp": "2026-08-25T06:32:35.231770513Z",
   "model": "glm-5.3"
 }

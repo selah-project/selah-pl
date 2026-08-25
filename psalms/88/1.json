@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 88,
-  "translation": "Pieśń, psalm dla synów Koracha, dla przewodniczącego, na Machalat Leannot, pouczający, dla Hemanа Ezrachity.",
+  "translation": "Pieśń, psalm synów Koracha, przewodnikowi chóru, na melodię Machalat, ⟨את⟩ odpowiedzi ⟨dać⟩, pouczenie, dla Heimana Ezrachity.",
   "tokens": [
     {
       "surface": "שיר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "dla synów"
+      "gloss": "synów"
     },
     {
       "surface": "קרח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "למנצח",
-      "gloss": "dla przewodniczącego"
+      "gloss": "przewodnikowi chóru"
     },
     {
       "surface": "על",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "מחלת",
-      "gloss": "Machalat"
+      "gloss": "melodię Machalat"
     },
     {
       "surface": "לענות",
-      "gloss": "Leannot (odpowiedzi)"
+      "gloss": "⟨dać⟩ odpowiedzi"
     },
     {
       "surface": "משכיל",
-      "gloss": "pouczający (maskil)"
+      "gloss": "pouczenie"
     },
     {
       "surface": "להימן",
-      "gloss": "dla Hemana"
+      "gloss": "dla Heimana"
     },
     {
       "surface": "האזרחי",
       "gloss": "Ezrachity"
     }
   ],
-  "timestamp": "2026-08-25T01:57:05.298898597Z",
+  "timestamp": "2026-08-25T06:16:49.987317625Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I odziedziczycie ⟨את⟩ ⟨the⟩ ziemię przez los według waszych rodzin — liczniejszemu pomnożycie ⟨את⟩ jego dziedzictwo, a skromniejszemu zmniejszycie ⟨את⟩ jego dziedzictwo; każdemu, komu tam wyjdzie jego los, jego będzie — według pokoleń waszych ojców odziedziczycie.",
+  "translation": "I podzielcie jako dziedzictwo ⟨את⟩ ziemię losem dla waszych rodzin — liczniejszemu zwiększcie ⟨את⟩ jego dziedzictwo, a mniej liczbnemu zmniejszcie ⟨את⟩ jego dziedzictwo; dokąd wyjdzie jemu los, tam jego będzie; według pokoleń waszych ojców odziedziczycie.",
   "tokens": [
     {
       "surface": "והתנחלתם",
-      "gloss": "odziedziczycie"
+      "gloss": "i podzielcie jako dziedzictwo"
     },
     {
       "surface": "את",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "בגורל",
-      "gloss": "przez los"
+      "gloss": "losem"
     },
     {
       "surface": "למשפחתיכם",
-      "gloss": "według waszych rodzin"
+      "gloss": "dla waszych rodzin"
     },
     {
       "surface": "לרב",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "תרבו",
-      "gloss": "pomnożycie"
+      "gloss": "zwiększcie"
     },
     {
       "surface": "את",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "ולמעט",
-      "gloss": "a skromniejszemu"
+      "gloss": "a mniej liczbnemu"
     },
     {
       "surface": "תמעיט",
-      "gloss": "zmniejszycie"
+      "gloss": "zmniejszcie"
     },
     {
       "surface": "את",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "każdemu"
+      "gloss": "dokąd"
     },
     {
       "surface": "אשר",
-      "gloss": "któremu"
+      "gloss": "który"
     },
     {
       "surface": "יצא",
@@ -107,6 +107,6 @@
       "gloss": "odziedziczycie"
     }
   ],
-  "timestamp": "2026-08-24T23:03:16.532229058Z",
+  "timestamp": "2026-08-25T05:49:30.300031605Z",
   "model": "glm-5.3"
 }

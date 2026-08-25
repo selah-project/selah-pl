@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I rzekł: To ⟨jest⟩ nieprawość. I rzucił ją do środka efy, i rzucił kamień ołowiu na jej ujście.",
+  "translation": "I rzekł: To ⟨jest⟩ nieprawość. I wrzucił ⟨את⟩ ją do środka efy, i wrzucił ⟨את⟩ kamień ołowiu na jej wierzch.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "To"
+      "gloss": "to"
     },
     {
       "surface": "הרשעה",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "I rzucił"
+      "gloss": "i wrzucił"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "nią (הרשעה, nieprawość-ona)"
     },
     {
       "surface": "אל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "i rzucił"
+      "gloss": "i wrzucił"
     },
     {
       "surface": "את",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "פיה",
-      "gloss": "jej ujście"
+      "gloss": "jej wierzch"
     }
   ],
-  "timestamp": "2026-08-25T01:40:44.763839806Z",
+  "timestamp": "2026-08-25T06:14:31.301670887Z",
   "model": "glm-5.3"
 }

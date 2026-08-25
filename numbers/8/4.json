@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 8,
-  "translation": "A to ⟨jest⟩ dzieło menory: kuta robota ze złota, aż do jej uda, aż do jej kwiatu — kuta robota to ⟨jest⟩; według widoku, który pokazał Jahwe ⟨את⟩ Mosze, tak wykonał ⟨את⟩ menorę.",
+  "translation": "A to ⟨jest⟩ dzieło menory: dziecko z złota kute, aż do jej nasady, aż do jej kwiatu — kute ⟨jest⟩ według wyglądu, który Jahwe pokazał ⟨את⟩ Moszemu; tak wykonał ⟨את⟩ menorę.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "a to"
+      "gloss": "A to"
     },
     {
       "surface": "מעשה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "kuta robota"
+      "gloss": "kute"
     },
     {
       "surface": "זהב",
-      "gloss": "ze złota"
+      "gloss": "z złota"
     },
     {
       "surface": "עד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ירכה",
-      "gloss": "jej uda"
+      "gloss": "jej nasady"
     },
     {
       "surface": "עד",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "kuta robota"
+      "gloss": "kute"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "כמראה",
-      "gloss": "według widoku"
+      "gloss": "według wyglądu"
     },
     {
       "surface": "אשר",
@@ -70,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mosze"
+      "marks": "Moszemu"
     },
     {
       "surface": "משה",
-      "gloss": "Mosze"
+      "gloss": "Moszemu"
     },
     {
       "surface": "כן",
@@ -90,10 +90,10 @@
       "marks": "menorę"
     },
     {
-      "surface": "המנורה",
+      "surface": "המנרה",
       "gloss": "menorę"
     }
   ],
-  "timestamp": "2026-08-25T03:21:01.934575491Z",
+  "timestamp": "2026-08-25T05:47:13.067883462Z",
   "model": "glm-5.3"
 }

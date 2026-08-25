@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Bo z powodu gniewu Jahwe stało się to w Jeruszalaim i w Judzie, aż rzucił ⟨את⟩ ich sprzed swojego oblicza; i zbuntował się Cidkijasz przeciw królowi Babilonu.",
+  "translation": "Bo przez gniew Jahwe ⟨to⟩ się stało w Jeruszalaim i w Judzie, aż ich rzucił ⟨את⟩ spod swojego oblicza; i zbuntował się Cidkijahu przeciw królowi Babelu.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "על",
-      "gloss": "z powodu"
+      "gloss": "przez"
     },
     {
       "surface": "אף",
-      "gloss": "gniewu"
+      "gloss": "gniew"
     },
     {
       "surface": "יהוה",
@@ -45,11 +45,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ich"
+      "gloss": "⟨את⟩",
+      "marks": "ich (Jeruszalaim i Judę)"
     },
     {
       "surface": "מעל",
-      "gloss": "sprzed"
+      "gloss": "spod"
     },
     {
       "surface": "פניו",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cidkijasz"
+      "gloss": "Cidkijahu"
     },
     {
       "surface": "במלך",
@@ -69,9 +70,9 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilonu"
+      "gloss": "Babelu"
     }
   ],
-  "timestamp": "2026-08-25T00:18:25.844237592Z",
+  "timestamp": "2026-08-25T06:04:51.033390700Z",
   "model": "glm-5.3"
 }

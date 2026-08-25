@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "Bo żyje Jahwe, który wybawia ⟨את⟩ Izraela: choćby to było w Jonatanie, synu moim, śmiercią z pewnością umrze. I nikt mu nie odpowiedział z całego ludu.",
+  "translation": "Bo żyje Jahwe, który wybawia ⟨את⟩ Izraela: jeśli to jest w Jonatanie, synu moim — na pewno umrze, śmiercią umrze! I nikt mu nie odpowiedział z całego ludu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "חי",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "choćby"
+      "gloss": "jeśli"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "zaprawdę"
     },
     {
       "surface": "ישנו",
-      "gloss": "to było"
+      "gloss": "to jest"
     },
     {
       "surface": "ביונתן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "z pewnością"
+      "gloss": "na pewno"
     },
     {
       "surface": "מות",
@@ -65,12 +65,16 @@
       "gloss": "umrze"
     },
     {
-      "surface": "ואין",
-      "gloss": "i nikt"
+      "surface": "ו",
+      "gloss": "I"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nikt nie"
     },
     {
       "surface": "ענהו",
-      "gloss": "mu nie odpowiedział"
+      "gloss": "odpowiedział mu"
     },
     {
       "surface": "מכל",
@@ -81,6 +85,6 @@
       "gloss": "ludu"
     }
   ],
-  "timestamp": "2026-08-25T03:27:25.767559655Z",
+  "timestamp": "2026-08-25T07:03:31.947009932Z",
   "model": "glm-5.3"
 }

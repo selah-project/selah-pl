@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I modlił się do Jahwe, i rzekł: Ach, Jahwe, czyż nie to moje słowo, gdy jeszcze byłem na mojej ziemi? Dlatego poprzedziłem ⟨to⟩, by uciec do Tarszisz, bo wiedziałem, że Ty ⟨jesteś⟩ El łaskawy i miłosierny, nieskory do gniewu i wielki w chesed, i żałujący zła.",
+  "translation": "I modlił się do Jahwe i rzekł: Ach, Jahwe, czyż nie to ⟨było⟩ moje słowo, gdy jeszcze byłem na mojej ziemi? Dlatego poprzedziłem ⟨to⟩, by uciec do Tarszisz, bo wiedziałem, że Ty ⟨jesteś⟩ El łaskawy i miłosierny, cierpliwy ⟨dosłownie: długoonosy⟩ i wielki w chesed, i żałujący ⟨siebie⟩ nad złem.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "modlił się"
+      "gloss": "i modlił się"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אנה",
-      "gloss": "Ach"
+      "gloss": "ach"
     },
     {
       "surface": "יהוה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "dlatego"
+      "gloss": "przeto"
     },
     {
       "surface": "קדמתי",
@@ -104,12 +104,38 @@
       "gloss": "łaskawy"
     },
     {
-      "surface": "וורח"
+      "surface": "ורחום",
+      "gloss": "i miłosierny"
     },
     {
-      "gloss": "i miłosierny"
+      "surface": "ארך",
+      "gloss": "cierpliwy"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨dosłownie: długie nozdrza⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "w chesed"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "i żałujący"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "złem"
     }
   ],
-  "timestamp": "2026-08-25T01:36:04.658326056Z",
+  "timestamp": "2026-08-25T06:14:08.428981450Z",
   "model": "glm-5.3"
 }

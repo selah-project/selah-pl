@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 45,
-  "translation": "I rzekł Józef do braci swoich: Ja jestem Józef. Czy jeszcze żyje ojciec mój? I nie mogli bracia jego ⟨את⟩ odpowiedzieć ⟨את⟩ mu, bo zatrwożyli się obliczem jego.",
+  "translation": "I rzekł Josef braciom swoim: Ja jestem Josef. Czy żyje jeszcze mój ojciec? I nie mogli bracia jego odpowiedzieć ⟨את⟩ mu, bo zlękli się na jego widok.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Józef"
+      "gloss": "Josef"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "braci swoich"
+      "gloss": "braciom swoim"
     },
     {
       "surface": "אני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Józef"
+      "gloss": "Josef"
     },
     {
       "surface": "העוד",
@@ -37,15 +37,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ojciec mój"
+      "gloss": "mój ojciec"
     },
     {
       "surface": "חי",
       "gloss": "żyje"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -61,12 +57,12 @@
     },
     {
       "surface": "לענות",
-      "gloss": "⟨את⟩ odpowiedzieć"
+      "gloss": "odpowiedzieć"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ mu",
-      "marks": "mu"
+      "marks": " Josef — zaimek przedmiotowy אֹתוֹ (aleph-taw z przyrostkiem 3 os. l.poj.)"
     },
     {
       "surface": "כי",
@@ -74,13 +70,13 @@
     },
     {
       "surface": "נבהלו",
-      "gloss": "zatrwożyli się"
+      "gloss": "zlękli się"
     },
     {
       "surface": "מפניו",
-      "gloss": "obliczem jego"
+      "gloss": "na jego widok"
     }
   ],
-  "timestamp": "2026-08-24T22:24:25.174962234Z",
+  "timestamp": "2026-08-25T05:39:51.296429825Z",
   "model": "glm-5.3"
 }

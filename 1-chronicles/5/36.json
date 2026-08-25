@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A Jochanan spłodził ⟨את⟩ Azarjasza — ⟨to⟩ ten, który pełnił urząd kapłański w domu, który zbudował Szlomo w Jeruszalaim.",
+  "translation": "A Jochanan zrodził ⟨את⟩ Azariasza — to on, który sprawował urząd kapłański w domu, który zbudował Szlomo w Jeruszalaim.",
   "tokens": [
     {
       "surface": "ויוחנן",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "spłodził"
+      "gloss": "zrodził"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Azarjasza"
+      "marks": "Azariasza"
     },
     {
       "surface": "עזריה",
-      "gloss": "Azarjasza"
+      "gloss": "Azariasza"
     },
     {
       "surface": "הוא",
-      "gloss": "ten"
+      "gloss": "to on"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "כהן",
-      "gloss": "pełnił urząd kapłański"
+      "gloss": "sprawował urząd kapłański"
     },
     {
       "surface": "בבית",
@@ -57,6 +57,6 @@
       "gloss": "w Jeruszalaim"
     }
   ],
-  "timestamp": "2026-08-25T02:51:46.550111731Z",
+  "timestamp": "2026-08-25T06:24:37.922280918Z",
   "model": "glm-5.3"
 }

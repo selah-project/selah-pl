@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 5,
-  "translation": "a dzień siódmy to szabat dla Jahwe, twojego Elohim: nie wykonasz żadnej pracy — ty, twój syn i twoja córka, twój sługa i twoja służąca, twój wół i twój osół, i wszelkie twoje bydło, i twój przybysz, który jest w twoich bramach, aby odpoczął twój sługa i twoja służąca jak ty.",
+  "translation": "Lecz dzień siódmy to szabat dla Jahwe, twojego Elohim: nie uczynisz żadnej pracy ani ty, ani twój syn, ani twoja córka, ani twój sługa, ani twoja służąca, ani twój wół, ani twój osioł, ani żadne twoje bydlę, ani twój przybysz, który jest w twoich bramach, aby odpoczął twój sługa i twoja służąca jak ty.",
   "tokens": [
     {
       "surface": "ויום",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "wykonasz"
+      "gloss": "uczynisz"
     },
     {
       "surface": "כל",
@@ -49,39 +49,39 @@
     },
     {
       "surface": "ובנך",
-      "gloss": "i twój syn"
+      "gloss": "ani twój syn"
     },
     {
       "surface": "ובתך",
-      "gloss": "i twoja córka"
+      "gloss": "ani twoja córka"
     },
     {
       "surface": "ועבדך",
-      "gloss": "i twój sługa"
+      "gloss": "ani twój sługa"
     },
     {
       "surface": "ואמתך",
-      "gloss": "i twoja służąca"
+      "gloss": "ani twoja służąca"
     },
     {
       "surface": "ושורך",
-      "gloss": "i twój wół"
+      "gloss": "ani twój wół"
     },
     {
       "surface": "וחמרך",
-      "gloss": "i twój osół"
+      "gloss": "ani twój osioł"
     },
     {
       "surface": "וכל",
-      "gloss": "i wszelkie"
+      "gloss": "ani żadne"
     },
     {
       "surface": "בהמתך",
-      "gloss": "twoje bydło"
+      "gloss": "twoje bydlę"
     },
     {
       "surface": "וגרך",
-      "gloss": "i twój przybysz"
+      "gloss": "ani twój przybysz"
     },
     {
       "surface": "אשר",
@@ -112,6 +112,6 @@
       "gloss": "jak ty"
     }
   ],
-  "timestamp": "2026-08-24T23:05:02.052709814Z",
+  "timestamp": "2026-08-25T05:50:13.145547602Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Gdy ślubujesz ślub Elohim, nie zwlekaj z jego spełnieniem, bo nie ma upodobania w głupcach — ⟨את⟩ to, co ślubujesz, spełnij.",
+  "translation": "Gdy ślubujesz ślub Elohimowi, nie zwlekaj z jego spełnieniem, bo nie ma upodobania w głupich; ⟨את⟩ to, co ślubujesz, spełnij.",
   "tokens": [
     {
-      "surface": "כ אשר",
-      "gloss": "gdy"
+      "surface": "כאשר",
+      "gloss": "Gdy"
     },
     {
       "surface": "תדר",
@@ -20,8 +20,8 @@
       "gloss": "ślub"
     },
     {
-      "surface": "ל אלהים",
-      "gloss": "Elohim"
+      "surface": "לאלהים",
+      "gloss": "Elohimowi"
     },
     {
       "surface": "אל",
@@ -32,7 +32,7 @@
       "gloss": "zwlekaj"
     },
     {
-      "surface": "ל שלמו",
+      "surface": "לשלמו",
       "gloss": "z jego spełnieniem"
     },
     {
@@ -48,8 +48,8 @@
       "gloss": "upodobania"
     },
     {
-      "surface": "ב כסילים",
-      "gloss": "w głupcach"
+      "surface": "בכסילים",
+      "gloss": "w głupich"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "to, co"
+      "gloss": "co"
     },
     {
       "surface": "תדר",
@@ -69,6 +69,6 @@
       "gloss": "spełnij"
     }
   ],
-  "timestamp": "2026-08-25T02:31:37.105613936Z",
+  "timestamp": "2026-08-25T06:32:44.779419303Z",
   "model": "glm-5.3"
 }

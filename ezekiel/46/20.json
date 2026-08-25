@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 46,
-  "translation": "I rzekł do mnie: to jest miejsce, gdzie tam kapłani będą gotować ⟨את⟩ ofiarę winy i ⟨את⟩ ofiarę za grzech, gdzie będą piec ⟨את⟩ ofiarę pokarmową, by nie wynosić na dziedziniec zewnętrzny, by uświęcać ⟨את⟩ lud.",
+  "translation": "I rzekł do mnie: To jest miejsce, gdzie będą tam gotować kapłani ⟨את⟩ ofiarę z winy oraz ⟨את⟩ ofiarę za grzech, gdzie będą piec ⟨את⟩ ofiarę z pokarmów, żeby nie wynosić na dziedziniec zewnętrzny, by nie uświęcać ⟨את⟩ ludu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "זה",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "המקום",
-      "gloss": "jest miejsce"
+      "gloss": "miejsce"
     },
     {
       "surface": "אשר",
@@ -42,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofiarę winy"
+      "marks": "ofiarę z winy"
     },
     {
       "surface": "האשם",
-      "gloss": "ofiarę winy"
+      "gloss": "ofiarę z winy"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "ofiarę za grzech"
     },
     {
@@ -68,15 +68,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofiarę pokarmową"
+      "marks": "ofiarę z pokarmów"
     },
     {
       "surface": "המנחה",
-      "gloss": "ofiarę pokarmową"
+      "gloss": "ofiarę z pokarmów"
     },
     {
       "surface": "לבלתי",
-      "gloss": "by nie"
+      "gloss": "żeby nie"
     },
     {
       "surface": "הוציא",
@@ -96,18 +96,18 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "by uświęcać"
+      "gloss": "by nie uświęcać"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lud"
+      "marks": "ludu"
     },
     {
       "surface": "העם",
-      "gloss": "lud"
+      "gloss": "ludu"
     }
   ],
-  "timestamp": "2026-08-25T01:30:04.574321399Z",
+  "timestamp": "2026-08-25T06:12:46.806170776Z",
   "model": "glm-5.3"
 }

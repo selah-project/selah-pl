@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 30,
-  "translation": "Teraz przyjdź, zapisz to na tablicy ⟨את⟩ i wyryj w księdze, i niech to będzie na dzień ostatni na świadectwo, aż na wieki wieków.",
+  "translation": "Teraz idź, zapisz to na tablicy ⟨את⟩-im, i w księdze wyryj ⟨to⟩, i będzie to na dzień ostatni, na świadectwo ⟨na⟩ zawsze, aż na wieki wieków.",
   "tokens": [
     {
       "surface": "עתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בוא",
-      "gloss": "przyjdź"
+      "gloss": "idź"
     },
     {
       "surface": "כתבה",
@@ -30,7 +30,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "na tablicy"
+      "marks": "im — przy nich \/ z nimi (H854: bliskość, przy)"
     },
     {
       "surface": "ועל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "i niech będzie"
+      "gloss": "i będzie"
     },
     {
       "surface": "ליום",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "לעד",
-      "gloss": "na świadectwo"
+      "gloss": "na świadectwo (na zawsze)"
     },
     {
       "surface": "עד",
-      "gloss": "aż"
+      "gloss": "aż na"
     },
     {
       "surface": "עולם",
-      "gloss": "na wieki"
+      "gloss": "wieki"
     }
   ],
-  "timestamp": "2026-08-25T00:28:11.512095081Z",
+  "timestamp": "2026-08-25T07:01:37.685051172Z",
   "model": "glm-5.3"
 }

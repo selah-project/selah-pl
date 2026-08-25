@@ -5,10 +5,10 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A ich siostry ⟨to⟩ Ceruja i Abigail; a synowie Cerui: Abiszaj, i Joab, i Asael — trzej.",
+  "translation": "A ich siostry ⟨były⟩ Ceruja i Abigajil; a synowie Ceruji: Abiszaj, i Joab, i Asael — trzej.",
   "tokens": [
     {
-      "surface": "ו אחיתיהם",
+      "surface": "ואחיתיהם",
       "gloss": "a ich siostry"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ואביגיל",
-      "gloss": "i Abigail"
+      "gloss": "i Abigajil"
     },
     {
       "surface": "ובני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צרויה",
-      "gloss": "Cerui"
+      "gloss": "Ceruji"
     },
     {
       "surface": "אבשי",
@@ -36,14 +36,18 @@
       "gloss": "i Joab"
     },
     {
-      "surface": "ועשהאל",
-      "gloss": "i Asael"
+      "surface": "ועשה",
+      "gloss": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
     },
     {
       "surface": "שלשה",
       "gloss": "trzej"
     }
   ],
-  "timestamp": "2026-08-25T02:50:32.179989140Z",
+  "timestamp": "2026-08-25T06:23:47.589456951Z",
   "model": "glm-5.3"
 }

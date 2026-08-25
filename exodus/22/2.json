@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Jeśli wzejdzie słońce na niego — krew ⟨jest⟩ dla niego; w pełni zapłaci; jeśli nie ma mu ⟨czym⟩, to zostanie sprzedany za kradzież jego.",
+  "translation": "Jeśli wzeszło słońce nad nim, krew ⟨spadnie⟩ na niego; w pełni zapłaci; jeśli niczego nie ma, to zostanie sprzedany za kradzież swoją.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זרחה",
-      "gloss": "wzejdzie"
+      "gloss": "wzeszło"
     },
     {
       "surface": "השמש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "na niego"
+      "gloss": "nad nim"
     },
     {
       "surface": "דמים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "dla niego"
+      "gloss": "na niego"
     },
     {
       "surface": "שלם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "nie ma"
+      "gloss": "niczego nie ma"
     },
     {
       "surface": "לו",
-      "gloss": "mu ⟨czym⟩"
+      "gloss": "jego"
     },
     {
       "surface": "ונמכר",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "בגנבתו",
-      "gloss": "za kradzież jego"
+      "gloss": "za kradzież swoją"
     }
   ],
-  "timestamp": "2026-08-24T22:32:48.113919779Z",
+  "timestamp": "2026-08-25T06:59:57.978097178Z",
   "model": "glm-5.3"
 }

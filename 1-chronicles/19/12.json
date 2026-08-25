@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I rzekł: Jeśli Aram będzie silniejszy ode mnie, będziesz mi na zbawienie; a jeśli synowie Ammonu będą silniejsi od ciebie, to ja cię wybawię.",
+  "translation": "I rzekł: Jeżeli Aram się umocni ode mnie, to ty będziesz mi za zbawienie; a jeżeli synowie Ammonu się umocnią od ciebie, to Ja cię wybawię.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "jeżeli"
     },
     {
       "surface": "תחזק",
-      "gloss": "będzie silniejszy"
+      "gloss": "się umocni"
     },
     {
       "surface": "ממני",
@@ -28,8 +28,8 @@
       "gloss": "Aram"
     },
     {
-      "surface": "ו היית",
-      "gloss": "będziesz"
+      "surface": "והיית",
+      "gloss": "to będziesz"
     },
     {
       "surface": "לי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לתשועה",
-      "gloss": "na zbawienie"
+      "gloss": "za zbawienie"
     },
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "a jeżeli"
     },
     {
       "surface": "בני",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יחזקו",
-      "gloss": "będą silniejsi"
+      "gloss": "się umocnią"
     },
     {
       "surface": "ממך",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "והושעתיך",
-      "gloss": "to ja cię wybawię"
+      "gloss": "to Ja cię wybawię"
     }
   ],
-  "timestamp": "2026-08-25T02:56:27.217505929Z",
+  "timestamp": "2026-08-25T06:26:00.514811698Z",
   "model": "glm-5.3"
 }

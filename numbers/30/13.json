@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 30,
-  "translation": "A jeśli unieważni — unieważni ⟨את⟩ je jej mąż w dniu swego usłyszenia, to wszystko, co wychodzi z jej warg, dotyczące jej ślubów albo dotyczące związku jej nefesz, nie ostoi się: jej mąż unieważnił je, a Jahwe jej przebaczy.",
+  "translation": "A jeśli jej mąż unieważni je w dniu, gdy usłyszy ⟨je⟩ — wszystko, co wyszło z jej warg, jej śluby czy zobowiązanie jej nefesz, nie ostoi się: jej mąż ⟨je⟩ unieważnił, a Jahwe przebaczy jej.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הפר",
-      "gloss": "unieważniwszy"
+      "gloss": "unieważni"
     },
     {
       "surface": "יפר",
-      "gloss": "unieważni"
+      "gloss": "rozwiążące"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "je"
+      "marks": "je (śluby)"
     },
     {
       "surface": "אישה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "swego usłyszenia"
+      "gloss": "gdy usłyszy"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מוצא",
-      "gloss": "co wychodzi"
+      "gloss": "co wyszło"
     },
     {
       "surface": "שפתיה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "לנדריה",
-      "gloss": "dotyczące jej ślubów"
+      "gloss": "jej śluby"
     },
     {
       "surface": "ולאסר",
-      "gloss": "albo dotyczące związku"
+      "gloss": "czy zobowiązanie"
     },
     {
       "surface": "נפשה",
@@ -89,6 +89,6 @@
       "gloss": "jej"
     }
   ],
-  "timestamp": "2026-08-25T03:22:14.116986003Z",
+  "timestamp": "2026-08-25T07:00:14.723669463Z",
   "model": "glm-5.3"
 }

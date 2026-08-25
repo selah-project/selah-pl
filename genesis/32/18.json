@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I przykazał ⟨את⟩ pierwszemu, mówiąc: Gdy spotka cię Esaw, brat mój, i zapyta cię, mówiąc: Czyj jesteś? I dokąd idziesz? I czyje to ⟨są⟩ przed tobą?",
+  "translation": "I rozkazał ⟨את⟩ pierwszego, mówiąc: Gdy spotka cię Esaw, brat mój, i zapyta cię, mówiąc: Czyj ty ⟨jesteś⟩ i dokąd idziesz, i czyje to ⟨jest⟩ przed tobą?",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "i przykazał"
+      "gloss": "I rozkazał"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pierwszemu"
+      "marks": "pierwszego"
     },
     {
       "surface": "הראשון",
-      "gloss": "pierwszemu"
+      "gloss": "pierwszego"
     },
     {
       "surface": "לאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "jesteś"
+      "gloss": "ty"
     },
     {
       "surface": "ואנה",
@@ -77,6 +77,6 @@
       "gloss": "przed tobą"
     }
   ],
-  "timestamp": "2026-08-25T03:15:54.378195434Z",
+  "timestamp": "2026-08-25T05:38:49.017497263Z",
   "model": "glm-5.3"
 }

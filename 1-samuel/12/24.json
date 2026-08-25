@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "Tylko bójcie się ⟨את⟩ Jahwe i służcie ⟨את⟩ Mu w prawdzie całym swoim sercem, bo zobaczyliście ⟨את⟩ to, jak wielkie ⟨rzeczy⟩ uczynił z wami.",
+  "translation": "Tylko bójcie się Jahwe i służcie ⟨את⟩ mu w prawdzie całym swoim sercem, bo zobaczyliście ⟨את⟩ to, co wielkie uczynił z wami.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Tylko"
+      "gloss": "tylko"
     },
     {
       "surface": "יראו",
@@ -30,8 +30,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Mu",
-      "marks": "w prawdzie"
+      "gloss": "⟨את⟩",
+      "marks": "mu"
     },
     {
       "surface": "באמת",
@@ -56,11 +56,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "to, co wielkie"
     },
     {
       "surface": "אשר",
-      "gloss": "jak"
+      "gloss": "co"
     },
     {
       "surface": "הגדל",
@@ -71,6 +71,6 @@
       "gloss": "z wami"
     }
   ],
-  "timestamp": "2026-08-24T23:36:56.039984652Z",
+  "timestamp": "2026-08-25T05:55:03.691671919Z",
   "model": "glm-5.3"
 }

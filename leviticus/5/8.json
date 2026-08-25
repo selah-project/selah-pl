@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I przyniesie ⟨את⟩ je do kapłana, i ⟨ten⟩ przystawi to, co na ofiarę za grzech, najpierw, i ukręci ⟨את⟩ jego głowę naprzeciw jego karku, a nie oddzieli jej.",
+  "translation": "I przyniesie je ⟨את⟩ do kapłana, i przystawi ⟨את⟩ tę, która ⟨jest⟩ za ofiarę za grzech, pierwszą; i ukręci ⟨את⟩ jej głowę od strony jej karku, lecz nie oddzieli ⟨jej⟩.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "I przyniesie"
+      "gloss": "i przyniesie"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "je (dwie ptasice)"
+      "marks": "je"
     },
     {
       "surface": "אל",
@@ -31,19 +31,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co na ofiarę za grzech"
+      "marks": "tę, która za ofiarę za grzech"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "która"
     },
     {
       "surface": "לחטאת",
-      "gloss": "na ofiarę za grzech"
+      "gloss": "za ofiarę za grzech"
     },
     {
       "surface": "ראשונה",
-      "gloss": "najpierw"
+      "gloss": "pierwszą"
     },
     {
       "surface": "ומלק",
@@ -52,29 +52,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jego głowę"
+      "marks": "jej głowę"
     },
     {
       "surface": "ראשו",
-      "gloss": "jego głowę"
+      "gloss": "jej głowę"
     },
     {
       "surface": "ממול",
-      "gloss": "naprzeciw"
+      "gloss": "od strony"
     },
     {
       "surface": "ערפו",
-      "gloss": "jego karku"
+      "gloss": "jej karku"
     },
     {
       "surface": "ולא",
-      "gloss": "a nie"
+      "gloss": "lecz nie"
     },
     {
       "surface": "יבדיל",
       "gloss": "oddzieli"
     }
   ],
-  "timestamp": "2026-08-24T22:41:47.250630038Z",
+  "timestamp": "2026-08-25T07:00:02.114727249Z",
   "model": "glm-5.3"
 }

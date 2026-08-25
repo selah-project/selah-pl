@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "pl",
   "chapter": 48,
-  "translation": "Z mojej wiedzy ⟨jest⟩, że twardy jesteś, i ścięgno żelaza twój kark, a twoje czoło ⟨to⟩ miedź.",
+  "translation": "Z tego, że wiem, iż twardy ⟨jesteś⟩, a ścięgno żelaza twój kark, i twoje czoło z brązu —",
   "tokens": [
     {
       "surface": "מדעתי",
-      "gloss": "z mojej wiedzy"
+      "gloss": "z tego, że wiem"
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "iż"
     },
     {
       "surface": "קשה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "⟨jesteś⟩"
     },
     {
       "surface": "וגיד",
-      "gloss": "i ścięgno"
+      "gloss": "a ścięgno"
     },
     {
       "surface": "ברזל",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "נחושה",
-      "gloss": "miedź"
+      "gloss": "z brązu"
     }
   ],
-  "timestamp": "2026-08-25T00:34:05.079505275Z",
+  "timestamp": "2026-08-25T06:31:20.679533410Z",
   "model": "glm-5.3"
 }

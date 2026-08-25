@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Bo ⟨את⟩ to wszystko wziąłem do serca mego, i aby zbadać ⟨את⟩ to wszystko: że sprawiedliwi i mądrzy, i ich czyny ⟨są⟩ w ręku Elohim — tak miłość, tak nienawiść — nie zna tego człowiek; wszystko ⟨jest⟩ przed nimi.",
+  "translation": "Bo ⟨את⟩ wszystko to włożyłem do serca mego, i by zbadać ⟨את⟩ wszystko to, że sprawiedliwi i mędrcy oraz ich czyny ⟨są⟩ w ręku Elohim — zarówno miłość, jak i nienawiść: nie zna tego człowiek; wszystko ⟨jest⟩ przed nimi.",
   "tokens": [
     {
       "surface": "כי",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to wszystko"
+      "marks": "wszystko to"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "wziąłem"
+      "gloss": "włożyłem"
     },
     {
       "surface": "אל",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "ולבור",
-      "gloss": "i aby zbadać"
+      "gloss": "i by zbadać"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to wszystko"
+      "marks": "wszystko to"
     },
     {
       "surface": "כל",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "והחכמים",
-      "gloss": "i mądrzy"
+      "gloss": "i mędrcy"
     },
     {
       "surface": "ועבדיהם",
-      "gloss": "i ich czyny"
+      "gloss": "oraz ich czyny"
     },
     {
       "surface": "ביד",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "tak"
+      "gloss": "zarówno"
     },
     {
       "surface": "אהבה",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "tak"
+      "gloss": "jak"
     },
     {
       "surface": "שנאה",
@@ -114,6 +114,6 @@
       "gloss": "przed nimi"
     }
   ],
-  "timestamp": "2026-08-25T03:51:14.793553809Z",
+  "timestamp": "2026-08-25T06:21:31.580408755Z",
   "model": "glm-5.3"
 }

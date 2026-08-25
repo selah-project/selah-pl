@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "i widzi kapłan, a oto wygląd ⟨jest⟩ niższy od skóry, a włos jego zmienił się na biały, i unieszczywi go kapłan: caryat ⟨jest⟩ to — we wrzodzie wypuściła.",
+  "translation": "I zobaczy kapłan, a oto wygląd ⟨jest⟩ niższy od skóry, a włos jej zmienił się na biały — i uzna go kapłan za nieczystego: zaraza trądu to ⟨jest⟩, wykwitła w wrzodzie.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "i widzi"
+      "gloss": "i zobaczy"
     },
     {
       "surface": "הכהן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ושערה",
-      "gloss": "a włos jego"
+      "gloss": "a włos jej"
     },
     {
       "surface": "הפך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וטמאו",
-      "gloss": "i unieszczywi go"
+      "gloss": "i uzna go za nieczystego"
     },
     {
       "surface": "הכהן",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "caryat"
+      "gloss": "trądu"
     },
     {
       "surface": "הוא",
-      "gloss": "jest"
+      "gloss": "to ⟨jest⟩"
     },
     {
       "surface": "בשחין",
-      "gloss": "we wrzodzie"
+      "gloss": "w wrzodzie"
     },
     {
       "surface": "פרחה",
-      "gloss": "wypuściła"
+      "gloss": "wykwitła"
     }
   ],
-  "timestamp": "2026-08-24T22:43:58.660230914Z",
+  "timestamp": "2026-08-25T05:44:58.970141607Z",
   "model": "glm-5.3"
 }

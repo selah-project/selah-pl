@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "pl",
   "chapter": 6,
-  "translation": "„I nawet proroków ustanowiłeś, aby wołali przeciw tobie w Jeruszalaim, mówiąc: Król w Jehudzie! A teraz usłyszy ⟨to⟩ król według słów tych. A teraz chodź, a naradźmy się razem.”",
+  "translation": "I nawet proroków ustanowiłeś, aby wołali przeciw tobie w Jeruszalaim, mówiąc: Król ⟨jest⟩ w Jehudzie; a teraz ⟨to⟩ dotrze do króla według słów tych — a teraz chodź i naradźmy się razem.",
   "tokens": [
     {
       "surface": "וגם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "przeciw tobie"
+      "gloss": "przeciwo tobie"
     },
     {
       "surface": "בירושלם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "Król"
+      "gloss": "król"
     },
     {
       "surface": "ביהודה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ישמע",
-      "gloss": "usłyszy"
+      "gloss": "dotrze"
     },
     {
       "surface": "למלך",
-      "gloss": "król"
+      "gloss": "do króla"
     },
     {
       "surface": "כדברים",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ונועצה",
-      "gloss": "naradźmy się"
+      "gloss": "i naradźmy się"
     },
     {
       "surface": "יחדו",
       "gloss": "razem"
     }
   ],
-  "timestamp": "2026-08-25T02:47:21.048310568Z",
+  "timestamp": "2026-08-25T06:23:57.890785825Z",
   "model": "glm-5.3"
 }

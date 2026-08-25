@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I rzekł Mosze do Jahwe: Nie zdoła lud wstąpić na górę Synaj, bo Ty ⟨nas⟩ zaświadczyłeś, mówiąc: Wyznacz ⟨את⟩ granicę góry i uświęć ją.",
+  "translation": "I rzekł Mosze do Jahwe: nie zdoła lud wstąpić na górę Synaj, bo Ty zaświadczyłeś wobec nas, mówiąc: wyznacz granicę ⟨את⟩ góry i uświęć ją.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "⟨nas⟩"
+      "gloss": "wobec nas"
     },
     {
       "surface": "לאמר",
@@ -81,10 +81,14 @@
       "marks": "góry"
     },
     {
+      "surface": "ההר",
+      "gloss": "góry"
+    },
+    {
       "surface": "וקדשתו",
       "gloss": "i uświęć ją"
     }
   ],
-  "timestamp": "2026-08-24T22:31:08.627506689Z",
+  "timestamp": "2026-08-25T05:41:02.536829815Z",
   "model": "glm-5.3"
 }

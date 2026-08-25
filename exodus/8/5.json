@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I rzekł Mosze do Paro: Przechwalaj się nade mną! Na kiedy mam wstawiać się za tobą, i za twoimi sługami, i za twoim ludem, by wytępić ⟨את⟩ żaby od ciebie i z twoich domów? Tylko w rzece pozostaną.",
+  "translation": "I rzekł Mosze do Paro: Pryszcz się nade mną — do kiedy będę wstawiać się za tobą, i za twoimi sługami, i za twoim ludem, by wytępić ⟨את⟩ żaby z ciebie i z twoich domów? Tylko w rzece zostaną.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "התפאר",
-      "gloss": "przechwalaj się"
+      "gloss": "Pryszcz się"
     },
     {
       "surface": "עלי",
@@ -29,18 +29,18 @@
     },
     {
       "surface": "למתי",
-      "gloss": "na kiedy"
+      "gloss": "do kiedy"
     },
     {
       "surface": "אעתיר",
-      "gloss": "mam wstawiać się"
+      "gloss": "będę wstawiać się"
     },
     {
       "surface": "לך",
       "gloss": "za tobą"
     },
     {
-      "surface": "ו לעבדיך",
+      "surface": "ולעבדיך",
       "gloss": "i za twoimi sługami"
     },
     {
@@ -52,17 +52,12 @@
       "gloss": "by wytępić"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "żaby"
-    },
-    {
       "surface": "הצפרדעים",
       "gloss": "żaby"
     },
     {
       "surface": "ממך",
-      "gloss": "od ciebie"
+      "gloss": "z ciebie"
     },
     {
       "surface": "ומבתיך",
@@ -78,9 +73,9 @@
     },
     {
       "surface": "תשארנה",
-      "gloss": "pozostaną"
+      "gloss": "zostaną"
     }
   ],
-  "timestamp": "2026-08-24T22:27:47.103369124Z",
+  "timestamp": "2026-08-25T05:40:42.153888379Z",
   "model": "glm-5.3"
 }

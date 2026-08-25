@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I dokona przebłagania nad nim kapłan za jego grzech, którym zgrzeszył z jednej z tych ⟨rzeczy⟩, i będzie mu odpuszczone, a ⟨to⟩ będzie kapłana jak ofiara z mąki.",
+  "translation": "I dokona odkupienia nad nim kapłan za jego grzech, który zgrzeszył względem jednej z tych rzeczy, i będzie mu odpuszczone; i będzie kapłanowi jak ofiara pokarmowa.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "i dokona przebłagania"
+      "gloss": "i dokona odkupienia"
     },
     {
       "surface": "עליו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którym"
+      "gloss": "który"
     },
     {
       "surface": "חטא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאחת",
-      "gloss": "z jednej"
+      "gloss": "względem jednej"
     },
     {
       "surface": "מאלה",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "kapłana"
+      "gloss": "kapłanowi"
     },
     {
       "surface": "כמנחה",
-      "gloss": "jak ofiara z mąki"
+      "gloss": "jak ofiara pokarmowa"
     }
   ],
-  "timestamp": "2026-08-24T22:41:19.793674944Z",
+  "timestamp": "2026-08-25T05:43:59.626937197Z",
   "model": "glm-5.3"
 }

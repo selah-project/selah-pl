@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "A jeżeli zostanie coś z mięsa wypełnienia i z chleba aż do rana, to spalisz ⟨את⟩ resztę w ogniu; nie będzie jedzone, bo świętość to ona.",
+  "translation": "A jeżeli zostanie coś z mięsa rękonapełnienia i z chleba do rana, to spalisz ⟨את⟩ pozostałość w ogniu; nie będzie to jedzone, bo święte ⟨to⟩ jest.",
   "tokens": [
     {
       "surface": "ואם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המלאים",
-      "gloss": "wypełnienia (konsekracji)"
+      "gloss": "rękonapełnienia"
     },
     {
       "surface": "ומן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "aż do"
+      "gloss": "do"
     },
     {
       "surface": "הבקר",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ושרפת",
-      "gloss": "spalisz"
+      "gloss": "to spalisz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "resztę"
+      "marks": "pozostałość"
     },
     {
       "surface": "הנותר",
-      "gloss": "resztę"
+      "gloss": "pozostałość"
     },
     {
       "surface": "באש",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "świętość"
+      "gloss": "święte"
     },
     {
       "surface": "הוא",
-      "gloss": "to ona"
+      "gloss": "to jest"
     }
   ],
-  "timestamp": "2026-08-24T22:35:28.044469938Z",
+  "timestamp": "2026-08-25T05:42:15.729676464Z",
   "model": "glm-5.3"
 }

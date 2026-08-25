@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "A Elazar, syn Aharona, wziął sobie spośród córek Putiela ⟨sobie⟩ za żonę, i urodziła mu ⟨את⟩ Pinechasa — to ⟨są⟩ naczelnicy rodów ojców Lewitów według ich rodzin.",
+  "translation": "A Elazar, syn Ahrona, wziął sobie spośród córek Putiela ⟨jedną⟩ sobie za żonę, i urodziła mu ⟨את⟩ Pinchasa. To ⟨są⟩ naczelnicy rodów ojców lewitów według ich rodzin.",
   "tokens": [
     {
       "surface": "ואלעזר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharona"
+      "gloss": "Ahrona"
     },
     {
       "surface": "לקח",
@@ -44,7 +44,7 @@
       "gloss": "za żonę"
     },
     {
-      "surface": "וותלד",
+      "surface": "ותלד",
       "gloss": "i urodziła"
     },
     {
@@ -54,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Pinechasa"
+      "marks": "Pinchasa"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinechasa"
+      "gloss": "Pinchasa"
     },
     {
       "surface": "אלה",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "ראשי",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "Lewitów"
+      "gloss": "lewitów"
     },
     {
       "surface": "למשפחתם",
       "gloss": "według ich rodzin"
     }
   ],
-  "timestamp": "2026-08-24T22:26:47.773915801Z",
+  "timestamp": "2026-08-25T05:40:58.164740093Z",
   "model": "glm-5.3"
 }

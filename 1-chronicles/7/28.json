@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A ich posiadłości i ich siedziby ⟨to⟩ Bet-El i jego córki ⟨miasteczka⟩, i ku wschodowi Naaran, i ku zachodowi Gezer i jego córki ⟨miasteczka⟩, i Szekem i jego córki ⟨miasteczka⟩, aż do Ajjji i jego córki ⟨miasteczka⟩.",
+  "translation": "A ich posiadłości i ich siedziby ⟨to⟩ Bet-El i jego córki, a na wschód Naaran, a na zachód Gezer i jego córki, oraz Szchechem i jego córki, aż do Aja i jego córek —",
   "tokens": [
     {
       "surface": "ואחזתם",
-      "gloss": "A ich posiadłości"
+      "gloss": "a ich posiadłości"
     },
     {
       "surface": "ומשבותם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "ובנתיה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ולמזרח",
-      "gloss": "i ku wschodowi"
+      "gloss": "a na wschód"
     },
     {
       "surface": "נערן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ולמערב",
-      "gloss": "i ku zachodowi"
+      "gloss": "a na zachód"
     },
     {
       "surface": "גזר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ושכם",
-      "gloss": "i Szekem"
+      "gloss": "oraz Szchechem"
     },
     {
       "surface": "ובנתיה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "עיה",
-      "gloss": "Ajjji"
+      "gloss": "Aja"
     },
     {
       "surface": "ובנתיה",
-      "gloss": "i jego córki"
+      "gloss": "i jego córek"
     }
   ],
-  "timestamp": "2026-08-25T02:52:50.518915978Z",
+  "timestamp": "2026-08-25T06:24:46.809394991Z",
   "model": "glm-5.3"
 }

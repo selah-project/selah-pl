@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I powiedział król: czy ⟨to⟩ ręka Joaba ⟨jest⟩ z tobą we wszystkim tym? I odpowiedziała niewiasta oraz powiedziała: na życie twej nefesz, mój panie królu, nie ma ⟨jak⟩ w prawo czy w lewo od wszystkiego, co powiedział mój pan król; bo twój sługa Joab — on mi rozkazał, i on włożył w usta twej służebnicy ⟨את⟩ wszystkie te słowa.",
+  "translation": "I rzekł król: Czy ręka Joaba jest ⟨את⟩ z tobą we wszystkim tym? I odpowiedziała niewiasta, i rzekła: Na życie twej nefesz, panie mój, królu, czy ⟨jest⟩ kto, by skręcić w prawo i w lewo, spośród wszystkiego, co powiedział pan mój, król; bo sługa twój Joab — to on mi rozkazał, i to on włożył w usta twej służebnicy ⟨את⟩ wszystkie te słowa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היד",
-      "gloss": "czy ręka"
+      "gloss": "ręka"
     },
     {
       "surface": "יואב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "oraz powiedziała"
+      "gloss": "i rzekła"
     },
     {
       "surface": "חי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mój panie"
+      "gloss": "panie mój"
     },
     {
       "surface": "המלך",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "אם",
-      "gloss": "nie"
+      "gloss": "czy"
     },
     {
       "surface": "אש",
-      "gloss": "jest"
+      "gloss": "jest (kto)"
     },
     {
       "surface": "להמין",
-      "gloss": "w prawo"
+      "gloss": "by skręcić w prawo"
     },
     {
       "surface": "ולהשמיל",
-      "gloss": "czy w lewo"
+      "gloss": "i w lewo"
     },
     {
       "surface": "מכל",
-      "gloss": "od wszystkiego"
+      "gloss": "spośród wszystkiego"
     },
     {
       "surface": "אשר",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mój pan"
+      "gloss": "pan mój"
     },
     {
       "surface": "המלך",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "twój sługa"
+      "gloss": "sługa twój"
     },
     {
       "surface": "יואב",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "to on"
     },
     {
       "surface": "צוני",
@@ -121,7 +121,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "i on"
+      "gloss": "i to on"
     },
     {
       "surface": "שם",
@@ -153,6 +153,6 @@
       "gloss": "te"
     }
   ],
-  "timestamp": "2026-08-24T23:51:03.713766456Z",
+  "timestamp": "2026-08-25T06:30:30.356384327Z",
   "model": "glm-5.3"
 }

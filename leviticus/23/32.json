@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Szabat, całkowity odpoczynek ⟨to⟩ dla was, i będziecie umartwiać ⟨את⟩ swoje nefesz; dziewiątego dnia miesiąca, wieczorem — od wieczora do wieczora będziecie święcić swój szabat.",
+  "translation": "Szabat szabaton ⟨to⟩ dla was, i umartwiacie ⟨את⟩ swoje nefesz; dziewiątego ⟨dnia⟩ miesiąca, wieczorem — od wieczora do wieczora będziecie święcić swój szabat.",
   "tokens": [
     {
       "surface": "שבת",
-      "gloss": "Szabat"
+      "gloss": "szabat"
     },
     {
       "surface": "שבתון",
-      "gloss": "całkowity odpoczynek"
+      "gloss": "szabaton"
     },
     {
       "surface": "הוא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועניתם",
-      "gloss": "i będziecie umartwiać"
+      "gloss": "i umartwiacie"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בתשעה",
-      "gloss": "dziewiątego dnia"
+      "gloss": "dziewiątego"
     },
     {
       "surface": "לחדש",
@@ -69,6 +69,6 @@
       "gloss": "swój szabat"
     }
   ],
-  "timestamp": "2026-08-24T22:47:49.669917944Z",
+  "timestamp": "2026-08-25T05:46:10.309391326Z",
   "model": "glm-5.3"
 }

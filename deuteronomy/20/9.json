@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I stanie się, gdy skończą urzędnicy mówić do ⟨the⟩ ludu, że ustanowią dowódcy wojsk na czele ⟨the⟩ ludu.",
+  "translation": "I ⟨będzie⟩, gdy skończą przełożeni mówić do ludu, to ustanowią dowódcy wojssk na czele ludu.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "i stanie się"
+      "gloss": "i ⟨będzie⟩"
     },
     {
       "surface": "ככלת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השטרים",
-      "gloss": "urzędnicy"
+      "gloss": "przełożeni"
     },
     {
       "surface": "לדבר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ ludu"
+      "gloss": "ludu"
     },
     {
       "surface": "ופקדו",
-      "gloss": "że ustanowią"
+      "gloss": "to ustanowią"
     },
     {
       "surface": "שרי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "wojsk"
+      "gloss": "wojssk"
     },
     {
       "surface": "בראש",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ ludu"
+      "gloss": "ludu"
     }
   ],
-  "timestamp": "2026-08-24T23:10:05.228678064Z",
+  "timestamp": "2026-08-25T05:50:43.769529408Z",
   "model": "glm-5.3"
 }

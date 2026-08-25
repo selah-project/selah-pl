@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 90,
-  "translation": "Zanim góry zostały zrodzone iś TokenType Terra",
-  "tokens": [],
-  "timestamp": "2026-08-25T01:58:34.591485069Z",
+  "translation": "Zanim góry zostały zrodzone, zanim ukształtowałeś ⟨את⟩ ziemię i ⟨את⟩ świat, od wieczności aż po wieczność Ty ⟨jesteś⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Zanim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "zostały zrodzone"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ukształtowałeś"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "i świat"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "od wieczności"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczność"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-25T06:16:56.308039627Z",
   "model": "glm-5.3"
 }

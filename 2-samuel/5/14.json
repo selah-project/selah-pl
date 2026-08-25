@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A to ⟨są⟩ imiona urodzonych ⟨את⟩ mu w Jeruszalaim: Szammua i Szowaw, i Natan, i Szlomo.",
+  "translation": "A te ⟨to⟩ imiona tych, którzy mu się urodzili w Jeruszalaim: Szammua, i Szowaw, i Natan, i Szlomo.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "A to"
+      "gloss": "A te"
     },
     {
       "surface": "שמות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הילדים",
-      "gloss": "urodzonych"
+      "gloss": "tych, którzy się urodzili"
     },
     {
       "surface": "לו",
@@ -44,6 +44,6 @@
       "gloss": "i Szlomo"
     }
   ],
-  "timestamp": "2026-08-24T23:46:12.328982263Z",
+  "timestamp": "2026-08-25T05:56:50.332819380Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "pl",
   "chapter": 4,
-  "translation": "Bo teraz przychodzi ⟨to⟩ do ciebie, a ty słabniesz; dotyka ⟨to⟩ do ciebie, a ty się trwożysz.",
+  "translation": "Bo teraz przyszło to na ciebie, i ⟨się⟩ zachwiałeś; dosięgło cię, a ty ⟨się⟩ zatrwożyłeś.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,29 +17,29 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "przychodzi"
+      "gloss": "przyszło"
     },
     {
       "surface": "אליך",
-      "gloss": "do ciebie"
+      "gloss": "na ciebie"
     },
     {
-      "surface": "ותלא",
-      "gloss": "a ty słabniesz"
+      "surface": "וילא",
+      "gloss": "i ⟨się⟩ zachwiałeś"
     },
     {
       "surface": "תגע",
-      "gloss": "dotyka"
+      "gloss": "dosięgło"
     },
     {
       "surface": "עדיך",
-      "gloss": "do ciebie"
+      "gloss": "ciebie"
     },
     {
-      "surface": "ותבהל",
-      "gloss": "a ty się trwożysz"
+      "surface": "ויבהל",
+      "gloss": "a ty ⟨się⟩ zatrwożyłeś"
     }
   ],
-  "timestamp": "2026-08-25T02:15:06.843349518Z",
+  "timestamp": "2026-08-25T06:18:18.363613363Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 24,
-  "translation": "aby Jahwe nie ujrzał, i nie było to złe w Jego oczach, i nie odwrócił swego gniewu od niego.",
+  "translation": "by Jahwe zobaczy, i będzie złe w Jego oczach, i odwróci gniew Swój od niego",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "aby nie"
+      "gloss": "by"
     },
     {
       "surface": "יראה",
-      "gloss": "ujrzał"
+      "gloss": "zobaczy"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ורע",
-      "gloss": "i złe"
+      "gloss": "i będzie złe"
     },
     {
       "surface": "בעיניו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והשיב",
-      "gloss": "i odwrócił"
+      "gloss": "i odwróci"
     },
     {
       "surface": "מעליו",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "אפו",
-      "gloss": "swój gniew"
+      "gloss": "gniew Swój"
     }
   ],
-  "timestamp": "2026-08-25T02:12:50.394151832Z",
+  "timestamp": "2026-08-25T06:18:00.945282547Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 31,
-  "translation": "Skoro obmacałeś ⟨את⟩ wszystkie moje rzeczy — co znalazłeś ze wszystkich rzeczy twojego domu? Połóż ⟨to⟩ tutaj przed moimi braćmi i twoimi braćmi, a niech rozsądzą między nami dwoma.",
+  "translation": "Skoro obmacywałeś ⟨את⟩ wszystkie rzeczy moje, co znalazłeś ze wszystkich rzeczy domu twego? Połóż ⟨to⟩ tu przed braćmi moimi i braćmi twoimi, i niech rozsądzą między nami dwoma.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Skoro"
+      "gloss": "skoro"
     },
     {
       "surface": "מששת",
-      "gloss": "obmacałeś"
+      "gloss": "obmacywałeś"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystkie moje rzeczy"
+      "marks": "wszystkie rzeczy moje"
     },
     {
       "surface": "כל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ביתך",
-      "gloss": "twojego domu"
+      "gloss": "domu twego"
     },
     {
       "surface": "שים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "⟨to⟩ tutaj"
+      "gloss": "tu"
     },
     {
       "surface": "נגד",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "אחי",
-      "gloss": "moimi braćmi"
+      "gloss": "braćmi moimi"
     },
     {
       "surface": "ואחיך",
-      "gloss": "i twoimi braćmi"
+      "gloss": "i braćmi twoimi"
     },
     {
       "surface": "ויוכיחו",
-      "gloss": "a niech rozsądzą"
+      "gloss": "i niech rozsądzą"
     },
     {
       "surface": "בין",
@@ -81,6 +81,6 @@
       "gloss": "nami dwoma"
     }
   ],
-  "timestamp": "2026-08-24T22:19:00.351475932Z",
+  "timestamp": "2026-08-25T05:38:39.475638180Z",
   "model": "glm-5.3"
 }

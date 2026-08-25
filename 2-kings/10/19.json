@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 10,
-  "translation": "A teraz wszystkich proroków Baala, wszystkich jego sług i wszystkich jego kapłanów wezwijcie do mnie — niech nikt nie zostanie pominięty, gdyż ⟨jest⟩ wielka ofiara dla mnie dla Baala; każdy, kto zostanie pominięty, nie będzie żył. A Jehu czynił to w podstępie, aby wytracić ⟨את⟩ sługi Baala.",
+  "translation": "A teraz wszyscy prorocy Baala, wszyscy jego słudzy i wszyscy jego kapłani — zawołajcie do mnie, niech ⟨żaden⟩ mąż nie zabraknie, bo wielka ofiara dla mnie dla Baala; każdy, kto zabraknie, nie będzie żył. A Jehu czynił to w podstępie, aby wytępić ⟨את⟩ sługi Baala.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "A teraz"
+      "gloss": "a teraz"
     },
     {
       "surface": "כל",
-      "gloss": "wszystkich"
+      "gloss": "wszyscy"
     },
     {
       "surface": "נביאי",
-      "gloss": "proroków"
+      "gloss": "prorocy"
     },
     {
       "surface": "הבעל",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "wszystkich"
+      "gloss": "wszyscy"
     },
     {
       "surface": "עבדיו",
-      "gloss": "jego sług"
+      "gloss": "jego słudzy"
     },
     {
       "surface": "וכל",
-      "gloss": "i wszystkich"
+      "gloss": "i wszyscy"
     },
     {
       "surface": "כהניו",
-      "gloss": "jego kapłanów"
+      "gloss": "jego kapłani"
     },
     {
       "surface": "קראו",
-      "gloss": "wezwijcie"
+      "gloss": "zawołajcie"
     },
     {
       "surface": "אלי",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "nikt"
+      "gloss": "mąż"
     },
     {
       "surface": "אל",
-      "gloss": "nie"
+      "gloss": "niech nie"
     },
     {
       "surface": "יפקד",
-      "gloss": "zostanie pominięty"
+      "gloss": "zabraknie"
     },
     {
       "surface": "כי",
-      "gloss": "gdyż"
+      "gloss": "bo"
     },
     {
       "surface": "זבח",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "יפקד",
-      "gloss": "zostanie pominięty"
+      "gloss": "zabraknie"
     },
     {
       "surface": "לא",
@@ -117,12 +117,12 @@
     },
     {
       "surface": "האביד",
-      "gloss": "wytracić"
+      "gloss": "wytępić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sługi Baala"
+      "marks": "sługi"
     },
     {
       "surface": "עבדי",
@@ -133,6 +133,6 @@
       "gloss": "Baala"
     }
   ],
-  "timestamp": "2026-08-25T00:11:00.391314150Z",
+  "timestamp": "2026-08-25T06:02:52.894039149Z",
   "model": "glm-5.3"
 }

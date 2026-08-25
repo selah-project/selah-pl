@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 13,
-  "translation": "Co powiesz, gdy ⟨on⟩ odwiedzi cię — a ty nauczyłaś ⟨את⟩ ich nad tobą — przywódcy na cześć? Czy nie bóle chwycą cię jak kobietę rodzącą?",
+  "translation": "Co powiesz, gdy ⟨on⟩ nadejdzie na ciebie? Ty bowiem pouczyłaś ich — nad tobą jako wodzów na cześć. Czyż nie chwycią cię bóle jak kobietę rodzącą?",
   "tokens": [
     {
       "surface": "מה",
@@ -20,10 +20,63 @@
       "gloss": "gdy"
     },
     {
-      "surface": "יפפקד",
-      "gloss": "odwiedzi"
+      "surface": "יפקד",
+      "gloss": "nadejdzie (nad TOBĄ — nawiedzi)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na ciebie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "pouczyłaś"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich (aluzję kieruje na 'nad tobą' \/ tych pouczonych)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tobą"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "wodzów (przywódców)"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na cześć"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "bóle (skurcze)"
+    },
+    {
+      "surface": "יאחזוך",
+      "gloss": "chwycią cię"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kobietę"
+    },
+    {
+      "surface": "לדה",
+      "gloss": "rodzącą"
     }
   ],
-  "timestamp": "2026-08-25T04:16:11.443925815Z",
+  "timestamp": "2026-08-25T06:08:34.366301715Z",
   "model": "glm-5.3"
 }

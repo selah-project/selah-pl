@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I zdobył Dawid ⟨את⟩ twierdzę Cijjon — ⟨to jest⟩ miasto Dawida.",
+  "translation": "I zdobył Dawid ⟨את⟩ twierdzę Cijjon, ona ⟨to⟩ miasto Dawida.",
   "tokens": [
     {
       "surface": "וילכד",
-      "gloss": "I zdobył"
+      "gloss": "i zdobył"
     },
     {
       "surface": "דוד",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨to jest⟩"
+      "gloss": "ona"
     },
     {
       "surface": "עיר",
@@ -41,6 +41,6 @@
       "gloss": "Dawida"
     }
   ],
-  "timestamp": "2026-08-24T23:46:40.542477915Z",
+  "timestamp": "2026-08-25T05:56:39.096913626Z",
   "model": "glm-5.3"
 }

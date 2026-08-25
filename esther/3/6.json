@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I było to podejrzane w jego oczach wysłanie ręki na samego Mordechaja, bo opowiedzieli mu ⟨את⟩ lud Mordechaja; i szukał Haman wytracić ⟨את⟩ wszystkich Jehudim, którzy są w całym królestwie Achaszwersza — lud Mordechaja.",
+  "translation": "I wzgardził w swoich oczach ⟨wydawaniem⟩ ręki na samego Mordechaja, bo oznajmiono mu ⟨את⟩ lud Mordechaja; i poszukiwał Haman, by wytępić ⟨את⟩ wszystkich Jehudim, którzy w całym królestwie Achaszwerosza — lud Mordechaja.",
   "tokens": [
     {
       "surface": "ויבז",
-      "gloss": "i było pogardliwe"
+      "gloss": "i wzgardził"
     },
     {
       "surface": "בעיניו",
-      "gloss": "w jego oczach"
+      "gloss": "w swoich oczach"
     },
     {
       "surface": "לשלח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הגידו",
-      "gloss": "opowiedzieli"
+      "gloss": "oznajmiono"
     },
     {
       "surface": "לו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ויבקש",
-      "gloss": "i szukał"
+      "gloss": "i poszukiwał"
     },
     {
       "surface": "המן",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "להשמיד",
-      "gloss": "wytracić"
+      "gloss": "by wytępić"
     },
     {
       "surface": "את",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Achaszwersza"
+      "gloss": "Achaszwerosza"
     },
     {
       "surface": "עם",
@@ -106,6 +106,6 @@
       "gloss": "Mordechaja"
     }
   ],
-  "timestamp": "2026-08-25T02:34:34.125007313Z",
+  "timestamp": "2026-08-25T06:21:31.411347Z",
   "model": "glm-5.3"
 }

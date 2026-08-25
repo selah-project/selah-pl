@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Dlatego tak mówi Adonai Jahwe: Oto Ja daję Nebukadnesarowi, królowi Babilonu, ⟨את⟩ ziemię Micraim, i zabierze jej mnóstwo, i weźmie jej łupy, i splądruje jej zdobycz, i będzie to zapłatą dla jego wojska.",
+  "translation": "Dlatego tak mówi Adonai Jahwe: oto Ja daję Nebukadnesarowi, królowi Babilonu, ⟨את⟩ ziemię Micrajim, i poniesie jej mnóstwo, i złupi jej łupy, i grabiż jej grabież, i stanie się zapłatą dla jego wojska.",
   "tokens": [
     {
       "surface": "לכן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Oto Ja"
+      "gloss": "oto Ja"
     },
     {
       "surface": "נתן",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemię Micraim"
+      "marks": "ziemię Micrajim"
     },
     {
       "surface": "ארץ",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraim"
+      "gloss": "Micrajim"
     },
     {
       "surface": "ונשא",
-      "gloss": "i zabierze"
+      "gloss": "i poniesie"
     },
     {
       "surface": "המנה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ושלל",
-      "gloss": "i weźmie"
+      "gloss": "i złupi"
     },
     {
       "surface": "שללה",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "ובזז",
-      "gloss": "i splądruje"
+      "gloss": "i grabiż"
     },
     {
       "surface": "בזה",
-      "gloss": "jej zdobycz"
+      "gloss": "jej grabież"
     },
     {
       "surface": "והיתה",
-      "gloss": "i będzie"
+      "gloss": "i stanie się"
     },
     {
       "surface": "שכר",
@@ -97,6 +97,6 @@
       "gloss": "dla jego wojska"
     }
   ],
-  "timestamp": "2026-08-25T01:22:11.554024039Z",
+  "timestamp": "2026-08-25T06:11:57.821000929Z",
   "model": "glm-5.3"
 }

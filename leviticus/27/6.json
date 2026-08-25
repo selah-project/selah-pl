@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli od syna miesiąca aż do syna pięciu lat, to będzie twoja wycena dla mężczyzny pięć szekli srebra, a dla kobiety twoja wycena — trzy szekle srebra.",
+  "translation": "A jeśli od syna miesiąca aż do syna pięciu lat, to twoja wycena dla mężczyzny ⟨będzie⟩ pięć sykli srebra, a dla niewiasty twoja wycena ⟨będzie⟩ trzy sykle srebra.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "מבן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "szekli"
+      "gloss": "sykli"
     },
     {
       "surface": "כסף",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ולנקבה",
-      "gloss": "a dla kobiety"
+      "gloss": "a dla niewiasty"
     },
     {
       "surface": "ערכך",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "szekle"
+      "gloss": "sykle"
     },
     {
       "surface": "כסף",
       "gloss": "srebra"
     }
   ],
-  "timestamp": "2026-08-24T22:49:54.093682084Z",
+  "timestamp": "2026-08-25T06:28:43.298363729Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I wynieśli oszczerstwo o ziemi, którą zbadali, do synów Jisraela, mówiąc: Ziemia, przez którą przeszliśmy, by ją zbadać, ⟨את⟩ — ziemia pożerająca swoich mieszkańców ⟨jest⟩; a cały lud, którego widzieliśmy w jej środku, to mężowie o rozmiarach.",
+  "translation": "I roznieśli oszczerstwo o ziemi, którą zwiedzili ⟨את⟩ niej, wśród synów Jisraela, mówiąc: Ziemia, którą przeszliśmy, zwiedzając ⟨את⟩ ją, to ziemia pożerająca swoich mieszkańców; a cały lud, którego widzieliśmy w niej, to ludzie o ogromnych rozmiarach.",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "I wynieśli"
+      "gloss": "i roznieśli"
     },
     {
       "surface": "דבת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ziemi"
+      "gloss": "o ziemi"
     },
     {
       "surface": "אשר",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "תרו",
-      "gloss": "zbadali"
+      "gloss": "zwiedzili"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją (ziemię)"
+      "marks": "niej"
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "wśród"
     },
     {
       "surface": "בני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "Ziemia"
+      "gloss": "ziemia"
     },
     {
       "surface": "אשר",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "לתור",
-      "gloss": "by zbadać"
+      "gloss": "zwiedzając"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją (ziemię)"
+      "marks": "ją"
     },
     {
       "surface": "ארץ",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "to"
     },
     {
       "surface": "וכל",
@@ -107,17 +107,17 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "w jej środku"
+      "gloss": "w niej"
     },
     {
       "surface": "אנשי",
-      "gloss": "mężowie"
+      "gloss": "ludzie o"
     },
     {
       "surface": "מדות",
-      "gloss": "o rozmiarach"
+      "gloss": "ogromnych rozmiarach"
     }
   ],
-  "timestamp": "2026-08-25T03:21:20.430149628Z",
+  "timestamp": "2026-08-25T05:47:45.116187452Z",
   "model": "glm-5.3"
 }

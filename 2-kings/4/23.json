@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I rzekł: Dlaczego ty pójdziesz do niego dziś? ⟨To⟩ nie nów ani szabat. A ona rzekła: Pokój.",
+  "translation": "I rzekł: Dlaczego ty pójdziesz do niego dziś? ⟨To⟩ nie nów księżyca ani szabat. A ona odrzekła: Pokój.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "nów"
+      "gloss": "nów księżyca"
     },
     {
       "surface": "ולא",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "a rzekła"
+      "gloss": "A ona odrzekła"
     },
     {
       "surface": "שלום",
       "gloss": "Pokój"
     }
   ],
-  "timestamp": "2026-08-25T03:30:07.843522242Z",
+  "timestamp": "2026-08-25T06:01:19.076078444Z",
   "model": "glm-5.3"
 }

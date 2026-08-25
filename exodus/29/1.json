@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "A to jest rzecz, którą uczynisz im, aby ich poświęcić, by ⟨pełnili⟩ kapłaństwo dla mnie: weźmiesz jednego młodego byka, syna stada, i dwa barany bez skazy.",
+  "translation": "A to ⟨jest⟩ rzecz, którą uczynisz im, aby ich poświęcić, by kapłanowali Mi: weź jednego młodego byka, syna stada, i dwa barany bez skazy.",
   "tokens": [
     {
       "surface": "וזה",
@@ -34,23 +34,23 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ich"
+      "marks": "im — poświęcić ich"
     },
     {
       "surface": "לכהן",
-      "gloss": "by kapłanami"
+      "gloss": "by kapłanowali"
     },
     {
       "surface": "לי",
-      "gloss": "dla mnie"
+      "gloss": "Mi"
     },
     {
       "surface": "לקח",
-      "gloss": "weźmiesz"
+      "gloss": "weź"
     },
     {
       "surface": "פר",
-      "gloss": "byka"
+      "gloss": "młodego byka"
     },
     {
       "surface": "אחד",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואילם",
-      "gloss": "i barany"
+      "gloss": "i dwa barany"
     },
     {
       "surface": "שנים",
@@ -77,6 +77,6 @@
       "gloss": "bez skazy"
     }
   ],
-  "timestamp": "2026-08-24T22:35:48.197156265Z",
+  "timestamp": "2026-08-25T05:42:09.288822482Z",
   "model": "glm-5.3"
 }

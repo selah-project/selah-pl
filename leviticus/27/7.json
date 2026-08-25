@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli od syna sześćdziesięciu lat i wyżej, jeśli mężczyzna, to będzie twoja wycena piętnaście szekli, a dla kobiety dziesięć szekli.",
+  "translation": "A jeśli od syna sześćdziesięciu lat i wzwyż, jeśli mężczyzna, to twoja wycena ⟨będzie⟩ piętnaście sykli, a dla niewiasty dziesięć sykli.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "מבן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "i wyżej"
+      "gloss": "i wzwyż"
     },
     {
       "surface": "אם",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "חמשה",
-      "gloss": "piętnaście"
+      "gloss": "pięć"
     },
     {
       "surface": "עשר",
-      "gloss": "(człon „-naście”)"
+      "gloss": "naście"
     },
     {
       "surface": "שקל",
-      "gloss": "szekli"
+      "gloss": "sykli"
     },
     {
       "surface": "ולנקבה",
-      "gloss": "a dla kobiety"
+      "gloss": "a dla niewiasty"
     },
     {
       "surface": "עשרה",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "szekli"
+      "gloss": "sykli"
     }
   ],
-  "timestamp": "2026-08-24T22:49:54.093843740Z",
+  "timestamp": "2026-08-25T06:28:43.298646722Z",
   "model": "glm-5.3"
 }

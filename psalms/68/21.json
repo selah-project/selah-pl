@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 68,
-  "translation": "Ten El dla nas ⟨to⟩ El wyzwoleń, a dla Jahwe, Adonai — wyjścia ze śmierci.",
+  "translation": "El ⟨jest⟩ nam El ⟨dla⟩ wybawień, a do Jahwe, Adonai, ⟨należą⟩ wyjścia śmierci.",
   "tokens": [
     {
       "surface": "האל",
-      "gloss": "Ten El"
+      "gloss": "El"
     },
     {
       "surface": "לנו",
-      "gloss": "dla nas"
+      "gloss": "nam"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "למושעות",
-      "gloss": "dla wyzwoleń"
+      "gloss": "wybawień"
     },
     {
-      "surface": "וליהוה",
-      "gloss": "a dla Jahwe"
+      "surface": "ויהוה",
+      "gloss": "a do Jahwe"
     },
     {
       "surface": "אדני",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "למות",
-      "gloss": "dla śmierci"
+      "gloss": "śmierci"
     },
     {
       "surface": "תוצאות",
       "gloss": "wyjścia"
     }
   ],
-  "timestamp": "2026-08-25T01:53:53.863614334Z",
+  "timestamp": "2026-08-25T06:16:09.643504457Z",
   "model": "glm-5.3"
 }

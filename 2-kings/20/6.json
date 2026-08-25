@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I dodam do twoich dni piętnaście lat, i wyrwę cię z ręki króla Aszszura, oraz ⟨את⟩ to miasto, i osłonię to miasto — ze względu na siebie i ze względu na Dawida, mego sługę.",
+  "translation": "I dodam do twoich dni piętnaście lat; i z ręki króla Aszszura wyrwę cię ⟨את⟩ i to miasto, i osłonię to miasto — ze względu na mnie i ze względu na Dawida, sługę mego.",
   "tokens": [
     {
       "surface": "והספתי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "חמש",
-      "gloss": "piętnaście (pięć)"
+      "gloss": "pięć"
     },
     {
       "surface": "עשרה",
-      "gloss": "(na dziesięć)"
+      "gloss": "naście"
     },
     {
       "surface": "שנה",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "to miasto"
     },
     {
       "surface": "העיר",
-      "gloss": "to miasto"
+      "gloss": "i to miasto"
     },
     {
       "surface": "הזאת",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "miasto"
+      "gloss": "to miasto"
     },
     {
       "surface": "הזאת",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "למעני",
-      "gloss": "ze względu na siebie"
+      "gloss": "ze względu na mnie"
     },
     {
       "surface": "ולמען",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "mego sługę"
+      "gloss": "sługę mego"
     }
   ],
-  "timestamp": "2026-08-25T00:16:04.264878399Z",
+  "timestamp": "2026-08-25T06:30:41.840757083Z",
   "model": "glm-5.3"
 }

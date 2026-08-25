@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Jeśli jagnię on przyprowadza ⟨את⟩ swojej ofiary, to przyprowadzi ⟨את⟩ je przed obliczem Jahwe.",
+  "translation": "Jeśli owieczkę ⟨jest⟩ on przybliżający ⟨את⟩ ofiarę swoją, to przybliży ją przed obliczem Jahwe.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "כשב",
-      "gloss": "jagnię"
+      "gloss": "owieczkę"
     },
     {
       "surface": "הוא",
@@ -21,25 +21,25 @@
     },
     {
       "surface": "מקריב",
-      "gloss": "przyprowadza"
+      "gloss": "przybliżający"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swojej ofiary"
+      "marks": "ofiarę swoją"
     },
     {
       "surface": "קרבנו",
-      "gloss": "swojej ofiary"
+      "gloss": "ofiarę swoją"
     },
     {
       "surface": "והקריב",
-      "gloss": "to przyprowadzi"
+      "gloss": "przybliży"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "je (jagnię)"
+      "gloss": "⟨את⟩ ją",
+      "marks": "owieczkę"
     },
     {
       "surface": "לפני",
@@ -50,6 +50,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:40:06.860179438Z",
+  "timestamp": "2026-08-25T05:42:42.076303689Z",
   "model": "glm-5.3"
 }

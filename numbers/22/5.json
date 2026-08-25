@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I wysłał posłów do Bilama, syna Beora, do Petor, która ⟨jest⟩ nad Rzeką, do ziemi synów jego ludu, aby go przywołać, mówiąc: Oto lud wyszedł z Micrajim; oto okrył ⟨את⟩ ⟨the⟩ oko ziemi, a on przebywa naprzeciwko mnie.",
+  "translation": "I wysłał posłańców do Bilama, syna Beora, do Petory, która ⟨jest⟩ nad ⟨tą⟩ Rzeką, do ziemi synów jego ludu, aby go wezwać, mówiąc: Oto lud wyszedł z Micrajim; oto okrył ⟨את⟩ oko ziemi, i on mieszka naprzeciwko mnie.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מלאכים",
-      "gloss": "posłów"
+      "gloss": "posłańców"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פתורה",
-      "gloss": "do Petor"
+      "gloss": "Petory"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לקרא",
-      "gloss": "aby przywołać"
+      "gloss": "aby wezwać"
     },
     {
       "surface": "לו",
@@ -98,7 +98,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko ziemi"
+      "marks": "oko"
     },
     {
       "surface": "עין",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a on"
+      "gloss": "i on"
     },
     {
       "surface": "ישב",
-      "gloss": "przebywa"
+      "gloss": "mieszka"
     },
     {
       "surface": "ממלי",
       "gloss": "naprzeciwko mnie"
     }
   ],
-  "timestamp": "2026-08-24T22:58:11.903796592Z",
+  "timestamp": "2026-08-25T06:29:29.568103963Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I rzekł Mosze: To jest ⟨the⟩ słowo, które Jahwe rozkazał: napełnijcie ⟨את⟩ ⟨the⟩ omer z niego na przechowanie dla waszych pokoleń, aby zobaczyli ⟨את⟩ chleb, którym karmiłem was na pustyni, gdy wyprowadzałem was z ziemi Micrajim.",
+  "translation": "I rzekł Mosze: To ⟨jest⟩ słowo, które nakazał Jahwe: napełnij z niego ⟨את⟩ pełnię omeru na przechowanie dla waszych pokoleń, aby widzieli ⟨את⟩ chleb, którym karmiłem ⟨את⟩ was na pustyni, gdy wyprowadzałem ⟨את⟩ was z ziemi Micrajim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "jest słowo"
+      "gloss": "słowo"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "rozkazał"
+      "gloss": "nakazał"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "napełnijcie"
+      "gloss": "napełnij"
     },
     {
       "surface": "העמר",
-      "gloss": "omer"
+      "gloss": "pełnię omeru"
     },
     {
       "surface": "ממנו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "zobaczyli"
+      "gloss": "widzieli"
     },
     {
       "surface": "את",
@@ -105,6 +105,6 @@
       "gloss": "Micrajim"
     }
   ],
-  "timestamp": "2026-08-24T22:30:32.420961481Z",
+  "timestamp": "2026-08-25T05:41:50.999188859Z",
   "model": "glm-5.3"
 }

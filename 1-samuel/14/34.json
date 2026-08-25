@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I rzekł Szaul: Rozproszcie się wśród ludu i powiedzcie im: Przyprowadźcie do mnie każdy swojego wołu i każdą swoją owcę, i zabijajcie ⟨to⟩ tutaj, i jedzcie, a nie grzeszcie wobec Jahwe, jedząc ⟨na⟩ krwi. I przyprowadził cały lud każdy swojego wołu w swojej ręce tej nocy, i zabili tam.",
+  "translation": "I rzekł Szaul: Rozproszcie się wśród ludu i powiedzcie im: Przyprowadźcie do mnie każdy wołu swego i każdy swą owcę, i zabijajcie w tym miejscu, i jedzcie, a nie zgrzeszycie przeciw Jahwe, jedząc ⟨z⟩ krwią. I przyprowadził cały lud każdy wołu swego w swojej ręce tej nocy, i zabili tam.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שורו",
-      "gloss": "swojego wołu"
+      "gloss": "wołu swego"
     },
     {
       "surface": "ואיש",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "שיהו",
-      "gloss": "swoją owcę"
+      "gloss": "swą owcę"
     },
     {
       "surface": "ושחטתם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בזה",
-      "gloss": "tutaj"
+      "gloss": "w tym miejscu"
     },
     {
       "surface": "ואכלתם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "תחטאו",
-      "gloss": "grzeszcie"
+      "gloss": "zgrzeszycie"
     },
     {
       "surface": "ליהוה",
-      "gloss": "wobec Jahwe"
+      "gloss": "przeciw Jahwe"
     },
     {
       "surface": "לאכל",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "⟨z⟩"
     },
     {
       "surface": "הדם",
-      "gloss": "krwi"
+      "gloss": "krwią"
     },
     {
       "surface": "ויגשו",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "שורו",
-      "gloss": "swojego wołu"
+      "gloss": "wołu swego"
     },
     {
       "surface": "בידו",
@@ -128,6 +128,6 @@
       "gloss": "tam"
     }
   ],
-  "timestamp": "2026-08-25T03:27:47.617430773Z",
+  "timestamp": "2026-08-25T05:56:19.785253885Z",
   "model": "glm-5.3"
 }

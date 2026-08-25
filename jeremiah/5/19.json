@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I stanie się, gdy będziecie mówić: „Za co uczynił Jahwe, Elohim nasz, nam ⟨את⟩ to wszystko?” — powiesz im: „Jak żeście opuścili ⟨את⟩ mnie i służyli obcym bogom w waszej ziemi, tak służyć będziecie obcym w ziemi nie waszej.”",
+  "translation": "I stanie się, gdy będziecie mówić: „Dlaczego Jahwe, Elohim nasz, uczynił nam ⟨את⟩ wszystkie te rzeczy?”, wtedy powiesz im: „Jak opuściliście ⟨את⟩ mnie i służyliście obcym bogom w waszej ziemi, tak będziecie służyć obcym w ziemi nie waszej.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "i stanie się"
+      "gloss": "I stanie się"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "za"
+      "gloss": "Dlaczego"
     },
     {
       "surface": "מה",
@@ -46,19 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to wszystko"
+      "marks": "wszystkie te rzeczy"
     },
     {
       "surface": "כל",
-      "gloss": "wszystko"
+      "gloss": "wszystkie"
     },
     {
       "surface": "אלה",
-      "gloss": "to"
+      "gloss": "te rzeczy"
     },
     {
       "surface": "ואמרת",
-      "gloss": "powiesz"
+      "gloss": "i powiesz"
     },
     {
       "surface": "אליהם",
@@ -66,15 +66,16 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "jak"
+      "gloss": "Jak"
     },
     {
       "surface": "עזבתם",
-      "gloss": "żeście opuścili"
+      "gloss": "opuszciliście"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mnie"
+      "gloss": "⟨את⟩ mnie",
+      "marks": "opuszciliście mnie (אותי = ⟨את⟩ + mnie)"
     },
     {
       "surface": "ותעבדו",
@@ -98,7 +99,7 @@
     },
     {
       "surface": "תעבדו",
-      "gloss": "służyć będziecie"
+      "gloss": "będziecie służyć"
     },
     {
       "surface": "זרים",
@@ -117,6 +118,6 @@
       "gloss": "waszej"
     }
   ],
-  "timestamp": "2026-08-25T00:43:50.570026175Z",
+  "timestamp": "2026-08-25T06:07:48.838180905Z",
   "model": "glm-5.3"
 }

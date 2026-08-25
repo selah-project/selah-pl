@@ -5,13 +5,54 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I usunął משרתי kultu —wait",
+  "translation": "I wygubił ⟨את⟩ kedeszim z ziemi, i usunął ⟨את⟩ wszystkie bałwany, które uczynili jego ojcowie.",
   "tokens": [
     {
-      "surface": "והיה",
-      "gloss": ""
+      "surface": "ויעבר",
+      "gloss": "i wygubił"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kedeszim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie bałwany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "bałwany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jego ojcowie"
     }
   ],
-  "timestamp": "2026-08-25T00:02:41.574809219Z",
+  "timestamp": "2026-08-25T06:00:49.593576457Z",
   "model": "glm-5.3"
 }

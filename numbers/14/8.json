@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 14,
-  "translation": "Jeśli Jahwe nas kocha, to wprowadzi ⟨את⟩ nas do tej ziemi i da ją nam — ziemia, która ⟨jest⟩ opływająca w mleko i miód.",
+  "translation": "Jeśli Jahwe upodobał sobie nas, to sprowadzi ⟨את⟩ nas do tej ziemi i da ją nam — ziemię, która opływa w mleko i miód.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeśli"
     },
     {
       "surface": "חפץ",
-      "gloss": "kocha"
+      "gloss": "upodobał sobie"
     },
     {
       "surface": "בנו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "והביא",
-      "gloss": "i wprowadzi"
+      "gloss": "to sprowadzi"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ nas",
       "marks": "nas"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ziemi"
+      "gloss": "tej ziemi"
     },
     {
       "surface": "הזאת",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "ziemia"
+      "gloss": "ziemię"
     },
     {
       "surface": "אשר",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "⟨ona⟩"
     },
     {
       "surface": "זבת",
-      "gloss": "opływająca"
+      "gloss": "opływa"
     },
     {
       "surface": "חלב",
@@ -77,6 +77,6 @@
       "gloss": "i miód"
     }
   ],
-  "timestamp": "2026-08-24T22:54:19.275126835Z",
+  "timestamp": "2026-08-25T05:47:14.453956603Z",
   "model": "glm-5.3"
 }

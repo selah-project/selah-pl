@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Jeśliby nefesz popełniła zdradę i zgrzeszyła przez pomyłkę w świętych rzeczach Jahwe, to przyniesie ⟨את⟩ swoją winę-przeprawę dla Jahwe: barana doskonałego z trzody według twojej wyceny w srebrze, szklami według szekla świątyni, na ofiarę winną.",
+  "translation": "Gdyby nefesz popełniła zdradę maal i zgrzeszyła nieświadomie w rzeczach świętych Jahwe, to przyprowadzi ⟨את⟩ swoją winę-naprawczą dla Jahwe barana bez skazy z trzody, według twej wyceny w srebrze, szeklami, według szekla świętego, jako aszam.",
   "tokens": [
     {
       "surface": "נפש",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "jeśliby"
+      "gloss": "gdyby"
     },
     {
       "surface": "תמעל",
-      "gloss": "popełniła zdradę"
+      "gloss": "popełni zdradę"
     },
     {
       "surface": "מעל",
-      "gloss": "zdradę"
+      "gloss": "maal"
     },
     {
       "surface": "וחטאה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בשגגה",
-      "gloss": "przez pomyłkę"
+      "gloss": "nieświadomie"
     },
     {
       "surface": "מקדשי",
-      "gloss": "w świętych rzeczach"
+      "gloss": "w rzeczach świętych"
     },
     {
       "surface": "יהוה",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "והביא",
-      "gloss": "i przyniesie"
+      "gloss": "to przyprowadzi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swoją winę-przeprawę"
+      "marks": "swoją winę-naprawczą"
     },
     {
       "surface": "אשמו",
-      "gloss": "swoją winę-przeprawę"
+      "gloss": "swoją winę-naprawczą"
     },
     {
       "surface": "ליהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "תמים",
-      "gloss": "doskonałego"
+      "gloss": "bez skazy"
     },
     {
       "surface": "מן",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "בערכך",
-      "gloss": "według twojej wyceny"
+      "gloss": "według twej wyceny"
     },
     {
       "surface": "כסף",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "szklami"
+      "gloss": "szeklami"
     },
     {
       "surface": "בשקל",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "świątyni"
+      "gloss": "świętego"
     },
     {
       "surface": "לאשם",
-      "gloss": "na ofiarę winną"
+      "gloss": "jako aszam"
     }
   ],
-  "timestamp": "2026-08-24T22:41:19.794104081Z",
+  "timestamp": "2026-08-25T07:00:10.403248386Z",
   "model": "glm-5.3"
 }

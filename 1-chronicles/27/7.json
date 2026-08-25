@@ -5,23 +5,27 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 27,
-  "translation": "Czwarty, na miesiąc czwarty, Asa-El, brat Joaba, i Zewadjahu, syn jego, po nim; a nad jego oddziałem dwadzieścia i cztery tysiące.",
+  "translation": "Czwarty dla czwartego miesiąca — Asael, brat Joaba, i Zebadjahu, syn jego, po nim; a nad jego oddziałem ⟨było⟩ dwadzieścia i cztery tysiące.",
   "tokens": [
-    {
-      "surface": "הרביעי",
-      "gloss": "Czwarty"
-    },
-    {
-      "surface": "לחדש",
-      "gloss": "na miesiąc"
-    },
     {
       "surface": "הרביעי",
       "gloss": "czwarty"
     },
     {
+      "surface": "לחדש",
+      "gloss": "dla miesiąca"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "czwartego"
+    },
+    {
       "surface": "עשה",
-      "gloss": "Asa-El"
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
     },
     {
       "surface": "אחי",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "וזבדיה",
-      "gloss": "i Zewadjahu"
+      "gloss": "i Zebadjahu"
     },
     {
       "surface": "בנו",
@@ -64,6 +68,6 @@
       "gloss": "tysiące"
     }
   ],
-  "timestamp": "2026-08-25T02:58:49.765164590Z",
+  "timestamp": "2026-08-25T06:25:25.679880770Z",
   "model": "glm-5.3"
 }

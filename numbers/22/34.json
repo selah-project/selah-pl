@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I rzekł Bilam do anioła Jahwe: Zgrzeszyłem, bo nie wiedziałem, że to ty stoisz naprzeciw mnie na drodze; a teraz, jeśli złe to w twoich oczach, wrócę sobie.",
+  "translation": "I rzekł Bilam do posłańca Jahwe: Zgrzeszyłem, gdyż nie wiedziałem, że ty stoisz mi naprzeciw na drodze; a teraz, jeśli złe ⟨to⟩ w twoich oczach, wrócę do siebie.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מלאך",
-      "gloss": "anioła"
+      "gloss": "posłańca"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "לא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "to ty"
+      "gloss": "ty"
     },
     {
       "surface": "נצב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לקראתי",
-      "gloss": "naprzeciw mnie"
+      "gloss": "mi naprzeciw"
     },
     {
       "surface": "בדרך",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "לי",
-      "gloss": "sobie"
+      "gloss": "do siebie"
     }
   ],
-  "timestamp": "2026-08-24T22:58:56.816283857Z",
+  "timestamp": "2026-08-25T05:48:01.729301468Z",
   "model": "glm-5.3"
 }

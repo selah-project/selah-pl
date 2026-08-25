@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A także naczynia domu Eloha — złota i srebra — które Nabukadnecar wyniósł z pałacu, który ⟨jest⟩ w Jeruszalaim, i zaniósł je do pałacu Babilonu — te wyniósł Korosz król z pałacu Babilonu i dano je Szeszbazarowi — to jego imię — którego ustanowił namiestnikiem.",
+  "translation": "A także naczynia domu Elaha — złota i srebra — które Nebukadnescar wyniósł ze świątyni ⟨tej⟩ w Jeruszalaim i zaniósł je do świątyni w Bawel: te wyniósł Koresz, król, ze świątyni w Bawel, i dano je Szeszbacarowi — jego imię — któremu ⟨on⟩ dał urząd namiestnika.",
   "tokens": [
     {
       "surface": "ואף",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "די",
-      "gloss": "⟨z⟩"
+      "gloss": "które"
     },
     {
       "surface": "בית",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אלהא",
-      "gloss": "Eloha"
+      "gloss": "Elaha"
     },
     {
       "surface": "די",
-      "gloss": "—"
+      "gloss": "z"
     },
     {
       "surface": "דהבה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nabukadnecar"
+      "gloss": "Nebukadnescar"
     },
     {
       "surface": "הנפק",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "היכלא",
-      "gloss": "pałacu"
+      "gloss": "świątyni"
     },
     {
       "surface": "די",
-      "gloss": "który ⟨jest⟩ w"
+      "gloss": "w"
     },
     {
       "surface": "בירושלם",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "להיכלא",
-      "gloss": "do pałacu"
+      "gloss": "do świątyni"
     },
     {
       "surface": "די",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilonu"
+      "gloss": "Bawel"
     },
     {
       "surface": "הנפק",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "כורש",
-      "gloss": "Korosz"
+      "gloss": "Koresz"
     },
     {
       "surface": "מלכא",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "היכלא",
-      "gloss": "pałacu"
+      "gloss": "świątyni"
     },
     {
       "surface": "די",
@@ -117,7 +117,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilonu"
+      "gloss": "Bawel"
     },
     {
       "surface": "ויהיבו",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "לששבצר",
-      "gloss": "Szeszbazarowi"
+      "gloss": "Szeszbacarowi"
     },
     {
       "surface": "שמה",
@@ -133,17 +133,17 @@
     },
     {
       "surface": "די",
-      "gloss": "którego"
+      "gloss": "któremu"
     },
     {
       "surface": "פחה",
-      "gloss": "namiestnikiem"
+      "gloss": "namiestnika"
     },
     {
       "surface": "שמה",
-      "gloss": "ustanowił ⟨go⟩"
+      "gloss": "mianował"
     }
   ],
-  "timestamp": "2026-08-25T02:43:59.951049283Z",
+  "timestamp": "2026-08-25T06:23:25.997389617Z",
   "model": "glm-5.3"
 }

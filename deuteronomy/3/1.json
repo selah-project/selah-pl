@@ -5,8 +5,65 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I zawróciliśmy, i weszliśmy drogą Baszanu, i wyszedł Og, król Baszanu, naprzeciw nas — on i cały jego lud — do wojny, w Edreí",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:04:37.179739173Z",
+  "translation": "I zawróciliśmy, i weszliśmy drogą ⟨do⟩ Baszanu, i wyszedł Og, król Baszanu, naprzeciw nas — on i cały jego lud — do bitwy w Edrei.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "i zawróciliśmy"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "i weszliśmy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszanu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszanu"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "naprzeciw nas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego lud"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do bitwy"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "Edrei"
+    }
+  ],
+  "timestamp": "2026-08-25T05:49:05.820455904Z",
   "model": "glm-5.3"
 }

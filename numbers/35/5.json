@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 35,
-  "translation": "I odmierzycie z zewnątrz miasta ⟨את⟩ stronę wschodnią — dwa tysiące łokci, i ⟨את⟩ stronę południową — dwa tysiące łokci, i ⟨את⟩ stronę zachodnią — dwa tysiące łokci, i ⟨את⟩ stronę północną — dwa tysiące łokci, a miasto w środku; to będzie im pastwiskami miast.",
+  "translation": "I zmierzycie z zewnątrz miasta ⟨את⟩ stronę wschodnią dwa tysiące łokci, i ⟨את⟩ stronę południową dwa tysiące łokci, i ⟨את⟩ stronę morską (zachodnią) dwa tysiące łokci, i ⟨את⟩ stronę północną dwa tysiące łokci, a miasto w środku — to będzie im pastwiskami miast.",
   "tokens": [
     {
       "surface": "ומדתם",
-      "gloss": "i odmierzycie"
+      "gloss": "i zmierzycie"
     },
     {
       "surface": "מחוץ",
@@ -64,7 +64,7 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "stronę zachodnią"
+      "marks": "stronę morską"
     },
     {
       "surface": "פאת",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "ים",
-      "gloss": "zachodnią (morską)"
+      "gloss": "morską (zachodnią)"
     },
     {
       "surface": "אלפים",
@@ -132,6 +132,6 @@
       "gloss": "miast"
     }
   ],
-  "timestamp": "2026-08-24T23:03:09.299043250Z",
+  "timestamp": "2026-08-25T05:49:10.015733275Z",
   "model": "glm-5.3"
 }

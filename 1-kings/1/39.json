@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I wziął Cadok kapłan ⟨את⟩ róg ⟨the⟩ oleju z namiotu, i namaścił ⟨את⟩ Szelomo, i zatrąbili w szofar, i powiedział cały lud: Niech żyje król Szelomo!",
+  "translation": "I wziął Cadok kapłan ⟨את⟩ róg oleju z Namiotu, i namaścił ⟨את⟩ Szelomo, i zatrąbili w szofar, i rzekł cały lud: Niech żyje król Szelomo!",
   "tokens": [
     {
       "surface": "ויקח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "השמן",
-      "gloss": "⟨the⟩ oleju"
+      "gloss": "oleju"
     },
     {
       "surface": "מן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "האהל",
-      "gloss": "namiotu"
+      "gloss": "Namiotu"
     },
     {
       "surface": "וימשח",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i powiedział"
+      "gloss": "i rzekł"
     },
     {
       "surface": "כל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "יחי",
-      "gloss": "niech żyje"
+      "gloss": "Niech żyje"
     },
     {
       "surface": "המלך",
@@ -86,6 +86,6 @@
       "gloss": "Szelomo"
     }
   ],
-  "timestamp": "2026-08-24T23:55:40.472725152Z",
+  "timestamp": "2026-08-25T05:58:19.051564317Z",
   "model": "glm-5.3"
 }

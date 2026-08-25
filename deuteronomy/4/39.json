@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I poznasz dzisiaj i odwzisz to do swego serca, że Jahwe, ⟨on⟩ ⟨jest⟩ Elohim na niebiosach z wysoka i na ziemi z dołu — nie ma ⟨innych⟩.",
+  "translation": "I poznasz dziś i odwrócisz ⟨ku⟩ twemu sercu, że Jahwe, On ⟨jest⟩ Elohimem w niebiosach z wysoka i na ziemi z dołu — nie ma ⟨już innego⟩.",
   "tokens": [
     {
       "surface": "וידעת",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "היום",
-      "gloss": "dzisiaj"
+      "gloss": "dziś"
     },
     {
       "surface": "והשבת",
-      "gloss": "i odwzisz"
+      "gloss": "i odwrócisz"
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "⟨ku⟩"
     },
     {
       "surface": "לבבך",
-      "gloss": "swego serca"
+      "gloss": "twemu sercu"
     },
     {
       "surface": "כי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨on⟩"
+      "gloss": "On"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimem"
     },
     {
       "surface": "בשמים",
-      "gloss": "na niebiosach"
+      "gloss": "w niebiosach"
     },
     {
       "surface": "ממעל",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "עוד",
-      "gloss": "innych"
+      "gloss": "już innego"
     }
   ],
-  "timestamp": "2026-08-24T23:05:47.201965704Z",
+  "timestamp": "2026-08-25T05:49:43.087512215Z",
   "model": "glm-5.3"
 }

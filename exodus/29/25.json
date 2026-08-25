@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I weźmiesz ⟨את⟩ je z ich rąk, i spalisz na ołtarzu nad całopaleniem, na miłą woń przed Jahwe; ofiara z ognia to ⟨jest⟩ dla Jahwe.",
+  "translation": "I weźmiesz ⟨את⟩ nich z ich rąk, i spalisz na ołtarzu, na całopaleniu, jako miłą woń przed Jahwe; ofiara z ognia to dla Jahwe.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -14,7 +14,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "je"
+      "marks": "nich"
     },
     {
       "surface": "מידם",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "על",
-      "gloss": "nad"
+      "gloss": "na"
     },
     {
       "surface": "העלה",
-      "gloss": "całopaleniem"
+      "gloss": "całopaleniu"
     },
     {
       "surface": "לריח",
-      "gloss": "na woń"
+      "gloss": "jako woń"
     },
     {
       "surface": "ניחוח",
@@ -65,6 +65,6 @@
       "gloss": "dla Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:35:53.569426930Z",
+  "timestamp": "2026-08-25T05:42:00.241442550Z",
   "model": "glm-5.3"
 }

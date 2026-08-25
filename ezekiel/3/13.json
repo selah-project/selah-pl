@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "i głos skrzydeł żywych stworzeń dotykających jedną ⟨to⟩ drugiej, i głos kół naprzeciw nich, i głos wielkiego łoskotu",
+  "translation": "I ⟨był⟩ głos skrzydeł istot żywych dotykających ⟨את⟩ jedne drugich, i głos kół naprzeciw nich, i głos wielkiego huku.",
   "tokens": [
     {
       "surface": "וקול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החיות",
-      "gloss": "żywych stworzeń"
+      "gloss": "istot żywych"
     },
     {
       "surface": "משיקות",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אשה",
-      "gloss": "jedna"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "אל",
-      "gloss": "⟨to⟩"
+      "gloss": ""
     },
     {
       "surface": "אחותה",
-      "gloss": "drugiej"
+      "gloss": "jedne drugich"
     },
     {
       "surface": "וקול",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "רעש",
-      "gloss": "łoskotu"
+      "gloss": "huku"
     },
     {
       "surface": "גדול",
       "gloss": "wielkiego"
     }
   ],
-  "timestamp": "2026-08-25T01:08:53.796453423Z",
+  "timestamp": "2026-08-25T07:01:50.194252324Z",
   "model": "glm-5.3"
 }

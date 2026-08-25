@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 40,
-  "translation": "I mówił do mnie ów mąż: synu człowieczy, patrz oczami twoimi i uszami twoimi słuchaj, i ustaw serce twoje na wszystko, co ja ⟨את⟩ tobie pokazuję, bo po to, aby ci to pokazać, zostałeś tu wprowadzony; oznajm ⟨את⟩ wszystko, co ty widzisz, domowi Jisraela.",
+  "translation": "I mówił do mnie ⟨t⟩ mężczyzna: synu człowieku, patrz oczami twoimi i uszami twoimi słuchaj, i nastaw serce twoje na wszystko, co ci ja pokazuję, bo po to, aby ci to pokazać, zostałeś tu przywiedziony; oznajmij ⟨את⟩ wszystko, co ty widzisz, domowi Jisraela.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ów mąż"
+      "gloss": "⟨t⟩ mężczyzna"
     },
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "człowieczy"
+      "gloss": "człowieku"
     },
     {
       "surface": "ראה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ושים",
-      "gloss": "i ustaw"
+      "gloss": "i nastaw"
     },
     {
       "surface": "לבך",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tobie"
+      "gloss": "⟨את⟩ ci",
+      "marks": "pokazywanie ci"
     },
     {
       "surface": "כי",
@@ -85,7 +86,7 @@
     },
     {
       "surface": "הבאתה",
-      "gloss": "zostałeś wprowadzony"
+      "gloss": "zostałeś przywiedziony"
     },
     {
       "surface": "הנה",
@@ -93,7 +94,7 @@
     },
     {
       "surface": "הגד",
-      "gloss": "oznajm"
+      "gloss": "oznajmij"
     },
     {
       "surface": "את",
@@ -125,6 +126,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-25T01:27:30.731008732Z",
+  "timestamp": "2026-08-25T06:12:34.837107947Z",
   "model": "glm-5.3"
 }

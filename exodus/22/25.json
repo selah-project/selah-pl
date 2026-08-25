@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Jeśli weźmiesz w zastaw szatę twojego bliźniego, до zachodu słońca zwrócisz mu ją.",
+  "translation": "Jeśli weźmiesz w zastaw płaszcz swego bliźniego, aż do zachodu słońca zwrócisz mu go.",
   "tokens": [
     {
       "surface": "אם",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "תחבל",
-      "gloss": "zastawiasz"
+      "gloss": "(w zastaw)"
     },
     {
       "surface": "שלמת",
-      "gloss": "szatę"
+      "gloss": "płaszcz"
     },
     {
       "surface": "רעך",
-      "gloss": "twojego bliźniego"
+      "gloss": "swego bliźniego"
     },
     {
       "surface": "עד",
-      "gloss": "do"
+      "gloss": "aż do"
     },
     {
       "surface": "בא",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "תשיבנו",
-      "gloss": "zwrócisz mu ją"
+      "gloss": "zwrócisz go"
     },
     {
       "surface": "לו",
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-08-24T22:32:05.121192020Z",
+  "timestamp": "2026-08-25T05:41:57.291500380Z",
   "model": "glm-5.3"
 }

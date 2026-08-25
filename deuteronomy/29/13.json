@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 29,
-  "translation": "A nie ⟨את⟩ wami samymi ja zawieram ⟨את⟩ to przymierze i ⟨את⟩ tę przysięgę",
+  "translation": "I nie ⟨את⟩ z wami samymi ⟨jest⟩ ja zawieram ⟨את⟩ to przymierze i ⟨את⟩ tę przysięgę.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "a nie"
+      "gloss": "i nie"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wami"
+      "gloss": "⟨את⟩ z wami"
     },
     {
       "surface": "לבדכם",
-      "gloss": "sami"
+      "gloss": "samymi"
     },
     {
       "surface": "אנכי",
@@ -54,6 +54,6 @@
       "gloss": "tę"
     }
   ],
-  "timestamp": "2026-08-24T23:13:51.525535851Z",
+  "timestamp": "2026-08-25T05:51:19.722840312Z",
   "model": "glm-5.3"
 }

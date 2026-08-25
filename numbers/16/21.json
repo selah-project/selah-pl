@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Oddzielcie się spośród tej społeczności, a pochłonę ⟨את⟩nich w jednej chwili.",
+  "translation": "Oddzielcie się spośród tej społeczności, a pochłonę ⟨את⟩ nich w jednej chwili.",
   "tokens": [
     {
       "surface": "הבדלו",
@@ -17,30 +17,26 @@
     },
     {
       "surface": "העדה",
-      "gloss": "społeczności"
+      "gloss": "tej społeczności"
     },
     {
       "surface": "הזאת",
       "gloss": "tej"
     },
     {
-      "surface": "ויאמרו",
-      "gloss": ""
+      "surface": "ואכלה",
+      "gloss": "a pochłonę"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩nich",
-      "marks": "nich (tę społeczność)"
+      "gloss": "⟨את⟩",
+      "marks": "nich (tj. tę społeczność)"
     },
     {
       "surface": "כרגע",
       "gloss": "w jednej chwili"
-    },
-    {
-      "surface": "ואכלה",
-      "gloss": "a pochłonę"
     }
   ],
-  "timestamp": "2026-08-24T22:55:59.478263646Z",
+  "timestamp": "2026-08-25T05:47:20.745621257Z",
   "model": "glm-5.3"
 }

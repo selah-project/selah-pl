@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I wszystkiego, czego żądały moje oczy, nie odmówiłem im; nie wzbraniam sercu mego żadnej radości, bo moje serce radowało się z całego mojego trudu — i to był mój dział z całego mojego trudu.",
+  "translation": "I wszystko, czego zażądały moje oczy, nie odmówiłem im; nie wzbraniałem ⟨את⟩ serca mego przed żadną radością, bo serce moje radowało się z całego mojego trudu; a to był dział mój z całego mojego trudu.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "i wszystkiego"
+      "gloss": "i wszystko"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שאלו",
-      "gloss": "żądały"
+      "gloss": "zażądały"
     },
     {
       "surface": "עיני",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "מנעתי",
-      "gloss": "wzbraniam"
+      "gloss": "wzbraniałem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sercu memu"
+      "marks": "serca mego"
     },
     {
       "surface": "לבי",
-      "gloss": "sercu memu"
+      "gloss": "serca mego"
     },
     {
       "surface": "מכל",
-      "gloss": "żadnej"
+      "gloss": "przed żadną"
     },
     {
       "surface": "שמחה",
-      "gloss": "radości"
+      "gloss": "radością"
     },
     {
       "surface": "כי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לבי",
-      "gloss": "moje serce"
+      "gloss": "serce moje"
     },
     {
       "surface": "שמח",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "i to"
+      "gloss": "a to"
     },
     {
       "surface": "היה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "חלקי",
-      "gloss": "mój dział"
+      "gloss": "dział mój"
     },
     {
       "surface": "מכל",
@@ -101,6 +101,6 @@
       "gloss": "mojego trudu"
     }
   ],
-  "timestamp": "2026-08-25T02:31:05.337529266Z",
+  "timestamp": "2026-08-25T06:21:05.462824751Z",
   "model": "glm-5.3"
 }

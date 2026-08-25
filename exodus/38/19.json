@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 38,
-  "translation": "A słupy ich cztery, a podstawy ich cztery ⟨z⟩ miedzi, haki ich ze srebra, i okładzina ich głowic i ich obręczy ze srebra.",
+  "translation": "A ich słupy cztery, i ich podstawy cztery z brązu; ich haki ze srebra, i okucie ich głowic, i ich obręcze ze srebra.",
   "tokens": [
     {
       "surface": "ועמדיהם",
-      "gloss": "a słupy ich"
+      "gloss": "a ich słupy"
     },
     {
       "surface": "ארבעה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": "a podstawy ich"
+      "gloss": "i ich podstawy"
     },
     {
       "surface": "ארבעה",
@@ -25,29 +25,33 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "miedzi"
+      "gloss": "brąz"
     },
     {
-      "surface": "ועשריםאמהלא",
-      "gloss": ""
-    },
-    {
-      "surface": "וצפוי",
-      "gloss": "i okładzina"
-    },
-    {
-      "surface": "ראשיהם",
-      "gloss": "ich głowic"
-    },
-    {
-      "surface": "וחשקיהם",
-      "gloss": "i ich obręczy"
+      "surface": "וגויהם",
+      "gloss": "ich haki"
     },
     {
       "surface": "כסף",
-      "gloss": "srebra"
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "i okucie"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ich głowice"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "i ich obręcze"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
     }
   ],
-  "timestamp": "2026-08-24T22:38:37.310612788Z",
+  "timestamp": "2026-08-25T06:59:58.195825433Z",
   "model": "glm-5.3"
 }

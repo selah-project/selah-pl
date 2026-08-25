@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Albo nefesz, która dotknie czegokolwiek nieczystego — albo padliny nieczystego zwierza, albo padliny nieczystego bydła, albo padliny nieczystego robactwa — i było to ukryte przed nim, a ⟨on⟩ nieczysty i zawini.",
+  "translation": "Albo jeśli nefesz dotknie jakiegokolwiek rzeczy nieczystej, albo w padlinie zwierzęcia nieczystego, albo w padlinie bydła nieczystego, albo w padlinie płazu nieczystego, i ukryje się to przed nim, a ⟨on⟩ nieczysty jest — i winien ⟨będzie⟩.",
   "tokens": [
     {
       "surface": "או",
-      "gloss": "albo"
+      "gloss": "Albo"
     },
     {
       "surface": "נפש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "która"
+      "gloss": "jeśli"
     },
     {
       "surface": "תגע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "czegokolwiek"
+      "gloss": "jakiegokolwiek"
     },
     {
       "surface": "דבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "טמא",
-      "gloss": "nieczystego"
+      "gloss": "nieczystej"
     },
     {
       "surface": "או",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "חיה",
-      "gloss": "zwierza"
+      "gloss": "zwierzęcia"
     },
     {
       "surface": "טמאה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "שרץ",
-      "gloss": "robactwa"
+      "gloss": "płazu"
     },
     {
       "surface": "טמא",
@@ -85,15 +85,15 @@
     },
     {
       "surface": "ונעלם",
-      "gloss": "i było ukryte"
+      "gloss": "i ukryje się"
     },
     {
       "surface": "ממנו",
-      "gloss": "przed nim"
+      "gloss": "to przed nim"
     },
     {
       "surface": "והוא",
-      "gloss": "a on"
+      "gloss": "a ⟨on⟩"
     },
     {
       "surface": "טמא",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "i zawini"
+      "gloss": "i winien"
     }
   ],
-  "timestamp": "2026-08-24T22:41:48.775395154Z",
+  "timestamp": "2026-08-25T05:42:42.175149542Z",
   "model": "glm-5.3"
 }

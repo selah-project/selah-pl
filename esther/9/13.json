@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I rzekła Ester: jeśli królowi ⟨to⟩ dobre, niech będzie dane też jutro Judejczykom, którzy w Szuszanie, żeby czynić według ustawy dzisiejszego dnia, a ⟨את⟩ dziesięciu synów Hamana niech zawieszą na drzewie.",
+  "translation": "I rzekła Ester: Jeżeli królowi ⟨to jest⟩ dobre, niech jutro także będzie dane Jehudim, którzy są w Szuszan, czynić według ustawy dzisiejszego dnia, a ⟨את⟩ dziesięciu synów Hamana niech powieszą na drzewie.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "i rzekła"
+      "gloss": "I rzekła"
     },
     {
       "surface": "אסתר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "Jeżeli"
     },
     {
       "surface": "על",
-      "gloss": "dla"
+      "gloss": ""
     },
     {
       "surface": "המלך",
-      "gloss": "króla"
+      "gloss": "królowi"
     },
     {
       "surface": "טוב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "też"
+      "gloss": "także"
     },
     {
       "surface": "מחר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ליהודים",
-      "gloss": "Judejczykom"
+      "gloss": "Jehudim"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "בשושן",
-      "gloss": "w Szuszanie"
+      "gloss": "w Szuszan"
     },
     {
       "surface": "לעשות",
-      "gloss": "żeby czynić"
+      "gloss": "czynić"
     },
     {
       "surface": "כדת",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "יתלו",
-      "gloss": "niech zawieszą"
+      "gloss": "niech powieszą"
     },
     {
       "surface": "על",
@@ -97,6 +97,6 @@
       "gloss": "drzewie"
     }
   ],
-  "timestamp": "2026-08-25T02:35:34.330434548Z",
+  "timestamp": "2026-08-25T06:22:04.669011378Z",
   "model": "glm-5.3"
 }

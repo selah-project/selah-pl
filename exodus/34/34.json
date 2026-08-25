@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 34,
-  "translation": "A gdy przychodził Mosże przed oblicze Jahwe, aby mówić ⟨z⟩ Nim, zdejmował ⟨את⟩ zasłonę, aż wyszedł; i wychodził, i mówił do synów Jisraela ⟨את⟩ to, co mu nakazano.",
+  "translation": "A gdy wchodził Mosze przed oblicze Jahwe, aby mówić ⟨z⟩ ⟨את⟩ nim, zdejmował zasłonę, aż wyszedł; i wychodził, i mówił do synów Jisraela ⟨את⟩ to, co mu nakazano.",
   "tokens": [
     {
       "surface": "ובבא",
-      "gloss": "a gdy przychodził"
+      "gloss": "a gdy wchodził"
     },
     {
       "surface": "משה",
@@ -29,8 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "z Nim (przyimek 'z' + sufiks)"
+      "gloss": "⟨את⟩ nim"
     },
     {
       "surface": "יסיר",
@@ -87,6 +86,6 @@
       "gloss": "nakazano"
     }
   ],
-  "timestamp": "2026-08-24T22:36:28.861908894Z",
+  "timestamp": "2026-08-25T05:42:44.821215638Z",
   "model": "glm-5.3"
 }

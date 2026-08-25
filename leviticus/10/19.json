@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I przemówił Aharon do Moszego: Oto dziś złożyli ⟨את⟩ ofiarę za swój grzech i ⟨את⟩ swoje całopalenie przed Jahwe, a spotkały mnie ⟨את⟩ takie rzeczy — gdybym dziś zjadł ofiarę za grzech, czy byłoby to dobre w oczach Jahwe?",
+  "translation": "I przemówił Aharon do Moszego: Oto dziś złożyli ⟨את⟩ swoją ofiarę za grzech i ⟨את⟩ swoją ofiarę całopalną przed Jahwe, a spotkały ⟨את⟩ mnie takie rzeczy — gdybym dziś zjadł ofiarę za grzech, czy byłoby to dobre w oczach Jahwe?",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "I przemówił"
+      "gloss": "i przemówił"
     },
     {
       "surface": "אהרן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הן",
-      "gloss": "Oto"
+      "gloss": "oto"
     },
     {
       "surface": "היום",
@@ -38,20 +38,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofiarę za swój grzech"
+      "marks": "swoją ofiarę za grzech"
     },
     {
       "surface": "חטאתם",
-      "gloss": "ofiarę za swój grzech"
+      "gloss": "swoją ofiarę za grzech"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "swoje całopalenie"
+      "marks": "swoją ofiarę całopalną"
     },
     {
       "surface": "עלתם",
-      "gloss": "swoje całopalenie"
+      "gloss": "swoją ofiarę całopalną"
     },
     {
       "surface": "לפני",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ mnie",
       "marks": "mnie"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "surface": "הייטב",
-      "gloss": "byłoby dobre"
+      "gloss": "czy byłoby to dobre"
     },
     {
       "surface": "בעיני",
@@ -99,6 +99,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:43:29.100910015Z",
+  "timestamp": "2026-08-25T05:43:39.695150093Z",
   "model": "glm-5.3"
 }

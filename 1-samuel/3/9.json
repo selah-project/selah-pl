@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł Eli do Szemuela: Idź, połóż się, i będzie, jeśli zawoła na ciebie, to powiesz: Mów, Jahwe, bo słucha sługa twój. I poszedł Szemuel i położył się na swoim miejscu.",
+  "translation": "I rzekł Eli do Szemuela: Idź, połóż się, i ⟨będzie⟩, jeśli zawoła cię, to powiesz: Mów, Jahwe, bo słucha sługa twój. I poszedł Szemuel i położył się na miejscu swoim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "i będzie"
+      "gloss": "i ⟨będzie⟩"
     },
     {
       "surface": "אם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "na ciebie"
+      "gloss": "cię"
     },
     {
       "surface": "ואמרת",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "במקומו",
-      "gloss": "na swoim miejscu"
+      "gloss": "na miejscu swoim"
     }
   ],
-  "timestamp": "2026-08-24T23:34:23.045575747Z",
+  "timestamp": "2026-08-25T05:55:31.792733611Z",
   "model": "glm-5.3"
 }

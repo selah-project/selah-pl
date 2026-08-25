@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A teraz nie uznaj go za niewinnego, bo mężem mądrym ⟨jesteś⟩, i będziesz wiedział ⟨את⟩ to, co masz mu uczynić, i sprowadzisz jego siwiznę krwią do Szeolu.",
+  "translation": "A teraz nie uznaj go za niewinnego, bo mężem mądrym jesteś, i poznasz ⟨את⟩ to, co mu uczynisz, i sprowadzisz jego siwą głowę w krwi do Szeolu.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "jesteś"
     },
     {
       "surface": "וידעת",
-      "gloss": "i będziesz wiedział"
+      "gloss": "i poznasz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co masz mu uczynić"
+      "marks": "to, co mu uczynisz"
     },
     {
       "surface": "אשר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "masz uczynić"
+      "gloss": "uczynisz"
     },
     {
       "surface": "לו",
@@ -63,21 +63,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jego siwiznę"
+      "marks": "jego siwą głowę"
     },
     {
       "surface": "שיבתו",
-      "gloss": "jego siwiznę"
+      "gloss": "jego siwa głowa"
     },
     {
       "surface": "בדם",
-      "gloss": "krwią"
+      "gloss": "w krwi"
     },
     {
       "surface": "שאול",
       "gloss": "do Szeolu"
     }
   ],
-  "timestamp": "2026-08-24T23:55:25.636899404Z",
+  "timestamp": "2026-08-25T05:58:32.816145995Z",
   "model": "glm-5.3"
 }

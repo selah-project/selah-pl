@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I wziął Manoach ⟨את⟩ kozła z kóz i ⟨את⟩ ofiarę pokarmową, i złożył ⟨to⟩ na skale dla Jahwe; a ⟨on⟩ działał cudownie, gdy Manoach i żona jego patrzyli.",
+  "translation": "I wziął Manoach ⟨את⟩ koźlę kóz oraz ⟨את⟩ ofiarę pokarmową, i złożył ją na skale dla Jahwe, a ⟨on⟩ uczynił cuda — i Manoach wraz z żoną swoją patrzyli.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kozła"
+      "marks": "koźlę kóz"
     },
     {
       "surface": "גדי",
-      "gloss": "kozła"
+      "gloss": "koźlę"
     },
     {
       "surface": "העזים",
-      "gloss": "z kóz"
+      "gloss": "kóz"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "oraz ⟨את⟩",
       "marks": "ofiarę pokarmową"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "i złożył \/ wzniosł"
+      "gloss": "i złożył"
     },
     {
       "surface": "על",
@@ -55,25 +55,25 @@
     },
     {
       "surface": "ומפלא",
-      "gloss": "a działał cudownie"
+      "gloss": "a uczynił cuda"
     },
     {
       "surface": "לעשות",
-      "gloss": "działając"
+      "gloss": "czyniąc"
     },
     {
       "surface": "ומנוח",
-      "gloss": "a Manoach"
+      "gloss": "i Manoach"
     },
     {
       "surface": "ואשתו",
-      "gloss": "i żona jego"
+      "gloss": "wraz z żoną swoją"
     },
     {
       "surface": "ראים",
       "gloss": "patrzyli"
     }
   ],
-  "timestamp": "2026-08-24T23:29:22.626677211Z",
+  "timestamp": "2026-08-25T05:54:17.663776462Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I pamiętaj, że byłeś niewolnikiem w Micraim, i wykupił cię Jahwe, Elohim twój, stamtąd; dlatego ja rozkazuję ci uczynić ⟨את⟩ ⟨to⟩ ⟨słowo⟩ to.",
+  "translation": "I będziesz pamiętał, że byłeś niewolnikiem w Micrajim, i wykupił cię Jahwe, Elohim twój, stamtąd; dlatego ja nakazuję ci uczynić ⟨את⟩ to słowo to.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "i pamiętaj"
+      "gloss": "i będziesz pamiętał"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "במצרים",
-      "gloss": "w Micraim"
+      "gloss": "w Micrajim"
     },
     {
       "surface": "ויפדך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "to \/ dlatego"
+      "gloss": "totej"
     },
     {
       "surface": "אנכי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "rozkazuję ci"
+      "gloss": "nakazuję ci"
     },
     {
       "surface": "לעשות",
@@ -66,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowo to"
+      "marks": "to słowo"
     },
     {
       "surface": "הדבר",
@@ -77,6 +77,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T23:12:29.668461468Z",
+  "timestamp": "2026-08-25T05:51:20.817221154Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 31,
-  "translation": "Z ich połowy weźmiecie i dasz Awiatarowi…",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:01:43.018826180Z",
+  "translation": "Z ich połowy weźmiecie, i dasz Eleazarowi, kapłanowi, terumę Jahwe.",
+  "tokens": [
+    {
+      "surface": "ממחציתם",
+      "gloss": "z ich połowy"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "weźmiecie"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "i dasz"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "Eleazarowi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłanowi"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T05:49:14.764799243Z",
   "model": "glm-5.3"
 }

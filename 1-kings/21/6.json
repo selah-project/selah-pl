@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I mówił do niej: Gdyż mówiłem do Nawota Jizreelczyka i rzekłem mu: Daj mi ⟨את⟩ twoją winnicę za srebro, albo jeśli ci to miłe, dam ci winnicę w zamian za nią; a on rzekł: Nie dam ci ⟨את⟩ mojej winnicy.",
+  "translation": "I mówił do niej: Gdyż mówiłem do Nabota Jizreelyty i powiedziałem mu: Daj mi ⟨את⟩ winnicę twoją za srebro, a jeśli ci się podoba, dam ci winnicę w jej miejsce. Lecz on powiedział: Nie dam ci ⟨את⟩ winnicy mojej.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "נבות",
-      "gloss": "Nawota"
+      "gloss": "Nabota"
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "Jizreelczyka"
+      "gloss": "Jizreelyty"
     },
     {
       "surface": "ואמר",
-      "gloss": "i rzekłem"
+      "gloss": "i powiedziałem"
     },
     {
       "surface": "לו",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "twoją winnicę"
+      "marks": "winnicę twoją"
     },
     {
       "surface": "כרמך",
-      "gloss": "twoją winnicę"
+      "gloss": "winnicę twoją"
     },
     {
       "surface": "בכסף",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "ci to miłe"
+      "gloss": "ci się podoba"
     },
     {
       "surface": "אתה",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "w zamian za nią"
+      "gloss": "w jej miejsce"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a on rzekł"
+      "gloss": "i powiedział"
     },
     {
       "surface": "לא",
@@ -115,13 +115,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mojej winnicy"
+      "marks": "winnicy mojej"
     },
     {
       "surface": "כרמי",
-      "gloss": "mojej winnicy"
+      "gloss": "winnicy mojej"
     }
   ],
-  "timestamp": "2026-08-25T00:06:13.759938038Z",
+  "timestamp": "2026-08-25T06:30:54.017530814Z",
   "model": "glm-5.3"
 }

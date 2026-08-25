@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I wyszedł król Sedomu oraz król Amory, król Admy, król Cewoim i król Beli — to ⟨jest⟩ Coar — i ustawili ⟨את⟩ nich ⟨do⟩ bitwy w dolinie ha-Siddim.",
+  "translation": "I wyszedł król Sedomu, i król Amory, i król Admy, i król Ceboim, i król Beli — to ⟨jest⟩ Coar — i ustawili ⟨את⟩ nich bitwę w dolinie Siddim.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "oraz król"
+      "gloss": "i król"
     },
     {
       "surface": "עמרה",
       "gloss": "Amory"
     },
     {
-      "surface": "ו מלך",
-      "gloss": "król"
+      "surface": "ומלך",
+      "gloss": "i król"
     },
     {
       "surface": "אדמה",
@@ -37,14 +37,14 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "król"
+      "gloss": "i król"
     },
     {
       "surface": "צביים",
-      "gloss": "Cewoim"
+      "gloss": "Ceboim"
     },
     {
-      "surface": "ו מלך",
+      "surface": "ומלך",
       "gloss": "i król"
     },
     {
@@ -65,12 +65,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "nich"
+      "gloss": "⟨את⟩ nich"
     },
     {
       "surface": "מלחמה",
-      "gloss": "bitwy"
+      "gloss": "bitwę"
     },
     {
       "surface": "בעמק",
@@ -78,9 +77,9 @@
     },
     {
       "surface": "השדים",
-      "gloss": "ha-Siddim"
+      "gloss": "Siddim"
     }
   ],
-  "timestamp": "2026-08-25T04:04:38.007648876Z",
+  "timestamp": "2026-08-25T05:37:10.829047287Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I napisała Ester, ⟨the⟩ królowa, córka Awichajila, oraz Mordechaj, ⟨the⟩ Żyd, ⟨את⟩ całą moc ⟨potwierdzenia⟩, aby potwierdzić ⟨את⟩ list o Purim ten drugi.",
+  "translation": "I napisała Ester, królowa, córka Awichaila, i Mordechaj, Jehudyjczyk, ⟨את⟩ całą moc tego listu o Purim, by utwierdzić ⟨את⟩ ten list drugi.",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אביחיל",
-      "gloss": "Awichajila"
+      "gloss": "Awichaila"
     },
     {
       "surface": "ומרדכי",
-      "gloss": "oraz Mordechaj"
+      "gloss": "i Mordechaj"
     },
     {
       "surface": "היהודי",
-      "gloss": "Żyd"
+      "gloss": "Jehudyjczyk"
     },
     {
       "surface": "את",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "לקים",
-      "gloss": "aby potwierdzić"
+      "gloss": "by utwierdzić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "list"
+      "marks": "ten list"
     },
     {
       "surface": "אגרת",
@@ -74,6 +74,6 @@
       "gloss": "drugi"
     }
   ],
-  "timestamp": "2026-08-25T02:35:46.209532413Z",
+  "timestamp": "2026-08-25T06:36:51.601007392Z",
   "model": "glm-5.3"
 }

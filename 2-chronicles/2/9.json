@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I oto rębaczom, ścinającym ⟨the⟩ drzewa, dałem tłuczonej pszenicy dla twoich sług: korów dwadzieścia tysięcy, i jęczmienia korów dwadzieścia tysięcy, i wina batów dwadzieścia tysięcy, i oliwy batów dwadzieścia tysięcy.",
+  "translation": "I oto rębaczom, ścinającym ⟨te⟩ drzewa, dałem pszenicę młóconą sługom twoim: korów dwadzieścia tysięcy, i jęczmienia korów dwadzieścia tysięcy, i wina batów dwadzieścia tysięcy, i oliwy batów dwadzieścia tysięcy.",
   "tokens": [
     {
       "surface": "והנה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "חטים",
-      "gloss": "pszenicy"
+      "gloss": "pszenicę"
     },
     {
       "surface": "מכות",
-      "gloss": "tłuczonej"
+      "gloss": "młóconą"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "dla twoich sług"
+      "gloss": "sługom twoim"
     },
     {
       "surface": "כרים",
@@ -100,6 +100,6 @@
       "gloss": "tysięcy"
     }
   ],
-  "timestamp": "2026-08-25T03:01:03.516017005Z",
+  "timestamp": "2026-08-25T07:03:14.330677151Z",
   "model": "glm-5.3"
 }

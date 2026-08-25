@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 22,
-  "translation": "I nie będą bezczeszcić ⟨את⟩ świętości synów Israela — ⟨את⟩ to, co podnoszą dla Jahwe —",
+  "translation": "I nie będą bezcześcić ⟨את⟩ świętości synów Jisraela, ⟨את⟩ tego, co podnoszą dla Jahwe.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "I nie"
+      "gloss": "i nie"
     },
     {
       "surface": "יחללו",
-      "gloss": "będą bezczeszcić"
+      "gloss": "będą bezcześcić"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "świętości synów Israela"
+      "marks": "świętości synów Jisraela"
     },
     {
       "surface": "קדשי",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israela"
+      "gloss": "Jisraela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co podnoszą"
+      "marks": "tego, co podnoszą dla Jahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "tego co"
     },
     {
       "surface": "ירימו",
@@ -50,6 +50,6 @@
       "gloss": "dla Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:47:09.180078355Z",
+  "timestamp": "2026-08-25T05:45:34.563696877Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I powiedzieli Pelisztowie: Kto uczynił to? I powiedzieli: Szimszon, zięć Timnijczyka, ponieważ wziął ⟨את⟩ swoją żonę i dał ją jego towarzyszowi. I weszli Pelisztowie i spalili ją oraz ⟨את⟩ jej ojca w ogniu.",
+  "translation": "I powiedzieli Pelisztim: kto zrobił to? I powiedzieli: Szimszon, zięć Timnitczyka, bo wziął ⟨את⟩ swoją żonę i dał ją swojemu towarzyszowi. I weszli Pelisztim i spalili ją oraz ⟨את⟩ jej ojca w ogniu.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelisztowie"
+      "gloss": "Pelisztim"
     },
     {
       "surface": "מי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "uczynił"
+      "gloss": "zrobił"
     },
     {
       "surface": "זאת",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "התמני",
-      "gloss": "Timnijczyka"
+      "gloss": "Timnitczyka"
     },
     {
       "surface": "כי",
-      "gloss": "ponieważ"
+      "gloss": "bo"
     },
     {
       "surface": "לקח",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "ויתנה",
-      "gloss": "i dał"
+      "gloss": "i dał ją"
     },
     {
       "surface": "למרעהו",
-      "gloss": "jego towarzyszowi"
+      "gloss": "swojemu towarzyszowi"
     },
     {
       "surface": "ויעלו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelisztowie"
+      "gloss": "Pelisztim"
     },
     {
       "surface": "וישרפו",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ nią"
+      "gloss": "⟨את⟩ ją"
     },
     {
       "surface": "ואת",
@@ -98,6 +98,6 @@
       "gloss": "w ogniu"
     }
   ],
-  "timestamp": "2026-08-24T23:30:25.573721299Z",
+  "timestamp": "2026-08-25T05:54:37.301255559Z",
   "model": "glm-5.3"
 }

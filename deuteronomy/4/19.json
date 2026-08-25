@@ -5,8 +5,124 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I abyś nie podniósł swoich oczu ku niebiosom i nie zobaczył ⟨את⟩ słońca, i ⟨את⟩ księżyca, i ⟨את⟩ gwiazd, całego wojsska niebios, i nie byłś odciągnięty, i nie pokłoniłś się im, i nie służyłś im — które Jahwe, twój Elohim, przydzielił ⟨את⟩-im wszystkim ludom pod wszystkimi niebiosami",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:05:19.201420891Z",
+  "translation": "I abyś nie podniósł swoich oczu ku niebiosom i nie ujrzał słońca oraz księżyca oraz gwiazd, wszystkiego wojska niebios, i nie był odciągnięty, i nie pokłonił się im, i nie służył im — które Jahwe, twój Elohim, przydzielił ⟨את⟩ wszystkim ludom pod wszystkimi niebiosami",
+  "tokens": [
+    {
+      "surface": "ופן",
+      "gloss": "i abyś nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "podniósł"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "swoich oczu"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ku niebiosom"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słońca"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "księżyca"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "księżyca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "gwiazd"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "gwiazd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wojska"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "i nie był odciągnięty"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "i nie pokłonił się"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i nie służył"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "przydzielił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkimi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosami"
+    }
+  ],
+  "timestamp": "2026-08-25T05:50:22.007578354Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I ukazał się posłaniec Jahwe kobiecie i rzekł do niej: Oto teraz ty ⟨jesteś⟩ niepłodna i nie rodziłaś, a poczniesz i urodzisz syna.",
+  "translation": "I ukazał się posłaniec Jahwe tej kobiecie i rzekł do niej: Oto teraz ty ⟨jesteś⟩ niepłodna i nie rodziłaś — lecz poczniesz i porodzisz syna.",
   "tokens": [
     {
       "surface": "וירא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "tej"
     },
     {
       "surface": "האשה",
-      "gloss": "kobiety"
+      "gloss": "kobiecie"
     },
     {
       "surface": "ויאמר",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "נא",
-      "gloss": "teraz\/że"
+      "gloss": "teraz"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ty — niepłodna"
+      "gloss": "ty",
+      "marks": "עקרה — niepłodna"
     },
     {
       "surface": "עקרה",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "והרית",
-      "gloss": "a poczniesz"
+      "gloss": "lecz poczniesz"
     },
     {
       "surface": "וילדת",
-      "gloss": "i urodzisz"
+      "gloss": "i porodzisz"
     },
     {
       "surface": "בן",
       "gloss": "syna"
     }
   ],
-  "timestamp": "2026-08-24T23:29:40.352235056Z",
+  "timestamp": "2026-08-25T05:54:19.303911625Z",
   "model": "glm-5.3"
 }

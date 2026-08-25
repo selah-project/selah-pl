@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I powiesz do nich: Tak mówi Jahwe Cevaot: Tak rozbiję ⟨את⟩ ten lud i ⟨את⟩ to miasto, jak rozbija się ⟨את⟩ naczynie garncarza, którego nie da się już naprawić; i w Tofet będą grzebać, bo zabraknie miejsca na grzebanie.",
+  "translation": "I powiesz do nich: Tak rzekł Jahwe Sebaot: Tak rozbiję ⟨את⟩ ten lud i ⟨את⟩ to miasto, jak rozbija się ⟨את⟩ naczynie garncarza, którego nie da się już naprawić; i w Tofet będą ich grzebać, bo zabraknie miejsca na grzebanie.",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "mówi"
+      "gloss": "rzekł"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Cevaot"
+      "gloss": "Sebaot"
     },
     {
       "surface": "ככה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "ten lud"
+      "gloss": "lud"
     },
     {
       "surface": "הזה",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "to miasto"
     },
     {
       "surface": "העיר",
-      "gloss": "to miasto"
+      "gloss": "miasto"
     },
     {
       "surface": "הזאת",
@@ -76,7 +76,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "naczynie"
+      "marks": "naczynie garncarza"
     },
     {
       "surface": "כלי",
@@ -127,6 +127,6 @@
       "gloss": "na grzebanie"
     }
   ],
-  "timestamp": "2026-08-25T00:49:53.480739690Z",
+  "timestamp": "2026-08-25T06:08:46.126419964Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 12,
-  "translation": "I będzie ⟨to⟩ miejsce, które wybierze Jahwe, Elohim wasz, aby mieszkało w nim Jego Imię — tam przyniesiecie ⟨את⟩ wszystko, co ja ⟨את⟩ wam nakazuję: wasze całopalenia i wasze ofiary, wasze dziesięciny i dary waszych rąk, i wszystko najlepsze z waszych ślubów, które ślubujecie Jahwe.",
+  "translation": "I stanie się ⟨to⟩: miejsce, które wybierze Jahwe, wasz Elohim, aby tam mieszkało Jego imię — tam przyniesiecie ⟨את⟩ wszystko, co ja nakazuję wam: wasze całopalenia i wasze ofiary, wasze dziesięciny i podniesiny waszej ręki, i wszystko, co najlepsze z waszych ślubów, które ślubujecie Jahwe.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "i będzie"
+      "gloss": "i stanie się"
     },
     {
       "surface": "המקום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim wasz"
+      "gloss": "wasz Elohim"
     },
     {
       "surface": "בו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "Jego Imię"
+      "gloss": "Jego imię"
     },
     {
       "surface": "שם",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wszystko"
+      "marks": "wszystko, co ja nakazuję wam"
     },
     {
       "surface": "כל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ wam"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "עולתיכם",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "ותרמת",
-      "gloss": "i dary"
+      "gloss": "i podniesiny"
     },
     {
       "surface": "ידכם",
-      "gloss": "waszych rąk"
+      "gloss": "waszej ręki"
     },
     {
       "surface": "וכל",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "מבחר",
-      "gloss": "najlepsze"
+      "gloss": "co najlepsze"
     },
     {
       "surface": "נדריכם",
@@ -125,6 +125,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:09:34.723787169Z",
+  "timestamp": "2026-08-25T06:29:07.813452253Z",
   "model": "glm-5.3"
 }

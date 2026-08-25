@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I obejrzy ⟨את⟩ ją kapłan, a oto obrócił się włos w biały w jasnej plamie i jej wygląd ⟨jest⟩ głębszy od skóry — cara to ⟨jest⟩, w oparzeniu wykwitła, i uzna go za nieczystego kapłan; nagroda cars to ⟨jest⟩.",
+  "translation": "I obejrzy ⟨את⟩ ją kapłan, a oto zmienił się włos na biały w jasnej plamie i jej wygląd ⟨jest⟩ głębszy od skóry — cara ⟨to⟩, w oparzeniu wypłynęła; i uzna ⟨את⟩ go za nieczystego kapłan, zaraza cary ⟨to⟩.",
   "tokens": [
     {
       "surface": "וראה",
@@ -14,7 +14,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (jasną plamę)"
     },
     {
       "surface": "הכהן",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "נהפך",
-      "gloss": "obrócił się"
+      "gloss": "zmienił się"
     },
     {
       "surface": "שער",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לבן",
-      "gloss": "w biały"
+      "gloss": "na biały"
     },
     {
       "surface": "בבהרת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "במכוה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "פרחה",
-      "gloss": "wykwitła"
+      "gloss": "wypłynęła"
     },
     {
       "surface": "וטמא",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ go",
+      "gloss": "⟨את⟩",
       "marks": "go"
     },
     {
@@ -87,17 +87,17 @@
     },
     {
       "surface": "נגע",
-      "gloss": "nagroda"
+      "gloss": "zaraza"
     },
     {
       "surface": "צרעת",
-      "gloss": "cars"
+      "gloss": "cary"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "⟨to⟩"
     }
   ],
-  "timestamp": "2026-08-24T22:44:41.612915655Z",
+  "timestamp": "2026-08-25T05:44:22.358931969Z",
   "model": "glm-5.3"
 }

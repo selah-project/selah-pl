@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 5,
-  "translation": "A teraz dlaczego mamy umrzeć, bo pochłonie nas ten wielki ogień — jeśli nadal będziemy słuchać ⟨את⟩ głosu Jahwe, Elohim naszego, jeszcze, to umrzemy.",
+  "translation": "A teraz dlaczego mamy umrzeć? Bo pożre nas ten ogień wielki, jeśli będziemy nadal słuchać ⟨את⟩ głosu Jahwe, Elohima naszego, i umrzemy.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "pochłonie nas"
+      "gloss": "pożre nas"
     },
     {
       "surface": "האש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הגדלה",
-      "gloss": "ten wielki"
+      "gloss": "wielki"
     },
     {
       "surface": "הזאת",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "głos"
+      "marks": "głosu Jahwe, Elohima naszego"
     },
     {
       "surface": "קול",
-      "gloss": "głos"
+      "gloss": "głosu"
     },
     {
       "surface": "יהוה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim naszego"
+      "gloss": "Elohima naszego"
     },
     {
       "surface": "עוד",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ומתנו",
-      "gloss": "to umrzemy"
+      "gloss": "i umrzemy"
     }
   ],
-  "timestamp": "2026-08-24T23:05:40.973179861Z",
+  "timestamp": "2026-08-25T05:49:43.495904005Z",
   "model": "glm-5.3"
 }

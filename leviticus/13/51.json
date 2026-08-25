@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 13,
-  "translation": "I przyjrzy się ⟨את⟩ znamieniu w dniu siódmym: jeśli rozszerzyło się znamię w szacie, lub w osnowie, lub w wątku, lub w skórze, do wszystkiego, co się robi ze skóry do pracy — to trąd złośliwy ⟨jest⟩ znamieniem, nieczyste ⟨jest⟩.",
+  "translation": "I obejrzy ⟨את⟩ zarazę dnia siódmego, jeśli rozprzestrzeniła się zaraza w szacie albo w osnowie, albo w wątku, albo w skórze — we wszystkim, co skóra ma służyć do pracy — trąd usilnie_gryzący ⟨jest⟩ ta zaraza: nieczyste ⟨to⟩.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "i przyjrzy się"
+      "gloss": "i obejrzy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "znamieniu"
+      "marks": "zarazę"
     },
     {
       "surface": "הנגע",
-      "gloss": "znamieniu"
+      "gloss": "zaraza"
     },
     {
       "surface": "ביום",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "jeśli\/bo"
+      "gloss": "jeśli"
     },
     {
       "surface": "פשה",
-      "gloss": "rozszerzyło się"
+      "gloss": "rozprzestrzeniła się"
     },
     {
       "surface": "הנגע",
-      "gloss": "znamię"
+      "gloss": "zaraza"
     },
     {
       "surface": "בבגד",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "בשתי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "בערב",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "או",
-      "gloss": "lub"
+      "gloss": "albo"
     },
     {
       "surface": "בעור",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "do wszystkiego"
+      "gloss": "we wszystkim"
     },
     {
       "surface": "אשר",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "się robi"
+      "gloss": "służy"
     },
     {
       "surface": "העור",
-      "gloss": "ze skóry"
+      "gloss": "skóra"
     },
     {
       "surface": "למלאכה",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "ממארת",
-      "gloss": "złośliwy"
+      "gloss": "usilnie gryzący"
     },
     {
       "surface": "הנגע",
-      "gloss": "znamieniem"
+      "gloss": "zaraza"
     },
     {
       "surface": "טמא",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "to"
     }
   ],
-  "timestamp": "2026-08-24T22:44:29.494081760Z",
+  "timestamp": "2026-08-25T06:28:36.275466249Z",
   "model": "glm-5.3"
 }

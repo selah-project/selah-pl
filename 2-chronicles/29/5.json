@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I rzekł do nich: Słuchajcie mnie, lewici! Teraz uświęćcie się i uświęćcie ⟨את⟩ dom Jahwe, Elohim ojców waszych, i wynieście ⟨את⟩ nieczystość z ⟨the⟩ świątyni.",
+  "translation": "I rzekł do nich: Słuchajcie mnie, Lewici! Teraz uświęćcie się i uświęćcie ⟨את⟩ dom Jahwe, Elohim waszych ojców, i wynieście ⟨את⟩ nieczystość z ⟨ה⟩ świętości.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "lewici"
+      "gloss": "Lewici"
     },
     {
       "surface": "עתה",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dom"
+      "marks": "dom Jahwe"
     },
     {
       "surface": "בית",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "ojców waszych"
+      "gloss": "waszych ojców"
     },
     {
       "surface": "והוציאו",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "świątyni"
+      "gloss": "⟨ה⟩ świętości"
     }
   ],
-  "timestamp": "2026-08-25T03:09:03.384493278Z",
+  "timestamp": "2026-08-25T06:26:55.375600100Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 18,
-  "translation": "Gdyż poznałem go, aby przykazał swoim synom i swojemu domowi po sobie, a oni strzegli drogi Jahwe, czyniąc sprawiedliwość i prawo, aby Jahwe sprowadził na Awrahama ⟨את⟩ to, co powiedział o nim.",
+  "translation": "Gdyż poznałem go, aby tak nakazywał swoim synom i ⟨את⟩ swemu domowi po sobie, i strzegli drogi Jahwe, czyniąc sprawiedliwość i prawo, aby Jahwe sprowadził na Awrahama ⟨את⟩ to, co powiedział o nim.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "że"
+      "gloss": "tak"
     },
     {
       "surface": "יצוה",
-      "gloss": "przykazał"
+      "gloss": "nakazywał"
     },
     {
       "surface": "את",
@@ -39,11 +39,11 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "swojemu domowi"
+      "marks": "swemu domowi"
     },
     {
       "surface": "ביתו",
-      "gloss": "swojemu domowi"
+      "gloss": "swemu domowi"
     },
     {
       "surface": "אחריו",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ושמרו",
-      "gloss": "a oni strzegli"
+      "gloss": "i strzegli"
     },
     {
       "surface": "דרך",
@@ -96,11 +96,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co powiedział o nim"
+      "marks": "to, co powiedział"
     },
     {
       "surface": "אשר",
-      "gloss": "to co"
+      "gloss": "co"
     },
     {
       "surface": "דבר",
@@ -111,6 +111,6 @@
       "gloss": "o nim"
     }
   ],
-  "timestamp": "2026-08-24T22:13:38.989783946Z",
+  "timestamp": "2026-08-25T05:37:32.583146306Z",
   "model": "glm-5.3"
 }

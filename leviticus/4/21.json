@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I wyprowadzi ⟨את⟩ cielca na zewnątrz obozu i spali ⟨את⟩ go, tak jak spalił ⟨את⟩ pierwszego cielca — ⟨to⟩ ofiara za grzech zgromadzenia ⟨jest⟩.",
+  "translation": "I wyprowadzi ⟨את⟩ tego byczka na zewnątrz obozu i spali ⟨את⟩ go, tak jak spalił ⟨את⟩ pierwszego byczka — ofiara za grzech zgromadzenia ⟨to⟩ on.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cielca"
+      "marks": "tego byczka"
     },
     {
       "surface": "הפר",
-      "gloss": "cielca"
+      "gloss": "tego byczka"
     },
     {
       "surface": "אל",
-      "gloss": "do"
+      "gloss": "na"
     },
     {
       "surface": "מחוץ",
@@ -39,7 +39,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ go",
-      "marks": "cielca"
+      "marks": "⟨את⟩ z przyrostkiem — wskazuje na byczka"
     },
     {
       "surface": "כאשר",
@@ -52,15 +52,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pierwszego cielca"
+      "marks": "pierwszego byczka"
     },
     {
       "surface": "הפר",
-      "gloss": "pierwszego cielca"
+      "gloss": "byczka"
     },
     {
       "surface": "הראשון",
-      "gloss": ""
+      "gloss": "pierwszego"
     },
     {
       "surface": "חטאת",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "on"
     }
   ],
-  "timestamp": "2026-08-25T04:06:39.012885452Z",
+  "timestamp": "2026-08-25T06:28:21.845248400Z",
   "model": "glm-5.3"
 }

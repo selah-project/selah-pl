@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 48,
-  "translation": "A pięć tysięcy, które pozostaje w szerokości naprzeciw pięciu i dwudziestu tysięcy, ⟨to⟩ teren pospolity — dla miasta, na mieszkanie i na pastwisko; i miasto będzie w jego środku.",
+  "translation": "A pięć tysięcy pozostałych w szerokości, naprzeciw dwudziestu pięciu tysięcy — ⟨to⟩ rzecz profana ⟨jest⟩: dla miasta, na mieszkanie i na pastwisko; i będzie miasto w jego środku.",
   "tokens": [
     {
       "surface": "וחמשת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנותר",
-      "gloss": "które pozostaje"
+      "gloss": "pozostałych"
     },
     {
       "surface": "ברחב",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "licz"
+      "gloss": "oblicza"
     },
     {
       "surface": "חמשה",
-      "gloss": "pięciu"
+      "gloss": "pięć"
     },
     {
       "surface": "ועשרים",
-      "gloss": "i dwudziestu"
+      "gloss": "i dwadzieścia"
     },
     {
       "surface": "אלף",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "חל",
-      "gloss": "terenu pospolitego"
+      "gloss": "profana"
     },
     {
       "surface": "הוא",
@@ -76,6 +76,6 @@
       "gloss": "w jego środku"
     }
   ],
-  "timestamp": "2026-08-25T01:30:21.319572167Z",
+  "timestamp": "2026-08-25T06:13:29.794194722Z",
   "model": "glm-5.3"
 }

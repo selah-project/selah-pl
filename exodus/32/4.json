@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 32,
-  "translation": "I wziął ⟨to⟩ z ich ręki, i ukształtował ⟨את⟩ go rylcem, i uczynił go cielcem odlanym; i rzekli: Oto bogowie twoi, Jisraelu, którzy wyprowadzili cię z ziemi Micrajim.",
+  "translation": "I wziął ⟨את⟩ z ich ręki, i ukształtował to rylcem, i uczynił je cielcem lanym; i powiedzieli: „Oto bogowie twoi, Iszraelu, którzy wyprowadzili cię z ziemi Micrajim”.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -22,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "rylcem"
+      "marks": "to (rylcem)"
     },
     {
       "surface": "בחרט",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויעשהו",
-      "gloss": "i uczynił go"
+      "gloss": "i uczynił je"
     },
     {
       "surface": "עגל",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מסכה",
-      "gloss": "odlanym"
+      "gloss": "lanym"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "i rzekli"
+      "gloss": "i powiedzieli"
     },
     {
       "surface": "אלה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelu"
+      "gloss": "Iszraelu"
     },
     {
       "surface": "אשר",
@@ -73,6 +73,6 @@
       "gloss": "Micrajim"
     }
   ],
-  "timestamp": "2026-08-24T22:37:41.124661345Z",
+  "timestamp": "2026-08-25T05:42:31.065212751Z",
   "model": "glm-5.3"
 }

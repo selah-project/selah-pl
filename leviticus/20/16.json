@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 20,
-  "translation": "A kobieta, która zbliży się do jakiegokolwiek zwierzęcia, aby się z nim spółkować — zabijesz ⟨את⟩ tę kobietę i ⟨את⟩ to zwierzę: śmiercią niech będą zabici, ich krew na nich.",
+  "translation": "I ⟨jeśli⟩ kobieta zbliży się do jakiejkolwiek zwierzyny, by ją pokryć ⟨את⟩ ją — zabijesz ⟨את⟩ kobietę i ⟨את⟩ zwierzę; śmiercią będą umarani; ich krew ⟨jest⟩ na nich.",
   "tokens": [
     {
       "surface": "ואשה",
-      "gloss": "A kobieta"
+      "gloss": "i-kobieta"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תקרב",
-      "gloss": "zbliży się"
+      "gloss": "zbliży-się"
     },
     {
       "surface": "אל",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "כל",
-      "gloss": "jakiegokolwiek"
+      "gloss": "jakiejkolwiek"
     },
     {
       "surface": "בהמה",
-      "gloss": "zwierzęcia"
+      "gloss": "zwierzyny"
     },
     {
       "surface": "לרבעה",
-      "gloss": "aby się spółkować"
+      "gloss": "by-ją-pokryć"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "się (ja)"
+      "marks": "ją"
     },
     {
       "surface": "והרגת",
@@ -47,20 +47,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tę kobietę"
+      "marks": "kobietę"
     },
     {
       "surface": "האשה",
-      "gloss": "tę kobietę"
+      "gloss": "kobietę"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "to zwierzę"
+      "gloss": "i-⟨את⟩",
+      "marks": "zwierzę"
     },
     {
       "surface": "הבהמה",
-      "gloss": "to zwierzę"
+      "gloss": "zwierzę"
     },
     {
       "surface": "מות",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "יומתו",
-      "gloss": "niech będą zabici"
+      "gloss": "będą-umarani"
     },
     {
       "surface": "דמיהם",
-      "gloss": "ich krew"
+      "gloss": "ich-krew"
     },
     {
       "surface": "בם",
-      "gloss": "na nich"
+      "gloss": "na-nich"
     }
   ],
-  "timestamp": "2026-08-24T22:47:29.248991475Z",
+  "timestamp": "2026-08-25T06:29:08.860571164Z",
   "model": "glm-5.3"
 }

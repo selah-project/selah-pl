@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I weszli kapłani do wnętrza domu Jahwe, aby go oczyścić, i wynieśli ⟨את⟩ całą nieczystość, którą znaleźli w świątyni Jahwe, do dziedzińca domu Jahwe; a lewici odebrali ⟨to⟩, aby wynieść ⟨to⟩ na zewnątrz do potoku Kidron.",
+  "translation": "I weszli kapłani do wnętrza domu Jahwe, aby go oczyścić, i wynieśli ⟨את⟩ wszystkie nieczystości, które znaleźli w świątyni Jahwe, na dziedziniec domu Jahwe; a lewici przyjęli ⟨to⟩, aby wynieść ⟨to⟩ do potoku Kidron, na zewnątrz.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,19 +38,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "całą nieczystość"
+      "marks": "wszystkie nieczystości"
     },
     {
       "surface": "כל",
-      "gloss": "całą"
+      "gloss": "wszystkie"
     },
     {
       "surface": "הטמאה",
-      "gloss": "nieczystość"
+      "gloss": "nieczystości"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "które"
     },
     {
       "surface": "מצאו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לחצר",
-      "gloss": "do dziedzińca"
+      "gloss": "na dziedziniec"
     },
     {
       "surface": "בית",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ויקבלו",
-      "gloss": "a odebrali"
+      "gloss": "a przyjęli"
     },
     {
       "surface": "הלוים",
@@ -101,6 +101,6 @@
       "gloss": "na zewnątrz"
     }
   ],
-  "timestamp": "2026-08-25T03:55:47.217907245Z",
+  "timestamp": "2026-08-25T06:26:55.706977124Z",
   "model": "glm-5.3"
 }

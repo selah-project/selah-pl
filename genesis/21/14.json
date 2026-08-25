@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I wstał Awraham rano wczesnie, i wziął chleb oraz bukłak wody, i dał Hagar — położył ⟨to⟩ na jej ramię, także ⟨את⟩ dziecko — i odesłał ją; a ona odeszła i błąkała się na pustyni Beer-Szewa.",
+  "translation": "I wstał Awraham rano w poranku, i wziął chleb oraz bukłak wody, i dał ⟨את⟩ Hagar — położył ⟨to⟩ na jej ramieniu — i ⟨את⟩ dziecko, i odprawił ją; a ona poszła i błądziła na pustyni Beer-Szewa.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "i wstał rano wczesnie"
+      "gloss": "i wstał rano"
     },
     {
       "surface": "אברהם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "dla"
+      "gloss": "⟨ku⟩ Hagar"
     },
     {
       "surface": "הגר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "שכמה",
-      "gloss": "jej ramię"
+      "gloss": "jej ramieniu"
     },
     {
       "surface": "ואת",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "וישלחה",
-      "gloss": "i odesłał ją"
+      "gloss": "i odprawił ją"
     },
     {
       "surface": "ותלך",
-      "gloss": "a odeszła"
+      "gloss": "a ona poszła"
     },
     {
       "surface": "ותתע",
-      "gloss": "i błąkała się"
+      "gloss": "i błądziła"
     },
     {
       "surface": "במדבר",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "באר",
-      "gloss": "Beer"
+      "gloss": "Beer-"
     },
     {
       "surface": "שבע",
       "gloss": "Szewa"
     }
   ],
-  "timestamp": "2026-08-24T22:14:56.925371659Z",
+  "timestamp": "2026-08-25T05:37:44.487867344Z",
   "model": "glm-5.3"
 }

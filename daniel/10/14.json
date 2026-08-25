@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "pl",
   "chapter": 10,
-  "translation": "I przyszedłem, by ci dać zrozumieć ⟨את⟩ to, co spotka twój lud przy końcu dni, bo jeszcze ⟨jest⟩ widzenie na dni.",
+  "translation": "I przyszedłem, aby dać ci zrozumieć ⟨את⟩ to, co spotka twój lud w kresie dni, gdyż jeszcze ⟨jest⟩ widzenie na dni.",
   "tokens": [
     {
       "surface": "ובאתי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "להבינך",
-      "gloss": "by ci dać zrozumieć"
+      "gloss": "aby dać ci zrozumieć"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co spotka twój lud przy końcu dni"
+      "marks": "to, co spotka twój lud w kresie dni"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "באחרית",
-      "gloss": "przy końcu"
+      "gloss": "w kresie"
     },
     {
       "surface": "הימים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "עוד",
@@ -57,6 +57,6 @@
       "gloss": "na dni"
     }
   ],
-  "timestamp": "2026-08-25T02:41:30.639721027Z",
+  "timestamp": "2026-08-25T06:22:54.865312297Z",
   "model": "glm-5.3"
 }

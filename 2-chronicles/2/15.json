@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A my będziemy ścinać drzewa z ⟨the⟩ Libanu według wszelkiej twej potrzeby i sprowadzimy ci je tratwami po morzu do Jafy, a ty wyniesiesz ⟨את⟩ je do Jeruszalaim.",
+  "translation": "A my zetniemy drzewa z Lewanonu, według wszelkiej twej potrzeby, i sprowadzimy je tobie tratwami po morzu do Jaffo, a ty je wciągniesz do Jeruszalaim.",
   "tokens": [
     {
-      "surface": "ו אנחנו",
-      "gloss": "A my"
+      "surface": "ואנחנו",
+      "gloss": "a my"
     },
     {
       "surface": "נכרת",
-      "gloss": "będziemy ścinać"
+      "gloss": "zetniemy"
     },
     {
       "surface": "עצים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "Libanu"
+      "gloss": "Lewanonu"
     },
     {
       "surface": "ככל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "צרכך",
-      "gloss": "twej potrzeby"
+      "gloss": "twojej potrzeby"
     },
     {
       "surface": "ונביאם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     },
     {
       "surface": "רפסדות",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יפו",
-      "gloss": "do Jafy"
+      "gloss": "do Jaffo"
     },
     {
       "surface": "ואתה",
@@ -65,18 +65,18 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "wyniesiesz"
+      "gloss": "wciągniesz \/ wzniesiesz"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "je (drzewa)"
+      "gloss": "⟨את⟩ je",
+      "marks": "עצים — drzewa"
     },
     {
       "surface": "ירושלם",
       "gloss": "do Jeruszalaim"
     }
   ],
-  "timestamp": "2026-08-25T03:01:50.391020836Z",
+  "timestamp": "2026-08-25T06:25:28.057455191Z",
   "model": "glm-5.3"
 }

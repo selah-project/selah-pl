@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 51,
-  "translation": "Bo nie chcesz ofiary z rzezi, abym ją dał; całopalenia nie立足于 przyjmiesz.",
+  "translation": "Bo nie pragniesz ofiary z rzeźby — ⟨gdybym ją dał⟩; całopalenia nie przyjmiesz.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תחפץ",
-      "gloss": "chcesz"
+      "gloss": "pragniesz"
     },
     {
       "surface": "זבח",
-      "gloss": "ofiary z rzezi"
+      "gloss": "ofiary z rzeźby"
     },
     {
       "surface": "ואתנה",
-      "gloss": "abym ją dał"
+      "gloss": "— gdybym ją dał"
     },
     {
       "surface": "עולה",
@@ -40,6 +40,6 @@
       "gloss": "przyjmiesz"
     }
   ],
-  "timestamp": "2026-08-25T01:51:40.511846416Z",
+  "timestamp": "2026-08-25T06:32:35.231521666Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "ecclesiastes",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Co ⟨już⟩ było — to już ⟨jest⟩, a co ma być — już było; i Elohim szuka ⟨את⟩ ściganego.",
+  "translation": "To, co już jest — dawno temu ⟨było⟩, a co ma być — dawno temu już było; i Elohim poszukuje ⟨את⟩ tego, co odeszło.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "Co"
+      "gloss": "To, co"
     },
     {
       "surface": "שהיה",
-      "gloss": "było"
+      "gloss": "już jest"
     },
     {
       "surface": "כבר",
-      "gloss": "już"
+      "gloss": "dawno temu"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨jest⟩"
+      "gloss": "⟨było⟩"
     },
     {
       "surface": "ואשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כבר",
-      "gloss": "już"
+      "gloss": "dawno temu"
     },
     {
       "surface": "היה",
@@ -45,18 +45,18 @@
     },
     {
       "surface": "יבקש",
-      "gloss": "szuka"
+      "gloss": "poszukuje"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ściganego"
+      "marks": "tego, co odeszło"
     },
     {
       "surface": "נרדף",
-      "gloss": "ściganego"
+      "gloss": "tego, co odeszło"
     }
   ],
-  "timestamp": "2026-08-25T02:30:53.246854576Z",
+  "timestamp": "2026-08-25T06:21:00.522083129Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 9,
-  "translation": "I ujrzała królowa Szeby ⟨את⟩ mądrość Szlomo oraz ⟨the⟩ dom, który zbudował.",
+  "translation": "I ujrzała królowa Szeby ⟨את⟩ mądrość Szlomo, oraz ⟨ה⟩ dom, który zbudował.",
   "tokens": [
     {
       "surface": "ותרא",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mądrość"
+      "marks": "mądrość Szlomo"
     },
     {
       "surface": "חכמת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והבית",
-      "gloss": "oraz dom"
+      "gloss": "oraz ⟨ה⟩ dom"
     },
     {
       "surface": "אשר",
@@ -45,6 +45,6 @@
       "gloss": "zbudował"
     }
   ],
-  "timestamp": "2026-08-25T03:04:05.079319335Z",
+  "timestamp": "2026-08-25T07:03:08.260678729Z",
   "model": "glm-5.3"
 }

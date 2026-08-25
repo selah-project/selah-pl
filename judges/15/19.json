@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I rozłupał Elohim ⟨את⟩ zagłębienie, które w Lechi, i wyszła z niego woda, i napił się, i wrócił jego duch, i ożył. Dlatego nazwano jej imię Ejn-ha-Kore, które w Lechi, aż do dnia tego.",
+  "translation": "I rozłupał Elohim ⟨את⟩ wyżłobienie, które w Lechi, i wyszła z niego woda, i pił, i wrócił duch jego, i ożył; dlatego nazwano imię jej En-Hakore, które w Lechi, aż do dnia tego.",
   "tokens": [
     {
       "surface": "ויבקע",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zagłębienie"
+      "marks": "wyżłobienie"
     },
     {
       "surface": "המכתש",
-      "gloss": "zagłębienie"
+      "gloss": "wyżłobienie"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וישת",
-      "gloss": "i napił się"
+      "gloss": "i pił"
     },
     {
       "surface": "ותשב",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "רוחו",
-      "gloss": "jego duch"
+      "gloss": "duch jego"
     },
     {
       "surface": "ויחי",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "על",
-      "gloss": "dlatego (na to)"
+      "gloss": "dlatego"
     },
     {
       "surface": "כן",
-      "gloss": "dlatego"
+      "gloss": "że"
     },
     {
       "surface": "קרא",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "שמה",
-      "gloss": "jej imię"
+      "gloss": "imię jej"
     },
     {
       "surface": "עין",
-      "gloss": "Ejn (źródło)"
+      "gloss": "En-"
     },
     {
       "surface": "הקורא",
-      "gloss": "ha-Kore (wołającego)"
+      "gloss": "Hakore"
     },
     {
       "surface": "אשר",
@@ -105,6 +105,6 @@
       "gloss": "tego"
     }
   ],
-  "timestamp": "2026-08-24T23:30:13.527150571Z",
+  "timestamp": "2026-08-25T05:54:58.391375115Z",
   "model": "glm-5.3"
 }

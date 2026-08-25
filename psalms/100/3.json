@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 100,
-  "translation": "Wiedzcie, że Jahwe — On ⟨jest⟩ Elohimem; On nas uczynił, a nie my; my — lud Jego i trzoda pastwiska Jego.",
+  "translation": "Wiedzcie, że Jahwe ⟨jest⟩ Elohim; ⟨to⟩ On nas uczynił, a ⟨nie⟩ my ⟨samych siebie⟩ — ⟨my⟩ ⟨jesteśmy⟩ ludem Jego i trzodą Jego pastwiska.",
   "tokens": [
     {
       "surface": "דעו",
@@ -21,27 +21,23 @@
     },
     {
       "surface": "הוא",
-      "gloss": "On"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimem"
+      "gloss": "Elohim"
     },
     {
       "surface": "הוא",
-      "gloss": "On"
+      "gloss": "⟨to⟩ On"
     },
     {
       "surface": "עשנו",
       "gloss": "nas uczynił"
     },
     {
-      "surface": "ו",
-      "gloss": "a"
-    },
-    {
-      "surface": "לא",
-      "gloss": "nie"
+      "surface": "ולא",
+      "gloss": "a ⟨nie⟩"
     },
     {
       "surface": "אנחנו",
@@ -49,17 +45,17 @@
     },
     {
       "surface": "עמו",
-      "gloss": "lud Jego"
+      "gloss": "ludem Jego"
     },
     {
       "surface": "וצאן",
-      "gloss": "i trzoda"
+      "gloss": "i trzodą"
     },
     {
       "surface": "מרעיתו",
-      "gloss": "pastwiska Jego"
+      "gloss": "Jego pastwiska"
     }
   ],
-  "timestamp": "2026-08-25T02:00:03.674709368Z",
+  "timestamp": "2026-08-25T06:16:46.887285780Z",
   "model": "glm-5.3"
 }

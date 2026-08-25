@@ -5,29 +5,29 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Rozkaż ⟨את⟩ Aharona i ⟨את⟩ jego synów, mówiąc: To ⟨jest⟩ tora całopalenia; ono ⟨jest⟩ całopalenie na swoim żarze na ołtarzu całą noc aż do rana; a ogień ołtarza będzie na nim płonął.",
+  "translation": "Rozkaz Aharonowi i ⟨את⟩ jego synom, mówiąc: to ⟨jest⟩ tora ofiary całopalnej — ona ⟨jest⟩ ⟨tą⟩ ofiarą całopalną na stosie na ołtarzu całą noc aż do rana, a ogień ołtarza będzie na nim płonął.",
   "tokens": [
     {
       "surface": "צו",
-      "gloss": "Rozkaż"
+      "gloss": "Rozkaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aharona"
+      "marks": "Aharonowi"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharona"
+      "gloss": "Aharonowi"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "jego synów"
+      "marks": "jego synom"
     },
     {
       "surface": "בניו",
-      "gloss": "jego synów"
+      "gloss": "jego synom"
     },
     {
       "surface": "לאמר",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "To"
+      "gloss": "to"
     },
     {
       "surface": "תורת",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "העלה",
-      "gloss": "całopalenia"
+      "gloss": "ofiary całopalnej"
     },
     {
       "surface": "הוא",
-      "gloss": "ono"
+      "gloss": "ona"
     },
     {
       "surface": "העלה",
-      "gloss": "całopalenie"
+      "gloss": "⟨tą⟩ ofiarą całopalną"
     },
     {
       "surface": "על",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "מוקדה",
-      "gloss": "swoim żarze"
+      "gloss": "stosie"
     },
     {
       "surface": "על",
@@ -102,6 +102,6 @@
       "gloss": "na nim"
     }
   ],
-  "timestamp": "2026-08-24T22:41:45.159490889Z",
+  "timestamp": "2026-08-25T05:43:22.772543318Z",
   "model": "glm-5.3"
 }

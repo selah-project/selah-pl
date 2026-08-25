@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 31,
-  "translation": "I posłał ich Mosze, tysiąc na pokolenie, na wojnę — ⟨את⟩ ⟨אתם⟩ i ⟨את⟩ Pinchas, syna Elazara kapłana, na wojnę — oraz naczynia ⟨the⟩ świętości i trąby signalowe w jego ręce.",
+  "translation": "I wysłał ich Mosze, tysiąc na pokolenie, na wojnę — ⟨את⟩ nich i ⟨את⟩ Pinchasa, syna Elazara, kapłana, na wojnę — oraz naczynia świętości i trąby sygnałowe w ręce jego.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "i posłał"
+      "gloss": "i wysłał"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ich"
+      "gloss": "⟨את⟩",
+      "marks": "nich"
     },
     {
       "surface": "משה",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ich (Pinchasa i wojsko)"
+      "gloss": "⟨את⟩",
+      "marks": "nich"
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "Pinchasa"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinchas"
+      "gloss": "Pinchasa"
     },
     {
       "surface": "בן",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "התרועה",
-      "gloss": "signalowe (krzyku bojowego)"
+      "gloss": "sygnałowe"
     },
     {
       "surface": "בידו",
-      "gloss": "w jego ręce"
+      "gloss": "w ręce jego"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.502263079Z",
+  "timestamp": "2026-08-25T05:48:51.000069675Z",
   "model": "glm-5.3"
 }

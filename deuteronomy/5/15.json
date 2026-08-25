@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I będziesz pamiętał, że byłeś niewolnikiem w ziemi Micraim, i wyprowadził cię stamtąd Jahwe, twój Elohim, ręką mocną i ramieniem wyciągniętym; dlatego nakazał ci Jahwe, twój Elohim, obchodzić ⟨את⟩ dzień szabatu.",
+  "translation": "I pamiętaj, że byłeś sługą w ziemi Micraim, i wyprowadził cię Jahwe, twój Elohim, stamtąd ręką mocną i ramieniem wyciągniętym; przeto przykazał ci Jahwe, twój Elohim, czynić ⟨את⟩ dzień szabatu.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "i będziesz pamiętał"
+      "gloss": "I pamiętaj"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "niewolnikiem"
+      "gloss": "sługą"
     },
     {
       "surface": "היית",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "על",
-      "gloss": "dlatego (na to)"
+      "gloss": "przeto"
     },
     {
       "surface": "כן",
-      "gloss": "dlatego"
+      "gloss": ""
     },
     {
       "surface": "צוך",
-      "gloss": "nakazał ci"
+      "gloss": "przykazał ci"
     },
     {
       "surface": "יהוה",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "obchodzić (czynić)"
+      "gloss": "czynić"
     },
     {
       "surface": "את",
@@ -101,6 +101,6 @@
       "gloss": "szabatu"
     }
   ],
-  "timestamp": "2026-08-24T23:05:02.052903252Z",
+  "timestamp": "2026-08-25T05:50:13.145924869Z",
   "model": "glm-5.3"
 }

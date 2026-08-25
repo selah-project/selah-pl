@@ -5,20 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 29,
-  "translation": "I prowadziłem ⟨את⟩ was czterdzieści lat na pustyni: nie zultrały się wasze szaty na was i sandał twój nie zniszczył się na twojej stopie.",
+  "translation": "I prowadziłem was czterdzieści lat na pustyni: nie zużyły się szaty wasze na was, i sandał twój nie zużył się z nogi twojej.",
   "tokens": [
     {
-      "surface": "ויקרא",
-      "gloss": ""
-    },
-    {
       "surface": "ואולך",
-      "gloss": "⟨את⟩ i prowadziłem"
+      "gloss": "i prowadziłem"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was",
-      "marks": "was"
+      "gloss": "⟨את⟩ was"
     },
     {
       "surface": "ארבעים",
@@ -38,11 +33,11 @@
     },
     {
       "surface": "בלו",
-      "gloss": "zultarały się"
+      "gloss": "zużyły się"
     },
     {
       "surface": "שלמתיכם",
-      "gloss": "wasze szaty"
+      "gloss": "szaty wasze"
     },
     {
       "surface": "מעליכם",
@@ -58,17 +53,17 @@
     },
     {
       "surface": "בלתה",
-      "gloss": "zniszczył się"
+      "gloss": "zużył się"
     },
     {
       "surface": "מעל",
-      "gloss": "na"
+      "gloss": "z"
     },
     {
       "surface": "רגלך",
-      "gloss": "twojej stopie"
+      "gloss": "nogi twojej"
     }
   ],
-  "timestamp": "2026-08-24T23:14:15.850321220Z",
+  "timestamp": "2026-08-25T05:51:30.469550808Z",
   "model": "glm-5.3"
 }

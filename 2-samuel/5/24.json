@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I stanie się: gdy usłyszysz ⟨את⟩ звук idącego pochodu na szczycie balsamowców, wtedy ruszysz, bo wtedy wyjdzie Jahwe przed tobą, by uderzyć na obóz Pelisztymów.",
+  "translation": "I stanie się, gdy usłyszysz ⟨את⟩ dźwięk kroków na wierzchołkach drzew baka, wtedy ruszysz, bo wtedy wyjdzie Jahwe przed tobą, by uderzyć w obóz Pelisztym.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i stanie się"
+      "gloss": "I stanie się"
     },
     {
       "surface": "בשמעך",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dźwięk pochodu"
+      "marks": "dźwięk"
     },
     {
       "surface": "קול",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "צעדה",
-      "gloss": "pochodu (maszerującego kroku)"
+      "gloss": "kroków"
     },
     {
       "surface": "בראשי",
-      "gloss": "na szczycie"
+      "gloss": "na wierzchołkach"
     },
     {
       "surface": "הבכאים",
-      "gloss": "balsamowców"
+      "gloss": "drzew baka"
     },
     {
       "surface": "אז",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "na obóz"
+      "gloss": "w obóz"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelisztymów"
+      "gloss": "Pelisztym"
     }
   ],
-  "timestamp": "2026-08-24T23:46:25.013815207Z",
+  "timestamp": "2026-08-25T05:56:54.009511277Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 5,
-  "translation": "I opowiedział im Haman ⟨את⟩ świetność swojego bogactwa i mnogość swoich synów, oraz ⟨את⟩ wszystko, czym go obdarzył król, i ⟨את⟩ to, że go wyniósł nad książętami i sługami króla.",
+  "translation": "I opowiedział im Haman ⟨את⟩ świetność swego bogactwa i mnogość swoich synów, i ⟨את⟩ wszystko, czym go wyróżnił król, i ⟨את⟩ to, że go wyniósł ponad książąt i sługi króla.",
   "tokens": [
     {
       "surface": "ויספר",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "świetność swojego bogactwa"
+      "marks": "świetność swego bogactwa"
     },
     {
       "surface": "כבוד",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עשרו",
-      "gloss": "swojego bogactwa"
+      "gloss": "swego bogactwa"
     },
     {
       "surface": "ורב",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "wszystko"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "czym"
     },
     {
       "surface": "גדלו",
-      "gloss": "obdarzył"
+      "gloss": "go wyróżnił"
     },
     {
       "surface": "המלך",
@@ -72,25 +72,25 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "wyniósł go"
+      "gloss": "go wyniósł"
     },
     {
       "surface": "על",
-      "gloss": "nad"
+      "gloss": "ponad"
     },
     {
       "surface": "השרים",
-      "gloss": "książętami"
+      "gloss": "książąt"
     },
     {
       "surface": "ועבדי",
-      "gloss": "i sługami"
+      "gloss": "i sługi"
     },
     {
       "surface": "המלך",
       "gloss": "króla"
     }
   ],
-  "timestamp": "2026-08-25T02:33:53.279385439Z",
+  "timestamp": "2026-08-25T06:22:18.987013922Z",
   "model": "glm-5.3"
 }

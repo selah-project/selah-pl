@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 29,
-  "translation": "Wy znacie ⟨את⟩ to, jak mieszkaliśmy w ziemi Micrajim, i ⟨את⟩ to, jak przeszliśmy pośród narodów, które przeszliście",
+  "translation": "Wy bowiem znacie ⟨את⟩ to, co zamieszkaliśmy w ziemi Micraim, i ⟨את⟩ to, co przeszliśmy wśród ⟨tych⟩ narodów, które wy przeszliście.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "bowiem"
     },
     {
       "surface": "אתם",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, jak mieszkaliśmy"
+      "marks": "to, co zamieszkaliśmy w ziemi Micraim"
     },
     {
       "surface": "אשר",
-      "gloss": "to, jak"
+      "gloss": "to, co"
     },
     {
       "surface": "ישבנו",
-      "gloss": "mieszkaliśmy"
+      "gloss": "zamieszkaliśmy"
     },
     {
       "surface": "בארץ",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micrajim"
+      "gloss": "Micraim"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "to, jak przeszliśmy"
+      "marks": "to, co przeszliśmy wśród narodów"
     },
     {
       "surface": "אשר",
-      "gloss": "to, jak"
+      "gloss": "to, co"
     },
     {
       "surface": "עברנו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "pośród"
+      "gloss": "wśród"
     },
     {
       "surface": "הגוים",
@@ -70,6 +70,6 @@
       "gloss": "przeszliście"
     }
   ],
-  "timestamp": "2026-08-24T23:13:51.525986049Z",
+  "timestamp": "2026-08-25T05:51:33.483763667Z",
   "model": "glm-5.3"
 }

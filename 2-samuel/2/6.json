@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 2,
-  "translation": "A teraz niech czyni Jahwe z wami chesed i wierność, a także ja uczynię z wami ⟨את⟩ to dobro, ponieważ uczyniliście tę rzecz.",
+  "translation": "A teraz niech Jahwe czyni ⟨את⟩ wierną miłość i wierność wam, a także ja uczynię ⟨את⟩ to dobro z wami, ponieważ uczyniliście ⟨את⟩ tę rzecz.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "a teraz"
+      "gloss": "A teraz"
     },
     {
       "surface": "יעש",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "z wami"
+      "gloss": "wam"
     },
     {
       "surface": "חסד",
-      "gloss": "chesed"
+      "gloss": "wierną miłość"
     },
     {
       "surface": "ואמת",
@@ -45,7 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ z wami"
+      "gloss": "⟨את⟩ z wami",
+      "marks": "to dobro"
     },
     {
       "surface": "הטובה",
@@ -72,6 +73,6 @@
       "gloss": "tę"
     }
   ],
-  "timestamp": "2026-08-24T23:45:11.911432636Z",
+  "timestamp": "2026-08-25T05:56:45.658011777Z",
   "model": "glm-5.3"
 }

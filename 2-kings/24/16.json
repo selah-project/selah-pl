@@ -5,12 +5,12 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Oraz ⟨את⟩ wszystkich mężów dzielnych — siedem tysięcy — i rzemieślników oraz kowali tysiąc; wszyscy ⟨oni⟩ to mocarze, wykonawcy wojny; i sprowadził ich król Bawel na wygnanie do Bawel.",
+  "translation": "I ⟨את⟩ wszystkich mężów dzielności — siedem tysięcy — oraz rzemieślników i kowali tysiąc; wszyscy ⟨oni to⟩ mężowi dzielni, wykonawcy wojny — ich zaprowadził król Babilonu na wygnanie do Babilonu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
-      "marks": "wszystkich mężów dzielnych"
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich mężów dzielności"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "החיל",
-      "gloss": "dzielnych"
+      "gloss": "dzielności"
     },
     {
       "surface": "שבעת",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "והחרש",
-      "gloss": "i rzemieślników"
+      "gloss": "oraz rzemieślników"
     },
     {
       "surface": "והמסגר",
-      "gloss": "oraz kowali"
+      "gloss": "i kowali"
     },
     {
       "surface": "אלף",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "גבורים",
-      "gloss": "mocarze"
+      "gloss": "mężowi dzielni"
     },
     {
       "surface": "עשי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויביאם",
-      "gloss": "i sprowadził ich"
+      "gloss": "ich zaprowadził"
     },
     {
       "surface": "מלך",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bawel"
+      "gloss": "Babilonu"
     },
     {
       "surface": "גולה",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "בבלה",
-      "gloss": "do Bawel"
+      "gloss": "do Babilonu"
     }
   ],
-  "timestamp": "2026-08-25T00:18:50.223071541Z",
+  "timestamp": "2026-08-25T06:04:05.211205174Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Oto, proszę, mam dwie córki, które nie poznały mężczyzny; wyprowadzę, proszę, ⟨את⟩ ⟨אתהן⟩ do was, i czyńcie im, co dobre jest w oczach waszych; tylko tym mężom nie czyńcie nic, bo przecież pod cień mego dachu przyszli.",
+  "translation": "Oto proszę, mam dwie córki, które nie poznały mężczyzny; wyprowadzę je proszę ⟨את⟩ do was, i czyńcie im, co dobre jest w waszych oczach; tylko tym mężom nie czyńcie nic, gdyż właśnie dlatego przyszli pod cień mego dachu.",
   "tokens": [
     {
       "surface": "הנה",
@@ -53,8 +53,8 @@
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨את⟩ ⟨אתהן⟩",
-      "marks": "je — dwie córki Lota"
+      "gloss": "⟨את⟩",
+      "marks": "je (do was)"
     },
     {
       "surface": "אליכם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "בעיניכם",
-      "gloss": "w oczach waszych"
+      "gloss": "w waszych oczach"
     },
     {
       "surface": "רק",
@@ -102,15 +102,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "על",
-      "gloss": "przecież"
+      "gloss": "właśnie"
     },
     {
       "surface": "כן",
-      "gloss": "na to"
+      "gloss": "dlatego"
     },
     {
       "surface": "באו",
@@ -125,6 +125,6 @@
       "gloss": "mego dachu"
     }
   ],
-  "timestamp": "2026-08-25T05:35:27.472039078Z",
+  "timestamp": "2026-08-25T05:37:41.289432371Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 12,
-  "translation": "A jeśli nie usłuchacie głosu Jahwe, lecz zbuntujecie się przeciw ⟨את⟩ ust Jahwe, to będzie ręka Jahwe przeciwko wam i przeciwko waszym ojcom.",
+  "translation": "A jeśli nie usłuchacie głosu Jahwe i zbuntujecie się przeciw ⟨את⟩ ust Jahwe, to będzie ręka Jahwe przeciwko wam i przeciwko waszym ojcom.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "a jeśli"
+      "gloss": "A jeśli"
     },
     {
       "surface": "לא",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ומריתם",
-      "gloss": "lecz zbuntujecie się"
+      "gloss": "zbuntujecie się"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ust"
+      "marks": "ust Jahwe"
     },
     {
       "surface": "פי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "to będzie"
+      "gloss": "będzie"
     },
     {
       "surface": "יד",
@@ -65,6 +65,6 @@
       "gloss": "i przeciwko waszym ojcom"
     }
   ],
-  "timestamp": "2026-08-25T03:27:05.143614357Z",
+  "timestamp": "2026-08-25T05:55:13.619024807Z",
   "model": "glm-5.3"
 }

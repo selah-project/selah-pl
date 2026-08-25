@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 57,
-  "translation": "Moja nefesz jest pośród lwic, kładę się pośród płonących — synów ludzkich, których zęby ⟨to⟩ włócznia i strzały, a ich język — ostry miecz.",
+  "translation": "Moja nefesz ⟨jest⟩ pośród lwów, położę się ⟨wśród⟩ płonących, synów ludzkich, których zęby ⟨to⟩ włócznia i strzały, a ich język — ostry miecz.",
   "tokens": [
     {
       "surface": "נפשי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לבאם",
-      "gloss": "lwic"
+      "gloss": "lwów"
     },
     {
       "surface": "אשכבה",
-      "gloss": "kładę się"
+      "gloss": "położę się"
     },
     {
       "surface": "להטים",
@@ -37,14 +37,14 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "ich zęby"
+      "gloss": "których zęby"
     },
     {
       "surface": "חנית",
       "gloss": "włócznia"
     },
     {
-      "surface": "וְחצים",
+      "surface": "וחצים",
       "gloss": "i strzały"
     },
     {
@@ -60,6 +60,6 @@
       "gloss": "ostry"
     }
   ],
-  "timestamp": "2026-08-25T01:52:22.008512266Z",
+  "timestamp": "2026-08-25T06:16:21.710800097Z",
   "model": "glm-5.3"
 }

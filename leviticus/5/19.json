@@ -5,29 +5,29 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Winą ⟨jest⟩ to — zawinieniem zawinił wobec Jahwe.",
+  "translation": "Ofiara winna ⟨to⟩ jest — zawinił, zawinił wobec Jahwe.",
   "tokens": [
     {
-      "surface": "אשם",
-      "gloss": "winą"
+      "surface": "אָשָׁם",
+      "gloss": "ofiara winna"
     },
     {
-      "surface": "הוא",
-      "gloss": "to"
+      "surface": "הוּא",
+      "gloss": "⟨to⟩ jest"
     },
     {
-      "surface": "אשם",
-      "gloss": "zawinieniem"
-    },
-    {
-      "surface": "אשם",
+      "surface": "אָשֹׁם",
       "gloss": "zawinił"
     },
     {
-      "surface": "ליהוה",
+      "surface": "אָשַׁם",
+      "gloss": "zawinił"
+    },
+    {
+      "surface": "לַיהוָה",
       "gloss": "wobec Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:41:05.271609707Z",
+  "timestamp": "2026-08-25T06:28:13.722529596Z",
   "model": "glm-5.3"
 }

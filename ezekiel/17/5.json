@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I wziął z nasienia ziemi, i posadził je na polu nasienia, przy wodach licznych, wierzbę ⟨ją⟩ posadził.",
+  "translation": "I wziął z nasienia ziemi, i posadził ⟨go⟩ na polu nasienia, przy wodach wielu wierzbą ⟨go⟩ posadził.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "i posadził je"
+      "gloss": "i posadził go"
     },
     {
       "surface": "בשדה",
@@ -36,12 +36,16 @@
       "gloss": "przy"
     },
     {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
       "surface": "מים",
-      "gloss": "wodach"
+      "gloss": "wodami"
     },
     {
       "surface": "רבים",
-      "gloss": "licznych"
+      "gloss": "wielu"
     },
     {
       "surface": "צפצפה",
@@ -49,9 +53,9 @@
     },
     {
       "surface": "שמו",
-      "gloss": "posadził"
+      "gloss": "posadził go"
     }
   ],
-  "timestamp": "2026-08-25T01:14:14.514246929Z",
+  "timestamp": "2026-08-25T06:11:28.561357255Z",
   "model": "glm-5.3"
 }

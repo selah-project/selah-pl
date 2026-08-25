@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I zawrócili, i przyszli do En-Mispat — ono ⟨to⟩ Kadesz — i pobili ⟨את⟩ całą krainę Amalekitów, a także ⟨את⟩ Emorytów, mieszkających w Chaccon-Tamar.",
+  "translation": "I zawrócili, i przybyli do En Miszpat — to ⟨jest⟩ Kadesz — i pobili ⟨את⟩ całe pole Amalekitów, a także ⟨את⟩ Emorytów mieszkających w Chacetson-Tamar.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "i przyszli"
+      "gloss": "i przybyli"
     },
     {
       "surface": "אל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עין",
-      "gloss": "En-"
+      "gloss": "En"
     },
     {
       "surface": "משפט",
-      "gloss": "-Mispat"
+      "gloss": "Miszpat"
     },
     {
       "surface": "הוא",
-      "gloss": "ono"
+      "gloss": "to"
     },
     {
       "surface": "קדש",
@@ -42,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "całą krainę Amalekitów"
+      "marks": "całe pole Amalekitów"
     },
     {
       "surface": "כל",
-      "gloss": "całą"
+      "gloss": "całe"
     },
     {
       "surface": "שדה",
-      "gloss": "krainę"
+      "gloss": "pole"
     },
     {
       "surface": "העמלקי",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emoryci"
+      "gloss": "Emorytów"
     },
     {
       "surface": "הישב",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "בחצצן",
-      "gloss": "w Chaccon-"
+      "gloss": "w Chacetson"
     },
     {
       "surface": "תמר",
       "gloss": "-Tamar"
     }
   ],
-  "timestamp": "2026-08-24T22:12:14.157032118Z",
+  "timestamp": "2026-08-25T05:37:10.828696242Z",
   "model": "glm-5.3"
 }

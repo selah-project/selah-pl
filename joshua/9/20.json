@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 9,
-  "translation": "To uczynimy im: zachowamy ⟨את⟩ ich przy życiu, i nie będzie na nas gniewu z powodu przysięgi, którą im przysięgliśmy.",
+  "translation": "To uczynimy im, i ocalimy ⟨את⟩ ich, i nie będzie na nas gniew z powodu przysięgi, którą przysięgliśmy im.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "to"
+      "gloss": "To"
     },
     {
       "surface": "נעשה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והחיה",
-      "gloss": "zachowamy przy życiu"
+      "gloss": "i ocalimy"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich",
+      "gloss": "⟨את⟩",
       "marks": "ich"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "surface": "קצף",
-      "gloss": "gniewu"
+      "gloss": "gniew"
     },
     {
       "surface": "על",
@@ -65,6 +65,6 @@
       "gloss": "im"
     }
   ],
-  "timestamp": "2026-08-24T23:18:55.288241802Z",
+  "timestamp": "2026-08-25T05:52:04.467161786Z",
   "model": "glm-5.3"
 }

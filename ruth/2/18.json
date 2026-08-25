@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I uniosła ⟨to⟩, i przyszła do miasta, i ujrzała jej świekra ⟨את⟩ to, co nazbierała; i wyniosła, i dała jej ⟨את⟩ to, co jej pozostało z nasycenia.",
+  "translation": "I uniosła ⟨to⟩, i weszła do miasta, i ujrzała jej świekra ⟨את⟩ to, co nazbierała; i wyniosła, i dała jej ⟨את⟩ to, co jej pozostało po nasyceniu się.",
   "tokens": [
     {
       "surface": "ותשא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ותבוא",
-      "gloss": "i przyszła"
+      "gloss": "i weszła"
     },
     {
       "surface": "העיר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "לקטה",
@@ -55,21 +55,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co jej pozostało z nasycenia"
+      "marks": "to, co jej pozostało po nasyceniu się"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, co"
     },
     {
       "surface": "הותרה",
-      "gloss": "pozostało"
+      "gloss": "jej pozostało"
     },
     {
       "surface": "משבעה",
-      "gloss": "z nasycenia"
+      "gloss": "po nasyceniu się"
     }
   ],
-  "timestamp": "2026-08-25T03:49:49.489185263Z",
+  "timestamp": "2026-08-25T06:32:50.023238287Z",
   "model": "glm-5.3"
 }

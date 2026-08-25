@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I wszystko, na co z nich upadnie ⟨coś⟩ przy ich śmierci, będzie nieczyste: każdy przedmiot z drewna, albo szata, albo skóra, albo worek — każdy przedmiot, przy którym wykonuje się ⟨jakąś⟩ pracę — zostanie włożony do wody i będzie nieczysty do wieczora, i potem będzie czysty.",
+  "translation": "I wszystko, na co upadnie coś z nich przy ich śmierci, będzie nieczyste — każdy przedmiot z drewna, albo szata, albo skóra, albo wór; każdy przedmiot, przy którym wykonuje się pracę, zostanie włożony do wody i będzie nieczysty aż do wieczora, i będzie czysty.",
   "tokens": [
     {
       "surface": "וכל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "שק",
-      "gloss": "worek"
+      "gloss": "wór"
     },
     {
       "surface": "כל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "który"
+      "gloss": "przy którym"
     },
     {
       "surface": "יעשה",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "przy nim"
+      "gloss": "w nim"
     },
     {
       "surface": "במים",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "do"
+      "gloss": "aż do"
     },
     {
       "surface": "הערב",
@@ -120,6 +120,6 @@
       "gloss": "i będzie czysty"
     }
   ],
-  "timestamp": "2026-08-24T22:42:52.107549940Z",
+  "timestamp": "2026-08-25T05:44:38.245066013Z",
   "model": "glm-5.3"
 }

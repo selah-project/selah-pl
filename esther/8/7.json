@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I rzekł król Achaszwerosz do królowej Estery i do Mordechaja Żyda: Oto ⟨את⟩ dom Hamana dałem Esterze, a jego powiesili na drzewie, za to że wyciągnął swoją rękę przeciw Żydom.",
+  "translation": "I rzekł król Achaszewerosz do Ester królowej i do Mordechaja Judejczyka: Oto dom Hamana dałem Ester, a jego powiesili na drzewie, dlatego że wyciągnął swoją rękę przeciw Judejczykom.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "אחשורש",
-      "gloss": "Achaszwerosz"
+      "gloss": "Achaszewerosz"
     },
     {
       "surface": "לאסתר",
-      "gloss": "do Estery"
+      "gloss": "do Ester"
     },
     {
       "surface": "המלכה",
       "gloss": "królowej"
     },
     {
-      "surface": "ולמרדכי",
+      "surface": "וילמרדכי",
       "gloss": "i do Mordechaja"
     },
     {
       "surface": "היהודי",
-      "gloss": "Żyda"
+      "gloss": "Judejczyka"
     },
     {
       "surface": "הנה",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "לאסתר",
-      "gloss": "Esterze"
+      "gloss": "Ester"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ jego",
-      "marks": "jego (Haman) — powiesili"
+      "gloss": "a ⟨את⟩ jego",
+      "marks": "jego (Haman)"
     },
     {
       "surface": "תלו",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "על",
-      "gloss": "za to że"
+      "gloss": "dlatego że"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "że"
     },
     {
       "surface": "שלח",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "ביהודיים",
-      "gloss": "przeciw Żydom"
+      "gloss": "przeciw Judejczykom"
     }
   ],
-  "timestamp": "2026-08-25T02:35:51.285222956Z",
+  "timestamp": "2026-08-25T06:22:12.072061195Z",
   "model": "glm-5.3"
 }

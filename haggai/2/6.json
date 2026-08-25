@@ -5,11 +5,11 @@
   "book": "haggai",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Bo tak rzekł Jahwe Cevaot: jeszcze raz — niewiele ⟨to⟩ — a Ja poruszę ⟨את⟩ niebiosa i ⟨את⟩ ziemię, i ⟨את⟩ morze, i ⟨את⟩ ląd suchy.",
+  "translation": "Bo tak rzekł Jahwe Cebaot: jeszcze raz — ⟨to⟩ niewiele, a Ja wzruszę ⟨את⟩ niebiosa i ⟨את⟩ ziemię, i ⟨את⟩ morze, i ⟨את⟩ pustkowie.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "כה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Cevaot"
+      "gloss": "Cebaot"
     },
     {
       "surface": "עוד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מרעיש",
-      "gloss": "poruszę (wstrząsnę)"
+      "gloss": "wzruszę"
     },
     {
       "surface": "את",
@@ -81,13 +81,13 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "ląd suchy"
+      "marks": "pustkowie"
     },
     {
       "surface": "החרבה",
-      "gloss": "ląd suchy"
+      "gloss": "pustkowie"
     }
   ],
-  "timestamp": "2026-08-25T03:43:04.424836410Z",
+  "timestamp": "2026-08-25T06:14:29.853127516Z",
   "model": "glm-5.3"
 }

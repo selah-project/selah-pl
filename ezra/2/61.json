@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I z synów kapłanów: synowie Chawaji, synowie Hakota, synowie Barzilaja, który wziął spośród córek Barzilaja Giladczyka ⟨את⟩ żonę i został nazwany od ich imienia.",
+  "translation": "I spośród synów kapłanów: synowie Chawaji, synowie Ha-Koca, synowie Barzillaja, który wziął spośród córek Barzillaja Giladczyka żonę i został nazwany ⟨ich⟩ imieniem.",
   "tokens": [
     {
       "surface": "ומבני",
-      "gloss": "i z synów"
+      "gloss": "i spośród synów"
     },
     {
       "surface": "הכהנים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הקוץ",
-      "gloss": "Hakota"
+      "gloss": "Ha-Koca"
     },
     {
       "surface": "בני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barzilaja"
+      "gloss": "Barzillaja"
     },
     {
       "surface": "אשר",
@@ -53,16 +53,11 @@
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barzilaja"
+      "gloss": "Barzillaja"
     },
     {
       "surface": "הגלעדי",
       "gloss": "Giladczyka"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "żonę"
     },
     {
       "surface": "אשה",
@@ -74,13 +69,13 @@
     },
     {
       "surface": "על",
-      "gloss": "od"
+      "gloss": "na"
     },
     {
       "surface": "שמם",
-      "gloss": "ich imienia"
+      "gloss": "ich imieniu"
     }
   ],
-  "timestamp": "2026-08-25T02:42:42.389124733Z",
+  "timestamp": "2026-08-25T06:23:06.800710560Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I nie przemówił Szaul niczego w tym dniu, bo powiedział ⟨sobie⟩: przypadek to, nie ⟨jest⟩ czysty ⟨on⟩, bo nie ⟨jest⟩ czysty.",
+  "translation": "I Szaweł nie mówił niczego w dniu tym, gdyż pomyślał: przypadek to ⟨jest⟩, nie ⟨jest⟩ czysty, gdyż nie ⟨jest⟩ czysty.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "przemówił"
+      "gloss": "mówił"
     },
     {
       "surface": "שאול",
-      "gloss": "Szaul"
+      "gloss": "Szaweł"
     },
     {
       "surface": "מאומה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "אמר",
-      "gloss": "powiedział"
+      "gloss": "pomyślał"
     },
     {
       "surface": "מקרה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨on⟩"
+      "gloss": "jest"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "לא",
@@ -72,6 +72,6 @@
       "gloss": "czysty"
     }
   ],
-  "timestamp": "2026-08-25T03:27:42.728576011Z",
+  "timestamp": "2026-08-25T05:56:13.821297943Z",
   "model": "glm-5.3"
 }

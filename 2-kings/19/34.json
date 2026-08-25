@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 19,
-  "translation": "I osłonię to miasto, aby je ocalić — ze względu na siebie i ze względu na Dawida, sługę mego.",
+  "translation": "i osłonię ⟨nad⟩ miastem tym, aby je ocalić — ze względu na siebie i ze względu na Dawida, sługę mego.",
   "tokens": [
     {
       "surface": "וגנותי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "nad"
+      "gloss": "⟨nad⟩"
     },
     {
       "surface": "העיר",
-      "gloss": "miasto"
+      "gloss": "miastem"
     },
     {
       "surface": "הזאת",
-      "gloss": "to"
+      "gloss": "tym"
     },
     {
       "surface": "להושיעה",
@@ -44,6 +44,6 @@
       "gloss": "sługę mego"
     }
   ],
-  "timestamp": "2026-08-25T00:15:43.404762134Z",
+  "timestamp": "2026-08-25T06:02:47.170836813Z",
   "model": "glm-5.3"
 }

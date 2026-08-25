@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 8,
-  "translation": "To ⟨jest⟩ to, co dotyczy Lewitów: od syna dwudziestu pięciu lat i wzwyż przyjdzie pełnić służbę wojskową w służbie Namiotu Spotkania.",
+  "translation": "To ⟨to⟩ Lewitów: od syna dwudziestu pięciu lat i wzwyż wejdzie, by pełnić służbę w służbie Namiotu Spotkania.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "ללוים",
-      "gloss": "dotyczy Lewitów"
+      "gloss": "Lewitów"
     },
     {
       "surface": "מבן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "dwudziestu"
+      "gloss": "i dwudziestu"
     },
     {
       "surface": "שנה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "przyjdzie"
+      "gloss": "wejdzie"
     },
     {
       "surface": "לצבא",
-      "gloss": "pełnić służbę wojskową"
+      "gloss": "by pełnić służbę"
     },
     {
       "surface": "צבא",
-      "gloss": "służbę wojskową"
+      "gloss": "służbę"
     },
     {
       "surface": "בעבדת",
@@ -64,6 +64,6 @@
       "gloss": "Spotkania"
     }
   ],
-  "timestamp": "2026-08-24T22:52:55.711993419Z",
+  "timestamp": "2026-08-25T05:47:21.179471182Z",
   "model": "glm-5.3"
 }

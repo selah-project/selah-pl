@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I podszedł do niego naczelnik wioślarzy i rzekł mu: Co ci ⟨to⟩, śpiący? Wstań, zawołaj do swojego elohima! Może elohim zwróci ⟨uwagę⟩ na nas i nie zginiemy.",
+  "translation": "I przystąpił do niego naczelnik żeglarzy i rzekł mu: Cóż ci, śpiochu? Wstań, zawołaj do swojego Elohim — może ⟨ten⟩ Elohim zlituje się nad nami i nie zginiemy.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "i podszedł"
+      "gloss": "i przystąpił"
     },
     {
       "surface": "אליו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "החבל",
-      "gloss": "wioślarzy"
+      "gloss": "żeglarzy"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "co"
+      "gloss": "cóż"
     },
     {
       "surface": "לך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נרדם",
-      "gloss": "śpiący"
+      "gloss": "śpisz"
     },
     {
       "surface": "קום",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "swojego elohima"
+      "gloss": "swojego Elohim"
     },
     {
       "surface": "אולי",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "יתעשת",
-      "gloss": "zwróci uwagę"
+      "gloss": "zlituje się"
     },
     {
       "surface": "האלהים",
-      "gloss": "elohim"
+      "gloss": "⟨ten⟩ Elohim"
     },
     {
       "surface": "לנו",
-      "gloss": "na nas"
+      "gloss": "nad nami"
     },
     {
       "surface": "ולא",
@@ -84,6 +84,6 @@
       "gloss": "zginiemy"
     }
   ],
-  "timestamp": "2026-08-25T01:36:57.323651440Z",
+  "timestamp": "2026-08-25T06:14:26.765041360Z",
   "model": "glm-5.3"
 }

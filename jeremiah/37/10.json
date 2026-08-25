@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 37,
-  "translation": "Bo jeśli pobiliście całe wojsko Kasdejczyków walczących ⟨את⟩ z wami, i zostali w nich ludzie poranieni — każdy w swoim namiocie powstaną i spalą ⟨את⟩ to miasto ogniem.",
+  "translation": "Bo choćbyście pobili całe wojsko Kasdyjczyków walczących ⟨את⟩ z wami i zostałyby w nich jedynie znadziane na śmierć ranne mężowie, każdy w swoim namiocie powstańszy, spalą ⟨את⟩ to miasto ogniem.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeśli"
+      "gloss": "choćby"
     },
     {
       "surface": "הכיתם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kasdejczyków"
+      "gloss": "Kasdyjczyków"
     },
     {
       "surface": "הנלחמים",
@@ -37,11 +37,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ z wami"
+      "gloss": "⟨את⟩ z wami",
+      "marks": "z wami"
     },
     {
       "surface": "ונשארו",
-      "gloss": "i zostali"
+      "gloss": "i zostałyby"
     },
     {
       "surface": "בם",
@@ -49,11 +50,12 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "ludzie"
+      "gloss": "mężowie"
     },
     {
       "surface": "מדקרים",
-      "gloss": "poranieni"
+      "gloss": "nadziani na death — ranni od ciosów",
+      "marks": ""
     },
     {
       "surface": "איש",
@@ -89,6 +91,6 @@
       "gloss": "ogniem"
     }
   ],
-  "timestamp": "2026-08-25T00:58:27.455568644Z",
+  "timestamp": "2026-08-25T06:31:50.102039596Z",
   "model": "glm-5.3"
 }

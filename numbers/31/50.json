@@ -5,69 +5,86 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 31,
-  "translation": "I przybliżyliśmy ofiarę Jahwe, każdy mąż, który znalazł naczynie złota — naramiennik i bransoletę, pierścień, kolczyk i kumaz — aby odkupić ⟨za⟩ nasze nefesz przed Jahwe.",
+  "translation": "I przybliżyliśmy ⟨את⟩ ofiarę Jahwe, każdy co znalazł: naczynie złota, naramiennik i obręcz, pierścień, kolczyk i kumaz, aby dokonać przebłagania za nasze nefesz przed Jahwe.",
   "tokens": [
     {
-      "surface": "ויאמרו",
-      "gloss": ""
-    },
-    {
-      "surface": "אל",
-      "gloss": "⟨את⟩"
-    },
-    {
-      "surface": "משה",
-      "gloss": ""
-    },
-    {
-      "surface": "עבדיך",
-      "gloss": ""
-    },
-    {
-      "surface": "נשאו",
-      "gloss": ""
+      "surface": "ונקרב",
+      "gloss": "i przybliżyliśmy"
     },
     {
       "surface": "את",
-      "gloss": ""
+      "gloss": "⟨את⟩",
+      "marks": "ofiarę"
     },
     {
-      "surface": "ראש",
-      "gloss": ""
+      "surface": "קרבן",
+      "gloss": "ofiarę"
     },
     {
-      "surface": "אנשי",
-      "gloss": ""
-    },
-    {
-      "surface": "המלחמה",
-      "gloss": ""
-    },
-    {
-      "surface": "אשר",
-      "gloss": ""
-    },
-    {
-      "surface": "בידנו",
-      "gloss": ""
-    },
-    {
-      "surface": "ולא",
-      "gloss": ""
-    },
-    {
-      "surface": "נפקד",
-      "gloss": ""
-    },
-    {
-      "surface": "ממנו",
-      "gloss": ""
+      "surface": "יהוה",
+      "gloss": "Jahwe"
     },
     {
       "surface": "איש",
-      "gloss": ""
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "znalazł"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "אצעדה",
+      "gloss": "naramiennik"
+    },
+    {
+      "surface": "וצמיד",
+      "gloss": "i obręcz"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "pierścień"
+    },
+    {
+      "surface": "עגיל",
+      "gloss": "kolczyk"
+    },
+    {
+      "surface": "וכומז",
+      "gloss": "i kumaz"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "aby dokonać przebłagania"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "nasze nefesz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:00:51.806314500Z",
+  "timestamp": "2026-08-25T06:28:54.768217154Z",
   "model": "glm-5.3"
 }

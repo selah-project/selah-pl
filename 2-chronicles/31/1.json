@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 31,
-  "translation": "A gdy skończono wszystko to, wyszli wszyscy znalezieni Jisraelejczycy w miastach Jehudy i połamali ⟨את⟩ stele oraz porąbali ⟨את⟩ Aszery, i zburzyli ⟨את⟩ wyżyny i ⟨את⟩ ołtarze — z całej Jehudy i Binjamina, i w Efrjaim i w Menaszeszu, aż do zupełnego końca; i wrócili wszyscy synowie Jisraela, każdy do swojej posiadłości, do swoich miast.",
+  "translation": "A gdy skończyło się to wszystko, wyszli wszyscy z Jisraela, którzy się znaleźli, do miast Jehudy, i połamali posągi, i powycinali aszery, i zburzyli ⟨את⟩ wyżyny i ⟨את⟩ ołtarze — z całej Jehudy i Binjamina, i w Efrjim i w Menasze, aż do zupełnego końca; i wrócili wszyscy synowie Jisraela, każdy do swojego posiadania, do swoich miast.",
   "tokens": [
     {
       "surface": "וככלות",
-      "gloss": "a gdy skończono"
+      "gloss": "a gdy skończyło się"
     },
     {
       "surface": "כל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelejczycy"
+      "gloss": "Jisraela"
     },
     {
       "surface": "הנמצאים",
-      "gloss": "znalezieni"
+      "gloss": "którzy się znaleźli"
     },
     {
       "surface": "לערי",
-      "gloss": "w miastach"
+      "gloss": "do miast"
     },
     {
       "surface": "יהודה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "המצבות",
-      "gloss": "stele"
+      "gloss": "posągi"
     },
     {
       "surface": "ויגדעו",
-      "gloss": "oraz porąbali"
+      "gloss": "i powycinali"
     },
     {
       "surface": "האשרים",
-      "gloss": "Aszery"
+      "gloss": "aszery"
     },
     {
       "surface": "וינתצו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "oraz ⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "ołtarze"
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "surface": "ובאפרים",
-      "gloss": "i w Efrjaim"
+      "gloss": "i w Efrjim"
     },
     {
       "surface": "ומנשה",
-      "gloss": "i w Menaszeszu"
+      "gloss": "i w Menasze"
     },
     {
       "surface": "עד",
@@ -131,13 +131,13 @@
     },
     {
       "surface": "לאחזתו",
-      "gloss": "do swojej posiadłości"
+      "gloss": "do swojego posiadania"
     },
     {
       "surface": "לעריהם",
       "gloss": "do swoich miast"
     }
   ],
-  "timestamp": "2026-08-25T03:10:57.565649235Z",
+  "timestamp": "2026-08-25T06:27:07.662464285Z",
   "model": "glm-5.3"
 }

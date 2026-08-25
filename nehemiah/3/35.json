@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "pl",
   "chapter": 3,
-  "translation": "A Towijja ha-Ammonita ⟨był⟩ przy nim, i powiedział: To, co oni budują — jeśli wstąpi lis, rozbije mur z ich kamieni.",
+  "translation": "A Towijasz, Ammonita, u jego boku — i powiedział: nawet to, co oni budują, jeśli wejdzie szakal, wywró ⟨ich⟩ mur kamienny.",
   "tokens": [
     {
       "surface": "וטוביה",
-      "gloss": "A Towijja"
+      "gloss": "A Towijasz"
     },
     {
       "surface": "העמני",
-      "gloss": "ha-Ammonita"
+      "gloss": "Ammonita"
     },
     {
       "surface": "אצלו",
-      "gloss": "przy nim"
+      "gloss": "u jego boku"
     },
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "To"
+      "gloss": "nawet"
     },
     {
       "surface": "אשר",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "wstąpi"
+      "gloss": "wejdzie"
     },
     {
       "surface": "שועל",
-      "gloss": "lis"
+      "gloss": "szakal"
     },
     {
       "surface": "ופרץ",
-      "gloss": "rozbije"
+      "gloss": "wywró"
     },
     {
       "surface": "חומת",
@@ -64,6 +64,6 @@
       "gloss": "z ich kamieni"
     }
   ],
-  "timestamp": "2026-08-25T02:46:27.563885475Z",
+  "timestamp": "2026-08-25T06:23:47.402644177Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 36,
-  "translation": "A te ⟨są⟩ synowie Reuela, syna Esawa: książę Nachat, książę Zerach, książę Szamma, książę Mizza; te ⟨to⟩ książęta Reuela w ziemi Edomu; te ⟨są⟩ synami Boszmat, żony Esawa.",
+  "translation": "A to są synowie Reuela, syna Esawa: książę Nachat, książę Zerach, książę Szamma, książę Mizza; ci ⟨są⟩ książętami Reuela w ziemi Edomu — to są synowie Boszmat, żony Esawa.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "a te"
+      "gloss": "A to"
     },
     {
       "surface": "בני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "syna"
+      "gloss": "syn"
     },
     {
       "surface": "עשו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "te"
+      "gloss": "ci"
     },
     {
       "surface": "אלופי",
-      "gloss": "książęta"
+      "gloss": "książętami"
     },
     {
       "surface": "רעואל",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "te"
+      "gloss": "to są"
     },
     {
       "surface": "בני",
-      "gloss": "synami"
+      "gloss": "synowie"
     },
     {
       "surface": "בשמת",
@@ -100,6 +100,6 @@
       "gloss": "Esawa"
     }
   ],
-  "timestamp": "2026-08-24T22:20:04.505220033Z",
+  "timestamp": "2026-08-25T05:39:25.618369602Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I powiedziała Ester do Hatacha, i przykazała mu ⟨wobec⟩ Mordechaja —",
+  "translation": "I Ester powiedziała do Hataka i dała mu polecenie ⟨dla⟩ Mordechaja:",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,26 +17,21 @@
     },
     {
       "surface": "להתך",
-      "gloss": "do Hatacha"
-    },
-    {
-      "surface": "ויתצוהו",
-      "gloss": "i przykazała mu",
-      "surface_alt": "ותצוהו"
+      "gloss": "do Hataka"
     },
     {
       "surface": "ותצוהו",
-      "gloss": "i przykazała mu"
+      "gloss": "i dała mu polecenie"
     },
     {
       "surface": "אל",
-      "gloss": "⟨wobec⟩"
+      "gloss": "⟨dla⟩"
     },
     {
       "surface": "מרדכי",
       "gloss": "Mordechaja"
     }
   ],
-  "timestamp": "2026-08-25T03:50:37.964914450Z",
+  "timestamp": "2026-08-25T06:21:11.046060851Z",
   "model": "glm-5.3"
 }

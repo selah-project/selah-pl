@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 14,
-  "translation": "Toczyli wojnę ⟨את⟩ Berą, królem Sedomu, i ⟨את⟩ Birszą, królem Amory, Szinabem, królem Adamy, i Szemeweberem, królem Cebujim, oraz królem Beli — ⟨to⟩ Coar.",
+  "translation": "Toczyli wojnę z ⟨את⟩ Berą, królem Sedem, i z ⟨את⟩ Birszą, królem Amory, Szinab, król Admy, i Szemeber, król Cebujim, oraz król Beli — to ⟨jest⟩ Coar.",
   "tokens": [
     {
       "surface": "עשו",
-      "gloss": "toczyli"
+      "gloss": "Toczyli"
     },
     {
       "surface": "מלחמה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Berą, królem Sedomu"
+      "marks": "Berą"
     },
     {
       "surface": "ברע",
@@ -30,11 +30,12 @@
     },
     {
       "surface": "סדם",
-      "gloss": "Sedomu"
+      "gloss": "Sedem"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩"
+      "gloss": "z ⟨את⟩",
+      "marks": "Birszą"
     },
     {
       "surface": "ברשע",
@@ -50,23 +51,23 @@
     },
     {
       "surface": "שנאב",
-      "gloss": "Szinabem"
+      "gloss": "Szinab"
     },
     {
       "surface": "מלך",
-      "gloss": "królem"
+      "gloss": "król"
     },
     {
       "surface": "אדמה",
-      "gloss": "Adamy"
+      "gloss": "Admy"
     },
     {
       "surface": "ושמאבר",
-      "gloss": "i Szemeweberem"
+      "gloss": "i Szemeber"
     },
     {
       "surface": "מלך",
-      "gloss": "królem"
+      "gloss": "król"
     },
     {
       "surface": "צביים",
@@ -74,7 +75,7 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "oraz królem"
+      "gloss": "oraz król"
     },
     {
       "surface": "בלע",
@@ -82,13 +83,13 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨to⟩"
+      "gloss": "to"
     },
     {
       "surface": "צער",
       "gloss": "Coar"
     }
   ],
-  "timestamp": "2026-08-24T22:12:23.307958606Z",
+  "timestamp": "2026-08-25T06:27:54.919775637Z",
   "model": "glm-5.3"
 }

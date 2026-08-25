@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli ⟨to⟩ samica, to będzie twoja wycena trzydzieści szekli.",
+  "translation": "A jeśli ⟨jest⟩ niewiasta, to twoja wycena niech będzie trzydzieści szekli.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "A jeśli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "נקבה",
-      "gloss": "samica"
+      "gloss": "niewiasta"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "⟨jest⟩"
     },
     {
       "surface": "והיה",
-      "gloss": "to będzie"
+      "gloss": "to niech będzie"
     },
     {
       "surface": "ערכך",
@@ -36,6 +36,6 @@
       "gloss": "szekli"
     }
   ],
-  "timestamp": "2026-08-24T22:49:48.945249981Z",
+  "timestamp": "2026-08-25T06:34:00.399865271Z",
   "model": "glm-5.3"
 }

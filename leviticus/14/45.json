@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 14,
-  "translation": "I burzyć będzie ⟨את⟩ dom — ⟨את⟩ kamienie jego, i ⟨את⟩ drewna jego, i ⟨את⟩ cały pył domu — i wyniesie ⟨to⟩ na zewnątrz miasta, na miejsce nieczyste.",
+  "translation": "I rozwali ⟨את⟩ dom — ⟨את⟩ jego kamienie i ⟨את⟩ jego drewno, i ⟨את⟩ cały pył domu — i wyniesie na zewnątrz, poza miasto, na miejsce nieczyste.",
   "tokens": [
     {
       "surface": "ונתץ",
-      "gloss": "i burzyć będzie"
+      "gloss": "i rozwali"
     },
     {
       "surface": "את",
@@ -23,25 +23,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kamienie jego"
+      "marks": "jego kamienie"
     },
     {
       "surface": "אבניו",
-      "gloss": "kamienie jego"
+      "gloss": "jego kamienie"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "drewna jego"
+      "marks": "jego drewno"
     },
     {
       "surface": "עציו",
-      "gloss": "drewna jego"
+      "gloss": "jego drewno"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "cały pył"
+      "marks": "cały pył domu"
     },
     {
       "surface": "כל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "לעיר",
-      "gloss": "miasta"
+      "gloss": "poza miasto"
     },
     {
       "surface": "אל",
@@ -84,6 +84,6 @@
       "gloss": "nieczyste"
     }
   ],
-  "timestamp": "2026-08-24T22:44:21.301420235Z",
+  "timestamp": "2026-08-25T05:44:39.820809719Z",
   "model": "glm-5.3"
 }

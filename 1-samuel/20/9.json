@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "I rzekł Jonatan: ⟨Nie dopuść⟩, by to było tobie; gdybym z całą pewnością poznał, że się dopełniło zło od mojego ojca, przyjść na ciebie, a nie oznajmiłbyem ci ⟨את⟩ tego —",
+  "translation": "I rzekł Jehonatan: Chalila (nie daj Boże) tobie! Bo jeśli w ogóle wiedziałbym, że postanowione jest zło od mojego ojca — przyjść na ciebie — to czyżbym nie ⟨את⟩ oznajmił tobie?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jonatan"
+      "gloss": "Jehonatan"
     },
     {
       "surface": "חלילה",
-      "gloss": "⟨Nie dopuść⟩"
+      "gloss": "Chalila (nie daj Boże)"
     },
     {
       "surface": "לך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "że"
+      "gloss": "Bo"
     },
     {
       "surface": "אם",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ידע",
-      "gloss": "poznałbym"
+      "gloss": "wiedziałbym"
     },
     {
       "surface": "אדע",
-      "gloss": "z całą pewnością poznam"
+      "gloss": "wiedział"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כלתה",
-      "gloss": "się dopełniło"
+      "gloss": "postanowione jest"
     },
     {
       "surface": "הרעה",
@@ -72,19 +72,19 @@
       "gloss": "a nie"
     },
     {
-      "surface": "אותה",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "tego"
+      "marks": "oznajmił tobie"
     },
     {
       "surface": "אגיד",
-      "gloss": "oznajmiłbym"
+      "gloss": "oznajmił"
     },
     {
       "surface": "לך",
-      "gloss": "ci"
+      "gloss": "tobie"
     }
   ],
-  "timestamp": "2026-08-24T23:39:50.649442044Z",
+  "timestamp": "2026-08-25T06:30:07.257428744Z",
   "model": "glm-5.3"
 }

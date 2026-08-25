@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 34,
-  "translation": "A granicą morza będzie wam ⟨to⟩: Morze Wielkie; i ta będzie wam granicą morza.",
+  "translation": "A granicą morską — i będzie wam ⟨tą⟩ Wielkie Morze i jego ⟨wybrzeże⟩: ta będzie wam granicą morską.",
   "tokens": [
     {
       "surface": "וגבול",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ים",
-      "gloss": "morza"
+      "gloss": "morską"
     },
     {
       "surface": "והיה",
-      "gloss": "będzie"
+      "gloss": "i będzie"
     },
     {
       "surface": "לכם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וגבול",
-      "gloss": "i granicą"
+      "gloss": "i jego granica"
     },
     {
       "surface": "זה",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ים",
-      "gloss": "morza"
+      "gloss": "morską"
     }
   ],
-  "timestamp": "2026-08-24T23:02:42.742927752Z",
+  "timestamp": "2026-08-25T05:49:12.935989320Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 119,
-  "translation": "To stało się moim udziałem, bo Twoje nakazy strzegłem.",
+  "translation": "To ⟨było⟩ dla mnie, bo ⟨את⟩ Twoje ustawy zachowałem.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "היתה",
-      "gloss": "stało się"
+      "gloss": "⟨było⟩"
     },
     {
       "surface": "לי",
-      "gloss": "moim udziałem"
+      "gloss": "dla mnie"
     },
     {
       "surface": "כי",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "פקדיך",
-      "gloss": "Twoje nakazy"
+      "gloss": "Twoje ustawy"
     },
     {
       "surface": "נצרתי",
-      "gloss": "strzegłem"
+      "gloss": "zachowałem"
     }
   ],
-  "timestamp": "2026-08-25T02:02:48.538124804Z",
+  "timestamp": "2026-08-25T06:16:40.608836715Z",
   "model": "glm-5.3"
 }

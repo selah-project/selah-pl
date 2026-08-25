@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 43,
-  "translation": "I podano jemu osobno, a im osobno, a Micrijczykom, ⟨את⟩ którzy jedli z nim — osobno, bo nie mogą Micrijczycy ⟨את⟩ jeść ⟨את⟩ chleba ⟨את⟩ Hebrajczyków, gdyż to obrzydliwość ⟨jest⟩ dla Micrijczyków.",
+  "translation": "I podano jemu osobno, a im osobno, a Micrajimowi, którzy jedli ⟨את⟩ nim, osobno; gdyż nie mogą Micrajimczycy jeść ⟨את⟩ Iwrim chleba, gdyż ⟨to⟩ obrzydliwość dla Micrajim.",
   "tokens": [
     {
       "surface": "וישימו",
@@ -20,11 +20,6 @@
       "gloss": "osobno"
     },
     {
-      "surface": "וילהםבהם",
-      "gloss": "a im",
-      "variants": null
-    },
-    {
       "surface": "ולהם",
       "gloss": "a im"
     },
@@ -34,16 +29,16 @@
     },
     {
       "surface": "ולמצרים",
-      "gloss": "a Micrijczykom"
+      "gloss": "a Micrajimowi"
     },
     {
       "surface": "האכלים",
-      "gloss": "⟨את⟩ którzy jedli"
+      "gloss": "którzy jedli"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "z nim (przyimek את 'z', nie znak dopełnienia)"
+      "gloss": "⟨את⟩ nim",
+      "marks": "z nim (przyimek את w znaczeniu „z”)"
     },
     {
       "surface": "לבדם",
@@ -51,7 +46,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "לא",
@@ -63,24 +58,24 @@
     },
     {
       "surface": "המצרים",
-      "gloss": "Micrijczycy"
+      "gloss": "Micrajimczycy"
     },
     {
       "surface": "לאכל",
-      "gloss": "⟨את⟩ jeść"
+      "gloss": "jeść"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hebrajczyków"
+      "marks": "Iwrim"
     },
     {
       "surface": "העברים",
-      "gloss": "Hebrajczyków"
+      "gloss": "Iwrim"
     },
     {
       "surface": "לחם",
-      "gloss": "chleb"
+      "gloss": "chleba"
     },
     {
       "surface": "כי",
@@ -96,9 +91,9 @@
     },
     {
       "surface": "למצרים",
-      "gloss": "dla Micrijczyków"
+      "gloss": "dla Micrajim"
     }
   ],
-  "timestamp": "2026-08-24T22:23:01.372518949Z",
+  "timestamp": "2026-08-25T05:39:49.350110975Z",
   "model": "glm-5.3"
 }

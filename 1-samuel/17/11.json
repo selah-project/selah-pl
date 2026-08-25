@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 17,
-  "translation": "I usłyszał Szauł i cały ⟨את⟩ Iszrael ⟨את⟩ słowa tego Peszelczyka te, i zlękli się, i przestraszyli się bardzo.",
+  "translation": "I usłyszał Szaul oraz cały Israel ⟨את⟩ słowa tego Pelisztyny, tych słów, i struchleli, i ulękli się bardzo.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -13,24 +13,20 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Szauł"
-    },
-    {
-      "surface": "וישראל",
-      "gloss": "i cały Iszrael"
+      "gloss": "Szaul"
     },
     {
       "surface": "וכל",
-      "gloss": "i cały Iszrael"
+      "gloss": "oraz cały"
     },
     {
       "surface": "ישראל",
-      "gloss": "⟨את⟩ Iszrael"
+      "gloss": "Israel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "słowa tego Peszelczyka"
+      "marks": "słowa tego Pelisztyny"
     },
     {
       "surface": "דברי",
@@ -38,25 +34,25 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Peszelczyka"
+      "gloss": "tego Pelisztyny"
     },
     {
       "surface": "האלה",
-      "gloss": "te"
+      "gloss": "tych"
     },
     {
       "surface": "ויחתו",
-      "gloss": "i zlękli się"
+      "gloss": "i struchleli"
     },
     {
       "surface": "ויראו",
-      "gloss": "i przestraszyli się"
+      "gloss": "i ulękli się"
     },
     {
       "surface": "מאד",
       "gloss": "bardzo"
     }
   ],
-  "timestamp": "2026-08-24T23:38:57.829255663Z",
+  "timestamp": "2026-08-25T06:30:06.977233950Z",
   "model": "glm-5.3"
 }

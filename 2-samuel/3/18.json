@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "A teraz uczyńcie to, bo Jahwe powiedział do Dawida, mówiąc: ręką Dawida, sługi mego, wybawię ⟨את⟩ mój lud, Jisrael, z ręki Pelisztów i z ręki wszystkich ich wrogów.",
+  "translation": "A teraz uczyńcie to, gdyż Jahwe mówił do Dawida, mówiąc: ręką Dawida, sługi mego, wybawię ⟨את⟩ lud mój, Israel, z ręki Pelisztów i z ręki wszystkich ich nieprzyjaciół.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "powiedział"
+      "gloss": "mówił"
     },
     {
       "surface": "אל",
@@ -58,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mój lud, Jisrael"
+      "marks": "lud mój, Israel"
     },
     {
       "surface": "עמי",
-      "gloss": "mój lud"
+      "gloss": "lud mój"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "מיד",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "ich wrogów"
+      "gloss": "ich nieprzyjaciół"
     }
   ],
-  "timestamp": "2026-08-24T23:45:59.774948593Z",
+  "timestamp": "2026-08-25T05:56:42.383939892Z",
   "model": "glm-5.3"
 }

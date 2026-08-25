@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Każdy, kto dotknie jej mięsa, stanie się święty; a na co padnie z jej krvi skropla na szatę — to, na co padła, wypierzesz w miejscu świętym.",
+  "translation": "Każdy, kto dotknie jej mięsa, uświęci się; a ⟨co⟩ z jej krwi zostanie skropione na szatę — to, na której skropiono, wypierzesz w miejscu świętym.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "każdy"
+      "gloss": "Każdy"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "stanie się święty"
+      "gloss": "uświęci się"
     },
     {
       "surface": "ואשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יזה",
-      "gloss": "padnie skropla"
+      "gloss": "zostanie skropione"
     },
     {
       "surface": "מדמה",
-      "gloss": "z jej krvi"
+      "gloss": "z jej krwi"
     },
     {
       "surface": "על",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "na której"
     },
     {
       "surface": "יזה",
-      "gloss": "padła"
+      "gloss": "skropiono"
     },
     {
       "surface": "עליה",
@@ -72,6 +72,6 @@
       "gloss": "świętym"
     }
   ],
-  "timestamp": "2026-08-24T22:40:47.304243842Z",
+  "timestamp": "2026-08-25T05:44:08.115396082Z",
   "model": "glm-5.3"
 }

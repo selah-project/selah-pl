@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 15,
-  "translation": "A to ⟨jest⟩ słowo szmity: porzuci każdy wierzyciel dług swej ręki, którym obciążył swego bliźniego; nie będzie naciskał ⟨את⟩ swego bliźniego i ⟨את⟩ swego brata, gdyż ogłoszono szmitę ku Jahwe.",
+  "translation": "A to ⟨jest⟩ słowo odpuszczenia: każdy pan pożyczki niech uwolni swoją rękę, którą pożyczył swojemu bliźniemu; nie będzie egzekwował ⟨את⟩ swojego bliźniego ani ⟨את⟩ swojego brata, gdyż ogłoszono odpuszczenie Jahwe.",
   "tokens": [
     {
       "surface": "וזה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "השמטה",
-      "gloss": "szmity"
+      "gloss": "odpuszczenia"
     },
     {
       "surface": "שמוט",
-      "gloss": "porzuci"
+      "gloss": "niech uwolni"
     },
     {
       "surface": "כל",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "בעל",
-      "gloss": "wierzyciel"
+      "gloss": "pan"
     },
     {
       "surface": "משה",
-      "gloss": "dług"
+      "gloss": "pożyczki"
     },
     {
       "surface": "ידו",
-      "gloss": "swej ręki"
+      "gloss": "swoją rękę"
     },
     {
       "surface": "אשר",
-      "gloss": "którym"
+      "gloss": "którą"
     },
     {
       "surface": "ישה",
-      "gloss": "obciążył"
+      "gloss": "pożyczył"
     },
     {
       "surface": "ברעהו",
-      "gloss": "swego bliźniego"
+      "gloss": "swojemu bliźniemu"
     },
     {
       "surface": "לא",
@@ -57,25 +57,25 @@
     },
     {
       "surface": "יגש",
-      "gloss": "będzie naciskał"
+      "gloss": "będzie egzekwował"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego bliźniego"
+      "marks": "swojego bliźniego"
     },
     {
       "surface": "רעהו",
-      "gloss": "swego bliźniego"
+      "gloss": "swojego bliźniego"
     },
     {
       "surface": "ואת",
-      "gloss": "i ⟨את⟩",
-      "marks": "swego brata"
+      "gloss": "ani ⟨את⟩",
+      "marks": "swojego brata"
     },
     {
       "surface": "אחיו",
-      "gloss": "swego brata"
+      "gloss": "swojego brata"
     },
     {
       "surface": "כי",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "שמטה",
-      "gloss": "szmitę"
+      "gloss": "odpuszczenie"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ku Jahwe"
+      "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:09:06.866967439Z",
+  "timestamp": "2026-08-25T05:50:51.956194006Z",
   "model": "glm-5.3"
 }

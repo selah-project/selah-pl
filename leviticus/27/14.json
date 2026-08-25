@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli mężczyzna poświęci ⟨את⟩ swój dom jako rzecz świętą dla Jahwe, to kapłan wyceni go — między dobrym a między złym; jak kapłan go wyceni, tak ⟨to⟩ ostoi się.",
+  "translation": "A gdy człowiek poświęci ⟨את⟩ swój dom jako świętość dla Jahwe, to kapłan go wyceni, czy dobry, czy zły; jak go wyceni kapłan, tak ⟨ono⟩ ostoi się.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "a jeśli mężczyzna"
+      "gloss": "A gdy człowiek"
     },
     {
       "surface": "כי",
-      "gloss": "jeśli"
+      "gloss": "gdy"
     },
     {
       "surface": "יקדש",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "קדש",
-      "gloss": "jako rzecz świętą"
+      "gloss": "jako świętość"
     },
     {
       "surface": "ליהוה",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "בין",
-      "gloss": "między"
+      "gloss": "czy"
     },
     {
       "surface": "טוב",
-      "gloss": "dobrym"
+      "gloss": "dobry"
     },
     {
       "surface": "ובין",
-      "gloss": "a między"
+      "gloss": "czy"
     },
     {
       "surface": "רע",
-      "gloss": "złym"
+      "gloss": "zły"
     },
     {
       "surface": "כאשר",
@@ -71,7 +71,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go"
+      "marks": "kapłan"
     },
     {
       "surface": "הכהן",
@@ -86,6 +86,6 @@
       "gloss": "ostoi się"
     }
   ],
-  "timestamp": "2026-08-24T22:49:53.771784437Z",
+  "timestamp": "2026-08-25T06:28:53.073781254Z",
   "model": "glm-5.3"
 }

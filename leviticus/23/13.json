@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 23,
-  "translation": "A jego ofiara z pokarmów: dwie dziesiąte ⟨את⟩—〈ejfy〉 mąki przedniej zmieszanej z olejem, ofiara ogniowa dla Jahwe, miła woń; a jego wylewka: wino, czwarta część hinu.",
+  "translation": "A jego ofiara z pokarmów: dwie dziesiąte ⟨EFY⟩ mąki wyborowej zmieszanej w oliwie, ofiara ogniowa dla Jahwe, woń rozkoszna; a jego libacja: wino, czwarta część ⟨HINA⟩.",
   "tokens": [
     {
       "surface": "ומנחתו",
-      "gloss": "a jego ofiara z pokarmów"
+      "gloss": "A jego ofiara z pokarmów"
     },
     {
       "surface": "שני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "סלת",
-      "gloss": "mąki przedniej"
+      "gloss": "mąki wyborowej"
     },
     {
       "surface": "בלולה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בשמן",
-      "gloss": "z olejem"
+      "gloss": "w oliwie"
     },
     {
       "surface": "אשה",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "miła"
+      "gloss": "rozkoszna"
     },
     {
       "surface": "ונסכה",
-      "gloss": "a jego wylewka"
+      "gloss": "a jego libacja"
     },
     {
       "surface": "יין",
       "gloss": "wino"
     },
     {
-      "surface": "רביעית",
+      "surface": "רביעת",
       "gloss": "czwarta część"
     },
     {
       "surface": "ההין",
-      "gloss": "hinu"
+      "gloss": "⟨HINA⟩"
     }
   ],
-  "timestamp": "2026-08-24T22:47:45.329978025Z",
+  "timestamp": "2026-08-25T05:45:24.836581162Z",
   "model": "glm-5.3"
 }

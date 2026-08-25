@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 3,
-  "translation": "Wstań, idź do Niniwy, ⟨את⟩ tego miasta wielkiego, i zwołaj do niego ⟨את⟩ to zwołanie, które ja mówię do ciebie.",
+  "translation": "Wstań, idź do Niniwy, ⟨tego⟩ wielkiego miasta, i zwołaj do niej ⟨את⟩ to zwołanie, które ja mówię do ciebie.",
   "tokens": [
     {
       "surface": "קום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "tego miasta"
+      "gloss": "miasta"
     },
     {
       "surface": "הגדולה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אליה",
-      "gloss": "do niego"
+      "gloss": "do niej"
     },
     {
       "surface": "את",
@@ -65,6 +65,6 @@
       "gloss": "do ciebie"
     }
   ],
-  "timestamp": "2026-08-25T01:35:39.788030157Z",
+  "timestamp": "2026-08-25T06:13:48.986155125Z",
   "model": "glm-5.3"
 }

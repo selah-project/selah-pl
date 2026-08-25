@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 15,
-  "translation": "lecz jeżeli do miasta zawrócisz i powiesz Awiszalomowi: sługą twoim jestem, królu — sługą twojego ojca byłem od tamtego czasu, a teraz i ja sługą twoim ⟨będę⟩; to ty unieważnisz mi ⟨את⟩ radę Achitofela.",
+  "translation": "A jeśli do miasta wrócisz i powiesz Awszalomowi: Twój sługa jestem, królu; sługą twojego ojca byłem od dawna, a teraz — ja jestem twoim sługą — wtedy unicestwisz mi ⟨את⟩ radę Achitofela.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "lecz jeżeli"
+      "gloss": "a jeśli"
     },
     {
       "surface": "העיר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשוב",
-      "gloss": "zawrócisz"
+      "gloss": "wrócisz"
     },
     {
       "surface": "ואמרת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לאבשלום",
-      "gloss": "Awiszalomowi"
+      "gloss": "Awszalomowi"
     },
     {
       "surface": "עבדך",
-      "gloss": "sługą twoim"
+      "gloss": "Twój sługa"
     },
     {
       "surface": "אני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "⟨będę⟩"
+      "gloss": "będę"
     },
     {
       "surface": "עבד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מאז",
-      "gloss": "od tamtego czasu"
+      "gloss": "od dawna"
     },
     {
       "surface": "ועתה",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ואני",
-      "gloss": "i ja"
+      "gloss": "ja"
     },
     {
       "surface": "עבדך",
-      "gloss": "sługą twoim"
+      "gloss": "twoim sługą"
     },
     {
       "surface": "והפרתה",
-      "gloss": "unieważnisz"
+      "gloss": "unicestwisz"
     },
     {
       "surface": "לי",
@@ -82,7 +82,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "radę Achitofela"
+      "marks": "radę"
     },
     {
       "surface": "עצת",
@@ -93,6 +93,6 @@
       "gloss": "Achitofela"
     }
   ],
-  "timestamp": "2026-08-24T23:50:08.155472993Z",
+  "timestamp": "2026-08-25T05:57:41.053949553Z",
   "model": "glm-5.3"
 }

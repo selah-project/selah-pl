@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 19,
-  "translation": "A jeśli w ogóle będzie zjedzona w dniu trzecim — obrzydliwością ⟨to⟩, nie będzie przyjęta.",
+  "translation": "A jeśli zjedzone będzie zjedzone w dniu trzecim, ohydztwo ⟨to jest⟩ — nie będzie przyjęte.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "האכל",
-      "gloss": "w ogóle zjedzona"
+      "gloss": "zjedzenie"
     },
     {
       "surface": "יאכל",
-      "gloss": "będzie zjedzona"
+      "gloss": "będzie zjedzone"
     },
     {
       "surface": "ביום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "פגול",
-      "gloss": "obrzydliwością"
+      "gloss": "ohydztwo"
     },
     {
       "surface": "הוא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ירצה",
-      "gloss": "będzie przyjęta"
+      "gloss": "będzie przyjęte"
     }
   ],
-  "timestamp": "2026-08-24T22:45:54.226118603Z",
+  "timestamp": "2026-08-25T06:28:36.637708330Z",
   "model": "glm-5.3"
 }

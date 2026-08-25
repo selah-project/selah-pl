@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 20,
-  "translation": "A reszta spraw Chizkijahu, i cała jego potęga, i to, że uczynił ⟨את⟩ basen i ⟨את⟩ kanał, i wprowadził ⟨את⟩ wody do miasta — czyż nie są one zapisane w księdze kronik dni królów Jehudy?",
+  "translation": "A reszta spraw Chizkijahu i cała jego potęga, i ⟨to⟩, że uczynił ⟨את⟩ sadzawkę i ⟨את⟩ kanał, i wprowadził ⟨את⟩ wody do miasta — czyż ⟨nie⟩ one ⟨są⟩ zapisane w księdze spraw dni królów Jehudy?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "A reszta"
+      "gloss": "a reszta"
     },
     {
       "surface": "דברי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "i to, że"
+      "gloss": "i ⟨to, że⟩"
     },
     {
       "surface": "עשה",
@@ -38,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "basen"
+      "marks": "sadzawkę"
     },
     {
       "surface": "הברכה",
-      "gloss": "basen"
+      "gloss": "sadzawkę"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "i ⟨את⟩",
       "marks": "kanał"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "czyż nie"
+      "gloss": "czyż ⟨nie⟩"
     },
     {
       "surface": "הם",
@@ -92,11 +92,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "kronik dni"
+      "gloss": "spraw"
     },
     {
       "surface": "הימים",
-      "gloss": ""
+      "gloss": "dni"
     },
     {
       "surface": "למלכי",
@@ -107,6 +107,6 @@
       "gloss": "Jehudy"
     }
   ],
-  "timestamp": "2026-08-25T00:16:41.237706450Z",
+  "timestamp": "2026-08-25T06:04:01.091085032Z",
   "model": "glm-5.3"
 }

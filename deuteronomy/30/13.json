@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 30,
-  "translation": "Ani ⟨za morzem⟩ — jest ⟨to⟩ po drugiej stronie morza, byś powiedział: Kto przejdzie za nas na drugą stronę morza i weźmie ⟨ją⟩ dla nas, i da nam ją usłyszeć ⟨את⟩, abyśmy ją czynili?",
+  "translation": "Ani ⟨to⟩ nie jest po drugiej stronie morza, abyś powiedział: Kto przeprawi się dla nas na drugą stronę morza i weźmie ją dla nas, i da nam ją usłyszeć ⟨את⟩, i będziemy ją wykonywać?",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "za morzem"
+      "gloss": "po drugiej stronie"
     },
     {
       "surface": "לים",
-      "gloss": "morze"
+      "gloss": "morza"
     },
     {
       "surface": "הוא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "byś powiedział"
+      "gloss": "abyś powiedział"
     },
     {
       "surface": "מי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "przejdzie"
+      "gloss": "przeprawi się"
     },
     {
       "surface": "לנו",
-      "gloss": "za nas"
+      "gloss": "dla nas"
     },
     {
       "surface": "אל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ויקחה",
-      "gloss": "i weźmie ⟨ją⟩"
+      "gloss": "i weźmie ją"
     },
     {
       "surface": "לנו",
@@ -66,13 +66,13 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją (słowo\/torę)"
+      "marks": "ją"
     },
     {
       "surface": "ונעשנה",
-      "gloss": "abyśmy ją czynili"
+      "gloss": "i będziemy ją wykonywać"
     }
   ],
-  "timestamp": "2026-08-24T23:14:10.312401373Z",
+  "timestamp": "2026-08-25T05:51:40.533864213Z",
   "model": "glm-5.3"
 }

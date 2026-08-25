@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 26,
-  "translation": "to pójdę również Ja z wami w wrogości (keri), i uderzę ⟨את⟩ was, także Ja, siedmiokrotnie za wasze grzechy.",
+  "translation": "i pójdę również Ja z wami w przeciwności, i porażę ⟨את⟩ was, także Ja, siedem razy za wasze grzechy.",
   "tokens": [
     {
       "surface": "והלכתי",
-      "gloss": "to pójdę"
+      "gloss": "i pójdę"
     },
     {
       "surface": "אף",
@@ -25,15 +25,16 @@
     },
     {
       "surface": "בקרי",
-      "gloss": "w wrogości (keri)"
+      "gloss": "w przeciwności"
     },
     {
       "surface": "והכיתי",
-      "gloss": "i uderzę"
+      "gloss": "i porażę"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ was"
+      "gloss": "⟨את⟩",
+      "marks": "was"
     },
     {
       "surface": "גם",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "siedmiokrotnie"
+      "gloss": "siedem"
     },
     {
       "surface": "על",
@@ -56,6 +57,6 @@
       "gloss": "wasze grzechy"
     }
   ],
-  "timestamp": "2026-08-24T22:49:05.461569197Z",
+  "timestamp": "2026-08-25T05:45:56.491486895Z",
   "model": "glm-5.3"
 }

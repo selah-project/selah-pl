@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 25,
-  "translation": "A jeśli nie zostanie wykupiony do czasu napełnienia mu roku pełnego, to dom, który ⟨jest⟩ w mieście, które nie ⟨ma⟩ muru, na zatracenie stanie się nabywcy ⟨את⟩ niego, na pokolenia jego; nie wyjdzie w jubileuszu.",
+  "translation": "A jeśli nie zostanie wykupiony, aż upłynie mu pełny rok, to dom, który jest w mieście, które nie ⟨ma⟩ muru, przepadnie na wieczność nabywcy ⟨את⟩, dla jego pokoleń; nie wyjdzie w jubileuszu.",
   "tokens": [
     {
       "surface": "ואם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "do czasu"
+      "gloss": "aż"
     },
     {
       "surface": "מלאת",
-      "gloss": "napełnienia"
+      "gloss": "upłynie"
     },
     {
       "surface": "לו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "שנה",
-      "gloss": "roku"
+      "gloss": "rok"
     },
     {
       "surface": "תמימה",
-      "gloss": "pełnego"
+      "gloss": "pełny"
     },
     {
       "surface": "וקם",
-      "gloss": "stanie się (zostanie potwierdzony)"
+      "gloss": "przepadnie"
     },
     {
       "surface": "הבית",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "לצמיתת",
-      "gloss": "na zatracenie (na zawsze)"
+      "gloss": "na wieczność"
     },
     {
       "surface": "לקנה",
@@ -78,11 +78,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jego (domu)"
+      "marks": "dla jego pokoleń"
     },
     {
       "surface": "לדרתיו",
-      "gloss": "na pokolenia jego"
+      "gloss": "dla jego pokoleń"
     },
     {
       "surface": "לא",
@@ -97,6 +97,6 @@
       "gloss": "w jubileuszu"
     }
   ],
-  "timestamp": "2026-08-24T22:48:14.738912173Z",
+  "timestamp": "2026-08-25T05:46:26.721488991Z",
   "model": "glm-5.3"
 }

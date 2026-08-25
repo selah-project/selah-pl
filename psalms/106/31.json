@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "pl",
   "chapter": 106,
-  "translation": "I policzono mu to za sprawiedliwość, na pokolenie i pokolenie, aż na wieki.",
+  "translation": "I policzono mu to za sprawiedliwość, od pokolenia do pokolenia, aż na wieki.",
   "tokens": [
     {
       "surface": "ותחשב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לדר",
-      "gloss": "na pokolenie"
+      "gloss": "od pokolenia"
     },
     {
       "surface": "ודר",
-      "gloss": "i pokolenie"
+      "gloss": "do pokolenia"
     },
     {
       "surface": "עד",
@@ -36,6 +36,6 @@
       "gloss": "wieki"
     }
   ],
-  "timestamp": "2026-08-25T02:00:54.630758482Z",
+  "timestamp": "2026-08-25T06:16:41.065220454Z",
   "model": "glm-5.3"
 }

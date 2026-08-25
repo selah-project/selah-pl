@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 39,
-  "translation": "I oddał naczelnik domu więzienia do ręki Josefa ⟨את⟩ wszystkich więźniów, którzy byli w domu więzienia, i ⟨את⟩ wszystko, co tam robiono — on był tym, który to wykonywał.",
+  "translation": "I powierzył naczelnik domu więzienia w rękę Józefa ⟨את⟩ wszystkich więźniów, którzy byli w domu więzienia, i ⟨את⟩ wszystko, co tam robili, on był wykonującym.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "i oddał"
+      "gloss": "i powierzył"
     },
     {
       "surface": "שר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ביד",
-      "gloss": "do ręki"
+      "gloss": "w rękę"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefa"
+      "gloss": "Józefa"
     },
     {
       "surface": "את",
@@ -59,7 +59,7 @@
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "wszystko, co tam robiono"
+      "marks": "wszystko, co tam robili"
     },
     {
       "surface": "כל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "robiono"
+      "gloss": "robili"
     },
     {
       "surface": "שם",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "wykonywał"
+      "gloss": "wykonującym"
     }
   ],
-  "timestamp": "2026-08-24T22:21:18.228580789Z",
+  "timestamp": "2026-08-25T05:39:06.676490440Z",
   "model": "glm-5.3"
 }

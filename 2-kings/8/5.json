@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 8,
-  "translation": "I stało się, gdy on opowiadał królowi ⟨את⟩ to, co ożywił ⟨את⟩ umarłego, a oto niewiasta, którą ożywił ⟨את⟩ jej syna, woła do króla o swój dom i o swe pole. I rzekł Giechazi: Panie mój, królu, to ⟨jest⟩ ta niewiasta i to jej syn, którego ożywił Elisza.",
+  "translation": "I stało się, gdy opowiadał królowi ⟨את⟩ to, że ożywił ⟨את⟩ umarłego, oto ta kobieta, której syna ożywił, wołała do króla o swój dom i o swe pole. I rzekł Gechazi: Mój panie, królu, to ⟨jest⟩ ta kobieta, a to jej syn, którego ożywił Eliszua.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co ożywił"
+      "marks": "to"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "to, że"
     },
     {
       "surface": "החיה",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "a oto"
+      "gloss": "oto"
     },
     {
       "surface": "האשה",
-      "gloss": "niewiasta"
+      "gloss": "ta kobieta"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "której"
     },
     {
       "surface": "החיה",
@@ -64,15 +64,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jej syna"
+      "marks": "syna"
     },
     {
       "surface": "בנה",
-      "gloss": "jej syn"
+      "gloss": "syna"
     },
     {
       "surface": "צעקת",
-      "gloss": "woła"
+      "gloss": "wołała"
     },
     {
       "surface": "אל",
@@ -100,15 +100,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "גחזי",
-      "gloss": "Giechazi"
+      "gloss": "Gechazi"
     },
     {
       "surface": "אדני",
-      "gloss": "panie mój"
+      "gloss": "Mój panie"
     },
     {
       "surface": "המלך",
@@ -120,11 +120,11 @@
     },
     {
       "surface": "האשה",
-      "gloss": "ta niewiasta"
+      "gloss": "ta kobieta"
     },
     {
       "surface": "וזה",
-      "gloss": "i to"
+      "gloss": "a to"
     },
     {
       "surface": "בנה",
@@ -140,9 +140,9 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elisza"
+      "gloss": "Eliszua"
     }
   ],
-  "timestamp": "2026-08-25T00:11:57.245728488Z",
+  "timestamp": "2026-08-25T06:02:02.131035580Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I rzekł Churam, król Coru, pismem, i posłał ⟨to⟩ do Szelomo: z miłości Jahwe do ⟨את⟩ swego ludu dał cię nad nimi jako króla.",
+  "translation": "I odpowiedział Churam, król Coru, na piśmie i posłał do Szelomo: z miłości Jahwe ku ⟨את⟩ swemu ludowi ustanowił cię nad nimi królem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i odpowiedział"
     },
     {
       "surface": "חורם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בכתב",
-      "gloss": "pismem"
+      "gloss": "na piśmie"
     },
     {
       "surface": "וישלח",
@@ -50,15 +50,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swego ludu"
+      "marks": "swój lud"
     },
     {
       "surface": "עמו",
-      "gloss": "swego ludu"
+      "gloss": "swój lud"
     },
     {
       "surface": "נתנך",
-      "gloss": "dał cię"
+      "gloss": "ustanowił cię"
     },
     {
       "surface": "עליהם",
@@ -69,6 +69,6 @@
       "gloss": "królem"
     }
   ],
-  "timestamp": "2026-08-25T03:01:03.516338804Z",
+  "timestamp": "2026-08-25T06:26:02.624614491Z",
   "model": "glm-5.3"
 }

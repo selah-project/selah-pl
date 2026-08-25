@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 22,
-  "translation": "Dlatego tak mówi Jahwe o Jehojakimie, synu Joszijaszu, królu Jehudy: nie będą go opłakiwać ⟨z słowami⟩: biada, bracie! i biada, siostro! Nie będą go opłakiwać ⟨z słowami⟩: biada, panie! i biada, jego wspaniałości!",
+  "translation": "Dlatego tak powiedział Jahwe o Jehojakimie, synu Joszjaszu, królu Jehudy: nie będą go opłakiwać ⟨słowami⟩ 'Ach, bracie mój!' i 'Ach, siostro!' — nie będą go opłakiwać ⟨słowami⟩ 'Ach, panie!' i 'Ach, jego świetności!'",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "dlatego"
+      "gloss": "Dlatego"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "mówi"
+      "gloss": "powiedział"
     },
     {
       "surface": "יהוה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "syn"
+      "gloss": "synu"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Joszijaszu"
+      "gloss": "Joszjaszu"
     },
     {
       "surface": "מלך",
-      "gloss": "król"
+      "gloss": "królu"
     },
     {
       "surface": "יהודה",
@@ -61,19 +61,15 @@
     },
     {
       "surface": "הוי",
-      "gloss": "biada"
+      "gloss": "Ach"
     },
     {
       "surface": "אחי",
-      "gloss": "bracie"
+      "gloss": "bracie mój"
     },
     {
-      "surface": "ו",
-      "gloss": "i"
-    },
-    {
-      "surface": "הוי",
-      "gloss": "biada"
+      "surface": "והוי",
+      "gloss": "i Ach"
     },
     {
       "surface": "אחות",
@@ -93,7 +89,7 @@
     },
     {
       "surface": "הוי",
-      "gloss": "biada"
+      "gloss": "Ach"
     },
     {
       "surface": "אדון",
@@ -101,13 +97,13 @@
     },
     {
       "surface": "והוי",
-      "gloss": "i biada"
+      "gloss": "i Ach"
     },
     {
       "surface": "הדה",
-      "gloss": "jego wspaniałości"
+      "gloss": "jego świetności"
     }
   ],
-  "timestamp": "2026-08-25T04:16:27.901730094Z",
+  "timestamp": "2026-08-25T06:09:05.751504288Z",
   "model": "glm-5.3"
 }

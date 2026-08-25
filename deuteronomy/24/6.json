@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 24,
-  "translation": "Nie weźmie się w zastaw żaren ani kamienia górnego, gdyż ⟨to⟩ życie bierze się w zastaw.",
+  "translation": "Nie weźmie się w zastaw żaren ani koła młyńskiego, gdyż nefesz ⟨to jest⟩ — on ⟨ten, kto⟩ bierze w zastaw.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רחים",
-      "gloss": "żaren"
+      "gloss": "żarna"
     },
     {
-      "surface": "ורכב",
-      "gloss": "ani kamienia górnego"
+      "surface": "וירכב",
+      "gloss": "i koło młyńskie"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "życie"
+      "gloss": "nefesz"
     },
     {
       "surface": "הוא",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "חבל",
-      "gloss": "bierze się w zastaw"
+      "gloss": "bierze w zastaw"
     }
   ],
-  "timestamp": "2026-08-24T23:12:00.828364782Z",
+  "timestamp": "2026-08-25T05:51:15.297936435Z",
   "model": "glm-5.3"
 }

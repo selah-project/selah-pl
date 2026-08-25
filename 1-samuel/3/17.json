@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł: Jakie ⟨to⟩ słowo, które mówił do ciebie? Nie zakrywaj, proszę, przede mną; tak niech ci uczyni Elohim i tak niech doda, jeśli zakryjesz przede mną ⟨jakieś⟩ słowo ze wszystkich słów, które mówił do ciebie.",
+  "translation": "I rzekł: jakie ⟨to⟩ słowo, które mówił do ciebie? Nie zatajaj, proszę, przedem mną; tak ci niech uczyni Elohim i tak niech doda, jeśli zataisz przedem mną słowo ze wszystkich słów, które mówił do ciebie.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "מה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "słowo"
+      "gloss": "⟨to⟩ słowo"
     },
     {
       "surface": "אשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "תכחד",
-      "gloss": "zakrywaj"
+      "gloss": "zatajaj"
     },
     {
       "surface": "ממני",
-      "gloss": "przede mną"
+      "gloss": "przedem mną"
     },
     {
       "surface": "כה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "tobie"
+      "gloss": "ci"
     },
     {
       "surface": "אלהים",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "תכחד",
-      "gloss": "zakryjesz"
+      "gloss": "zataisz"
     },
     {
       "surface": "ממני",
-      "gloss": "przede mną"
+      "gloss": "przedem mną"
     },
     {
       "surface": "דבר",
@@ -108,6 +108,6 @@
       "gloss": "do ciebie"
     }
   ],
-  "timestamp": "2026-08-24T23:35:01.261349137Z",
+  "timestamp": "2026-08-25T05:55:07.811029470Z",
   "model": "glm-5.3"
 }

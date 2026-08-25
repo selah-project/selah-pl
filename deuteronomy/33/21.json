@@ -5,8 +5,77 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I wybrał ⟨dla siebie⟩ pierwociny, bo tam zarezerwowana jest porcja prawodawcy, i przybył z głowami ludu; sprawiedliwość Jahwe wykonał i swoje prawa wraz z Israel.",
-  "tokens": [],
-  "timestamp": "2026-08-24T23:14:35.054517223Z",
+  "translation": "I ujrzał pierwociny dla siebie, gdyż tam ukryta ⟨jest⟩ część prawodawcy; i przyszedł ⟨z⟩ głowami ludu — sprawiedliwość Jahwe wykonał i Jego wyroki z Israel.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pierwociny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "część"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "prawodawcy"
+    },
+    {
+      "surface": "ספון",
+      "gloss": "ukryta"
+    },
+    {
+      "surface": "ויתא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wykonał"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i Jego wyroki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-25T05:52:29.358020963Z",
   "model": "glm-5.3"
 }

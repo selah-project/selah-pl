@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 23,
-  "translation": "Słyszałem ⟨את⟩ to, co powiedzieli prorocy prorokujący w moim imieniu kłamliwie, mówiąc: Śniło mi się, śniło mi się.",
+  "translation": "Słyszałem ⟨את⟩ to, co mówili prorocy, prorokujący w moim imieniu kłamliwie, mówiąc: Śniło mi się, śniło mi się.",
   "tokens": [
     {
       "surface": "שמעתי",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co powiedzieli prorocy"
+      "marks": "to, co mówili prorocy"
     },
     {
       "surface": "אשר",
-      "gloss": "którzy\/które"
+      "gloss": "co"
     },
     {
       "surface": "אמרו",
-      "gloss": "powiedzieli"
+      "gloss": "mówili"
     },
     {
       "surface": "הנבאים",
@@ -53,6 +53,6 @@
       "gloss": "śniło mi się"
     }
   ],
-  "timestamp": "2026-08-25T00:52:05.316364470Z",
+  "timestamp": "2026-08-25T06:08:18.555407753Z",
   "model": "glm-5.3"
 }

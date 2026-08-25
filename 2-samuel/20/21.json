@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 20,
-  "translation": "Nie tak ⟨jest⟩ sprawa, bo mąż z góry Efrajim, Szeva syn Bikriego, ⟨to⟩ jego imię, podniósł swoją rękę przeciw królowi, przeciw Dawidowi; wydajcie ⟨את⟩ jego samego, a odejdę od miasta. I powiedziała kobieta do Joawa: Oto jego głowa zostanie rzucona do ciebie przez mur.",
+  "translation": "Nie tak ⟨jest⟩ ta sprawa, lecz pewien mąż z góry Efrajim, Szeba syn Bikriego jego imię, podniósł swoją rękę na króla, na Dawida; wydajcie ⟨את⟩ jego samego, a odejdę od miasta. I powiedziała ta kobieta do Joaba: Oto jego głowa zostanie rzucona do ciebie przez mur.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "sprawa"
+      "gloss": "ta sprawa"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "lecz"
     },
     {
       "surface": "איש",
-      "gloss": "mąż"
+      "gloss": "pewien mąż"
     },
     {
       "surface": "מהר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Szeva"
+      "gloss": "Szeba"
     },
     {
       "surface": "בן",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "במלך",
-      "gloss": "przeciw królowi"
+      "gloss": "na króla"
     },
     {
       "surface": "בדוד",
-      "gloss": "przeciw Dawidowi"
+      "gloss": "na Dawida"
     },
     {
       "surface": "תנו",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "samego"
+      "gloss": "jego samego"
     },
     {
       "surface": "ואלכה",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "i powiedziała"
+      "gloss": "I powiedziała"
     },
     {
       "surface": "האשה",
-      "gloss": "kobieta"
+      "gloss": "ta kobieta"
     },
     {
       "surface": "אל",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Joawa"
+      "gloss": "Joaba"
     },
     {
       "surface": "הנה",
@@ -133,6 +133,6 @@
       "gloss": "mur"
     }
   ],
-  "timestamp": "2026-08-24T23:51:41.016779467Z",
+  "timestamp": "2026-08-25T05:58:32.201782401Z",
   "model": "glm-5.3"
 }

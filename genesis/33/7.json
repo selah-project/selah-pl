@@ -5,13 +5,49 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 33,
-  "translation": "I podeszła również Lea z dziećmi swymi, i pokłonili się; a potem podszedł Josef i Rachel, i pokłonili się.",
+  "translation": "I również przybliżyła się Lea oraz jej dzieci i pokłoniły się; a potem przybliżył się Josef i Rachel i pokłonili się.",
   "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "przybliżyła się"
+    },
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "oraz jej dzieci"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłoniły się"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "przybliżył się"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "i Rachel"
+    },
     {
       "surface": "וישתחוו",
       "gloss": "i pokłonili się"
     }
   ],
-  "timestamp": "2026-08-24T22:18:40.389200282Z",
+  "timestamp": "2026-08-25T06:27:39.153377765Z",
   "model": "glm-5.3"
 }

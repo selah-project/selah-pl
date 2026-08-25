@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "pl",
   "chapter": 7,
-  "translation": "I ⟨את⟩ świeczniki — pięć po prawicy i pięć po lewicy — przed אתדביר, złoto zamknięte, oraz kwiaty, lampy i nożyczki — złoto.",
+  "translation": "I ⟨את⟩ menory, pięć po prawicy i pięć po lewicy przed debirem, ze złota szczerego, oraz kwiaty, lampy i nożyczki — złoto.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "świeczniki"
+      "marks": "menory"
     },
     {
       "surface": "המנרות",
-      "gloss": "świeczniki"
+      "gloss": "menory"
     },
     {
       "surface": "חמש",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "adhavar (sanctuary)"
+      "gloss": "debir"
     },
     {
       "surface": "זהב",
-      "gloss": "złoto"
+      "gloss": "ze złota"
     },
     {
       "surface": "סגור",
-      "gloss": "zamknięte"
+      "gloss": "szczerego"
     },
     {
       "surface": "והפרח",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "והנרת",
-      "gloss": "i lampy"
+      "gloss": "lampy"
     },
     {
       "surface": "והמלקחים",
@@ -65,6 +65,6 @@
       "gloss": "złoto"
     }
   ],
-  "timestamp": "2026-08-24T23:57:01.628540348Z",
+  "timestamp": "2026-08-25T05:59:57.680566660Z",
   "model": "glm-5.3"
 }

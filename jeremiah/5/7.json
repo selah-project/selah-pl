@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 5,
-  "translation": "Jakże mam ci to odpuścić? Twoi synowie opuścili mnie i przysięgali ⟨את⟩ nie-bogami; nasyciłem ich, a oni cudzołożyli i tłoczą się gromadnie do domu nierządnicy.",
+  "translation": "Czemu temu miałbym ci odpuścić? Synowie twoi opuścili mnie i przysięgali przez ⟨to, co nie jest⟩ Elohim; a nasyciłem ⟨את⟩ ich — i cudzołożyli, i do domu nierządnicy się schodzą.",
   "tokens": [
     {
       "surface": "אי",
-      "gloss": "jakże"
+      "gloss": "czemu"
     },
     {
       "surface": "לזאת",
-      "gloss": "to"
+      "gloss": "temu"
     },
     {
       "surface": "אסלוח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בניך",
-      "gloss": "twoi synowie"
+      "gloss": "synowie twoi"
     },
     {
       "surface": "עזבוני",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בלא",
-      "gloss": "nie-"
+      "gloss": "przez ⟨to, co nie jest⟩"
     },
     {
       "surface": "אלהים",
-      "gloss": "bogami"
+      "gloss": "Elohim"
     },
     {
       "surface": "ואשבע",
@@ -49,12 +49,11 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich",
-      "marks": "synowie"
+      "gloss": "⟨את⟩ ich"
     },
     {
       "surface": "וינאפו",
-      "gloss": "a oni cudzołożyli"
+      "gloss": "i cudzołożyli"
     },
     {
       "surface": "ובית",
@@ -66,9 +65,9 @@
     },
     {
       "surface": "יתגדדו",
-      "gloss": "tłoczą się gromadnie"
+      "gloss": "się schodzą"
     }
   ],
-  "timestamp": "2026-08-25T00:42:53.199681042Z",
+  "timestamp": "2026-08-25T06:08:02.995162174Z",
   "model": "glm-5.3"
 }

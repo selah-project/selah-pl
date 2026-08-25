@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 44,
-  "translation": "I w dniu jego wejścia do ⟨świętego⟩ miejsca, do dziedzińca wewnętrznego, by pełnić służbę w ⟨świątyni⟩, złoży ⟨את⟩ swoją ofiarę za grzech — wyrocznia Adonai Jahwe.",
+  "translation": "I w dniu jego wejścia do ⟨świętości⟩, do dziedzińca wewnętrznego, aby służyć w ⟨świętości⟩, złoży jako ofiarę swoje grzechy — wyroczenie Adonai Jahwe.",
   "tokens": [
     {
       "surface": "וביום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "świętego miejsca"
+      "gloss": "⟨świętości⟩"
     },
     {
       "surface": "אל",
@@ -37,28 +37,23 @@
     },
     {
       "surface": "לשרת",
-      "gloss": "by pełnić służbę"
+      "gloss": "aby służyć"
     },
     {
       "surface": "בקדש",
-      "gloss": "w świątyni"
+      "gloss": "w ⟨świętości⟩"
     },
     {
       "surface": "יקריב",
-      "gloss": "złoży"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "swoją ofiarę za grzech"
+      "gloss": "złoży jako ofiarę"
     },
     {
       "surface": "חטאתו",
-      "gloss": "swoją ofiarę za grzech"
+      "gloss": "swoje grzechy"
     },
     {
       "surface": "נאם",
-      "gloss": "wyrocznia"
+      "gloss": "wyroczenie"
     },
     {
       "surface": "אדני",
@@ -69,6 +64,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-25T01:28:17.019187357Z",
+  "timestamp": "2026-08-25T06:13:22.115571787Z",
   "model": "glm-5.3"
 }

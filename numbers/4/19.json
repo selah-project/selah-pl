@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 4,
-  "translation": "A to zróbcie im, a będą żyć i nie umrą, gdy przybliżać się będą do ⟨את⟩ świętości świętości: Ahron i jego synowie wejdą i ustanowią ich, każdego człowieka przy jego służbie i przy jego brzemieniu.",
+  "translation": "A to czyńcie im, a będą żyć i nie umrą, gdy się zbliżą ⟨את⟩ do świętości świętych rzeczy; Aharon i jego synowie wejdą i ustanowią ich, każdego ⟨את⟩ na jego służbie i na jego brzemieniu.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "A to"
+      "gloss": "a to"
     },
     {
       "surface": "עשו",
-      "gloss": "zróbcie"
+      "gloss": "czyńcie"
     },
     {
       "surface": "להם",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "בגשתם",
-      "gloss": "gdy przybliżać się będą"
+      "gloss": "gdy się zbliżą"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "świętości świętości"
+      "marks": "świętość świętych rzeczy"
     },
     {
       "surface": "קדש",
-      "gloss": "świętości"
+      "gloss": "świętość"
     },
     {
       "surface": "הקדשים",
-      "gloss": "świętości"
+      "gloss": "świętych rzeczy"
     },
     {
       "surface": "אהרן",
-      "gloss": "Ahron"
+      "gloss": "Aharon"
     },
     {
       "surface": "ובניו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "wejdą"
+      "gloss": "wejdadą"
     },
     {
       "surface": "ושמו",
@@ -66,19 +66,20 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ich"
+      "gloss": "⟨את⟩",
+      "marks": "każdego"
     },
     {
       "surface": "איש",
-      "gloss": "każdego człowieka"
+      "gloss": "każdy"
     },
     {
       "surface": "איש",
-      "gloss": "(każdego)"
+      "gloss": "człowiek"
     },
     {
       "surface": "על",
-      "gloss": "przy"
+      "gloss": "na"
     },
     {
       "surface": "עבדתו",
@@ -86,13 +87,13 @@
     },
     {
       "surface": "ואל",
-      "gloss": "i przy"
+      "gloss": "i do"
     },
     {
       "surface": "משאו",
-      "gloss": "jego brzemieniu"
+      "gloss": "jego brzemienia"
     }
   ],
-  "timestamp": "2026-08-24T22:50:54.581196515Z",
+  "timestamp": "2026-08-25T06:28:43.301060262Z",
   "model": "glm-5.3"
 }

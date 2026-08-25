@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 36,
-  "translation": "I sprowadził na nich ⟨את⟩ króla Kasdim, i pozabijał ich młodych mieczem w domu ich świątyni, i nie zlitował się nad młodym ani nad dziewicą, nad starcem i sędziwym — wszystko wydał w jego rękę.",
+  "translation": "I sprowadził na nich króla Kasdim, i polecił ich młodych mieczem w domu ich świątyni, i nie ulitował się nad młodym ani nad dziewicą, nad starcem ani nad sędziwym — wszystkich wydał w jego rękę.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויהרג",
-      "gloss": "i pozabijał"
+      "gloss": "i polecił"
     },
     {
       "surface": "בחוריהם",
@@ -49,17 +49,12 @@
       "gloss": "ich świątyni"
     },
     {
-      "surface": "ויגו",
-      "gloss": "",
-      "notes": "placeholder"
-    },
-    {
       "surface": "ולא",
       "gloss": "i nie"
     },
     {
       "surface": "חמל",
-      "gloss": "zlitował się"
+      "gloss": "ulitował się"
     },
     {
       "surface": "על",
@@ -71,7 +66,7 @@
     },
     {
       "surface": "ובתולה",
-      "gloss": "i dziewicą"
+      "gloss": "ani nad dziewicą"
     },
     {
       "surface": "זקן",
@@ -79,11 +74,11 @@
     },
     {
       "surface": "וישש",
-      "gloss": "i sędziwym"
+      "gloss": "ani nad sędziwym"
     },
     {
       "surface": "הכל",
-      "gloss": "wszystko"
+      "gloss": "wszystkich"
     },
     {
       "surface": "נתן",
@@ -94,6 +89,6 @@
       "gloss": "w jego rękę"
     }
   ],
-  "timestamp": "2026-08-25T03:12:29.541536794Z",
+  "timestamp": "2026-08-25T06:33:11.698905543Z",
   "model": "glm-5.3"
 }

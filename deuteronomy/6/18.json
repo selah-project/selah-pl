@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 6,
-  "translation": "I czyń to, co proste i dobre w oczach Jahwe, aby ci było dobrze, i wejdziesz, i posiądziesz ⟨את⟩ tę ziemię dobrą, którą przysiągł Jahwe ojcom twoim,",
+  "translation": "I będziesz czynić to, co proste i dobre w oczach Jahwe, aby ci się dobrze powodziło, i wejdziesz, i posiądziesz ⟨את⟩ ⟨tę⟩ ziemię dobrą, którą Jahwe przysiągł twoim ojcom.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "i czyń"
+      "gloss": "i będziesz czynić"
     },
     {
       "surface": "הישר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "było dobrze"
+      "gloss": "dobrze się powodziło"
     },
     {
       "surface": "לך",
-      "gloss": "tobie"
+      "gloss": "ci"
     },
     {
       "surface": "ובאת",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tę ziemię"
+      "marks": "ziemię dobrą"
     },
     {
       "surface": "הארץ",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "לאבתיך",
-      "gloss": "ojcom twoim"
+      "gloss": "twoim ojcom"
     }
   ],
-  "timestamp": "2026-08-24T23:05:23.236262867Z",
+  "timestamp": "2026-08-25T05:49:40.710576699Z",
   "model": "glm-5.3"
 }

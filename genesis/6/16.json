@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 6,
-  "translation": "Okno zrobisz dla skrzyni i do łokcia <dokończysz> ją <od> góry, a wejście skrzyni w jej boku umieścisz; <na> dole, <na> drugim <i> <na> trzecim <pokładzie> ją zrobisz.",
+  "translation": "Skylight zrobisz arce, a do łokcia dokończysz ją od góry; i wejście arki w boku jej umieścisz; niższe, drugie i trzecie piętra uczynisz ją.",
   "tokens": [
     {
       "surface": "צהר",
-      "gloss": "Okno"
+      "gloss": "skylight"
     },
     {
       "surface": "תעשה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לתבה",
-      "gloss": "dla skrzyni"
+      "gloss": "arce"
     },
     {
       "surface": "ואל",
-      "gloss": "i do"
+      "gloss": "a do"
     },
     {
       "surface": "אמה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תכלנה",
-      "gloss": "dokończysz"
+      "gloss": "dokończysz ją"
     },
     {
       "surface": "מלמעלה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ופתח",
-      "gloss": "a wejście"
+      "gloss": "i wejście"
     },
     {
       "surface": "התבה",
-      "gloss": "skrzyni"
+      "gloss": "arki"
     },
     {
       "surface": "בצדה",
-      "gloss": "w jej boku"
+      "gloss": "w boku jej"
     },
     {
       "surface": "תשים",
@@ -53,21 +53,21 @@
     },
     {
       "surface": "תחתים",
-      "gloss": "(na) dole"
+      "gloss": "niższe (piętro)"
     },
     {
       "surface": "שנים",
-      "gloss": "(na) drugim"
+      "gloss": "drugie"
     },
     {
       "surface": "ושלשים",
-      "gloss": "i (na) trzecim"
+      "gloss": "i trzecie"
     },
     {
       "surface": "תעשה",
-      "gloss": "ją zrobisz"
+      "gloss": "uczynisz ją"
     }
   ],
-  "timestamp": "2026-08-24T22:10:52.105620153Z",
+  "timestamp": "2026-08-25T05:37:20.725066449Z",
   "model": "glm-5.3"
 }

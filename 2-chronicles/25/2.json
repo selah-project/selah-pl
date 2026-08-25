@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 25,
-  "translation": "I czynił to, co prawe w oczach Jahwe, lecz nie całym sercem.",
+  "translation": "I czynił to, co prawe w oczach Jahwe, jednak nie z całym sercem.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "lecz"
+      "gloss": "jednak"
     },
     {
       "surface": "לא",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "בלבב",
-      "gloss": "sercem"
+      "gloss": "z sercem"
     },
     {
       "surface": "שלם",
       "gloss": "całym"
     }
   ],
-  "timestamp": "2026-08-25T03:08:57.167689150Z",
+  "timestamp": "2026-08-25T06:26:29.985836009Z",
   "model": "glm-5.3"
 }

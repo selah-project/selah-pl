@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 21,
-  "translation": "A który nie czyhał, a Elohim naprowadził ⟨to⟩ pod jego rękę — wyznaczę tobie miejsce, dokąd ucieknie tam.",
+  "translation": "A ⟨ten⟩, który nie czyhał, a Elohim ⟨spowodował, że⟩ przyszło ⟨to⟩ pod jego rękę — wyznaczę ci miejsce, dokąd ⟨on⟩ ucieknie.",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "a który"
+      "gloss": "A ⟨ten⟩, który"
     },
     {
       "surface": "לא",
@@ -20,12 +20,12 @@
       "gloss": "czyhał"
     },
     {
-      "surface": "ווהאלהים",
+      "surface": "והאלהים",
       "gloss": "a Elohim"
     },
     {
       "surface": "אנה",
-      "gloss": "naprowadził"
+      "gloss": "⟨spowodował, że⟩ przyszło"
     },
     {
       "surface": "לידו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ושמתי",
-      "gloss": "wyznaczę"
+      "gloss": "a wyznaczę"
     },
     {
       "surface": "לך",
-      "gloss": "tobie"
+      "gloss": "ci"
     },
     {
       "surface": "מקום",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "שמה",
-      "gloss": "tam"
+      "gloss": "⟨on⟩ tam"
     }
   ],
-  "timestamp": "2026-08-25T04:05:47.953673339Z",
+  "timestamp": "2026-08-25T05:41:51.444676506Z",
   "model": "glm-5.3"
 }

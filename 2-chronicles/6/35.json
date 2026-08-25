@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 6,
-  "translation": "to usłyszysz z niebios ⟨את⟩ modlitwy ich i ⟨את⟩ błagania ich, i dokonasz ich prawa.",
+  "translation": "i usłyszysz z niebios ⟨את⟩ modlitwę ich i ⟨את⟩ błaganie ich, i dokonasz prawa ich.",
   "tokens": [
     {
       "surface": "ושמעת",
-      "gloss": "to usłyszysz"
+      "gloss": "i usłyszysz"
     },
     {
       "surface": "מן",
@@ -22,20 +22,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "modlitwy ich"
+      "marks": "modlitwę ich"
     },
     {
       "surface": "תפלתם",
-      "gloss": "modlitwy ich"
+      "gloss": "modlitwę ich"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "błagania ich"
+      "marks": "błaganie ich"
     },
     {
       "surface": "תחנתם",
-      "gloss": "błagania ich"
+      "gloss": "błaganie ich"
     },
     {
       "surface": "ועשית",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "משפטם",
-      "gloss": "ich prawa"
+      "gloss": "prawa ich"
     }
   ],
-  "timestamp": "2026-08-25T03:01:03.268983343Z",
+  "timestamp": "2026-08-25T06:25:31.499039077Z",
   "model": "glm-5.3"
 }

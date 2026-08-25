@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "pl",
   "chapter": 21,
-  "translation": "I posłała tam zgromadzenie dwunastu tysięcy mężów spośród synów dzielności, i rozkazali ⟨את⟩ im, mówiąc: Idźcie i pobijcie ⟨את⟩ mieszkańców Jawesz Gilead ostrzem miecza, ⟨razem⟩ z kobietami i dziećmi.",
+  "translation": "I wysłało tam zgromadzenie dwanaście tysięcy mężów spośród synów dzielności, i przykazano ⟨את⟩im, mówiąc: Idźcie i pobijcie ⟨את⟩ mieszkańców Jawesz-Gilad ostrzem miecza, wraz z kobietami i dziećmi.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "i posłała"
+      "gloss": "i wysłało"
     },
     {
       "surface": "שם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "-naście"
+      "gloss": "naście"
     },
     {
       "surface": "אלף",
@@ -45,11 +45,12 @@
     },
     {
       "surface": "ויצוו",
-      "gloss": "i rozkazali"
+      "gloss": "i przykazano"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ im"
+      "gloss": "⟨את⟩ich",
+      "marks": "im"
     },
     {
       "surface": "לאמר",
@@ -60,12 +61,17 @@
       "gloss": "idźcie"
     },
     {
-      "surface": "ויכיתם את",
-      "gloss": "i pobijcie ⟨את⟩"
+      "surface": "והכיתם",
+      "gloss": "i pobijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców Jawesz-Gilad"
     },
     {
       "surface": "יושבי",
-      "gloss": "⟨את⟩ mieszkańców"
+      "gloss": "mieszkańców"
     },
     {
       "surface": "יבש",
@@ -73,7 +79,7 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilead"
+      "gloss": "Gilad"
     },
     {
       "surface": "לפי",
@@ -85,13 +91,13 @@
     },
     {
       "surface": "והנשים",
-      "gloss": "z kobietami"
+      "gloss": "i kobiety"
     },
     {
       "surface": "והטף",
-      "gloss": "i dziećmi"
+      "gloss": "i dzieci"
     }
   ],
-  "timestamp": "2026-08-24T23:33:00.644520592Z",
+  "timestamp": "2026-08-25T05:55:47.913689458Z",
   "model": "glm-5.3"
 }

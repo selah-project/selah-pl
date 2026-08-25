@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Jeżeli ujrzy mąż spośród mężów tych, pokolenie złe to, ⟨את⟩ ziemię dobrą, którą przysiągłem dać ojcom waszym —",
+  "translation": "Jeśliby ⟨był⟩ oglądał mąż spośród mężów tych, pokolenie to złe, ⟨את⟩ ziemię tę dobrą, którą przysiągłem dać ojcom waszym —",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Jeżeli"
+      "gloss": "jeśliby"
     },
     {
       "surface": "יראה",
-      "gloss": "ujrzy"
+      "gloss": "oglądał"
     },
     {
       "surface": "איש",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ziemię dobrą"
+      "marks": "ziemię tę dobrą"
     },
     {
       "surface": "הארץ",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "dobrą"
+      "gloss": "tę dobrą"
     },
     {
       "surface": "אשר",
@@ -69,6 +69,6 @@
       "gloss": "ojcom waszym"
     }
   ],
-  "timestamp": "2026-08-24T23:03:57.749725259Z",
+  "timestamp": "2026-08-25T05:49:01.494155529Z",
   "model": "glm-5.3"
 }

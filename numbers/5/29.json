@@ -5,8 +5,45 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 5,
-  "translation": "To ⟨jest⟩ מyśl תory zazdrości, gdy kobieta zboczy pod swoim mężem i zostanie skalana.",
-  "tokens": [],
-  "timestamp": "2026-08-24T22:51:09.539060503Z",
+  "translation": "To jest tóra zazdrości, gdy zboczy kobieta spod męża swego i skaże się.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóra"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "zazdrości"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "zboczy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "spod"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "męża swego"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "i skaże się"
+    }
+  ],
+  "timestamp": "2026-08-25T05:47:04.177745064Z",
   "model": "glm-5.3"
 }

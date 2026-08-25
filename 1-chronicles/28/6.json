@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pl",
   "chapter": 28,
-  "translation": "I rzekł do mnie: Szlomo, syn twój, to on zbuduje dom mój i dziedzińce moje; bo wybrałem go sobie na syna, a ja będę mu za ojca.",
+  "translation": "I rzekł do mnie: Szlomo, syn twój, to on zbuduje mój dom i moje dziedzińce, bo wybrałem go sobie na syna, a ja będę jemu za ojca.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "I rzekł"
     },
     {
       "surface": "לי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ביתי",
-      "gloss": "dom mój"
+      "gloss": "mój dom"
     },
     {
       "surface": "וחצרותי",
-      "gloss": "i dziedzińce moje"
+      "gloss": "i moje dziedzińce"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "go"
+      "gloss": "jego"
     },
     {
       "surface": "לי",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "jemu"
     },
     {
       "surface": "לאב",
       "gloss": "za ojca"
     }
   ],
-  "timestamp": "2026-08-25T02:59:45.404165784Z",
+  "timestamp": "2026-08-25T06:25:30.758271004Z",
   "model": "glm-5.3"
 }

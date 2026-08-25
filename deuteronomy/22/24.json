@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 22,
-  "translation": "to wyprowadzicie ⟨את⟩ ich obydwoje do bramy tamtego miasta, i ukamienujecie ⟨את⟩ ich kamieniami, i umrą: ⟨את⟩ dziewczynę — dlatego, że nie krzyczała w mieście, a ⟨את⟩ mężczyznę — dlatego, że poniżył ⟨את⟩ żonę swojego bliźniego; a usuniesz zło ze swojego środka.",
+  "translation": "I wyprowadzicie ⟨את⟩ oboje do bramy tego miasta, i ukamienujecie ⟨את⟩ ich kamieniami, i umrą: ⟨את⟩ młodą niewiastę — za to, że nie krzyczała w mieście, a ⟨את⟩ mężczyznę — za to, że poniżył ⟨את⟩ żonę bliźniego swego; i usuniesz zło ze swego środka.",
   "tokens": [
     {
       "surface": "והוצאתם",
-      "gloss": "to wyprowadzicie"
+      "gloss": "i wyprowadzicie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ich obydwoje"
+      "marks": "oboje"
     },
     {
       "surface": "שניהם",
-      "gloss": "ich obydwoje"
+      "gloss": "oboje"
     },
     {
       "surface": "אל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "tego miasta"
+      "gloss": "miasta"
     },
     {
       "surface": "ההוא",
-      "gloss": "tamtego"
+      "gloss": "tego"
     },
     {
       "surface": "וסקלתם",
@@ -42,8 +42,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ich"
+      "gloss": "⟨את⟩ ich"
     },
     {
       "surface": "באבנים",
@@ -56,23 +55,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dziewczynę"
+      "marks": "młodą niewiastę"
     },
     {
       "surface": "הנער",
-      "gloss": "dziewczynę"
+      "gloss": "młodą niewiastę"
     },
     {
       "surface": "על",
-      "gloss": "dlatego, że"
+      "gloss": "za"
     },
     {
       "surface": "דבר",
-      "gloss": "z powodu rzeczy"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "że"
     },
     {
       "surface": "לא",
@@ -87,7 +86,7 @@
       "gloss": "w mieście"
     },
     {
-      "surface": "ואת",
+      "surface": "וואת",
       "gloss": "a ⟨את⟩",
       "marks": "mężczyznę"
     },
@@ -97,15 +96,15 @@
     },
     {
       "surface": "על",
-      "gloss": "dlatego, że"
+      "gloss": "za"
     },
     {
       "surface": "דבר",
-      "gloss": "z powodu rzeczy"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
-      "gloss": "którą"
+      "gloss": "że"
     },
     {
       "surface": "ענה",
@@ -122,11 +121,11 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "swojego bliźniego"
+      "gloss": "bliźniego swego"
     },
     {
       "surface": "ובערת",
-      "gloss": "a usuniesz"
+      "gloss": "i usuniesz"
     },
     {
       "surface": "הרע",
@@ -134,9 +133,9 @@
     },
     {
       "surface": "מקרבך",
-      "gloss": "ze swojego środka"
+      "gloss": "ze swego środka"
     }
   ],
-  "timestamp": "2026-08-24T23:12:21.322714227Z",
+  "timestamp": "2026-08-25T05:51:09.098506276Z",
   "model": "glm-5.3"
 }

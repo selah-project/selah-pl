@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "pl",
   "chapter": 2,
-  "translation": "Tak rzekł Jahwe: Za trzy buntu Jehudy i za cztery nie odwrócę ⟨tego⟩, za to, że wzgardzili ⟨את⟩ Torą Jahwe i ⟨את⟩ jego ustawy nie strzegli, i ich kłamstwa sprowadziły ich na manowce — za którymi szli ich ojcowie.",
+  "translation": "Tak rzekł Jahwe: za trzy bunty Jehudy i za cztery nie odwrócę ⟨go⟩, bo wzgardzili ⟨את⟩ torą Jahwe, a jego ustaw nie przestrzegali, i sprowadziły ich ich kłamstwa na manowce, za którymi szli ich ojcowie.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "tak"
+      "gloss": "Tak"
     },
     {
       "surface": "אמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "פשעי",
-      "gloss": "buntu"
+      "gloss": "bunty"
     },
     {
       "surface": "יהודה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אשיבנו",
-      "gloss": "odwrócę"
+      "gloss": "odwrócę ⟨go⟩"
     },
     {
       "surface": "על",
-      "gloss": "za to, że"
+      "gloss": "bo \/ z powodu"
     },
     {
       "surface": "מאסם",
@@ -62,11 +62,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Torą"
+      "marks": "torą Jahwe"
     },
     {
       "surface": "תורת",
-      "gloss": "Torą"
+      "gloss": "torą"
     },
     {
       "surface": "יהוה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "וחקיו",
-      "gloss": "i jego ustawy"
+      "gloss": "a jego ustaw"
     },
     {
       "surface": "לא",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "strzegli"
+      "gloss": "przestrzegali"
     },
     {
       "surface": "ויתעום",
-      "gloss": "i sprowadzili ich na manowce"
+      "gloss": "i sprowadziły ich na manowce"
     },
     {
       "surface": "כזביהם",
@@ -109,6 +109,6 @@
       "gloss": "za nimi"
     }
   ],
-  "timestamp": "2026-08-25T01:33:37.411354266Z",
+  "timestamp": "2026-08-25T06:14:02.515208963Z",
   "model": "glm-5.3"
 }

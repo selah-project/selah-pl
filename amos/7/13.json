@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "pl",
   "chapter": 7,
-  "translation": "A w Bet-El nie dodasz już więcej prorokować, bo ⟨to⟩ świątynia króla ⟨to⟩ i dom królestwa ⟨to⟩.",
+  "translation": "a w Bet-El nie będziesz już więcej dodawał prorokować, bo ⟨to⟩ sanktuarium króla ⟨to⟩ i dom królestwa ⟨to jest⟩",
   "tokens": [
     {
       "surface": "ובית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תוסיף",
-      "gloss": "dodasz"
+      "gloss": "będziesz dodawał"
     },
     {
       "surface": "עוד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מקדש",
-      "gloss": "świątynia"
+      "gloss": "sanktuarium"
     },
     {
       "surface": "מלך",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "⟨to jest⟩"
     }
   ],
-  "timestamp": "2026-08-25T01:34:27.071726948Z",
+  "timestamp": "2026-08-25T06:13:39.875355710Z",
   "model": "glm-5.3"
 }

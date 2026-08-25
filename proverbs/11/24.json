@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "pl",
   "chapter": 11,
-  "translation": "Jest taki, kto rozsiewa, a mimo to przybywa mu jeszcze; a kto wstrzymuje ⟨więcej niż⟩ przystoi — tylko ku niedostatkom.",
+  "translation": "Jest taki, kto rozsypuje, a mimo to przybywa mu jeszcze; a kto wstrzymuje ⟨to, co⟩ należy się ⟨zgodnie z⟩ prawością, ⟨ten⟩ tylko ku niedostatkom.",
   "tokens": [
     {
       "surface": "יש",
-      "gloss": "jest taki"
+      "gloss": "Jest taki"
     },
     {
       "surface": "מפזר",
-      "gloss": "kto rozsiewa"
+      "gloss": "kto rozsypuje"
     },
     {
       "surface": "ונוסף",
-      "gloss": "a przybywa mu"
+      "gloss": "a mimo to przybywa"
     },
     {
       "surface": "עוד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מישר",
-      "gloss": "⟨więcej niż⟩ przystoi"
+      "gloss": "prawość"
     },
     {
       "surface": "אך",
@@ -40,6 +40,6 @@
       "gloss": "ku niedostatkom"
     }
   ],
-  "timestamp": "2026-08-25T02:09:03.357340344Z",
+  "timestamp": "2026-08-25T06:17:17.700819745Z",
   "model": "glm-5.3"
 }

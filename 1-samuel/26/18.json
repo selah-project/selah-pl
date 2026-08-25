@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 26,
-  "translation": "I rzekł: Czemu to, mój panie, ściga ⟨swojego⟩ sługę? Co uczyniłem i co złego jest w mojej ręce?",
+  "translation": "I rzekł: Dlaczego to mój pan ściga za swoim sługą? Cóżeś uczynił i co złego jest w mojej ręce?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "czemu"
+      "gloss": "dlaczego"
     },
     {
       "surface": "זה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mój panie"
+      "gloss": "mój pan"
     },
     {
       "surface": "רדף",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "sługą swoim"
+      "gloss": "swoim sługą"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "bowiem"
     },
     {
       "surface": "מה",
@@ -60,6 +60,6 @@
       "gloss": "złego"
     }
   ],
-  "timestamp": "2026-08-24T23:43:54.297317478Z",
+  "timestamp": "2026-08-25T05:57:07.661004592Z",
   "model": "glm-5.3"
 }

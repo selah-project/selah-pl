@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "pl",
   "chapter": 1,
-  "translation": "Usłyszeli, że wzdycham — nie ma pocieszającego mnie; wszyscy moi wrogowie usłyszeli o mojej niedoli, uradowali się, bo ty to uczyniłeś; sprowadziłeś dzień ⟨który⟩ zwołałeś, i będą tacy jak ja.",
+  "translation": "Usłyszeli, że jęczę — nie ma mi pocieszyciela; wszyscy moi wrogowie usłyszeli o moim nieszczęściu, weselą się, że to Ty uczyniłeś; przywiodłeś dzień, który zwołałeś, i będą jak ja.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "usłyszeli"
+      "gloss": "Usłyszeli"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נאנחה",
-      "gloss": "wzdycham"
+      "gloss": "jęczę"
     },
     {
       "surface": "אני",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מנחם",
-      "gloss": "pocieszającego"
+      "gloss": "pocieszyciela"
     },
     {
       "surface": "לי",
-      "gloss": "mnie"
+      "gloss": "mi"
     },
     {
       "surface": "כל",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "רעתי",
-      "gloss": "o mojej niedoli"
+      "gloss": "o moim nieszczęściu"
     },
     {
       "surface": "ששו",
-      "gloss": "uradowali się"
+      "gloss": "weselą się"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "że"
     },
     {
       "surface": "אתה",
-      "gloss": "ty"
+      "gloss": "Ty"
     },
     {
       "surface": "עשית",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הבאת",
-      "gloss": "sprowadziłeś"
+      "gloss": "przywiodłeś"
     },
     {
       "surface": "יום",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "כמוני",
-      "gloss": "tacy jak ja"
+      "gloss": "jak ja"
     }
   ],
-  "timestamp": "2026-08-25T02:28:53.371164498Z",
+  "timestamp": "2026-08-25T06:19:38.737700909Z",
   "model": "glm-5.3"
 }

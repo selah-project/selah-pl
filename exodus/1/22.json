@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 1,
-  "translation": "I rozkazał Paroh całemu swemu ludowi, mówiąc: Każdego syna nowo narodzonego do rzeki wrzucicie go, a każdą córkę zachowacie przy życiu.",
+  "translation": "I rozkazał Paroh całemu swemu ludowi, mówiąc: Każdy syn, który się urodzi, do rzeki go wrzucicie, a każdą córkę zostawicie przy życiu.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "I rozkazał"
+      "gloss": "i rozkazał"
     },
     {
       "surface": "פרעה",
@@ -29,28 +29,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "Każdego"
+      "gloss": "każdy"
     },
     {
       "surface": "הבן",
-      "gloss": "syna"
+      "gloss": "syn"
     },
     {
       "surface": "הילוד",
-      "gloss": "nowo narodzonego"
+      "gloss": "który się urodzi"
     },
     {
       "surface": "היארה",
       "gloss": "do rzeki"
     },
     {
-      "surface": "תשליכהון",
-      "gloss": "wrzucicie"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "go"
+      "surface": "תשליכהו",
+      "gloss": "go wrzucicie"
     },
     {
       "surface": "וכל",
@@ -62,9 +57,9 @@
     },
     {
       "surface": "תחיון",
-      "gloss": "zachowacie przy życiu"
+      "gloss": "zostawicie przy życiu"
     }
   ],
-  "timestamp": "2026-08-24T22:24:59.094179156Z",
+  "timestamp": "2026-08-25T05:40:31.344071244Z",
   "model": "glm-5.3"
 }

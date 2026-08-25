@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I nalali ludziom, żeby jedli, i stało się, gdy jedli z potrawki, że krzyknęli i powiedzieli: Śmierć w garnku, mężu ha-Elohim! I nie mogli jeść.",
+  "translation": "I nalali ⟨אנשים→⟩ ludziom, aby jedli; i stało się, gdy jedli z potrawy, że krzyknęli i powiedzieli: Śmierć w garnku, człowiecze Elohim! I nie mogli jeść.",
   "tokens": [
     {
       "surface": "ויצקו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לאכול",
-      "gloss": "żeby jedli"
+      "gloss": "aby jedli"
     },
     {
       "surface": "ויהי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מהנזיד",
-      "gloss": "z potrawki"
+      "gloss": "z potrawy"
     },
     {
       "surface": "והמה",
-      "gloss": "że"
+      "gloss": "i oni"
     },
     {
       "surface": "צעקו",
@@ -53,21 +53,25 @@
     },
     {
       "surface": "איש",
-      "gloss": "mężu"
+      "gloss": "człowieku"
     },
     {
       "surface": "האלהים",
-      "gloss": "ha-Elohim"
+      "gloss": "Elohim"
     },
     {
-      "surface": "ויכלו→ולא",
+      "surface": "ולא",
       "gloss": "i nie"
     },
     {
       "surface": "יכלו",
-      "gloss": "mogli jeść"
+      "gloss": "mogli"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jeść"
     }
   ],
-  "timestamp": "2026-08-25T00:09:18.709519432Z",
+  "timestamp": "2026-08-25T06:02:13.236034657Z",
   "model": "glm-5.3"
 }

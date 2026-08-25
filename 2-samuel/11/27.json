@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 11,
-  "translation": "I minęła żałoba, i posłał Dawid i zgromadził ją do swego domu, i ⟨była⟩ mu za żonę, i urodziła mu syna. I ⟨było⟩ złe to, co uczynił Dawid, w oczach Jahwe.",
+  "translation": "I minęła żałoba, i posłał Dawid, i sprowadził ⟨ją⟩ do swego domu, i była mu za żonę, i urodziła mu syna; a rzec, którą uczynił Dawid, zła była w oczach Jahwe.",
   "tokens": [
     {
       "surface": "ויעבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויאספה",
-      "gloss": "i zgromadził ją"
+      "gloss": "i sprowadził ⟨ją⟩"
     },
     {
       "surface": "אל",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "וירע",
-      "gloss": "i było złe"
+      "gloss": "zła była"
     },
     {
       "surface": "הדבר",
-      "gloss": "to"
+      "gloss": "rzec"
     },
     {
       "surface": "אשר",
-      "gloss": "co"
+      "gloss": "którą"
     },
     {
       "surface": "עשה",
@@ -88,6 +88,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T23:48:13.253951084Z",
+  "timestamp": "2026-08-25T05:57:51.011479062Z",
   "model": "glm-5.3"
 }

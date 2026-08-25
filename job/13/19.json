@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "pl",
   "chapter": 13,
-  "translation": "Kto ⟨to⟩ będzie się spierał ze mną? Bo teraz zamilknę i umrę.",
+  "translation": "Kto ⟨to jest⟩ ten, który będzie się spierał ze mną? Bo teraz zamilknę i umrę.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "kto"
+      "gloss": "Kto"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨to⟩"
+      "gloss": "⟨to jest⟩ on"
     },
     {
       "surface": "יריב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "Bo"
     },
     {
       "surface": "עתה",
@@ -40,6 +40,6 @@
       "gloss": "i umrę"
     }
   ],
-  "timestamp": "2026-08-25T03:48:24.724909036Z",
+  "timestamp": "2026-08-25T06:18:23.199148788Z",
   "model": "glm-5.3"
 }

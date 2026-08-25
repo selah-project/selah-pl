@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I rzekł do mnie: synu człowieczy, ⟨את⟩ to, co znajdziesz, jedz — zjedz ⟨את⟩ ten zwój, i idź, mów do domu Jisraela.",
+  "translation": "I rzekł do mnie: Synu człowieczy, ⟨את⟩ co znajdziesz, jedz — jedz ⟨את⟩ ten zwój, i idź, mów do domu Jisraela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I rzekł"
+      "gloss": "i rzekł"
     },
     {
       "surface": "אלי",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co znajdziesz"
+      "marks": "co znajdziesz"
     },
     {
       "surface": "אשר",
-      "gloss": "które"
+      "gloss": "co"
     },
     {
       "surface": "תמצא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אכול",
-      "gloss": "zjedz"
+      "gloss": "jedz"
     },
     {
       "surface": "את",
@@ -78,6 +78,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-25T01:09:14.868054905Z",
+  "timestamp": "2026-08-25T06:10:53.042732329Z",
   "model": "glm-5.3"
 }

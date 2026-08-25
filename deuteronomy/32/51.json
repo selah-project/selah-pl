@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 32,
-  "translation": "za to, że sprzeniewierzyliście się mnie pośród synów Jisraela, przy wodach Meribat-Kadesz, na pustyni Cyn, za to, że nie poświęciliście mnie pośród synów Jisraela.",
+  "translation": "Za to, że zawiniliście wobec mnie pośród synów Jisraela, przy wodach Meribat-Kadesz, na pustyni Cin, za to, że nie poświęciliście ⟨את⟩ mnie pośród synów Jisraela.",
   "tokens": [
     {
       "surface": "על",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מעלתם",
-      "gloss": "sprzeniewierzyliście się"
+      "gloss": "zawiniliście"
     },
     {
       "surface": "בי",
-      "gloss": "mnie"
+      "gloss": "wobec mnie"
     },
     {
       "surface": "בתוך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "צן",
-      "gloss": "Cyn"
+      "gloss": "Cin"
     },
     {
       "surface": "על",
@@ -73,7 +73,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mnie"
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
     },
     {
       "surface": "בתוך",
@@ -88,6 +89,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-08-24T23:15:36.357312792Z",
+  "timestamp": "2026-08-25T05:52:03.984450182Z",
   "model": "glm-5.3"
 }

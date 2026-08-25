@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I uczynił Szmuel ⟨את⟩ to, co powiedział Jahwe, i przyszedł do Betlechem. I zadrżeli starsi miasta na jego spotkanie, i rzekł: Pokój — twoje przyjście.",
+  "translation": "I uczynił Szmuel ⟨את⟩ to, co mówił Jahwe, i przyszedł do Bet-Lechem; a drżeli starsi miasta na jego spotkanie, i powiedział: Pokój przyjściu twemu.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, co powiedział Jahwe"
+      "marks": "to, co mówił Jahwe"
     },
     {
       "surface": "אשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "powiedział"
+      "gloss": "mówił"
     },
     {
       "surface": "יהוה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "לחם",
-      "gloss": "lechem"
+      "gloss": "-Lechem"
     },
     {
       "surface": "ויחרדו",
-      "gloss": "i zadrżeli"
+      "gloss": "a drżeli"
     },
     {
       "surface": "זקני",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "i rzekł"
+      "gloss": "i powiedział"
     },
     {
-      "surface": "שלם",
-      "gloss": "Pokój"
+      "surface": "שלום",
+      "gloss": "pokój"
     },
     {
       "surface": "בואך",
-      "gloss": "twoje przyjście"
+      "gloss": "przyjściu twemu"
     }
   ],
-  "timestamp": "2026-08-24T23:38:33.247902568Z",
+  "timestamp": "2026-08-25T05:55:56.519472032Z",
   "model": "glm-5.3"
 }

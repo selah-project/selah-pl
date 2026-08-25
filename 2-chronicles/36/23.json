@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "pl",
   "chapter": 36,
-  "translation": "Tak rzekł Koresz, król Persji: wszystkie królestwa ziemi dał mi Jahwe, Elohim niebios, i ⟨to⟩ on nakazał mi zbudować sobie dom w Jeruszalaim, które ⟨jest⟩ w Jehudzie. Kto z was ⟨jest⟩ z całego jego ludu — Jahwe, jego Elohim, ⟨niech będzie⟩ z nim, i niech wstąpi!",
+  "translation": "Tak rzekł Koresz, król Persji: Wszystkie królestwa ⟨tej⟩ ziemi dał mi Jahwe, Elohim niebios, i ⟨to⟩ on nałożył na mnie ⟨zadanie⟩, by zbudować mu dom w Jeruszalaim, które ⟨jest⟩ w Judzie. Kto spośród was ⟨należy⟩ do całego jego ludu — Jahwe, jego Elohim, ⟨niech⟩ będzie z nim, i niech wstąpi!",
   "tokens": [
     {
       "surface": "כה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "wszystkie"
+      "gloss": "Wszystkie"
     },
     {
       "surface": "ממלכות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ziemi"
+      "gloss": "⟨tej⟩ ziemi"
     },
     {
       "surface": "נתן",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "i on"
+      "gloss": "i ⟨to⟩ on"
     },
     {
       "surface": "פקד",
-      "gloss": "nakazał"
+      "gloss": "nałożył"
     },
     {
       "surface": "עלי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "zbudować"
+      "gloss": "by zbudować"
     },
     {
       "surface": "לו",
-      "gloss": "sobie"
+      "gloss": "mu"
     },
     {
       "surface": "בית",
@@ -93,19 +93,19 @@
     },
     {
       "surface": "ביהודה",
-      "gloss": "w Jehudzie"
+      "gloss": "w Judzie"
     },
     {
       "surface": "מי",
-      "gloss": "kto"
+      "gloss": "Kto"
     },
     {
       "surface": "בכם",
-      "gloss": "z was"
+      "gloss": "spośród was"
     },
     {
       "surface": "מכל",
-      "gloss": "z całego"
+      "gloss": "do całego"
     },
     {
       "surface": "עמו",
@@ -128,6 +128,6 @@
       "gloss": "i niech wstąpi"
     }
   ],
-  "timestamp": "2026-08-25T03:12:23.534139504Z",
+  "timestamp": "2026-08-25T06:37:56.056292656Z",
   "model": "glm-5.3"
 }

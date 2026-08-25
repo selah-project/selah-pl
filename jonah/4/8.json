@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "pl",
   "chapter": 4,
-  "translation": "I stało się, gdy wzeszło słońce, że Elohim wyznaczył wiatr wschodni piekący, i biło słońce na głowę Jonaszа, i omdlał, i pragnął ⟨umrzeć⟩ swojej nefesz, i powiedział: Lepsza moja śmierć niż moje życie.",
+  "translation": "I stało się, gdy wzeszło słońce, że Elohim przygotował wiatr wschodni — upalny, i biło słońce na głowę Jony, i omdlał, i prosił ⟨את⟩ swoją nefesz o śmierć, i powiedział: Lepsza moja śmierć niż moje życie.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i stało się"
+      "gloss": "I stało się"
     },
     {
       "surface": "כזרח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וימן",
-      "gloss": "i wyznaczył"
+      "gloss": "przygotował"
     },
     {
       "surface": "אלהים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חרישית",
-      "gloss": "piekący"
+      "gloss": "upalny"
     },
     {
       "surface": "ותך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יונה",
-      "gloss": "Jonaszа"
+      "gloss": "Jony"
     },
     {
       "surface": "ויתעלף",
@@ -65,20 +65,20 @@
     },
     {
       "surface": "וישאל",
-      "gloss": "i pragnął"
+      "gloss": "i prosił"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "swojej nefesz"
+      "marks": "swoją nefesz"
     },
     {
       "surface": "נפשו",
-      "gloss": "swojej nefesz"
+      "gloss": "swoją nefesz"
     },
     {
       "surface": "למות",
-      "gloss": "umrzeć"
+      "gloss": "o śmierć"
     },
     {
       "surface": "ויאמר",
@@ -97,6 +97,6 @@
       "gloss": "niż moje życie"
     }
   ],
-  "timestamp": "2026-08-25T01:36:40.279402065Z",
+  "timestamp": "2026-08-25T06:13:59.782236357Z",
   "model": "glm-5.3"
 }

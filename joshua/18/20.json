@@ -5,24 +5,24 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 18,
-  "translation": "a Jordan wyznaczał ⟨את⟩ niego ⟨jako granicę⟩ od strony wschodniej. To jest dziedzictwo synów Binjamina według jego granic dokoła, według ich rodzin.",
+  "translation": "A Jarden wyznaczał ⟨את⟩ niego ⟨jako⟩ granicę ku stronie wschodniej — to ⟨jest⟩ dziedzictwo synów Binjamina według granic jego dokoła, według rodzin ich.",
   "tokens": [
     {
       "surface": "והירדן",
-      "gloss": "a Jordan"
+      "gloss": "A Jarden"
     },
     {
       "surface": "יגבל",
-      "gloss": "wyznaczał"
+      "gloss": "wyznaczał ⟨jako⟩ granicę"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go"
+      "marks": "niego (Binjamina \/ dziedzictwo)"
     },
     {
       "surface": "לפאת",
-      "gloss": "od strony"
+      "gloss": "ku stronie"
     },
     {
       "surface": "קדמה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "לגבולתיה",
-      "gloss": "według jego granic"
+      "gloss": "według granic jego"
     },
     {
       "surface": "סביב",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "według ich rodzin"
+      "gloss": "według rodzin ich"
     }
   ],
-  "timestamp": "2026-08-24T23:21:51.991841987Z",
+  "timestamp": "2026-08-25T05:53:29.913383975Z",
   "model": "glm-5.3"
 }

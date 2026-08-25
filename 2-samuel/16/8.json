@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "pl",
   "chapter": 16,
-  "translation": "Zwrócił Jahwe na ciebie całą krew domu Szaula, w którego to miejsce królowałeś; i dał Jahwe ⟨את⟩ królestwo w rękę Awiszaloma, syna twego; a otoś w swojej złości, bo mężem krwi jesteś ty.",
+  "translation": "Zwrócił Jahwe na ciebie całą krew domu Szaula, którego to miejsce zająłeś, królując ⟨zamiast niego⟩, i dał Jahwe ⟨את⟩ królestwo w rękę Aweszaloma, syna twego, i oto jesteś w swej złej doli, gdyż mężem krwi jesteś ty.",
   "tokens": [
     {
       "surface": "השיב",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "w którego"
+      "gloss": "którego to"
     },
     {
       "surface": "מלכת",
-      "gloss": "królowałeś"
+      "gloss": "zająłeś, królując"
     },
     {
       "surface": "תחתו",
-      "gloss": "to miejsce"
+      "gloss": "⟨zamiast niego⟩"
     },
     {
       "surface": "ויתן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אבשלום",
-      "gloss": "Awiszaloma"
+      "gloss": "Aweszaloma"
     },
     {
       "surface": "בנך",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "והנך",
-      "gloss": "a otoś"
+      "gloss": "i oto jesteś"
     },
     {
       "surface": "ברעתך",
-      "gloss": "w swojej złości"
+      "gloss": "w swej złej doli"
     },
     {
       "surface": "כי",
-      "gloss": "bo"
+      "gloss": "gdyż"
     },
     {
       "surface": "איש",
@@ -101,6 +101,6 @@
       "gloss": "jesteś ty"
     }
   ],
-  "timestamp": "2026-08-24T23:50:04.642075330Z",
+  "timestamp": "2026-08-25T05:57:51.688694279Z",
   "model": "glm-5.3"
 }

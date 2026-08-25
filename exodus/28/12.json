@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "pl",
   "chapter": 28,
-  "translation": "I umieścisz ⟨את⟩ dwa ⟨the⟩ kamienie na ramionach efodu — kamienie pamięci dla synów Jisraela; i Aharon poniesie ⟨את⟩ ich imiona przed Jahwe na swoich dwóch ramionach na pamiątkę.",
+  "translation": "I włożysz ⟨את⟩ oba kamienie na naramiennikach efodu — kamieniami pamięci dla synów Israela; i Aharon będzie nosił ⟨את⟩ ich imiona przed Jahwe na swoich dwóch ramionach, na pamiątkę.",
   "tokens": [
     {
       "surface": "ושמת",
-      "gloss": "i umieścisz"
+      "gloss": "i włożysz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dwa kamienie"
+      "marks": "oba kamienie"
     },
     {
       "surface": "שתי",
-      "gloss": "dwa"
+      "gloss": "oba"
     },
     {
       "surface": "האבנים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "כתפת",
-      "gloss": "ramionach"
+      "gloss": "naramiennikach"
     },
     {
       "surface": "האפד",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אבני",
-      "gloss": "kamienie"
+      "gloss": "kamieniami"
     },
     {
       "surface": "זכרן",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Israela"
     },
     {
       "surface": "ונשא",
-      "gloss": "i poniesie"
+      "gloss": "i będzie nosił"
     },
     {
       "surface": "אהרן",
@@ -94,6 +94,6 @@
       "gloss": "na pamiątkę"
     }
   ],
-  "timestamp": "2026-08-24T22:33:51.872449925Z",
+  "timestamp": "2026-08-25T05:42:30.118703914Z",
   "model": "glm-5.3"
 }

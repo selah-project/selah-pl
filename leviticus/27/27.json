@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "A jeśli ⟨jest to⟩ zwierzę nieczyste, wykupi je według twojej wyceny i doda jego piątą część do niego; a jeśli nie zostanie wykupione, zostanie sprzedane według twojej wyceny.",
+  "translation": "A jeśli ⟨jest⟩ spośród bydła nieczystego, to wykupi według twojej wyceny i doda piątą ⟨jego część⟩ na nie; a jeśli nie zostanie wykupione, to zostanie sprzedane według twojej wyceny.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "בבהמה",
-      "gloss": "zwierzę"
+      "gloss": "spośród bydła"
     },
     {
       "surface": "הטמאה",
-      "gloss": "nieczyste"
+      "gloss": "nieczystego"
     },
     {
       "surface": "ופדה",
-      "gloss": "wykupi"
+      "gloss": "to wykupi"
     },
     {
       "surface": "בערכך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "חמשתו",
-      "gloss": "jego piątą część"
+      "gloss": "piątą jego część"
     },
     {
       "surface": "עליו",
-      "gloss": "do niego"
+      "gloss": "na nie"
     },
     {
       "surface": "ואם",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ונמכר",
-      "gloss": "zostanie sprzedane"
+      "gloss": "to zostanie sprzedane"
     },
     {
       "surface": "בערכך",
       "gloss": "według twojej wyceny"
     }
   ],
-  "timestamp": "2026-08-24T22:49:27.873508135Z",
+  "timestamp": "2026-08-25T05:46:28.319979957Z",
   "model": "glm-5.3"
 }
