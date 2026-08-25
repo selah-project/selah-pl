@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 15,
-  "translation": "I będzie wam to za cyced, i ujrzycie ⟨אתו⟩, i wspomnicie ⟨את⟩ wszystkie przykazania Jahwe, i będziecie je pełnić ⟨אתם⟩; i nie będziecie błądzić za swoim sercem i za swoimi oczami, którymi wy nierządzicie za nimi.",
+  "translation": "I będzie wam to za cyced, i ujrzycie ⟨את⟩ ⟨אתו⟩, i wspomnicie ⟨את⟩ wszystkie przykazania Jahwe, i będziecie je pełnić ⟨את⟩ ⟨אתם⟩; i nie będziecie błądzić za swoim sercem i za swoimi oczami, którymi wy nierządzicie za nimi.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "cyced"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "je (wszystkie przykazania Jahwe)"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "za nimi"
     }
   ],
-  "timestamp": "2026-08-25T03:21:26.171854209Z",
+  "timestamp": "2026-08-25T05:35:27.500643161Z",
   "model": "glm-5.3"
 }

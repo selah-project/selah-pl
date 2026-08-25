@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "pl",
   "chapter": 19,
-  "translation": "Oto, proszę, mam dwie córki, które nie poznały mężczyzny; wyprowadzę, proszę, ⟨אתהן⟩ do was, i czyńcie im, co dobre jest w oczach waszych; tylko tym mężom nie czyńcie nic, bo przecież pod cień mego dachu przyszli.",
+  "translation": "Oto, proszę, mam dwie córki, które nie poznały mężczyzny; wyprowadzę, proszę, ⟨את⟩ ⟨אתהן⟩ do was, i czyńcie im, co dobre jest w oczach waszych; tylko tym mężom nie czyńcie nic, bo przecież pod cień mego dachu przyszli.",
   "tokens": [
     {
       "surface": "הנה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨אתהן⟩",
+      "gloss": "⟨את⟩ ⟨אתהן⟩",
       "marks": "je — dwie córki Lota"
     },
     {
@@ -125,6 +125,6 @@
       "gloss": "mego dachu"
     }
   ],
-  "timestamp": "2026-08-24T22:13:16.826632153Z",
+  "timestamp": "2026-08-25T05:35:27.472039078Z",
   "model": "glm-5.3"
 }

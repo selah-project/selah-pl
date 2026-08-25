@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I powstał Balak, syn Cippora, król Moabu, i walczył z Israelem; i posłał, i wezwał Bilama, syna Beora, żeby was przeklął ⟨אתכם⟩.",
+  "translation": "I powstał Balak, syn Cippora, król Moabu, i walczył z Israelem; i posłał, i wezwał Bilama, syna Beora, żeby was przeklął ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -65,10 +65,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "was"
     }
   ],
-  "timestamp": "2026-08-24T23:23:58.666689030Z",
+  "timestamp": "2026-08-25T05:35:27.505072877Z",
   "model": "glm-5.3"
 }

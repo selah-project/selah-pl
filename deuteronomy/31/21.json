@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 31,
-  "translation": "I stanie się, gdy spotkają go ⟨אתו⟩ liczne nieszczęścia i uciski, że pieśń ta odpowie przed nim na świadectwo na zawsze, bo nie zostanie zapomniana z ust jego potomstwa, gdyż znam jego skłonność, którą on dziś czyni, zanim wprowadzę go do ziemi, którą przysiągłem.",
+  "translation": "I stanie się, gdy spotkają go ⟨את⟩ ⟨אתו⟩ liczne nieszczęścia i uciski, że pieśń ta odpowie przed nim na świadectwo na zawsze, bo nie zostanie zapomniana z ust jego potomstwa, gdyż znam jego skłonność, którą on dziś czyni, zanim wprowadzę go do ziemi, którą przysiągłem.",
   "tokens": [
     {
       "surface": "והיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "liczne nieszczęścia i uciski"
     },
     {
@@ -134,6 +134,6 @@
       "gloss": "przysiągłem"
     }
   ],
-  "timestamp": "2026-08-24T23:15:40.166505888Z",
+  "timestamp": "2026-08-25T05:35:27.492626513Z",
   "model": "glm-5.3"
 }

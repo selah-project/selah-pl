@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "pl",
   "chapter": 38,
-  "translation": "Paras, Kusz i Put ⟨אתם⟩, wszyscy oni z tarczą i hełmem.",
+  "translation": "Paras, Kusz i Put ⟨את⟩ ⟨אתם⟩, wszyscy oni z tarczą i hełmem.",
   "tokens": [
     {
       "surface": "פרס",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "z nimi"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "i hełmem"
     }
   ],
-  "timestamp": "2026-08-25T01:25:35.310753133Z",
+  "timestamp": "2026-08-25T05:35:27.494032804Z",
   "model": "glm-5.3"
 }

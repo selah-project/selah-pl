@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 16,
-  "translation": "A jeśli Jahwe stworzy rzecz nową, i ziemia otworzy swoje usta, i połknie ⟨אתם⟩ ich oraz ⟨את⟩ wszystko, co mają, i zejdą żywcem do Szeolu — poznacie, że wzgardzili ⟨את⟩ Jahwe ci ludzie.",
+  "translation": "A jeśli Jahwe stworzy rzecz nową, i ziemia otworzy swoje usta, i połknie ⟨את⟩ ⟨אתם⟩ ich oraz ⟨את⟩ wszystko, co mają, i zejdą żywcem do Szeolu — poznacie, że wzgardzili ⟨את⟩ Jahwe ci ludzie.",
   "tokens": [
     {
       "surface": "ואם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ich"
     },
     {
@@ -108,6 +108,6 @@
       "gloss": "Jahwe"
     }
   ],
-  "timestamp": "2026-08-24T22:55:52.824781259Z",
+  "timestamp": "2026-08-25T05:35:27.501625997Z",
   "model": "glm-5.3"
 }

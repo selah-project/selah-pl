@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 16,
-  "translation": "I otworzyła ziemia swoje usta, i połknęła ⟨אתם⟩ ich oraz ⟨את⟩ ich domy, i ⟨את⟩ wszystkich ludzi, którzy należeli do Koracha, i ⟨את⟩ cały dobytek.",
+  "translation": "I otworzyła ziemia swoje usta, i połknęła ⟨את⟩ ⟨אתם⟩ ich oraz ⟨את⟩ ich domy, i ⟨את⟩ wszystkich ludzi, którzy należeli do Koracha, i ⟨את⟩ cały dobytek.",
   "tokens": [
     {
       "surface": "ותפתח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ich"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "dobYTEK"
     }
   ],
-  "timestamp": "2026-08-24T22:55:52.825066246Z",
+  "timestamp": "2026-08-25T05:35:27.501290002Z",
   "model": "glm-5.3"
 }

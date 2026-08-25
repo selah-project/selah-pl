@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "pl",
   "chapter": 3,
-  "translation": "I dam wam pasterzy według mego serca, i paść będą ⟨אתכם⟩ poznaniem i rozwagą.",
+  "translation": "I dam wam pasterzy według mego serca, i paść będą ⟨את⟩ ⟨אתכם⟩ poznaniem i rozwagą.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "was (objekt paścia)"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "i rozwagą"
     }
   ],
-  "timestamp": "2026-08-25T00:43:57.228012102Z",
+  "timestamp": "2026-08-25T05:35:27.475715525Z",
   "model": "glm-5.3"
 }

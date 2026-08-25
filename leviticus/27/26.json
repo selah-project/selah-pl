@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "pl",
   "chapter": 27,
-  "translation": "Jedynie pierworodne, które jako pierworodne należy do Jahwe, spośród bydła — nikt nie może go poświęcić ⟨אתו⟩; czy to wół, czy owca — Jahwe jest ⟨on⟩.",
+  "translation": "Jedynie pierworodne, które jako pierworodne należy do Jahwe, spośród bydła — nikt nie może go poświęcić ⟨את⟩ ⟨אתו⟩; czy to wół, czy owca — Jahwe jest ⟨on⟩.",
   "tokens": [
     {
       "surface": "אך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "go (pierworodne)"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "jest ⟨on⟩"
     }
   ],
-  "timestamp": "2026-08-24T22:49:27.873323945Z",
+  "timestamp": "2026-08-25T05:35:27.495249446Z",
   "model": "glm-5.3"
 }

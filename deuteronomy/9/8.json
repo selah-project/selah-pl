@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 9,
-  "translation": "A w Chorew rozgniewaliście ⟨את⟩ Jahwe, i zapłonął gniewem Jahwe na was, by was wyniszczyć ⟨אתכם⟩.",
+  "translation": "A w Chorew rozgniewaliście ⟨את⟩ Jahwe, i zapłonął gniewem Jahwe na was, by was wyniszczyć ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ובחרב",
@@ -42,10 +42,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "was"
     }
   ],
-  "timestamp": "2026-08-24T23:07:11.031522318Z",
+  "timestamp": "2026-08-25T05:35:27.490734695Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 24,
-  "translation": "I posłałem przed wami ⟨את⟩ szerszenia, i wypędził ich ⟨אתם⟩ sprzed was — dwóch królów Emorytów; nie twoim mieczem ani twoim łukiem.",
+  "translation": "I posłałem przed wami ⟨את⟩ szerszenia, i wypędził ich ⟨את⟩ ⟨אתם⟩ sprzed was — dwóch królów Emorytów; nie twoim mieczem ani twoim łukiem.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ich"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "twoim łukiem"
     }
   ],
-  "timestamp": "2026-08-24T23:23:58.667396860Z",
+  "timestamp": "2026-08-25T05:35:27.504555017Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "pl",
   "chapter": 9,
-  "translation": "Bo bałem się oblicza gniewu i zapalczywości, którą Jahwe zapłonął na was, aby zniszczyć ⟨אתכם⟩ was; i wysłuchał Jahwe mnie także tym razem.",
+  "translation": "Bo bałem się oblicza gniewu i zapalczywości, którą Jahwe zapłonął na was, aby zniszczyć ⟨את⟩ ⟨אתכם⟩ was; i wysłuchał Jahwe mnie także tym razem.",
   "tokens": [
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "was"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "tym"
     }
   ],
-  "timestamp": "2026-08-24T23:06:44.008397079Z",
+  "timestamp": "2026-08-25T05:35:27.491040080Z",
   "model": "glm-5.3"
 }

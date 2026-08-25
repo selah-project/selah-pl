@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "pl",
   "chapter": 10,
-  "translation": "Zrób sobie dwie trąby ze srebra; z wyklepanego ⟨dzieła⟩ je zrobisz ⟨אתם⟩, i będą ci one do zwoływania zgromadzenia oraz do wyruszania ⟨את⟩ obozów.",
+  "translation": "Zrób sobie dwie trąby ze srebra; z wyklepanego ⟨dzieła⟩ je zrobisz ⟨את⟩ ⟨אתם⟩, i będą ci one do zwoływania zgromadzenia oraz do wyruszania ⟨את⟩ obozów.",
   "tokens": [
     {
       "surface": "עשה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "je (trąby)"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "obozów"
     }
   ],
-  "timestamp": "2026-08-24T22:53:09.650382331Z",
+  "timestamp": "2026-08-25T05:35:27.499691787Z",
   "model": "glm-5.3"
 }

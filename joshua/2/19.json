@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "pl",
   "chapter": 2,
-  "translation": "I będzie: każdy, kto wyjdzie z drzwi twego domu na zewnątrz — jego krew ⟨będzie⟩ na jego głowie, a my będziemy niewinni; każdy zaś, kto będzie ⟨z את⟩ tobie w domu — jego krew ⟨będzie⟩ na naszej głowie, jeśli ręka ⟨będzie⟩ na nim.",
+  "translation": "I będzie: każdy, kto wyjdzie z drzwi twego domu na zewnątrz — jego krew ⟨będzie⟩ na jego głowie, a my będziemy niewinni; każdy zaś, kto będzie ⟨את⟩ ⟨z את⟩ tobie w domu — jego krew ⟨będzie⟩ na naszej głowie, jeśli ręka ⟨będzie⟩ na nim.",
   "tokens": [
     {
       "surface": "והיה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨z את⟩ tobie"
+      "gloss": "⟨את⟩ ⟨z את⟩ tobie"
     },
     {
       "surface": "בבית",
@@ -96,6 +96,6 @@
       "gloss": "na nim"
     }
   ],
-  "timestamp": "2026-08-24T23:17:34.072037850Z",
+  "timestamp": "2026-08-25T05:35:27.504017349Z",
   "model": "glm-5.3"
 }
