@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I pozostały one, aby nimi doświadczać ⟨את⟩ Izraela, aby poznać, czy będą słuchać ⟨את⟩ przykazań Jahwe, które przykazał ⟨את⟩ ich ojcom ręką Moszego.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "I pozostały"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "aby doświadczać"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aby poznać"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "czy będą słuchać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazań Jahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "przykazań"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich ojcom"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ich ojcom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:57.988675101Z",
+  "model": "glm-5.3"
+}

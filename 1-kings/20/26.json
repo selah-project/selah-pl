@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I stało się przy powrocie roku, że Ben-Hadad spisał ⟨את⟩ Aramu i ruszył na Afek, do wojny z Israelitami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "przy powrocie"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "spisał"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "-Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i ruszył"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "na Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do wojny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelitami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:14.323702293Z",
+  "model": "glm-5.3"
+}

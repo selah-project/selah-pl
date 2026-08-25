@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Gdzie ⟨są⟩ Twoje pierwsze chesedy, Adonai, które przysiągłeś Dawidowi w swojej wierności?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "Twoje chesedy"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pierwsze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "przysiągłeś"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "w swojej wierności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:24.183044005Z",
+  "model": "glm-5.3"
+}

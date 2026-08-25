@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I wziął Mosze ⟨את⟩ laskę sprzed oblicza Jahwe, jak mu przykazał.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laskę"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "laskę"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu przykazał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:29.497649005Z",
+  "model": "glm-5.3"
+}

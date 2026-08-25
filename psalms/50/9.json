@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Nie wezmę z twojego domu byka, ani z twoich zagrod kozłów.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "wezmę"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "z twojego domu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "byka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "z twoich zagrod"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozłów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:42.061401922Z",
+  "model": "glm-5.3"
+}

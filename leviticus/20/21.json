@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A ⟨jeśli⟩ mężczyzna, który weźmie ⟨את⟩ żonę swego brata — nieczystość ⟨to⟩; nagość swego brata odsłonił; bezdzietni będą.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A mężczyzna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żonę swego brata"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żonę"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swego brata"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nieczystość"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swego brata"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odsłonił"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdzietni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:31.693157916Z",
+  "model": "glm-5.3"
+}

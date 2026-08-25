@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I stało się, gdy Rachel urodziła ⟨את⟩ Josefa, że Jaakow powiedział do Labana: Wyślij mnie, a pójdę do mego miejsca i do mojej ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "że powiedział"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Wyślij mnie"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a pójdę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mego miejsca"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "i do mojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:14.033144641Z",
+  "model": "glm-5.3"
+}

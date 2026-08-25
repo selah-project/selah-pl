@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Od każdej złej drogi powstrzymałem moje stopy, abym strzegł twego słowa.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od każdej"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "drogi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złej"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "powstrzymałem"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "strzegł"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "twego słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:56.610561858Z",
+  "model": "glm-5.3"
+}

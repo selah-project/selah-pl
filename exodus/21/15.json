@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A kto uderzy swego ojca i swoją matkę — śmiercią niech będzie zabity.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "a kto uderzy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i swoją matkę"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "niech będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:52.051964183Z",
+  "model": "glm-5.3"
+}

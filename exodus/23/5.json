@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Gdy zobaczysz osła twego nieprzyjaciela leżącego pod swym ciężarem — powstrzymasz się od porzucenia go: porzucisz go wraz z nim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zobaczysz"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osła"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "twego nieprzyjaciela"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "leżącego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "swym ciężarem"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "powstrzymasz się"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "od porzucenia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "porzucisz"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "porzucisz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wraz z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:12.753605080Z",
+  "model": "glm-5.3"
+}

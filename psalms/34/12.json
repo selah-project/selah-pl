@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Pójdźcie, synowie, słuchajcie mnie: bojaźń Jahwe was nauczę.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "pójdźcie"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bojaźń"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "was nauczę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:09.328048850Z",
+  "model": "glm-5.3"
+}

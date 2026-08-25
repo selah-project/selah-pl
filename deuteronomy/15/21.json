@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "A jeśli będzie w nim wada — kulawy albo ślepy, jakakolwiek zła wada — nie złożysz go w ofierze Jahwe, Elohim twojemu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "מום",
+      "gloss": "wada"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "kulawy"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ślepy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakakolwiek"
+    },
+    {
+      "surface": "מום",
+      "gloss": "wada"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "złożysz go w ofierze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojemu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:49.366266514Z",
+  "model": "glm-5.3"
+}

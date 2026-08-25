@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Trzy lata królował w Jeruszalaim, a imię jego matki ⟨było⟩ Maacha, córka Awiszaloma.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Trzy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królował"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jego matki"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córka"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Awiszaloma"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:57.586822015Z",
+  "model": "glm-5.3"
+}

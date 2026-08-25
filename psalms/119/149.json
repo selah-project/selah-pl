@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Głos mój usłysz według twej wiernej miłości, Jahwe; według twych praw ożyw mnie.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "usłysz"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "według twej wiernej miłości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "według twych praw"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ożyw mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:00.192832310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I Mosze zgodził się zamieszkać z ⟨tym⟩ ⟨את⟩ człowiekiem, i ⟨on⟩ dał ⟨את⟩ Ciporę, córkę swoją, Moszemu.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "zgodził się"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zamieszkać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowiekiem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "człowiekiem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporę"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporę"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "córkę swoją"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moszemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:54.813789208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Drżenie chwyciło ich tam, ból jak rodzącej.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Drżenie"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "chwyciło ich"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ból (porodowy)"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "jak rodząca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:49.793070041Z",
+  "model": "glm-5.3"
+}

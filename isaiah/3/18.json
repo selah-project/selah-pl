@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "W owym dniu Adonaj usunie ⟨את⟩ ozwędzioną ozdobę nóg, i opaski, i półksiężyce.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "W dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "usunie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ozdobę"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ozdobę"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "dzwoneczków nóg"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "i opasek"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "i półksiężyce"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:26.964020661Z",
+  "model": "glm-5.3"
+}

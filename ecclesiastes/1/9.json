@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Co było, tym ⟨jest⟩ to, co będzie, i co zostało zrobione, tym ⟨jest⟩ to, co będzie zrobione; i nie ma nic nowego pod słońcem.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "co było"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tym ⟨jest⟩"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "co będzie"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i co"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "co zostało zrobione"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tym ⟨jest⟩"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "co będzie zrobione"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nowego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:30.870839966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I powiedział Jahwe do Moszego i do Ahrona w ziemi Micraim, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:46.594135296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Spiętrzył ją wicher w jej skrzydłach i zawstydzą się swoich ofiar.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "spiętrzył"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wicher"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją — Efrajim\/izraelicka wspólnota"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "w jej skrzydłach"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "i zawstydzą się"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "swoich ofiar"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:40.088452688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I rzekł Paroh do jego braci: Czym jest wasze zajęcie? I powiedzieli do Paroha: Pasterzami trzody ⟨są⟩ słudzy twoi, zarówno my, jak i nasi ojcowie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego braci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "wasze zajęcie"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pasterzami"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "słudzy twoi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zarówno"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak i"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nasi ojcowie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:24.590562548Z",
+  "model": "glm-5.3"
+}

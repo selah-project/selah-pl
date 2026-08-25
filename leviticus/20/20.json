@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A jeśli mężczyzna będzie leżał z ⟨את⟩ swoją ciotką, nagość swojego wuja odsłonił — swój grzech poniosą, bezdzietni umrą.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A jeśli mężczyzna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "będzie leżał"
+    },
+    {
+      "surface": "את",
+      "gloss": "z ⟨את⟩",
+      "marks": "swoją ciotką"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "swoją ciotką"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "swojego wuja"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odsłonił"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "swój grzech"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "poniosą"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdzietni"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "umrą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:23.642291766Z",
+  "model": "glm-5.3"
+}

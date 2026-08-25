@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I uczynił ⟨zło⟩ w oczach Jahwe; nie odstąpił od grzechów Jarobama, syna Nebata, który wprowadził w grzech ⟨את⟩ Izraela — przez wszystkie swoje dni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstąpił"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "grzechów"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wprowadził w grzech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "swoje dni"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:55.913361159Z",
+  "model": "glm-5.3"
+}

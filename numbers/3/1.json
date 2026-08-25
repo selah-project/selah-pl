@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A to ⟨są⟩ dzieje Ahrona i Mosze, w dniu, kiedy mówił Jahwe ⟨את⟩ ⟨z⟩ Mosze na górze Synaj.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a to"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dzieje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "i Mosze"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:48.410433681Z",
+  "model": "glm-5.3"
+}

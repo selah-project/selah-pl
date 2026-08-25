@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Aby poznał ród ostatni, synowie, którzy się narodzą, powstaną i opowiedzą ⟨je⟩ synom ich.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznał"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ród"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ostatni"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "którzy się narodzą"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "powstaną"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "i opowiedzą"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "synom ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:51.965379771Z",
+  "model": "glm-5.3"
+}

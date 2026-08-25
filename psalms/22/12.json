@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Nie oddalaj się ode mnie, bo ucisk jest bliski, bo nie ma pomocnika.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "oddalaj się"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "jest bliski"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pomocnika"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:40.611870291Z",
+  "model": "glm-5.3"
+}

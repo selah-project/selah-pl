@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Nie ufajcie możnym, w synu człowieczym, że nie ma w nim ratunku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ufajcie"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "możnym"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "w synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczym"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "że nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ratunku"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:08.079087703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I wyszedł przed Asa i rzekł do niego: Słuchajcie mnie, Asa i cały Jehuda i Binjamin! Jahwe ⟨jest⟩ z wami, gdy jesteście z nim; a jeśli Go szukacie, zostanie wam znaleziony; a jeśli Go opuścicie, opuści ⟨את⟩ was.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyszedł"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Słuchajcie mnie"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Binjamin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "gdy jesteście"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "Go szukacie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zostanie znaleziony"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "Go opuścicie"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "opuści"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:41.765123605Z",
+  "model": "glm-5.3"
+}

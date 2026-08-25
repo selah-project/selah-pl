@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "bo wykonawcom roboty wydawano ⟨את⟩ nie ⟨את⟩ — je, i wzmacniali nim ⟨את⟩ dom Jahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "wykonawcom"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "roboty"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "wydawano je"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "i wzmacniali"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:10.067029829Z",
+  "model": "glm-5.3"
+}

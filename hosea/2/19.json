@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I usunę ⟨את⟩ imiona baalim z jej ust, i nie będą już więcej wspomniane ⟨przez⟩ swoje imiona.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "i usunę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiona baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imiona"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "z jej ust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "będą wspomniane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już więcej"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "przez swoje imiona"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:38.481299401Z",
+  "model": "glm-5.3"
+}

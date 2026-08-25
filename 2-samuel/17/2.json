@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I przyjdę na niego, a on ⟨jest⟩ znużony i omdlewający rękami, i przerażę ⟨את⟩ niego, i ucieknie cały lud, który ⟨jest⟩ ⟨את⟩ z nim, i pobiję ⟨את⟩ króla samego.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "i przyjdę"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "znużony"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "i omdlewający"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rękami"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "i przerażę"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "i ucieknie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "i pobiję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:24.860536821Z",
+  "model": "glm-5.3"
+}

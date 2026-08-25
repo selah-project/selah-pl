@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Złam ramię niegodziwego i złego; dochodź jego nieprawość — nie zostanie znaleziona.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Złam"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ramię"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwego"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "i złego"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "dochodź"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "jego nieprawość"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "zostanie znaleziona"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:38.305214287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "A w winnicy trzy pędy, a ona jakby kwitnąca wypuściła swój kwiat, jej grona dojrzały winogronami.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "a w winnicy"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "pędy"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "jakby kwitnąca"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "wypuściła"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "swój kwiat"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "dojrzały"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "jej grona"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "winogronami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:16.050133017Z",
+  "model": "glm-5.3"
+}

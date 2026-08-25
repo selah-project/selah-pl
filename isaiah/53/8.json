@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Zniewolenia i od sądu zabrany, i ⟨את⟩ jego pokolenie kto rozważy? Bo odcięty został od ziemi żyjących, za przestępstwo mego ludu plaga im.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "Zniewolenia"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "i od sądu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "zabrany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego pokolenie"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "jego pokolenie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "rozważy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "odcięty został"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "od ziemi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żyjących"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "za przestępstwo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mego ludu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:42.557395402Z",
+  "model": "glm-5.3"
+}

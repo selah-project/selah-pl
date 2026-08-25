@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Tam zagnieździ się sowa żarłoczna, wywodzi pisklęta, wysiaduje i gromadzi ⟨je⟩ w swym cieniu; tam jedynie zgromadziły się sokoły, każda ze swą towarzyszką.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "zagnieździ się"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "sowa żarłoczna"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "wywodzi pisklęta"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "wykluwa"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "wysiaduje"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "w swym cieniu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jedynie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "zgromadziły się"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "sokoły"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "każda"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ze swą towarzyszką"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:44.962795886Z",
+  "model": "glm-5.3"
+}

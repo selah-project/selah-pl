@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 99,
+  "translation": "Jahwe, Elohim nasz, Tyś im odpowiadał, Elunoszący winy byłeś dla nich — i mścicielem za ich czyny.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "im odpowiadałeś"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "niosący (winy)"
+    },
+    {
+      "surface": "היית",
+      "gloss": "byłeś"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "i mścicielem"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "czyny ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:55.205664701Z",
+  "model": "glm-5.3"
+}

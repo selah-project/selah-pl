@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Elohim, odrzuciłeś nas, roztrzaskałeś nas, zapaliłeś się gniewem — przywróć nam ⟨łaskę⟩",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "odrzuciłeś nas"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "roztrzaskałeś nas"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "zapaliłeś się gniewem"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "przywróć"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.579859834Z",
+  "model": "glm-5.3"
+}

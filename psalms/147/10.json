@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Nie w potędze konia upodobał ⟨sobie⟩, nie w nogach męża ma upodobanie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "w potędze"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konia"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "upodobał ⟨sobie⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "w nogach"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ma upodobanie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:07.875842697Z",
+  "model": "glm-5.3"
+}

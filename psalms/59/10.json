@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Moc moją ku tobie strzec będę, bo Elohim ⟨jest⟩ warownią moją.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "moc moją"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku tobie"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "strzec będę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "warownią moją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.819125399Z",
+  "model": "glm-5.3"
+}

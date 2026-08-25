@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wzięli ⟨את⟩ sadzę pieca, i stanęli przed Faraonem, a Mosze posiał ⟨את⟩ ją ku niebiosom, i stał się wrzód — pęcherze wybuchające — na człowieku i na bydle.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadzę pieca"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "sadzę"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "pieca"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stanęli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonem"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "a posiał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "Mosze (dosł. 'ją')"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ku niebiosom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "wrzód"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "pęcherze"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "wybuchające"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na człowieku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na bydle"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:43.206476811Z",
+  "model": "glm-5.3"
+}

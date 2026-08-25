@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Jeżeli opuścicie ⟨את⟩ Jahwe i służyć będziecie obcym elohim, to się odwróci i wyrządzi wam zło, i wytraci ⟨את⟩ was, po tym jak wam uczynił dobrze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jeżeli"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "opuścicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i służyć będziecie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "obcym"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i odwróci się"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "i wyrządzi zło"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "i wytraci"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tym jak"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "uczynił dobrze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:25:04.483411779Z",
+  "model": "glm-5.3"
+}

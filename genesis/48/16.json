@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Anioł, który wykupił mnie ⟨את⟩ z wszelkiego zła, niech błogosławi ⟨את⟩ chłopców, i niech będzie nazwane w nich moje imię oraz imię moich ojców Awrahama i Jicchaka; i niech się rozmnożą mnogo pośrodku ziemi.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "Anioł"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "który wykupił"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z wszelkiego"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "niech błogosławi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chłopców"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "chłopców"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i niech będzie nazwane"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje imię"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "oraz imię"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "moich ojców"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "i Jicchaka"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "i niech się rozmnożą"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mnogo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pośrodku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:43.634006520Z",
+  "model": "glm-5.3"
+}

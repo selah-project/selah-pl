@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Czy umarłym uczynisz cud? Czyż Refaim powstaną, będą cię wysławiać? Sela.",
+  "tokens": [
+    {
+      "surface": "ה למתים",
+      "gloss": "Czy umarłym"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uczynisz"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "cud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czyż"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "powstaną"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "będą cię wysławiać"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:19.724986219Z",
+  "model": "glm-5.3"
+}

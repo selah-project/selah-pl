@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stało się potem, że Dawid pobił ⟨את⟩ Filistynów i upokorzył ich; i wziął Dawid ⟨את⟩ wędzidło-metropolii z ręki Filistynów.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(po tym)"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistynów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i upokorzył ich"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wędzidło-metropolii"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "wędzidło"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "(miasta-)matki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:08.865981229Z",
+  "model": "glm-5.3"
+}

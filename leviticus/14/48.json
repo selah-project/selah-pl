@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 14:48",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "A jeśli kapłan przyjdzie i zobaczy, a oto nie rozpostarła się zaraza w domu po otynkowaniu ⟨את⟩ domu, to kapłan oczyści ⟨את⟩ dom, bo zaraza została uleczona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "niech przyjdzie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i zobaczy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "rozpostarła się"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zaraza"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הטח",
+      "gloss": "otynkowaniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i oczyści"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "została uleczona"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zaraza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:21.302057258Z",
+  "model": "glm-5.3"
+}

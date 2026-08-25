@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Szczęśliwy ⟨to⟩ mąż, który uczynił Jahwe ufnością swoją, i nie zwrócił się ku zuchwałym ani ku odchodzącym ku kłamstwu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ufnością swoją"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "zwrócił się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "zuchwałym"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ani ku odchodzącym"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ku kłamstwu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:21.450762878Z",
+  "model": "glm-5.3"
+}

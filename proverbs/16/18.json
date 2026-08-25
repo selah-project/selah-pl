@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Przed skruszeniem ⟨jest⟩ pycha, a przed potknięciem — wyniosły duch.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "skruszeniem"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pycha"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a przed"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "potknięciem"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wyniosły"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:30.310073132Z",
+  "model": "glm-5.3"
+}

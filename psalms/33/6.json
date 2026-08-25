@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Słowem Jahwe zostały uczynione niebiosa, a ruach jego ust — cały ich zastęp.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Słowem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "zostały uczynione"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "a ruach"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jego ust"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ich zastęp"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:19.058773260Z",
+  "model": "glm-5.3"
+}

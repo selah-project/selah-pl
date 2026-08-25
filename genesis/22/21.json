@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uca, swego pierworodnego, i ⟨את⟩ Buza, jego brata, i ⟨את⟩ Kemuela, ojca Aramu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uca"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uca"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "swego pierworodnego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Buza"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buza"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kemuela"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuela"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:24.726359371Z",
+  "model": "glm-5.3"
+}

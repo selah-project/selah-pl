@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I rzekł Dawid do Szaula: Dlaczego słuchasz ⟨את⟩ słów człowieka, które mówią: Oto Dawid szuka twego zła?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do Szaula"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "słuchasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słów człowieka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "które mówią"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "szuka"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "twego zła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:45.932811164Z",
+  "model": "glm-5.3"
+}

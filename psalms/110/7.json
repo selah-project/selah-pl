@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 110,
+  "translation": "Z potoku na drodze będzie pił, dlatego podniesie głowę.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "z potoku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "będzie pił"
+    },
+    {
+      "surface": "על",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "przeto"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "podniesie"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.663491430Z",
+  "model": "glm-5.3"
+}

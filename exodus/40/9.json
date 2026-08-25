@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I weźmiesz ⟨את⟩ olejek namaszczenia i namaścisz ⟨את⟩ przybytek i ⟨את⟩ wszystko, co w nim, i poświęcisz ⟨את⟩ niego i ⟨את⟩ wszystkie jego naczynia, i ⟨będzie⟩ świętość.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olejek"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejek"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i poświęcisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętość"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:28.619402604Z",
+  "model": "glm-5.3"
+}

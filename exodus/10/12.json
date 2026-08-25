@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekł Jahwe do Moszego: Wyciągnij rękę twoją na ziemię Micraim na szarańczę, i wzejdzie ona na ziemię Micraim, i zje ⟨את⟩ wszelką trawę ziemi, ⟨את⟩ wszystko, co grad zostawił.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "wyciągnij"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rękę twoją"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "na szarańczę"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wzejdzie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i zje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszelką trawę ziemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelką"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "zostawił"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:34.568867289Z",
+  "model": "glm-5.3"
+}

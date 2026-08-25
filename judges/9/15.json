@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 9:15",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I powiedział cierń do drzew: Jeżeli naprawdę namaściliście ⟨את⟩ mnie na króla nad wami, przyjdźcie, schrońcie się w moim cieniu; a jeśli nie — wyjdzie ogień z ciernia i pożre ⟨את⟩ cedry Libanu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i-powiedział"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "cierń"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drzew"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeżeli"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "w-prawdzie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "namaściliście"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na-króla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad-wami"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyjdźcie"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "schroncie-się"
+    },
+    {
+      "surface": "בצלי",
+      "gloss": "w-moim-cieniu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a-jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ciernia"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i-pożre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedry Libanu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:48.831792686Z",
+  "model": "glm-5.3"
+}

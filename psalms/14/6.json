@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Radę ubogiego zawstydziliście, bo Jahwe ⟨jest⟩ jego schronieniem.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Radę"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "zawstydziliście"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "jego schronieniem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:20.114116871Z",
+  "model": "glm-5.3"
+}

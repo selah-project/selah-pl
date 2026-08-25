@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Chesed i prawda spotkały się, sprawiedliwość i pokój pocałowały się.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i prawda"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "spotkały się"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "i pokój"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "pocałowały się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:11.233642522Z",
+  "model": "glm-5.3"
+}

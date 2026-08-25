@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Dni moje jak cień wyciągnięty, a ja jak trawa więdnę.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Dni moje"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "jak cień"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "wyciągnięty"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jak trawa"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "więdnę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:27.120581770Z",
+  "model": "glm-5.3"
+}

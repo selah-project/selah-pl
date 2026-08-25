@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I widzieliście ⟨את⟩ ich obrzydliwości i ⟨את⟩ ich bożki — drewno i kamień, srebro i złoto, które ⟨były⟩ z nimi",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "i widzieliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich obrzydliwości"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ich obrzydliwości"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich bożki"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ich bożki"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drewno"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamień"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i złoto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "z nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:51.526157147Z",
+  "model": "glm-5.3"
+}

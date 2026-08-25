@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Bo nakłonili przeciw tobie zło, obmyślili niecny zamiar — lecz nie zdołają.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "nakłonili"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przeciw tobie"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "obmyślili"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "niecny zamiar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "zdołają"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:24.890721961Z",
+  "model": "glm-5.3"
+}

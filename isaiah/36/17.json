@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Aż przyjść mam i wezmę ⟨את⟩ was do ziemi jak wasza ziemia, ziemi zboża i moszczu, ziemi chleba i winnic.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "באי",
+      "gloss": "przyjść mam"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "i wezmę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "jak wasza ziemia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "zboża"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "i moszczu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "i winnic"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:49.337753338Z",
+  "model": "glm-5.3"
+}

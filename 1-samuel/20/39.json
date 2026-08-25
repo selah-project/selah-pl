@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A chłopiec nie wiedział niczego; tylko Jehonatan i Dawid wiedzieli ⟨את⟩ sprawę.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "a chłopiec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niczego"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "i Dawid"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wiedzieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sprawę"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sprawę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:41.177196662Z",
+  "model": "glm-5.3"
+}

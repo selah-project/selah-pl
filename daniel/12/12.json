@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Szczęśliwy ten, kto czeka i dojdzie do dni tysiąca trzystu trzydziestu pięciu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ten, kto czeka"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "i dojdzie"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "do dni"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąca"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzystu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(setek)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydziestu"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "i pięciu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:55.965615154Z",
+  "model": "glm-5.3"
+}

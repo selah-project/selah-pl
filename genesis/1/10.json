@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I nazwał Elohim ⟨את⟩ lądek ziemią, a zgromadzeniu wód nazwał — morzami; i widział Elohim, że ⟨jest⟩ dobre.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "⟨את⟩ lądek"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "a zgromadzeniu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazwał"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:03.350132858Z",
+  "model": "glm-5.3"
+}

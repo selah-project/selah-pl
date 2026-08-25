@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Słuchaj, córko, i patrz, i nakłoń swoje ucho; i zapomnij swój lud oraz dom swego ojca.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "słuchaj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córko"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "i patrz"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "i nakłoń"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "swoje ucho"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "i zapomnij"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "oraz dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "swego ojca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.713509750Z",
+  "model": "glm-5.3"
+}

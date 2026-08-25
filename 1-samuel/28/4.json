@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zgromadzili się Pelisztowie i przybyli, i rozbili obóz w Szunem; a Szaul zgromadził ⟨את⟩ cały Israel, i rozbili obóz na Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "i zgromadzili się"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztowie"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przybyli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "w Szunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a zgromadził"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "na Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:27.497053021Z",
+  "model": "glm-5.3"
+}

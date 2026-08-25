@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Jahwe, Adonai, siło zbawienia mego, osłoniłeś ⟨moją⟩ głowę w dniu oręża.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "siło"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "zbawienia mego"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "osłoniłeś"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "⟨moją⟩ głowę"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "oręża"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:46.629830670Z",
+  "model": "glm-5.3"
+}

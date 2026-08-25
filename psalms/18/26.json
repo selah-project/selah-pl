@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Z łaskawym okazujesz łaskawość, z mężem doskonałym okazujesz się doskonały.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "łaskawym"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "okazujesz łaskawość"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "doskonałym"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "okazujesz się doskonały"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:45.720790560Z",
+  "model": "glm-5.3"
+}

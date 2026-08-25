@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Jak ogień pożerający las, a jak płomień zapalający góry.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Jak ogień"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "pożerający"
+    },
+    {
+      "surface": "יער",
+      "gloss": "las"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "a jak płomień"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "zapalający"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:43.381752934Z",
+  "model": "glm-5.3"
+}

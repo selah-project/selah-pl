@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Wtedy przemówi do nich w swoim gniewie i w swojej zapalczywości ich przetrwoży.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "przemówi"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "w swoim gniewie"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "i w swojej zapalczywości"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ich przetrwoży"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:49.887344688Z",
+  "model": "glm-5.3"
+}

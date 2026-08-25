@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I powiedział: Wołałem z ucisku mego do Jahwe, a On mi odpowiedział; z łona Szeolu wołałem — usłyszałeś głos mój.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "z ucisku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a odpowiedział mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z łona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szeolu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "usłyszałeś"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:53.613737111Z",
+  "model": "glm-5.3"
+}

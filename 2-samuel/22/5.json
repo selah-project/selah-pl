@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Bo fale śmierci mnie opasały, potoki Beliala mnie przeraziły.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "opasały mnie"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "fale"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "potoki"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "przeraziły mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:06.531058085Z",
+  "model": "glm-5.3"
+}

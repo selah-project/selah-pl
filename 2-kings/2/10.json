@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I powiedział: O trudną rzecz prosiłeś; jeśli ujrzysz ⟨את⟩ mnie, gdy będę brany z ⟨את⟩ twojej strony, niech ci tak będzie; a jeśli nie — nie będzie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I powiedział"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "o trudną rzecz prosiłeś"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "prosić"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ujrzysz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "będę brany"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "z ⟨את⟩ ciebie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:53.504942819Z",
+  "model": "glm-5.3"
+}

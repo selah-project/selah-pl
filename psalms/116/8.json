@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Bo wyratowałeś nefesz moją od śmierci, ⟨את⟩ oko moje od łez, ⟨את⟩ stopę moją od potknięcia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wyratowałeś"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moją"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko moje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "łez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stopę moją"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "stopę moją"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "od potknięcia"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:26.062898050Z",
+  "model": "glm-5.3"
+}

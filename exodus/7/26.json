@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I rzekł Jahwe do Mosze: Przyjdź do Paro i powiesz mu: Tak mówi Jahwe: Wyślij ⟨את⟩ mój lud, aby mi służył.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyjdź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyślij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "aby mi służył"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:35.284384113Z",
+  "model": "glm-5.3"
+}

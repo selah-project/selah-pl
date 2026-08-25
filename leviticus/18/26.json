@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A wy będziecie strzec ⟨את⟩ moich ustaw i ⟨את⟩ moich praw, i nie będziecie czynić żadnej z wszystkich tych obrzydliwości — tubylec i przybysz przebywający pośród was.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "a będziecie strzec"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moich ustaw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moich ustaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moich praw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moich praw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "będziecie czynić"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "żadnej z wszystkich"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "obrzydliwości"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "tubylec"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "i przybysz"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "przebywający"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pośród was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:10.170246623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I uklęknął wielbłądami — sprawił, że uklękły wielbłądy — poza miastem, przy studni wody, o zmierzchu, o czasie wychodzenia kobiet czerpiących wodę — sprawił, że uklękły wielbłądy poza miastem, ku studni wody, o porze wieczoru, o porze wychodu czerpiących [wodę].",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i uklęknął [wielbłądami]"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "wielbłądy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "poza"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miastem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "o porze"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wieczoru"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "o porze"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "wychodu"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "czerpiących [wodę]"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:22.946835181Z",
+  "model": "glm-5.3"
+}

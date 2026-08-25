@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 23:7",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Tam prawy mógłby roztrząsać ⟨sprawę⟩ z nim, a ja na wieki uszedłbym mojemu sędziemu.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prawy"
+    },
+    {
+      "surface": "נוכח",
+      "gloss": "mógłby roztrząsać"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ואפלטה",
+      "gloss": "a ja uszedłbym"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mojemu sędziemu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:20:49.160809296Z",
+  "model": "glm-5.3"
+}

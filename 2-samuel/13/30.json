@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I stało się, gdy byli w drodze, że wieść przyszła do Dawida, mówiąc: Pobił Abszalom ⟨את⟩ wszystkich synów króla i nie został z nich ani jeden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "w drodze"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "a wieść"
+    },
+    {
+      "surface": "באה",
+      "gloss": "przyszła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abszalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich synów króla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "został"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ani jeden"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:10.726333464Z",
+  "model": "glm-5.3"
+}

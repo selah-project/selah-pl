@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I potkniesz się we dnie, i potknie się także prorok z tobą w nocy, a Ja zniszczę twoją matkę.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "i potkniesz się"
+    },
+    {
+      "surface": "היום",
+      "gloss": "we dnie"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "i potknie się"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "a Ja zniszczę"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "twoją matkę"
+    }
+  ],
+  "timestamp": "2026-08-25T04:17:58.566392877Z",
+  "model": "glm-5.3"
+}

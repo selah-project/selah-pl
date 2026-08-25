@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Sprawiedliwy na wieki nie zachwieje się, a bezbożni nie zamieszkają na ziemi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zachwieje się"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "a bezbożni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "zamieszkają"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:56.343686922Z",
+  "model": "glm-5.3"
+}

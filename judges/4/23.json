@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I Elohim upokorzył ⟨את⟩ Jawina, króla Kanaanu, w dniu owym przed synami Israela.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "i upokorzył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawina"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Jawina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:43.568053194Z",
+  "model": "glm-5.3"
+}

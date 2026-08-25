@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I powstał nowy król nad Micraim, który nie znał ⟨את⟩ Józefa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I powstał"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nowy"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Józefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:09.207251188Z",
+  "model": "glm-5.3"
+}

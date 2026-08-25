@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Daj nam pomoc od przeciwnika, a złudna ⟨jest⟩ pomoc człowieka.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pomoc"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "od przeciwnika"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "a złudna"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pomoc"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:37.004760493Z",
+  "model": "glm-5.3"
+}

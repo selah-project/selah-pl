@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I przemówił Chamor ⟨את⟩ nimi, mówiąc: Szkem, syn mój — przylgnęła dusza jego do waszej córki; dajcie teraz ⟨את⟩ nią mu za żonę.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I przemówił"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nimi",
+      "marks": "nimi (synowie Jaakowa)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szkem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syn mój"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "przylgnęła"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dusza jego"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "do waszej córki"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nią",
+      "marks": "nią (córkę)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:24.930038144Z",
+  "model": "glm-5.3"
+}

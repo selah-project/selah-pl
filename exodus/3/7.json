@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jahwe: Widząc widziałem ⟨את⟩ nędzę ludu mego, który jest w Micraim, i ⟨את⟩ krzyk ich usłyszałem od oblicza ciemiężców jego, bo znam ⟨את⟩ bóle jego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widząc"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nędzę ludu mego"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędzę"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludu mego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krzyk ich"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "krzyk ich"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od oblicza"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ciemiężców jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bóle jego"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "bóle jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:12.433995220Z",
+  "model": "glm-5.3"
+}

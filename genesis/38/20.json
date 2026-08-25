@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I posłał Jehuda ⟨את⟩ koźlę kóz ręką swego przyjaciela, Adulamczyka, aby zabrać zadatek z ręki tej kobiety, lecz nie znalazł jej.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koźlę kóz"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "koźlę"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kóz"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swego przyjaciela"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adulamczyka"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby zabrać"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "zadatek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tej kobiety"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "znalazł ją"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:31.651980438Z",
+  "model": "glm-5.3"
+}

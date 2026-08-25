@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "⟨Od⟩ chleba swego Elohim — z rzeczy najświętszych i z rzeczy świętych — jeść będzie.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "swego Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "z rzeczy najświętszych"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "najświętszych"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "rzeczy świętych"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jeść będzie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:44.268599832Z",
+  "model": "glm-5.3"
+}

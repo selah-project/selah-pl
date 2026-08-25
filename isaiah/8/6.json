@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Ponieważ lud ten wzgardził ⟨את⟩ wodami Sziloachu, płynącymi łagodnie, i raduje się z Recyna i syna Remaljasza,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "wzgardził"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wodami Sziloachu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Sziloachu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "płynącymi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "łagodnie"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "i raduje się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recynem"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recynem"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i synem"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljasza"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:40.818068569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł: Zrzućcie ją! A zrzucili ją, i bryznęła jej krew na ścianę i na konie, i podeptali ją.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "zrzućcie ją"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "a zrzucili ją"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "i bryznęła"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "jej krew"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ścianę"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "konie"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "i podeptali ją"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:37.527866614Z",
+  "model": "glm-5.3"
+}

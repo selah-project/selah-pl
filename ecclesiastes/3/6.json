@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Czas szukania i czas gubienia; czas strzeżenia i czas odrzucenia.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "szukania"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i czas"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "gubienia"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "strzeżenia"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i czas"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "odrzucenia"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:35.860140196Z",
+  "model": "glm-5.3"
+}

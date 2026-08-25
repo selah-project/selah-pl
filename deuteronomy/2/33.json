@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wydał go Jahwe, nasz Elohim, przed nami, i pobiliśmy ⟨את⟩ niego, i ⟨את⟩ jego synów, i ⟨את⟩ całego jego ludu.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "i wydał go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nasz Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "przed nami"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "i pobiliśmy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całego jego ludu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:23.349905279Z",
+  "model": "glm-5.3"
+}

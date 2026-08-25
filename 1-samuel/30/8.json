@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 30:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I pytał Dawida Jahwe, mówiąc: Będę ścigał ten oddział — czy go doścignę? I powiedział mu: Ścigaj, bo na pewno dościgniesz i na pewno uwolnisz.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i pytał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "będę ścigał"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "tym oddziałem"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tym"
+    },
+    {
+      "surface": "האשגנו",
+      "gloss": "czy go doścignę"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ścigaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השג",
+      "gloss": "na pewno dościgniesz"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "dościgniesz"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "i na pewno uwolnisz"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "uwolnisz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:57.886338777Z",
+  "model": "glm-5.3"
+}

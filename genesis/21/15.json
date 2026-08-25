@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I skończyła się woda z bukłaka, i rzuciła ⟨את⟩ dziecko pod jednym z krzewów.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "i skończyła się"
+    },
+    {
+      "surface": "המים",
+      "gloss": "woda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "bukłaka"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "i rzuciła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziecko"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "z krzewów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:56.925570217Z",
+  "model": "glm-5.3"
+}

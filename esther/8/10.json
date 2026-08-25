@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I napisano w imię króla Achaszwerosza, i opieczętowano pierścieniem króla, i wysłano listy rękami biegaczy na koniach — jeźdźców rumaków szybkich, synów klaczy hodowanych.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisano"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imię"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achaszwerosza"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "i opieczętowano"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "pierścieniem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłano"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "listy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rękami"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "biegaczy"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "na koniach"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "jeźdźców"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "rumaków"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "szybkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "klaczy hodowanych"
+    }
+  ],
+  "timestamp": "2026-08-25T03:51:29.025920907Z",
+  "model": "glm-5.3"
+}

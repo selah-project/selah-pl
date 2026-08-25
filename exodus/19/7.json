@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I przyszedł Mosze, i zwołał starszych ludu, i położył przed ich obliczem ⟨את⟩ wszystkie te słowa, które przykazał mu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zwołał"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed ich obliczem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "przykazał mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:25.313244093Z",
+  "model": "glm-5.3"
+}

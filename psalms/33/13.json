@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Z niebiosów spogląda Jahwe, widzi ⟨את⟩ wszystkich synów człowieka.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "z niebiosów"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "spogląda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich synów człowieka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.717891265Z",
+  "model": "glm-5.3"
+}

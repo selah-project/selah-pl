@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł: Przy odbieraniu porodów Hebrejek zobaczycie na kamieniach porodowych — jeśli syn, to zabijecie go, a jeśli córka, to niech żyje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "Przy odbieraniu porodów"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrejek"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "Hebrejek"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "zobaczycie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamieniach porodowych"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "zabijecie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "niech żyje"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:35.141459249Z",
+  "model": "glm-5.3"
+}

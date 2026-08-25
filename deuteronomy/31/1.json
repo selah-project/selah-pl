@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I ruszył Mosze, i mówił ⟨את⟩ słowa te do całego Jisraela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ruszył"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:43.456073654Z",
+  "model": "glm-5.3"
+}

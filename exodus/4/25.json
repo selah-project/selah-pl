@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wzięła Cipora krzemień, i odcięła napletek swojego syna, i dotknęła jego nóg, i powiedziała: bo oblubieńcem krwi jesteś dla mnie.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i wzięła"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "krzemień"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "i odcięła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napletek swojego syna"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "napletek"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "swojego syna"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "i dotknęła"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "jego nóg"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "oblubieńcem"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jesteś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:50.405374665Z",
+  "model": "glm-5.3"
+}

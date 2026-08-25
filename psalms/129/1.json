@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "Pieśń wstępowania. Wielce tłoczyli mnie od mojej młodości — niech powie teraz Izrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowania"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Wielce"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "tłoczyli mnie"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mojej młodości"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "niech powie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:09.881028241Z",
+  "model": "glm-5.3"
+}

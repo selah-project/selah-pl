@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i przykazał mu w tej sprawie, by nie szedł za innymi elohim; lecz nie zachował tego, co przykazał Jahwe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i przykazał"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sprawie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "by nie"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "szedł"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innymi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "zachował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, co przykazał Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:09.832121034Z",
+  "model": "glm-5.3"
+}

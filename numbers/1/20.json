@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 1:20",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I byli synowie Rubena, pierworodnego Iszraela — ich pokolenia według ich rodzin, według domów ich ojców, w liczbie imion według ich głów, każdy mężczyzna od syna dwudziestu lat i wzwyż, każdy wychodzący na wojnę.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i byli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubena"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "pierworodnego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ich pokolenia"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodzin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "według domów"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "w liczbie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imion"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "według ich głów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od syna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i wzwyż"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wychodzący"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "na wojnę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:03.383946244Z",
+  "model": "glm-5.3"
+}

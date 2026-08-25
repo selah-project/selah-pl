@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Szczęśliwi twoi mężowie, i szczęśliwi ci twoi słudzy, którzy stają przed tobą stale i słuchają ⟨את⟩ twojej mądrości.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwi"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "twoi mężowie"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "i szczęśliwi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "twoi słudzy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "którzy stają"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stale"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "i słuchają"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twojej mądrości"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "twojej mądrości"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:28.515520062Z",
+  "model": "glm-5.3"
+}

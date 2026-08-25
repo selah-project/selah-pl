@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Jeśli zapomnę cię, Jeruszalaim, niech zapomni moja prawica.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "zapomnę cię"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "niech zapomni"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "moja prawica"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:42.398919060Z",
+  "model": "glm-5.3"
+}

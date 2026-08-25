@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I odwrócił król ⟨את⟩ swojego oblicza, i pobłogosławił ⟨את⟩ cały zgromadzenie Jisraela, a całe zgromadzenie Jisraela stało.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "i odwrócił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego oblicza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swojego oblicza"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a całe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stało"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:46.015310319Z",
+  "model": "glm-5.3"
+}

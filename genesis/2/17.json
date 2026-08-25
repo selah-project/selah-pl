@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A z drzewa poznania dobra i zła — nie będziesz z niego jeść, bo w dniu twego jedzenia z niego śmiercią umrzesz.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "a z drzewa"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "poznania"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "i zła"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "będziesz jeść"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "twego jedzenia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umrzesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:09.057685670Z",
+  "model": "glm-5.3"
+}

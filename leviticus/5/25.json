@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A ⟨את⟩ swoją ofiarę winną przyprowadzi dla Jahwe: barana bez skazy z trzody, według twojej wyceny, jako ofiarę winną, do kapłana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ofiarę winną"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "swoją ofiarę winną"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "przyprowadzi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez skazy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "według twojej wyceny"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "jako ofiarę winną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:22.631936524Z",
+  "model": "glm-5.3"
+}

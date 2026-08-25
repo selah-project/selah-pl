@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Poniesie błogosławieństwo od ⟨את⟩ Jahwe i sprawiedliwość od Elohim zbawienia jego.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "poniesie"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "błogosławieństwo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "i sprawiedliwość"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "zbawienia jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:39.562752592Z",
+  "model": "glm-5.3"
+}

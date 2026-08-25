@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Arwadytę, i ⟨את⟩ Cemarytę, i ⟨את⟩ Chamatyłę; a potem rozproszyły się rody ⟨ה⟩ Kanaanity",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arwadytę"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cemarytę"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Cemarytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamatyłę"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatyłę"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "rozproszyły się"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "rodu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:37.951833338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przyjęli Jehudim ⟨את⟩ to, co zaczęli czynić, i ⟨את⟩ to, co napisał Mordechaj do nich.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "i przyjęli"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co zaczęli czynić"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "zaczęli"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "czynić"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co napisał Mordechaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napisał"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:14.490731512Z",
+  "model": "glm-5.3"
+}

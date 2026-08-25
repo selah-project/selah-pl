@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Przepasz swój miecz na biodrze, bohaterze, majestat twój i wspaniałość twoja!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Przepasz"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "swój miecz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "biodrze"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bohaterze"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majestat twój"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "i wspaniałość twoja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:18.596934402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Moja wierność i moja wierna miłość ⟨będą⟩ z nim, i w moim imieniu róg jego będzie wzniesiony.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "moja wierność"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "i moja wierna miłość"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "i w moim imieniu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "będzie wzniesiony"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "róg jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:10.719299036Z",
+  "model": "glm-5.3"
+}

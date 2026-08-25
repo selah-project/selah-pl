@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I słodkie ⟨jest⟩ światło, i miłe ⟨jest⟩ oczom widzieć ⟨את⟩ słońce.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "i słodkie"
+    },
+    {
+      "surface": "האור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i miłe"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "oczom"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "widzieć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słońce"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:02.441606738Z",
+  "model": "glm-5.3"
+}

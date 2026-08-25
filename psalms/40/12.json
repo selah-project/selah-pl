@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Ty, Jahwe, nie powstrzymasz litości Twoich ode mnie; chesed Twój i wierność Twoja zawsze mnie strzec będą.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "powstrzymasz"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "litości Twoich"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Twój"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i wierność Twoja"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "mnie strzec będą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.335643112Z",
+  "model": "glm-5.3"
+}

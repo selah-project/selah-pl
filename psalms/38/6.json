@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Śmierdzą, zgnilę moje sińce z powodu mojego szaleństwa.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Śmierdzą"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "zgnilę"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "moje sińce"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "mojego szaleństwa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.078804532Z",
+  "model": "glm-5.3"
+}

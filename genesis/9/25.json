@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł: Przeklęty niech będzie Kenaan, sługą sług niech będzie braciom swoim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "przeklęty"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługą"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sług"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "braciom swoim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:29.269946475Z",
+  "model": "glm-5.3"
+}

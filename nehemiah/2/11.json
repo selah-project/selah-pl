@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przyszedłem do Jeruszalaim i byłem tam dni trzy.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "i przyszedłem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "i byłem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:46:14.992432285Z",
+  "model": "glm-5.3"
+}

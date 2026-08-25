@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Nie oczerniaj sługi przed jego Adonai, bo ci może złorzeczyć i poniesiesz winę.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "oczerniaj"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "Adonai jego"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "złorzeczy ci"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "i poniesiesz winę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:30.624949244Z",
+  "model": "glm-5.3"
+}

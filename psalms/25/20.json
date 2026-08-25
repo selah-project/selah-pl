@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Strzeż mojej nefesz i wyrwij mnie; niech nie będę zawstydzony, bo w tobie szukałem schronienia.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "strzeż"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i wyrwij mnie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "będę zawstydzony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "szukałem schronienia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:46.379711312Z",
+  "model": "glm-5.3"
+}

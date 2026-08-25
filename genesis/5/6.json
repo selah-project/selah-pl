@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Szet sto pięć lat, i zrodził ⟨את⟩ Enosza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Szet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosza"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:40.924539780Z",
+  "model": "glm-5.3"
+}

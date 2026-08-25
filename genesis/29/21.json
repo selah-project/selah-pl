@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I rzekł Jaakow do Labana: Daj ⟨את⟩ moją żonę, bo się wypełniły moje dni, i niech wejdę do niej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją żonę"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "moją żonę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "wypełniły się"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moje dni"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "i niech wejdę"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:18.847341702Z",
+  "model": "glm-5.3"
+}

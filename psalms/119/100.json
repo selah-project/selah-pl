@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Od starszych rozumiem więcej, bo twoich ustaw strzegłem.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "od starszych"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "rozumiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "twoich ustaw"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "strzegłem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:27.879796747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Bo Jaakowa wybrał sobie Jah, Israel na swoją własność.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wybrał"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "na swoją własność"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:35.951180923Z",
+  "model": "glm-5.3"
+}

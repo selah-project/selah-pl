@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Wspomnij, Jahwe, synów Edomu, ⟨את⟩ dzień Jeruszalaim, którzy mówili: Zburzcie, zburzcie aż po fundament jej!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wspomnij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "którzy mówili"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Zburzcie"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "zburzcie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "fundament"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:42.399445670Z",
+  "model": "glm-5.3"
+}

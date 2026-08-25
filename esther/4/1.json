@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I dowiedział się Mordechaj ⟨o⟩ wszystkim, co się stało; i rozdarł Mordechaj ⟨את⟩ szaty swoje, i przyodział wór oraz popiół, i wyszedł w środek miasta, i krzyczał krzykiem wielkim i gorzkim.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "i Mordechaj"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dowiedział się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "się stało"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i rozdarł"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szaty swoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "szaty swoje"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "i przyodział"
+    },
+    {
+      "surface": "שק",
+      "gloss": "wór"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "oraz popiół"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środek"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "i krzyczał"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "krzykiem"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "i gorzkim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:22.779291670Z",
+  "model": "glm-5.3"
+}

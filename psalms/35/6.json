@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech ⟨jest⟩ droga ich ciemnością i śliskością, a posłaniec Jahwe ⟨ich⟩ ścigający.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Niech ⟨jest⟩"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "droga ich"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemnością"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "i śliskością"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "a posłaniec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ścigający ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:41.938189588Z",
+  "model": "glm-5.3"
+}

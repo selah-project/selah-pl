@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Wróć, Jahwe, jak długo? i ulituj się nad sługami twoimi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Wróć"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aby"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "i ulituj się"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sługami twoimi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:41.839763812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A żył Kenan siedemdziesiąt lat, i płodził ⟨את⟩ Mahalaleela.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a żył"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "siedemdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i płodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalaleela"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:55.342848503Z",
+  "model": "glm-5.3"
+}

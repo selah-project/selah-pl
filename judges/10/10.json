@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wołali synowie Izraela do Jahwe, mówiąc: Zgrzeszyliśmy wobec ciebie, bo opuściliśmy ⟨את⟩ Elohim naszych i służyliśmy ⟨את⟩ Baalom.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "i wołali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "zgrzeszyliśmy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wobec ciebie"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "opuściliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim naszych"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszych"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "i służyliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalowie"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalom"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:27.837662330Z",
+  "model": "glm-5.3"
+}

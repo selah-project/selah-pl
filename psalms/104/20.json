@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Kładziesz ciemność i nastaje noc; w niej rusza się wszelkie zwierzę leśne.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Kładziesz"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i nastaje"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "rusza się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "יער",
+      "gloss": "leśne"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:59.287855064Z",
+  "model": "glm-5.3"
+}

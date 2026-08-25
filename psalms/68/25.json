@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Ujrzano procesje twoje, Elohim — procesje Ela mego, króla mego, w świętości.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Ujrzano"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "procesje twoje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "procesje"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ela mego"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "króla mego"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "w świętości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:29.530172851Z",
+  "model": "glm-5.3"
+}

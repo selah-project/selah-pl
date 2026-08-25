@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wziął Dawid jeszcze żony w Jeruszalaim, i Dawid spłodził jeszcze synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "żony"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i spłodził"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:05.819279366Z",
+  "model": "glm-5.3"
+}

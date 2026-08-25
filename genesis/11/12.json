@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A Arpakszad żył pięć i trzydzieści lat, i spłodził ⟨את⟩ Szelacha.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "A Arpakszad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żył"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szelacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Szelacha"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:12.468976127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I zawołaliśmy do Jahwe, Elohim naszych ojców, a Jahwe usłyszał ⟨את⟩ nasz głos, i zobaczył ⟨את⟩ naszą nędzę, i ⟨את⟩ nasz trud, i ⟨את⟩ nasz ucisk.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "zawołaliśmy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naszych ojców"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasz głos"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "nasz głos"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "zobaczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naszą nędzę"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "naszą nędzę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nasz trud"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "nasz trud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nasz ucisk"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "nasz ucisk"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:51.614341785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Proście o pokój Jeruszalaim, niech spokój mają ci, którzy cię miłują.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Proście"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "niech spokój mają"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "którzy cię miłują"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:06.430766574Z",
+  "model": "glm-5.3"
+}

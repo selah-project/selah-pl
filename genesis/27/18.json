@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I przyszedł do ojca swego, i rzekł: Ojcze mój! A on rzekł: Oto jestem — kim ty ⟨jesteś⟩, synu mój?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ojcze mój"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on rzekł"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto jestem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu mój"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:40.916304666Z",
+  "model": "glm-5.3"
+}

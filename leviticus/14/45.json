@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I burzyć będzie ⟨את⟩ dom — ⟨את⟩ kamienie jego, i ⟨את⟩ drewna jego, i ⟨את⟩ cały pył domu — i wyniesie ⟨to⟩ na zewnątrz miasta, na miejsce nieczyste.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "i burzyć będzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamienie jego"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "kamienie jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "drewna jego"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "drewna jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały pył"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pył"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "i wyniesie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zewnątrz"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczyste"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:21.301420235Z",
+  "model": "glm-5.3"
+}

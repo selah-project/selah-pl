@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Bo śniegowi mówi: Bądź, ziemio; i deszczowi ulewnemu, i deszczom ulewnym swej potęgi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "śniegowi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Bądź"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemio"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i deszczowi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ulewnemu"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i deszczom"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "ulewnym"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "swej potęgi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:24:24.881465538Z",
+  "model": "glm-5.3"
+}

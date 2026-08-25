@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Osądź mnie według swej sprawiedliwości, Jahwe, Elohim mój, i niech się nie radują nade mną.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Osądź mnie"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "według swej sprawiedliwości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i niech nie"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "radują się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nade mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:18.914244946Z",
+  "model": "glm-5.3"
+}

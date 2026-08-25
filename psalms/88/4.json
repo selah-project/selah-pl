@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Bo nasyciła się w złym moja nefesz, a moje życie do Szeolu dotarło.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nasyciła się"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "w złym"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "a moje życie"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do Szeolu"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "dotarło"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:05.299648183Z",
+  "model": "glm-5.3"
+}

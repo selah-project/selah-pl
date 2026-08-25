@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jak Jahwe rozkazał ⟨את⟩ Moszemu, tak ich policzył na pustyni Synaj.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "tak ich policzył"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:03.383797804Z",
+  "model": "glm-5.3"
+}

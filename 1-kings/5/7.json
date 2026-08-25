@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A urzędnicy ci zaopatrywali ⟨את⟩ króla Szlomona i ⟨את⟩ wszystkich, którzy przystępowali do stołu króla Szlomona, każdy w swoim miesiącu — niczego nie brakowało.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "a zaopatrywali"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "urzędnicy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla Szlomona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkich przystępujących do stołu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "przystępujących"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stołu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "w swoim miesiącu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "brakowało"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niczego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:05.325159431Z",
+  "model": "glm-5.3"
+}

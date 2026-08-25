@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Wysławiam Cię, bo straszliwie zostałem wyróżniony; zdumiewające są Twoje dzieła, i moja nefesz zna to dobrze.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Wysławiam Cię"
+    },
+    {
+      "surface": "על",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "straszliwie"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "zostałem wyróżniony"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "zdumiewające"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Twoje dzieła"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "i moja nefesz"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:23.901798042Z",
+  "model": "glm-5.3"
+}

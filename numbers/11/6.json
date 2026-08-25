@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A teraz nasza nefesz wyschła, nie ⟨ma⟩ nic, oprócz ⟨tej⟩ manny ⟨przed⟩ naszymi oczami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nasza nefesz"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "wyschła"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ⟨ma⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "oprócz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨przed⟩ \/ do"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manny"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "naszymi oczami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:43.305081478Z",
+  "model": "glm-5.3"
+}

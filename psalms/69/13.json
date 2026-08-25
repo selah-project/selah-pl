@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Rozprawiają o mnie siedzący w bramie, a ⟨temat⟩ pieśni strun — pijący mocny trunek.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "rozprawiają"
+    },
+    {
+      "surface": "בי",
+      "gloss": "o mnie"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "siedzący"
+    },
+    {
+      "surface": "שער",
+      "gloss": "w bramie"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "a pieśni strun"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "pijący"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mocny trunek"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:52.416049829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Wszystko, czego zechciał Jahwe, uczynił — w niebiosach i na ziemi, w morzach i we wszystkich otchłaniach.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "czego"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zechciał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w-niebiosach"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i-na-ziemi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "w-morzach"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i-we-wszystkich"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "otchłaniach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:38.657563386Z",
+  "model": "glm-5.3"
+}

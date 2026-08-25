@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I policzono mu to za sprawiedliwość, na pokolenie i pokolenie, aż na wieki.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "i policzono"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "za sprawiedliwość"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:54.630758482Z",
+  "model": "glm-5.3"
+}

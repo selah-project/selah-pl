@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I modlił się Jonasz do Jahwe, Elohima swego, z wnętrzności ryby.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "i modlił się"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonasz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohima swego"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "z wnętrzności"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ryby"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:59.370855341Z",
+  "model": "glm-5.3"
+}

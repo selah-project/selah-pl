@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I wspominali, że Elohim ⟨jest⟩ skałą ich, a El Eljon odkupicielem ich.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "i wspominali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "skałą ich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "odkupicielem ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.502784015Z",
+  "model": "glm-5.3"
+}

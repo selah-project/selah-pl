@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I rozbili obóz synowie Iszraela w Gilgal, i odprawili ⟨את⟩ Pesach czternastego dnia miesiąca wieczorem, na równinach Jerycha.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "w Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i odprawili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "czternastego"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dziej)dziesiątego"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na równinach"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerycha"
+    }
+  ],
+  "timestamp": "2026-08-24T23:16:53.282558439Z",
+  "model": "glm-5.3"
+}

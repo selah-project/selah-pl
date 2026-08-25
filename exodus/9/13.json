@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł Jahwe do Moszego: Wstań rano wcześnie i stań przed Faraonem, i powiesz do niego: Tak powiedział Jahwe, Elohim Hebrajczyków: Wyślij ⟨את⟩ mój lud, aby Mnie służył.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "wstań rano wcześnie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "i stań"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonem"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczyków"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyślij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "aby Mnie służył"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:57.582827158Z",
+  "model": "glm-5.3"
+}

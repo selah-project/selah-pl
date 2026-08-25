@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Spójrz, odpowiedz mi, Jahwe, Elohim mój! Rozjaśnij moje oczy, żebym nie zasnął snem śmierci —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Spójrz"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedz mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Rozjaśnij"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "פן",
+      "gloss": "żebym nie"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "zasnął"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:39.822562798Z",
+  "model": "glm-5.3"
+}

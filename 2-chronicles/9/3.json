@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I ujrzała królowa Szeby ⟨את⟩ mądrość Szlomo oraz ⟨the⟩ dom, który zbudował.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i ujrzała"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "królowa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mądrość"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "oraz dom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:05.079319335Z",
+  "model": "glm-5.3"
+}

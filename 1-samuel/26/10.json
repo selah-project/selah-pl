@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rzekł Dawid: ⟨Jak⟩ żywy jest Jahwe — chyba że Jahwe go porazi, albo nadejdzie jego dzień i umrze, albo zejdzie do bitwy i zostanie starty.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żywy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chyba że"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "go porazi"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jego dzień"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nadejdzie"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "do bitwy"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zejdzie"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "i zostanie starty"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:49.154994257Z",
+  "model": "glm-5.3"
+}

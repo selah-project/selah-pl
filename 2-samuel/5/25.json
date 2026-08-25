@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I uczynił Dawid tak, jak mu przykazał Jahwe, i pobił ⟨את⟩ Pelisztynów od Geby, aż przyszedł do Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "przykazał mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisztynów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztynów"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "od Geby"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "באך",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "do Gezer"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:45.185726613Z",
+  "model": "glm-5.3"
+}

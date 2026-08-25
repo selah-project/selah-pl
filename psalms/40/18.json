@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "A ja jestem biedny i ubogi; Adonai ⟨o⟩ mnie myśli: tyś moją pomocą i moim wybawcą, mój Elohim, nie zwlekaj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "myśli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨o⟩ mnie"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "moją pomocą"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i moim wybawcą"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tyś"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mój Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zwlekaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:19.960659201Z",
+  "model": "glm-5.3"
+}

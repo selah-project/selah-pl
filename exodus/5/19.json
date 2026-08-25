@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I widzieli nadzorzy synów Iszraela ⟨את⟩ nich w niedoli, gdy powiedziano: Nie zmniejszajcie niczego z waszych cegieł, sprawę dnia w dniu jego.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i widzieli"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "nadzorcy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "w niedoli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gdy powiedziano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "zmniejszajcie"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "niczego z waszych cegieł"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawę"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "w dniu jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:56.233542451Z",
+  "model": "glm-5.3"
+}

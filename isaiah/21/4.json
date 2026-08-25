@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Błądzi me serce, groza mnie przeraża: ⟨את⟩ zmierzch mej rozkoszy obrócił ⟨mi⟩ w drżenie.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "błądzi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me serce"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "groza"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mnie przeraża"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zmierzch mej rozkoszy"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "zmierzch"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "mej rozkoszy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "obrócił"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mi⟩"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "w drżenie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:24:11.945670Z",
+  "model": "glm-5.3"
+}

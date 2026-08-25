@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I usłyszeli wszyscy z Jawesz Gilad ⟨את⟩ wszystkiego, co uczynili Filistyni Szaulowi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i usłyszeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jawesz"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkiego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyni"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Szaulowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:34.492113550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I powiedzieliśmy panu memu: Jest nam ojciec stary, i dziecko starości, małe; a brat jego umarł, i został on sam po matce swojej, i ojciec jego go miłuje.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "i powiedzieliśmy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "panu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "memu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "stary"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "i dziecko"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starości"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "małe"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "a brat jego"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umarł"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "i został"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "po matce swojej"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "i ojciec jego"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "go miłuje"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:38.779263517Z",
+  "model": "glm-5.3"
+}

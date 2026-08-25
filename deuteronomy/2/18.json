@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Ty przechodzisz dziś ⟨את⟩ granicę Moabu, ⟨את⟩ Ar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przechodzisz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "granicę Moabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "granicę"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-25T03:21:58.726141220Z",
+  "model": "glm-5.3"
+}

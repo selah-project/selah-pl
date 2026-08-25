@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Zasiadasz, przeciw twemu bratu mówisz, przeciw synowi twej matki dajesz potwarz.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "zasiadasz"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "przeciwnie twemu bratu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mówisz"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "przeciwnie synowi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "twej matki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dajesz"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "potwarz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:57.884768250Z",
+  "model": "glm-5.3"
+}

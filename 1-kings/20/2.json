@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I wysłał posłów do Achaba, króla Israela, do ⟨tego⟩ miasta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I wysłał"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "do miasta"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:27.329231048Z",
+  "model": "glm-5.3"
+}

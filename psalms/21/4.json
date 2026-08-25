@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Bo uprzedzasz go błogosławieństwami dobra, kładziesz na jego głowę koronę z czystego złota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "uprzedzasz go"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "błogosławieństwami"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "kładasz"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "na jego głowę"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "koronę"
+    },
+    {
+      "surface": "פז",
+      "gloss": "z czystego złota"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:01.837430094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Ich spisani — dla pokolenia Szymona — dziewięć i pięćdziesiąt tysięcy oraz trzy setki.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ich spisani"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "dla pokolenia"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Szymona"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "dziewięć"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "oraz trzy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:44.800576285Z",
+  "model": "glm-5.3"
+}

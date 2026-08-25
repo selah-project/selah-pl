@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "i z ziem ich zgromadził — ze wschodu i z zachodu, z północy i z morza.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "i z ziem"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "ich zgromadził"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ze wschodu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "i z zachodu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "z północy"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i z morza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:03.523458212Z",
+  "model": "glm-5.3"
+}

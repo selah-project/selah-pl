@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Czyż nie Ty, Elohim nasz, wypędziłeś ⟨את⟩ mieszkańców tej ziemi sprzed oblicza Twego ludu Jisraela, i dałeś ją nasieniu Awrahama, miłującego Cię, na wieki?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wypędziłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Twego ludu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "i dałeś"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "nasieniu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "miłującego Cię"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:58.522250680Z",
+  "model": "glm-5.3"
+}

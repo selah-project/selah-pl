@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I rzekł Dawid: Czy wydadzą panowie Keili ⟨את⟩ mnie i ⟨את⟩ moich ludzi w rękę Szaula? I rzekł Jahwe: Wydadzą.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "czy wydadzą"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "panowie"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moich ludzi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moich ludzi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Wydadzą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:58.046873301Z",
+  "model": "glm-5.3"
+}

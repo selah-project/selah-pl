@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I stało się, gdy sługa Awrahama usłyszał ⟨את⟩ ich słowa, że pokłonił się ku ziemi przed Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich słowa"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ich słowa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłonił się"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku ziemi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "przed Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:50.145523929Z",
+  "model": "glm-5.3"
+}

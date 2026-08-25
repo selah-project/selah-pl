@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Stawiam Jahwe nieustannie przed sobą; bo z mojej prawicy — nie zachwieję się.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Stawiam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "przed sobą"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "z mojej prawicy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachwieję się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:47.198147392Z",
+  "model": "glm-5.3"
+}

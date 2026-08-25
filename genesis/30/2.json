@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I zapłonął gniew Jaakowa na Rachel, i powiedział: Czy ja ⟨jestem⟩ w miejsce Elohim, który wstrzymał od ciebie owoc łona?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonął"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew (nozdrza)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "na Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "czy w miejsce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "wstrzymał"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "łona"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:06.211026825Z",
+  "model": "glm-5.3"
+}

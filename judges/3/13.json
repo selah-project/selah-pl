@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zgromadził ku sobie ⟨את⟩ synów Ammonu i Amaleka, i poszedł, i pobił ⟨את⟩ Jisraela, i wzięli w posiadanie ⟨את⟩ miasto palm.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i zgromadził"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku sobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Ammonu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "i Amaleka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "i wzięli w posiadanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto palm"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palm"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:13.739274663Z",
+  "model": "glm-5.3"
+}

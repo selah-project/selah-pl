@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zebrał ⟨את⟩ wszystkich książąt Israela oraz kapłanów i lewitów.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "I zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich książąt Israela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "oraz kapłanów"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i lewitów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:59.745375339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I odpowiedział król ⟨את⟩ ludowi surowo, i porzucił ⟨את⟩ radę starszych, którą mu doradzili.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpowiedział"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludowi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "surowo"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "i porzucił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "radę"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "radę"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "doradzili mu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:20.841956736Z",
+  "model": "glm-5.3"
+}

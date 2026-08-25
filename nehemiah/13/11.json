@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wszczęłam spór z ⟨את⟩ namiestnikami, i powiedziałam: dlaczego opuszczony jest dom Elohim? I zgromadziłam ich, i postawiłam ich na ich stanowisku.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "i wszczęłam spór"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namiestnikami"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "namiestnikami"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "i powiedziałam"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "opuszczony jest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "i zgromadziłam ich"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "i postawiłam ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ich stanowisku"
+    }
+  ],
+  "timestamp": "2026-08-25T02:49:38.182270121Z",
+  "model": "glm-5.3"
+}

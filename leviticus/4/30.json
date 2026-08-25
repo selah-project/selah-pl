@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I weźmie kohen z jej krwi swoim palcem, i da na rogi ołtarza całopalenia, a ⟨את⟩ wszystką jej krew wyleje u podstawy ołtarza.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i weźmie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "z jej krwi"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "swoim palcem"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rogi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystką jej krew"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystką"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "jej krew"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wyleje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podstawy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:36.098126186Z",
+  "model": "glm-5.3"
+}

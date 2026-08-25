@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Póki król ⟨był⟩ przy swoim stole, nard mój wydał swą woń.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "póki"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "przy swoim stole"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nard mój"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wydał"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "swą woń"
+    }
+  ],
+  "timestamp": "2026-08-25T02:25:33.631463036Z",
+  "model": "glm-5.3"
+}

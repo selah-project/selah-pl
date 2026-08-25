@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I ⟨את⟩ swą świętą Szabat dałeś im poznać, oraz przykazania i ustawy, i Torę nakazałeś im ręką Mosze, sługi twego.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swą świętą Szabat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Szabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "swą świętą"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "dałeś poznać"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "oraz przykazania"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "i ustawy"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "i Torę"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nakazałeś"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługi twego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:48:02.071519654Z",
+  "model": "glm-5.3"
+}

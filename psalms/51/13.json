@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Nie strącaj mnie sprzed oblicza twojego, a ducha świętości twojej nie odbieraj ode mnie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "strącaj mnie"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "sprzed oblicza twojego"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a ducha"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "świętości twojej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "odbieraj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:48.194631772Z",
+  "model": "glm-5.3"
+}

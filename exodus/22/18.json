@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Każdy leżący z bydłem — śmiercią niechybnie umrze.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leżący (współżyjący)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydłem (zwierzęciem)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "niechybnie umrze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:37.132286441Z",
+  "model": "glm-5.3"
+}

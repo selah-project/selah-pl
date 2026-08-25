@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "Które było słowo Jahwe do Jeremijaszu, proroka, do Filistynów, zanim Farao uderzył ⟨את⟩ Azzę.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijaszu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "uderzył"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzę"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:36:17.141322217Z",
+  "model": "glm-5.3"
+}

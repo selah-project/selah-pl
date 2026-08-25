@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Elazar spłodził ⟨את⟩ Pinchasa, Pinchas spłodził ⟨את⟩ Awiszue.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awiszue"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Awiszue"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:34.013191984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I przyszedł Hatach, i oznajmił Ester ⟨את⟩ słowa Mordechaja.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Mordechaja"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:37.964693416Z",
+  "model": "glm-5.3"
+}

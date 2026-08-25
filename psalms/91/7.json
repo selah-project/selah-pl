@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Spadnie u twego boku tysiąc, a dziesięć tysięcy po twej prawicy — do ciebie się nie zbliży",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "spadnie"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "u twego boku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąc"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "a dziesięć tysięcy"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "po twej prawicy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zbliży się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:59.365019822Z",
+  "model": "glm-5.3"
+}

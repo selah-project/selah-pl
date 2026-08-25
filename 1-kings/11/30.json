@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I pochwycił Achijja w szatę nową, która była na nim, i podarł ją na dwanaście kawałków.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "I pochwycił"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achijja"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "w szatę"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nową"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "była na nim"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "i podarł ją"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwanaście — dwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "— na dziesięć"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "kawałków"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:45.188734Z",
+  "model": "glm-5.3"
+}

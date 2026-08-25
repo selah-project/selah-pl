@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Jest taki, co czyni się bogatym, a nie ma nic; jest taki, co czyni się ubogim, a majątku ⟨ma⟩ mnóstwo.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "co czyni się bogatym"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "co czyni się ubogim"
+    },
+    {
+      "surface": "והון",
+      "gloss": "a majątku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnóstwo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:17.862672470Z",
+  "model": "glm-5.3"
+}

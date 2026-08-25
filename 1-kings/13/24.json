@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I poszedł, i znalazł go lew na drodze, i zabił go; i były jego zwłoki porzucone na drodze, a osioł stał obok nich, a lew stał obok zwłok.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "i znalazł go"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lew"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i zabił go"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i były"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jego zwłoki"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "porzucone"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "a osioł"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stał"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "obok nich"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "a lew"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stał"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "obok"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "zwłok"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:53.533310456Z",
+  "model": "glm-5.3"
+}

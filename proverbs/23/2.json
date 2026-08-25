@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "i przyłóżysz nóż do swego gardła, jeśli ⟨jesteś⟩ panem nefesz.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i przyłóżysz"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "nóż"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "do swego gardła"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "panem"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨jesteś⟩ ty"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:28.355001162Z",
+  "model": "glm-5.3"
+}

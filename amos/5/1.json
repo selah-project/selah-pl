@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Słuchajcie ⟨את⟩ tego słowa, które ja niosę na was — lament, domu Iszraela!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego słowa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "niosę"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na was"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "lament"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:34:43.502957877Z",
+  "model": "glm-5.3"
+}

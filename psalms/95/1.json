@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Pójdźcie, wzruszajmy radosnym śpiewem ku Jahwe, ozwijmy się okrzykiem ku Skałe zbawienia naszego.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pójdźcie"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "wzruszajmy radosnym śpiewem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Jahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "ozwijmy się okrzykiem"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ku Skale"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "zbawienia naszego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.401575655Z",
+  "model": "glm-5.3"
+}

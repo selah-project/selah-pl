@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I dam wasze deszcze w ich czasie, i da ziemia swój plon, i drzewo pola wyda swój owoc.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "wasze deszcze"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "w ich czasie"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "swój plon"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "i drzewo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wyda"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "swój owoc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:49.915888415Z",
+  "model": "glm-5.3"
+}

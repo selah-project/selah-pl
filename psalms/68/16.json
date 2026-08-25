@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Góra Elohim — góra Baszzan, góra wyniosłych szczytów — góra Baszshan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Baszszan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "wyniosłych szczytów"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Baszszan"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:25.781321733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I uciekł Dawid z Nowot w Rama, i przyszedł, i rzekł przed Jehonatanem: Czym zasłużyłem, jaka moja wina, a jakie moje grzechy przed ojcem twoim, że szuka ⟨את⟩ mojej nefesz?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "z Nowot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "w Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "zasłużyłem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaka"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moja wina"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jakie"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "moje grzechy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojcem twoim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "szuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojej nefesz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:29.804397322Z",
+  "model": "glm-5.3"
+}

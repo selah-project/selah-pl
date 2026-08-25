@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wzmocnił się lud, który ⟨był⟩ za Omrim, nad ludem, który ⟨był⟩ za Tiwnim, synem Ginata; i umarł Tiwni, i królował Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "I wzmocnił się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tiwnim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tiwni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:53.743212977Z",
+  "model": "glm-5.3"
+}

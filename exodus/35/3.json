@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Nie rozpalajcie ognia w żadnym z waszych siedzib w dzień szabatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "rozpalajcie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w żadnym z"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "waszych siedzib"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:25.058654803Z",
+  "model": "glm-5.3"
+}

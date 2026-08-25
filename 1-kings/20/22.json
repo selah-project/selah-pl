@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 20:22",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I podszedł prorok do króla Jisraël i rzekł mu: idź, umocnij się, i wiedz, i widz ⟨את⟩ to, co uczynisz, bo przy nawrocie roku król Aramu wstąpi przeciwko tobie.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i podszedł"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "umocnij się"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "i wiedz"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i widz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co uczynisz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uczynisz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "przy nawrocie"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wstąpi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przeciwko tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.684531002Z",
+  "model": "glm-5.3"
+}

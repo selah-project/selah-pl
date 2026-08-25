@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Jahwe, Elohim mojego zbawienia, wołałem dniem, w nocy przed Tobą.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mojego zbawienia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dniami"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "przed Tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:05.299252990Z",
+  "model": "glm-5.3"
+}

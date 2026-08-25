@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Bo nie w moim łuku pokładam ufność, i miecz mój nie wybawi mnie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "w moim łuku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "pokładam ufność"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "i miecz mój"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "wybawi mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:59.499725848Z",
+  "model": "glm-5.3"
+}

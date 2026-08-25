@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Modlitwa Mosze, męża ⟨את⟩ Elohim. Adonai, schronieniem Ty byłeś dla nas w pokoleniu i pokoleniu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitwa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨את⟩ Elohim",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "schronieniem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "היית",
+      "gloss": "byłeś"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "w pokoleniu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokoleniu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:34.591223106Z",
+  "model": "glm-5.3"
+}

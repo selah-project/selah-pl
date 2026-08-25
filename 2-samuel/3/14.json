@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I posłał Dawid posłańców do Isz-Boszeta, syna Szaula, mówiąc: Wydaj moją żonę Michal, którą mi zaręczyłem za sto napletków Pelisztów.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłańców"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Isz-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boszeta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "wydaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją żonę"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "moją żonę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "zaręczyłem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "za sto"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "napletków"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:38.788690491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Królowie ziemi i wszystkie ludy, książęta i wszyscy sędziowie ziemi",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "sędziowie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.106656652Z",
+  "model": "glm-5.3"
+}

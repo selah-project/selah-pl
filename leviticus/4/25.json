@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I weźmie kapłan z krwi ofiary za grzech swoim palcem i da ⟨ją⟩ na rogi ołtarza całopalenia, a ⟨את⟩ krew jego wyleje ku podstawie ołtarza całopalenia.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i weźmie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krwi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "swoim palcem"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rogi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krew jego"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krew jego"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wyleje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podstawie"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:14.235736553Z",
+  "model": "glm-5.3"
+}

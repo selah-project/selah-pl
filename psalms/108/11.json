@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Kto mnie wprowadzi do miasta warownego? Kto mnie poprowadzi aż do Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mnie wprowadzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "warownego"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "mnie poprowadzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:20.287985867Z",
+  "model": "glm-5.3"
+}

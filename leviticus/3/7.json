@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Jeśli jagnię on przyprowadza ⟨את⟩ swojej ofiary, to przyprowadzi ⟨את⟩ je przed obliczem Jahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "jagnię"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "przyprowadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojej ofiary"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "swojej ofiary"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "to przyprowadzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je (jagnię)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:06.860179438Z",
+  "model": "glm-5.3"
+}

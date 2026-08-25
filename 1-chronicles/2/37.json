@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Zabad zrodził ⟨את⟩ Efrala, a Efral zrodził ⟨את⟩ Oweda.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "a Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrala"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efral"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "a Efral"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oweda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Owed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:17.708545347Z",
+  "model": "glm-5.3"
+}

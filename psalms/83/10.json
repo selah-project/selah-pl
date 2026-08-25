@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Uczyń im jak Midianowi, jak Siserze, jak Jawinowi przy potoku Kiszon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Uczyń"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "jak Midianowi"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "jak Siserze"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "jak Jawinowi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "przy potoku"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kiszon"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:25.160172233Z",
+  "model": "glm-5.3"
+}

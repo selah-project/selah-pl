@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Bo wielki ⟨jest⟩ Jahwe i bardzo godny chwały, budzący lęk ⟨jest⟩ On ponad wszystkimi bogami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "godny chwały"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "budzący lęk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:00.069462066Z",
+  "model": "glm-5.3"
+}

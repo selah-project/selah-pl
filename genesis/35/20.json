@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I postawił Jaakow stele na jej grobowcu — ona ⟨to⟩ stela grobowca Rachel po dzień dzisiejszy.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "I postawił"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stelę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "jej grobowcu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stela"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "grobowca"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "po aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień dzisiejszy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:08.969554341Z",
+  "model": "glm-5.3"
+}

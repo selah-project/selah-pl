@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A cały Israel i Jehuda kochali ⟨את⟩ Dawida, bo ⟨on⟩ wychodził i przychodził przed nimi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kochał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "wychodził"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przychodził"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:42.272581681Z",
+  "model": "glm-5.3"
+}

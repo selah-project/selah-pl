@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I cisnął Szaul ⟨את⟩ włócznią, bo powiedział: przebędę Dawida, ⟨i przybiję go⟩ do ściany; i usunął się Dawid sprzed jego oblicza dwa razy.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "I cisnął"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "włócznią"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "włócznią"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bo powiedział"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "przebędę"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "do ściany"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i usunął się"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sprzed jego oblicza"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dwa razy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:49.915771788Z",
+  "model": "glm-5.3"
+}

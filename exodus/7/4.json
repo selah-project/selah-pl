@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I nie usłucha was Paroh, i włożę ⟨את⟩ moją rękę na Micraim, i wyprowadzę ⟨את⟩ moje hufce, ⟨את⟩ mój lud, synów Israela, z ziemi Micraim, wielkimi sądami.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłucha"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "was"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i włożę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Micraim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "i wyprowadzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje hufce"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "moje hufce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "sądami"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "wielkimi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:30.847171084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wypuścił ⟨את⟩ kruka, a ten wychodził — wychodząc i wracając — aż wyschły wody z powierzchni ziemi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wypuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kruka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a wyszedł"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "wychodząc"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "i wracając"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "wyschły"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z powierzchni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:18.492849710Z",
+  "model": "glm-5.3"
+}

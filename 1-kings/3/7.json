@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A teraz, Jahwe, Elohim mój, ty ustanowiłeś królem ⟨את⟩ sługę swego zamiast Dawida, ojca mego, a ja jestem chłopcem małym, nie umiem wychodzić ani wchodzić.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ustanowiłeś królem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługę swego"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługę swego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mego"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chłopcem"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "małym"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "umiem"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "wychodzić"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ani wchodzić"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:54.974159093Z",
+  "model": "glm-5.3"
+}

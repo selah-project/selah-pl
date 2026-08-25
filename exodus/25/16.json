@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I włożysz do Aron ⟨את⟩ Świadectwo, które dam tobie.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i włożysz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Świadectwo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:35.668095805Z",
+  "model": "glm-5.3"
+}

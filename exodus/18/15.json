@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I powiedział Mosze swemu teściowi: bo przychodzi do mnie lud, by szukać Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "swemu teściowi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "by szukać"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:48.829820213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Mizmor. Śpiewajcie Jahwe pieśń nową, bo cuda uczynił; wybawienie ⟨przyniosła⟩ Jemu Jego prawica i Jego święte ramię.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Śpiewajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nową"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "cuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "wybawienie ⟨przyniosła⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Jemu"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "Jego prawica"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "i Jego ramię"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "święte"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:47.531984723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I uczynię ⟨את⟩ wasze miasta pustkowiem, i spustoszę ⟨את⟩ wasze przybytki święte, i nie będę wąchał woni waszych miłych zapachów.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze miasta"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "wasze miasta"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "pustkowiem"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "spustoszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze przybytki święte"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "wasze przybytki święte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "będę wąchał"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "waszych miłych zapachów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:17.666398774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Przewodnikowi chóru, na „Szoszannim” (lilie), ⟨od⟩ Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "„Szoszannim” (lilie)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨od⟩ Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:42.639655466Z",
+  "model": "glm-5.3"
+}

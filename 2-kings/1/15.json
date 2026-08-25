@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I mówił malach Jahwe do Elijahu: Zstąp z nim, nie bój się jego oblicza. A on wstał i zstąpił z nim do króla.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I mówił"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Zstąp"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ z nim",
+      "marks": "z nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "jego oblicza"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "A on wstał"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i zstąpił"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ z nim",
+      "marks": "z nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:24.417293324Z",
+  "model": "glm-5.3"
+}

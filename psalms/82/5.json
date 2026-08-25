@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Nie wiedzą i nie rozumieją, w ciemności chodzą, zachwieją się wszystkie fundamenty ziemi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wiedzą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "rozumieją"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "w ciemności"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "chodzą"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "zachwieją się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "fundamenty"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:20.416402730Z",
+  "model": "glm-5.3"
+}

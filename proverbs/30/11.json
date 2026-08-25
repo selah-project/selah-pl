@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Pokolenie ⟨jest⟩, które złorzeczy ojcu swojemu, a ⟨את⟩ matki swojej nie błogosławi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojcu swojemu"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "złorzeczy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matki swojej"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matki swojej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "błogosławi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:30.625098386Z",
+  "model": "glm-5.3"
+}

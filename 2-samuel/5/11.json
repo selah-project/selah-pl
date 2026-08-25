@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 5:11",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I wysłał Chiram, król Coru, posłów do Dawida, oraz drzewa cedrowe, i rzemieślników drzewa, i rzemieślników kamienia ⟨murarskiego⟩, i zbudowali dom dla Dawida.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Coru"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "oraz drzewa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrowe"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "i rzemieślników"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "i rzemieślników"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamienia"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "⟨murarskiego⟩"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "i zbudowali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dla Dawida"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:04.131894882Z",
+  "model": "glm-5.3"
+}

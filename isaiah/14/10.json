@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Wszyscy odpowiedzą i powiedzą tobie: i ty zachorowałeś jak my, do nas zostałeś przyrównany!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpowiedzą"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzą"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "zachorowałeś"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "jak my"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "do nas"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "zostałeś przyrównany"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:25.952933361Z",
+  "model": "glm-5.3"
+}

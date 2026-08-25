@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Idź, jedz z radością swój chleb i pij z dobrym sercem swoje wino, bo już upodobał sobie Elohim ⟨את⟩ twoje dzieła.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedz"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z radością"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "swój chleb"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "i pij"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "z sercem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrym"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "swoje wino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "już"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "upodobał sobie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje dzieła"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "twoje dzieła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:39.970853947Z",
+  "model": "glm-5.3"
+}

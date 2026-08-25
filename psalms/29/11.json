@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Jahwe siłę swojemu ludowi da, Jahwe pobłogosławi ⟨את⟩ swój lud w pokoju.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "siłę"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "swojemu ludowi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pobłogosławi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój lud"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "w pokoju"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:32.974923614Z",
+  "model": "glm-5.3"
+}

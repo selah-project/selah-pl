@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Zaprawdę, na próżno oczyszczałem serce moje, i myłem w niewinności dłonie moje.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "na próżno"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "oczyszczałem"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "i myłem"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "w niewinności"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dłonie moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:08.745443036Z",
+  "model": "glm-5.3"
+}

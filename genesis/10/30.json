@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ⟨było⟩ ich siedlisko od Meszy, w ⟨tym, żeby⟩ iść do Sefary, góry wschodniej.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "było"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ich siedlisko"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "od Meszy"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "w ⟨tym, żeby⟩ iść"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "do Sefary"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "wschodnia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:02.854182677Z",
+  "model": "glm-5.3"
+}

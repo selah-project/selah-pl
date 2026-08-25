@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I rzekł do nich Joesef w dniu trzecim: To czyńcie i żyjcie — ⟨את⟩ Elohim ja się boję.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzecim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "czyńcie"
+    },
+    {
+      "surface": "ויחיו... וחיו",
+      "gloss": "i żyjcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "się boję"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:42.844662975Z",
+  "model": "glm-5.3"
+}

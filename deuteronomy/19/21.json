@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I nie oszczędzi twoje oko: nefesz za nefesz, oko za oko, ząb za ząb, ręka za rękę, noga za nogę.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "oszczędzi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "twoje oko"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "za nefesz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "za oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ząb"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "za ząb"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "za rękę"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "noga"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "za nogę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:09:43.295402162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I poszli jego bracia paść ⟨את⟩ trzodę ich ojca w Szchem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego bracia"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "paść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzodę"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzodę"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ich ojciec"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "w Szchem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:30.475364344Z",
+  "model": "glm-5.3"
+}

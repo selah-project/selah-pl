@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "I będą budować domy i będą mieszkać ⟨w nich⟩, i będą sadzić winnice i będą jeść ich owoc.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "i będą budować"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i będą mieszkać"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "i będą sadzić"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "winnice"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i będą jeść"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "owoc"
+    }
+  ],
+  "timestamp": "2026-08-25T00:39:41.999884382Z",
+  "model": "glm-5.3"
+}

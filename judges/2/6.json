@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I odprawił Jehoszua ⟨את⟩ lud, i poszli synowie Jisraela, każdy do swego dziedzictwa, aby posiąść ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I odprawił"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "do swego dziedzictwa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aby posiąść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:18.418122733Z",
+  "model": "glm-5.3"
+}

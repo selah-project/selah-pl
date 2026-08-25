@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Tylko ⟨את⟩ jego krwi nie będziesz jadł; na ziemię wylejesz ją jak wodę.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego krwi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "będziesz jadł"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "wylejesz ją"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jak wodę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:53.034205908Z",
+  "model": "glm-5.3"
+}

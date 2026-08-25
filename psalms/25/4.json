@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Drogi Twoje, Jahwe, poznaj mi; ścieżki Twoie naucz mnie.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Drogi Twoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "poznaj mi"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ścieżki Twoie"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "naucz mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.482095964Z",
+  "model": "glm-5.3"
+}

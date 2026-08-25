@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł król Jisraela do swoich sług: Czy wiecie, że nasza jest Ramot-Gilad, a my milczymy, nie biorąc ⟨את⟩ niej z ręki króla Aramu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sług"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "czy wiecie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nasza jest"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "milczymy"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "nie biorąc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jej (Ramot-Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:46.919182782Z",
+  "model": "glm-5.3"
+}

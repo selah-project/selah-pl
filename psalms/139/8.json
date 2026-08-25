@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Jeśli wstąpię do niebios — Tam Ty ⟨jesteś⟩; i jeśli rozścielę łoże w Szeolu — oto Ty ⟨jesteś⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "wstąpię"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty ⟨jesteś⟩"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "i jeśli rozścielę łoże"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "w Szeolu"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "oto Ty ⟨jesteś⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:15.840734909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Na mnie, Elohim, ⟨są⟩ twoje nędry — spełnię je, dziękczynienia tobie.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "twoje nędry"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "spełnię"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "dziękczynienia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:35.124010583Z",
+  "model": "glm-5.3"
+}

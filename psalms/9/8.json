@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Jahwe zasiada na wieki, przygotował na sąd ⟨swój⟩ tron.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zasiada"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na sąd"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "⟨swój⟩ tron"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:42.472679856Z",
+  "model": "glm-5.3"
+}

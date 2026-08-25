@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Kto to jest, ten który zasłania radę bez poznania? Wszak mówiłem, a nie rozumiem; rzeczy zbyt przedziwne dla mnie, a których nie znałem.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "zasłania"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radę"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznania"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "wszak"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "rozumiem"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "rzeczy przedziwne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dla mnie \/ ode mnie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a których nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:25:34.860069282Z",
+  "model": "glm-5.3"
+}

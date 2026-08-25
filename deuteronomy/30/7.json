@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A Jahwe, Elohim twój, zwali ⟨את⟩ wszystkie te przekleństwa na nieprzyjaciół twoich i na nienawidzących cię, którzy cię prześladowali.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "zwali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te przekleństwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "te przekleństwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nieprzyjaciół twoich"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "nienawidzących cię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "cię prześladowali"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:01.463418215Z",
+  "model": "glm-5.3"
+}

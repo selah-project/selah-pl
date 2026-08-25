@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A rzekł: ⟨את⟩ moich braci szukam. Powiedz miż, gdzie oni pasą ⟨trzodę⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A rzekł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moich braci"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "moich braci"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "szukam"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "miż"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pasą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:37.926314708Z",
+  "model": "glm-5.3"
+}

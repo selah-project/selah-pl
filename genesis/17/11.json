@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zostaniecie obrzezani ⟨את⟩ ciało waszego napletka, i ⟨to⟩ będzie na znak przymierza między mną a między wami.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "i zostaniecie obrzezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciało waszego napletka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "waszego napletka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "na znak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "a między wami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:58.545893983Z",
+  "model": "glm-5.3"
+}

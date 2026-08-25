@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Kusz zrodził ⟨את⟩ Nimroda; on zaczął być mocarzem na ziemi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "A Kusz"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "החל",
+      "gloss": "zaczął"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "być"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarzem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:07.106505866Z",
+  "model": "glm-5.3"
+}

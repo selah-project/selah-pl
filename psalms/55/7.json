@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "I rzekłem: Kto da mi skrzydło jak gołębica — polécę i zamieszkam.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "skrzydło"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "jak gołębica"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "polećę"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "i zamieszkam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:44.621889166Z",
+  "model": "glm-5.3"
+}

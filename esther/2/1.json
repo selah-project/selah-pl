@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Po tych rzeczach, gdy ostygł gniew króla Achaszwerosza, wspomnął ⟨את⟩ Waszti oraz ⟨את⟩ to, co uczyniła, i ⟨את⟩ to, co postanowiono przeciwko niej.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tych rzeczach"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "gdy ostygł"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaszwerosza"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wspomniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Waszti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "oraz Waszti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "to, co uczyniła"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "uczyniła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co postanowiono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "postanowiono"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "przeciwko niej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:01.288375305Z",
+  "model": "glm-5.3"
+}

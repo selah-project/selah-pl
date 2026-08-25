@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Bo w hebel przychodzi i w ciemności odchodzi, i w ciemności jego imię ⟨będzie⟩ okryte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "w hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "i w ciemności"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "odchodzi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "i w ciemności"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "okryte"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:43.018399372Z",
+  "model": "glm-5.3"
+}

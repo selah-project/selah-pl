@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stało się, gdy Szemuël się zestarzał, że ustanowił ⟨את⟩ swoich synów sędziami dla Jisraëla.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "się zestarzał"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ustanowił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sędziami"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Jisraëla"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:27.603866272Z",
+  "model": "glm-5.3"
+}

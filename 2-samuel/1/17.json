@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I opłakiwał Dawid ⟨את⟩ tę pieśń żałobną nad Szaulem i nad Jehonatanem, synem jego.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "i opłakiwał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę pieśń żałobną"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "tę pieśń żałobną"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaulem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "synem jego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:43.703682375Z",
+  "model": "glm-5.3"
+}

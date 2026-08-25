@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Bo tak rzekł Jahwe Cevaot: jeszcze raz — niewiele ⟨to⟩ — a Ja poruszę ⟨את⟩ niebiosa i ⟨את⟩ ziemię, i ⟨את⟩ morze, i ⟨את⟩ ląd suchy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "raz"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "niewiele"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "poruszę (wstrząsnę)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ląd suchy"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ląd suchy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:04.424836410Z",
+  "model": "glm-5.3"
+}

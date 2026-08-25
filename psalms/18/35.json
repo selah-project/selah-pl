@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Uczy moje ręce do bitwy i zgięto łuk z brązu moje ramiona.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "uczy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ręce"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do bitwy"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "i zgięto"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "z brązu"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "moje ramiona"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:22.931561858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I będą służyć ⟨את⟩ Jahwe, Elohim swojemu, i ⟨את⟩ Dawidowi, królowi swojemu, którego im wzbudzę.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "I będą służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, Elohim swojemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim swojemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i",
+      "marks": "Dawidowi, królowi swojemu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "królowi swojemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "wzbudzę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-25T00:54:17.528824147Z",
+  "model": "glm-5.3"
+}

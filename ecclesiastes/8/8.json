@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Nie ma człowieka władnego nad ruach, by zatrzymać ⟨את⟩ ruach, i nie ma władzy w dniu śmierci, i nie ma zwolnienia w wojnie, i nie wyratuje nieprawość ⟨את⟩ swego pana.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nie ma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "władnego"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nad ruach"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "by zatrzymać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "władzy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "zwolnienia"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "w wojnie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "wyratuje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego pana"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "swego pana"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:35.472736732Z",
+  "model": "glm-5.3"
+}

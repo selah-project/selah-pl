@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I ułożył ⟨את⟩ drewno, i porąbał ⟨את⟩ cielca, i położył na drewnie.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "i ułożył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drewno"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drewno"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "i porąbał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drewnie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:08.123801220Z",
+  "model": "glm-5.3"
+}

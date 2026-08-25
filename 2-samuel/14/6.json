@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "A sługa twoja miała dwóch synów, i pokłóciły się oba na polu, i nie było wybawcy między nimi, i uderzył jeden ⟨את⟩ drugiego, i zabił ⟨את⟩ go.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "a sługa twoja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "i pokłóciły się"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wybawcy"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "między nimi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drugiego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:12.092086141Z",
+  "model": "glm-5.3"
+}

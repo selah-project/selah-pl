@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "Raduje się sprawiedliwy w Jahwe i szuka u Niego schronienia, i chlubią się wszyscy proste<go> serca.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "raduje się"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "i szuka schronienia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w Nim"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "i chlubią się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prostego"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:39.063924564Z",
+  "model": "glm-5.3"
+}

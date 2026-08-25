@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I uczynili wszyscy synowie Jisraela tak, jak przykazał Jahwe ⟨את⟩ Moszemu i ⟨את⟩ Aharonowi — tak uczynili.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aharonowi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonowi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:45.250422530Z",
+  "model": "glm-5.3"
+}

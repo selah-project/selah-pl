@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "oraz ⟨את⟩ Resen, między Niniwe a między Kalach — to ⟨jest⟩ ⟨to⟩ wielkie miasto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "wielkie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:40.405383687Z",
+  "model": "glm-5.3"
+}

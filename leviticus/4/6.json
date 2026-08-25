@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I umoczy kapłan ⟨את⟩ swój palec we krwi i pokropi z krwi siedem razy ⟨את⟩ przed Jahwe, ⟨את⟩ oblicze zasłony świętości.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "i umoczy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój palec"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "swój palec"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "we krwi"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "i pokropi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "razy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ przed"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "zasłony"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:30.138295532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Bo Jahwe ujrzyał ⟨את⟩ nędzę Izraela, że bardzo gorzka ⟨jest⟩; i nie było zamkniętego ani opuszczonego, i nie było pomocnika dla Izraela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ujrzał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nędzę Izraela"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędzę"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "gorzka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "zamkniętego"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "opuszczonego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocnika"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:58.729385928Z",
+  "model": "glm-5.3"
+}

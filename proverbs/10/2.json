@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Nie przyniosą pożytku skarby nieprawości, a sprawiedliwość wyrwie od śmierci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "przyniosą pożytku"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "skarby"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a sprawiedliwość"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "wyrwie"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:55.719894784Z",
+  "model": "glm-5.3"
+}

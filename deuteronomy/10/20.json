@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahwe, twego Elohim, będziesz się bał, ⟨את⟩ niego będziesz służył, i do niego będziesz się przywiązywał, i w jego imię będziesz przysięgał;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, twego Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twego Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "będziesz się bał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (przed 'będziesz służył')"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "będziesz służył"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "i do niego"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "będziesz się przywiązywał"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "i w jego imię"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "będziesz przysięgał"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:52.908546339Z",
+  "model": "glm-5.3"
+}

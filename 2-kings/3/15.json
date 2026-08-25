@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A teraz przyprowadźcie mi grajka. I stało się, gdy grajek grał, że przyszła na niego ręka Jahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "przyprowadźcie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "grajka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "gdy grał"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "grajek"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "że przyszła"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:20.720429480Z",
+  "model": "glm-5.3"
+}

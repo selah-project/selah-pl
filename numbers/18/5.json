@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I będziecie strzec ⟨את⟩ pieczy świętości i ⟨את⟩ pieczy ołtarza, i nie będzie już gniewu na synów Israela.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pieczy świętości"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pieczę"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pieczy ołtarza"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pieczę"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synach"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:56:46.275410586Z",
+  "model": "glm-5.3"
+}

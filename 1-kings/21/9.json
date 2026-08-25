@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I napisała w ⟨the⟩ listach, mówiąc: Ogłoście post, i posadźcie ⟨את⟩ Nawota na czele ⟨the⟩ ludu.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "i napisała"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "w listach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ogłoście"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "i posadźcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nawota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na czele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:09.151934920Z",
+  "model": "glm-5.3"
+}

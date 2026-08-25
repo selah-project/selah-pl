@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Przez wzgląd na dom Jahwe, Elohim naszego, będę szukał dobra dla ciebie.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "przez wzgląd na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszego"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "będę szukał"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:43.254440201Z",
+  "model": "glm-5.3"
+}

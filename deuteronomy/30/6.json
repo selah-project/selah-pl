@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I obrzeza Jahwe, Elohim twój, ⟨את⟩ serce twoje i ⟨את⟩ serce potomstwa twego, abyś miłował ⟨את⟩ Jahwe, Elohim twego, całym sercem twoim i całą duszą twoją, dla życia twego.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "i obrzeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce twoje"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "serce twoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "serce potomstwa twego"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "potomstwa twego"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "abyś miłował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, Elohim twego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twego"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sercem twoim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i całą"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "duszą twoją"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dla"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "życia twego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:01.463272658Z",
+  "model": "glm-5.3"
+}

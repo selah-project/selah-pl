@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "I będę chodził swobodnie, bo twoich ustaw szukałem.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "i będę chodził"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "swobodnie (w przestronności)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "twoje ustawy"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "szukałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:46.327423413Z",
+  "model": "glm-5.3"
+}

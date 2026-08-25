@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Bo jego zbieracze zjedzą go i sławić będą ⟨את⟩ Jahwe, a jego zgromadzacze wypiją go na dziedzińcach mojej świętości.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "jego zbieracze"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "zjedzą go"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "i sławić będą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "a jego zgromadzacze"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "wypiją go"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "na dziedzińcach"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mojej świętości"
+    }
+  ],
+  "timestamp": "2026-08-25T00:38:19.938194727Z",
+  "model": "glm-5.3"
+}

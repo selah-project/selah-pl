@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I zawołał posłaniec Jahwe do Awrahama po raz drugi z niebios.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posłaniec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "po raz drugi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:14.078015985Z",
+  "model": "glm-5.3"
+}

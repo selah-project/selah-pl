@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Synu mój, strzeż moich słów, a moje przykazania ukryj ⟨את⟩ przy tobie.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu mój"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzeż"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "moich słów"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a moje przykazania"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ukryj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "przy tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:38.205164813Z",
+  "model": "glm-5.3"
+}

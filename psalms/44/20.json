@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Choć zdruzgotałeś nas w miejscu szakali i okryłeś nas cieniem śmierci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "choć"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "zdruzgotałeś nas"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "szakali"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "i okryłeś"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "cieniem śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:23.401906056Z",
+  "model": "glm-5.3"
+}

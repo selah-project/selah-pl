@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo nie mieszkałem w domu od dnia, gdy wyprowadziłem ⟨את⟩ synów Jisraela z Micraim, aż po dzień ten — i byłem wędrując w namiocie i w przybytku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mieszkałem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "od dnia"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "gdy wyprowadziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "i byłem"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wędrując"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w namiocie"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "i w przybytku"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:22.090218940Z",
+  "model": "glm-5.3"
+}

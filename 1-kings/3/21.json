@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wstałam rano, aby wykarmić ⟨את⟩ syna mego, a oto ⟨był⟩ martwy; i przyglądałam się mu rano, a oto nie ⟨był⟩ to syn mój, którego porodziłam.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "i wstałam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "aby wykarmić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna mego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syna mego"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨był⟩ martwy"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "i przyglądałam się"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨był⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syn mój"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "porodziłam"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:20.494449136Z",
+  "model": "glm-5.3"
+}

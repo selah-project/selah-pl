@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Zbyt długo przebywała moja nefesz z tym, który nienawidzi pokoju.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Zbyt długo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "przebywała"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨jej⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "który nienawidzi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:40.256670887Z",
+  "model": "glm-5.3"
+}

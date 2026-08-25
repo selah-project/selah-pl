@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Pora zabijać i pora leczyć, porę rozwalania i porę budowania.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "zabijać"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "leczyć"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "rozwalania"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "budowania"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:51.448789346Z",
+  "model": "glm-5.3"
+}

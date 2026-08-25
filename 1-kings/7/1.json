@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ swój dom budował Szelomoh trzynaście lat, i dokończył ⟨את⟩ całego swojego domu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swój dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swój dom"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "budował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzynaście"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(na)ście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "i dokończył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego swojego domu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swojego domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:01.165516312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Będę śpiewać Jahwe przez życie moje, będę grać Elohimowi mojemu, pókim ja.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "będę śpiewać"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "przez życie moje"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "będę grać"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimowi mojemu"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "pókim ja"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:17.471883456Z",
+  "model": "glm-5.3"
+}

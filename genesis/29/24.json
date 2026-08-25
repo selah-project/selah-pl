@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I dał Laban jej ⟨את⟩ Zilpę, niewolnicę swoją, Lei, córce swojej, na niewolnicę.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpę"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpę"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "niewolnicę swoją"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lei"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "córce swojej"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "na niewolnicę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:18.847836621Z",
+  "model": "glm-5.3"
+}

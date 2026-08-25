@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I pojmali ⟨את⟩ króla, i wprowadzili go do króla Babelu, do Rivli, i powiedzieli z nim ⟨wyrok⟩ sądu.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "i pojmali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i wprowadzili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (króla)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "do Rivli"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim",
+      "marks": "z nim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wyrok sądu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:24.552839288Z",
+  "model": "glm-5.3"
+}

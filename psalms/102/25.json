@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Powiedziałem: El mój, nie zabieraj mnie w połowie moich dni; w pokoleniu pokoleń ⟨są⟩ Twoje lata.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Powiedziałem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "zabieraj mnie"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "w połowie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moich dni"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "w pokoleniu"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "Twoje lata"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.050814067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I ⟨את⟩ morze postawił od prawego ramienia, od strony wschodniej, naprzeciw południa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postawił"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "od ramienia"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "prawego"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "od strony wschodniej"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "południa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:29.888577820Z",
+  "model": "glm-5.3"
+}

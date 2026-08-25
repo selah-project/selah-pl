@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Niech wstydzą się pyszni, bo kłamliwie mnie przekrzywili; ja rozmyślam o Twoich ustawach.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "niech wstydzą się"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "pyszni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamliwie"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "mnie przekrzywili"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "rozmyślam"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "o Twoich ustawach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:38.038364519Z",
+  "model": "glm-5.3"
+}

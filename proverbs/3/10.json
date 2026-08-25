@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "i napełnią się twoje spichlerze obfitością, a twoje kadzie tiroszem się rozlej<something>ą.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "i napełnią się"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "twoje spichlerze"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "obfitością"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "a tiroszem"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "twoje kadzie"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "się rozleją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:10.420133937Z",
+  "model": "glm-5.3"
+}

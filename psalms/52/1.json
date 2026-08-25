@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "Przewodnikowi, pouczający ⟨utwór⟩, Dawidowi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pouczający ⟨utwór⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:16.210713276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stanie się w dniu owym, że złamię ⟨את⟩ łuk Israela w dolinie Jizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I stanie się"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "że złamię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "łuk"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "w dolinie"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:30.427371949Z",
+  "model": "glm-5.3"
+}

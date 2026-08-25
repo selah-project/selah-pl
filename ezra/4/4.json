@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I stało się, że lud ziemi osłabiał ręce ludu Jehudy i nękali ich, by ⟨nie⟩ budowali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "osłabiali"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ręce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "i nękali"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "by budowali"
+    }
+  ],
+  "timestamp": "2026-08-25T02:43:33.228112531Z",
+  "model": "glm-5.3"
+}

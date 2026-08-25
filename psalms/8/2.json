@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Jahwe, Adonai nasz, jak wspaniałe ⟨jest⟩ imię Twoje na całej ziemi, który nadałeś swój majestat ponad niebiosa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai nasz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wspaniałe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nadałeś"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "swój majestat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:33.129969428Z",
+  "model": "glm-5.3"
+}

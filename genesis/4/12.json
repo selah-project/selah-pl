@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Gdy będziesz uprawiał ⟨את⟩ ziemię, nie doda ona dać swojej siły tobie; błądzący i tułacz będziesz na ziemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "będziesz uprawiał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "doda"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dać"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "swojej siły"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "נע",
+      "gloss": "błądzący"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "i tułacz"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będziesz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:23.657711740Z",
+  "model": "glm-5.3"
+}

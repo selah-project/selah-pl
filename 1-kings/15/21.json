@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I stało się, gdy usłyszał Basza, że zaniechał budowienia ⟨את⟩ Rama, i zamieszkał w Tirsie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basza"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "że zaniechał"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "budowienia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zamieszkał"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "w Tirsie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:39.666111155Z",
+  "model": "glm-5.3"
+}

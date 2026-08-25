@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Bo nie ⟨jest⟩ El chcący nieprawości Ty ⟨jesteś⟩, nie zamieszka przy Tobie zło.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chcący"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "zamieszka przy Tobie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:02.179427558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Na moim łożu nocą szukałam ⟨את⟩ tego, którego kocha moja nefesz; szukałam go, lecz go nie znalazłam.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "moim łożu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "szukałam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, którego kocha moja nefesz"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "którego kocha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "szukałam go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "go nie znalazłam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:15.702612090Z",
+  "model": "glm-5.3"
+}

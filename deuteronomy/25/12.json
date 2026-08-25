@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "to odetniesz ⟨את⟩ jej dłoń — nie oszczędzi twoje oko ⟨jej⟩.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "to odetniesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej dłoń"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "jej dłoń"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "oszczędzi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "twoje oko"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:26.600653758Z",
+  "model": "glm-5.3"
+}

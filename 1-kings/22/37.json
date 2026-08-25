@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I umarł król, i przyniesiono ⟨go⟩ do Szomron, i pochowali ⟨את⟩ króla w Szomron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "i przyniesiono"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Szomron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pochowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomron"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:03.883878010Z",
+  "model": "glm-5.3"
+}

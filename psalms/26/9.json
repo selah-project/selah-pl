@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Nie zbieraj z grzesznikami mojej nefesz ani z mężami krwi mojego życia,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "zbieraj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grzesznikami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ani z"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężami"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mojego życia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:17.974603437Z",
+  "model": "glm-5.3"
+}

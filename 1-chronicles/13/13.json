@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I Dawid nie przeniósł ⟨את⟩ arki do siebie, do miasta Dawida, lecz skierował ją do domu Obed-Edoma Gittejczyka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "przeniósł"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arki"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do siebie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "skierował ją"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gittejczyka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:36.958029621Z",
+  "model": "glm-5.3"
+}

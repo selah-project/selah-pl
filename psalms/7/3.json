@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Aby nie porwał jak lew mojej nefesz, szarpiąc ⟨ją⟩ na kawałki, gdy nie ma wybawcy.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "porwał"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jak lew"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "szarpiąc na kawałki"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gdy nie ma"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wybawcy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:27.628884038Z",
+  "model": "glm-5.3"
+}

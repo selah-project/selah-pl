@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Szczęśliwy ⟨jest⟩ mąż, który nie chodził w radzie bezbożnych i na drodze grzeszników nie stanął, a na siedzeniu szyderców nie zasiadł.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodził"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "w radzie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "i na drodze"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grzeszników"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stanął"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "a na siedzeniu"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "szyderców"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zasiadł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:05.653621318Z",
+  "model": "glm-5.3"
+}

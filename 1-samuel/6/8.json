@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I weźmiecie ⟨את⟩ Arkę Jahwe i damy ją ⟨את⟩ do wozu, a ⟨את⟩ naczynia złota, które mu zwróciliście jako winę, włożycie w skrzynię z boku jej, i poślecie ją ⟨את⟩, i odejdzie.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "i weźmiecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkę Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "i damy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Arkę)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "wozu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "naczynia złota"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "zwróciliście"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "jako winę"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "włożycie"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "w skrzynię"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "z boku jej"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "i poślecie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Arkę)"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "i odejdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:03.889475529Z",
+  "model": "glm-5.3"
+}

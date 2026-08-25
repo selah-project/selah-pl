@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I weszła Bat-Szewa do króla, do komnaty — a król był bardzo stary — i Abiszag Szunamitka służyła ⟨את⟩ królowi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i weszła"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "do komnaty"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a król"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "był stary"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "i Abiszag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Szunamitka"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "służyła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "królowi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królowi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:04.916980698Z",
+  "model": "glm-5.3"
+}

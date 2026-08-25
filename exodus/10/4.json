@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Bo jeśli odmawiasz ty wysłania ⟨את⟩ ludu mego, oto Ja wprowadzę jutro szarańczę w granice twoje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odmawiasz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "wysłania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud mój"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lud mój"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "wprowadzę"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "szarańczę"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "w granice twoje"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:31.814146695Z",
+  "model": "glm-5.3"
+}

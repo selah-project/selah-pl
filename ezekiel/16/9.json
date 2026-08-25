@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I obmyłem cię wodą, i zmyłem twoją krew z ciebie, i namaściłem cię olejem.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "i obmyłem cię"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wodą"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "i zmyłem"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "twoją krew"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "z ciebie"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "i namaściłem cię"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:12:33.820031027Z",
+  "model": "glm-5.3"
+}

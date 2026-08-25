@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wyszli mężowie Jisraela spospośród ha-Micpa i ścigali ⟨את⟩ Pelisztów, i pobili ich aż pod Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ha-Micpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i ścigali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisztów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "i pobili ich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:49.030270494Z",
+  "model": "glm-5.3"
+}

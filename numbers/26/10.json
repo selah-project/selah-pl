@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I otworzyła ziemia ⟨את⟩ swoje usta, i połknęła ⟨את⟩ ich oraz ⟨את⟩ Koracha przy śmierci zgromadzenia, gdy ogień pochłonął ⟨את⟩ dwustu pięćdziesięciu mężów — i stali się znakiem.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "i otworzyła"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje usta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "swoje usta"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "i połknęła"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Koracha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "במות",
+      "gloss": "przy śmierci"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "gdy pochłonął"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwustu pięćdziesięciu mężów"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesięciu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "i dwustu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i stali się"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "znakiem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:16.677324435Z",
+  "model": "glm-5.3"
+}

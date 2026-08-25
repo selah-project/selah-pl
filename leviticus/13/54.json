@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I nakazał kapłan, i uprali ⟨את⟩ to, w czym jest plaga, i odosobniono ⟨to⟩ na siedem dni po raz drugi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i nakazał"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "i uprali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, w czym jest plaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "i odosobniono"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "po raz drugi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:52.722887264Z",
+  "model": "glm-5.3"
+}

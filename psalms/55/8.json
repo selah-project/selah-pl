@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Oto oddaliłbym się w ucieczce, zatrzymałbym się na noc na pustyni. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "oddaliłbym się"
+    },
+    {
+      "surface": "נדod",
+      "gloss": "w ucieczce"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "zatrzymałbym się na noc"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:44.622090279Z",
+  "model": "glm-5.3"
+}

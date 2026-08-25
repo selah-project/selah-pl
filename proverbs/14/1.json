@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Mądrość niewiasty zbudowała swój dom, a głupota rękami swymi go burzy.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Mądrość"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "niewiasty"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "zbudowała"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "swój dom"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "a głupota"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "rękami swymi"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "go burzy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:53.370910502Z",
+  "model": "glm-5.3"
+}

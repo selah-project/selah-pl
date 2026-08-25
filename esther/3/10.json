@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zdjął król ⟨את⟩ swój pierścień z pieczęcią swej ręki i dał go Hamanowi, synowi Hamdaty, Agagczykowi, wrogowi Jehudim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "I zdjął"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój pierścień"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "swój pierścień"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swej ręki"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dał go"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanowi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synowi"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdaty"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagczykowi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "wrogowi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:51:12.602753061Z",
+  "model": "glm-5.3"
+}

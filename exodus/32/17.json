@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I usłyszał Jehoszua ⟨את⟩ głos ludu w jego radosnej wrzawie, i rzekł do Moszego: głos wojny w obozie!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "w radosnej wrzawie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "w obozie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:08.469242643Z",
+  "model": "glm-5.3"
+}

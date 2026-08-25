@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Oraz ⟨את⟩ całość Naftalego i ⟨את⟩ ziemię Efrajima i Menaszsze, i ⟨את⟩ całą ziemię Jehudy aż po morze ostatnie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "całość Naftalego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całość"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ziemię Efrajima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "i Menaszsze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całą ziemię Jehudy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ostatnie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:46.748614515Z",
+  "model": "glm-5.3"
+}

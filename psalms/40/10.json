@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Oznajmiłem radosną wieść o sprawiedliwości w zgromadzeniu wielkim; oto wargi moje nie zamilknę, Jahwe, Ty wiedziałeś.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "oznajmiłem radosną wieść"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "w zgromadzeniu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wargi moje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "zamilknę \/ nie powstrzymam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wiedziałeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.335219013Z",
+  "model": "glm-5.3"
+}

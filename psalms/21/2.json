@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Jahwe, w twojej sile raduje się król, a w twoim zbawieniu — jak bardzo się rozradował!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "w twojej sile"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje się"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "a w twoim zbawieniu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak bardzo"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "się rozradował"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "niezmiernie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:01.837046113Z",
+  "model": "glm-5.3"
+}

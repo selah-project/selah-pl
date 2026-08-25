@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "I wezwał Jaakow do swoich synów i powiedział: Zbierzcie się, a ja oznajmię wam ⟨את⟩ to, co spotka was w ostatku dni.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i wezwał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "zbierzcie się"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "a ja oznajmię"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co spotka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "spotka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "w ostatku"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:46.429118580Z",
+  "model": "glm-5.3"
+}

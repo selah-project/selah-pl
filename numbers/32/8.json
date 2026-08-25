@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Tak uczynili wasi ojcowie, gdy ⟨את⟩ ich posłałem z Kadesz-Barnea, by oglądnęli ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "wasi ojcowie"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "gdy ich posłałem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "z Kadesz"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "by oglądnęli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:11.901256878Z",
+  "model": "glm-5.3"
+}

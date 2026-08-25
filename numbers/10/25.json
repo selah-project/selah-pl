@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 10:25",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wyruszył sztandar obozu synów Dana, zbierca ⟨dla⟩ wszystkich obozów według ich wojsk, a nad jego wojskiem Achimezer syn Ammiszaddaja.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "sztandar"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dana"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "zbierca"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla wszystkich"
+    },
+    {
+      "surface": "המחנת",
+      "gloss": "obozów"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "według ich wojsk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "jego wojskiem"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Achimezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Ammiszaddaja"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:52.354375606Z",
+  "model": "glm-5.3"
+}

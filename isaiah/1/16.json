@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Obmyjcie się, oczyszczajcie się, usuńcie złość waszych czynów sprzed moich oczu; zaprzestańcie czynić zło.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "obmyjcie się"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "oczyszczajcie się"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "usuńcie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złość"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "waszych czynów"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sprzed"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moich oczu"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "zaprzestańcie"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "czynić zło"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:57.057806356Z",
+  "model": "glm-5.3"
+}

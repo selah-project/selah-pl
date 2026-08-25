@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Nie dawaj ⟨את⟩ swojej służebnicy za córkę Beliala, bo z obfitości mojej skargi i mojego oburzenia mówiłam aż dotąd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dawaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojej służebnicy"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "swojej służebnicy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "za"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "z obfitości"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mojej skargi"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "i mojego oburzenia"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mówiłam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dotąd"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:22.817099007Z",
+  "model": "glm-5.3"
+}

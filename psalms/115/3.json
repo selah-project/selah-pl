@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "A nasz Elohim ⟨jest⟩ w niebiosach — wszystko, co zechciał, uczynił.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "A nasz Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w niebiosach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zechciał"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:03.115062361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Mizmor Dawida. Jahwe, kto zamieszka w twoim namiocie, kto przebywać będzie na twej świętej górze?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "zamieszka"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "w twoim namiocie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "przebywać będzie"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "twojej świętej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:52.316944371Z",
+  "model": "glm-5.3"
+}

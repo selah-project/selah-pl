@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Ho, ho! Uciekajcie z ziemi północy — wyrocznia Jahwe — bo jak cztery wiatry niebios rozproszyłem ⟨את⟩+was — wyrocznia Jahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "uciekajcie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "północy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "jak cztery"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "wiatry"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "rozproszyłem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was (przyrostek zaimka -כם)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:40:30.180117525Z",
+  "model": "glm-5.3"
+}

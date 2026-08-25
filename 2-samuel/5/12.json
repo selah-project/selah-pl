@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I poznał Dawid, że Jahwe przygotował go na króla nad Israelem, i że wywyższył jego królestwo ze względu na jego lud, Israela.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na króla"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelem"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i że"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wywyższył"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "jego królestwo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego lud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:04.132076407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Bo moje lędźwie pełne są wypalenia, i nie ma zdrowia w moim ciele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "moje lędźwie"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "pełne są"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "wypalenia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdrowia"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "w moim ciele"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.079176479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zawołał lud do Moszego, i modlił się Mosze do Jahwe, i ugasła ⟨ogień⟩.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "i modlił się"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "i ugasła"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogień"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:42.671402597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "i służyli ⟨את⟩ ich bożkom, które stały się im sidłem.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich bożkom"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ich bożkom"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i stały się"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sidłem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:45.633164263Z",
+  "model": "glm-5.3"
+}

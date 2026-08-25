@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Kto wie, czy duch synów człowieka wznosi się w górę, a duch zwierzęcia schodzi w dół, do ziemi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wznosi się w górę"
+    },
+    {
+      "surface": "היא",
+      "gloss": "czy ⟨on⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "w górę"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a duch"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zwierzęcia"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "schodzi w dół"
+    },
+    {
+      "surface": "היא",
+      "gloss": "czy ⟨on⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "w dół"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "do ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:35.096993789Z",
+  "model": "glm-5.3"
+}

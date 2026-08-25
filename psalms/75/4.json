@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Rozpływają się ziemia i wszyscy jej mieszkańcy; Ja wymierzyłem jej filary. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "rozpływają się"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jej mieszkańcy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "wymierzyłem"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "jej filary"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:24.640518754Z",
+  "model": "glm-5.3"
+}

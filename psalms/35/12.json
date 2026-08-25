@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Odpłacają mi złem za dobro — osieroceniem mojej nefesz.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "odpłacają mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "osieroceniem"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:23.809550096Z",
+  "model": "glm-5.3"
+}

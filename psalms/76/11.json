@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Gniew bowiem człowieka będzie Cię wysławiał, resztę gniewu przepaszczesz ⟨jako pas⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bowiem"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "będzie Cię wysławiał"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gniewu"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "przepaszczesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:49.978692174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Wyjdź z arki, ty i twoja żona, i twoi synowie, i żony twoich synów ⟨את⟩ ciebie.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "wyjdź"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "i twoja żona"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i twoi synowie"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i żony"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "twoich synów"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ciebie",
+      "marks": "ty i twoja żona, i twoi synowie, i żony twoich synów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:45.338845427Z",
+  "model": "glm-5.3"
+}

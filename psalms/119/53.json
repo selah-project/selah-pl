@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Żar gniewu chwycił mnie z powodu bezbożnych, porzucających Twoją Torę.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "Żar gniewu"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "chwycił mnie"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "z powodu bezbożnych"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "porzucających"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Twoją Torę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.537597472Z",
+  "model": "glm-5.3"
+}

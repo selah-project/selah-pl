@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Bo wiem: śmierć mnie ⟨zawróci⟩, do domu spotkania ⟨przeznaczonego⟩ dla każdego żyjącego.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierć"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "zawróci mnie"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i do domu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania (wyznaczonego)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla każdego"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyjącego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:22:15.927374408Z",
+  "model": "glm-5.3"
+}

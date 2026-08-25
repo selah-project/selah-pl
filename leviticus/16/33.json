@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I dokona oczyszczenia ⟨את⟩ świątyni świętego przybytku, i ⟨את⟩ namiotu spotkania, i ⟨את⟩ ołtarza dokona oczyszczenia; a za kapłanów i za cały lud zgromadzenia dokona oczyszczenia.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "i dokona oczyszczenia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świątynię świętego przybytku"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "świątynię"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętego przybytku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "namiot spotkania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dokona oczyszczenia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a za"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dokona oczyszczenia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:56.917857571Z",
+  "model": "glm-5.3"
+}

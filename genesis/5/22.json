@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I chodził Chanok ⟨z⟩ ⟨את⟩ ha-Elohim po zrodzeniu ⟨את⟩ Metuszelacha trzysta lat, i zrodził synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "i chodził"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨z⟩ ⟨את⟩",
+      "marks": "ha-Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zrodzeniu jego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuszelacha"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuszelacha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzysta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:08.742298399Z",
+  "model": "glm-5.3"
+}

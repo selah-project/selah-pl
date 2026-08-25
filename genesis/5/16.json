@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Mahalalel po zrodzeniu ⟨את⟩ Jereda trzydzieści lat i osiemset lat, i zrodził synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zrodzeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jereda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jereda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "i osiem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:00.497224830Z",
+  "model": "glm-5.3"
+}

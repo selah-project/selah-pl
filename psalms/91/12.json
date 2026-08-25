@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Na rękach cię poniosą, abyś nie uderzył swojej stopy o kamień.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "rękach (dłoniach)"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "cię poniosą"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "uderzył"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "o kamień"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "swojej stopy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:22.478543904Z",
+  "model": "glm-5.3"
+}

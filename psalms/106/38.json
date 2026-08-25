@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I wylewali krew niewinną — krew swoich synów i swoich córek, których składali w ofierze bożkom Kenaan, i ziemia została skalana we krwi.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "i wylewali"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "niewinną"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "i swoich córek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "składali w ofierze"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "bożkom"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "i została skalana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "we krwi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:31.171305971Z",
+  "model": "glm-5.3"
+}

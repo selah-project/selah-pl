@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I słowami nienawiści otoczyli mnie, i zwalczali mnie bez powodu",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "I słowami"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nienawiści"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "otoczyli mnie"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "i zwalczali mnie"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.959682501Z",
+  "model": "glm-5.3"
+}

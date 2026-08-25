@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I poznałeś ⟨z⟩ twoim sercem, że jak karze człowiek ⟨את⟩ swojego syna, tak Jahwe, twój Elohim, cię karci.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "i poznałeś"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨z⟩"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "twoim sercem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "karze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "swojego syna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "cię karci"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:45.216901269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A ⟨את⟩ Ahrona i ⟨את⟩ jego synów namaścisz, i poświęcisz ⟨את⟩ ich, aby kapłanowali mnie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "namaścisz"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i poświęcisz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aby kapłanowali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi\/mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:33.072367439Z",
+  "model": "glm-5.3"
+}

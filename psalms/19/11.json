@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Pożądane bardziej niż złoto i niż mnóstwo szlachetnego złota, i słodsze niż miód i krople plastrów.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "pożądane"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "niż złoto"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "i niż szlachetne złoto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnóstwo"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "i słodsze"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "niż miód"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "i krople"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "plastrów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:19.634627956Z",
+  "model": "glm-5.3"
+}

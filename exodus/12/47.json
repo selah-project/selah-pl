@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Cała zgromada Jisraël niech uczyni ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cała"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zgromada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "niech uczynią"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (Paschę)"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:28.905287983Z",
+  "model": "glm-5.3"
+}

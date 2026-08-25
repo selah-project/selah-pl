@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Ja wykopałem ⟨i⟩ napiłem się wodę, i podeszwą moich stóp wysuszę wszystkie rzeki ⟨Egiptu⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "wykopałem"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "i napiłem się"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodę"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "i wysuszę"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "podeszwą"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "moich stóp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Egiptu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:03.546599294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A jeśli unieważni je po swym usłyszeniu, to poniesie ⟨את⟩ jej winę.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "unieważni"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "unieważni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "swym usłyszeniu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "to poniesie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej winę"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "jej winę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:26.368972621Z",
+  "model": "glm-5.3"
+}

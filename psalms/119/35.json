@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Prowadź mnie ścieżką Twoich przykazań, bo w niej upodobałem sobie ⟨ją⟩.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Prowadź mnie"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ścieżką"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Twoich przykazań"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "upodobałem sobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:41.029594421Z",
+  "model": "glm-5.3"
+}

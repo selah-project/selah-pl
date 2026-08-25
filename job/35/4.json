@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Ja zwrócę ci słowa, i ⟨את⟩ twoich towarzyszy z tobą.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "zwrócę ci"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twoich towarzyszy"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "twoich towarzyszy"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:23:36.272387565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A Eszton zrodził ⟨את⟩ Bet-Rafa, i ⟨את⟩ Paseacha, i ⟨את⟩ Techinnę, ojca Ir-Nachasz; ci ⟨są⟩ mężowie Rekhy.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "A Eszton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "-Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Paseacha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Techinnę"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinnę"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "-Nachasz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekhy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:03.889907746Z",
+  "model": "glm-5.3"
+}

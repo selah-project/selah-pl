@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wziąłem ⟨את⟩ Lewitów zamiast każdego pierworodnego wśród synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "I wziąłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewitów"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewitów"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pierworodnego"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wśród synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:31.943642762Z",
+  "model": "glm-5.3"
+}

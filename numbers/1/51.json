@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I gdy przybytek rusza w drogę, spuszczą ⟨את⟩ niego lewici, a gdy przybytek rozbija obóz, postawią ⟨את⟩ niego lewici; a obcy, który się zbliży, zostanie zabity.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "i gdy rusza w drogę"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "spuszczą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (przybytek)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewici"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "a gdy rozbija obóz"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "postawią"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (przybytek)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewici"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a obcy"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zbliżający się"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zostanie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:37.303045311Z",
+  "model": "glm-5.3"
+}

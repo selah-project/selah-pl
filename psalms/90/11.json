@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Kto zna moc Twego gniewu? Według bojaźni przed Tobą ⟨tak wielka⟩ jest Twoja zapalczywość.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moc"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Twego gniewu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "według bojaźni przed Tobą"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "Twoja zapalczywość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:29.555644148Z",
+  "model": "glm-5.3"
+}

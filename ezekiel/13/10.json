@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Ponieważ, tak, ponieważ zwodzili ⟨את⟩ lud mój, mówiąc: Pokój! — a nie ma pokoju; i ⟨gdy⟩ on buduje mur, a oto oni tynkują ⟨את⟩ niego tynkiem nieprzygotowanym.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "tak, ponieważ"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "zwodzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud mój"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lud mój"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pokój!"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "buduje"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "mur"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "a oto oni"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "tynkują"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tynkiem nieprzygotowanym"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tynkiem nieprzygotowanym"
+    }
+  ],
+  "timestamp": "2026-08-25T01:11:42.603493888Z",
+  "model": "glm-5.3"
+}

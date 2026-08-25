@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Bo Twoi słudzy upodobali sobie ⟨את⟩ jej kamienie i ⟨את⟩ jej proch zmiłują.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "upodobali sobie"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Twoi słudzy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej kamienie"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "jej kamienie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jej proch"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "jej proch"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "zmiłują"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:38.812687093Z",
+  "model": "glm-5.3"
+}

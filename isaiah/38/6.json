@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "i z ręki króla Aszszura cię wyrwę, i ⟨את⟩ to miasto; i osłonię to miasto.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "i z ręki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "cię wyrwę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "to miasto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "i osłonię"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tym miastem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tym"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:06.758452471Z",
+  "model": "glm-5.3"
+}

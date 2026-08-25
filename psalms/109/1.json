@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Przywódcy chóru. Dawidowi. Mizmor. Elohim ⟨├á chwalenie moje⟩ — nie milcz!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przywódcy chóru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "chwalenie moje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "milcz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.959303279Z",
+  "model": "glm-5.3"
+}

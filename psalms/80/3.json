@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Przed Efraimem i Binjaminem i Menasze obudź ⟨את⟩ swoją moc i przyjdź ku zbawieniu dla nas!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Przed"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimem"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Binjaminem"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "i Menasze"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "obudź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją moc"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "swoją moc"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "i przyjdź"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ku zbawieniu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:46.388673232Z",
+  "model": "glm-5.3"
+}

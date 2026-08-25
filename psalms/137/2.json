@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Na wierzbach pośród niej zawiesiliśmy nasze kinory.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "wierzbach"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "pośród niej"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "zawiesiliśmy"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "nasze kinory"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.620805109Z",
+  "model": "glm-5.3"
+}

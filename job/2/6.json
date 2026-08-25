@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł Jahwe do Szatana: oto on w twojej ręce, tylko ⟨את⟩ jego nefesz zachowaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Szatana"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "oto on"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w twojej ręce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego nefesz"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jego nefesz"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "zachowaj"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:15.551733756Z",
+  "model": "glm-5.3"
+}

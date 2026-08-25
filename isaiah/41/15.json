@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Oto uczyniłem cię młockarnią ostrą, nową, mającą podwójne zęby — będziesz młócił góry i roztłuczesz, a pagórki jak plewy uczynisz.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "uczyniłem cię"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "młockarnią"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ostrą"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nową"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mającą"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "podwójne zęby"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "będziesz młócił"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "i roztłuczesz"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "a pagórki"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jak plewy"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uczynisz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:32.716894137Z",
+  "model": "glm-5.3"
+}

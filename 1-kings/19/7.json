@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wrócił posłaniec Jahwe po raz drugi, i dotknął go, i rzekł: Wstań, jedz, bo zbyt długa jest droga przed tobą.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posłaniec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "po raz drugi"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "i dotknął"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "קום",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zbyt długa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "droga"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:00.285974627Z",
+  "model": "glm-5.3"
+}

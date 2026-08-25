@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "I wysłał Israel ⟨את⟩ swoją prawicę i położył na głowę Efrajima — a on ⟨jest⟩ młodszy — a ⟨את⟩ swoją lewicę na głowę Menasze; rozmyślnie skrzyżował ⟨את⟩ swoje ręce, bo Menasze ⟨jest⟩ pierworodnym.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją prawicę"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "swoją prawicę"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "młodszy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "swoją lewicę"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "swoją lewicę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "rozmyślnie skrzyżował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pierworodnym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:43.633672988Z",
+  "model": "glm-5.3"
+}

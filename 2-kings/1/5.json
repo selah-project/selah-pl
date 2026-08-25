@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I posłowie wrócili do niego, i rzekł do nich: Co to ⟨za rzecz⟩ — wróciliście?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "i wrócili"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "posłowie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "wróciliście"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:17.479202395Z",
+  "model": "glm-5.3"
+}

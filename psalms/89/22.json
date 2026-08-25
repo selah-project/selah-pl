@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Którego ręka moja ⟨będzie⟩ utwierdzona z nim, także ramię moje go umocni.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Którego"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ręka moja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨będzie⟩ utwierdzona"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ramię moje"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "go umocni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:00.301217974Z",
+  "model": "glm-5.3"
+}

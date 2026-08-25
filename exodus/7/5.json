@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I poznają Micrajim, że ja ⟨jestem⟩ Jahwe, gdy wyciągnę ⟨את⟩ moją rękę na Micrajim, i wyprowadzę ⟨את⟩ synów Israela spośród nich.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "i poznają"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "gdy wyciągnę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "i wyprowadzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "spośród nich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:17.633715550Z",
+  "model": "glm-5.3"
+}

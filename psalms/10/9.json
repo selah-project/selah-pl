@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Czai się w ukryciu jak lew w gęstwinie; czai się, by porwać biednego; porwie biednego, gdy go wciągnie w swoją sieć.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "czai się"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "w ukryciu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jak lew"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "w gęstwinie"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "czai się"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "by porwać"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biednego"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "porwie"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biednego"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "gdy go wciągnie"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "w swoją sieć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:19.227964581Z",
+  "model": "glm-5.3"
+}

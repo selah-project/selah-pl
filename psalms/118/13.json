@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Pchnięciem pchnąłeś mnie, bym upadł, a Jahwe mi pomógł.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "Pchnięciem"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "pchnąłeś mnie"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "by upadł"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "mi pomógł"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:30.936502033Z",
+  "model": "glm-5.3"
+}

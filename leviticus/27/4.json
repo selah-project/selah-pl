@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "A jeśli ⟨to⟩ samica, to będzie twoja wycena trzydzieści szekli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "samica"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "to będzie"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "twoja wycena"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "szekli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:48.945249981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A kto przeklina swojego ojca i swoją matkę — śmiercią niech będzie zabity.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "a kto przeklina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i swoją matkę"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "niech będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:25.112130916Z",
+  "model": "glm-5.3"
+}

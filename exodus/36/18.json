@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I zrobił klamry miedziane, pięćdziesiąt, by łączyć ⟨את⟩ namiot, aby był jeden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "klamry"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "miedziane"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesiąt"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "by łączyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namiot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "להית",
+      "gloss": "aby był"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:44.966243722Z",
+  "model": "glm-5.3"
+}

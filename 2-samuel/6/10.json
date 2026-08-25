@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I nie chciał Dawid przenieść do siebie ⟨את⟩ Arona Jahwe do miasta Dawidowego, lecz skierował go Dawid do domu Obed-Edoma Gittyty",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "przenieść"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do siebie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arona Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "lecz skierował go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gittyty"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:32.830941057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Kierownikowi chóru, na instrumentach strunowych, pouczający ⟨psalm⟩, Dawidowi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na instrumentach strunowych"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pouczający"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.086264105Z",
+  "model": "glm-5.3"
+}

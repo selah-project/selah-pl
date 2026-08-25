@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Zzgromiłeś narody, wytraciłeś niegodziwców, wymazałeś ich imię na wieki i na zawsze.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Zzgromiłeś"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "wytraciłeś"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwców"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ich imię"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "wymazałeś"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:41.605566079Z",
+  "model": "glm-5.3"
+}

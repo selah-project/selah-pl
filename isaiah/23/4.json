@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Zawstydz się, Cidon, bo rzekło morze, twierdzo morza, mówiąc: nie wzdychałam w bólach i nie rodziłam, i nie wychowywałam młodych mężów, nie wychowałam na wzrost panien.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Zawstydz się"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekło"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "twierdzo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "wzdychałam w bólach"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "rodziłam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "wychowywałam"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "młodych mężów"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "wychowałam na wzrost"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "panien"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:09.658973989Z",
+  "model": "glm-5.3"
+}

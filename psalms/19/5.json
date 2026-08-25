@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Przez całą ziemię wyszedł ich sznur, a do krańca świata — ich słowa; dla słońca postawił namiot w nich.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "przez całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyszedł"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sznur"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "a do krańca"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świata"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ich słowa"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "dla słońca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postawił"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:57.322485138Z",
+  "model": "glm-5.3"
+}

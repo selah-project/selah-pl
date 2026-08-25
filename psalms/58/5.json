@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Jad ich ⟨jest⟩ jak jad węża, jak głucha żmija zamykająca swoje ucho,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "jad"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ich"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "jak"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "jad"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "węża"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "żmija"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "głucha"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "zamykająca"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "swoje ucho"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.215023289Z",
+  "model": "glm-5.3"
+}

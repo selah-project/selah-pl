@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Wyślij swoje ręce z wysokości, wyrwij mnie i wybaw mnie od wód licznych, z ręki synów obcych.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wyślij"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z wysokości"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i wybaw mnie"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "od wód"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "licznych"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "obcych"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:25.000467089Z",
+  "model": "glm-5.3"
+}

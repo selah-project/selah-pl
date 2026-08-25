@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Elohim przemówił w świętości swojej: «Będę się radował, podzielę Sychem i wymierzę dolinę Sukkot».",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "w świętości swojej"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "będę się radował"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "podzielę"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sychem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "i dolinę"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "wymierzę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.027659355Z",
+  "model": "glm-5.3"
+}

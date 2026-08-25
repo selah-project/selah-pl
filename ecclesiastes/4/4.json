@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I widziałem ja ⟨את⟩ cały trud i ⟨את⟩ każdą biegłość w dziele, że ⟨to⟩ zazdrość człowieka względem jego bliźniego; także to to marność i pastwienie się ducha.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "i widziałem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały trud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "każdą biegłość"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "biegłość"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "w dziele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zazdrość"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "względem jego bliźniego"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marność"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i pastwienie się"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:23.872884457Z",
+  "model": "glm-5.3"
+}

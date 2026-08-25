@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Jego kapłani polegli od miecza, a jego wdowy nie zapłakały.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "jego kapłani"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "polegli"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "a jego wdowy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "zapłakały"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:10.307109840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Niech mówią wykupieni Jahwe, których wykupił z ręki ciemięzcy —",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Niech mówią"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "wykupieni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wykupił"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ciemięzcy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:03.523335041Z",
+  "model": "glm-5.3"
+}

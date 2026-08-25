@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A mąż Mosze ⟨był⟩ bardzo pokorny, bardziej niż wszyscy ludzie, którzy ⟨są⟩ na powierzchni ziemi.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "a mąż"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "pokorny"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bardziej niż wszyscy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ludzie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "powierzchni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:41.351088930Z",
+  "model": "glm-5.3"
+}

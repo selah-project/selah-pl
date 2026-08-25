@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I wołają do Jahwe w swoim ucisku, a ze swoich udręk wywodzi ich.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "i wołają"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "w ucisku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "swoim"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "a ze swoich udręk"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "wywodzi ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:10.305252051Z",
+  "model": "glm-5.3"
+}

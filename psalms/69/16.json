@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Nie zalewaj mnie nurt wód i nie połykaj mnie otchłań, i nie zamykaj nade mną studnia swych ust.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "zalewaj mnie"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "nurt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "połykaj mnie"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "otchłań"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "zamykaj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studnia"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "swych ust"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:52.416715080Z",
+  "model": "glm-5.3"
+}

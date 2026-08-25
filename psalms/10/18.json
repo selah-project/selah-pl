@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "aby rozsądzać sierotę i uciskanego, aby już wcale nie nastraszano śmiertelnego ⟨z⟩ ziemi.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "aby rozsądzać"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sierotę"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "i uciskanego"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wcale nie"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "już nie dodawać"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "nastraszania"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnego"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨z⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:55.982208125Z",
+  "model": "glm-5.3"
+}

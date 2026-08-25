@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I łamano naród przez naród i miasto przez miasto, bo Elohim zniweczył ich wszelkim uciskiem.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "i łamano"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "przez naród"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "i miasto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "przez miasto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "zniweczył ich"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wszelkim"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "uciskiem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:39.356429594Z",
+  "model": "glm-5.3"
+}

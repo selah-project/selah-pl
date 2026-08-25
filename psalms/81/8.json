@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "W ucisku wołałeś, a Ja cię wybawiłem; odpowiedziałem ci w skrytości gromu, doświadczyłem cię nad wodami Meriba. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "w ucisku"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wołałeś"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "a Ja cię wybawiłem"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "odpowiedziałem ci"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w skrytości"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "gromu"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "doświadczyłem cię"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:39.201601057Z",
+  "model": "glm-5.3"
+}

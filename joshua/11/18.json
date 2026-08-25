@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Przez wiele dni prowadził Jehoszua ⟨את⟩ wszystkich tych królów wojnę.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wiele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "prowadził"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich tych królów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojnę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:44.330676237Z",
+  "model": "glm-5.3"
+}

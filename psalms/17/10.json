@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Tłuszczem swoim ⟨są⟩ zamknięci, ustami swymi mówią w pysze.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "tłuszczem swoim"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "⟨są⟩ zamknięci"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ustami swymi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "w pysze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:42.527776063Z",
+  "model": "glm-5.3"
+}

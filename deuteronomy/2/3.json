@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Wystarczy wam obchodzić ⟨את⟩ górę tę; zawróćcie sobie ku północy.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "wystarczy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "סב",
+      "gloss": "obchodzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "górę tę"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "zawróćcie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ku północy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:53.838044943Z",
+  "model": "glm-5.3"
+}

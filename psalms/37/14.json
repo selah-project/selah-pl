@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Miecz otworzyli bezbożni i naciągnęli swój łuk, by powalić nędznego i ubogiego, by zabić prostych drogi.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "otworzyli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "i naciągnęli"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "swój łuk"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "by powalić"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędznego"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogiego"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "by zabić"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prostych"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.662205294Z",
+  "model": "glm-5.3"
+}

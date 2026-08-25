@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I wspomnę ⟨את⟩ moje przymierze z Jaakowem, a nawet ⟨את⟩ moje przymierze z Jicchakiem, a nawet ⟨את⟩ moje przymierze z Awrahamem wspomnę, i ziemię wspomnę.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "I wspomnę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze z Jaakowem"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "z Jaakowem"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze z Jicchakiem"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "z Jicchakiem"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze z Awrahamem"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "z Awrahamem"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "wspomnę"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i ziemię"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "wspomnę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:34.506313165Z",
+  "model": "glm-5.3"
+}

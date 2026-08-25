@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A Sara zaprzeczyła, mówiąc: nie śmiałam się, bo się ulękła. I rzekł: nie, bo śmiałaś się.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "a zaprzeczyła"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "śmiałam się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ulękła się"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(lecz)"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "śmiałaś się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:20.302047687Z",
+  "model": "glm-5.3"
+}

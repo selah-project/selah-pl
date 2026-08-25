@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Uwolnij mnie i wybaw mnie z ręki synów obcych, których usta mówiły kłamstwo, a prawa ich ręka ⟨jest⟩ prawicą fałszu.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Uwolnij mnie"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i wybaw mnie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówiły"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kłamstwo"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a prawa ich ręka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "prawicą"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fałszu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:12.198667359Z",
+  "model": "glm-5.3"
+}

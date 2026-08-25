@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Grzech mojego ludu jedzą, a ku ich winie podnoszą swoją nefesz.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "grzech"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojego ludu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jedzą"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ich winie"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "podnoszą"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swoją nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:39:59.236259361Z",
+  "model": "glm-5.3"
+}

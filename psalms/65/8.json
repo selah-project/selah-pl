@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Uśmierza szum mórz, szum ich fal i zgiełk ludów.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Uśmierza"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "szum"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mórz"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "szum"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ich fal"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "i zgiełk"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:37.134655121Z",
+  "model": "glm-5.3"
+}

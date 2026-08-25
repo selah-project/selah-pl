@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I znów zapłonął gniew Jahwe przeciwko Jisraelowi, i pobudził ⟨את⟩ Dawida przeciwko nim, mówiąc: Idź, policz ⟨את⟩ Jisraela i ⟨את⟩ Jehudę.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "i znów dodał"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew (nos)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "zapłonąć"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "przeciwko Jisraelowi"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "i pobudził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "przeciwko nim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "policz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:36.251126014Z",
+  "model": "glm-5.3"
+}

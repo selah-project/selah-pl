@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Oto nie zdrzemnie się i nie zaśnie Ten, który strzeże Jisraela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zdrzemnie się"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "zaśnie"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Ten, który strzeże"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:13.704363291Z",
+  "model": "glm-5.3"
+}

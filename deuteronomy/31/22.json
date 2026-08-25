@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I napisał Mosze pieśń tę ⟨את⟩ tego dnia i nauczył jej ⟨את⟩ synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pieśń"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tego dnia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamtego"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "i nauczył jej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:40.166805308Z",
+  "model": "glm-5.3"
+}

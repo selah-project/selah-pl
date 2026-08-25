@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A gdy świt wzeszł, pospieszali posłańcy Lota, mówiąc: Wstań, weź ⟨את⟩ swoją żonę i ⟨את⟩ swoje dwie córki, które tu się znajdują, abyś nie został zmieciony w winie tego miasta.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "świt"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wzeszł"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "spieszali"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "posłańcy"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "קום",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją żonę"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "swoją żonę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoje dwie córki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "swoje córki"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "które się znajdują"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "został zmieciony"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "w winie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tego miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:01.808206571Z",
+  "model": "glm-5.3"
+}

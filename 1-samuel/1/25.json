@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I zabili ⟨את⟩ cielę, i przyprowadzili ⟨את⟩ chłopca do Elego.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "i zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielę"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "cielę"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i przyprowadzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chłopca"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:51.163621045Z",
+  "model": "glm-5.3"
+}

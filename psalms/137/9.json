@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Szczęśliwy ten, który chwyci i roztrzaska ⟨את⟩ twoje niemowlęta o skałę.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ten, który chwyci"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "i roztrzaska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje niemowlęta"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "twoje niemowlęta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "skałę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:51.564541807Z",
+  "model": "glm-5.3"
+}

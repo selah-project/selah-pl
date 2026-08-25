@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Wszyscy razem odstąpili, razem się zepsuli — nie ma czyniącego dobro, nie ma ani jednego.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Wszyscy"
+    },
+    {
+      "surface": "סג",
+      "gloss": "odstąpili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "zepsuli się"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniącego"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:20.563059276Z",
+  "model": "glm-5.3"
+}

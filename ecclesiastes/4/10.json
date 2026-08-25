@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Bo jeśli upadną, jeden podniesie ⟨את⟩ swego towarzysza; a jeśli jeden upadnie i nie ma drugiego, by go podnieść —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "upadną"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "podniesie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego towarzysza"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "swego towarzysza"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "upadnie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "by go podnieść"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:41.596906719Z",
+  "model": "glm-5.3"
+}

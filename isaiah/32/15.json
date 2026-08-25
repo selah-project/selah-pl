@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "aż wylany zostanie na nas duch z wysokości, i stanie się pustynia sadownym wzgórzem, a sadowne wzgórze za las będzie uznane.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "wylany zostanie"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z wysokości"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i stanie się"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustynia"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "sadownym wzgórzem"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "a sadowne wzgórze"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "za las"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "będzie uznane"
+    }
+  ],
+  "timestamp": "2026-08-25T00:27:19.130454250Z",
+  "model": "glm-5.3"
+}

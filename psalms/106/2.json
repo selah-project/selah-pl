@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Kto ⟨wypowie⟩ mocne czyny Jahwe, kto obwieści całą Jego chwałę〈praise〉?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "wypowie"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "mocne czyny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "obwieści"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Jego chwałę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:55.758120388Z",
+  "model": "glm-5.3"
+}

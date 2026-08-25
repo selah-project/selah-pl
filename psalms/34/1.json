@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Dla Dawida, gdy zmieniał swój smak przed Awimelekiem, a ten go przegnał i odszedł.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dla Dawida"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "gdy zmieniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój smak"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "swój smak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelekiem"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "a przegnał go"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i odszedł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:26.618668441Z",
+  "model": "glm-5.3"
+}

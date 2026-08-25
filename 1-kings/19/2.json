@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I posłała Izebel posłańca do Elijahu, aby powiedzieć: Niech tak uczynią Elohim i tak dodadzą, bo na ten czas jutro uczynię ⟨את⟩ twoją nefesz jak nefesz jednego z nich.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "i posłała"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posłańca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby powiedzieć"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "niech uczynią"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ווכה",
+      "gloss": "i tak",
+      "surface_alt": "וכה"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "niech dodadzą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "na ten czas"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoją nefesz"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "twoją nefesz"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "jak nefesz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:04.687627142Z",
+  "model": "glm-5.3"
+}

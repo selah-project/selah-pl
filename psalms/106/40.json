@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I zapłonął gniew Jahwe na swój lud, i obrzydził ⟨את⟩ swoje dziedzictwo.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonął"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "na swój lud"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "i obrzydził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje dziedzictwo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "swoje dziedzictwo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:31.171610958Z",
+  "model": "glm-5.3"
+}

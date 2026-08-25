@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Okaż mi łaskę, Jahwe, bo ⟨jest⟩ mi ciasno; zółkło od oburzenia moje oko, moja nefesz i moje wnętrze.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "okaż mi łaskę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ciasno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "zółkło"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "od oburzenia"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "i moje wnętrze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:32.008471548Z",
+  "model": "glm-5.3"
+}

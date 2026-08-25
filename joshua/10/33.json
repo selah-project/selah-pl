@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Wtedy wyruszył Horam, król Gezer, na pomoc ⟨את⟩ Lakisz, i poraził go Jehoszua wraz z ⟨את⟩ jego ludem, tak że nie zostawił mu ocalałego.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wyruszył (dosł. wstąpił)"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "na pomoc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakisz"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakisz"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i poraził go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wraz z ⟨את⟩",
+      "marks": "jego ludem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego ludem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tak że"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "zostawił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ocalały"
+    }
+  ],
+  "timestamp": "2026-08-24T23:20:06.358515894Z",
+  "model": "glm-5.3"
+}

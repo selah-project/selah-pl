@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I jeść będą, a nie nasycą się; cudzołoić będą, a nie rozporodzą się; bo ⟨את⟩ Jahwe opuścili, przestając strzec.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "i jeść będą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasycą się"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "cudzołoić będą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "rozporodzą się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opuścili"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "przestając strzec"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:39.228405097Z",
+  "model": "glm-5.3"
+}

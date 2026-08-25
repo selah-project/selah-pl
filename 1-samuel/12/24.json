@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Tylko bójcie się ⟨את⟩ Jahwe i służcie ⟨את⟩ Mu w prawdzie całym swoim sercem, bo zobaczyliście ⟨את⟩ to, jak wielkie ⟨rzeczy⟩ uczynił z wami.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tylko"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bójcie się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i służcie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Mu",
+      "marks": "w prawdzie"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "w prawdzie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "swoim sercem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zobaczyliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wielkie uczynił"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:56.039984652Z",
+  "model": "glm-5.3"
+}

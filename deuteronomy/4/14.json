@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 4:14",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A mnie przykazał Jahwe w tym czasie, by was uczyć ustaw i praw, abyście je czynili w ziemi, do której wy przechodzicie tam, by ją odziedziczyć.",
+  "tokens": [
+    {
+      "surface": "ואתי",
+      "gloss": "a ⟨את⟩ mnie",
+      "marks": "przykazał (mnie)"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "by uczyć"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "ustaw i praw"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "ustaw"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "i praw"
+    },
+    {
+      "surface": "לעשתכם",
+      "gloss": "abyście czynili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "do której"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "przechodzicie"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "by ją odziedziczyć"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:06.880683230Z",
+  "model": "glm-5.3"
+}

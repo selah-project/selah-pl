@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Jeden raz przysiągłem w mojej świętości: jeżeli skłamię Dawidowi —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "jeden raz"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "przysiągłem"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "w mojej świętości"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeżeli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "skłamię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:31.594229515Z",
+  "model": "glm-5.3"
+}

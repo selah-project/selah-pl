@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I uderzył swoich wrogów w tył, wieczną hańbę nałożył na nich.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "swoich wrogów"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "w tył"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hańbę"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczną"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nałożył"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.251401991Z",
+  "model": "glm-5.3"
+}

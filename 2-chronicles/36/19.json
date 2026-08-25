@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I spalili ⟨את⟩ domu Elohim, i zburzyli ⟨את⟩ mur Jeruszalaim, i wszystkie jej pałace spalili ogniem, a wszystkie naczynia jej upragnione — ku zniszczeniu.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "i spalili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domu Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "i zburzyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mur Jeruszalaim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "jej pałace"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spalili"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a wszystkie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "jej upragnione"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ku zniszczeniu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:29.542017408Z",
+  "model": "glm-5.3"
+}

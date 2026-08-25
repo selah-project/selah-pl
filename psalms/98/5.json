@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Grajcie dla Jahwe na kinnorze, na kinnorze i głosem śpiewu.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Grajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinnorze"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinnorze"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i głosem"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "śpiewu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.022244885Z",
+  "model": "glm-5.3"
+}

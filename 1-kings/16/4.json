@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Ten, kto umrze z domu Baaszy w mieście, zjedzą go psy, a ten, kto umrze z jego domu na polu, zjedzą go ptaki niebios.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ten, kto umrze"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "z domu Baaszy"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psy"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a ten, kto umrze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "z jego domu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:40.442294100Z",
+  "model": "glm-5.3"
+}

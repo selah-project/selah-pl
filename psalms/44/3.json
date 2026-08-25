@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Ty ⟨przez⟩ rękę swoją narody wypędziłeś i ich zasadziłeś, złamałeś ludy i wygubiłeś je.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wypędziłeś"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "i ich zasadziłeś"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "złamałeś"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "i wygubiłeś je"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:15.711499032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Zwierzęta i wszystkie bydła, płazy i skrzydlate ptactwo",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "zwierzęta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "płazy"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "i ptactwo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skrzydlate"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.106439738Z",
+  "model": "glm-5.3"
+}

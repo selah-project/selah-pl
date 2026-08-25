@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe wstrząsa pustynią, wstrząsa Jahwe pustynią Kadesz.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wstrząsa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustynią"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wstrząsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustynią"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:31.620561380Z",
+  "model": "glm-5.3"
+}

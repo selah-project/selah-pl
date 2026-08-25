@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł do mnie: synu człowieczy, ⟨את⟩ wszystkie moje słowa, które ja mówię do ciebie, przyjmij w swoim sercu i swoimi uszami słuchaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie moje słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje słowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ja mówię"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "קח",
+      "gloss": "przyjmij"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "w swoim sercu"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "i swoimi uszami"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słuchaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:08:42.968431784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Błogosławieni ⟨jesteście⟩ ⟨אתם⟩ — dla Jahwe, czyniącego niebiosa i ziemię.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Błogosławieni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩ wy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniącego"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:05.546527896Z",
+  "model": "glm-5.3"
+}

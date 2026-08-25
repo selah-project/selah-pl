@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Te oto ⟨są⟩ wyznaczone czasy Jahwe, święte zwołania, które wezwiecie ⟨את⟩ nich w ich wyznaczonym czasie.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Te oto"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "wyznaczone czasy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "święte zwołania"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "wezwiecie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wyznaczone czasy"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "w ich wyznaczonym czasie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:21.126849075Z",
+  "model": "glm-5.3"
+}

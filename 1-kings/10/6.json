@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekła do króla: Prawdą było ⟨to⟩ słowo, które usłyszałam w moim kraju, o twoich słowach i o twojej mądrości.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdą"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałam"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "w moim kraju"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "twoich słowach"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "twojej mądrości"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:36.114808599Z",
+  "model": "glm-5.3"
+}

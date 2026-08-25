@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I zarżnie ⟨את⟩ go przy boku ołtarza, od strony północnej, przed obliczem Jahwe; a synowie Ahrona, kapłani, pokropią ⟨את⟩ jego krwią ołtarz dokoła.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zarżnie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (zwierzę)"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "boku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ku północy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "i pokropią"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego krew"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:18.859015144Z",
+  "model": "glm-5.3"
+}

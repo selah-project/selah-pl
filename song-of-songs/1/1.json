@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Pieśń pieśni, która ⟨jest⟩ Szlomona.",
+  "tokens": [
+    {
+      "surface": "שִׁיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "הַשִּׁירִים",
+      "gloss": "pieśni"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "która"
+    },
+    {
+      "surface": "לִשְׁלֹמֹה",
+      "gloss": "Szlomona"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:30.213699422Z",
+  "model": "glm-5.3"
+}

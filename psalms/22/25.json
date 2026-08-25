@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Bo nie wzgardził ani nie znienawidził udręczenia nędznika, i nie ukrył swojego oblicza przed nim, lecz gdy zawołał do niego, usłyszał.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "wzgardził"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani nie"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "znienawidził"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "udręczenia"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędznika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ukrył"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swojego oblicza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "lecz gdy zawołał"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:58.974734834Z",
+  "model": "glm-5.3"
+}

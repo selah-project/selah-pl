@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jeżeli wąż ukąsi bez zaklęcia, to nie ma przewagi pan języka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeżeli"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ukąsi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "wąż"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "zaklęcia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "przewagi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "dla pana"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "języka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:39.396537726Z",
+  "model": "glm-5.3"
+}

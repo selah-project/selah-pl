@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przykazałem ⟨את⟩ wam w tym czasie ⟨את⟩ wszystkie słowa, które macie czynić.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "i przykazałem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "macie czynić"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:27.720005961Z",
+  "model": "glm-5.3"
+}

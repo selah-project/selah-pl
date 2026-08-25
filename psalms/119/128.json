@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Przeto wszystkie twoje ustawy uznałem za słuszne w każdym względzie, każdą fałszywą ścieżkę znienawidziłem.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "przeto (dlatego)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "twoje ustawy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "w każdym względzie"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "uznałem za słuszne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ścieżkę"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fałszywą"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "znienawidziłem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:02.620534743Z",
+  "model": "glm-5.3"
+}

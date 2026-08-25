@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Bo twoje strzały utkwiły we mnie i zstąpiła nade mną twoja ręka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "twoje strzały"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "utkwiły"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "i zstąpiła"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoja ręka"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:48.700457599Z",
+  "model": "glm-5.3"
+}

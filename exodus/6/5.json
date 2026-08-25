@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A nawet ja usłyszałem ⟨את⟩ jęk synów Jisraela, których Micrajim zniewalają ⟨את⟩-ich, i wspomiałem ⟨את⟩ moje przymierze.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jęk"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "jęk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "zniewalają"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ich",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "i wspomiałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:12.091578880Z",
+  "model": "glm-5.3"
+}

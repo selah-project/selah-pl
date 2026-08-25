@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Jak księżyc utwierdzony ⟨na⟩ zawsze, i świadek w obłoku wierny. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "jak księżyc"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "utwierdzony"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i świadek"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "w obłoku"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "wierny"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:10.016252832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Jahwe strzeże ⟨את⟩ przybyszów, sierotę i wdowę podtrzymuje, a drogę bezbożnych wykrzywia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzeże"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybyszów"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "przybyszów"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sierotę"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "i wdowę"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "podtrzymuje"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "a drogę"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wykrzywia"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:54.658267649Z",
+  "model": "glm-5.3"
+}

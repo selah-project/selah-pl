@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wypisał tam na kamieniach ⟨את⟩ odpis Tory Mosze, którą wypisał przed synami Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I wypisał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamieniach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odpis Tory Mosze"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "odpis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "wypisał"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:49.219293223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Tak powiesz do niego: Tak mówi Jahwe: Oto co zbudowałem — ja burzę, i ⟨את⟩ to, co zasadziłem — ja wyrywam, i ⟨את⟩ całą tę ziemię — ⟨ona⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "powiesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "zbudowałem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "burzę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to, co zasadziłem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "zasadziłem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "wyrywam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "całą tę ziemię"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tę ziemię"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ona⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:00:52.105960486Z",
+  "model": "glm-5.3"
+}

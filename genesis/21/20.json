@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I był Elohim ⟨את⟩ ⟨z⟩ chłopcem, i rósł, i mieszkał na pustyni, i stał się władcą łuku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨z⟩",
+      "marks": "chłopcem"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopcem"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "i rósł"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i mieszkał"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "władcą łuku"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:53.426398510Z",
+  "model": "glm-5.3"
+}

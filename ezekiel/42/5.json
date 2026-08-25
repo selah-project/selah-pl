@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "A komnaty górne ⟨były⟩ skrócone, bo galerie zabierały z nich — z dolnych i ze środkowych budynku.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "a komnaty"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "górne"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "skrócone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "zabierały"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "galerie"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "z dolnych"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "i ze środkowych"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "budynku"
+    }
+  ],
+  "timestamp": "2026-08-25T01:26:57.340527896Z",
+  "model": "glm-5.3"
+}

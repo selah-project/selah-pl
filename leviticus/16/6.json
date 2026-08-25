@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I przybliży Aharon ⟨את⟩ cielca ofiary za grzech, który jest jego, i dokona przebłagania za siebie i za swój dom.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i przybliży"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielca ofiary za grzech"
+    },
+    {
+      "surface": "פר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jest jego"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokła przebłagania"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za siebie"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swój dom"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:18.152317433Z",
+  "model": "glm-5.3"
+}

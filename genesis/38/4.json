@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I poczęła jeszcze, i urodziła syna, i nazwała ⟨את⟩ imię jego Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:24.034521112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I wziął ⟨את⟩ swych braci z sobą, i gonił za nim drogą siedmiu dni, i dosięgł ⟨את⟩ go w górze Gilad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swych braci"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swych braci"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z sobą"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "i gonił"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za nim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedmiu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "i dosięgł"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:36.069202858Z",
+  "model": "glm-5.3"
+}

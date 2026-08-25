@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Znużyłem się od mego wołania, spłonęło mi gardło, oczy mi wygasły, oczekując Elohim mojego.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "znużyłem się"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "od mego wołania"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "spłonęło"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mi gardło"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wygasły"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczy mi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "oczekując"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim mojego"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:44.687299220Z",
+  "model": "glm-5.3"
+}

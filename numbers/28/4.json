@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": " ⟨את⟩ jednego baranka przygotujesz rano, a ⟨את⟩ drugiego baranka przygotujesz między wieczorami.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednego baranka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baranka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "przygotujesz"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drugiego baranka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baranka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "przygotujesz"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wieczorami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:00:20.081654209Z",
+  "model": "glm-5.3"
+}

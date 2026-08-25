@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "O gdyby lud mój słuchał Mnie, Jisrael chodził w drogach moich!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "o gdyby"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lud mój"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słuchał"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mnie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "w drogach moich"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "chodził"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:38.902051564Z",
+  "model": "glm-5.3"
+}

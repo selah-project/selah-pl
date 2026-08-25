@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Nie uczynił tak żadnemu narodowi — a wyroków swoich wcale nie znali. Chwalcie Jaha!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "żadnemu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodowi"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "a wyroków"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wcale"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nie znali"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:24.200083330Z",
+  "model": "glm-5.3"
+}

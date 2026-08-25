@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zbudował ⟨את⟩ dom i dokończył go, i pokrył ⟨את⟩ dom belkami i rzędami Cedrów.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "dokończył go"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "pokrył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "belkami"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "rzędami"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "Cedrów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:59.922440876Z",
+  "model": "glm-5.3"
+}

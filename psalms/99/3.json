@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 99,
+  "translation": "Niech wysławiają ⟨Twoje⟩ imię ⟨Twoje⟩ — wielkie i groźne — święty on ⟨jest⟩!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "niech wysławiają"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "i groźne"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:38.226668542Z",
+  "model": "glm-5.3"
+}

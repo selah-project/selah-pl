@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I były dni Adama po zrodzeniu ⟨את⟩ Seta osiemset lat, i zrodził synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "I były"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zrodzeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seta"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Seta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osiem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:05.473534783Z",
+  "model": "glm-5.3"
+}

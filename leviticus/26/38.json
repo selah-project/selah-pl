@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "i zginiecie wśród narodów, i pożre was ⟨את⟩ ziemia waszych wrogów.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "i zginiecie"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wśród narodów"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "i pożre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "ziemia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "waszych wrogów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:18.652069329Z",
+  "model": "glm-5.3"
+}

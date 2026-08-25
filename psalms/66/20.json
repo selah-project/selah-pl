@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Błogosławiony Elohim, który nie odwrócił mojej modlitwy ani swego chesed od ⟨את⟩ mnie.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odwrócił"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojej modlitwy"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ani swego chesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ode mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:42.586607606Z",
+  "model": "glm-5.3"
+}

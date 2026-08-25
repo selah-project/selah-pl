@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "i modra wełna, i purpura, i czerwony robak szani, i bisior, i sierść kozia.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "i modra wełna (tchelet)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpura (argaman)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i robak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "szani (czerwony barwnik)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i bisior"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "i sierść kozia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:34:12.385199350Z",
+  "model": "glm-5.3"
+}

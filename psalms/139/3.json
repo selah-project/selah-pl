@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Moją ścieżkę i moje spoczywanie prześledziłeś, i ze wszystkimi moimi drogami zaznajomiony ⟨jesteś⟩.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Moją ścieżkę"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "i moje spoczywanie"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "prześledziłeś"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i ze wszystkimi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moimi drogami"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "zaznajomiony"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.569118732Z",
+  "model": "glm-5.3"
+}

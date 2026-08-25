@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I złożysz ofiary szczęścia, i będziesz tam jadł, i będziesz się radował przed obliczem Jahwe, Elohim twojego.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "złożysz ofiary"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "szczęścia"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "będziesz jadł"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "będziesz się radował"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:17.290671061Z",
+  "model": "glm-5.3"
+}

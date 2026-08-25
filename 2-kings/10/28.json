@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i wytępił Jehu ⟨את⟩ Baala z Izraela.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "i wytępił"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baala"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "z Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:12.158131612Z",
+  "model": "glm-5.3"
+}

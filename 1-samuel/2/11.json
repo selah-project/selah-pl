@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I poszedł Elkana do Ramaty, do swego domu, a młodzieniec był sługą ⟨את⟩ Jahwe ⟨את⟩ przed obliczem Elego kapłana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "do Ramaty"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "a młodzieniec"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sługą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ przed"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elego"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:01.393654299Z",
+  "model": "glm-5.3"
+}

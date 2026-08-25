@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Wyrwij mnie od krwi ⟨przelanej⟩, Elohim, Elohim wybawienia mego, ⟨a⟩ język mój radośnie zaśpiewa sprawiedliwość twoją.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Wyrwij mnie"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "od krwi ⟨przelanej⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "wybawienia mego"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "⟨a⟩ radośnie zaśpiewa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "język mój"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sprawiedliwość twoją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:48.195667628Z",
+  "model": "glm-5.3"
+}

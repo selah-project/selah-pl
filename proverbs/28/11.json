@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Mądry w swoich oczach ⟨jest⟩ bogaty człowiek, a ubogi roztropny przebada go.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w swoich oczach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogaty"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "a ubogi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "roztropny"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "przebada go"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:44.219801731Z",
+  "model": "glm-5.3"
+}

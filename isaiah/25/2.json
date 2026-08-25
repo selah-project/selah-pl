@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Bo zamieniłeś miasto w stos kamieni, miasto warowne w ruinę; cytadelę obcych — miastem ⟨już nie jest⟩, po wieki nie będzie odbudowane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "zamieniłeś"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "w stos kamieni"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "warowne"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "w ruinę"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "cytadelę"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "miastem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "po wieki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "będzie odbudowane"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:06.239601456Z",
+  "model": "glm-5.3"
+}

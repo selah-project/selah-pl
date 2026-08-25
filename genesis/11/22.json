@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I żył Serug trzydzieści lat, i zrodził ⟨את⟩ Nachora.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:44.291528331Z",
+  "model": "glm-5.3"
+}

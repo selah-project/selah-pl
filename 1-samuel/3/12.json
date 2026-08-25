@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "W owym dniu wzbudzę przeciwko Eli ⟨את⟩ wszystko, co mówiłem o jego domu: zacznę i skończę.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "wzbudzę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego domu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "zacznę"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "i skończę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:23.046229850Z",
+  "model": "glm-5.3"
+}

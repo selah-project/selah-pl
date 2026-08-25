@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Strzeż się, abyś nie opuścił ⟨את⟩ lewitę przez wszystkie swoje dni na swojej ziemi",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "strzeż się"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "opuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewitę"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "lewitę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "przez wszystkie"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "swoje dni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:22.648090444Z",
+  "model": "glm-5.3"
+}

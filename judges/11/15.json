@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i rzekł do niego: Tak mówi Jiftach: Nie wziął Izrael ⟨את⟩ ziemi Moabu ani ⟨את⟩ ziemi synów Ammonu,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemi Moabu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "ziemi synów Ammonu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:56.613525223Z",
+  "model": "glm-5.3"
+}

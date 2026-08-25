@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I położy ⟨את⟩ swoją rękę na głowie swojej ofiary, i zabije ⟨את⟩ je przed obliczem Namiotu Spotkania, a pokropią synowie Ahrona ⟨את⟩ jego krwią ołtarz dokoła.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "i położy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowie"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "swojej ofiary"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i zabije"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je (zwierzę)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "a pokropią"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego krew"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:06.860322216Z",
+  "model": "glm-5.3"
+}

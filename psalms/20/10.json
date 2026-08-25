@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Jahwe, wybaw! Niech król odpowie nam w dniu, gdy wołamy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "wybaw!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "odpowie nam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "gdy wołamy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:04.303004591Z",
+  "model": "glm-5.3"
+}

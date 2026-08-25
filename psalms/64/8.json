@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "I raży ich Elohim strzałą — nagle stały się ich rany.",
+  "tokens": [
+    {
+      "surface": "וי רם",
+      "gloss": "i raży"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "strzałą"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "nagle"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stały się"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ich rany"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:18.740466992Z",
+  "model": "glm-5.3"
+}

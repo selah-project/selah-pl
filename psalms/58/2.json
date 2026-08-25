@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Czy naprawdę milczkiem sprawiedliwość mówicie, prosto sądzicie, synowie adamowe?",
+  "tokens": [
+    {
+      "surface": "הַֽאֻמְנָ֗ם",
+      "gloss": "czy naprawdę"
+    },
+    {
+      "surface": "אֵ֣לֶם",
+      "gloss": "milczkiem"
+    },
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "תְּדַבֵּ֑רוּן",
+      "gloss": "mówicie"
+    },
+    {
+      "surface": "מֵ֥ישָׁרִ֝ים",
+      "gloss": "prosto"
+    },
+    {
+      "surface": "תִּֽשְׁפְּט֗וּ",
+      "gloss": "sądzie"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "adamowe"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:36.936069540Z",
+  "model": "glm-5.3"
+}

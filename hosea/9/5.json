@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Cóż uczynicie w dniu wyznaczonym i w dniu święta Jahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cóż"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "uczynicie"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wyznaczonym"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "i w dniu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "święta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:52.843847999Z",
+  "model": "glm-5.3"
+}

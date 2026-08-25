@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I ⟨את⟩ jej dwóch synów, których imię jednego Gerszom, bo powiedział: przybyszem byłem w ziemi obcej.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "I ⟨את⟩",
+      "marks": "jej dwóch synów"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "jej synów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerszom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "גר",
+      "gloss": "przybyszem"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "obcej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:24.262100234Z",
+  "model": "glm-5.3"
+}

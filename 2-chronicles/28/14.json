@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zostawił zbrojny ⟨את⟩ jeńców i ⟨את⟩ łup przed książętami i całym zgromadzeniem.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "I zostawił"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "zbrojny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeńców"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "jeńców"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "łup"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "łup"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "książętami"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i całym"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzeniem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:09:10.661562496Z",
+  "model": "glm-5.3"
+}

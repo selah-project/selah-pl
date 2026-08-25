@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Jedynie on ⟨jest⟩ skałą moją i zbawieniem moim, warownią moją; nie zachwieję się bardzo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jedynie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skałą moją"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "i zbawieniem moim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "warownią moją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachwieję się"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:19.793400224Z",
+  "model": "glm-5.3"
+}

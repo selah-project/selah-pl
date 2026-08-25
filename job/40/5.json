@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Raz przemówiłem i nie odpowiem, i dwa razy — i nie dodam ⟨więcej⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "raz"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "przemówiłem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odpowiem"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i dwa razy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "dodam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:24:43.195956439Z",
+  "model": "glm-5.3"
+}

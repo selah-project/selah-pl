@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Gdy zbierasz swą winnicę, nie będziesz zbierałresztek po sobie — dla przybysza, dla sieroty i dla wdowy ⟨będzie⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "zbierasz [winogrona]"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "swą winnicę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "będziesz zbierał resztek"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "po sobie"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "dla przybysza"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "dla sieroty"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "i dla wdowy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:11.271979666Z",
+  "model": "glm-5.3"
+}

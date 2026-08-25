@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zrobił dla domu okna frameworkione, zamknięte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I zrobił"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dla domu"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "okna"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "frameworkione"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "zamknięte"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:39.406015948Z",
+  "model": "glm-5.3"
+}

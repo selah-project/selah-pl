@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wyszedł Kain sprzed oblicza Jahwe, i zamieszkał w ziemi Nod, na wschód od Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyszedł"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zamieszkał"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "na wschód od"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:39.288399765Z",
+  "model": "glm-5.3"
+}

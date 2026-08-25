@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Oto Elohim ⟨jest⟩ pomocnikiem mem, Adonai — wśród podtrzymujących moją nefesz.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocnikiem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "wśród podtrzymujących"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:36.729195907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Zapamiętaj, co uczynił tobie Amalek na drodze przy waszym wyjściu z Micraim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Zapamiętaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "co (uczynił Amalek)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "przy waszym wyjściu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:47.130249568Z",
+  "model": "glm-5.3"
+}

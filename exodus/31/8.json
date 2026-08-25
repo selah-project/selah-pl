@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "oraz ⟨את⟩ stół i ⟨את⟩ jego przybory, i ⟨את⟩ świecznik czysty i ⟨את⟩ wszystkie jego przybory, i ⟨את⟩ ołtarz kadzenia;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego przybory"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego przybory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "świecznik czysty"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "świecznik"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "czysty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie jego przybory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jego przybory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ołtarz kadzenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadzenia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:53.046560323Z",
+  "model": "glm-5.3"
+}

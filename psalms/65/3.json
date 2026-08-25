@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Słuchaczowi modlitwy — do Ciebie wszelkie ciało przyjdzie.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Słuchaczowi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitwy"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "przyjdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:28.139857365Z",
+  "model": "glm-5.3"
+}

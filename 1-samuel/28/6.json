@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I pytał Szaul Jahwe, ale nie odpowiedział mu Jahwe — ani w snach, ani w Urim, ani w prorokach.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i pytał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "odpowiedział mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "w snach"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "w Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "w prorokach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:45.116136635Z",
+  "model": "glm-5.3"
+}

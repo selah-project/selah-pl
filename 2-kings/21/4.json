@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I zbudował ołtarze w domu Jahwe, o którym powiedział Jahwe: 'W Jeruszalaim położę ⟨את⟩ swoje imię'.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "I zbudował"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o którym"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "W Jeruszalaim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "położę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje imię"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "swoje imię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:10.601824549Z",
+  "model": "glm-5.3"
+}

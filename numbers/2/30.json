@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I jego wojsko, i policzeni jego — trzy i pięćdziesiąt tysięcy oraz cztery setki.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego wojsko"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i policzeni jego"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "oraz cztery"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:19.642074554Z",
+  "model": "glm-5.3"
+}

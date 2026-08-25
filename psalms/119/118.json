@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Odrzuciłeś wszystkich błądzących od Twoich ustaw, bo kłamstwo ⟨jest⟩ ich podstępem.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Odrzuciłeś"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "błądzących"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "od Twoich ustaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwo"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ich podstęp"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:19.964898430Z",
+  "model": "glm-5.3"
+}

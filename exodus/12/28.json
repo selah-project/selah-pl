@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I poszli, i uczynili synowie Jisraela — jak przykazał Jahwe ⟨את⟩ Mosze i ⟨את⟩ Aharona, tak uczynili.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:43.783750599Z",
+  "model": "glm-5.3"
+}

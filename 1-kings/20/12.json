@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I stało się, gdy usłyszał ⟨את⟩ to słowo — a on pił, on i królowie w namiotach — że rzekł do sług swoich: Rozstawcie się. I rozstawili się pod miastem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to słowo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pił"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "i królowie"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "w namiotach"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sług swoich"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "rozstawcie się"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i rozstawili się"
+    },
+    {
+      "surface": "על",
+      "gloss": "pod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miastem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:58.057341376Z",
+  "model": "glm-5.3"
+}

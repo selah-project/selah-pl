@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Wielu mówi: Kto pokaże nam dobro? Wznieś nad nami światłość oblicza twego, Jahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Wielu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "pokaże nam"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Wznieś"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światłość"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicza twego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:55.953124442Z",
+  "model": "glm-5.3"
+}

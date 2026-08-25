@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Z twoich nakazów zdobywam rozeznanie, dlatego znienawidziłem każdą drogę kłamstwa.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "z twoich nakazów"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "zdobywam rozeznanie"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "znienawidziłem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:56.611136181Z",
+  "model": "glm-5.3"
+}

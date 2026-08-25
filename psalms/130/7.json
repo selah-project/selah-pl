@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Niech czeka Israel na Jahwe, bo u Jahwe ⟨jest⟩ chesed, i obficie u niego wyzwolenie.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Niech czeka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "i obficie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u niego"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "wyzwolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:20.617307844Z",
+  "model": "glm-5.3"
+}

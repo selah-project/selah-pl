@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Kto by dał, żebym wiedział i znalazł go — przyszedłbym aż do jego przybytku.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "by dał"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiedział"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "i znalazł go"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "przyszedłbym"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "jego przybytku"
+    }
+  ],
+  "timestamp": "2026-08-25T02:20:44.336301101Z",
+  "model": "glm-5.3"
+}

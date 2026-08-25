@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bo przez wiele dni będą mieszkać synowie Israela: bez króla i bez księcia, i bez ofiary i bez steły, i bez efodu i terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wiele"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "będą mieszkać"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "שר",
+      "gloss": "księcia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofiary"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "steły"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "i terafim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:16.259313115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I odesłał Jicchak ⟨את⟩ Jaakowa, i poszedł on do Paddan-Aram, do Lawana, syna Betuela Aramejczyka, brata Riwki, matki Jaakowa i Esawa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i odesłał"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuela"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejczyka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riwki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "i Esawa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:48.925736185Z",
+  "model": "glm-5.3"
+}

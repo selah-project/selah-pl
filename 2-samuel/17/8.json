@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Chuszaj: Ty znasz ⟨את⟩ swego ojca i ⟨את⟩ jego ludzi, że są mocarzami i są gorzkiego ducha, jak niedźwiedzica pozbawiona młodych na polu; a twój ojciec to mąż wojenny, i nie zostanie na noc ⟨את⟩ ludem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chuszaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego ojca"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego ludzi"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jego ludzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "mocarzami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "są"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "i gorzkiego"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "są"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "jak niedźwiedzica"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "pozbawiona młodych"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "a twój ojciec"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojenny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zostanie na noc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:48.635329172Z",
+  "model": "glm-5.3"
+}

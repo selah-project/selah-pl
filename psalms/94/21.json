@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Zejdą się przeciw nefesz sprawiedliwego i krew niewinną potępią.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "zejdą się"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "i krew"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "niewinna"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "potępią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:00.664041859Z",
+  "model": "glm-5.3"
+}

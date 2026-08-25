@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Bo ustawienie dla Israela ⟨jest⟩, prawo dla Elohim Jaakowa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ustawienie"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Israela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "dla Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:39.200997888Z",
+  "model": "glm-5.3"
+}

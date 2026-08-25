@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Bo Ty, Adonai, ⟨jesteś⟩ dobry i przebaczający, i wielki w chesed dla wszystkich wzywających Cię.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "i przebaczający"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed (wierna miłość)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla wszystkich"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "wzywających Cię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:24.861872133Z",
+  "model": "glm-5.3"
+}

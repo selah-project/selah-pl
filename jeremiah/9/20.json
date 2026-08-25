@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo wstąpiła śmierć przez nasze okna, wkroczyła w nasze pałace, aby wyciąć ⟨את⟩ niemowlę z zewnątrz, młodych z placów.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wstąpiła"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierć"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "przez nasze okna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wkroczyła"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "w nasze pałace"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "aby wyciąć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niemowlę"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "niemowlę"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "z zewnątrz"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "młodych"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "z placów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:35:55.118880519Z",
+  "model": "glm-5.3"
+}

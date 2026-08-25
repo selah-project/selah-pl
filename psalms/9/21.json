@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Ustaw Jahwe ⟨את⟩ trwogę nad nimi — niech poznają ludy, że ⟨są⟩ tylko śmiertelnicy, oni ⟨samymi⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Ustaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "⟨את⟩ trwogę",
+      "marks": "trwogę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "niech poznają"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelniki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:52.346901741Z",
+  "model": "glm-5.3"
+}

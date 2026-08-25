@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Nie zachowali przymierza Elohim i w Jego Torze odmówili chodzenia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "zachowali"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "i w Jego Torze"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmówili"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "chodzenia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:45.118704742Z",
+  "model": "glm-5.3"
+}

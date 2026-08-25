@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Jak one będą ich twórcy, wszyscy, którzy ufają im.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "jak one"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ich twórcy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ufają"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:01.289314666Z",
+  "model": "glm-5.3"
+}

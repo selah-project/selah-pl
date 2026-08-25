@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I zaopatrywał Josef ⟨את⟩ ojca swego i ⟨את⟩ braci swoich, i ⟨את⟩ весь dom ojca swego, chlebem według liczby dzieci.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "i zaopatrywał"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca swego"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "braci swoich"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braci swoich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały dom ojca swego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "według liczby"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "dzieci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:09.537085054Z",
+  "model": "glm-5.3"
+}

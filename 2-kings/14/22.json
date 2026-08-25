@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "On zbudował ⟨את⟩ Elat i przywrócił ją Judzie, po tym jak król spoczął ze swoimi ojcami.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "i przywrócił ją"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judzie"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po tym jak"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "spoczął"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoimi ojcami"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:48.381739929Z",
+  "model": "glm-5.3"
+}

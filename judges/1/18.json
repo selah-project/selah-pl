@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I zdobył Jehuda ⟨את⟩ Azzę i ⟨את⟩ granicę jej, oraz ⟨את⟩ Aszkelon i ⟨את⟩ granicę jej, oraz ⟨את⟩ Ekron i ⟨את⟩ granicę jej.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "I zdobył"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzę"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "granicę jej"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "granicę jej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Aszkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aszkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "granicę jej"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "granicę jej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "granicę jej"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "granicę jej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:32.348629756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Pouczający Asafa. Dlaczego, Elohim, odrzuciłeś na zawsze? Dymi gniew twój na trzodę twego pastwiska.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pouczający"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "odrzuciłeś"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "Dymi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gniew twój"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "na trzodę"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "twego pastwiska"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.145381836Z",
+  "model": "glm-5.3"
+}

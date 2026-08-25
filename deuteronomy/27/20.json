@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty leżący z żoną ojca swego, bo odsłonił skraj ⟨szaty⟩ ojca swego; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leżący"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żoną"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odsłonił"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skraj ⟨szaty⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:58.828090303Z",
+  "model": "glm-5.3"
+}

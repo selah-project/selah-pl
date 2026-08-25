@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I pobłogosławił Jaakow ⟨את⟩ Paro i wyszedł sprzed oblicza Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:09.536753285Z",
+  "model": "glm-5.3"
+}

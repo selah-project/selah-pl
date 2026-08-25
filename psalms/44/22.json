@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Czyż Elohim nie zbada tego? Bo ⟨on⟩ zna tajemnice serca.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "zbada"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "tajemnice"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:20.728674236Z",
+  "model": "glm-5.3"
+}

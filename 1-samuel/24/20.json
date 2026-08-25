@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Bo jeśli mężczyzna znajdzie ⟨את⟩ swego wroga i puści go drogą dobrą — a Jahwe niech ci odpłaci dobrem zamiast dnia tego, który to uczyniłeś mi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "bo jeśli"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "znajdzie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego wroga"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "swego wroga"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "i puści go"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrą"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "niech ci odpłaci"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:14.047413503Z",
+  "model": "glm-5.3"
+}

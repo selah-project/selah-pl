@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 101,
+  "translation": "Dla Dawida, psalm. Chesed i prawo zaśpiewam, Tobie, Jahwe, zagram.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dla Dawida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed (wierną miłość)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i prawo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zaśpiewam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tobie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zagram (na strunach)"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.552393792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jahwe sądzi ludy: rozsądź mnie, Jahwe, według mojej sprawiedliwości i według mojej niewinności, która ⟨jest⟩ na mnie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sądzi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "rozsądź mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "według mojej sprawiedliwości"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "i według mojej niewinności"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:42.939235290Z",
+  "model": "glm-5.3"
+}

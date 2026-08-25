@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I spoczął Baasza ze swoimi ojcami, i został pochowany w Tircy; a Ela, jego syn, królował na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i spoczął"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoimi ojcami"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pochowany"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "w Tircy"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a królował"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:26.917087130Z",
+  "model": "glm-5.3"
+}

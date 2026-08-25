@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "który karmił ciebie manem na pustyni, którego nie znali twoi ojcowie — po to, by cię upokorzyć i po to, by cię doświadczyć, by ci wyświadczyć dobro w twojej przyszłości",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "który karmił ciebie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "znali"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "twoi ojcowie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "po to, by"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "cię upokorzyć"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i po to, by"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "cię doświadczyć"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "by ci wyświadczyć dobro"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "w twojej przyszłości"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:51.831080646Z",
+  "model": "glm-5.3"
+}

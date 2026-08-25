@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Nie zamieszkają w ziemi Jahwe, i wróci Efrajim do Micraim, a w Aszszur nieczysty ⟨chleb⟩ będą jedli.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zamieszkają"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i wróci"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micraim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "a w Aszszur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczysty ⟨chleb⟩"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "będą jedli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:52.544929271Z",
+  "model": "glm-5.3"
+}

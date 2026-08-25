@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Zostali wytłumieni w En-Dor, stali się gnójem na roli.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Zostali wytłumieni"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "w"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stali się"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "gnójem"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "na roli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:25.160362726Z",
+  "model": "glm-5.3"
+}

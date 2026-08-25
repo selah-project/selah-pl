@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I wyślę na was ⟨את⟩ zwierz polny, i pozbawi was potomstwa, i wytraci wasze bydło, i zmniejszy ⟨את⟩ was, i opustoszeją wasze drogi.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "I wyślę"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwierz polny"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zwierz"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polny"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "i pozbawi potomstwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "i wytraci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze bydło"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "wasze bydło"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "i zmniejszy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "i opustoszeją"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "wasze drogi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:05.461266576Z",
+  "model": "glm-5.3"
+}

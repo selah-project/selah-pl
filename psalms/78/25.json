@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Chleb mocarzy jadł każdy — żywność zesłał im do sytości.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Chleb"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "mocarzy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jadł"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "żywność"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zesłał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do sytości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:57.658289950Z",
+  "model": "glm-5.3"
+}

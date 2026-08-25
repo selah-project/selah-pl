@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I wybawił ich dla swego imienia, aby oznajmić ⟨את⟩ swoją potęgę.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "I wybawił ich"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dla"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "swego imienia"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "aby oznajmić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją potęgę"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "swoją potęgę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:43.809252262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Otoczyły mnie liny śmierci i ciasnoty Szeola znalazły mnie, udrękę i smutek znajdę.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Otoczyły mnie"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "liny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "i ciasnoty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szeola"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "znalazły mnie"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "udrękę"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "i smutek"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "znajdę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:17.295082446Z",
+  "model": "glm-5.3"
+}

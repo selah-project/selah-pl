@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Nie pomoże bogactwo w dniu gniewu, a sprawiedliwość wybawi od śmierci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "pomoże"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bogactwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gniewu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a sprawiedliwość"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "wybawi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:30.145574191Z",
+  "model": "glm-5.3"
+}

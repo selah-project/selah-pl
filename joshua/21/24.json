@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ajalon i ⟨את⟩ jego pastwiska, ⟨את⟩ Gat-Rimmon i ⟨את⟩ jego pastwiska — miasta cztery.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jego pastwiska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jego pastwiska"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:34.141909414Z",
+  "model": "glm-5.3"
+}

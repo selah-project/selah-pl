@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I weźmiesz ⟨את⟩ jednego barana, i wkładzą Aharon oraz jego synowie ⟨את⟩ swoje ręce na głowę barana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jednego barana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "i wkładają (oprcą)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "oraz jego synowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:14.256221067Z",
+  "model": "glm-5.3"
+}

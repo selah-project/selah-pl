@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 100,
+  "translation": "Wiedzcie, że Jahwe — On ⟨jest⟩ Elohimem; On nas uczynił, a nie my; my — lud Jego i trzoda pastwiska Jego.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Wiedzcie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nas uczynił"
+    },
+    {
+      "surface": "ו",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lud Jego"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i trzoda"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "pastwiska Jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:03.674709368Z",
+  "model": "glm-5.3"
+}

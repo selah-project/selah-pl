@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł: Co uczyniłeś? Głos krwi brata twego woła do mnie z ziemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata twego"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "woła"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:39.360775724Z",
+  "model": "glm-5.3"
+}

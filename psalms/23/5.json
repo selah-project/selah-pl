@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Zastawiasz przed obliczem moim stół naprzeciw ciemiężycieli moich, tuczysz ⟨w⟩ oleju głowę moją, kielich mój — sytość.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Zastawiasz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem moim"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ciemiężycieli moich"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "tuczysz"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨w⟩ oleju"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowę moją"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kielich mój"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "sytość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:08.514564790Z",
+  "model": "glm-5.3"
+}

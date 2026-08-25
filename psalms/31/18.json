@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Jahwe, niech się nie zawstydzę, bo cię wzywałem; niech się zawstydzą bezbożni, niech zamilkną do Szeolu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "się zawstydzę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "cię wzywałem"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "niech się zawstydzą"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "niech zamilkną"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do Szeolu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:35.017668796Z",
+  "model": "glm-5.3"
+}

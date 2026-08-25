@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Ziemia dała swój plon: pobłogosławi nas Elohim, nasz Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dała"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "swój plon"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "pobłogosławi nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nasz Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:23.984998665Z",
+  "model": "glm-5.3"
+}

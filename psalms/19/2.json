@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Niebiosa opowiadają chwałę Ela, a dzieło rąk jego obwieszcza sklepienie.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Niebiosa"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "opowiadają"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "a dzieło"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "rąk jego"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "obwieszcza"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sklepienie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:48.847991191Z",
+  "model": "glm-5.3"
+}

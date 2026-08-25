@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Jak uderzenie jego uderzającego — ⟨ono⟩ go uderzyło? Czy jak zabójstwo jego zabitych — ⟨ich⟩ zabito?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Jak uderzenie"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "jego uderzającego"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "uderzyło go"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "jak zabójstwo"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "jego zabitych"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabito"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:28.639140273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I odpowiedział kapłan ⟨את⟩ Dawida i rzekł: nie ma chleba pospolitego pod moją ręką, lecz chleb święty jest ⟨tu⟩ — jeśli zachowali się młodzieńcy ⟨jedynie⟩ od kobiety.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpowiedział"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "חל",
+      "gloss": "pospolitego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją ręką"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "zachowali się"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "młodzieńcy"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jedynie"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "od kobiety"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:16.698054547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I wziął Awram ⟨את⟩ Saraj, żonę swoją, i ⟨את⟩ Lota, syna brata swojego, i ⟨את⟩ cały ich dobytek, który nabyli, i ⟨את⟩ nefesz, które pozyskali w Charanie; i wyszli, by iść do ziemi Kanaan, i przyszli do ziemi Kanaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraj"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "żonę swoją"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata swojego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały ich dobytek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ich dobytek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "nabyli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nefesz"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "pozyskali"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "w Charanie"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "by iść"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:42.391728481Z",
+  "model": "glm-5.3"
+}

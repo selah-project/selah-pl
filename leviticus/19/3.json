@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Każdy swoją matkę i swojego ojca będzie się bał, a ⟨את⟩ moje szabaty będziecie strzec — Ja, Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "swoją matkę"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "i swojego ojca"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "będziecie się bać"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje szabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "moje szabaty"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "będziecie strzec"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.906043019Z",
+  "model": "glm-5.3"
+}

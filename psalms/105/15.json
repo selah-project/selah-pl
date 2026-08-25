@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Nie dotykajcie moich pomazańców i moim prorokom nie czyńcie złego!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dotykajcie"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "moich pomazańców"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "i moim prorokom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "czyńcie złego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:32.151183539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I stało się, gdy lud wyruszył ze swoich namiotów, aby przeprawić się przez ⟨את⟩ Jarden, a kapłani niosący aron przymierza ⟨szli⟩ przed ludem —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "gdy wyruszył"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "ze swoich namiotów"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "aby przeprawić się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "przez Jarden"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "a kapłani"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "niosący"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:19.922017110Z",
+  "model": "glm-5.3"
+}

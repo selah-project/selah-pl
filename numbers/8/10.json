@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przyprowadzisz ⟨את⟩ Lewitów przed Jahwe, i położą synowie Jisraela ⟨את⟩ swoje ręce na Lewitach.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "i przyprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewitów"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewitów"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "i położą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewitach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:39.348681976Z",
+  "model": "glm-5.3"
+}

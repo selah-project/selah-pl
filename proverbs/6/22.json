@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Gdy kroczysz, poprowadzi ⟨את⟩ ciebie; gdy się kładziesz, będzie czuwać nad tobą; a gdy się przebudzisz, ona z tobą rozmawiać będzie.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "gdy kroczysz"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "poprowadzi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "gdy się kładziesz"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "będzie czuwać"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tobą"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "a gdy się przebudzisz"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "z tobą rozmawiać będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:01.543289592Z",
+  "model": "glm-5.3"
+}

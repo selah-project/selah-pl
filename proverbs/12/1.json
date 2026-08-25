@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Miłujący karność miłuje poznanie, a nienawidzący nagany ⟨jest⟩ bydlęcy.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "miłujący"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "karność"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miłuje"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznanie"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "a nienawidzący"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "nagany"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bydlęcy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:46.157263388Z",
+  "model": "glm-5.3"
+}

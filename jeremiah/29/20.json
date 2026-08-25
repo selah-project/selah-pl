@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A wy słuchajcie słowa Jahwe, całej wygnanej społeczności, którą posłałem z Jeruszalaim do Babilonu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a wy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "wygnanej społeczności"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "posłałem"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruszalaim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Babilonu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:55:01.793501626Z",
+  "model": "glm-5.3"
+}

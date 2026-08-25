@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "które rozwarły moje wargi, a mówiło moje usta w moim ucisku",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "rozwarły"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "moje wargi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a mówiło"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moje usta"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "w moim ucisku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:34.088536144Z",
+  "model": "glm-5.3"
+}

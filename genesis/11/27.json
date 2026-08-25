@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A to ⟨są⟩ dzieje Teracha: Terach zrodził ⟨את⟩ Awrama, ⟨את⟩ Nachora i ⟨את⟩ Harana; a Haran zrodził ⟨את⟩ Lota.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A to"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dzieje"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "a Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:19.648364130Z",
+  "model": "glm-5.3"
+}

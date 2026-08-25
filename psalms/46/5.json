@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Rzeka — jej strumienie rozradują miasto Elohim, świętość przybytków Elijona.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Rzeka"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "jej strumienie"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rozradują"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętość"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "przybytków"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijona"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:13.268314429Z",
+  "model": "glm-5.3"
+}

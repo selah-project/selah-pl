@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I leczyli ⟨את⟩ złamanie mego ludu lekko, mówiąc: Pokój, pokój — a pokoju nie ma.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "i leczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złamanie"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "złamanie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mego ludu"
+    },
+    {
+      "surface": "על",
+      "gloss": "lekko"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lekko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    }
+  ],
+  "timestamp": "2026-08-25T00:43:41.920664158Z",
+  "model": "glm-5.3"
+}

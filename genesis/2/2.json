@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I Elohim ukończył w siódmym dniu swoją pracę, którą wykonał, i odpoczął w siódmym dniu od całej swojej pracy, którą wykonał.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ukończył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmym"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "swoją pracę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wykonał"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "odpoczął"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmym"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od całej"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "swojej pracy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wykonał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:20.382549484Z",
+  "model": "glm-5.3"
+}

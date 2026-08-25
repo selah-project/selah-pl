@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I porzucili tam ⟨את⟩ swoich bogów, i rozkazał Dawid, i spłonęli w ogniu.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "i porzucili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich bogów"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "swoich bogów"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "i spłonęli"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:50.568402587Z",
+  "model": "glm-5.3"
+}

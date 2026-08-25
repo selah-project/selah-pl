@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Bez winy gonią i przygotowują się; przebudź się ku spotkaniu mnie i zobacz.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winy"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "gonią"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "i przygotowują się"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "przebudź się"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ku spotkaniu mnie"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i zobacz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:42.734824976Z",
+  "model": "glm-5.3"
+}

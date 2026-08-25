@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Ja powiedziałem w moim pośpiechu: każdy człowiek ⟨to⟩ kłamca.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "w moim pośpiechu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kłamca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.466664220Z",
+  "model": "glm-5.3"
+}

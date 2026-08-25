@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Bo zanim chłopiec pozna wołać: Mój ojcze i moja matko, poniesione zostanie ⟨את⟩ bogactwo Dammeszeku i ⟨את⟩ łup Szomronu przed obliczem króla Aszszura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopiec"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wołać"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mój ojcze"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i moja matko"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "poniesione zostanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogactwo Dammeszeku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bogactwo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammeszeku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "łup Szomronu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "łup"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomronu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:30.320662592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Wszyscy twoi wodzowie pouciekali razem, od łuku związani; wszyscy znalezieni w tobie związani są razem, z daleka uciekli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszyscy"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "twoi wodzowie"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "pouciekali"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "od łuku"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "związani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "znalezieni w tobie"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "związani"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "są razem"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "uciekli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:24:34.355448765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I przygotowali ⟨את⟩ dar, aż przyjdzie Josef w południe, bo usłyszeli, że tam będą jeść chleb.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "i przygotowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "w południe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłyszeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "będą jeść"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:40.202227756Z",
+  "model": "glm-5.3"
+}

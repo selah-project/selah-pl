@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "i żeby żył nadal na zawsze, nie ⟨ma⟩ zobaczyć otchłani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i-żył"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nadal"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na-zawsze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zobaczy"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "otchłań"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:54.323919048Z",
+  "model": "glm-5.3"
+}

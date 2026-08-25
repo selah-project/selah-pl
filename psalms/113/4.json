@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 113,
+  "translation": "Wyniosły ponad wszystkie narody ⟨jest⟩ Jahwe, ponad niebiosa ⟨jest⟩ Jego chwała.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Wyniosły"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "Jego chwała"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:37.145523106Z",
+  "model": "glm-5.3"
+}

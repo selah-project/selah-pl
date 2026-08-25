@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Bo do sprawiedliwości powróci sąd, a za nim wszyscy prości serca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwości"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "powróci"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sąd"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "a za nim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prości"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:07.567688733Z",
+  "model": "glm-5.3"
+}

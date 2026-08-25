@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Nie zabijaj ich, by nie zapomniał lud mój; wstrząśnij ich siłą swoją i strąć ich, tarczo nasza, Adonai!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "zabijaj ich"
+    },
+    {
+      "surface": "פן",
+      "gloss": "by nie"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "zapomniał"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lud mój"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "wstrząśnij ich"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "siłą swoją"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "i strąć ich"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "tarczo nasza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.819740101Z",
+  "model": "glm-5.3"
+}

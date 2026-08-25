@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Tam pochowano ⟨את⟩ Awrahama i ⟨את⟩ Sarę, jego żonę; tam pochowano ⟨את⟩ Jicchaka i ⟨את⟩ Rebekę, jego żonę; a tam pochowałem ⟨את⟩ Leę.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pochowano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Sarę"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żonę"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pochowano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Rebekę"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebekę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żonę"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "pochowałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leę"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:39.575356679Z",
+  "model": "glm-5.3"
+}

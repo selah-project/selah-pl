@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "I rzekł Paro: Wstąp i pogrzeb ⟨את⟩ ojca twego, jak ci dał przysięgę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Wstąp"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "i pogrzeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca twego"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojca twego"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ci dał przysięgę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:10.602601109Z",
+  "model": "glm-5.3"
+}

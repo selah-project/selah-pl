@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Słowa moje usłysz, Jahwe, zrozum jęk mój.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Słowa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "usłysz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "zrozum"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "jęk mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:11.301731206Z",
+  "model": "glm-5.3"
+}

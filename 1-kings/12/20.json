@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I stało się, gdy usłyszał cały Iszrael, że powrócił Jarobam, posłali i zawołali go do zgromadzenia, i królem uczynili go nad całym Iszraelem; nie było ⟨takich, którzy by⟩ szli za domem Dawida, oprócz pokolenia Jehudy samego.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שב",
+      "gloss": "powrócił"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "posłali"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "i zawołali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "i królem uczynili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraelem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "idących za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "oprócz"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:54.903290526Z",
+  "model": "glm-5.3"
+}

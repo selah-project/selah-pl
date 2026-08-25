@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Kierownikowi chóru; ⟨dla⟩ synów Koracha, psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:04.294606438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Ty ⟨jesteś⟩ osłoną dla mnie; od ciśnienia strzeżesz mnie; okrzykami wybawienia otaczasz mnie. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "osłoną"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "od ciśnienia"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "strzeżesz mnie"
+    },
+    {
+      "surface": "רני",
+      "gloss": "okrzykami"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "wybawienia"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "otaczasz mnie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:08.702333245Z",
+  "model": "glm-5.3"
+}

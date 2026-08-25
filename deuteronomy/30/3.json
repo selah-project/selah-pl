@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "wtedy Jahwe, twój Elohim, przywróci ⟨את⟩ twą dolę wygnańczą i zlituje się nad tobą, i wróci, i zbierze cię spośród wszystkich ludów, do których cię rozproszył Jahwe, twój Elohim, tam.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "wtedy przywróci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twą dolę wygnańczą"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "twą dolę wygnańczą"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "i zlituje się nad tobą"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i wróci"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "i zbierze cię"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "spośród wszystkich"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "do których"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "cię rozproszył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:24.906753342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I czynił Achab, syn Omri, złe w oczach Jahwe, bardziej niż wszyscy, którzy byli przed nim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I czynił"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "złe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bardziej niż wszyscy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "byli przed nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:21.265256898Z",
+  "model": "glm-5.3"
+}

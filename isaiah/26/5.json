@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Bo poniżył mieszkańców wyżyn, miasto niedostępne; poniża je, poniża aż do ziemi, dotyka go aż do prochu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "השח",
+      "gloss": "poniżył"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wyżyn"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "niedostępne"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "poniża je"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "poniża"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "dotyka go"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prochu"
+    }
+  ],
+  "timestamp": "2026-08-25T05:23:08.214832708Z",
+  "model": "glm-5.3"
+}

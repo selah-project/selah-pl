@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I napełniło się siedem dni po tym, jak Jahwe uderzył ⟨את⟩ Nil.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "i napełniło się"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "uderzył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nil"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nil"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:35.284186466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Towarzyszem jestem wszystkich, którzy się Ciebie boją, i tych, którzy strzegą Twoich ustaw.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Towarzyszem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "się Ciebie boją"
+    },
+    {
+      "surface": "ו ל שמרי",
+      "gloss": "i tych, którzy strzegą"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Twoich ustaw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:56.467248429Z",
+  "model": "glm-5.3"
+}

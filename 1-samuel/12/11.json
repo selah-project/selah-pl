@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I posłał Jahwe ⟨את⟩ Jerubbaala, i ⟨את⟩ Bedana, i ⟨את⟩ Jiftacha, i ⟨את⟩ Szemuela, i wyzwolił ⟨את⟩-was z ręki waszych wrogów dokoła, i mieszkaliście bezpiecznie.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaala"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Bedana"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jiftacha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuela"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i wyzwolił"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-was",
+      "marks": "was (składnik dopełnienia)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "waszych wrogów"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "i mieszkaliście"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bezpiecznie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:35.139683500Z",
+  "model": "glm-5.3"
+}

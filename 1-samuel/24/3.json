@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wziął Szaul trzy tysiące mężczyzn wybranych z całego Jisraela i poszedł szukać ⟨את⟩ Dawida i jego mężów na przedzie skał kozic.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I wziął"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysiące"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzn"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wybranych"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jego mężów"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "przedem"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skał"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "kozic"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:31.142541754Z",
+  "model": "glm-5.3"
+}

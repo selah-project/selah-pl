@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I usunęli synowie Izraela ⟨את⟩ Baalim i ⟨את⟩ Aszterot, i służyli ⟨את⟩ Jahwe samemu.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "I usunęli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aszterot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Aszterot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samemu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:35:23.725908546Z",
+  "model": "glm-5.3"
+}

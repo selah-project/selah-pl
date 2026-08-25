@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Jego winy schwytają ⟨את⟩ niegodziwca, i w powrozach swego grzechu ⟨on⟩ będzie podtrzymany.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Jego winy"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "schwytają go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niegodziwca"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "niegodziwca"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "i w powrozach"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "swego grzechu"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "będzie podtrzymany"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:56.346377559Z",
+  "model": "glm-5.3"
+}

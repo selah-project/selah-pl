@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I żył Noach po potopie trzysta lat i pięćdziesiąt lat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopie"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzysta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(set)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:29.270450171Z",
+  "model": "glm-5.3"
+}

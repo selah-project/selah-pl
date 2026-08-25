@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przywołał Paro Mosze i rzekł: Idźcie, służcie ⟨את⟩ Jahwe; tylko trzody wasze i bydło wasze niech zostaną — także dzieci wasze niech idą z wami.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I przywołał"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Idźcie"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "służcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "trzody wasze"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "i bydło wasze"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "niech zostaną"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "dzieci wasze"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "niech idą"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:25.808337153Z",
+  "model": "glm-5.3"
+}

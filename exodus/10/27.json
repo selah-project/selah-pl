@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Jahwe wzmocnił ⟨את⟩ serce Faraona, i nie chciał ich wypuścić.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wzmocnił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ich wypuścić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:19.501058836Z",
+  "model": "glm-5.3"
+}

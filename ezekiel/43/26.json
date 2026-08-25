@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Siedem dni będą przebłagiwać ⟨את⟩ ołtarz i oczyszczą ⟨את⟩ go, i wypełnią jego rękę.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "będą przebłagiwać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "i oczyszczą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i wypełnią"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jego rękę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:08.346688794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Kamień łaski ⟨jest⟩ łapówka w oczach jej właściciela; ku wszystkiemu, ku czemu się zwróci, odniesie powodzenie.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kamień"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaski"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "łapówka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "jej właściciela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cemu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "się zwróci"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "odniesie powodzenie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:52.012132827Z",
+  "model": "glm-5.3"
+}

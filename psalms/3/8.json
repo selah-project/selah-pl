@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Powstań, Jahwe! Wybaw mnie, mój Elohim! Bo zbiłeś ⟨את⟩ wszystkich moich wrogów w policzek, zęby bezbożnych połamałeś.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "powstań"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "wybaw mnie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mój Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "zbiłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich moich wrogów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moich wrogów"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "w policzek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zęby"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "połamałeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:47.604699575Z",
+  "model": "glm-5.3"
+}

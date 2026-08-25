@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Wzeszło w ciemności światło dla prostych — łaskawy, i litościwy, i sprawiedliwy.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Wzeszło"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "w ciemności"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "dla prostych"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "łaskawy"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "i litościwy"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "i sprawiedliwy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:36.940405509Z",
+  "model": "glm-5.3"
+}

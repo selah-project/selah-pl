@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zebrał Dawid ⟨את⟩ cały lud, i poszedł do Rabby, i walczył przeciw niej, i zdobył ją.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "do Rabby"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i walczył"
+    },
+    {
+      "surface": "בה",
+      "gloss": "przeciw niej"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "i zdobył ją"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:40.655893810Z",
+  "model": "glm-5.3"
+}

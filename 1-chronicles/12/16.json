@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Ci to ⟨są⟩ ci, którzy przeszli ⟨את⟩ Jordan w miesiącu pierwszym, a on napełniał ⟨się⟩ na wszystkie swoje brzegi, i przepędzili ⟨את⟩ wszystkich ⟨mieszkańców⟩ dolin ku wschodowi i ku zachodowi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "הם",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przeszli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "w miesiącu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pierwszym"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "napełniał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "swoje brzegi"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "i przepędzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dolin"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ku wschodowi"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "i ku zachodowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:05.865901303Z",
+  "model": "glm-5.3"
+}

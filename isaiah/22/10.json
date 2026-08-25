@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I ⟨את⟩ domy Jeruszalaim policzyliście, a domy zburzyliście, aby wzmocnić mur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "policzyliście"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "a zburzyliście"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "aby wzmocnić"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mur"
+    }
+  ],
+  "timestamp": "2026-08-25T04:15:11.029693653Z",
+  "model": "glm-5.3"
+}

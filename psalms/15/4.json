@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Wzgardzony w jego oczach ⟨jest⟩ nikczemnik, a ⟨את⟩ bojących się Jahwe czci; przysięga szkodzić i nie zmienia.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "wzgardzony"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "nikczemnik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bojących się Jahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bojących się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "czci"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysięga"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "szkodzić"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "zmienia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:50.470451197Z",
+  "model": "glm-5.3"
+}

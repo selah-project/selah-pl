@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I rozkazał także ⟨את⟩ drugiemu, także ⟨את⟩ trzeciemu, także ⟨את⟩ wszystkim idącym za stadami, mówiąc: według tego słowa będziecie mówić do Ezawa, gdy spotkacie ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drugiemu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiemu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzeciemu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzeciemu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "idącym"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "stadami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "będziecie mówić"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezawa"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "gdy spotkacie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "jego (Ezawa)"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:56.559085502Z",
+  "model": "glm-5.3"
+}

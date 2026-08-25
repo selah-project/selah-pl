@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A ⟨את⟩ dom Jehudy ulituję się nad nim i wybawię ich przez Jahwe, Elohim ich, i nie wybawię ich łukiem, ani mieczem, ani wojną, koniami ani jeźdźcami.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ulituję się"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "i wybawię ich"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "przez Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ich"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "wybawię ich"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "łukiem"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ani mieczem"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ani wojną"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "końmi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ani jeźdźcami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:30.427941619Z",
+  "model": "glm-5.3"
+}

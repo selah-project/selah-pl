@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I powstał po nim Jair, Giladczyk; i sądził ⟨את⟩ Jisraela dwadzieścia i dwa lata.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po nim"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladczyk"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "i sądził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i dwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lata"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:39.508943289Z",
+  "model": "glm-5.3"
+}

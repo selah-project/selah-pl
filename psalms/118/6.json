@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Jahwe ⟨jest⟩ dla mnie, nie będę się lękał — co uczyni mi człowiek?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "będę się lękał"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.478566490Z",
+  "model": "glm-5.3"
+}

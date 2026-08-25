@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I służyli synowie Jisraela ⟨את⟩ Eglonowi, królowi Moabu, osiemnaście lat.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglonowi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonowi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osiem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:13.739486940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Przywódcy chóru, Jedutunowi — psalm Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "przywódcy chóru"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Jedutunowi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:44.742641938Z",
+  "model": "glm-5.3"
+}

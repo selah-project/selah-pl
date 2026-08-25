@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł Jahwe do Moszego: Wejdź do Paro i mów do niego: Tak powiedział Jahwe, Elohim Hebrajczyków: Wyślij ⟨את⟩ mój lud, a niech mi służy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wejdz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i mów"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczyków"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyślij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "a niech mi służy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:11.491098664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I wybrał Dawida, swego sługę, i wziął go z owczarni, z trzód owiec.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i wybrał"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "swego sługę"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "i wziął go"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "z owczarni"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "owiec"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:07.987723011Z",
+  "model": "glm-5.3"
+}

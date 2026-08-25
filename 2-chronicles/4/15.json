@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "⟨את⟩ morze jedno, i ⟨את⟩ dwanaście wołów pod nim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dwanaście wołów"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wołów"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naście"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pod nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:55:00.222210296Z",
+  "model": "glm-5.3"
+}

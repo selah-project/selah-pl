@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Teraz idź i pobij ⟨את⟩ Amaleka, i obłoż ⟨את⟩ klątwą wszystko, co ma, i nie zlituj się nad nim, i zabij od mężczyzny aż do kobiety, od dziecięcia aż do ssącego, od wołu aż do owcy, od wielbłąda aż do osła.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "i pobij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "i obłoż klątwą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "zlituj się"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "i zabij"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od mężczyzny"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "od dziecięcia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ssącego"
+    },
+    {
+      "surface": "משור",
+      "gloss": "od wołu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "שה",
+      "gloss": "owcy"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "od wielbłąda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:58.157373303Z",
+  "model": "glm-5.3"
+}

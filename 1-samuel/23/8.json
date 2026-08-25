@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zwołał Szaweł ⟨את⟩ całego ludu do bitwy, abyzejść do Keili, aby oblegać Dawida i jego ludzi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i zwołał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaweł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego ludu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do bitwy"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "abyzejść"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "do Keili"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "aby oblegać"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jego ludzi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:08.746785838Z",
+  "model": "glm-5.3"
+}

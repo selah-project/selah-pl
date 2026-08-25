@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I nie chciał Jahwe wytracić ⟨את⟩ Jehudy ze względu na Dawida, sługę swojego, tak jak mu powiedział, że da jemu świecę synom jego przez wszystkie dni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "wytracić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sługę swojego"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "że da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "świecę"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "synom jego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "przez wszystkie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:27.772226843Z",
+  "model": "glm-5.3"
+}

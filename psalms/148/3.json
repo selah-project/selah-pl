@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Chwalcie go, słońce i księżycu, chwalcie go, wszystkie gwiazdy światła!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie go"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "i księżycu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "gwiazdy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:49.259059633Z",
+  "model": "glm-5.3"
+}

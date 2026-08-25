@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Czy próbowano słowa ⟨do ciebie⟩, a ⟨ty⟩ się znużysz? A powstrzymać się od słów — kto zdoła?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "czy próbowano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨do ciebie⟩"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "a ⟨ty⟩ się znużysz"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "a powstrzymać się"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "od słów"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:05.009394107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "A teraz chodź, zawrzyjmy przymierze — ja i ty — i ⟨niech⟩ ⟨ono⟩ będzie na świadka między mną a tobą.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "chodź"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "zawrzyjmy (wytnijmy)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i ty"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na świadka"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:37.884322471Z",
+  "model": "glm-5.3"
+}

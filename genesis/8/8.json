@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wypuścił ⟨את⟩ gołębicę od siebie, aby zobaczyć, czy zelżały wody z powierzchni <rozumiano: oblicza> gruntu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wypuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gołębicę"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "gołębicę"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-od niego"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby zobaczyć"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "czy zelżały"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z powierzchni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gruntu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:18.493199737Z",
+  "model": "glm-5.3"
+}

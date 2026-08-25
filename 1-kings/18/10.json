@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Żywy jest Jahwe, Elohim twój: jeśli jest naród i królestwo, dokąd nie posłał pan mój tam, by cię szukać, i powiedzieli: Nie ma go — i przyprzysiągł ⟨את⟩ królestwo i ⟨את⟩ naród, że cię nie znajdą.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "żywy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "i królestwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dokąd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posłał"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pan mój"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "by cię szukać"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "i przyprzysiągł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "królestwo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naród"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "znajdą cię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:18.406460439Z",
+  "model": "glm-5.3"
+}

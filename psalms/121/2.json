@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Moja pomoc ⟨jest⟩ od Jahwe, twórcy niebios i ziemi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Moja pomoc"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "twórcy"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:03.919292415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I położy ⟨את⟩ swoją rękę na głowie ofiary za grzech, i zabije ⟨את⟩ ofiarę za grzech w miejscu ⟨palenia⟩ całopalenia.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "i położy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowie"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiarę za grzech"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiarę za grzech"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨palenia⟩ całopalenia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:36.097845278Z",
+  "model": "glm-5.3"
+}

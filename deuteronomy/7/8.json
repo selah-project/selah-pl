@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo z miłości Jahwe ⟨do was⟩ i z dochowania przysięgi, którą przysiągł waszym ojcom, wyprowadził was Jahwe ⟨את⟩ ręką mocną i wykupił was z domu niewolników, z ręki Paroha, króla Micrajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "z miłości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "wy — obiekt miłości Jahwe"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "i z dochowania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przysięgi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "przysięgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysiągł"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "waszym ojcom"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wyprowadził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mocną"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "i wykupił cię"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "niewolników"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:01.031788132Z",
+  "model": "glm-5.3"
+}

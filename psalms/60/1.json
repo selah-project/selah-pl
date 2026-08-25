@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Przewodniczącemu, na ⟨tuneję⟩ Szuszan-Edut, mikhtam Dawida, do nauczenia",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodniczącemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Szuszan(-Edut)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "⟨Świadectwo⟩"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "do nauczenia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.579341510Z",
+  "model": "glm-5.3"
+}

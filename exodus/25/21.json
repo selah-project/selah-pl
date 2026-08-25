@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I położysz ⟨את⟩ kaporyt na arce, od góry, a do arki włożysz ⟨את⟩ świadectwo, które dam tobie.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i położysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporyt"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporyt"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arce"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "od góry"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a do"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "włożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świadectwo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "świadectwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:56.201863361Z",
+  "model": "glm-5.3"
+}

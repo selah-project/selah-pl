@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Przyłącz się do mnie i odpowiedz mi; błądzę w moim rozpaczaniu i jęczę.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Przyłącz się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "i odpowiedz mi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "błądzę"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "w moim rozpaczaniu"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "i jęczę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.086958062Z",
+  "model": "glm-5.3"
+}

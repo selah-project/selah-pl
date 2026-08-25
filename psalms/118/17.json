@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Nie umrę, bo żyć będę i opowiem dzieła Jaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "umrę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "żyć będę"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "i opowiem"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dzieła"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:24.411628619Z",
+  "model": "glm-5.3"
+}

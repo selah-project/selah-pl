@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wstali wcześnie rano, a słońce wzeszło nad wodami, i ujrzał Moab z naprzeciwka ⟨את⟩ wody czerwone jak krew.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "i wstali wcześnie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "a słońce"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "wzeszło"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "z naprzeciwka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "czerwone"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "jak krew"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:44.228509817Z",
+  "model": "glm-5.3"
+}

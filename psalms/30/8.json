@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Jahwe, w Twojej łasce postawiłeś ⟨na⟩ moją górę moc; skryłeś Twoje oblicze — zostałem zrozpaczony.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "w Twojej łasce"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "postawiłeś"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "⟨na⟩ moją górę"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moc"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "skryłeś"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Twoje oblicze"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "zostałem"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "zrozpaczony"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:49.265494169Z",
+  "model": "glm-5.3"
+}

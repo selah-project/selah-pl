@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zawołał Eli ⟨את⟩ Szemuëla, i powiedział: Szemuëlu, synu mój! A on powiedział: Oto jestem.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szemuëla"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuëla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuëlu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu mój"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto jestem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:18.631457945Z",
+  "model": "glm-5.3"
+}

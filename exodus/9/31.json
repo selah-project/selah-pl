@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A len i jęczmień zostały pobite, ponieważ jęczmień ⟨był⟩ w kłosie, a len ⟨był⟩ w kwiatach.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "a len"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "i jęczmień"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "zostały pobite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "jęczmień"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "w kłosie"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "a len"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "w kwiatach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:45.058565594Z",
+  "model": "glm-5.3"
+}

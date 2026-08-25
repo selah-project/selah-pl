@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Co ⟨tobie⟩, morze, że uciekasz? Jordanie, że zawracasz w tył?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tobie⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "uciekasz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanie"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "zawracasz"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "w tył"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.143462572Z",
+  "model": "glm-5.3"
+}

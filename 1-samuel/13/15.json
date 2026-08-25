@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wstał Szmuel, i udał się z Gilgal do Giwat Binjamina; a Szaul przeliczył ⟨את⟩ lud znajdujący się przy nim, około sześciuset mężów.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i udał się"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "do Giwat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i przeliczył"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "znajdujący się"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "przy nim"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "około sześciu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:01.211437750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "i ⟨את⟩ owieczkę odda czterokrotnie, ponieważ uczynił ⟨את⟩ tę rzecz i ponieważ nie miał litości.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "owieczkę"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "owieczkę"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "czterokrotnie"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę rzecz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i ponieważ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "miał litości"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:34.667520396Z",
+  "model": "glm-5.3"
+}

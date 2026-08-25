@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Liczy liczbę gwiazd, wszystkim imiona nadaje.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Liczy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "liczbę"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "gwiazd"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imiona"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nadaje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.696298860Z",
+  "model": "glm-5.3"
+}

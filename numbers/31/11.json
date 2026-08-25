@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I zabrali ⟨את⟩ cały łup oraz ⟨את⟩ cały zdobycz — ⟨to⟩ w ludziach i w bydle.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały łup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "łup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "całą zdobycz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "zdobycz"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "w ludziach"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i w bydle"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:11.958395702Z",
+  "model": "glm-5.3"
+}

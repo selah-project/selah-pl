@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Grabią go wszyscy przechodzący drogą, stał ⟨się⟩ hańbą dla swoich sąsiadów.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "Grabią go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "przechodzący"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "היה",
+      "gloss": "stał ⟨się⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "dla swoich sąsiadów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:25.688080580Z",
+  "model": "glm-5.3"
+}

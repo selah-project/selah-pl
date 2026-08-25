@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "A ja opowiadać będę na zawsze, śpiewam Elohim Jaakowa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "opowiadać będę"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "śpiewam"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:03.178798672Z",
+  "model": "glm-5.3"
+}

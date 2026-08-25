@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I stało się, gdy usłyszał Achab ⟨את⟩ te słowa, to rozdarł swoje szaty i włożył wór na swoje ciało, i pościł, i leżał w worze, i chodził powoli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "te słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i rozdarł"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i włożył"
+    },
+    {
+      "surface": "שק",
+      "gloss": "wór"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "swoje ciało"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "i pościł"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "i leżał"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "w worze"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "i chodził"
+    },
+    {
+      "surface": "אט",
+      "gloss": "powoli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:53.834804455Z",
+  "model": "glm-5.3"
+}

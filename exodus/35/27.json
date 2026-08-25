@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I przywódcy przynieśli ⟨את⟩ kamienie szoham i ⟨את⟩ kamienie oprawne — na efod i na naramiennik.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "i przywódcy"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "przynieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamienie szoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "szoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kamienie oprawne"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "oprawne"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "na efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "i na naramiennik"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:30.641761854Z",
+  "model": "glm-5.3"
+}

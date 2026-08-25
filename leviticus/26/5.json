@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I sięgnie dla was żniwo ⟨את⟩ winobranie, a winobranie sięgnie ⟨את⟩ siew, i będziecie jedli swój chleb do sytości, i będziecie mieszkać bezpiecznie w swojej ziemi.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "i sięgnie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "żniwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winobranie"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "winobranie"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "a winobranie"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "sięgnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siew"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siew"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "i będziecie jedli"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "swój chleb"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do sytości"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "i będziecie mieszkać"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpiecznie"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "w swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:51.700131914Z",
+  "model": "glm-5.3"
+}

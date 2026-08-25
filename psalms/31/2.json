@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "W Tobie, Jahwe, szukam schronienia; niech nigdy nie będę zawstydzony; w Twojej sprawiedliwości wyrwij mnie.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "W Tobie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "szukam schronienia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "będę zawstydzony"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nigdy"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "w Twojej sprawiedliwości"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "wyrwij mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:57.952352210Z",
+  "model": "glm-5.3"
+}

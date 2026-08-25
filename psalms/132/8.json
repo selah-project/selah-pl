@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Powstań, Jahwe, do swego odpoczynku — Ty i arka Twojej potęgi!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "powstań"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "do swego odpoczynku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "i arka"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "Twojej potęgi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.093212135Z",
+  "model": "glm-5.3"
+}

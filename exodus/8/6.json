@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł: Na jutro. I rzekł: Jak powiesz — abyś poznał, że nikt nie ⟨jest⟩ jak Jahwe, Elohim nasz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "na jutro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "jak powiesz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "poznałeś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nikt nie"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jak Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:47.103646797Z",
+  "model": "glm-5.3"
+}

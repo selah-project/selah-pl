@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A teraz idź, a ja będę z twoimi ustami i pouczę cię, co masz mówić.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "będę"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twoimi ustami"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "i pouczę cię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "masz mówić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:42.494201926Z",
+  "model": "glm-5.3"
+}

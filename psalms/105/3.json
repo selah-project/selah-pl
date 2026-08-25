@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Chlubcie się ⟨w⟩ jego świętym imieniem; niech się raduje serce szukających Jahwe!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Chlubcie się"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨w⟩ jego świętym imieniem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jego świętym imieniem"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "niech się raduje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "szukających"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:49.238677024Z",
+  "model": "glm-5.3"
+}

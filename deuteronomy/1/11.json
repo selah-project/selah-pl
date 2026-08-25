@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jahwe, Elohim ojców waszych, niech doda do was takich jak wy tysiąc razy, i niech pobłogosławi ⟨את⟩ wam, jak mówił wam!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "ojców waszych"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "niech doda"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "takich jak wy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąc"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "razy"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i niech pobłogosławi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:31.927535347Z",
+  "model": "glm-5.3"
+}

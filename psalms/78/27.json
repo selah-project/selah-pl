@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I zesłał na nich deszcz ciała jak proch, a jak piasek mórz — ptactwo skrzydlate.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "I zesłał deszcz"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "jak proch"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ciała"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "a jak piasek"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mórz"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skrzydlate"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:57.658801330Z",
+  "model": "glm-5.3"
+}

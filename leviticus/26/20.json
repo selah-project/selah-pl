@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I na próżno wyczerpie się siła wasza, i nie wyda ziemia wasza ⟨את⟩ plonu swego, i drzewa tej ziemi nie dadzą owocu swego.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "i wyczerpie się"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "na próżno"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "siła wasza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wyda"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ziemia wasza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plon swój"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "plon swój"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "i drzewa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tej ziemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dadzą"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "owoc swój"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:17.523449676Z",
+  "model": "glm-5.3"
+}

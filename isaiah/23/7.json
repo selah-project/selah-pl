@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Czyż to dla was ⟨miasto⟩ weselące, którego starożytność ⟨jest⟩ od dni zamierzchłych? Nogi jego własne niosły je z daleka, by przebywać ⟨tam⟩.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "czyż to"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "weselące"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "od dni"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zamierzchłych"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "starożytność jego"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "niosły je"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "nogi jego"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "by przebywać ⟨tam⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:38.991762068Z",
+  "model": "glm-5.3"
+}

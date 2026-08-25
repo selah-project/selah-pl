@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Uszy mają, lecz nie słyszą; nawet nie ma tchu w ich ustach.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "uszy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mają"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "słyszą"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tchu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "w ich ustach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:38.010865357Z",
+  "model": "glm-5.3"
+}

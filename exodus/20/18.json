@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I cały lud widział ⟨את⟩ głosy i ⟨את⟩ pochodnie i ⟨את⟩ głos szofaru i ⟨את⟩ górę dymiącą; i zobaczył lud, i drżał, i stanął z daleka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "widział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głosy"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "głosy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pochodnie"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "pochodnie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "głos szofaru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "szofaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "górę"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dymiącą"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "i drżał"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z daleka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:20.298041333Z",
+  "model": "glm-5.3"
+}

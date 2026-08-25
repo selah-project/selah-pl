@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Z oszustwa i przemocy wykupi ich duszę, a cenna będzie ich krew w jego oczach.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "z"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "i przemocy"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wykupi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich duszę"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "a cenna"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ich krew"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:37.243461793Z",
+  "model": "glm-5.3"
+}

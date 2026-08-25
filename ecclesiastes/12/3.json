@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "W dniu, gdy zadrżą strażnicy domu i się pochylą mężowie siły, i ustaną młyny, bo ich mało, i zaćmią się patrzący w oknach —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "gdy zadrżą"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "strażnicy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "i się pochylą"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "siły"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "i ustaną"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "młyny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ich mało"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "i zaćmią się"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "patrzący"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "w oknach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:46.686694492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ mury Jeruszalaim dokoła zburzyło całe wojsko Kasditów, które ⟨było⟩ z raw tabachim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mury Jeruszalaim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mury"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "zburzyło"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wojsko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasditów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "רב",
+      "gloss": "raw"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabachim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:31.307867202Z",
+  "model": "glm-5.3"
+}

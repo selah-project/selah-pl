@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Otoczyły mnie, tak, otoczyły mnie — w Imieniu Jahwe ja ich ⟨odetnę⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "otoczyły mnie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tak"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "otoczyły mnie"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w Imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "odetnę ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:19.990738964Z",
+  "model": "glm-5.3"
+}

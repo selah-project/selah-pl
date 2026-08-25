@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wziął ⟨to⟩ z ich ręki, i ukształtował ⟨את⟩ go rylcem, i uczynił go cielcem odlanym; i rzekli: Oto bogowie twoi, Jisraelu, którzy wyprowadzili cię z ziemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z ich ręki"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "i ukształtował"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rylcem"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "rylcem"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "i uczynił go"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "cielcem"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "odlanym"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "bogowie twoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "wyprowadzili cię"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:41.124661345Z",
+  "model": "glm-5.3"
+}

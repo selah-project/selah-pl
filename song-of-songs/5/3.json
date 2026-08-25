@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Zdjęłam ⟨את⟩ moją koszulę — jakże mam ją włożyć z powrotem? Umyłam ⟨את⟩ moje stopy — jakże mam je ubrudzić?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "zdjęłam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją koszulę"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "moją koszulę"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jakże"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "mam ją włożyć"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "umyłam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje stopy"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jakże"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "mam je ubrudzić"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:30.644399414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Wychodzi człowiek do swej pracy i do swojej służby aż do wieczora.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "wychodzi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "do swej pracy"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "i do swojej służby"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wieczora"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:31.071291831Z",
+  "model": "glm-5.3"
+}

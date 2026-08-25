@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I wprowadził ⟨את⟩ rzeczy poświęcone przez swego ojca i rzeczy swoje poświęcone do domu Elohim: srebro i złoto oraz naczynia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzeczy poświęcone przez swego ojca"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "rzeczy poświęcone"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "i rzeczy swoje poświęcone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i złoto"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "oraz naczynia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:48.151217815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Pójdźcie, słuchajcie, a opowiem wszystkim czcicielom Elohim, co uczynił mojej nefesz.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pójdźcie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "a opowiem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "czcicielom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:51.631009648Z",
+  "model": "glm-5.3"
+}

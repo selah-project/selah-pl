@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Umiłowałeś sprawiedliwość, a znienawidziłeś nieprawość; przeto namaścił cię Elohim, Elohim twój, olejem wesela spośród towarzyszy twoich.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "umiłowałeś"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "a znienawidziłeś"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "namaścił cię"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "wesela"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "towarzyszy twoich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:24.267048343Z",
+  "model": "glm-5.3"
+}

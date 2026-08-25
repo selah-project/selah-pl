@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Biada mówiącemu do ojca: „Co płodzisz?” i do kobiety: „Co rodzisz?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówiącemu"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "do ojca"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "płodzisz"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "i do kobiety"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "rodzisz"
+    }
+  ],
+  "timestamp": "2026-08-25T04:15:38.010093902Z",
+  "model": "glm-5.3"
+}

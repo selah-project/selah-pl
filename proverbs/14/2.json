@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Kto chodzi w swojej prawości, boi się Jahwe, a kto przewrotny jest w drogach swoich, Nim gardzi.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Kto chodzi"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "w swojej prawości"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boi się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "a kto przewrotny jest"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "w drogach swoich"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "Nim gardzi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:53.371131344Z",
+  "model": "glm-5.3"
+}

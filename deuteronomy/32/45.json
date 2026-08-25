@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I skończył Mosze mówić ⟨את⟩ wszystkie te słowa do całego Israela.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i skończył"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mówić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie (słowa)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:46.865071924Z",
+  "model": "glm-5.3"
+}

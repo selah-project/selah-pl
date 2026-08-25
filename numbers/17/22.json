@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I złożył Mosze ⟨את⟩ laski przed Jahwe, w Namiocie Świadectwa.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "i złożył"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laski"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "laski"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w Namiocie"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:40.185540528Z",
+  "model": "glm-5.3"
+}

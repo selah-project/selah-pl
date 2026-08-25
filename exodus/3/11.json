@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Mosze do Elohim: kim jestem, że pójdę do faraona i że wyprowadzę ⟨את⟩ synów Jisraela z Micraim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pójdę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i że"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "wyprowadzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:16.142912795Z",
+  "model": "glm-5.3"
+}

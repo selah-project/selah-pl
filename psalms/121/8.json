@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Jahwe będzie strzegł twojego wyjścia i twojego przyjścia, od teraz i aż na wieki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "będzie strzegł"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "twojego wyjścia"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "i twojego przyjścia"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od teraz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczności"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:52.214263399Z",
+  "model": "glm-5.3"
+}

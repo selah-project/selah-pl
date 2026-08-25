@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Elohim mój, nade mną moja nefesz jest zgnębiona; dlatego wspominam cię z ziemi Jarden i Chermonim, z góry Micar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "jest zgnębiona"
+    },
+    {
+      "surface": "על",
+      "gloss": "dlatego (z tego powodu)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "wspominam cię"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "i Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "z góry"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Micar"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:10.977569703Z",
+  "model": "glm-5.3"
+}

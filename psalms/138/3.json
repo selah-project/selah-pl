@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "W dniu, gdy wołałem, odpowiedziałeś mi, dodałeś mi śmiałości w mojej nefesz mocą.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "W dniu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gdy wołałem"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "odpowiedziałeś mi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "dodałeś mi śmiałości"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "w mojej nefesz"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mocą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:38.909646948Z",
+  "model": "glm-5.3"
+}

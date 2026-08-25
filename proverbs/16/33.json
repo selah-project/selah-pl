@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Na łono jest rzucany ⟨את⟩ los, ale od Jahwe ⟨jest⟩ cały jego wyrok.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "na łono"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "jest rzucany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ale od Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "jego wyrok"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:53.694863049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Twoje żywe istoty \/ trzoda zamieszkały w niej; w swoim dobrocie przygotowałeś dla biednego, Elohimu.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "twoja trzoda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zamieszkały"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "przygotowujesz"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "w swoim dobrocie"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "dla biednego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:56.519080748Z",
+  "model": "glm-5.3"
+}

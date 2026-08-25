@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jahwe, Elohim mój, w tobie szukam schronienia; wybaw mnie od wszystkich moich prześladowców i uwolnij mnie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "szukam schronienia"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "wybaw mnie"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od wszystkich"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "moich prześladowców"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i uwolnij mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:30.477533307Z",
+  "model": "glm-5.3"
+}

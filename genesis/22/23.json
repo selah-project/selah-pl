@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A Betuel zrodził ⟨את⟩ Riwkę. Ośmioro tych zrodziła Milka Nachorowi, bratu Awrahama.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "A Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riwkę"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riwkę"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "Ośmioro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zrodziła"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nachorowi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:24.726861574Z",
+  "model": "glm-5.3"
+}

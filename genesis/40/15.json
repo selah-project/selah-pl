@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Bo skradzion — zostałem skradziony z ziemi Hebrajczyków, a nawet tutaj niczego nie zrobiłem, bo wtrącili ⟨את⟩ mnie do dołu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "skradzion"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "zostałem skradziony"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczyków"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "zrobiłem"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niczego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wtrącili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "do dołu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:50.737031837Z",
+  "model": "glm-5.3"
+}

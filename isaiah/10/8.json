@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Bo powie: Czyż książęta moi ⟨są⟩ wszyscy królami?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czyż"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książęta moi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:27.289353096Z",
+  "model": "glm-5.3"
+}

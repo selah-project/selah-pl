@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Boaz spłodził ⟨את⟩ Obeda, a Obed spłodził ⟨את⟩ Iszaja.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "A Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "a Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iszaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Iszaja"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:33.076501407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Wywyższam Cię, Jahwe, bo mnie wyciągnąłeś i nie dałeś radować się moim wrogom nade mną.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Wywyższam Cię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "wyciągnąłeś mnie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "dałeś radować się"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moim wrogom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nade mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:29.371337710Z",
+  "model": "glm-5.3"
+}

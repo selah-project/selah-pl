@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Ja mówiłem: w spocznie dni moich pójdę w bramy Szeolu, zostałem pozbawiony reszty lat moich.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "w spocznie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni moich"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "pójdę"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "w bramy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szeolu"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "zostałem pozbawiony"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "reszty"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "lat moich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:38.491452303Z",
+  "model": "glm-5.3"
+}

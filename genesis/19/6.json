@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wyszedł do nich Lot do wejścia, a drzwi zamknął za sobą.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "do wejścia"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "a drzwi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zamknął"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za sobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:16.826307187Z",
+  "model": "glm-5.3"
+}

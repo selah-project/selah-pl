@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I nazwał Adam imię swej żony Chawa, bo ona była matką wszelkiego żyjącego.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nazwał"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swej żony"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "była"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matką"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiego"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyjącego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:00.957204474Z",
+  "model": "glm-5.3"
+}

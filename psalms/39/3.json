@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Zamilkłem w ciszy, zamilczałem nawet ⟨od⟩ dobra, a ból mój się wzburzył.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Zamilkłem"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "w ciszy"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "zamilczałem"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "od dobra"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "a ból mój"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "się wzburzył"
+    }
+  ],
+  "timestamp": "2026-08-25T04:19:51.179304694Z",
+  "model": "glm-5.3"
+}

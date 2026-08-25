@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przyszły wszystkie plemiona Jisraela do Dawida do Chewronu, i rzekły, mówiąc: Oto my ⟨jesteśmy⟩ kością twoją i ciałem twoim.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszły"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemiona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "do Chewronu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekły"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "oto"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "kością twoją"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "i ciałem twoim"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:40.197674238Z",
+  "model": "glm-5.3"
+}

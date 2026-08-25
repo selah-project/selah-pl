@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wrócił sprzed niego, i wziął ⟨את⟩ jarzmo wołów, i złożył je w ofierze, i w sprzęcie wołów ugotował ⟨את⟩ mięso, i dał ludowi, i jedli; potem wstał, i poszedł za Eliaszem, i służył mu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "sprzed niego"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarzmo wołów"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "jarzmo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wołów"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "i złożył je w ofierze"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "i w sprzęcie"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wołów"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ugotował"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "i jedli"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaszem"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "i służył mu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:21.012878331Z",
+  "model": "glm-5.3"
+}

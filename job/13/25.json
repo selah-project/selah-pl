@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Czy liść znoszony wiatrem przestraszysz, i ⟨את⟩ słomę wysuszoną ścigać będziesz?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "liść"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "znoszony wiatrem"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "przestraszysz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "słomę wysuszoną"
+    },
+    {
+      "surface": "קש",
+      "gloss": "słomę"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wysuszoną"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ścigać będziesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:18:15.255355012Z",
+  "model": "glm-5.3"
+}

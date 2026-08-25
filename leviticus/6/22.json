@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Każdy mężczyzna spośród kapłanów zje ⟨את⟩ niej; świętością świętości ⟨jest⟩ ona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "spośród kapłanów"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (ofiarę)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętością"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:33.113070097Z",
+  "model": "glm-5.3"
+}

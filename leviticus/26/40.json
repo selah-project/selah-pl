@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "i wyznają ⟨את⟩ winę swoją i ⟨את⟩ winę ojców swoich w swojej zdradzie, którą zdradzili wobec Mnie, i także to, że chodzili ze Mną na przekór.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "i wyznają"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winę swoją"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "winę swoją"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "winę ojców"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ojców swoich"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "w swojej zdradzie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "zdradzili"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wobec Mnie"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i także"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, że"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "chodzili"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ze Mną"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "na przekór"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:18.652416117Z",
+  "model": "glm-5.3"
+}

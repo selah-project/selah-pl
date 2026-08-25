@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Od oblicza Adonai — drżyj, ziemio! Od oblicza Eloah Jaakowa!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Od oblicza"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "drżyj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemio"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "od oblicza"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.143971998Z",
+  "model": "glm-5.3"
+}

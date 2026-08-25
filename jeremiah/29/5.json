@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Budujcie domy i mieszkajcie w nich, i sadźcie ogrody, i jedzcie ⟨את⟩ ich owoc.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Budujcie"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i mieszkajcie w nich"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "i sadźcie"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ogrody"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i jedzcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich owoc"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "owoc"
+    }
+  ],
+  "timestamp": "2026-08-25T00:54:46.629371769Z",
+  "model": "glm-5.3"
+}

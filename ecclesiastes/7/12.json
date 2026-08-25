@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo w cieniu mądrości ⟨jest⟩ jak w cieniu pieniędzy, lecz przewaga poznania — mądrość ożywia swoich właścicieli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "w cieniu"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "mądrości"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "w cieniu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pieniędzy"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "lecz przewaga"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznania"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ożywia"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "swoich właścicieli"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:22.358998392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Człowiek — jak trawa dni jego; jak kwiat pola tak rozkwita.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jak trawa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dni jego"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jak kwiat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "rozkwita"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:44.275658303Z",
+  "model": "glm-5.3"
+}

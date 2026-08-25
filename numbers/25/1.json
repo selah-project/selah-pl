@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I Jisraél osiadł w Szittim, a lud zaczął wiarołomić z córkami Moabu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i osiadł"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "w Szittim"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "a zaczął"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "wiarołomić"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córkami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:33.944120982Z",
+  "model": "glm-5.3"
+}

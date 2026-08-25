@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A przy zgromadzaniu ⟨את⟩ zgromadzenia zatrąbicie, lecz nie zagrajecie alarmu.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "a przy zgromadzaniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgromadzenie"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "zatrąbicie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "zagrajecie alarmu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:20:54.013178087Z",
+  "model": "glm-5.3"
+}

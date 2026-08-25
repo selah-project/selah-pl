@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Pobłogosławi nas Elohim, i niech się lękają ⟨את⟩ niego wszystkie krańce ziemi.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "pobłogosławi nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i niech się lękają"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie krańce ziemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krańce"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:23.985280537Z",
+  "model": "glm-5.3"
+}

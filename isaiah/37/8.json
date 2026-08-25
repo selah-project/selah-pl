@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I wrócił Rabszake, i zastał ⟨את⟩ króla Aszura walczącego o Libnę, bo usłyszał, że wyruszył z Lachisz.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-szake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "i zastał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla Aszura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszura"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczącego"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "wyruszył"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "z Lachisz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:05.691456883Z",
+  "model": "glm-5.3"
+}

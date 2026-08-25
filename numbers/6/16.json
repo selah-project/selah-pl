@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "i przyniesie kapłan ⟨את⟩ to przed obliczem Jahwe, i wykona ⟨את⟩ jego ofiarę za grzech oraz ⟨את⟩ jego ofiarę całopalną.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i przyniesie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i wykona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego ofiarę za grzech"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jego ofiarę za grzech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego ofiarę całopalną"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "jego ofiarę całopalną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:43.840646388Z",
+  "model": "glm-5.3"
+}

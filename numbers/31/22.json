@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "tylko ⟨את⟩ złoto i ⟨את⟩ srebro, ⟨את⟩ miedź, ⟨את⟩ żelazo, ⟨את⟩ cynę i ⟨את⟩ ołów —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złoto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miedź"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "miedź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żelazo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "żelazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cyna"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "cyna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ołów"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ołów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:00:53.380131007Z",
+  "model": "glm-5.3"
+}

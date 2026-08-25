@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Elohai, uczyń ich jak koło toczące się, jak plewy przed wiatrem.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "uczyń ich"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "jak koło toczące się"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "jak plewy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatrem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:43.381568173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I weźmiesz ⟨את⟩ bydlę ⟨the⟩ grzechu, i spłoniesz je na wyznaczonym ⟨miejscu⟩ domu, na zewnątrz świątyni.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bydlę grzechu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bydlę"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "grzechu"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "i spłoniesz je"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "na wyznaczonym"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "świątyni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:28:04.702709148Z",
+  "model": "glm-5.3"
+}

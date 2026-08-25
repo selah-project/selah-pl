@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Z powodu grzechów Jarobama, które popełnił, i którymi doprowadził do grzechu ⟨את⟩ Izraela, swoim oburzeniem, którym oburzył ⟨את⟩ Jahwe, Elohima Izraela.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Z powodu"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "grzechów"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "popełnił"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i którymi"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "doprowadził do grzechu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "swoim oburzeniem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "oburzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, Elohima Izraela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:33.903702199Z",
+  "model": "glm-5.3"
+}

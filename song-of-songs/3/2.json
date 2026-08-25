@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wstanę więc i będę krążyć po mieście, po ulicach i na placach — będę szukać ⟨את⟩ tego, którego kocha moja nefesz; szukałam go, lecz go nie znalazłam.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "wstanę"
+    },
+    {
+      "surface": "נא",
+      "gloss": "więc"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "i będę krążyć"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "po mieście"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "po ulicach"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "i na placach"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "będę szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, którego kocha moja nefesz"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "którego kocha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "szukałam go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "go nie znalazłam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:15.702874143Z",
+  "model": "glm-5.3"
+}

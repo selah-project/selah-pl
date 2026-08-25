@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Nie będą zawstydzeni w czas złego, a w dni głodu nasyceni będą.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "będą zawstydzeni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złego"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "a w dni"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "głodu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasyceni będą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:24.624395053Z",
+  "model": "glm-5.3"
+}

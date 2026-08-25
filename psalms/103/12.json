@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Jak daleko wschód od zachodu, tak oddalił od nas ⟨את⟩ nasze przewinienia.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Jak daleko"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wschód"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "od zachodu"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "oddalił"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasze przewinienia"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "nasze przewinienia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.870067742Z",
+  "model": "glm-5.3"
+}

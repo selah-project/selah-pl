@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I przemówił Jahwe do Mosze na górze Synaj, mówiąc:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:36.911876319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Słyszałem hańbę Moabu i obelgi synów Ammonu, którzy hańbili ⟨את⟩ mój lud i pysznili się przeciw ich granicy.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Słyszałem"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hańbę"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "i obelgi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "hańbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "i pysznili się"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ich granicy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:20.616093966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zrobił wieko z czystego złota: dwie łokcie i pół ⟨były⟩ jego długością, a łokieć i pół jego szerokością.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "wieko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystego"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dwie łokcie"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "jego długość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jego szerokość"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:09.286499625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A teraz zastawcie się, a osądzę ⟨את⟩ was przed Jahwe ⟨w sprawie⟩ wszystkich sprawiedliwych czynów Jahwe, które uczynił ⟨את⟩ wam i ⟨את⟩ z ojcami waszymi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "zastawcie się"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "a osądzę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich sprawiedliwych czynów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "sprawiedliwych czynów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩ z"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ojcami waszymi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:52.730743286Z",
+  "model": "glm-5.3"
+}

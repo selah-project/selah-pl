@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 101,
+  "translation": "Serce przewrotne odejdzie ode mnie; zła nie poznam.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Serce"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "przewrotne"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "odejdzie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "poznam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.553149269Z",
+  "model": "glm-5.3"
+}

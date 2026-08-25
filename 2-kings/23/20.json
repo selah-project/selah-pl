@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zabił ⟨את⟩ wszystkich kapłanów wyżyn, którzy tam ⟨byli⟩ na ołtarzach, i spalił ⟨את⟩ kości człowieka na nich, i wrócił do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich kapłanów wyżyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wyżyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ołtarzach"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spalił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kości człowieka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kości"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:28.128756135Z",
+  "model": "glm-5.3"
+}

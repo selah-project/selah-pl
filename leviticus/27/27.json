@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "A jeśli ⟨jest to⟩ zwierzę nieczyste, wykupi je według twojej wyceny i doda jego piątą część do niego; a jeśli nie zostanie wykupione, zostanie sprzedane według twojej wyceny.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "nieczyste"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "wykupi"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "według twojej wyceny"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "i doda"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "jego piątą część"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "zostanie wykupione"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "zostanie sprzedane"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "według twojej wyceny"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:27.873508135Z",
+  "model": "glm-5.3"
+}

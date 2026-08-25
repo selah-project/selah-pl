@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I napiszesz na kamieniach ⟨את⟩ wszystkie słowa tej Tory, wyryte dobrze.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "napiszesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamieniach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa tej Tory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tej Tory"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "באר",
+      "gloss": "wyryte"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dobrze"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:17.290831094Z",
+  "model": "glm-5.3"
+}

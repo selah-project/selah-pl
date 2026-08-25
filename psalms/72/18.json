@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Błogosławiony Jahwe, Elohim, Elohim Iszraela, czyniący cuda — tylko on sam.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniący"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "cuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tylko on sam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:34.520613616Z",
+  "model": "glm-5.3"
+}

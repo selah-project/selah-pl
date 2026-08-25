@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Jahwe do mnie: Nie mów: ⟨jestem⟩ chłopcem, bo wszędzie, dokąd ci poślę, pójdziesz, i ⟨את⟩ wszystko, co ci nakażę, powiesz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chłopcem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "wszędzie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "ci poślę"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co ci nakażę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ci nakażę"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "powiesz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:34.099501913Z",
+  "model": "glm-5.3"
+}

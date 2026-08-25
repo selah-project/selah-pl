@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 141,
+  "translation": "Bo do Ciebie, Jahwe, Adonai, moje oczy; w Tobie szukam schronienia; nie ogołacaj mojej nefesz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "w Tobie"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "szukam schronienia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ogołacaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:43.075974058Z",
+  "model": "glm-5.3"
+}

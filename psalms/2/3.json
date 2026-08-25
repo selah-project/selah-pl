@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "„Porwijmy ⟨את⟩ ich więzy i zrzućmy od nas ich powróz!”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Porwijmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich więzy"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ich więzy"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "i zrzućmy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ich powróz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:58.073962090Z",
+  "model": "glm-5.3"
+}

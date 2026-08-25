@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "A teraz, czego mam oczekiwać, Adonai? Nadzieja moja — ⟨to⟩ Ty ⟨jesteś⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czego"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mam oczekiwać"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Nadzieja moja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨to⟩ Ty ⟨jesteś⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨jest⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:07.413605133Z",
+  "model": "glm-5.3"
+}

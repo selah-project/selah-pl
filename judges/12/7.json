@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I sądził Jeftach ⟨את⟩ Izraela sześć lat; i umarł Jeftach Giladyta, i pogrzebano go w miastach Giladu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i sądził"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladyta"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i pogrzebano go"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "w miastach"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:18.621774508Z",
+  "model": "glm-5.3"
+}

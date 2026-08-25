@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "którą zawarł ⟨את⟩ Awrahamem, i przysięgę swoją Jicchakowi",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahamem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahamem"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "i przysięgę swoją"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jicchakowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:24.685722516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I dali synowie Jisraela lewitom ⟨את⟩ miasta te i ⟨את⟩ ich pastwiska, jak przykazał Jahwe ręką Moszego, przez los.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "I dali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "lewitom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasta te"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich pastwiska"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ich pastwiska"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "przez los"
+    }
+  ],
+  "timestamp": "2026-08-25T03:25:37.685001777Z",
+  "model": "glm-5.3"
+}

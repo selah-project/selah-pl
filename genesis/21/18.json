@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Wstań, podnieś ⟨את⟩ chłopca i umocnij ⟨את⟩ rękę swoją na nim, bo na wielki naród go uczynię.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "podnieś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chłopca"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopca"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "i umocnij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swoją"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na naród"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "go uczynię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:53.426049446Z",
+  "model": "glm-5.3"
+}

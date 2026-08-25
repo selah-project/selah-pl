@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I przez proroka wyprowadził Jahwe ⟨את⟩ Jisraël z Micraim, i przez proroka był strzeżony.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "i przez proroka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wyprowadził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "i przez proroka"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "był strzeżony"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:03.252754411Z",
+  "model": "glm-5.3"
+}

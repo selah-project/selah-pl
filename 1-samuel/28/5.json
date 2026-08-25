@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I ujrzał Szaul ⟨את⟩ obóz Pelisztów, i uląkł się, i zadrżało serce jego bardzo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obóz Pelisztów"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i uląkł się"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "i zadrżało"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "serce jego"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:45.115929289Z",
+  "model": "glm-5.3"
+}

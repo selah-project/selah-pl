@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Ja ⟨jestem⟩ mężczyzna, który widział nędzę pod rózgą jego zapalczywości.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widział"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędzę"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "pod rózgą"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "jego zapalczywości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:46.510035752Z",
+  "model": "glm-5.3"
+}

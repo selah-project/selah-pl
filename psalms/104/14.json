@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Wydajesz trawę dla bydła i zioła dla służby człowieka — by z ziemi wynosić chleb,",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Wydajesz (rośnąć)"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "dla bydła"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "i zioła"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "dla służby"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "by wynosić"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:01.560345084Z",
+  "model": "glm-5.3"
+}

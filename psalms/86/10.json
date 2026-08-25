@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Bo ⟨jesteś⟩ wielki i czynisz cuda — ⟨jesteś⟩ Elohim Ty sam jeden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jesteś"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i czynisz"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "cuda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jesteś"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Ty sam jeden"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:02.689167653Z",
+  "model": "glm-5.3"
+}

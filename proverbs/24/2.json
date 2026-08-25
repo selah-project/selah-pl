@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Bo zagładę rozmyśla serce ich, a krzywdę mówią wargi ich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שד",
+      "gloss": "zagładę"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "rozmyśla"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "serce ich"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "a krzywdę"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "wargi ich"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "mówią"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:46.569737272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Córki królów wśród twych ulubionych niewiast; stoi królowa po twojej prawicy w złocie z Ofiru.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "wśród twych ulubionych"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "królowa"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "po twojej prawicy"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "w złocie"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "z Ofiru"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.713349026Z",
+  "model": "glm-5.3"
+}

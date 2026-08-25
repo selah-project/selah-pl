@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Adonai, słuchaj głosu mego! Niech będą uszy twoje uważne na głos błagań moich!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "słuchaj"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "głosu mego"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "Niech będą"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "uszy twoje"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "uważne"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na głos"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "błagań moich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:17.088431736Z",
+  "model": "glm-5.3"
+}

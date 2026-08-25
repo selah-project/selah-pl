@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Słuchajcie słowa Jahwe, zwierzyciele Sodomy; nadstawcie uszu na Tore Elohim naszych, ludzie Amory!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "zwierzyciele"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomy"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nadstawcie uszu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludzie"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amory"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:49.501532563Z",
+  "model": "glm-5.3"
+}

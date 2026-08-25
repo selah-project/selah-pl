@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I skropił z niego ołtarz siedem razy, i namaścił ⟨את⟩ ołtarz i ⟨את⟩ wszystkie jego naczynia, oraz ⟨את⟩ umywalnię i ⟨את⟩ jej podstawę, by je uświęcić.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "i skropił"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "razy"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i namaścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umywalnię"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umywalnię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "podstawę"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jej podstawę"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "by je uświęcić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:08.478038973Z",
+  "model": "glm-5.3"
+}

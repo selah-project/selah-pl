@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A Ty ⟨jesteś⟩ święty, zasiadający ⟨na⟩ chwałach Izraela.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A Ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "zasiadający"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "chwałach"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:49.641801938Z",
+  "model": "glm-5.3"
+}

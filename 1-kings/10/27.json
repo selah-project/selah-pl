@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I dał król ⟨את⟩ srebro w Jeruszalaim jak kamienie, a ⟨את⟩ cedry dał jak sykomory, które są na nizinie, w wielkiej obfitości.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "jak kamienie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cedry"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "jak sykomory"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "na nizinie"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "w wielkiej obfitości"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:05.714570269Z",
+  "model": "glm-5.3"
+}

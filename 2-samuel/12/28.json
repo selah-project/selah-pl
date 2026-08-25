@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A teraz zbierz ⟨את⟩ resztę ludu, i rozbij obóz przeciwko miastu, i zdobyć je, abym nie ja zdobył ⟨את⟩ miasto i nie zostało wezwane moje imię na nim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "zbierz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resztę ludu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "i rozbij obóz"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miastu"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "i zdobyć je"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "zdobył"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "i zostało wezwane"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje imię"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:58.257299284Z",
+  "model": "glm-5.3"
+}

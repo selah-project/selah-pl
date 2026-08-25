@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Ci ⟨są⟩ w rydwanach, a ci w koniach, lecz my imię Jahwe, naszego Elohima, wspominać będziemy.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "w rydwanach"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "a ci"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "w koniach"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "lecz my"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszego Elohima"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "wspominać będziemy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:46.486701015Z",
+  "model": "glm-5.3"
+}

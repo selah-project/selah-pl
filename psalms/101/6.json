@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 101,
+  "translation": "Moje oczy ku wiernym ziemi, by mieszkali ze mną; kto kroczy drogą niewinności, ten mi będzie posługiwał.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ku wiernym"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "by mieszkali"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kto kroczy"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "niewinności"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "mi będzie posługiwał"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:54.020613178Z",
+  "model": "glm-5.3"
+}

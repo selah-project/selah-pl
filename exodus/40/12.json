@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I przyprowadzisz ⟨את⟩ Ahrona i ⟨את⟩ jego synów do wejścia namiotu spotkania, i obmyjesz ⟨את⟩ ich wodą.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "i przyprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "i obmyjesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "Ahrona i jego synów"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wodą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:28.619873582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I obrócił król ⟨את⟩ oblicze swoje, i pobłogosławił ⟨את⟩ całemu zgromadzeniu Jisraela, a całe zgromadzenie Jisraela stało.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "I obrócił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicze swoje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oblicze swoje"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całemu zgromadzeniu Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całemu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzeniu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a całe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stało"
+    }
+  ],
+  "timestamp": "2026-08-25T03:01:41.342818431Z",
+  "model": "glm-5.3"
+}

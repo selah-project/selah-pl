@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I powiedziała swej pani: Oby mój pan ⟨był⟩ przed prorokiem, który w Szomronie! Wtedy on by go zdjęł ⟨את⟩ niego z jego trądu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I powiedziała"
+    },
+    {
+      "surface": "אל",
+      "gloss": "swej pani (do)"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "swej pani"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Oby"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mój pan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorokiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomronie"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "by go zdjęł"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "z jego trądu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:01.682695081Z",
+  "model": "glm-5.3"
+}

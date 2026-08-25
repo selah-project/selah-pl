@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I obrzeżcie ⟨את⟩ napletek waszego serca, a waszego karku już nie twardejcie.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "i obrzeżcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napletek waszego serca"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "napletek"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "waszego serca"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "waszego karku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "twardiejcie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:20.413053740Z",
+  "model": "glm-5.3"
+}

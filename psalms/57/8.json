@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Gotowe jest moje serce, Elohim, gotowe jest moje serce, zaśpiewam i zaśpiewam z przygrywką!",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "gotowe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gotowe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zaśpiewam"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "zaśpiewam z przygrywką"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:22.009785215Z",
+  "model": "glm-5.3"
+}

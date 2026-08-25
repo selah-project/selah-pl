@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I skręcili, i wstąpili w górę, i doszli aż do doliny Eszkol, i rozpoznali ⟨את⟩ nią.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "I skręcili"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i wstąpili"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "w górę"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i doszli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "doliny"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eszkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "i rozpoznali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nią",
+      "marks": "nią (ziemię)"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:51.191197591Z",
+  "model": "glm-5.3"
+}

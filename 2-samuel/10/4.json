@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wziął Chanun ⟨את⟩ sługi Dawida, i ogolił ⟨את⟩ połowę ich bród, i odciął ⟨את⟩ ich szaty w połowie, aż do ich pośladków, i odesłał ich.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I wziął"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługi Dawida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "i ogolił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "połowę ich bród"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "połowę"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ich bród"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i odciął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich szaty"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ich szaty"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "w połowie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "ich pośladków"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i odesłał ich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:14.536407778Z",
+  "model": "glm-5.3"
+}

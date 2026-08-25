@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "król Liwny, jeden; król Adullam, jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Liwny"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:23.581756874Z",
+  "model": "glm-5.3"
+}

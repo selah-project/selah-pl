@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Powiedziałem do Jahwe: „Elohim mój ⟨jesteś⟩ Ty”; przyłóż ucho, Jahwe, głosowi moich błagań.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Powiedziałem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "do Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "przyłóż ucho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosowi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "moich błagań"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:46.629677550Z",
+  "model": "glm-5.3"
+}

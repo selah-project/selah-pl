@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Za dnia słońce nie porazi cię, ani księżyc w nocy.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "za dnia"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "porazi cię"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ani księżyc"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:52.213939776Z",
+  "model": "glm-5.3"
+}

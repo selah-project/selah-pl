@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i nie radził się ⟨u Jahwe⟩, więc ⟨On⟩ zabił go i przeniósł ⟨את⟩ królestwo do Dawida, syna Jiszaja.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "radził się"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "zabił go"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i przeniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "królestwo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "do Dawida"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jiszaja"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:21.393522904Z",
+  "model": "glm-5.3"
+}

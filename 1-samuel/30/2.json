@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I wzięli do niewoli ⟨את⟩ kobiety, które w niej były, od małego aż do wielkiego — nie uśmiercili żadnego męża — i poprowadzili ich, i odeszli swoją drogą.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "i wzięli do niewoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobiety"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od małego"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkiego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "uśmiercili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "żadnego męża"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "i poprowadzili"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "swoją drogą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:21.735866499Z",
+  "model": "glm-5.3"
+}

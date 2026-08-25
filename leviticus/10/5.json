@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przystąpili, i unieśli ich w ich tunikach na zewnątrz obozu, jak powiedział Mosze.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "i przystąpili"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "i unieśli ich"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "w ich tunikach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zewnątrz"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:12.698449097Z",
+  "model": "glm-5.3"
+}

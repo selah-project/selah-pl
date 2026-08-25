@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Dawidowi. Do Ciebie, Jahwe, wołam; skało moja, nie milcz wobec mnie, abyś nie zamilkł wobec mnie i żebym nie został przyrównany do schodzących do dołu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skało moja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "milcz"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "wobec mnie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "zamilkł"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "wobec mnie"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "i żebym nie został przyrównany"
+    },
+    {
+      "surface": "עם",
+      "gloss": "do"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "schodzących"
+    },
+    {
+      "surface": "בור",
+      "gloss": "do dołu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:59.946183594Z",
+  "model": "glm-5.3"
+}

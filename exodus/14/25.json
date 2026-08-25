@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I usunął ⟨את⟩ koło rydwanów ich, i prowadzono ich z ciężkością; i powiedzieli Micrajim: Uciekajmy przed obliczem Jisraela, bo Jahwe walczy dla nich przeciwko Micrajim!",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koło"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "koło"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "rydwanów ich"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "i prowadzono ich"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "z ciężkością"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "uciekajmy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "przeciwko Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:48.430760102Z",
+  "model": "glm-5.3"
+}

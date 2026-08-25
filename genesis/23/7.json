@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wstał Awraham, i pokłonił się ludowi ziemi, synom Cheta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłonił się"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:57.272812070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Cała ⟨jest⟩ pełna blasku córka króla wewnątrz; w złotych splotach ⟨jest⟩ odziana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cała"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "pełna blasku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "wewnątrz"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "w złotych splotach"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotych"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "odziana"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:00.365933513Z",
+  "model": "glm-5.3"
+}

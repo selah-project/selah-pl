@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "A mój język niech wysławia Twoją sprawiedliwość, cały dzień Twoją chwałę.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "a mój język"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "niech wysławia"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Twoją sprawiedliwość"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Twoją chwałę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:43.765822654Z",
+  "model": "glm-5.3"
+}

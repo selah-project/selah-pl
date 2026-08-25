@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I odcięli ⟨את⟩ jego głowę, i obnażyli ⟨את⟩ jego rynsztunek, i rozesłali po ziemi filistyńskiej dokoła, by oznajmić w domu ich bożków i ⟨את⟩ ludowi.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "i odcięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego głowę"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "i obnażyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego rynsztunek"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego rynsztunek"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i rozesłali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po ziemi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistyńskiej"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "by oznajmić"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ich bożków"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ludowi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludowi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:45.977098526Z",
+  "model": "glm-5.3"
+}

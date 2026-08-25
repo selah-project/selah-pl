@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Lecz pszenica i orkisz nie zostały pobite, ponieważ późne ⟨są⟩.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "lecz pszenica"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "i orkisz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "zostały pobite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "późne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "są"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:45.058794131Z",
+  "model": "glm-5.3"
+}

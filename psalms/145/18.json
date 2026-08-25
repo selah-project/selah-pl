@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Bliski ⟨jest⟩ Jahwe wszystkim, którzy Go wzywają, wszystkim, którzy Go wzywają w prawdzie.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Bliski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "którzy Go wzywają"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "wzywają Go"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "w prawdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.269691786Z",
+  "model": "glm-5.3"
+}

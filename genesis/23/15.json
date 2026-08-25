@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Panie mój, usłysz mnie: ziemia ⟨warta⟩ czterysta sykli srebra — między mną a tobą czym ⟨to⟩ jest? Pochowaj więc ⟨את⟩ twojego zmarłego.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Panie mój"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "usłysz mnie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "set"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sykli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a tobą"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ jest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twojego zmarłego"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "twojego zmarłego"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pochowaj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:47.498213326Z",
+  "model": "glm-5.3"
+}

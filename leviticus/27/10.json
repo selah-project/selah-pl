@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Nie zamieni go i nie wymieni ⟨את⟩ — dobre na złe albo złe na dobre; a jeśli na pewno zamieni zwierzę na zwierzę, to ⟨ono⟩ i jego zamiana ⟨będzie⟩ święte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "zamieni go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "wymieni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dobre"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na złe"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "na dobre"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "המר",
+      "gloss": "na pewno zamieni"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "zamieni"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na zwierzę"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "to będzie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "i jego zamiana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święte"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:41.827030705Z",
+  "model": "glm-5.3"
+}

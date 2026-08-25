@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "I ⟨את⟩ kogo się lękałaś i bałaś, że kłamałaś, a mnie nie pamiętałaś, nie wzięłaś tego do serca? Czyż nie ja milczę — i to od dawna — a mnie się nie boisz?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kogo"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "się lękałaś"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "i bałaś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "kłamałaś"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "pamiętałaś"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wzięłaś"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "serca"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "milczę"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "i to od dawna"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "się boisz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:37:07.023768170Z",
+  "model": "glm-5.3"
+}

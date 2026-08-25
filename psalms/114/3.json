@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Morze ujrzało i uciekło, Jordan zawrócił ⟨na⟩ tyły",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Morze"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ujrzało"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "i uciekło"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "zawrócił"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "⟨na⟩ tyły"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:55.709570104Z",
+  "model": "glm-5.3"
+}

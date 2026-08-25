@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 43:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I podano jemu osobno, a im osobno, a Micrijczykom, ⟨את⟩ którzy jedli z nim — osobno, bo nie mogą Micrijczycy ⟨את⟩ jeść ⟨את⟩ chleba ⟨את⟩ Hebrajczyków, gdyż to obrzydliwość ⟨jest⟩ dla Micrijczyków.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i podano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "וילהםבהם",
+      "gloss": "a im",
+      "variants": null
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "a im"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "ולמצרים",
+      "gloss": "a Micrijczykom"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "⟨את⟩ którzy jedli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z nim (przyimek את 'z', nie znak dopełnienia)"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "mogą"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micrijczycy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "⟨את⟩ jeść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrajczyków"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczyków"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "obrzydliwość"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "dla Micrijczyków"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:01.372518949Z",
+  "model": "glm-5.3"
+}

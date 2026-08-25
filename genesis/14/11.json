@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I zabrali ⟨את⟩ cały dobytek Sedomu i Amory oraz ⟨את⟩ cały ich zapas żywności, i odeszli.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały dobytek Sedomu i Amory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomu"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "i Amory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "cały ich zapas żywności"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ich zapas żywności"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:02.490753725Z",
+  "model": "glm-5.3"
+}

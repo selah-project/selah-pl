@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Znieważyłeś przymierze sługi swojego, sprofanowałeś na ziemię jego diadem.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "Znieważyłeś"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługi swojego"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "sprofanowałeś"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "jego diadem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:10.016602746Z",
+  "model": "glm-5.3"
+}

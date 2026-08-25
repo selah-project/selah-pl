@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I napisał Mosze ⟨את⟩ tę Torę, i dał ją kapłanom, synom Lewiego, którzy noszą ⟨את⟩ Aron Przymierza Jahwe, i wszystkim starszym Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę Torę"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dał ją"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapłanom"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "którzy noszą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron Przymierza Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Przymierza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszym"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:13.332942655Z",
+  "model": "glm-5.3"
+}

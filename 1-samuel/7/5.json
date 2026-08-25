@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I rzekł Szmuel: Zbierzcie ⟨את⟩ cały Izrael do Micpa, a ja będę się modlił za wami do Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "zbierzcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "do Micpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "a będę się modlił"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "za wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:35:19.669432234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A choćby istotnie zbłądziłem, ⟨את⟩ ⟨ze mną⟩ zostaje moja pomyłka.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "a choćby"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "istotnie"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "zbłądziłem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ze mną"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "zostaje"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "moja pomyłka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:19:37.807935674Z",
+  "model": "glm-5.3"
+}

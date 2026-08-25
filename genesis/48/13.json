@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "I wziął Josef ich obu ⟨את⟩ — ⟨את⟩ Efrajima w swojej prawicy, od lewicy Israela, a ⟨את⟩ Menasze w swojej lewicy, od prawicy Israela — i przywiódł ich do niego.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich obu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ich obu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "w swojej prawicy"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "od lewicy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Menasze"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "w swojej lewicy"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "od prawicy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "i przywiódł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:43.633372730Z",
+  "model": "glm-5.3"
+}

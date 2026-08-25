@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "i dałem tobie ⟨את⟩ dom twego pana i ⟨את⟩ żony twego pana na twoje łono, i dałem tobie ⟨את⟩ dom Jisraela i Jehudy; a jeśli ⟨to⟩ mało, dodałbym ci jeszcze to i tamto.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "i dałem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom twego pana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "twego pana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "żony twego pana"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "żony"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "twego pana"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "na twoje łono"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dałem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jisraela i Jehudy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehudy"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mało"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "dodałbym"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "to"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "i tamto"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:34.667906453Z",
+  "model": "glm-5.3"
+}

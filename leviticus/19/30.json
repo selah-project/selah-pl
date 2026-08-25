@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "⟨את⟩ moje sabaty będziecie strzec i przed moim przybytkiem będziecie się lękać; ja ⟨jestem⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje sabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "moje sabaty"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "będziecie strzec"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "i przed moim przybytkiem"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "będziecie się lękać"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:25.895015723Z",
+  "model": "glm-5.3"
+}

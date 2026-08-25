@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 142,
+  "translation": "Nakłoń ucha ku mojemu wołaniu, bo bardzo jestem wycieńczony; wyrwij mnie od moich prześladowców, bo okrzepnęli ponad mnie.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Nakłoń ucha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mojemu wołaniu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "jestem wycieńczony"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "od moich prześladowców"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "okrzepnęli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ponad mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:55.331332536Z",
+  "model": "glm-5.3"
+}

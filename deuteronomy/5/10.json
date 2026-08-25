@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i czyniący chesed do tysięcy pokoleń tym, którzy Mnie miłują, i tym, którzy strzegą Moich przykazań.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i czyniący"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "do tysięcy pokoleń"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tym, którzy Mnie miłują"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "i tym, którzy strzegą"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "Moich przykazań"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:55.549959260Z",
+  "model": "glm-5.3"
+}

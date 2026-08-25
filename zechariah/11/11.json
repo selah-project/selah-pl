@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 11:11",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zostało unieważnione owego dnia, i poznali tak ubodzy owiec, którzy strzegli mnie, że słowem Jahwe ⟨to jest⟩.",
+  "tokens": [
+    {
+      "surface": "ותפר",
+      "gloss": "i zostało unieważnione"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "owego dnia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owego"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "i poznali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ubodzy"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "owiec"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "którzy strzegli"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie (za pomocą przyrostka)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to jest⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:42:06.814527184Z",
+  "model": "glm-5.3"
+}

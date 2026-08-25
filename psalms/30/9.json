@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Do Ciebie, Jahwe, wołam, i do Adonai zanoszę błaganie.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "zanoszę błaganie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:15.035210388Z",
+  "model": "glm-5.3"
+}

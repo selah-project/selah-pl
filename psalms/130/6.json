@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Moja nefesz ⟨dla⟩ Adonai — od strażników ⟨czekających⟩ na poranek, strażnicy na poranek.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Moja nefesz"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨dla⟩ Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "od strażników"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "na poranek"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "strażnicy"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "na poranek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:20.617145917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 142,
+  "translation": "Maskil Dawida, gdy był w jaskini — modlitwa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "gdy był"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "w jaskini"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:45.649682991Z",
+  "model": "glm-5.3"
+}

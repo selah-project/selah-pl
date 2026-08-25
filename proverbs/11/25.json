@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Nefesz błogosławiąca będzie utuczona, a ten, kto poi — także on będzie napojony.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesz (dusza)"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "błogosławiąca"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "będzie utuczona"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "a ten, kto poi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "będzie napojony"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:41.507418892Z",
+  "model": "glm-5.3"
+}

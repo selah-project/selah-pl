@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Granicę wyznaczyłeś — nie przejdą ⟨ją⟩, nie zawrócą, by okryć ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "granicę"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wyznaczyłeś"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "przejdą"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "zawrócą"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "by okryć"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:25.914198241Z",
+  "model": "glm-5.3"
+}

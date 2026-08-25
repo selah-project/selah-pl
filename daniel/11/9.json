@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I wejdzie do królestwa króla Południa, lecz wróci do swojej ziemi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "i wejdzie"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "do królestwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Południa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lecz wróci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:41:05.265860884Z",
+  "model": "glm-5.3"
+}

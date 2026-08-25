@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I od zgromadzenia synów Jisraela weźmie dwa kozły na ofiarę za grzech i jednego barana na ofiarę całopalną.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "zgromadzenia synów Jisraela"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "kozły"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozłów"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "na ofiarę za grzech"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "i jednego barana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "na ofiarę całopalną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:18.152130188Z",
+  "model": "glm-5.3"
+}

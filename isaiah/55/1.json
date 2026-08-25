@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Ho, każdy spragniony, pójdźcie do wody, a kto nie ma srebra — pójdźcie, kupujcie i jedzcie; tak, pójdźcie, kupujcie bez srebra i bez zapłaty wino i mleko.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "spragniony"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pójdźcie"
+    },
+    {
+      "surface": "למים",
+      "gloss": "do wody"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pójdźcie"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupujcie"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i jedzcie"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "i pójdźcie"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupujcie"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "zapłaty"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "i mleko"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:26.116290645Z",
+  "model": "glm-5.3"
+}

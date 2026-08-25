@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I umieścił ⟨את⟩ je Elohim na sklepieniu nieboskłonu, aby świeciły nad ziemią.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "I umieścił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "na sklepieniu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nieboskłonu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "aby świeciły"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:05.128269962Z",
+  "model": "glm-5.3"
+}

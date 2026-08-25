@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Pieśń, psalm Dawidowi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.446121019Z",
+  "model": "glm-5.3"
+}

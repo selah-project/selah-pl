@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Dlaczego narody mają mówić: Gdzież, no gdzie, ⟨jest⟩ ich Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mają mówić"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Gdzieże"
+    },
+    {
+      "surface": "נא",
+      "gloss": "no gdzie"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ich Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:06.304174135Z",
+  "model": "glm-5.3"
+}

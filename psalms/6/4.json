@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A nefesz moja zatrwożyła się bardzo, a Ty, Jahwe, jak długo?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "A nefesz moja"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "zatrwożyła się"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jak długo?"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.129097988Z",
+  "model": "glm-5.3"
+}

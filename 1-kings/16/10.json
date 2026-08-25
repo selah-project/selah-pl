@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wszedł Zimri i uderzył go, i zabił go, w roku dwudziestym siódmym Asy, króla Jehudy, i królował na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i uderzył go"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i zabił go"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestym"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i siódmym"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:16.099038700Z",
+  "model": "glm-5.3"
+}

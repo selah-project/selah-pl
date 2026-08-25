@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "Na dziesięciostrunowym ⟨instrumencie⟩ i na nevelu, na brzęczeniu higgajon przy kinnorze.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dziesięciostrunowym"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevelu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "brzęczeniu higgajon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "przy kinnorze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:46.667333030Z",
+  "model": "glm-5.3"
+}

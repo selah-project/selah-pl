@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I usłyszał Paro ⟨את⟩ tę sprawę, i szukał zabić ⟨את⟩ Moszego; i uciekł Mosze sprzed oblicza Paro, i zamieszkał w ziemi Midian, i osiadł przy studni.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę sprawę"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tę sprawę"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "i szukał"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "zabić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszego"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zamieszkał"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i osiadł"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "studni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:52.117439887Z",
+  "model": "glm-5.3"
+}

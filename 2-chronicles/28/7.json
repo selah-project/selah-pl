@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zabił Zichri, mocarz z Efrajima, ⟨את⟩ Maasejahu, syna króla, oraz ⟨את⟩ Azrikama, przełożonego domu, oraz ⟨את⟩ Elkanę, drugiego po królu.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zichri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarz"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "z Efrajima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejahu, syna króla"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azrikama, przełożonego domu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikama"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "przełożonego"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanę, drugiego po królu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanę"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "po królu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:09:07.569448159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Gdy zbierają się ludy razem, i królestwa, by służyć ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "gdy zbierają się"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "i królestwa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "by służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.858022774Z",
+  "model": "glm-5.3"
+}

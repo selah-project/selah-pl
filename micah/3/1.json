@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I powiedziałem: Słuchajcieże, głowy Jaakowa i książęta domu Israela — czyż nie dla was ⟨jest⟩ poznać ⟨את⟩ sąd?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i powiedziałem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "że"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "i książęta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "poznać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sąd"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sąd"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:37.314253021Z",
+  "model": "glm-5.3"
+}

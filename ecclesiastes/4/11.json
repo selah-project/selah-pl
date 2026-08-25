@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Także jeśli leżą dwaj, ciepło ⟨jest⟩ im; a jednemu — jak się zagrzeje?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "leżą"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwaj"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ciepło ⟨jest⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "a jednemu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "zagrzeje się"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:41.597037635Z",
+  "model": "glm-5.3"
+}

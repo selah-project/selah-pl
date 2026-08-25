@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I wstanowię ⟨את⟩ moje przymierze ⟨את⟩ tobą, i wejdziesz do arki — ty i twoi synowie, i twoja żona, i żony twoich synów ⟨את⟩ tobą.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "i wstanowię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "i wejdziesz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i twoi synowie"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "i twoja żona"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i żony"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "twoich synów"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:57.867568420Z",
+  "model": "glm-5.3"
+}

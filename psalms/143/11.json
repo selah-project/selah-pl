@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "Dla imienia twego, Jahwe, ożywisz mnie; w sprawiedliwości twojej wyprowadzisz z ucisku nefesz moją.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Dla"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imienia twego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ożywisz mnie"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "w sprawiedliwości twojej"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "wyprowadzisz"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "z ucisku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:26.673927487Z",
+  "model": "glm-5.3"
+}

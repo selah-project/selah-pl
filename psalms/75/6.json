@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Nie podnoście wysoko waszego rogu, nie mówicie ⟨z⟩ twardym karkiem zuchwałych słów.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "podnoście"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "wysoko"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "waszego rogu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "mówicie"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "karkiem"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "twardym\/zuchwałym"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:35.078475761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I uląkł się, i wstał, i poszedł dla swej nefesz, i przyszedł do Beer-Szewy, która ⟨należy⟩ do Jehudy, i zostawił tam ⟨את⟩ swego młodzieńca.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i uląkł się"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dla"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swej nefesz"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "do Jehudy"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "i zostawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego młodzieńca"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "swego młodzieńca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:43.109238973Z",
+  "model": "glm-5.3"
+}

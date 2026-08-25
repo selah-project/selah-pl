@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Elohim z niebios wyjrzał na synów człowieka, by zobaczyć, czy jest rozumny, szukający ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z niebios"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wyjrzał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "by zobaczyć"
+    },
+    {
+      "surface": "היש",
+      "gloss": "czy jest"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "rozumny"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "szukający"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:20.562828064Z",
+  "model": "glm-5.3"
+}

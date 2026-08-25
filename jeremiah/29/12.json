@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I będziecie wzywać ⟨את⟩ mnie, i pójdziecie, i będziecie się modlić do mnie, a Ja was wysłucham.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "I będziecie wzywać"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "i pójdziecie"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "i będziecie się modlić"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "a Ja wysłucham"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "was"
+    }
+  ],
+  "timestamp": "2026-08-25T00:53:46.838897794Z",
+  "model": "glm-5.3"
+}

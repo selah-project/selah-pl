@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Niech chwalą ⟨את⟩ imię Jahwe, bo on rozkazał i zostały stworzone.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "niech chwalą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "i zostały stworzone"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:36.344958857Z",
+  "model": "glm-5.3"
+}

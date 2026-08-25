@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I będzie szałas na cień za dnia od upału, oraz na schronienie i na kryjówkę od wichru i od deszczu.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "I szałas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "na cień"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "za dnia"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od upału"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "oraz na schronienie"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "i na kryjówkę"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "od wichru"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "i od deszczu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:19.197848672Z",
+  "model": "glm-5.3"
+}

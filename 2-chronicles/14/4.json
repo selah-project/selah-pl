@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I usunął ze wszystkich miast Jehudy ⟨את⟩ wyżyny i ⟨את⟩ posągi słoneczne, i ucichło królestwo przed obliczem jego.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkich"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miast"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wyżyny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "posągi słoneczne"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "posągi słoneczne"
+    },
+    {
+      "surface": "וישקט",
+      "gloss": "i ucichło"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed obliczem jego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:11.228234599Z",
+  "model": "glm-5.3"
+}

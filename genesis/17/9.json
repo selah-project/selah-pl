@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Elohim do Awrahama: a ty ⟨את⟩ moje przymierze będziesz strzegł — ty i twoje potomstwo po tobie, dla ich pokoleń.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "będziesz strzegł"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "i twoje potomstwo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "po tobie"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dla ich pokoleń"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:58.545561543Z",
+  "model": "glm-5.3"
+}

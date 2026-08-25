@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "jeleń, gazele, daniel, koziorożec, dibon, teo i zamera",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "jeleń"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "i gazele"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "i daniel"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "i koziorożec"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "i dibon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "i teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "i zamera"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:51.994320077Z",
+  "model": "glm-5.3"
+}

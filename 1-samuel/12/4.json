@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I rzekli: Nie uciskałeś nas i nie zgniotłeś nas, i nie wziąłeś z ręki męża niczego.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "uciskałeś nas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "zgniotłeś nas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "wziąłeś"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niczego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:16.308324513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I walczyli synowie Jehudy z Jeruszalaim, i zdobyli ją, i pobili ją ostrzem miecza, a ⟨את⟩ miasto wydali na ogień.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "z Jeruszalaim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "i zdobyli"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "i pobili ją"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wydali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na ogień"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:06.931144897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "To ⟨jest⟩ zwierz, którego jeść będziecie: wół, owca z baranów i owca z kóz.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "To"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zwierz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jeść będziecie"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wół"
+    },
+    {
+      "surface": "שה",
+      "gloss": "owca"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "z baranów"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i owca"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "z kóz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:03.104352934Z",
+  "model": "glm-5.3"
+}

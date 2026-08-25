@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli srebro pożyczysz ⟨את⟩ ludowi memu, ⟨את⟩ biednego ⟨który jest⟩ z tobą, nie będziesz mu jak wierzyciel — nie nałożycie na niego odsetek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "pożyczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludowi memu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludowi memu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biednego"
+    },
+    {
+      "surface": "העני",
+      "gloss": "biednego"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będziesz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "jak wierzyciel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "nałożycie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "odsetek"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:25.629444093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Gdy wołam, odpowiedz mi, Elohim mojej sprawiedliwości; w ucisku dałeś mi przestrzeń — zmiłuj się nade mną i wysłuchaj mojej modlitwy.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Gdy wołam"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedz mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mojej sprawiedliwości"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "w ucisku"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "dałeś przestrzeń"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "zmiłuj się nade mną"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "i wysłuchaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojej modlitwy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.603280387Z",
+  "model": "glm-5.3"
+}

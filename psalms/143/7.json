@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "Pośpiesz się, odpowiedz mi, Jahwe! Duch mój ustaje; nie zakrywaj oblicza Twego przed mną, abym nie stał się jak schodzący do dołu.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "pośpiesz się"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedz mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ustaje"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duch mój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "zakrywaj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicza Twego"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "przed mną"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "abym nie stał się"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "schodzący"
+    },
+    {
+      "surface": "בור",
+      "gloss": "do dołu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:50.990388463Z",
+  "model": "glm-5.3"
+}

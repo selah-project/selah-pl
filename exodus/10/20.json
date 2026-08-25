@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Jahwe wzmocnił ⟨את⟩ serce Faraona, i nie ⟨את⟩ wysłał ⟨את⟩ synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a wzmocnił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce Faraona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨את⟩ wysłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:45.561947141Z",
+  "model": "glm-5.3"
+}

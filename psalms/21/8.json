@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Bo król ⟨polega⟩ na Jahwe, i na chesed Najwyższego — na pewno się nie zachwieje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "⟨polega⟩"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Jahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "i na chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najwyższego"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na pewno nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zachwieje się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:53.975286586Z",
+  "model": "glm-5.3"
+}

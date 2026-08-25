@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "W Elohim zaufałem — nie ulęknę się: cóż uczyni mi człowiek?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "W Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "zaufałem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ulęknę się"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.561071542Z",
+  "model": "glm-5.3"
+}

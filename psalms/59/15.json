@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "I niech wrócą wieczorem, niech szczekają jak pies, i niech krążą wokół miasta.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "i niech wrócą"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "niech szczekają"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jak pies"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "i niech krążą"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wokół miasta"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.585389622Z",
+  "model": "glm-5.3"
+}

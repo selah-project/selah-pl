@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Bo usta bezbożnego i usta oszustwa otworzyły się przeciw mnie, mówili ⟨├í mn─ם⟩ językiem kłamstwa",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "oszustwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "otworzyły się"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mówili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "mn─ם"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "językiem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.959531766Z",
+  "model": "glm-5.3"
+}

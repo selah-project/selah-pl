@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I stało się, gdy Jehu wykonywał sąd nad domem Achaba, że znalazł ⟨את⟩ książąt Judy i synów braci Achazjasza, sługi Achazjasza, i zabił ich.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "gdy wykonywał sąd"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "że znalazł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "książąt Judy i synów braci Achazjasza"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i synów"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braci"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjasza"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "Achazjasza"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "i zabił ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:06.465017179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I będziesz go uświęcał, gdyż ⟨את⟩ pokarm twojego Elohim on składa; święty będzie dla ciebie, gdyż święty jestem ja, Jahwe, was uświęcający.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "i będziesz go uświęcał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokarm twojego Elohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pokarm"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twojego Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "składa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "was uświęcający"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:20.341069819Z",
+  "model": "glm-5.3"
+}

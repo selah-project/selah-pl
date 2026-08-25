@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I przyszedł Josef do domu, i przynieśli mu ⟨את⟩ dar, który był w ich rękach, do domu, i pokłonili mu się aż do ziemi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i przynieśli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "w ich rękach"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłonili się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "aż do ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:40.202461043Z",
+  "model": "glm-5.3"
+}

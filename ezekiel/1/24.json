@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 1:24",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I usłyszałem ⟨את⟩ głos skrzydeł ich, gdy szły — jak głos wielu wód, jak głos Szaddai; głos zgiełku, jak głos obozu; gdy stały, opadały ich skrzydła.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "i usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos skrzydeł ich"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "skrzydeł ich"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jak głos"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielu"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jak głos"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Szaddai"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "gdy szły"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "המלה",
+      "gloss": "zgiełku"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jak głos"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "gdy stały"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "opadały"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "ich skrzydła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:06:16.334078233Z",
+  "model": "glm-5.3"
+}

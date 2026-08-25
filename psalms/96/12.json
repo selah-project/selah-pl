@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Niech się szczęśliwią pola i wszystko, co na nich; wtedy niech śpiewają z radości wszystkie drzewa lasu!",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "niech się szczęśliwią"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pola"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "niech śpiewają z radości"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "lasu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:36.273580121Z",
+  "model": "glm-5.3"
+}

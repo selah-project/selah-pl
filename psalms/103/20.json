@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Błogosławcie Jahwe, Jego wysłannicy, mocarze siły, wykonawcy Jego słowa, by słuchać głosu Jego słowa!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Błogosławcie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Jego wysłannicy"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "mocarze"
+    },
+    {
+      "surface": "כח",
+      "gloss": "siły"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wykonawcy"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Jego słowa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "by słuchać"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Jego słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:43.449702392Z",
+  "model": "glm-5.3"
+}

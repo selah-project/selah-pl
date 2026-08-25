@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wszystkie strumienie płyną do morza, a morze nie ⟨jest⟩ pełne; do miejsca, dokąd strumienie płyną, tam one wracają, by płynąć.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystkie"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "strumienie"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "płyną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "והים",
+      "gloss": "a morze"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie ⟨jest⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pełne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "dokąd strumienie"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "płyną"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הם",
+      "gloss": "one"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "wracają"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "by płynąć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:09.388844774Z",
+  "model": "glm-5.3"
+}

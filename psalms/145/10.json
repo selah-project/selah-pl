@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Wysławiać cię będą, Jahwe, wszystkie twoje dzieła, a twoi wierni błogosławić ci będą.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Wysławiać cię będą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "twoje dzieła"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "a twoi wierni"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "błogosławić ci będą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:31.185915801Z",
+  "model": "glm-5.3"
+}

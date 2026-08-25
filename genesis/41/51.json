@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I nazwał Josef ⟨את⟩ imię pierworodnego Menasze, bo sprawił Elohim, że zapomniałem ⟨את⟩ całego mojego trudu i ⟨את⟩ całego domu mojego ojca.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nazwał"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pierworodnego"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "sprawił, że zapomniałem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego mojego trudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mojego trudu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całego domu mojego ojca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojego ojca"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:27.983500896Z",
+  "model": "glm-5.3"
+}

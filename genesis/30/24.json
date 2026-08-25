@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I nazwała ⟨את⟩ jego imię Josef, mówiąc: Niech Jahwe doda mi jeszcze innego syna.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego imię"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "doda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:04.644479423Z",
+  "model": "glm-5.3"
+}

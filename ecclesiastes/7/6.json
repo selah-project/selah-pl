@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo jak trzask cierni pod garnkiem, tak ⟨jest⟩ śmiech głupca — a także to ⟨jest⟩ marność.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jak trzask"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "cierni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "garnkiem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "śmiech"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marność"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:52.523710073Z",
+  "model": "glm-5.3"
+}

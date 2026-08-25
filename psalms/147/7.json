@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Odpowiadajcie Jahwe dziękczynieniem, grajcie na strunach Elohim naszemu na kinorze.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Odpowiadajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dziękczynieniem"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "grajcie na strunach"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim naszemu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinorze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:44.964447409Z",
+  "model": "glm-5.3"
+}

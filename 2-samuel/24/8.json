@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I przemierzali całą ziemię, i po dziewięciu miesiącach i dwudziestu dniach przyszli do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "i przemierzali"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "po … dniach"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "dziewięciu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miesiącach"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dwudziestu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dniach"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:19.125375776Z",
+  "model": "glm-5.3"
+}

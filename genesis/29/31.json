@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I ujrzał Jahwe, że nienawidzona ⟨jest⟩ Lea, i otworzył ⟨את⟩ jej łono, a Rachel ⟨była⟩ niepłodna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "nienawidzona"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otworzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej łono"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "jej łono"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "a Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "niepłodna"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:58.746913677Z",
+  "model": "glm-5.3"
+}

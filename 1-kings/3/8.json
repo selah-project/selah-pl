@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A sługa twój ⟨jest⟩ w środku ludu twego, którego wybrałeś — ludu licznych, którego nie da się zliczyć ani policzyć z mnóstwa.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "A sługa twój"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ludu twego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "wybrałeś"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "licznych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "da się zliczyć"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "policzyć"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "z mnóstwa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:54.974351871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł do swoich córek: a gdzie on? Czemu tak zostawiłyście ⟨את⟩ męża? Zawołajcie go, niech zje chleb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "swoich córek"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "a gdzie on"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "zostawiłyście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "męża"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "zawołajcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "niech zje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:44.596417060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Joab wrócił z pogoni za Awnerem i zebrał ⟨את⟩ cały lud, i policzono ze sług Dawida dziewiętnastu ludzi oraz Asaela.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "A Joab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wrócił"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "z pogoni za"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awnerem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "i policzono"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ze sług"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "dziewięć"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naście"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oraz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:08.478408089Z",
+  "model": "glm-5.3"
+}

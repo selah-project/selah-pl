@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I żył Szelach po zrodzeniu ⟨את⟩ Ewera trzeci ⟨lat⟩ trzysta trzy i ⟨lat⟩ czterysta, i zrodził synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Szelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zrodzeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ewera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewera"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lata"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "i cztery"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setki"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-25T04:41:21.310424142Z",
+  "model": "glm-5.3"
+}

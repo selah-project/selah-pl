@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Bo przykazanie za przykazaniem, przykazanie za przykazaniem, lina za liną, lina za liną, odrobina tam, odrobina tam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "przykazanie"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "za przykazaniem"
+    },
+    {
+      "surface": "צו",
+      "gloss": "przykazanie"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "za przykazaniem"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lina"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "za liną"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lina"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "za liną"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "odrobina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "odrobina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-25T03:32:54.406615575Z",
+  "model": "glm-5.3"
+}

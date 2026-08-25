@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Suma twego sława ⟨to⟩ prawda, i na wieki każdy wyrok twej sprawiedliwości.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "suma"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "twego słowa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawda"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "i na wieki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wyrok"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "twej sprawiedliwości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:46.036102751Z",
+  "model": "glm-5.3"
+}

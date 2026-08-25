@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "A ⟨את⟩ oczy Cydakijasza oślepił, i związał go miedzianymi kajdanami, by sprowadzić ⟨את⟩ go do Bawelu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oczy Cydakijasza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cydakijasza"
+    },
+    {
+      "surface": "עור",
+      "gloss": "oślepił"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "i związał go"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "miedzianymi kajdanami"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "by sprowadzić"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "Cydakijasza"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Bawelu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:58:45.692698038Z",
+  "model": "glm-5.3"
+}

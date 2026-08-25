@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A sługa męża Bożego wstał wcześnie, by wstać, i wyszedł — a oto wojsko otacza ⟨את⟩ miasto, i konie, i rydwany. I rzekł jego młodzieniec do niego: Ach, mój panie! Jak mamy postąpić?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wstał wcześnie"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sługa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Bożego (ha-Elohim)"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "by wstać"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wojsko"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "otacza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "i konie"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i rydwany"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "jego młodzieniec"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mój panie"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "mamy postąpić"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:07.429953456Z",
+  "model": "glm-5.3"
+}

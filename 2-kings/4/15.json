@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł: Zawołaj ją. I zawołał ją, i stanęła w drzwiach.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zawołaj"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ją"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ją"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "i stanęła"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "w drzwiach"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:11.214198111Z",
+  "model": "glm-5.3"
+}

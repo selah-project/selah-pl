@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I pobili ⟨את⟩ ocalałą resztkę Amaleka, i mieszkają tam aż do dnia tego.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocałałą resztkę Amaleka"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resztkę"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "ocałałą"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i mieszkają"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:33.142304407Z",
+  "model": "glm-5.3"
+}

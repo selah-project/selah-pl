@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I przywrócił ⟨את⟩ nadzorcę podczaszy na jego podczaszenie, i podał kielich na dłoń Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i przywrócił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nadzorcę podczaszy"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadzorcę"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "podczaszych"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "jego podczaszenie"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i podał"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kielich"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dłoń"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:56.329808925Z",
+  "model": "glm-5.3"
+}

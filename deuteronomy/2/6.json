@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Żywność kupujcie od ⟨את⟩ nich za srebro i jedzcie; także wodę nabywajcie od ⟨את⟩ nich za srebro i pijcie.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "żywność"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kupujcie"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od ⟨את⟩ nich",
+      "marks": "nich"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "i jedzcie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "także"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodę"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "nabywajcie"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od ⟨את⟩ nich",
+      "marks": "nich"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "i pijcie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:43.608521884Z",
+  "model": "glm-5.3"
+}

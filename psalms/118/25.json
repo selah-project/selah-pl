@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Proszę, Jahwe, ocal, proszę; proszę, Jahwe, daj powodzenie, proszę.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Proszę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ocal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "daj powodzenie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:19.655346238Z",
+  "model": "glm-5.3"
+}

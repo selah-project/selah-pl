@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I upadłem na twarz przed Jahwe czterdzieści dni i czterdzieści nocy, podczas których upadałem, bo Jahwe powiedział, ⟨że⟩ chce ⟨את⟩ was zniszczyć.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "i upadłem na twarz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "czterdzieści"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdzieści"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "czterdzieści"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdzieści"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nocy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "podczas których"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "upadałem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "zniszczyć"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:35.001278415Z",
+  "model": "glm-5.3"
+}

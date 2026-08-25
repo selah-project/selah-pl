@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Zwróć się ku mnie i zmiłuj się nade mną, bo samotny i ubogi jestem ja.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "zwróć się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i zmiłuj się nade mną"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "samotny"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "i ubogi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem ja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:20.831283138Z",
+  "model": "glm-5.3"
+}

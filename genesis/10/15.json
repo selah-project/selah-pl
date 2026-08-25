@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Kanaan zrodził ⟨את⟩ Cydona, swojego pierworodnego, i ⟨את⟩ Cheta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "A Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cydona"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Cydona"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "swojego pierworodnego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Cheta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:34.531733405Z",
+  "model": "glm-5.3"
+}

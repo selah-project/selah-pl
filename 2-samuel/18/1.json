@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I przeglądnął Dawid ⟨את⟩ lud, który był ⟨את⟩ z nim, i ustanowił nad nimi dowódców tysięcy i dowódców setek.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i przeglądnął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dowódców"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i dowódców"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setek"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:19.217102142Z",
+  "model": "glm-5.3"
+}

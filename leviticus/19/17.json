@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie będziesz nienawidził ⟨את⟩ swego brata w swoim sercu; naganą naganisz ⟨את⟩ swojego współplemienca, i nie poniesiesz na nim winy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "będziesz nienawidził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego brata"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "swego brata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "w swoim sercu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "naganą"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "naganisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego współplemienca"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "swojego współplemienca"
+    },
+    {
+      "surface": "ו",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "poniesiesz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "winę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:43.491220813Z",
+  "model": "glm-5.3"
+}

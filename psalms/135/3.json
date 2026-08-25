@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Chwalcie Jah, bo dobry ⟨jest⟩ Jahwe; grajcie na strunach imieniu Jego, bo ⟨jest⟩ miłe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "grajcie na strunach"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "imieniu Jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "miłe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:35.951074685Z",
+  "model": "glm-5.3"
+}

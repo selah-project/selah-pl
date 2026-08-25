@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Nie ⟨jest⟩ król wybawiony przez mnóstwo wojska, mocarz nie będzie wyrwany przez mnóstwo siły.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "jest wybawiony"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "przez mnóstwo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wojska"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "będzie wyrwany"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "przez mnóstwo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "siły"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.718631653Z",
+  "model": "glm-5.3"
+}

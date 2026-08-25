@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I ⟨את⟩ mój lud będą uczyć ⟨rozróżniania⟩ między świętym a zwyczajnym, a między nieczystym a czystym sprawią im poznanie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "będą uczyć"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętym"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "a zwyczajnym"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczystym"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "a czystym"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "sprawią im poznanie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:28:29.297682503Z",
+  "model": "glm-5.3"
+}

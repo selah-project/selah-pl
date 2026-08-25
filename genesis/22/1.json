@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I stało się po tych słowach, że Elohim wystawił na próbę ⟨את⟩ Abrama — Awrahama, i rzekł do niego: Awraham! A on rzekł: Oto ja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tych słowach"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "wystawił na próbę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrama — Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrama — Awrahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahamie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto ja"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:15.537102651Z",
+  "model": "glm-5.3"
+}

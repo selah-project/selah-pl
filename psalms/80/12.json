@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Wysyłała pędy swoje aż do morza, a aż do Rzeki odrostki swoje.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "wysyłała"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "pędy swoje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a aż do"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Rzeki"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "odrostki swoje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:26.372835546Z",
+  "model": "glm-5.3"
+}

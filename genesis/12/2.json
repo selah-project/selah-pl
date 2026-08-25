@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I uczynię cię narodem wielkim, i będę ci błogosławił, i wywyższę twoje imię, i bądź błogosławieństwem.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "i uczynię cię"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "narodem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "i będę ci błogosławił"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "i wywyższę"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twoje imię"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bądź"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "błogosławieństwem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:46.794273957Z",
+  "model": "glm-5.3"
+}

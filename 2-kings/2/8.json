@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wziął Eliahu ⟨את⟩ płaszcz swój, i zwinął go, i uderzył ⟨את⟩ wody, i rozdzieliły się tu i tam, i przeszli obaj po suchej ziemi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "płaszcz swój"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "płaszcz swój"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "i zwinął go"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ויחצu",
+      "gloss": "i rozdzieliły się"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "i przeszli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obaj"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "po suchej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:53.294147991Z",
+  "model": "glm-5.3"
+}

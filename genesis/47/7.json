@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I wprowadził Josef ⟨את⟩ Jaakowa, ojca swego, i postawił go przed Parohem; i pobłogosławił Jaakow ⟨את⟩ Paroha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wprowadził"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "i postawił go"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohem"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:39.949986589Z",
+  "model": "glm-5.3"
+}

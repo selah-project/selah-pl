@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "Pieśń Dawida. Jahwe, usłysz modlitwę moją, nakłoń ucho na błagania moje; w wierności twojej odpowiedz mi, w sprawiedliwości twojej.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłysz"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "modlitwę moją"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakłoń ucho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "błagania moje"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "w wierności twojej"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedz mi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "w sprawiedliwości twojej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.012348556Z",
+  "model": "glm-5.3"
+}

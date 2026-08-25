@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 128,
+  "translation": "i patrz na synów synów twoich; pokój na Izraelu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i patrz"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "synów twoich"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:47.148010818Z",
+  "model": "glm-5.3"
+}

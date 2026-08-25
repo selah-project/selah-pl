@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Uczyniłeś nas przedmiotem kłótni dla naszych sąsiadów, a nasi wrogowie wyśmiewają ⟨nas⟩ wśród siebie.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Uczyniłeś-nas"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "przedmiotem-kłótni"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "dla-sąsiadów-naszych"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "a-wrogowie-nasi"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "wyśmiewają"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wśród-siebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:49.736069862Z",
+  "model": "glm-5.3"
+}

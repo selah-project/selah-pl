@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I poda Aharon o dwa kozły losy: jeden los dla Jahwe, a jeden los dla Azazela.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i poda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kozły"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "losy"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "a los"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "dla Azazela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:18.152571319Z",
+  "model": "glm-5.3"
+}

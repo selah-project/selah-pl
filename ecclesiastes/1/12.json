@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Ja, Kohelet, byłem królem nad Israelem w Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelem"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:30.871466902Z",
+  "model": "glm-5.3"
+}

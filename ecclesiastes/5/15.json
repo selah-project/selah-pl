@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I także to choroba zła ⟨jest⟩: we wszystkim jak przyszedł, tak odejdzie, i co za zysk ma z tego, że się trudzi dla wiatru?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i także"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zła"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "choroba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "we wszystkim"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "jak"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "odejdzie"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i co"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "zysk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "że się trudzi"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "dla wiatru"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:47.399529842Z",
+  "model": "glm-5.3"
+}

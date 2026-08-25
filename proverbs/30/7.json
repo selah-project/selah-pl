@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Dwie rzeczy prosiłem od ⟨את⟩ ciebie; nie odmawiaj mi ich, zanim nie umrę.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dwie rzeczy"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "prosiłem"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩",
+      "marks": "od ciebie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "odmawiaj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "nie umrę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:41.553133529Z",
+  "model": "glm-5.3"
+}

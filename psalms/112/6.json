@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Bo na zawsze nie zachwieje się; na pamięć wieczną ⟨będzie⟩ sprawiedliwy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zachwieje się"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "na pamięć"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczną"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨będzie⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:00.229110207Z",
+  "model": "glm-5.3"
+}

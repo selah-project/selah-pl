@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Ci będą stać, aby błogosławić ⟨את⟩ lud, na góry Gerizim, gdy przekroczycie ⟨את⟩ Jardén: Szymeon i Lewi, i Jehuda, i Isachar, i Josef, i Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "będą stać"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "aby błogosławić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górze"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "gdy przekroczycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Szymeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "i Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "i Isachar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "i Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:02.687390699Z",
+  "model": "glm-5.3"
+}

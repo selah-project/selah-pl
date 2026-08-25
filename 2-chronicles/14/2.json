@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I usunął ⟨את⟩ ołtarze obce oraz wyżyny, i złamał ⟨את⟩ stele, i wyciął ⟨את⟩ aszery.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze obce"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "obce"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "oraz wyżyny"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "i złamał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stele"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stele"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "i wyciął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aszery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "aszery"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:11.227962246Z",
+  "model": "glm-5.3"
+}

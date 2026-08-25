@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Lecz kusili i buntowali się przeciwko ⟨את⟩ Elohim, Najwyższemu, a jego świadectw nie strzegli.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "kusili"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "i buntowali się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim, Najwyższemu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najwyższemu"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "a jego świadectw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "strzegli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:07.380885312Z",
+  "model": "glm-5.3"
+}

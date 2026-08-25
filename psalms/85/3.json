@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Uniósłeś winę twojego ludu, okryłeś cały ich grzech. Sela",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Uniósłeś"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "twojego ludu"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "okryłeś"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ich grzech"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:24.591110564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Przewodnikowi. Maskil ⟨pouczający⟩ synów Koracha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil ⟨pouczający⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:14.879252562Z",
+  "model": "glm-5.3"
+}

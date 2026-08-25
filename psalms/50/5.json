@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Zbierzcie mi moich čdesidów — zbierzcie mi moich časydów, ci, którzy zawarli moje przymierze nad ofiarą.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Zbierzcie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "moich cadydów"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "którzy zawarli"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofiarą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.384692922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I stało się, gdy umocniło się nad nim królestwo, że zabił ⟨את⟩ swoich sługi, którzy zabili ⟨את⟩ króla, jego ojca.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "umocniło się"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "że zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sługi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sługi"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "którzy zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:57.167879472Z",
+  "model": "glm-5.3"
+}

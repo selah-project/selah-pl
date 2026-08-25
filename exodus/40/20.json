@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I wziął, i włożył ⟨את⟩ Świadectwo do Arki, i umieścił ⟨את⟩ drążki na Arce, i położył ⟨את⟩ przebłagalnię na Arce, od góry.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I wziął"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i włożył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Świadectwo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i umieścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drążki"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arce"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przebłagalnię"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "przebłagalnię"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arce"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "od góry"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:55.254892209Z",
+  "model": "glm-5.3"
+}

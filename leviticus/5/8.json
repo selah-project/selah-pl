@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przyniesie ⟨את⟩ je do kapłana, i ⟨ten⟩ przystawi to, co na ofiarę za grzech, najpierw, i ukręci ⟨את⟩ jego głowę naprzeciw jego karku, a nie oddzieli jej.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "I przyniesie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (dwie ptasice)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i przystawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co na ofiarę za grzech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "na ofiarę za grzech"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "najpierw"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "i ukręci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego głowę"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "jego karku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "oddzieli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:47.250630038Z",
+  "model": "glm-5.3"
+}

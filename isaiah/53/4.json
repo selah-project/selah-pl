@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Zaprawdę ⟨on⟩ choroby nasze wziął na siebie, a bóle nasze — je poniósł; a my uznaliśmy go porażonym, ubitym przez Elohim i umuczonym.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "choroby nasze"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wziął na siebie"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "a bóle nasze"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "je poniósł"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "uznaliśmy go"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "porażonym"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ubitym"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "przez Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "i umuczonym"
+    }
+  ],
+  "timestamp": "2026-08-25T03:33:50.244972896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wzięłaś ⟨את⟩ swoich synów i ⟨את⟩ swoje córki, które mi urodziłaś, i złożyłaś je im na pokarm — czy to mało ⟨jest⟩ wobec twoich nierządów?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "i wzięłaś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swoje córki"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "swoje córki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "urodziłaś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "i złożyłaś je w ofierze"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "na pokarm"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "czy to mało"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "wobec twoich nierządów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:12:59.920603682Z",
+  "model": "glm-5.3"
+}

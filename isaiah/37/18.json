@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Zaprawdę, Jahwe, spustoszyli królowie Aszszura ⟨את⟩ wszystkie kraje i ⟨את⟩ ich kraj.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "spustoszyli"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie kraje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "kraje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich kraj"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ich kraj"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:15.195518598Z",
+  "model": "glm-5.3"
+}

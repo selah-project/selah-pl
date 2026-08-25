@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Tylko w grzechach Jeroboama, syna Nebata, którym wprowadził w grzech ⟨את⟩ Izraela, trwał — nie odstąpił od nich.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tylko"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "w grzechach"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wprowadził w grzech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "trwał"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstąpił"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:26.486391159Z",
+  "model": "glm-5.3"
+}

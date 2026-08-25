@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zabrał Balak ⟨את⟩ Bilama na szczyt Peoru, patrzący na oblicze pustkowia.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i zabrał"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "na szczyt"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peoru"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "patrzący"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "pustkowia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:36.684399506Z",
+  "model": "glm-5.3"
+}

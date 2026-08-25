@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Rzeki niech klaszczą w dłonie, razem niech góry wykrzykują radośnie.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Rzeki"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "niech klaszczą"
+    },
+    {
+      "surface": "כף",
+      "gloss": "w dłonie"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "niech wykrzykują radośnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.022794721Z",
+  "model": "glm-5.3"
+}

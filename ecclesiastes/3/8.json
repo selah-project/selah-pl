@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Czas miłowania i czas nienawidzenia; czas wojny i czas pokoju.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "miłowania"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i czas"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nienawidzenia"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i czas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:35.860447788Z",
+  "model": "glm-5.3"
+}

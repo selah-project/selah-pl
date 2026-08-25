@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Bo w ręce jego głębiny ziemi, a szczyty gór jego ⟨są⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w ręce jego"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "głębiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "a szczyty"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.402247078Z",
+  "model": "glm-5.3"
+}

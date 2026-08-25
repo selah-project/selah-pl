@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wszystko idzie do miejsca jednego: wszystko powstało z prochu i wszystko wraca do prochu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Wszystko"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "idzie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "powstało"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prochu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wraca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prochu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:10.835742658Z",
+  "model": "glm-5.3"
+}

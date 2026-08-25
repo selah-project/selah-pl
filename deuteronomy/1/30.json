@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jahwe, wasz Elohim, który idzie przed wami, On będzie walczył za was, według wszystkiego, co uczynił ⟨את⟩ wami w Micrajim na waszych oczach.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "który idzie"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "będzie walczył"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za was"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami",
+      "marks": "wami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micrajim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "na waszych oczach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:23.954938602Z",
+  "model": "glm-5.3"
+}

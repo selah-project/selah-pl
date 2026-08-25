@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Biada temu, kto spiera się ⟨את⟩ swoim Twórcą — skorupa ⟨את⟩ skorupami ziemi! Czy rzeknie glina temu, kto ją formuje: Co czynisz? albo dzieło twoje: On nie ma rąk?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "רב",
+      "gloss": "spiera się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim Twórcą"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "Twórcą"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "skorupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skorupami ziemi"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "skorupami"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "Czy rzeknie"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "glina"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "temu, kto ją formuje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "czynisz"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "albo dzieło twoje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rąk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-08-25T04:15:43.421993404Z",
+  "model": "glm-5.3"
+}

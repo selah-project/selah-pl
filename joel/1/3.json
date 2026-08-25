@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "O tym opowiadajcie synom waszym, a synowie wasze synom swoim, a synowie ich pokoleniu innemu.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "O tym"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "synom waszym"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "opowiadajcie"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a synowie wasze"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "synom swoim"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "a synowie ich"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pokoleniu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innemu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:21.364874490Z",
+  "model": "glm-5.3"
+}

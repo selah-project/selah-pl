@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "i pokorzył w trudzie ich serce — chwiały się, i nie było pomocnika.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "i pokorzył"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "w trudzie"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ich serce"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "chwiały się"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocnika"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:35.777941716Z",
+  "model": "glm-5.3"
+}

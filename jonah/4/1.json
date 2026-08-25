@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I było złe Jonahowi zło wielkie, i zapłonęło ⟨w nim gniew⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "było złe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jonahowi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonęło"
+    },
+    {
+      "surface": "לו",
+      "gloss": "w nim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:04.657922167Z",
+  "model": "glm-5.3"
+}

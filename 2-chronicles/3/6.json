@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wyłożył ⟨את⟩ dom kamieniem drogim ku ozdobie, a złoto — złoto Parwajim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i wyłożył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamieniem"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "drogim"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ku ozdobie"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "a złoto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parwajim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:32.072024913Z",
+  "model": "glm-5.3"
+}

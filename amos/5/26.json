@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I nosiliście ⟨את⟩ Sikut, króla waszego, i ⟨את⟩ Kiun, posągi wasze, gwiazdę boga waszego, którą zrobiliście sobie.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "i nosiliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut, króla waszego"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "króla waszego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kiun, posągi wasze"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "posągi wasze"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "gwiazdę"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "boga waszego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "zrobiliście"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:59.997080854Z",
+  "model": "glm-5.3"
+}

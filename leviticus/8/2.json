@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Weź ⟨את⟩ Aharona i ⟨את⟩ jego synów ⟨את⟩ niego, i ⟨את⟩ szaty, i ⟨את⟩ olejek namaszczenia, i ⟨את⟩ młodaucha ofiary za grzech, i ⟨את⟩ dwa barany, i ⟨את⟩ kosz macy.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Weź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (z nim)",
+      "marks": "z nim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "szaty"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "olejek namaszczenia"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejek"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "młodaucha ofiary za grzech"
+    },
+    {
+      "surface": "פר",
+      "gloss": "młodaucha"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dwa barany"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "barany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kosz macy"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kosz"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "macy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:46.989341880Z",
+  "model": "glm-5.3"
+}

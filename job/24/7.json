@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Nadzy nocują, bez odzienia, i nie ma okrycia w chłodzie.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nadzy"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "nocują"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "odzież"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "okrycia"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "w chłodzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:21:07.552042757Z",
+  "model": "glm-5.3"
+}

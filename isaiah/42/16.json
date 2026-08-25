@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I poprowadzę ślepych drogą, której nie znali, ścieżkami, których nie znali, ich pokieruję; uczynię ciemność przed nimi ⟨na⟩ światło, a kręte ⟨na⟩ proste — to są rzeczy, które im uczyniłem i nie opuściłem ich.",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "i poprowadzę"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ślepych"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znali"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "ścieżkami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znali"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "ich pokieruję"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "⟨na⟩ światło"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "a kręte"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "⟨na⟩ proste"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to są"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "które im uczyniłem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "opusciłem ich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:22.483687063Z",
+  "model": "glm-5.3"
+}

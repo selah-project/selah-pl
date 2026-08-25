@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Będę Cię wyznawał wśród ludów, Adonai, będę Ci zaśpiewam wśród narodów.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Będę Cię wyznawał"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "wśród ludów"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "będę Ci zaśpiewam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "narodów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:49.932775455Z",
+  "model": "glm-5.3"
+}

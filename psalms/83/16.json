@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Tak ścigaj ich swoją burzą i swoim huraganem ich przerażaj.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ścigaj ich"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "swoją burzą"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "i swoim huraganem"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ich przerażaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:43.381911113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Przewodnikowi, na ⟨the⟩ nechilot, psalm Dawidowi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:11.301428044Z",
+  "model": "glm-5.3"
+}

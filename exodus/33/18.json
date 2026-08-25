@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I rzekł: pokaż mi, proszę, ⟨את⟩ swoją chwałę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "pokaż mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją chwałę"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "swoją chwałę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:13.014969785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Długością dni nasycę go i pokażę mu ⟨w⟩ moje wyzwolenie.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "długością"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "nasycę go"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "i pokażę mu"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "moje wyzwolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:38.212145588Z",
+  "model": "glm-5.3"
+}

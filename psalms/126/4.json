@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 126,
+  "translation": "Powróć, Jahwe, ⟨את⟩ nasz los powrotu, jak strumienie na Negewie!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Powróć"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasz los powrotu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "nasz los powrotu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "jak strumienie"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na Negewie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:28.319751111Z",
+  "model": "glm-5.3"
+}

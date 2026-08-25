@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ resztę ludu, pozostałą w mieście, i ⟨את⟩ zdezerterowanych, którzy przeszli na stronę króla Babelu, i ⟨את⟩ resztę tłumu uprowadził Newuzaradan, raw tabachim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "resztę ludu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "pozostałą"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zdezerterowanych"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "zdezerterowanych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "przeszli"
+    },
+    {
+      "surface": "על",
+      "gloss": "na stronę"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "resztę tłumu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "tłumu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "uprowadził"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Newuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "raw"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabachim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:31.308041173Z",
+  "model": "glm-5.3"
+}

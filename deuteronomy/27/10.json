@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I będziesz słuchał głosu Jahwe, Elohim twojego, abyś czynił ⟨את⟩ przykazania Jego i ⟨את⟩ ustawy Jego, które ja nakazuję ci dziś.",
+  "tokens": [
+    {
+      "surface": "וושמעת",
+      "gloss": "i będziesz słuchał"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "abyś czynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazania Jego"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "przykazania Jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ustawy Jego"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ustawy Jego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuję ci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:02.687105531Z",
+  "model": "glm-5.3"
+}

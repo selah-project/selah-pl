@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Czyż to nie jest ten Dawid, któremu odpowiadali w pląsach, mówiąc: Saul zabił w tysiącach swoich, a Dawid w dziesięciu tysiącach swoich?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "któremu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpowiadali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "w pląsach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "w tysiącach swoich"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "w dziesięciu tysiącach swoich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:00.868050447Z",
+  "model": "glm-5.3"
+}

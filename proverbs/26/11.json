@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Jak pies wraca do swych wymiocin, tak głupi powtarza swoją głupotę.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "jak pies"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wraca"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "swych wymiocin"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "głupi"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "powtarza"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "swoją głupotę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:54.796771930Z",
+  "model": "glm-5.3"
+}

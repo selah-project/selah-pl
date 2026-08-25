@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wieźli ⟨את⟩ niego na koniach, i został pogrzebany w Jeruszalaim z ojcami swymi, w mieście Dawida.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i wieźli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "koniach"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pogrzebany"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ojcami swymi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:50.946114424Z",
+  "model": "glm-5.3"
+}

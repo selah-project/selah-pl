@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nie mów bliźniemu swemu: Idź i wróć, a jutro dam — a ⟨jest⟩ ⟨את⟩ przy tobie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "bliźniemu swemu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "i wróć"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "a jutro"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "a ⟨jest⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ przy tobie",
+      "marks": "przy tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:10.954564002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 149,
+  "translation": "by związać ich królów okowami, a ich dostojników kajdanami żelaza.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "by związać"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ich królów"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "okowami"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "a ich dostojników"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "kajdanami"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "żelaza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.873355907Z",
+  "model": "glm-5.3"
+}

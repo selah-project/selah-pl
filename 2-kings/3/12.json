@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jehoszafat: Jest przy nim ⟨את⟩ słowo Jahwe. I zeszli do niego król Izraela, Jehoszafat i król Edomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "i zeszli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:01.918976658Z",
+  "model": "glm-5.3"
+}

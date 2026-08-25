@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ tych będziecie się brzydzić spośród ptactwa; nie będą jedzone, obrzydliwość to one: ⟨את⟩ ha-neszer, i ⟨את⟩ ha-peres, i ⟨את⟩ ha-aznijję.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tych"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "będziecie się brzydzić"
+    },
+    {
+      "surface": "מן",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptactwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "będą jedzone"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "obrzydliwość"
+    },
+    {
+      "surface": "הם",
+      "gloss": "to one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-neszer"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ha-neszer (orłosęp)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ha-peres (ścierńnik)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-aznijję"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ha-aznijję (rybołów)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:11.729128533Z",
+  "model": "glm-5.3"
+}

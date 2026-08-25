@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Jest zło, które widziałem pod słońcem, i wielkie ⟨jest⟩ ono nad człowiekiem.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "i wielkie"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiekiem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:43.017755973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 127,
+  "translation": "Jak strzały w ręku mocarza, tak synowie młodości.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Jak strzały"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w ręku"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "młodości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:34.919842353Z",
+  "model": "glm-5.3"
+}

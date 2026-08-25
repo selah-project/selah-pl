@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Człowiek do marności ⟨jest⟩ porównany, dni jego jak cień przemijający.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "do marności"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "⟨jest⟩ porównany"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dni jego"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "jak cień"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "przemijający"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:19.990106376Z",
+  "model": "glm-5.3"
+}

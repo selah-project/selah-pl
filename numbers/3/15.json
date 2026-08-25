@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Policz ⟨את⟩ synów Lewiego według domu ich ojców, według ich rodzin: każdego mężczyznę od miesiąca i wzwyż policzysz ich.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "policz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Lewiego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "według domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodzin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od syna"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i wzwyż"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "policzysz ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:43.341236197Z",
+  "model": "glm-5.3"
+}

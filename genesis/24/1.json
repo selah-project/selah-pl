@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A Awraham zestarzał się, przyszedł w dniach, i Jahwe pobłogosławił ⟨את⟩ Awrahama we wszystkim.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "A Awraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "zestarzał się"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pobłogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:13.002122040Z",
+  "model": "glm-5.3"
+}

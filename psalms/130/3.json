@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Jeżeli przewinienia będziesz strzegł, Jah, Adonai, któż ostoi się?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeżeli"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "przewinienia"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "będziesz strzegł"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "któż"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ostoi się"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:05.723456934Z",
+  "model": "glm-5.3"
+}

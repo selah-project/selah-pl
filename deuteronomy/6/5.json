@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I będziesz miłował ⟨את⟩ Jahwe, Elohim twojego, całym swoim sercem i całą swoją nefesz, i całym swoim maoed.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "i będziesz miłował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, Elohim twojego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "swoim sercem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i całą"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "swoją nefesz"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i całym"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "swoim maoed"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:53.906634629Z",
+  "model": "glm-5.3"
+}

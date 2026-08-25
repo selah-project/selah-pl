@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "to dacie poznać ⟨את⟩ waszym synom, mówiąc: Po suchym przeprawił się Jisrael ⟨את⟩ ten Jordan.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "to dacie poznać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waszym synom"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "waszym synom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suchym"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przeprawił się"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ten Jordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:10.525184565Z",
+  "model": "glm-5.3"
+}

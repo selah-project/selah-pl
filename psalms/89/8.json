@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "El budzący trwożę w radzie świętych, wielki, i przejmujący grozą nad wszystkimi wokół Niego.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "budzący trwożę"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "w radzie"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "świętych"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "i przejmujący grozą"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkimi"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "wokół Niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:29.575073408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I pobił Jonatan ⟨את⟩ załogę Pelisztów, która ⟨była⟩ w Geba, i usłyszeli Pelisztowie; a Szaul zatrąbił w szofar po całej ziemi, mówiąc: Niech usłyszą Hebrajczycy.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "załogę Pelisztów"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "załogę"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "w Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "i usłyszeli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztowie"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Szaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "zatrąbił"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "w szofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "niech usłyszą"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczycy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:13.584212461Z",
+  "model": "glm-5.3"
+}

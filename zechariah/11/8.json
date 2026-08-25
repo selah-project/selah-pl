@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I wytępiłem ⟨את⟩ trzech pasterzy w jednym miesiącu, i znużyła się moja nefesz nimi, a także ich nefesz mnie obrzydziła.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "I wytępiłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzech"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzech"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pasterzy"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "w"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym miesiącu"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "i znużyła się"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich nefesz"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "obrzydziła"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:14.917144554Z",
+  "model": "glm-5.3"
+}

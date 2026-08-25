@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Obala, i ⟨את⟩ Abimaela, i ⟨את⟩ Szeby.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Obala"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Obal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Abimaela"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szeby"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeba"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:47.235685608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zapytał król niewiastę, a ona opowiedziała mu; i dał jej król jednego eunucha, mówiąc: Zwróć ⟨את⟩ wszystko, co do niej należy, oraz ⟨את⟩ cały plon pola od dnia, w którym opuściła ⟨את⟩ ziemię, aż dotąd.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i zapytał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "niewiastę"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "a opowiedziała"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunucha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "zwróć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co do niej należy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej należy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "cały plon pola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "plon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dnia"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "opuściła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dotąd"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:57.246074847Z",
+  "model": "glm-5.3"
+}

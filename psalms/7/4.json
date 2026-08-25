@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jahwe, Elohim mój, jeśli uczyniłem ⟨את⟩ to, jeśli jest niesprawiedliwość na moich dłoniach —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "uczyniłem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨את⟩ to",
+      "marks": "to"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "עול",
+      "gloss": "niesprawiedliwość"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "na moich dłoniach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:27.629098237Z",
+  "model": "glm-5.3"
+}

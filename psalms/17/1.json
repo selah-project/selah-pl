@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Modlitwa Dawida. Wysłuchaj, Jahwe, sprawiedliwość; nadstaw ucha na mój krzyk; posłuchaj mojej modlitwy — bez warg oszustwa.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Wysłuchaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "nadstaw ucha"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mój krzyk"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "posłuchaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojej modlitwy"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "warg"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "oszustwa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.617046050Z",
+  "model": "glm-5.3"
+}

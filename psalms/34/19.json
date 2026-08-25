@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Bliski ⟨jest⟩ Jahwe skruszonym sercem, a skruszonych duchem wybawi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "bliski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "skruszonym"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sercem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skruszonych duchem"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "skruszonych"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "wybawi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:16.170245198Z",
+  "model": "glm-5.3"
+}

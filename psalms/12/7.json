@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Słowa Jahwe — słowa czyste, srebro wypróbowane w tyglu z ziemi, oczyszczone siedmiokroć.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "czyste"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "wypróbowane"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "w tyglu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "oczyszczone"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "siedmiokroć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:36.413832742Z",
+  "model": "glm-5.3"
+}

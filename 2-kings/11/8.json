@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I otoczycie króla dokoła, każdy ⟨człowiek⟩ ze swoją bronią w swojej ręce; a ten, kto wejdzie między szyki, będzie zabity; i bądźcie ⟨z⟩ ⟨את⟩ królem w jego wychodzeniu i w jego wchodzeniu.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "I otoczycie"
+    },
+    {
+      "surface": "על",
+      "gloss": "wokół"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy ⟨człowiek⟩"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "ze swoją bronią"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w swojej ręce"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "a ten, kto wejdzie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "między"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "szyki"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będzie zabity"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i bądźcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "królem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "w jego wychodzeniu"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "i w jego wchodzeniu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:16.856151479Z",
+  "model": "glm-5.3"
+}

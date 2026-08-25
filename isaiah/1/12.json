@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Gdy przychodzicie, by się pokazać przed obliczem Moim — kto zażądał tego z waszej ręki? Deptać Moje dziedzińce!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "przychodzicie"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "by się pokazać"
+    },
+    {
+      "surface": "פני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "zażądał"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "z waszej ręki"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "Deptać"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "Moje dziedzińce"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:49.501865024Z",
+  "model": "glm-5.3"
+}

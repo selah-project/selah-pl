@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Sześć lat będziesz siać swoje pole, i sześć lat będziesz przycinać swój winnik, i zbierzesz ⟨את⟩ jego plon.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "będziesz siać"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "swoje pole"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "będziesz przycinać"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "swój winnik"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i zbierzesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego plon"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jego plon"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:36.912327230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Ten, który czyni pokój na twoim pograniczu, najtłustszą pszenicą syci ciebie.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ten, który czyni"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "na twoim pograniczu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "najtłustszą"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pszenicą"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "syci ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:22.104702314Z",
+  "model": "glm-5.3"
+}

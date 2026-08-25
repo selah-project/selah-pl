@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Ręka twoja znajdzie wszystkich twoich wrogów, twoja prawica znajdzie tych, którzy cię nienawidzą.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "znajdzie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ręka twoja"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "twoich wrogów"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "twoja prawica"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "znajdzie"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "którzy cię nienawidzą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:24.889914493Z",
+  "model": "glm-5.3"
+}

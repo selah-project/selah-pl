@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "Usłysz, Elohimie, głos mój w mojej skardze, od trwogi nieprzyjaciela zachowaj życie moje.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Usłysz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "w mojej skardze"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "od trwogi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciela"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "zachowaj"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "życie moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:07.358027510Z",
+  "model": "glm-5.3"
+}

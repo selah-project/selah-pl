@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Lepszy cierpliwy (długo-nozdrzy) niż bohater, i panujący nad duchem swoim niż zdobywca miasta.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepszy"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "długo-"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nozdrzy"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "niż bohater"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "i panujący"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "nad duchem swoim"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "niż zdobywca"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:37.591389781Z",
+  "model": "glm-5.3"
+}

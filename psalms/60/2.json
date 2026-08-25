@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Gdy walczył ⟨z⟩ ⟨את⟩ Aramem Naharaim i ⟨z⟩ ⟨את⟩ Aramem Cowa, i wrócił Joab, i poraził ⟨את⟩ Edom w dolinie Soli, dwanaście tysięcy",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Gdy walczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramem"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨z⟩ ⟨את⟩",
+      "marks": "Aramem"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramem"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cowa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "w dolinie"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naście"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiące"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.579657789Z",
+  "model": "glm-5.3"
+}

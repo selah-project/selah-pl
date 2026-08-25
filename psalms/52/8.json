@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "I ujrzą sprawiedliwi, i ulękną się, i będą się z niego śmiać.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i ujrzą"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i ulękną się"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "i będą się śmiać"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:05.979033784Z",
+  "model": "glm-5.3"
+}

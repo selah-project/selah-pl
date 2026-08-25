@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I potłukł ⟨את⟩ stele, i porąbał ⟨את⟩ aszery, i napełnił ⟨את⟩ miejsca ich kośćmi ludzkimi.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "i potłukł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stele"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stele"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i porąbał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aszery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "aszery"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i napełnił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miejsca ich"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "miejsca ich"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kośćmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ludzkimi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:45.535176255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I uczynisz ⟨את⟩ lampy jej, siedem, i wznosisz ⟨את⟩ lampy jej, i świeci naprzeciw oblicza jej.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampy jej"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampy jej"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "i wznosisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampy jej"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampy jej"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "i świeci"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "naprzeciw (strona)"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "oblicza jej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:27.816750243Z",
+  "model": "glm-5.3"
+}

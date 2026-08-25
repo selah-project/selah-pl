@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A teraz znieś racz grzech mój, tylko ten raz, i wstawcie się za mną do Jahwe, Elohim waszego, a niech odwróci ode mnie tylko tę śmierć tę.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "שא",
+      "gloss": "znieś"
+    },
+    {
+      "surface": "נא",
+      "gloss": "racz"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grzech mój"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ten raz"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "i wstawcie się"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "do Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszego"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a niech odwróci"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę śmierć tę"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierć"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:45.561198997Z",
+  "model": "glm-5.3"
+}

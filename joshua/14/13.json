@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I pobłogosławił go Jehoszua, i dał ⟨את⟩ Chewron Kalebowi, synowi Jefunnego, na dziedzictwo.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "i pobłogosławił go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chewron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebowi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synowi"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnego"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "na dziedzictwo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:20:01.978379517Z",
+  "model": "glm-5.3"
+}

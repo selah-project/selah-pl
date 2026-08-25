@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "I moc Twoich straszliwych czynów będą opowiadać, a Twoją wielkość będę opiewać.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "i moc"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "Twoich straszliwych czynów"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "będą opowiadać"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "a Twoją wielkość"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "będę opiewać"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:09.239298989Z",
+  "model": "glm-5.3"
+}

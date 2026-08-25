@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "gdyż walczył mój ojciec za wami, i rzucił ⟨את⟩ swoją nefesz przodem, i wyrwał ⟨את⟩ was z ręki Midjanu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczył"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mój ojciec"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "za wami"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i rzucił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją nefesz"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swoją nefesz"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "przodem"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i wyrwał"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was — wyrwanych z ręki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:41.372500188Z",
+  "model": "glm-5.3"
+}

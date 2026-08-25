@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Dobra ⟨jest⟩ mądrość z dziedzictwem, i ⟨jest⟩ zyskiem dla tych, którzy widzą słońce.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dziedzictwem"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "i zyskiem"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "dla tych, którzy widzą"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:22.358730967Z",
+  "model": "glm-5.3"
+}

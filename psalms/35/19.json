@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech się nie radują ze mnie kłamliwie moi wrogowie, ci, którzy nienawidzą mnie bez powodu, niech mrugają okiem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "radują się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ze mnie"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moi wrogowie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamliwie"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nienawidzący mnie"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "niech mrugają"
+    },
+    {
+      "surface": "עין",
+      "gloss": "okiem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:39.070678860Z",
+  "model": "glm-5.3"
+}

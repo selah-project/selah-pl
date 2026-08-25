@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wybawił Jahwe tego dnia ⟨את⟩ Israela; a bitwa przeszła aż po Bet-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "I wybawił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tego dnia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamtego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "a bitwa"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "przeszła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Awen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:09.991923594Z",
+  "model": "glm-5.3"
+}

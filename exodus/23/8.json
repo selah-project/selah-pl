@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I łapówki nie weźmiesz, bo łapówka oślepia bystrzych i wypacza słowa sprawiedliwych.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "I łapówki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "łapówka"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "oślepia"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "bystrzych"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "i wypacza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwych"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:12.754110650Z",
+  "model": "glm-5.3"
+}

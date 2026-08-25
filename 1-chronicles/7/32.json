@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A Chewer zrodził ⟨את⟩ Jaflet i ⟨את⟩ Szomer i ⟨את⟩ Chotam i ⟨את⟩ Szua, siostrę ich.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "A Chewer"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨i את⟩",
+      "marks": "Szomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Szomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨i את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨i את⟩",
+      "marks": "Szua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Szua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "siostrę ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:07.525820370Z",
+  "model": "glm-5.3"
+}

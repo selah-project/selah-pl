@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wzajemnie ich nastawię, Micrajim przeciw Micrajim, i będą walczyć mężowie przeciw braci swoim i mężowie przeciw bliźniemu swojemu, miasto przeciw miastu, królestwo przeciw królestwu.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "i wzajemnie ich nastawię"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "przeciw Micrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "i będą walczyć"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "przeciw braci swoim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i mężowie"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "przeciw bliźniemu swojemu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "przeciw miastu"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "przeciw królestwu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:24:27.278160947Z",
+  "model": "glm-5.3"
+}

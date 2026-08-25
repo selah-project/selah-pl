@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "Wielce tłoczyli mnie od mojej młodości, jednak nie zdołali ⟨przeciwko⟩ mi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Wielce"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "tłoczyli mnie"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mojej młodości"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jednak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "zdołali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:09.881222180Z",
+  "model": "glm-5.3"
+}

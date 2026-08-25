@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Bo nie ze wschodu ani z zachodu, i nie z pustyni gór ⟨przychodzi⟩ wywyższenie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "ze wschodu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ani z zachodu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pustyni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gór"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:35.078951181Z",
+  "model": "glm-5.3"
+}

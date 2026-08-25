@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I wziął Haman ⟨את⟩ szatę i ⟨את⟩ konia, i przyodział Mordechaja, i posadził go na placu miasta, i wołał przed nim: tak niech być uczynione mężowi, w którego czci król ma upodobanie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szatę"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "szatę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "konia"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konia"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "i przyodział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechaja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "i posadził go"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "na placu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i wołał"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ייעשה",
+      "gloss": "niech być uczynione"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mężowi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ma upodobanie"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "w czci go"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:11.985620535Z",
+  "model": "glm-5.3"
+}

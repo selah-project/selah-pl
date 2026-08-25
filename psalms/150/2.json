@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 150,
+  "translation": "Chwalcie Go za mocarne czyny ⟨jego⟩, chwalcie Go według obfitości wielkości ⟨jego⟩!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chwalcie Go"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "za mocarne czyny ⟨jego⟩"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie Go"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "według obfitości"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wielkości ⟨jego⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:59.333241768Z",
+  "model": "glm-5.3"
+}

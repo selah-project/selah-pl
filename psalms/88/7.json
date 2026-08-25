@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Położyłeś mnie w dole najniższym, w ciemnościach, w głębinach.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "położyłeś mnie"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "w dole"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "najniższym"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "w ciemnościach"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "w głębinach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:48.149299592Z",
+  "model": "glm-5.3"
+}

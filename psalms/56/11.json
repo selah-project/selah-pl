@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "W Elohim sławię słowo, w Jahwe sławię słowo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "W Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "sławię"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "sławię"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.560847384Z",
+  "model": "glm-5.3"
+}

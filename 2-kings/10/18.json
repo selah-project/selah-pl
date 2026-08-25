@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I zgromadził Jehu ⟨את⟩ całego ludu, i rzekł do nich: Achab służył ⟨את⟩ Baalowi trochę, Jehu będzie mu służył wiele.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "I zgromadził"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego ludu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "służył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalowi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalowi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochę"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "będzie mu służył"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wiele"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:00.391061184Z",
+  "model": "glm-5.3"
+}

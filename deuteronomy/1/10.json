@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jahwe, Elohim wasz, rozmnożył ⟨את⟩ was, i oto dziś jesteście jak gwiazdy niebios na mnóstwo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "rozmnożył"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "i oto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "jak gwiazdy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "na mnóstwo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:31.927349333Z",
+  "model": "glm-5.3"
+}

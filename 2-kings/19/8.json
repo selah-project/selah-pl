@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wrócił Rabszake, i zastał króla Aszszura walczącego przeciw Libnie, bo usłyszał, że wyruszył z Lakisz.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I wrócił"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "szake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "i zastał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla Aszszura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczącego"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "wyruszył"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "z Lakisz"
+    }
+  ],
+  "timestamp": "2026-08-25T04:14:10.305336748Z",
+  "model": "glm-5.3"
+}

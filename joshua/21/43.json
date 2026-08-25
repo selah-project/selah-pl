@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I dał Jahwe Jisraelowi ⟨את⟩ całą ⟨tę⟩ ziemię, którą przysiągł dać ich ojcom; i zajęli ją, i zamieszkali w niej.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą ziemię"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysiągł"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dać"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ich ojcom"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "i zajęli ją"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i zamieszkali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:51.086246491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I umarł Elimelech, mąż Noemi, i została ona oraz jej dwaj synowie.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "I umarł"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "i została"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "oraz jej dwaj"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "synowie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:09.416757065Z",
+  "model": "glm-5.3"
+}

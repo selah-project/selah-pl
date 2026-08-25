@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Słuchaj, Israelu: ty przechodzisz dziś ⟨את⟩ Jarden, aby wejść, aby zawłaszczyć narody wielkie i potężniejsze od ciebie, miasta wielkie i obwarowane aż do niebios.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Słuchaj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przechodzisz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "aby wejść"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aby zawłaszczyć"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "i potężniejsze"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "i obwarowane"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "aż do niebios"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:22.643549347Z",
+  "model": "glm-5.3"
+}

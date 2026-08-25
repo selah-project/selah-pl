@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Ja powiedziałem: Jahwe, zmiłuj się nade mną, ulecz moją nefesz, bo zgrzeszyłem ci.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "zmiłuj się nade mną"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ulecz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zgrzeszyłem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:54.508649297Z",
+  "model": "glm-5.3"
+}

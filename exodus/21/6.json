@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I przyprowadzi go pan jego do Elohim, i przyprowadzi go do drzwi albo do słupa drzwiowego, i przebije pan jego ⟨את⟩ ucho jego szydłem, i będzie mu służył na zawsze.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "i przyprowadzi go"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pan jego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "i przyprowadzi go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "drzwi"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "słupa drzwiowego"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "i przebije"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pan jego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucho jego"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ucho jego"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "szydłem"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i będzie mu służył"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:24.410266154Z",
+  "model": "glm-5.3"
+}

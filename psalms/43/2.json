@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Bo Ty ⟨jesteś⟩ Elohim mojej twierdzy — czemu mnie odrzuciłeś? Czemu chodzę zasmucony pod uciskiem nieprzyjaciela?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mojej twierdzy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "mnie odrzuciłeś"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "zasmucony"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "chodzę"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "pod uciskiem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:13.540320245Z",
+  "model": "glm-5.3"
+}

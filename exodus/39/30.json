@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I zrobili ⟨את⟩ rozetę świętej korony ze szczerego złota, i napisali na niej napis, ryt pieczęci: «Świętość dla Jahwe».",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i zrobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rozeta"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "rozeta"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korony"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętej"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "szczerego"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "i napisali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "napis"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ryt"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pieczęci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Świętość"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:39.773939158Z",
+  "model": "glm-5.3"
+}

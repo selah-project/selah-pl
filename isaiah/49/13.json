@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Zaśpiewajcie, niebiosa, i rozraduj się, ziemia; wybuchnijcie, góry, radosnym śpiewem, bo Jahwe pocieszył swój lud i nad swoimi nędznymi się zlituje.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "Zaśpiewajcie"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "i rozraduj się"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "wybuchnijcie"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radosnym śpiewem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "pocieszył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "i swoje nędzne"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "zlituje się"
+    }
+  ],
+  "timestamp": "2026-08-25T00:34:37.165279811Z",
+  "model": "glm-5.3"
+}

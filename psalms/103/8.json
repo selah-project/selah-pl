@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Litościwy i łaskawy Jahwe, długonosy ⟨gniewu⟩ i wielki chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Litościwy"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "i łaskawy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "długonosy"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨gniewu⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:24.351646755Z",
+  "model": "glm-5.3"
+}

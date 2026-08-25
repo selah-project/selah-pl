@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Okrutnie postąpiliśmy wobec Ciebie i nie strzegliśmy ⟨את⟩ przykazań ani ⟨את⟩ ustaw ani ⟨את⟩ praw, które nakazałeś ⟨את⟩ Mosze, sługę Twego.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "okrutnie"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "postąpiliśmy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wobec Ciebie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "strzegliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazań"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "przykazań"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ustaw"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "praw"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "praw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nakazałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługę Twego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:45:44.272662583Z",
+  "model": "glm-5.3"
+}

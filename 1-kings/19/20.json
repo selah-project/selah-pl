@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I zostawił ⟨את⟩ bydło, i pobiegł za Eliaszem, i rzekł: Niechaj ucałuję, proszę, mego ojca i moją matkę, i pójdę za tobą. A ⟨on⟩ rzekł mu: Idź, wróć, bo cóż ci uczyniłem?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "i zostawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bydło"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bydło"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "i pobiegł"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaszem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "niechaj ucałuję"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "mego ojca"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "i moją matkę"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "i pójdę"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tobą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "uczyniłem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:42.695457369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Grzech ścigają ⟨złym⟩: a ⟨את⟩ sprawiedliwych spotka dobre.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "grzech"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ściga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sprawiedliwych"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "spłaci \/ spotka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:25.654334678Z",
+  "model": "glm-5.3"
+}

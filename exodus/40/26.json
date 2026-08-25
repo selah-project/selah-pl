@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I ustawił ⟨את⟩ złoty ołtarz w Namiocie Spotkania przed zasłoną.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ustawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złoty ołtarz"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoty"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w Namiocie"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "zasłoną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:13.564612764Z",
+  "model": "glm-5.3"
+}

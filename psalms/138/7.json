@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "Jeśli pójdę w środku ucisku, ożywisz mnie; przeciwko gniewowi moich wrogów wyciągniesz swoją rękę, i zbawi mnie twoja prawica.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pójdę"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucisku"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ożywisz mnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniewowi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moich wrogów"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wyciągniesz"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "i zbawi mnie"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "twoja prawica"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:19.662735037Z",
+  "model": "glm-5.3"
+}

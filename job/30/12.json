@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Po prawicy mojej podnosi się młode plemię, odepchnęli moje stopy, i usypali przeciwko mnie drogi swojej zguby.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "prawicy mojej"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "młode plemię"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "podnosi się"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "odepchnęli"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "i usypali"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "drogi"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "swojej zguby"
+    }
+  ],
+  "timestamp": "2026-08-25T02:22:14.679891515Z",
+  "model": "glm-5.3"
+}

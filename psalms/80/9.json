@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Winorośl z Micraim wysadziłeś, wypędziłeś narody i zasadziłeś ją.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "winorośl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "wysadziłeś"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "wypędziłeś"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "i zasadziłeś ją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:26.372063236Z",
+  "model": "glm-5.3"
+}

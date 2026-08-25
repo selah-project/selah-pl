@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Ratuj, Jahwe, bo zniknął pobożny, bo zanikli wierni spośród synów ludzkich.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ratuj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "zniknął"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pobożny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "zanikli"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wierni"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "spośród synów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ludzkich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:18.470413632Z",
+  "model": "glm-5.3"
+}

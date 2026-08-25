@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wstał, i przybył, i poszedł do Szomronu — on ⟨jest⟩ przy Bet-Eked pasterzy, na drodze.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I wstał"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przybył"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Szomronu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pasterzy"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:31.337625569Z",
+  "model": "glm-5.3"
+}

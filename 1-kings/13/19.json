@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wrócił ⟨את⟩ niego, i jadł chleb w jego domu, i napił się wody.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego (męża Bożego)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i jadł"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "w jego domu"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "i napił się"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:39.499883709Z",
+  "model": "glm-5.3"
+}

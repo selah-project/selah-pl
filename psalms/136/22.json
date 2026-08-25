@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "dziedzictwo Israelowi, swojemu słudze, bo na wieki trwa jego chesed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "dziedzictwo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelowi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "swojemu słudze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.217923286Z",
+  "model": "glm-5.3"
+}

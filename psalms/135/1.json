@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Chwalcie Jah! Chwalcie ⟨את⟩ imię Jahwe, chwalcie, słudzy Jahwe!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię Jahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:35.950752524Z",
+  "model": "glm-5.3"
+}

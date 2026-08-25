@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I pasterzować będą ⟨את⟩ ziemię Aszszuru mieczem, i ⟨את⟩ ziemię Nimroda w jej bramach; i ⟨on⟩ wybawi od Aszszuru, gdy wejdzie do naszej ziemi i gdy wkroczy w nasze granice.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "i pasterzować będą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię Aszszuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię Nimroda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "w jej bramach"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "i wybawi"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "od Aszszuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "do naszej ziemi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i gdy"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "wkroczy"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "w nasze granice"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:23.358314941Z",
+  "model": "glm-5.3"
+}

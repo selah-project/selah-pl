@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "A oni rzekli: Czyż jak nierządnicę ma obchodzić się z ⟨את⟩ naszą siostrą?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a oni rzekli"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "czyż jak nierządnicę"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ma obchodzić się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naszą siostrą"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "naszą siostrą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:22.806375956Z",
+  "model": "glm-5.3"
+}

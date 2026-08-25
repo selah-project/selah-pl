@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "I będzie żył, i dadzą mu złota ze Szeby, i będą się modlić za nim zawsze, cały dzień będą go błogosławić.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i będzie żył"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dadzą"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ze złota"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeby"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "i będą się modlić"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za nim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "będą go błogosławić"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:37.243647446Z",
+  "model": "glm-5.3"
+}

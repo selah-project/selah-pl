@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wykopali dla mnie ⟨Ś⟩ pyszni doły, którzy ⟨są⟩ nie według twojego Prawa.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "Wykopali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "pyszni"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "doły"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "według twojego Prawa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:23.773045691Z",
+  "model": "glm-5.3"
+}

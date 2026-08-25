@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Przybyszem jestem na ziemi; nie ukrywaj przede mną swoich przykazań.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Przybyszem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukrywaj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prede mną"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "swoich przykazań"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:13.585248886Z",
+  "model": "glm-5.3"
+}

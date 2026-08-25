@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Oczyść mnie izopem, a będę czysty; wyprzej mnie, a nad śnieg zbieleję.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "oczyść mnie"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "izopem"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "a będę czysty"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "wyprzej mnie"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "a nad śnieg"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "zbieleję"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.495467984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "W tobie, Jahwe, szukam schronienia — nigdy nie będę zawstydzony na wieki.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "szukam schronienia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "będę zawstydzony"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:33.517249126Z",
+  "model": "glm-5.3"
+}

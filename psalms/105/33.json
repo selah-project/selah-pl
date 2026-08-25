@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I poraził ich winnice i ich drzewa figowe, i połamał drzewa ⟨w⟩ ich granicy.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ich winnice"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "i ich drzewa figowe"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "i połamał"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ich granicy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.794966301Z",
+  "model": "glm-5.3"
+}

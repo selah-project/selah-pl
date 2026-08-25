@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Przeciw twemu ludowi knują podstęp, i naradzają się przeciwko twym ukrytym.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Przeciw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "twemu ludowi"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "knują podstęp"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "naradę"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "i naradzają się"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "twym ukrytym"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:57.526918863Z",
+  "model": "glm-5.3"
+}

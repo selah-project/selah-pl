@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A z Chuszim zrodził ⟨את⟩ Awituba i ⟨את⟩ Elpaala.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "a z Chuszim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awituba"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Awitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Elpaala"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:26.791508819Z",
+  "model": "glm-5.3"
+}

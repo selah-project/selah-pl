@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I uczynił Mosze i Aharon tak, jak rozkazał Jahwe ⟨את⟩ im, tak uczynili.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak, jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ im",
+      "marks": "im (Mosze i Aharon)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:17.634008203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 101,
+  "translation": "Nie postawię przed oczami moimi rzeczy bezwartościowej — czyn odstępców znienawidziłem, nie przylgnie do mnie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postawię"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczami moimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bezwartościowej (Beliala)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyn"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "odstępców"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "znienawidziłem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "przylgnie"
+    },
+    {
+      "surface": "בי",
+      "gloss": "do mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.553012692Z",
+  "model": "glm-5.3"
+}

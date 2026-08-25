@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wypędził ⟨את⟩ człowieka, i umieścił na wschodzie ogrodu Eden ⟨את⟩ cherubów i ⟨את⟩ płomienny miecz obracający się, aby strzegły ⟨את⟩ drogi drzewa życia.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "i wypędził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "i umieścił"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na wschodzie"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ogrodu"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cherubów"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "cherubów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "płomienny miecz"
+    },
+    {
+      "surface": "להט",
+      "gloss": "płomienny"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "obracający się"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "aby strzegły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drogi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "życia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:51.182525428Z",
+  "model": "glm-5.3"
+}

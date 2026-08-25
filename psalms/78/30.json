@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Nie odstąpili od swego pożądania — jeszcze pokarm ⟨był⟩ w ich ustach —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "odstąpili"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "od swego pożądania"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "pokarm"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "w ich ustach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:59.648618288Z",
+  "model": "glm-5.3"
+}

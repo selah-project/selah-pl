@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 150,
+  "translation": "Wszystko, co ma dech, niech chwali Jah! Chwalcie Jah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystko"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "co ma dech"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "niech chwali"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:56.757731004Z",
+  "model": "glm-5.3"
+}

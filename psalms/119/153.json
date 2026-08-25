@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Spójrz na moją nędzę i wyrwij mnie, bo twojej Tory nie zapomniałem.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Spójrz"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "na moją nędzę"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "i wyrwij mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "twoją Torę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zapomniałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:13.208342866Z",
+  "model": "glm-5.3"
+}

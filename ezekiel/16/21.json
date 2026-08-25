@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "i zabiłaś ⟨את⟩ synów swoich, i wydałaś je, przeprowadzając ⟨את⟩ ich dla nich",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "i zabiłaś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów swoich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów swoich"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "i wydałaś je"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "przeprowadzając"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:12:58.381031824Z",
+  "model": "glm-5.3"
+}

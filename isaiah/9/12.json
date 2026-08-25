@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A lud nie zwrócił się do tego, który go bił, i ⟨את⟩ Jahwe Zastępów nie szukali.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "A lud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שב",
+      "gloss": "zwrócił się"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "tego, który go bił"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe Zastępów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "szukali"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:26.066342687Z",
+  "model": "glm-5.3"
+}

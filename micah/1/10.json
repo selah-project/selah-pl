@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "W Gat nie opowiadajcie, nie płaczcie; w Bet-Leafrze — w pyle się tarzałem.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "w Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "opowiadajcie"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "płaczcie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "płaczcie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w Bet-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafrze"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "w pyle"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "się tarzałem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:53.311963810Z",
+  "model": "glm-5.3"
+}

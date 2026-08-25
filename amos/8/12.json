@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I błąkać się będą od morza do morza, i od północy aż do wschodu — krążyć będą, szukając ⟨את⟩ słowa Jahwe, lecz go nie znajdą.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "i błąkać się będą"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od morza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "i od północy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wschodu"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "krążyć będą"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "szukając"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "znajdą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:49.434782245Z",
+  "model": "glm-5.3"
+}

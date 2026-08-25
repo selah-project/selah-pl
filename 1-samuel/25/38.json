@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I stało się po dziesięciu dniach, i poraził Jahwe ⟨את⟩ Nabal, i umarł.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "po dziesięciu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dniach"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:44.510637180Z",
+  "model": "glm-5.3"
+}

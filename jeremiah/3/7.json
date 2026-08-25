@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekłem: Po tym, jak uczyniła ⟨את⟩ wszystkie te rzeczy, wróć do mnie — lecz nie wróciła; i widziała zdradziecka siostra jej, Jehuda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "uczyniła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te rzeczy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "wróciła"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "i widziała"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "zdradziecka"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "siostra jej"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-25T00:41:44.201767683Z",
+  "model": "glm-5.3"
+}

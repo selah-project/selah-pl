@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wyszedł Joab od Dawida, i posłał posłów za Awnerem, i sprowadzili ⟨את⟩ go od studni Sirah; a Dawid nie wiedział.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłów"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awnerem"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i sprowadzili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (Awnera)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "od studni"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:01.143654107Z",
+  "model": "glm-5.3"
+}

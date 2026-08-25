@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Zlituje się nad biednym i ubogim, a dusze ubogich ocali.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "zlituje się"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דל",
+      "gloss": "biednym"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogim"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "a dusze"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ubogich"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ocali"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:37.243220871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Ci ⟨są⟩ synami Chama według ich rodów, według ich języków, w ich ziemiach, w ich narodach",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chama"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodów"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "według ich języków"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "w ich ziemiach"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "w ich narodach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:37.952226628Z",
+  "model": "glm-5.3"
+}

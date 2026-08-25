@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Północ i południe — Ty je stworzyłeś; Tawor i Chermon imieniem Twoim będą się radować.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "północ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "i południe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "stworzyłeś je"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tawor"
+    },
+    {
+      "surface": "ו חרמון",
+      "gloss": "i Chermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "imieniem Twoim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "będą się radować"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:42.781708372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I zrobił ⟨את⟩ płaszcz efodu — dzieło tkacza, w całości z tkacetli.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "płaszcz"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "płaszcz"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tkacza"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "w całości"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z tkacetli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:20.784672461Z",
+  "model": "glm-5.3"
+}

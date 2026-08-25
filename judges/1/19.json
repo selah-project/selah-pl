@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I był Jahwe z ⟨את⟩ Jehudą, i wziął w posiadanie ⟨את⟩ górę, bo nie było możliwości wypędzić ⟨את⟩ mieszkańców doliny, gdyż mieli rydwany z żelaza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I był"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Jehudą"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudą"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "i wziął w posiadanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "górę"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "było możliwości wypędzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców doliny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "doliny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "rydwany"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "z żelaza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mieli"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:32.348803928Z",
+  "model": "glm-5.3"
+}

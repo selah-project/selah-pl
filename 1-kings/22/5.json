@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł Jehoszafat do króla Izraela: Zapytaj dziś, proszę, ⟨את⟩ słowa Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "zapytaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:11.571965165Z",
+  "model": "glm-5.3"
+}

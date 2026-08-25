@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jahwe ⟨jest⟩ Królem na wieki i na zawsze; zginęły narody z Jego ziemi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Król"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na zawsze"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zginęły"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "z Jego ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:38.305395231Z",
+  "model": "glm-5.3"
+}

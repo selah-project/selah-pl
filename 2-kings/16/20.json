@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I spoczął Achaz ze swymi ojcami i został pochowany ze swymi ojcami w mieście Dawida, a królował Chizkijahu, jego syn, po nim.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i spoczął"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swymi ojcami"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pochowany"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swymi ojcami"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a królował"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "po nim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:38.125429879Z",
+  "model": "glm-5.3"
+}

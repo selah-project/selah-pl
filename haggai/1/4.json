@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Czy czas wam — wy — mieszkać w waszych domach pokrytych, a dom ten ⟨leży⟩ w ruinie?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "czy czas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mieszkać"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "w waszych domach"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "pokrytych"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "a dom"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "w ruinie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:50.194991265Z",
+  "model": "glm-5.3"
+}

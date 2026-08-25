@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I weszli w górę, i rozpoznali ⟨את⟩ ziemię — od pustyni Cyn aż do Rechob, na wejściu do Chamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "i weszli w górę"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "i rozpoznali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "od pustyni"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Cyn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "na wejściu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:19.226866029Z",
+  "model": "glm-5.3"
+}

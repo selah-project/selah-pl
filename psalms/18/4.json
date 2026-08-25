@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Godnego chwały będę wzywał — Jahwe, i od mych wrogów zostanę wybawiony.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Godnego chwały"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "będę wzywał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mych wrogów"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "zostanę wybawiony"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:57.200754858Z",
+  "model": "glm-5.3"
+}

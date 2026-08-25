@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ustanowił król Achaszerosz daninę na ⟨the⟩ ziemi i na wyspach morza.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achaszerosz"
+    },
+    {
+      "surface": "מס",
+      "gloss": "daninę przymusową"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "i wyspach"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:43.476331375Z",
+  "model": "glm-5.3"
+}

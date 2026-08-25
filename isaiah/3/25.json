@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Twoi mężczyźni od miecza polegną, a twoja potęga na wojnie.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "twoi mężczyźni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "polegną"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "a twoja potęga"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na wojnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:11.654946737Z",
+  "model": "glm-5.3"
+}

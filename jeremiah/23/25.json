@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Słyszałem ⟨את⟩ to, co powiedzieli prorocy prorokujący w moim imieniu kłamliwie, mówiąc: Śniło mi się, śniło mi się.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Słyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co powiedzieli prorocy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy\/które"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "powiedzieli"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "prorocy"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "prorokujący"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "w moim imieniu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamliwie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Śniło mi się"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "śniło mi się"
+    }
+  ],
+  "timestamp": "2026-08-25T00:52:05.316364470Z",
+  "model": "glm-5.3"
+}

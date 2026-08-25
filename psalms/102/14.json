@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Ty powstaniesz, ulitujesz się nad Cijon, bo czas ⟨jest⟩ jej zmiłować ⟨ją⟩, bo przyszedł termin wyznaczony.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "powstaniesz"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ulitujesz się"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "nad Cijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "jej zmiłować ⟨ją⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "termin wyznaczony"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:38.812401805Z",
+  "model": "glm-5.3"
+}

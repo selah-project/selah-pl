@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A jeśli mężczyzna sprzeda ⟨את⟩ córkę swoją za służebnicę, nie wyjdzie tak, jak wychodzą niewolnicy.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "sprzeda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "córkę swoją"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "córkę swoją"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "za służebnicę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "кצאת",
+      "gloss": "jak wychodzenie"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "niewolników"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:24.410439453Z",
+  "model": "glm-5.3"
+}

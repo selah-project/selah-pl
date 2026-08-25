@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Radziło się Micrajim przy ich wyjściu, bo padł ich postrach na nich.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "radziło się"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "przy ich wyjściu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padł"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ich postrach"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.368478430Z",
+  "model": "glm-5.3"
+}

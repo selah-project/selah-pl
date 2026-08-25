@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jeśli zgrzeszyłem, to pilnujesz mnie, a od mojej winy nie oczyścisz mnie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zgrzeszyłem"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "pilnujesz mnie"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "a od mojej winy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "oczyścisz mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:19.566877031Z",
+  "model": "glm-5.3"
+}

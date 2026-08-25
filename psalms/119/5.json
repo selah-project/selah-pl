@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Oby moje drogi zostały utwierdzone, by strzec twoich ustaw!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Oby"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "zostały utwierdzone"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moje drogi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "by strzec"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "twoich ustaw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:27.846311644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Ten, który wysyła swoje słowo na ziemię — bardzo szybko biegnie jego przykazanie.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ten, który wysyła"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "swoje słowo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "szybko"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "biegnie"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jego przykazanie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:22.104861566Z",
+  "model": "glm-5.3"
+}

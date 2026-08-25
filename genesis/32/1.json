@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wstał rano Lawan, i pocałował swoich synów i swoje córki, i pobłogosławił ⟨ich⟩ ⟨את⟩; i odszedł, i wrócił Lawan na swoje miejsce.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał rano"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "i pocałował"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "i swoje córki"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i odszedł"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na swoje miejsce"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:08.148744970Z",
+  "model": "glm-5.3"
+}

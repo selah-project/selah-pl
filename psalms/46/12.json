@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Jahwe Cerivot z nami, twierdzą dla nas Elohim Jaakowa. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cerivot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "twierdzą"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:58.042503163Z",
+  "model": "glm-5.3"
+}

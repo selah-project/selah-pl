@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Wiatrem wschodnim rozbijasz okręty tarSZisz.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "wiatrem"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wschodnim"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "rozbijasz"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "okręty"
+    },
+    {
+      "surface": "תרshish",
+      "gloss": "tarSZisz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:49.793267968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I rzekł do niego: Pójdź ⟨את⟩ ze mną do domu, i zjedz chleb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pójdź"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ze mną",
+      "marks": "ze mną"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i zjedz"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:21.375107122Z",
+  "model": "glm-5.3"
+}

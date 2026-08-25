@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I wybrał ⟨את⟩ pokolenie Jehudy, ⟨את⟩ górę Cijjon, którą umiłował.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i wybrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokolenie Jehudy"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "górę Cijjon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiłował"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.251697399Z",
+  "model": "glm-5.3"
+}

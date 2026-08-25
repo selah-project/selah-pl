@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "Którzy wyostrzyli jak miecz język swój, wymierzyli strzałę swoją — słowo gorzkie.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Którzy"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "wyostrzyli"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "jak miecz"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "język swój"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wymierzyli"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "strzałę swoją"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorzkie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:07.358416050Z",
+  "model": "glm-5.3"
+}

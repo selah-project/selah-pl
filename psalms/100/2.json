@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 100,
+  "translation": "Służcie ⟨את⟩ Jahwe z weselem, przychodźcie przed Jego oblicze z radosnym śpiewem!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Służcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z weselem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przychodźcie"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed Jego oblicze"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "z radosnym śpiewem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:03.674577320Z",
+  "model": "glm-5.3"
+}

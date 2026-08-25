@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I wołali do Jahwe i powiedzieli: Zgrzeszyliśmy, bo opuściliśmy ⟨את⟩ Jahwe i służyliśmy ⟨את⟩ Baalom i ⟨את⟩ Asztarot; a teraz wyzwól nas z ręki naszych wrogów, a będziemy służyć tobie.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "i wołali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "zgrzeszyliśmy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "opuściliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "i służyliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalom"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Asztarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Asztarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "wyzwól nas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "naszych wrogów"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "a będziemy służyć tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:35.139511072Z",
+  "model": "glm-5.3"
+}

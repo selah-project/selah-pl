@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł: Ach, Adonai, poślij, proszę, przez rękę ⟨tego, którego⟩ poślesz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "poślij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "przez rękę"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "poślesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:08.805419045Z",
+  "model": "glm-5.3"
+}

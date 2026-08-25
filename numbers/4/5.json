@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wejdzie Aharon i jego synowie, przy ruszaniu obozu, i zdejmą ⟨את⟩ zasłonę zasłaniania, i okryją nią ⟨את⟩ Aron Świadectwa.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "i wejdzie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jego synowie"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "przy ruszaniu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "i zdejmą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "zasłaniania"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "i okryją"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:20:22.843385029Z",
+  "model": "glm-5.3"
+}

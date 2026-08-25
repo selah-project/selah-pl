@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I uniósł lud ⟨את⟩ swoje ciasto, zanim się zakwasiło: ich naczynia do zagniatania, zawinięte w ich szaty, na ich barkach.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "uniósł"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ciasto"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "swoje ciasto"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "się zakwasiło"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ich naczynia do zagniatania"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zawinięte"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "w ich szaty"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ich barkach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:23.021412615Z",
+  "model": "glm-5.3"
+}

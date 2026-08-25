@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I pocałował Jaakow Rachel, i podniósł ⟨את⟩ swój głos, i zapłakał.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "i pocałował"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój głos"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "swój głos"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zapłakał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:12.785873947Z",
+  "model": "glm-5.3"
+}

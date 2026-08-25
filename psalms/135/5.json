@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Bo wiem, że wielki jest Jahwe, że nasz Adonai ⟨jest⟩ ponad wszystkimi elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "nasz-Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ponad-wszystkimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:38.657355058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Nawet słońca nie widział i nie poznał ⟨niczego⟩ — więcej spokoju ma ten niż tamten.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widział"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznał"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "spokoju"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "temu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "niż tamten"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:18.229514637Z",
+  "model": "glm-5.3"
+}

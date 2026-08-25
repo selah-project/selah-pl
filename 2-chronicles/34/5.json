@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I kości kapłanów spalił na ich ołtarzach, i oczyścił ⟨את⟩ Jehudę i ⟨את⟩ Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "i kości"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "ich ołtarzach"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "i oczyścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:11.824074631Z",
+  "model": "glm-5.3"
+}

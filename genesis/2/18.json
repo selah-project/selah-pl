@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł Jahwe Elohim: Nie jest dobrze, że człowiek ⟨jest⟩ sam; uczynię mu pomoc odpowiednią jemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jest dobrze"
+    },
+    {
+      "surface": "היות",
+      "gloss": "że jest"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomoc"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "odpowiednią jemu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:09.057963837Z",
+  "model": "glm-5.3"
+}

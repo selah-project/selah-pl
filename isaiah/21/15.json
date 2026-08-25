@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Gdyż przed ostrzami uciekli, przed dobytą hlavanią, przed naciągniętym łukiem i przed ciężarem wojny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdyż"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ostrzami"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "uciekli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "dobyty"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "i przed"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łukiem"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "naciągniętym"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "i przed"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężarem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:15.656516039Z",
+  "model": "glm-5.3"
+}

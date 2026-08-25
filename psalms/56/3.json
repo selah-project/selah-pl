@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Połykają ⟨mnie⟩ moi przeciwnicy cały dzień, bo liczni są ci, którzy ze mną walczą, z wysoka.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "Połykają"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "moi przeciwnicy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczni"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "walczący"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "z wysoka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:52.510795500Z",
+  "model": "glm-5.3"
+}

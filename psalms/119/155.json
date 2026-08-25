@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Daleko od bezbożnych ⟨jest⟩ wybawienie, bo twoich ustaw nie szukali.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Daleko"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "od bezbożnych"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "wybawienie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "twoich ustaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "szukali"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:13.208795983Z",
+  "model": "glm-5.3"
+}

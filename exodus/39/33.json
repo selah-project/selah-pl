@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I przynieśli ⟨את⟩ przybytek do Mosze: ⟨את⟩ namiot i ⟨את⟩ wszystkie jego naczynia, jego skoby, jego deski, jego drążki, jego słupy i jego podstawy.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "i przynieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namiot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie jego naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "jego skoby"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "jego deski"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "jego drążki"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "i jego słupy"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "i jego podstawy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:19.925704526Z",
+  "model": "glm-5.3"
+}

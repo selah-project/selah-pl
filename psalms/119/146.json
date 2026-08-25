@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wołałem cię — wybaw mnie, abym strzegł twoich świadectw.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "Wołałem cię"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "wybaw mnie"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "abym strzegł"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "twoich świadectw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:10.328875936Z",
+  "model": "glm-5.3"
+}

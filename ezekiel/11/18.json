@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I przyjdą tam, i usuną ⟨את⟩ wszystkie jej obrzydliwości i ⟨את⟩ wszystkie jej ohydy z niej.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "i przyjdą"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "i usuną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie jej obrzydliwości"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "jej obrzydliwości"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie jej ohydy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "jej ohydy"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z niej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:11:50.005446935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I stało się, gdy umocniło się królestwo w jego ręce, że pobił ⟨את⟩ swoich sługi, tych pobijających ⟨את⟩ króla, ojca jego.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "umocniło się"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w jego ręce"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "że pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sługi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sługi"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "tych pobijających"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca jego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:37.842221904Z",
+  "model": "glm-5.3"
+}

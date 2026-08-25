@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wyda ⟨את⟩ Izraela z powodu grzechów Jerobeama, które popełnił i którymi doprowadził do grzechu ⟨את⟩ Izraela.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i wyda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "grzechów"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "popełnił"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i którymi"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "doprowadził do grzechu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:11.941199321Z",
+  "model": "glm-5.3"
+}

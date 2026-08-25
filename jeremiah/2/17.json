@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Czyż nie to zostało ci uczynione, że opuściłaś ⟨את⟩ Jahwe, Elohim twego, w czasie gdy ⟨on⟩ prowadził cię w drodze?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zostało uczynione"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "opuściłaś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "gdy prowadził cię"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "w drodze"
+    }
+  ],
+  "timestamp": "2026-08-25T00:41:41.689686066Z",
+  "model": "glm-5.3"
+}

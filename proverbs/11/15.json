@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Zły będzie cierpiał, że poręczył ⟨את⟩ obcym, a nienawidzący bicia dłoni ⟨w porękę⟩ jest bezpieczny.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "zły"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "będzie cierpiał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "poręczył"
+    },
+    {
+      "surface": "זר",
+      "gloss": "obcym"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "a nienawidzący"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "bicia dłoni"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "jest bezpieczny"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:17.588309543Z",
+  "model": "glm-5.3"
+}

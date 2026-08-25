@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "A ja ⟨jestem⟩ jak oliwka zieleniąca w domu Elohim; ufam ⟨w⟩ chesed Elohim na wieki i na zawsze.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "jak oliwka"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zieleniąca"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ufam"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "⟨w⟩ chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:42.930737791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Niech ci da według twego serca i niech wypełni całą twą radę.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "niech da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "według twego serca"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i całą"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "twą radę"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "wypełni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:46.486118927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jedenaste ⟨dní⟩ — ⟨to droga⟩ z Chorewu drogą góry Seir aż do Kadesz-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Jedenaste"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "z Chorewu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góry"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesz-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:25.708547097Z",
+  "model": "glm-5.3"
+}

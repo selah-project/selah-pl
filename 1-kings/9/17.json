@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I zbudował Szlomoh ⟨את⟩ Gezer, i ⟨את⟩ Bet-Choron niższy,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Bet-Choron niższy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "niższy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:52.676423916Z",
+  "model": "glm-5.3"
+}

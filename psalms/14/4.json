@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Czy nie wiedzą wszyscy czyniący nieprawość — jedzący mój lud zjedli chleb — Jahwe nie wzywali?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Czy nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wiedzą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "czyniący"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jedzący"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "zjedli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wzywali"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:33.146976921Z",
+  "model": "glm-5.3"
+}

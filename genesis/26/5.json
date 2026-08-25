@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Za to, że Abraham usłuchał mego głosu i strzegł mej straży, moich przykazań, moich ustaw i moich praw.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "za to, że"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłuchał"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "megо głosu"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "i strzegł"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mej straży"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moich przykazań"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "moich ustaw"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "i moich praw"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:43.819102071Z",
+  "model": "glm-5.3"
+}

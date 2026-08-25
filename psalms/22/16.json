@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Wyschła jak skorupa moja siła, a język mój przyschł do mych szczęk, i w prochu śmierci mnie kładziesz.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "wyschła"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "jak skorupa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "moja siła"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "a język mój"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "przyschł"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "do mych szczęk"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "i w prochu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "mnie kładziesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:46.182395992Z",
+  "model": "glm-5.3"
+}

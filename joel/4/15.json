@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Słońce i księżyc pociemnieją, a gwiazdy zgromadzą swój blask.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Słońce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "i księżyc"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "pociemnieją"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "a gwiazdy"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "zgromadzą"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "swój blask"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:14.217087026Z",
+  "model": "glm-5.3"
+}

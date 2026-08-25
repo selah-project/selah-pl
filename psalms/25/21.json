@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Niewinność i prostota niech mnie strzegą, bo na Tobie czekam.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "niewinność"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "i prostota"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "niech mnie strzegą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "na Tobie czekam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:06.606217281Z",
+  "model": "glm-5.3"
+}

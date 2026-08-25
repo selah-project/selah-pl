@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uczynię ⟨את⟩ Jeruszalaim stosami gruzów, siedliskiem szakali, i ⟨את⟩ miasta Jehudy uczynię pustkowiem, bez mieszkańca.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i uczynię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "stosami gruzów"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "siedliskiem"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "szakali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miasta Jehudy"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustkowiem"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mieszkańca"
+    }
+  ],
+  "timestamp": "2026-08-25T00:45:05.377695998Z",
+  "model": "glm-5.3"
+}

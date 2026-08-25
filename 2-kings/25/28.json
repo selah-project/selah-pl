@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I mówił ⟨את⟩ ⟨z nim⟩ dobre słowa, i dał ⟨את⟩ jego tron ponad tron królów, którzy ⟨את⟩ ⟨byli z nim⟩ w Bawel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z nim⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dobre słowa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego tron"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jego tron"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ktorzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨byli z nim⟩"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "w Bawel"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:29.402488392Z",
+  "model": "glm-5.3"
+}

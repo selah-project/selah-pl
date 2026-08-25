@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Ja, ja ⟨jestem⟩ Jahwe i poza mną nie ma wybawcy.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "poza mną"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "wybawcy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:31.854722394Z",
+  "model": "glm-5.3"
+}

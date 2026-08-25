@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Niech powiedzą teraz bojący się Jahwe: bo na wieki ⟨trwa⟩ jego chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Niech powiedzą"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bojący się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:11.123385878Z",
+  "model": "glm-5.3"
+}

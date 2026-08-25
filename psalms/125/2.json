@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 125,
+  "translation": "Jeruszalaim — góry wokół niej, a Jahwe wokół ludu swego, od teraz i aż na wieki.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wokół"
+    },
+    {
+      "surface": "לה",
+      "gloss": "niej"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wokół"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ludu swego"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od teraz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:11.142678882Z",
+  "model": "glm-5.3"
+}

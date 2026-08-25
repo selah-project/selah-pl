@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "A jeśli narzędziem żelaznym go uderzy i umrze — morderca ⟨jest⟩ on: śmiercią zginie morderca.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "narzędziem"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "żelaznym"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "go uderzy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrze"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "morderca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zginie"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "morderca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:01.689200122Z",
+  "model": "glm-5.3"
+}

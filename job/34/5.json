@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Bo rzekł Ijob: ⟨jestem⟩ prawy, a El odwrócił mój sąd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "jestem prawy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odwrócił"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mój sąd"
+    }
+  ],
+  "timestamp": "2026-08-25T02:23:21.089110798Z",
+  "model": "glm-5.3"
+}

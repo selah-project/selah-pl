@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I stało się, gdy słyszeliście ⟨את⟩ głos spośród ciemności — a góra płonęła ogniem — wtedy zbliżyliście się do mnie wszyscy wodzowie waszych pokoleń i wasi starsi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "gdy słyszeliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ciemności"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "a góra"
+    },
+    {
+      "surface": "בער",
+      "gloss": "płonęła"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "zbliżyliście się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wodzowie"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "waszych pokoleń"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "i wasi starsi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:50.249897164Z",
+  "model": "glm-5.3"
+}

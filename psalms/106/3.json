@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Szczęśliwi strzegący prawa, czyniący sprawiedliwość w każdym czasie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwi"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "strzegący"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniący"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w każdym"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czasie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:55.758262326Z",
+  "model": "glm-5.3"
+}

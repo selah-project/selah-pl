@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Rozkaż ⟨את⟩ synów Jisraela, a niech przyniosą tobie oliwę z oliwek, czystą, tłuczoną, na świecznik, by podnosić światło nieustannie.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Rozkaż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "a niech przyniosą"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliwę"
+    },
+    {
+      "surface": "זית",
+      "gloss": "z oliwek"
+    },
+    {
+      "surface": "זך",
+      "gloss": "czystą"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tłuczoną"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "na świecznik"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "by podnosić"
+    },
+    {
+      "surface": "נר",
+      "gloss": "światło"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:27.888261845Z",
+  "model": "glm-5.3"
+}

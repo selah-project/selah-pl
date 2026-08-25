@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Pójdźcie, spójrzcie na dzieła Jahwe, który uczynił spustoszenia na ziemi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pójdźcie"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "spójrzcie"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "na dzieła"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "spustoszenia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:58.041723528Z",
+  "model": "glm-5.3"
+}

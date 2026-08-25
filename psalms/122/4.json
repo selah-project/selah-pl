@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Bo tam wstępują plemiona, plemiona Jah, świadectwo dla Israela, by dziękować imieniu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Bo tam"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wstępują"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "plemiona"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemiona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "świadectwo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Israela"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "by dziękować"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:08.467883114Z",
+  "model": "glm-5.3"
+}

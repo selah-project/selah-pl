@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I odwrócił ⟨את⟩ swoje oblicze ku ścianie, i modlił się do Jahwe, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "i odwrócił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje oblicze"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ścianie"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "i modlił się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:36.103890232Z",
+  "model": "glm-5.3"
+}

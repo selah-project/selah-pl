@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Czcij ⟨את⟩ Jahwe z twojego mienia i z pierwszych plonów całego twojego dochodu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Czcij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "z twojego mienia"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "i z pierwszych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całych"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "twoich plonów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:10.419900510Z",
+  "model": "glm-5.3"
+}

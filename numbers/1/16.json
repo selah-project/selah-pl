@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Ci ⟨to⟩ powołani zgromadzenia, książęta pokoleń ich ojców; ⟨oni⟩ są głowami tysięcy Israela — oni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "powołani"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowami"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:20.458823365Z",
+  "model": "glm-5.3"
+}

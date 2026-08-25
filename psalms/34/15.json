@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Odwróć się od zła i czyń dobro; szukaj pokoju i goniń ⟨go⟩.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Odwróć się"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zła"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i czyń"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "szukaj"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "goniń ⟨go⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:10.749204977Z",
+  "model": "glm-5.3"
+}

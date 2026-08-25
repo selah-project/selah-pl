@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I będziesz pamiętał, że byłeś niewolnikiem w Micraim, i będziesz strzegł i wykonywał ⟨את⟩ te ustawy.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "i będziesz pamiętał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "niewolnikiem"
+    },
+    {
+      "surface": "היית",
+      "gloss": "byłeś"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micraim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "i będziesz strzegł"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i wykonywał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te ustawy"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "te ustawy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:58.836180831Z",
+  "model": "glm-5.3"
+}

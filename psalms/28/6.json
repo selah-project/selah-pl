@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Błogosławiony Jahwe, bo usłyszał głos błagań moich.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "błagań moich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:22.945127040Z",
+  "model": "glm-5.3"
+}

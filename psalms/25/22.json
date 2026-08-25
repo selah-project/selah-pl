@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Wykup, Elohim, ⟨את⟩ Jisraeel ze wszystkich jego uciśnięć!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Wykup"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkich"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "jego uciśnięć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:06.606527478Z",
+  "model": "glm-5.3"
+}

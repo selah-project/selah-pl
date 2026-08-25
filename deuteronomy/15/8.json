@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "gdyż otwierając otworzysz ⟨את⟩ rękę twoją jemu, i dając pożyczysz mu w dostatecznej mierze niedostatku jego, którego mu brakuje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "otwierając"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otworzysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę twoją"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rękę twoją"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "i dając pożyczkę"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "pożyczysz mu"
+    },
+    {
+      "surface": "די",
+      "gloss": "w dostatecznej mierze"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "niedostatku jego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "brakuje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:53.713285103Z",
+  "model": "glm-5.3"
+}

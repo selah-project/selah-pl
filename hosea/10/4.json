@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Mówią słowa, przysięgają kłamliwie, zawierają przymierze; a sąd rozkwita jak ciemięga na bruzdach pola.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "przysięgają kłamliwie"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kłamliwie"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawierają"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "a rozkwita"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "jak ciemięga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sąd"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "bruzdach"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pola"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:05.350452054Z",
+  "model": "glm-5.3"
+}

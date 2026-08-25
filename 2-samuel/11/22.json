@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I poszedł posłaniec, i przyszedł, i oznajmił Dawidowi ⟨את⟩ wszystko, co go posłał Joab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "posłaniec"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "go posłał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:49.922538712Z",
+  "model": "glm-5.3"
+}

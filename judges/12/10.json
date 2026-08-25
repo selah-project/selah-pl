@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I umarł Iwcan i został pochowany w Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Iwcan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pochowany"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:11.979777356Z",
+  "model": "glm-5.3"
+}

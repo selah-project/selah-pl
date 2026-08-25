@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 22:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I przyszli do synów Reubena, i do synów Gada, i do połowy pokolenia Menaszeha, do ziemi Gilad, i mówili ⟨את⟩ nimi, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "połowy"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenia"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaszeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i mówili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi (zamiast 'do nich' — hebrajski אתם z sufiksem)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:20.182636526Z",
+  "model": "glm-5.3"
+}

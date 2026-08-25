@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wysłał ich Mosze z pustyni Paran według ust Jahwe — wszyscy oni mężowie, głowy synów Jisraela, oni ⟨są⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich (wysłanych)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pustyni"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "według"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy oni"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:25.750183542Z",
+  "model": "glm-5.3"
+}

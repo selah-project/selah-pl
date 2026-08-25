@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Będę wielce dziękował Jahwe moimi ustami, a pośród wielu Go chwalić będę.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "dziękować będę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wielce"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "moimi ustami"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "a pośród"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielu"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "chwalić Go będę"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:58.792090712Z",
+  "model": "glm-5.3"
+}

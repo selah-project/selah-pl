@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I przemówił Elohim ⟨את⟩ wszystkie słowa te, mówiąc:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I przemówił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:08.034174063Z",
+  "model": "glm-5.3"
+}

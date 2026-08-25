@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wzmocniło się serce Paro, i nie ⟨את⟩ wypuścił ⟨את⟩ synów Israela, jak mówił Jahwe ręką Mosze.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i wzmocniło się"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "",
+      "note": "duplikat — patrz wyżej"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨את⟩ wypuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:37.804099467Z",
+  "model": "glm-5.3"
+}

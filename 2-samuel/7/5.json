@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Idź i powiedz memu słudze, Dawidowi: Tak mówi Jahwe: Czy to ty zbudujesz mi dom na me mieszkanie?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Idź"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiedz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "memu słudze"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "czy to ty"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zbudujesz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "na me mieszkanie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:22.089985853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Patrzcie, dałem przed wami ⟨את⟩ ziemię — wejdźcie i posiądźcie ⟨את⟩ ziemię, którą przysiągł Jahwe waszym ojcom — Awrahamowi, Jicchakowi i Jaakowowi — dać im i ich potomstwu po nich.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "patrzcie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wejdźcie"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "i posiądźcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysiągł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "waszym ojcom"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awrahamowi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakowi"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "i Jaakowowi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dać"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "i ich potomstwu"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "po nich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:09.087961132Z",
+  "model": "glm-5.3"
+}

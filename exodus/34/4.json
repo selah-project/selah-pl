@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 34:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I wyciął dwie tablice kamienne jak pierwsze, i wstał wcześnie Mosze o poranku, i wstąpił na górę Synaj, jak przykazał Jahwe ⟨את⟩ niego, i wziął w swojej ręce dwie tablice kamienne.",
+  "tokens": [
+    {
+      "surface": "ויפסל",
+      "gloss": "i wyciął"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tablice"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamienne"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "jak pierwsze"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał wcześnie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "o poranku"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wstąpił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w swojej ręce"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tablice"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamienne"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:07.658572773Z",
+  "model": "glm-5.3"
+}

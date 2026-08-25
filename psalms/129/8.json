@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "I nie mówili przechodzący: „Błogosławieństwo Jahwe ⟨niech będzie⟩ nad wami, błogosławiliśmy was ⟨את⟩ w imieniu Jahwe”.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mówili"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "przechodzący"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "błogosławieństwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "nad wami"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "błogosławiliśmy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:04.530256952Z",
+  "model": "glm-5.3"
+}

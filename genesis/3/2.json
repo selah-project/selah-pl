@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A niewiasta rzekła do węża: Z owocu drzew ogrodu jemy —",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a rzekła"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "niewiasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "węża"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "z owocu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzew"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ogrodu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "jemy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:45.134753196Z",
+  "model": "glm-5.3"
+}

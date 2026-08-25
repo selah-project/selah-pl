@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A ty idź do ⟨końca⟩, i odpoczniesz, i staniesz na swoim losie, do końca dni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "do ⟨końca⟩"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "i odpoczniesz"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "i staniesz"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "na swoim losie"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "do końca"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:42.989516055Z",
+  "model": "glm-5.3"
+}

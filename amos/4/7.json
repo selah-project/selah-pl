@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I także ja wstrzymałem wam ⟨את⟩ deszcz, gdy jeszcze trzy miesiące do żniwa; i spuszczałem deszcz na jedno miasto, a na jedno miasto nie spuszczę deszczu; jeden dział jest zraszany, a dział, na który nie spuszczę deszczu, usechnie.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i także"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "wstrzymałem"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deszcz"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deszcz"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "gdy jeszcze"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miesiące"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "do żniwa"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "i spuszczałem deszcz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "jedno miasto"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "jedno miasto"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "spuszczę deszcz"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "dział"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "jest zraszany"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "a dział"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "spuszczę deszcz"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "usechnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:34:05.107891571Z",
+  "model": "glm-5.3"
+}

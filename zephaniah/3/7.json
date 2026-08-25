@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Powiedziałem: Przecież bój się ⟨את⟩ mnie, przyjmij pouczenie, a jej mieszkanie nie zostanie wycięte — wszystko, cokolwiek na nią naveiedziałem; jednak wcześnie wstawali, psując wszystkie swoje postępki.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Powiedziałem"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Przecież"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "obiekt czasownika תיראי"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "przyjmij"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pouczenie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "zostanie wycięte"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "jej mieszkanie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cokolwiek"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "nawiedziłem"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nią"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "jednak"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "wcześnie wstawali"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "psując"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "swoje postępki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:25.495506887Z",
+  "model": "glm-5.3"
+}

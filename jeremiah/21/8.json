@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A do ludu tego powiesz: Tak rzekł Jahwe: Oto ja kładę przed wami ⟨את⟩ drogę życia i ⟨את⟩ drogę śmierci.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "powiesz"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kładę"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drogę życia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "życia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drogę śmierci"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:29.479460198Z",
+  "model": "glm-5.3"
+}

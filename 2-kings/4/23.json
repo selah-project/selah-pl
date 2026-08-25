@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł: Dlaczego ty pójdziesz do niego dziś? ⟨To⟩ nie nów ani szabat. A ona rzekła: Pokój.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nów"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szabat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a rzekła"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pokój"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:07.843522242Z",
+  "model": "glm-5.3"
+}

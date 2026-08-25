@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Nieprzyjaciel — skończone ⟨są⟩ ruiny na zawsze, a miasta wyrwałeś; zginęła ich pamiątka, one same.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Nieprzyjaciel"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "skończone"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruiny"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "a miasta"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "wyrwałeś"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zginęła"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ich pamiątka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one same"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:42.472467270Z",
+  "model": "glm-5.3"
+}

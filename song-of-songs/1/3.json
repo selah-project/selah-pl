@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Dla zapachu twoich olejków ⟨są⟩ dobrę; olejek wylany — twoje imię; dlatego panny pokochały cię.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "dla zapachu"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "twoich olejków"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejek"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "wylany"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twoje imię"
+    },
+    {
+      "surface": "על",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "przeto"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "panny"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "pokochały cię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:49:56.206890144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przywołał Szmuel ⟨את⟩ lud do Jahwe do Micpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:09.921070857Z",
+  "model": "glm-5.3"
+}

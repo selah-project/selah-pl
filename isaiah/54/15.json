@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Oto zbiegną się, lecz nie ode mnie; kto by się zbiegł ⟨את⟩ tobą, na ciebie padnie.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "oto"
+    },
+    {
+      "surface": "גור",
+      "gloss": "zbiegnie się"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "zbiegną się"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ ode mnie",
+      "marks": "ode mnie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "גר",
+      "gloss": "zbiegł się"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na ciebie"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:35:50.753567510Z",
+  "model": "glm-5.3"
+}

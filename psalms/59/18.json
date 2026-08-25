@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Mojo moco, tobie zagram na strunach, bo Elohim jest skałą moją warowną, Elohim mej wiernego miłości przymierza.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "mojo moco"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zagram na strunach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "skałą moją warowną"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "mej wiernego miłości przymierza"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:04.228562609Z",
+  "model": "glm-5.3"
+}

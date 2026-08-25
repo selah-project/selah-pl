@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rozeszło się cały lud, każdy do swego domu, a Dawid zawrócił, aby pobłogosławić ⟨את⟩ swój dom.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "I rozeszło się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swego domu"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "zawrócił"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "aby pobłogosławić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swój dom"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:00.120055481Z",
+  "model": "glm-5.3"
+}

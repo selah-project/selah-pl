@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Ty znasz moją hańbę i mój wstyd, i moją zniewagę; przed tobą ⟨są⟩ wszyscy moi nieprzyjaciele.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "moją hańbę"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "i mój wstyd"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "i moją zniewagę"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "moi nieprzyjaciele"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.625625642Z",
+  "model": "glm-5.3"
+}

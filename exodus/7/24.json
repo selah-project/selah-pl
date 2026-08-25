@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I kopali wszyscy Micrajimczycy dokoła rzeki ⟨wody⟩ do picia, bo nie mogli pić wód rzeki.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "i kopali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimczycy"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨wody⟩"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "do picia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "pić"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "wód"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rzeki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:32.156685433Z",
+  "model": "glm-5.3"
+}

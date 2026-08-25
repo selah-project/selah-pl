@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Niech się radują niebiosa i weseli się ziemia, niech huczy morze i wszystko, co je napełnia!",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "niech się radują"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "i niech się weseli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "niech huczy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i wszystko, co je napełnia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:36.273282479Z",
+  "model": "glm-5.3"
+}

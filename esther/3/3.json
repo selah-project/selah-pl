@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I powiedzieli słudzy króla, którzy w bramie królewskiej, Mordechajowi: dlaczego ty przekraczasz ⟨את⟩ rozkaz króla?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I powiedzieli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "w bramie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiej"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechajowi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "przekraczasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rozkaz"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "rozkaz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:09.668600801Z",
+  "model": "glm-5.3"
+}

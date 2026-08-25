@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Nie weźmie mężczyzna ⟨את⟩ żony swojego ojca i nie odsłoni skraju swojego ojca.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żony swojego ojca"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żony"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "odsłoni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skraj"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swojego ojca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:47.322273078Z",
+  "model": "glm-5.3"
+}

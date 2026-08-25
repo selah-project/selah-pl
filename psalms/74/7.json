@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Wysłali ⟨w⟩ ogień świątynię Twoją, ku ziemi zhańbili przybytek imienia Twojego.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "wysłali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨w⟩ ogień"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "świątynię Twoją"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku ziemi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "zhańbili"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imienia Twojego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:24.537117672Z",
+  "model": "glm-5.3"
+}

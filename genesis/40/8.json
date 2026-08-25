@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I powiedzieli mu: Sen śniliśmy, a wykładu ⟨את⟩ nie ma. I powiedział im Josef: Czyż nie Elohim wyjaśnienia? Opowiedzcie mi, proszę.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "śniliśmy"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "a wykładu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wykładu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "wyjaśnienia"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "opowiedzcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:36.074881991Z",
+  "model": "glm-5.3"
+}

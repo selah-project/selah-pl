@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I wyszedł król Jisraël, i pobił ⟨את⟩ konie i ⟨את⟩ rydwanów, i zadał Aramowi wielkie złamanie.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konie"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "rydwanów"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "rydwanów"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i zadał cios"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramowi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "złamanie"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielkie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.684269009Z",
+  "model": "glm-5.3"
+}

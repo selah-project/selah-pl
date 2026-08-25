@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Bo ja obnażyłem ⟨את⟩ Esawa, odsłoniłem ⟨את⟩ jego kryjówki, i ukryć się nie zdoła; złupione jest jego potomstwo, i jego bracia, i jego sąsiedzi, i go już nie ma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "obnażyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esawa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "odsłoniłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego kryjówki"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "jego kryjówki"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "i ukryć się"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "złupione"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "jego potomstwo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i jego bracia"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "i jego sąsiedzi"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "i go już nie ma"
+    }
+  ],
+  "timestamp": "2026-08-25T01:04:00.493254182Z",
+  "model": "glm-5.3"
+}

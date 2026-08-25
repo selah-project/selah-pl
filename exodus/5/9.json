@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Niech cięży praca na ludziach i niech przy niej pracują, a niech nie patrzy⟨ją⟩ na słowa kłamstwa.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "niech cięży"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "praca"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ludziach"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i niech pracują"
+    },
+    {
+      "surface": "בה",
+      "gloss": "przy niej"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a niech nie"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "patrzą"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "na słowa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:11.581543984Z",
+  "model": "glm-5.3"
+}

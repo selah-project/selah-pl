@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Na jedno mgnienie cię opuściłem, lecz w wielkich litościach cię zgromadzę.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "na mgnienie"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "jedno (małe)"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "cię opuściłem"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "lecz w litościach"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "wielkich"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "cię zgromadzę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:22.503745305Z",
+  "model": "glm-5.3"
+}

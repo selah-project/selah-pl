@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Niech będą przed Jahwe ciągle, a ⟨ten⟩ wytnie ich pamiątkę z ziemi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Niech będą"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ciągle"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a ⟨ten⟩ wytnie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ich pamiątkę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:44.690179742Z",
+  "model": "glm-5.3"
+}

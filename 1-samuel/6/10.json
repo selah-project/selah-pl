@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I uczynili ludzie tak, i wzięli dwie krowy karmiące, i przywiązali je do wozu, a ⟨את⟩ ich cielęta zamknęli w domu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ludzie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "krowy"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "karmiące"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "i przywiązali je"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "do wozu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich cielęta"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ich cielęta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zamknęli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:55.124898878Z",
+  "model": "glm-5.3"
+}

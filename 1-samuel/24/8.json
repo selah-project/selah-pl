@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I rozdarł Dawid ⟨את⟩ mężów swoich słowami i nie dał im powstać przeciw Szaułowi; a Szauł wstał z jaskini i poszedł drogą.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "I rozdarł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów swoich"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "mężów swoich"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "słowami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "dał im"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "powstać"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaułowi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Szauł"
+    },
+    {
+      "surface": "קם",
+      "gloss": "wstał"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "z jaskini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:12.356428460Z",
+  "model": "glm-5.3"
+}

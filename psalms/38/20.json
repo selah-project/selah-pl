@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "A moi wrogowie żywią i wzmocnili się, i rozmnożyli się ci, co mnie nienawidzą kłamliwie.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "a-moi-wrogowie"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wzmocnili-się"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i-rozmnożyli-się"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nienawidzący-mnie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamliwie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:43.375412717Z",
+  "model": "glm-5.3"
+}

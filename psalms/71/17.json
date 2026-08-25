@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Elohim, nauczyłeś mnie od mojej młodości, i aż dotąd głoszę Twoje cuda.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "nauczyłeś mnie"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mojej młodości"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dotąd"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "głoszę"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Twoje cuda"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:45.549138146Z",
+  "model": "glm-5.3"
+}

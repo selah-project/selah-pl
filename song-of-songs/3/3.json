@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Znaleźli mnie strażnicy krążący po mieście: „Czy widzieliście ⟨את⟩ tego, którego kocha moja nefesz?”",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "znaleźli mnie"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "strażnicy"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "krążący"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "po mieście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, którego kocha moja nefesz"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "którego kocha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "czy widzieliście"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:15.703044867Z",
+  "model": "glm-5.3"
+}

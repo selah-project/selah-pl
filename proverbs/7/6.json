@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Gdyż w oknie mego domu, za moją kratą wyglądałem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdyż"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "w oknie"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mego domu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "moją kratą"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "wyglądałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:15.181835551Z",
+  "model": "glm-5.3"
+}

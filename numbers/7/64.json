@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jeden kozioł z kóz na ofiarę za grzech.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "kozioł"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "z kóz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Jeden"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "na ofiarę za grzech"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:38.079964139Z",
+  "model": "glm-5.3"
+}

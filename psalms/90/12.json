@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Policzyć nasze dni tak ⟨nas⟩ naucz, a przyniesiemy serce ⟨do⟩ mądrości.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "policzyć"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nasze dni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "naucz"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "a przyniesiemy"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:29.555803239Z",
+  "model": "glm-5.3"
+}

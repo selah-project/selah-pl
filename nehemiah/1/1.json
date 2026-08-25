@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Słowa Nechemjasza, syna Chakalji. I stało się w miesiącu Kislew, w roku dwudziestym, a ja byłem w Suszan, ⟨w⟩ twierdzy.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Słowa"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjasza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalji"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "w miesiącu"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "Kislew"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestym"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "w Suszan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨w⟩ twierdzy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:45:33.755698425Z",
+  "model": "glm-5.3"
+}

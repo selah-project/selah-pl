@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Bądźcie mocni, i niech się umocni serce wasze, wszyscy ⟨wy⟩, którzy czekają na Jahwe!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Bądźcie mocni"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "i niech się umocni"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "serce wasze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "którzy czekają"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:05.012344075Z",
+  "model": "glm-5.3"
+}

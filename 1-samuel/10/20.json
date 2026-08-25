@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przyprowadził Szmuel ⟨את⟩ wszystkie pokolenia Jisraela, i zostało wylosowane pokolenie Binjamina.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i przyprowadził"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie pokolenia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "pokolenia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zostało wylosowane"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:09.921776100Z",
+  "model": "glm-5.3"
+}

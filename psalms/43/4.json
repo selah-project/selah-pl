@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I wejdę do ołtarza Elohim, do El, radości mego wesela, i będę Ci dziękować przy kinorze, Elohim, Elohim mój.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "I wejdę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "radości"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "mego wesela"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "i będę Ci dziękować"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "przy kinorze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:13.540830553Z",
+  "model": "glm-5.3"
+}

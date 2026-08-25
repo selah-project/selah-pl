@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Stróż prostaczków ⟨jest⟩ Jahwe; zostałem poniżony, a mnie ocalił.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Stróż"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "prostaczków"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "zostałem poniżony"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "a mnie"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ocalił"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:26.062571993Z",
+  "model": "glm-5.3"
+}

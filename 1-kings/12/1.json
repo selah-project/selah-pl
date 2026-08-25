@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I poszedł Rechawam do Szchem, bo do Szchem przybył cały Israel, aby go obwołać królem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechawam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "do Szchem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "do Szchem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przybył"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "aby obwołać królem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:51.689775115Z",
+  "model": "glm-5.3"
+}

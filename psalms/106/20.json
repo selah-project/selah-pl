@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I zamienili ⟨את⟩ swoją chwałę na podobieństwo wołu, który je trawę.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "i zamienili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją chwałę"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "swoją chwałę"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "na podobieństwo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "który je"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:51.625910946Z",
+  "model": "glm-5.3"
+}

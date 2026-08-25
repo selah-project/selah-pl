@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 17:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I znalazł król Aszszura u Hoszei spisek, bo posłał wysłanników do Sowy, króla Micrajim, i nie dostarczał daniny królowi Aszszura jak rok w roku; i uwięził go król Aszszura i związał go w więzieniu ⟨domu zamknięcia⟩.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "i znalazł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "u Hoszei"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "spisek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posłał"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "wysłanników"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "סוא",
+      "gloss": "Sowy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dostarczał"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daniny"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "כשנה",
+      "gloss": "jak rok"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "ויעצרהו",
+      "gloss": "i uwięził go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "i związał go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zamknięcia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:01.878251214Z",
+  "model": "glm-5.3"
+}

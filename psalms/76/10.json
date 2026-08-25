@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Gdy powstał Elohim do sądu, by zbawić wszystkich pokornych ziemi. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "gdy powstał"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "do sądu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "by zbawić"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "pokornych"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:27.613768978Z",
+  "model": "glm-5.3"
+}

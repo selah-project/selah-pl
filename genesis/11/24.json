@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I żył Nachor dwadzieścia dziewięć lat, i zrodził ⟨את⟩ Teracha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "dziewięć"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dwadzieścia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teracha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:03.198418625Z",
+  "model": "glm-5.3"
+}

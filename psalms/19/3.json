@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Dzień dniowi wypływa mowę, a noc nocy objawia wiedzę.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Dzień"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dniowi"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "wypływa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mowę"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "nocy"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "objawia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wiedzę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:48.848174449Z",
+  "model": "glm-5.3"
+}

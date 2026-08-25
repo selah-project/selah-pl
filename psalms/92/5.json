@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "Bo rozweseliłeś mnie, Jahwe, czynem swoim; o dziełach rąk twoich będę radośnie śpiewał.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "rozweseliłeś mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "czynem swoim"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "o dziełach"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "rąk twoich"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "będę radośnie śpiewał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:56.955171594Z",
+  "model": "glm-5.3"
+}

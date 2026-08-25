@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Z niebios sprawił, że słyszałeś ⟨את⟩ swój głos, aby cię pouczyć, i na ziemi pokazał ci ⟨את⟩ swój ogień wielki, a jego słowa słyszałeś ze środka ognia.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "sprawił, że słyszałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój głos"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "głos"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "aby cię pouczyć"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "pokazał ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój ogień wielki"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "a jego słowa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "słyszałeś"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ze środka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognia"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:11.570634183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I włożą ⟨את⟩ imię moje na synów Jisraela, a Ja ich pobłogosławię.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "i włożą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię moje"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "imię moje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "pobłogosławię ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:15.782088075Z",
+  "model": "glm-5.3"
+}

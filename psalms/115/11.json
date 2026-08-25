@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Bojący się Jahwe, ufajcie w Jahwe; On ⟨jest⟩ ich pomocą i ich tarczą.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Bojący się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ufajcie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ich pomocą"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "i ich tarczą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:10.031395355Z",
+  "model": "glm-5.3"
+}

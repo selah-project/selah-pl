@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "I odprawił ⟨את⟩ swoich braci, i odeszli; a rzekł do nich: nie kłóćcie się na drodze.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i odprawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich braci"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoich braci"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kłóćcie się"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:44.809967853Z",
+  "model": "glm-5.3"
+}

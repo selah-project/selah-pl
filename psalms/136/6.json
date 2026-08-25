@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Temu, kto rozpostarł ziemię nad wodami, bo na wieki ⟨trwa⟩ jego chesed.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Temu, kto rozpostarł"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:56.917244873Z",
+  "model": "glm-5.3"
+}

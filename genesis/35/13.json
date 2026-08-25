@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I wstąpił Elohim z niego wysoko, w miejscu, gdzie mówił ⟨z⟩ nim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i wstąpił"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "z niego wysoko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:20.969318881Z",
+  "model": "glm-5.3"
+}

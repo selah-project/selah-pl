@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I stało się, gdy usłyszał król Chizkijahu, że rozdarł ⟨את⟩ swoje szaty i okrył się worsem, i wszedł do domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "okrył się"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "worsem"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wszedł"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:31.547942287Z",
+  "model": "glm-5.3"
+}

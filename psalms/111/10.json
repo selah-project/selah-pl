@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 111,
+  "translation": "Początkiem mądrości ⟨jest⟩ bojaźń Jahwe; dobry rozum mają wszyscy, którzy je czynią; jego chwała stoi na wieki.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Początkiem"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrości"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bojaźń"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "rozum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "którzy je czynią"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jego chwała"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:12.037981368Z",
+  "model": "glm-5.3"
+}

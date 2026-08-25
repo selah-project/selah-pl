@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Wszystko, co otwiera łono, jest moje, i wszystko z twego bydła — samca wyodrębnisz, pierworodnego wołu albo owcy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystko"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "co otwiera"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "łono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jest moje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "z twego bydła"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "samca wyodrębnisz"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "pierworodnego"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "albo owcy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:49.836914152Z",
+  "model": "glm-5.3"
+}

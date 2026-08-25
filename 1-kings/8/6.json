@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wnieśli kapłani ⟨את⟩ aron przymierza Jahwe na miejsce jego, do dewiru domu, do świętego świętych, pod skrzydła kerubów.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i wnieśli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron przymierza Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "miejsca jego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "dewiru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętego"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "świętych"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "skrzydeł"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:26.535515792Z",
+  "model": "glm-5.3"
+}

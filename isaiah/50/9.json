@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Oto Adonai Jahwe pomoże mi — kto ⟨on⟩ jest, ten który mnie potępi? Oto wszyscy jak szata się zetrą, mól ich zje.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "pomoże"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "mnie potępi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "oto"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jak szata"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "się zetrą"
+    },
+    {
+      "surface": "עש",
+      "gloss": "mól"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ich zje"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:00.499351890Z",
+  "model": "glm-5.3"
+}

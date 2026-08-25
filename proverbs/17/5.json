@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Kto wyśmiewa ubogiego, hańbi Tego, który go uczynił; kto raduje się z nieszczęścia, nie będzie uniewinniony.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "wyśmiewa"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hańbi"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Tego, który go uczynił"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "raduje się"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "z nieszczęścia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "będzie uniewinniony"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:52.011552562Z",
+  "model": "glm-5.3"
+}

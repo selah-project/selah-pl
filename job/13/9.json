@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Czy dobre ⟨to⟩, że ⟨את⟩ was zbada? Czy jak drwi się z człowieka, wy z niego drwicie?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "czy dobre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "zbada"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "jak drwi się"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "z człowieka"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "drwicie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:17:45.491476358Z",
+  "model": "glm-5.3"
+}

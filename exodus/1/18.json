@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przywołał król Micraim położne i rzekł do nich: dlaczego uczyniłyście tę rzecz i zostawiłyście przy życiu ⟨את⟩ chłopców?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "położne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "להן",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "uczyniłyście"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tę rzecz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "i zostawiłyście przy życiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chłopców"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "chłopców"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:06.324530414Z",
+  "model": "glm-5.3"
+}

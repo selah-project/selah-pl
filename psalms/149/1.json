@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 149,
+  "translation": "Chwalcie Jaha, śpiewajcie Jahwe pieśń nową, chwałę Jego w zgromadzeniu świętych (chasidim).",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "śpiewajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nową"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "chwałę Jego"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "w zgromadzeniu"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "świętych (chasidim)"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.771534962Z",
+  "model": "glm-5.3"
+}

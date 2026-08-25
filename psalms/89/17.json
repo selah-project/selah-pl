@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "W twoim imieniu radują się cały dzień, a w twojej sprawiedliwości są wywyższeni.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "W twoim imieniu"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "radują się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "a w twojej sprawiedliwości"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "są wywyższeni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:48.866262530Z",
+  "model": "glm-5.3"
+}

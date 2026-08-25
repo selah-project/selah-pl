@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty ten, kto się kocha ze swą teściową; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kto się kocha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "swą teściową"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:58.178254123Z",
+  "model": "glm-5.3"
+}

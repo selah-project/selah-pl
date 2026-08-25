@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "W naszym poniżeniu nas wspomniał, bo na wieki trwa jego chesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "w naszym poniżeniu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wspominał"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.218069883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Wspaniałość chwały Twojego majestatu i słowa Twoich cudów będę rozważał.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "wspaniałość"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwały"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "Twojego majestatu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "i słowa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Twoich cudów"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "będę rozważał"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:09.239094529Z",
+  "model": "glm-5.3"
+}

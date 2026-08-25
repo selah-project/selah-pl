@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wyszedł Mosze na spotkanie swojego teścia, i pokłonił się, i pocałował go, i pytali się jeden drugiego o ⟨jego⟩ pokój, i weszli do ⟨tego⟩ namiotu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na spotkanie"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "swojego teścia"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłonił się"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "i pocałował"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "i pytali się"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "o pokój"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i weszli"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "do namiotu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:25.165937720Z",
+  "model": "glm-5.3"
+}

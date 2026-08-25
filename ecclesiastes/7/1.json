@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Lepsze ⟨jest⟩ imię niż dobry olejek, i dzień śmierci niż dzień ⟨jego⟩ narodzin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepsze"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "niż dobry olejek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry olejek"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "i dzień"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "niż dzień"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "jego narodzin"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:12.377343086Z",
+  "model": "glm-5.3"
+}

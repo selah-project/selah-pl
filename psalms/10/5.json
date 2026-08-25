@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jego drogi ⟨są⟩ niewzruszone w każdym czasie; Twoje wyroki ⟨są⟩ wysoko, z dala od niego; na wszystkich swoich przeciwników ⟨on⟩ dmucha.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "⟨są⟩ niewzruszone"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jego drogi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w każdym"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czasie"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wysoko"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Twoje wyroki"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "z dala od niego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "swoich przeciwników"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "dmucha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:53.522826036Z",
+  "model": "glm-5.3"
+}

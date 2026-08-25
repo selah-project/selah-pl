@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I umieścisz ⟨את⟩ ołtarz złota do kadzenia przed Aron Świadectwa, i zawiesisz ⟨את⟩ zasłonę wejścia przy Przybytku.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i umieścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz złota"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "do kadzenia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwa"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i zawiesisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę wejścia"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "przy Przybytku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:35.091620753Z",
+  "model": "glm-5.3"
+}

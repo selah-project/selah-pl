@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Jak strażnicy pola stali przeciw niej dokoła, bo przeciw mnie była zbuntowana — wyrocznia Jahwe.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "jak strażnicy"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pola"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stali"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "przeciw niej"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "była zbuntowana (mnie)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "była zbuntowana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:43:01.538141583Z",
+  "model": "glm-5.3"
+}

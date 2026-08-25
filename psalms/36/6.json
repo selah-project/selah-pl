@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Jahwe, w niebiosach twoja wierna miłość przymierza, twoja wierność aż do obłoków.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "w niebiosach"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "twoja wierna miłość przymierza"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "twoja wierność"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "obłoków"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:53.746490419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Czy ⟨ja⟩ złamię ⟨poród⟩, a nie spowoduję narodzin? mówi Jahwe; czy ⟨ja⟩ sprowadzam na świat ⟨dzieci⟩, a zamknę ⟨łono⟩? mówi twój Elohim.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "czy ⟨ja⟩"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "złamię poród"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "spowoduję narodzin"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ja⟩"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "sprowadzam na świat"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "a zamknę łono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:39:56.848896181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Wyliczam wszystkie swoje kości; oni patrzą i przyglądają się mnie.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "wyliczam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "swoje kości"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "patrzą"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "przyglądają się"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:54.201668098Z",
+  "model": "glm-5.3"
+}

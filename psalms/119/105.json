@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Lampą dla moich stóp ⟨jest⟩ Twoje słowo, a światłem dla mojej ścieżki.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampą"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "dla moich stóp"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Twoje słowo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a światłem"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "dla mojej ścieżki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:50.556196770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I będziesz miłował ⟨את⟩ przybysza, bo przybyszami byliście w ziemi Micrajim;",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "I będziesz miłował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybysza"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "przybysza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "przybyszami"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "byliście"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:52.908389472Z",
+  "model": "glm-5.3"
+}

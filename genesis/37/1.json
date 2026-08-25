@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zamieszkał Jaakow w ziemi pielgrzymek swego ojca, w ziemi Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i zamieszkał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "pielgrzymek"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:41.962552558Z",
+  "model": "glm-5.3"
+}

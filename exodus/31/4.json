@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "aby obmyślać obmyśły, do wykonania w złocie i w srebrze, i w miedzi",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "aby obmyślać"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "obmyśły"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "do wykonania"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "w złocie"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "i w srebrze"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "i w miedzi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:56.733678053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "a teraz ty mówisz: idź, powiedz panu twemu: oto Eliahu — a ⟨on⟩ zabije mnie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówisz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "panu twemu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "a zabije mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:34.713744090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I nazwał Elohim światłość dniem, a ciemność nazwał nocą; i był wieczór, i był poranek — dzień jeden.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nazwał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "światłość"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dniem"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "a ciemność"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazwał"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wieczór"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranek"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:08.339753022Z",
+  "model": "glm-5.3"
+}

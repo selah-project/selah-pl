@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Jak Jahwe przykazał ⟨את⟩ Moszemu, tak uczynili synowie Jisraela i podzielili ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "i podzielili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T23:21:06.131093265Z",
+  "model": "glm-5.3"
+}

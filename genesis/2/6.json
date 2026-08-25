@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A opary unosiły się z ziemi i poiły ⟨את⟩ całą powierzchnię gleby.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "a opary"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "unosiły się"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "i poiły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą powierzchnię gleby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "powierzchnię"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gleby"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:07.925738053Z",
+  "model": "glm-5.3"
+}

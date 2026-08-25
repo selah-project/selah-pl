@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Bo zazdrościłembut zarozumiałym, ⟨gdy⟩ widziałem pomyślność bezbożnych.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "zazdrościłem"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "zarozumiałym"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pomyślność"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "widziałem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:46.795905190Z",
+  "model": "glm-5.3"
+}

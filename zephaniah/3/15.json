@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Jahwe usunął twoje wyroki, odwrócił twego wroga; król Jisra’ela, Jahwe, ⟨jest⟩ pośród ciebie — nie będziesz się bać zła już więcej.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "usunął"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "twoje wyroki"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "odwrócił"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "twego wroga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra’ela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "pośród ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "będziesz się bać"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już więcej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:02.245141441Z",
+  "model": "glm-5.3"
+}

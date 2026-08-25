@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Jahwe, Adonai nasz, jak wspaniałe ⟨jest⟩ imię Twoje na całej ziemi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai nasz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wspaniałe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:57.128703446Z",
+  "model": "glm-5.3"
+}

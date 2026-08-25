@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 134,
+  "translation": "Niech Jahwe błogosławi ci z Cijonu, Twórca niebios i ziemi!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "niech błogosławi ci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "z Cijonu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Twórca"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:54.549139230Z",
+  "model": "glm-5.3"
+}

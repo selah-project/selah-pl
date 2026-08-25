@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "i rozkazali ⟨את⟩ ludowi, mówiąc: Gdy ujrzycie ⟨את⟩ arkę przymierza Jahwe, waszego Elohim, i kapłanów lewitów niosących ⟨את⟩ ją, wtedy wyruszycie z waszego miejsca i pójdziecie za nią.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "i rozkazali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludowi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "gdy ujrzycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "waszego Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "i kapłanów"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewitów"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "niosących"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją (arkę)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "wyruszycie"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "z waszego miejsca"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "i pójdziecie"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za nią"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:16.586737224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jehoszua do ludu: Uświęćcie się, bo jutro Jahwe uczyni wśród was cuda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "Uświęćcie się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "wśród was"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "cuda"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:44.608813362Z",
+  "model": "glm-5.3"
+}

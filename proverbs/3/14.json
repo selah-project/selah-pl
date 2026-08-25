@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bo jej zysk ⟨jest⟩ lepszy niż zysk srebra, niż złoto — jej plon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepszy"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "jej zysk"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "niż handel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "niż złoto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jej plon"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:23.730879048Z",
+  "model": "glm-5.3"
+}

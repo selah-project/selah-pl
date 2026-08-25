@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wstał Ezra i przysięgł ⟨את⟩ sarów kohanimów, lewitów i całego Izraela, by uczynić według tego słowa — i przysięgli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i przysięgł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarów kohanimów"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarów"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanimów"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewitów"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "by uczynić"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "i przysięgli"
+    }
+  ],
+  "timestamp": "2026-08-25T02:44:50.858255599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A manna ⟨była⟩ jak ziarno gdu, a jej wygląd jak wygląd bdolachu.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "a manna"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "jak ziarno"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gdu (kolendra)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨była⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "a jej wygląd"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "jak wygląd"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdolachu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:43.305244096Z",
+  "model": "glm-5.3"
+}

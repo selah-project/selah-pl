@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Zaprawdę sprawiedliwi będą wysławiać Twoje imię, prości zasiądą ⟨przed⟩ ⟨את⟩ Twoim obliczem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "będą wysławiać"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zasiądą"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prości"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Twoim obliczem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Twoim obliczem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:53.682004179Z",
+  "model": "glm-5.3"
+}

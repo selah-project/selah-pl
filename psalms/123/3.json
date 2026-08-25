@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 123,
+  "translation": "Zmiłuj się nad nami, Jahwe, zmiłuj się nad nami, bo obficie nasyceni jesteśmy pogardą.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Zmiłuj się nad nami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "zmiłuj się nad nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obficie"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "nasyteni jesteśmy"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pogardą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:45.206985486Z",
+  "model": "glm-5.3"
+}

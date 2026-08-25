@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I do domu ucztowania nie wejdziesz, by zasiąść ⟨z nimi⟩, by ⟨jeść⟩ i pić.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "I do domu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztowania"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "by zasiąść"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "by jeść i pić"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "by jeść"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "i pić"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:25.740737532Z",
+  "model": "glm-5.3"
+}

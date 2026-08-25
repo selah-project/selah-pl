@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A Atalia, matka Achazjahu, zobaczyła, że umarł jej syn, i wstała, i wytraciła ⟨את⟩ całe potomstwo królewskie.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "A Atalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matka"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "zobaczyła"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umarł"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jej syn"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "i wstała"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "i wytraciła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe potomstwo królewskie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstwo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królewskie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:02.997765323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bohatera i męża wojny, sędziego i proroka, i wieszczka, i starszego.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Bohatera"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i męża"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sędziego"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "i proroka"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "i wieszczka"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "i starszego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:02.663846288Z",
+  "model": "glm-5.3"
+}

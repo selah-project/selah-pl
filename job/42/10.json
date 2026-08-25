@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I Jahwe przywrócił ⟨את⟩ los Ijoba, gdy ten modlił się za swoich przyjaciół; i Jahwe dodał ⟨את⟩ wszystko, co miał Ijob, podwójnie.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "przywrócił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "los"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijoba"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "gdy modlił się"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swoich przyjaciół"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "i dodał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "miał Ijob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "podwójnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:28.698359257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Niech Jahwe przyda wam, wam i waszym synom.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "Niech przyda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "waszym synom"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:05.546404295Z",
+  "model": "glm-5.3"
+}

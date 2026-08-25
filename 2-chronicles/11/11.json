@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I umocnił ⟨את⟩ twierdze, i ustanowił w nich dowódców, oraz skarbice żywności, i oliwy, i wina.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i umocnił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twierdze"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "twierdze"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "dowódców"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "oraz skarbice"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "żywności"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "i oliwy"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "i wina"
+    }
+  ],
+  "timestamp": "2026-08-25T03:02:25.483028175Z",
+  "model": "glm-5.3"
+}

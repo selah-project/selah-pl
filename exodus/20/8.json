@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Pamiętaj ⟨את⟩ dzień szabatu, aby go święcić.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Pamiętaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień szabatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "aby go święcić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:30.295129528Z",
+  "model": "glm-5.3"
+}

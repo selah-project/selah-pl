@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A synem Jehonatana ⟨był⟩ Meriw-Baal, a Meriw-Baal zrodził ⟨את⟩ Micheasza.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "A synem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriw-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "a Meriw-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micheasza"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Micheasza"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:00.646156926Z",
+  "model": "glm-5.3"
+}

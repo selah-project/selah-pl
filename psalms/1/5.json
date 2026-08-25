@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Dlatego nie powstaną bezbożni w sądzie, ani grzesznicy w zgromadzeniu sprawiedliwych.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dlatego (z powodu)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "powstaną"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w sądzie"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ani grzesznicy"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "w zgromadzeniu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwych"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:24.029724453Z",
+  "model": "glm-5.3"
+}

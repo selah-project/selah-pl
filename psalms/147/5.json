@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Wielki ⟨jest⟩ Adonai nasz i wielkiej mocy, dla Jego zrozumienia nie ma liczby.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Wielki"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai nasz"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i wielkiej"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mocy"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "dla Jego zrozumienia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "liczby"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:44.964129107Z",
+  "model": "glm-5.3"
+}

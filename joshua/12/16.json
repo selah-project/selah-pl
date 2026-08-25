@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "król Makkedy, jeden; król Bet-El, jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkedy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:23.581984350Z",
+  "model": "glm-5.3"
+}

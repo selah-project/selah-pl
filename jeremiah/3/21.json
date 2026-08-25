@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Głos na wyżynach ⟨jest⟩ słyszany, płacz, błagania synów Israela, bo wykrzywili ⟨את⟩ swoją drogę, zapomnieli ⟨את⟩ Jahwe, Elohim swojego.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "wyżynach"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨jest⟩ słyszany"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "płacz"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "błagania"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "wykrzywili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją drogę"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "swoją drogę"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zapomnieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe, Elohim swojego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim swojego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:10.887189508Z",
+  "model": "glm-5.3"
+}

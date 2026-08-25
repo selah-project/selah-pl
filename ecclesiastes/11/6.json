@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Rano siej ⟨את⟩ swoje ziarno, a wieczorem nie odpuszczaj swojej ręki, bo nie wiesz, czy to, czy tamto ⟨się⟩ powiedzie, albo czy oba jako jedno będą dobre.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziarno swoje"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ziarno swoje"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "a wieczorem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "odpuszczaj"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "swojej ręki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wiesz"
+    },
+    {
+      "surface": "אי",
+      "gloss": "czy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "się powiedzie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "או",
+      "gloss": "czy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tamto"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "albo czy"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "jako jedno"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "będą dobre"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:02.441446384Z",
+  "model": "glm-5.3"
+}

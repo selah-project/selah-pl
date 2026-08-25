@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "bo zbuntowali się przeciw słowom El, i radę Elijona wzgardzili;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "zbuntowali się"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "słowom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "i radę"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijona"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wzgardzili"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:35.777813515Z",
+  "model": "glm-5.3"
+}

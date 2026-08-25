@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Szczęśliwy lud, który tak ⟨ma⟩! Szczęśliwy lud, którego Elohim ⟨jest⟩ Jahwe!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "który tak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ma⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "którego Jahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:10.902024130Z",
+  "model": "glm-5.3"
+}

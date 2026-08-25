@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I powstał cały lud jak jeden mąż, mówiąc: Nie pójdziemy żaden mąż do swego namiotu, i nie zawrócimy żaden mąż do swego domu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden mąż"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pójdziemy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "żaden mąż"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "do swego namiotu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "zawrócimy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "żaden mąż"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swego domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:32:14.417664992Z",
+  "model": "glm-5.3"
+}

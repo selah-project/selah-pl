@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I był ⟨את⟩ nią w domu Jahwe ukryty sześć lat, a Atalia królowała nad ⟨tą⟩ ziemią.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I był"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nią",
+      "marks": "nią (z Jehoszebą i piastunką)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ukryty"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "a Atalia"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "królowała"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:02.998257568Z",
+  "model": "glm-5.3"
+}

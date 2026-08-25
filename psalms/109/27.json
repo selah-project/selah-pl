@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I poznają, że to twoja ręka — ty, Jahwe, to uczyniłeś ⟨ją⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "I poznają"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoja ręka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "uczyniłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:27.585667857Z",
+  "model": "glm-5.3"
+}

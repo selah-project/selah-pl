@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I urodzili mu się siedmiu synowie i trzy córki.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "I urodzili się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "siedmiu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "i trzy"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:31.622064728Z",
+  "model": "glm-5.3"
+}

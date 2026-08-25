@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Pochwała Dawida. Będę Cię wywyższał, Eloah mój, ⟨jako⟩ królu, i będę błogosławił Twoje imię na wieki i na zawsze.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Pochwała"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Będę Cię wywyższał"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah mój"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królu"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "i będę błogosławił"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.637386443Z",
+  "model": "glm-5.3"
+}

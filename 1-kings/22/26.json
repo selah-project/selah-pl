@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł król Jisraela: Weź ⟨את⟩ Mikajachu i odprowadź go z powrotem do Amona, namiestnika miasta, i do Joasza, syna królewskiego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajachu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajachu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "i odprowadź go z powrotem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "שר",
+      "gloss": "namiestnika"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:23.376110186Z",
+  "model": "glm-5.3"
+}

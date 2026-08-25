@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i napiszesz je na odrzwiach twojego domu i na twoich bramach.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "i napiszesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "odrzwiach"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twojego domu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "i na twoich bramach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:15.640694244Z",
+  "model": "glm-5.3"
+}

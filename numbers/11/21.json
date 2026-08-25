@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 11:21",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I rzekł Mosze: sześćset tysięcy pieszych ⟨jest⟩ ludu, wśród którego jestem ja, a Ty powiedziałeś: mięso dam im, i będą jeść miesiąc dni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pieszych"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "powiedziałeś"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i będą jeść"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "miesiąc"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:11.497595754Z",
+  "model": "glm-5.3"
+}

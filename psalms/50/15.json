@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "I wzywaj Mnie w dniu niedoli — wyratuję cię, a ty będziesz Mnie czcił.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "i wzywaj Mnie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "niedoli"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "wyratuję cię"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "a ty będziesz Mnie czcił"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:57.064892772Z",
+  "model": "glm-5.3"
+}

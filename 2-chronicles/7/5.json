@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I złożył król Szlomo ⟨את⟩ ofiarę z bydła dwadzieścia dwa tysiące, i owiec sto dwadzieścia tysięcy, i poświęcili ⟨את⟩ dom Elohim — król i cały lud.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i złożył ofiarę"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiarę z bydła"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofiarę"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "z bydła"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "i dwa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiące"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i owiec"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dwadzieścia"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "i poświęcili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:08.676838933Z",
+  "model": "glm-5.3"
+}

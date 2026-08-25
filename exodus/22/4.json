@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Gdy wypasłszy spowoduje człowiek zjedzenie pola albo winnicy i wyśle ⟨את⟩ bydło swoje i wypasł ono w polu innego — z najlepszego pola swojego i z najlepszego winnicy swojej zapłaci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "wypasłszy spowoduje zjedzenie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "winnicy"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i wyśle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bydło swoje"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "bydło swoje"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "i wypasł ono"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "w polu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innego"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "z najlepszego"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "pola swojego"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "i z najlepszego"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "winnicy swojej"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:48.114226329Z",
+  "model": "glm-5.3"
+}

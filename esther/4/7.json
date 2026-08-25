@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I opowiedział mu Mordechaj ⟨את⟩ wszystko, co go spotkało, oraz ⟨את⟩ dokładną sumę srebra, którą Haman powiedział zważyć na skarbce króla w zamian za Jehudim, aby ich wytracić.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i opowiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "go spotkało"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dokładną sumę srebra"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "dokładną sumę"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "zważyć"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "skarbce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "w zamian za Jehudim"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "aby ich wytracić"
+    }
+  ],
+  "timestamp": "2026-08-25T03:51:09.936674511Z",
+  "model": "glm-5.3"
+}

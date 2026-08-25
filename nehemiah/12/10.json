@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Jeszua spłodził ⟨את⟩ Jojakima, a Jojakim spłodził ⟨את⟩ Eljasziba, a Eljaszib ⟨spłodził⟩ ⟨את⟩ Jojadę.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Jeszua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakima"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakima"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "a Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljasziba"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljasziba"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "a Eljaszib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojadę"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojadę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:48:54.644371384Z",
+  "model": "glm-5.3"
+}

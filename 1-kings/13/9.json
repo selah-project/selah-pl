@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Bo tak nakazano mnie słowem Jahwe, mówiąc: Nie będziesz jadł chleba ani pił wody, ani nie wrócisz drogą, którą przyszedłeś.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazano"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "słowem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "będziesz jadł"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "pił"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wrócisz"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "przyszedłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:59.993568659Z",
+  "model": "glm-5.3"
+}

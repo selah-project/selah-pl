@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I rosła mądrość Szlomo ponad mądrość wszystkich synów Wschodu i ponad całą mądrość Micraim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "i rosła"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ponad mądrość"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Wschodu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "i ponad całą"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:08.611711149Z",
+  "model": "glm-5.3"
+}

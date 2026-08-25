@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I napoiły ⟨את⟩ swego ojca winem w tę noc, i weszła pierworodna, i legła z ⟨את⟩ swoim ojcem, a on nie wiedział, gdy kładła się i gdy wstawała.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "i napoiły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego ojca"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "יין",
+      "gloss": "winem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w noc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i weszła"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "pierworodna"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "i legła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim ojcem"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "swoim ojcem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "gdy kładła się"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "i gdy wstawała"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:14.182241067Z",
+  "model": "glm-5.3"
+}

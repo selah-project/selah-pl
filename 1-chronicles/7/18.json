@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A jego siostra, Hammoleket, urodziła ⟨את⟩ Iszzoda, i ⟨את⟩ Abiezera, i ⟨את⟩ Machlę.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "a jego siostra"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iszzoda"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Iszzoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Abiezera"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Machlę"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:04.487418166Z",
+  "model": "glm-5.3"
+}

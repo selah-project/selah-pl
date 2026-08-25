@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Nie pociągaj mnie razem z bezbożnymi i z czyniącymi nieprawość, mówiącymi pokój bliźnim swoim, a złem w sercu swoim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "pociągaj mnie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "razem z"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnymi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i z"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "czyniącymi"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mówiącymi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bliźnim"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "swoim"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a złem"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "w sercu swoim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:59.946773647Z",
+  "model": "glm-5.3"
+}

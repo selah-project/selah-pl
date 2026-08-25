@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Czynisz nas przysłowiem wśród narodów, kiwaniem głowy wśród ludów.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Czynisz nas"
+    },
+    {
+      "surface": "משל",
+      "gloss": "przysłowiem"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wśród narodów"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "kiwaniem"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ludów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:39.000639532Z",
+  "model": "glm-5.3"
+}

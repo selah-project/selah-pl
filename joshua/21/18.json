@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot ze swoimi pastwiskami i ⟨את⟩ Almon ze swoimi pastwiskami — cztery miasta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pastwiska jej"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ze swoimi pastwiskami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pastwiska jej"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ze swoimi pastwiskami"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:35.770270768Z",
+  "model": "glm-5.3"
+}

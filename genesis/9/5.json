@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A ⟨zaprawdę⟩ ⟨את⟩ krew waszą za wasze nefesz będę żądał; z ręki każdej zwierzęcej istoty będę jej żądał, i z ręki człowieka, z ręki każdego człowieka — jego brata — będę żądał ⟨את⟩ nefesz człowieka.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "a ⟨zaprawdę⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew waszą"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "krew waszą"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "za wasze nefesz"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "będę żądał"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdej"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zwierzęcej istoty"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "będę jej żądał"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i z ręki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdego człowieka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brata"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "będę żądał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesz człowieka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:22.962613598Z",
+  "model": "glm-5.3"
+}

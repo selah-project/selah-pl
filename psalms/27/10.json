@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Bo ojciec mój i matka moja opuścili mnie, a Jahwe przyjmie mnie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i matka moja"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "opuścili mnie"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "przyjmie mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:25.763822603Z",
+  "model": "glm-5.3"
+}

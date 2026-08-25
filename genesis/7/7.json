@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wszedł Noach, i jego synowie, i jego żona, i żony jego synów ⟨את⟩ nim, do arki, przed obliczem wód potopu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I wszedł"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jego synowie"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jego żona"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i żony"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "Noach i jego rodzina — wejście do arki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wód"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:31.636553520Z",
+  "model": "glm-5.3"
+}

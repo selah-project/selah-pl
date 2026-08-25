@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I rzekł Szechem do Chamora, ojca swego: Weź mi ⟨את⟩ tę dziewczynę za żonę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamora"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę dziewczynę"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "tę dziewczynę"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:11.096933866Z",
+  "model": "glm-5.3"
+}

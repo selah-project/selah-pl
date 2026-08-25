@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I rozgniewali go przy wodach Meriba, i stało się źle Moszemu z ich powodu.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "i rozgniewali"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy \/ przeciw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wodach"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "i stało się źle"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "z ich powodu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:54.630894328Z",
+  "model": "glm-5.3"
+}

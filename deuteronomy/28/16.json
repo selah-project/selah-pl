@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Przeklęty ⟨ty⟩ w mieście i przeklęty ⟨ty⟩ na polu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "i przeklęty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:54.685858227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wschodzi słońce, i zachodzi słońce, i do miejsca swojego dyszy — wschodząc, tam ⟨ono⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "i wschodzi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i zachodzi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "miejsca swojego"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "dyszy"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "wschodząc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ono⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:09.388374955Z",
+  "model": "glm-5.3"
+}

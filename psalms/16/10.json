@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Bo nie zostawisz mojej nefesz Szeolowi, nie dasz Twego wiernego, by oglądał zatracenie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zostawisz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Szeolowi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "Twego wiernego"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "by oglądał"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "zatracenie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:15.479830731Z",
+  "model": "glm-5.3"
+}

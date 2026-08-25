@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Pocieszajcie, pocieszajcie mój lud — powie wasz Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Pocieszajcie"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "pocieszajcie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:02.725443719Z",
+  "model": "glm-5.3"
+}

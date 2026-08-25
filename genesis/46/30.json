@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "I rzekł Jisrael do Josefa: umierać ⟨mam⟩ tym razem, po zobaczeniu ⟨את⟩ oblicza twego, że jeszcze ty żyjesz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "umierać"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "tym razem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "zobaczeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicza twego"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicza twego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "jeszcze ty"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyjesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:09.788859221Z",
+  "model": "glm-5.3"
+}

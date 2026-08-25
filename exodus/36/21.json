@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Dziesięć łokci ⟨to⟩ długość ⟨tego⟩ deska, a łokieć i pół łokcia szerokość jednej deski.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "długość"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨tej⟩ deski"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "łokcia"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szerokość"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "deski"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:18.212611044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I rzekł Jehuda do Jisraela, ojca swego: Poślij młodzieńca ⟨את⟩ ze mną, a wstaniemy i pójdziemy, i będziemy żyć, a nie pomrzemy — zarówno my, jak i ty, jak i nasza dziatwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "poślij"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodzieńca"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ze mną",
+      "marks": "młodzieńca ze mną"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "a wstaniemy"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "i pójdziemy"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "i będziemy żyć"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "pomrzemy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zarówno"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak i"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "nasza dziatwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:27.609380734Z",
+  "model": "glm-5.3"
+}

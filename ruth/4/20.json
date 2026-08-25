@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I Aminadab zrodził ⟨את⟩ Nachszona, a Nachszon zrodził ⟨את⟩ Salmę.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "i Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachszona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachszona"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "a Nachszon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmę"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:48.085378666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Bo Jahwe osądzi lud swój i nad sługami swymi zmiłuje się.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "osądzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lud swój"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sługami swymi"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "zmiłuje się"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.671381081Z",
+  "model": "glm-5.3"
+}

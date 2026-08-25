@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I powstali wszyscy mężowie dzielni, i unieśli ⟨את⟩ ciało Szaula i ⟨את⟩ ciała synów jego, i przywieźli je do Jawesz, i pochowali ⟨את⟩ kości ich pod dębem w Jawesz, i pościli siedem dni.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzielni"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i unieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciało Szaula"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ciała synów jego"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "ciała"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synów jego"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "i przywieźli je"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "do Jawesz"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pochowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kości ich"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "kości ich"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dębem"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "w Jawesz"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "i pościli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:34.492276218Z",
+  "model": "glm-5.3"
+}

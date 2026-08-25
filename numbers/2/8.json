@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i jego wojsko, i jego policzeni: pięćdziesiąt siedem tysięcy i czterysta.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego wojsko"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "i jego policzeni"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "i cztery"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:10.543837619Z",
+  "model": "glm-5.3"
+}

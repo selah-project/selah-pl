@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I zapłonął gniew Jahwe na Amacjahu, i posłał do niego proroka, i rzekł mu: Dlaczego szukałeś ⟨את⟩ elohim ludu, który nie wyrwał ⟨את⟩ swojego ludu z twojej ręki?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "I zapłonął"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "na Amacjahu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "szukałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim ludu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wyrwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego ludu"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "swojego ludu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z twojej ręki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:09:20.089518831Z",
+  "model": "glm-5.3"
+}

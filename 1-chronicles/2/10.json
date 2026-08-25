@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Ram spłodził ⟨את⟩ Amminadaba, a Amminadab spłodził ⟨את⟩ Nachszona, księcia synów Judy.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "A Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadaba"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "a Amminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachszona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachszona"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "księcia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:33.076203714Z",
+  "model": "glm-5.3"
+}

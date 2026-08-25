@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Na morzu droga Twoja, a ścieżki Twoje w wodach wielkich — i ślady Twoje nie były poznane.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "na morzu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "droga Twoja"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "a ścieżki Twoje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodach"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielkich"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "i ślady Twoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "były poznane"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:31.570290691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Bo giniemy w Twoim gniewie i w Twojej zapalczywości trwożymy się.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "giniemy"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "w Twoim gniewie"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i w Twojej zapalczywości"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "trwożymy się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:28.672801347Z",
+  "model": "glm-5.3"
+}

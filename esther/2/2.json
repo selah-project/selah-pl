@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekli słudzy króla, jego osobliwi dworzanie: Niech poszukają dla króla dziewcząt, dziewic pięknych wyglądu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I rzekli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "jego dworzanie"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "Niech poszukają"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dla króla"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "dziewcząt"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "dziewic"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "pięknych"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wyglądu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:01.288593422Z",
+  "model": "glm-5.3"
+}

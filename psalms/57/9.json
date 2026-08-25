@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Przebudź się, chwało moja, przebudź się, nablo i kinnor! Ja przebudzę świt.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Przebudź się"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "chwało moja"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "przebudź się"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nablo"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "przebudzę"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "świt"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:49.932573209Z",
+  "model": "glm-5.3"
+}

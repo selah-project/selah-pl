@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I wołali do Jahwe w ⟨ucisku⟩ swoim, z ⟨utrapień⟩ swoich wybawił ich.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "i wołali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "w ucisku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "swoim"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "z ich utrapień"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wybawił ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:01.277506469Z",
+  "model": "glm-5.3"
+}

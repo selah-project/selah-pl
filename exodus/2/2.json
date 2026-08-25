@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I poczęła ⟨ta⟩ kobieta, i urodziła syna; i widziała ⟨את⟩ niego, że był dobry, i ukrywała go trzy miesiące.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "i widziała"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "był"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "i ukrywała go"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "miesiące"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:55.027530401Z",
+  "model": "glm-5.3"
+}

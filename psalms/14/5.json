@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Tam ogarnął ⟨ich⟩ strach, bo Elohim ⟨jest⟩ w pokoleniu sprawiedliwego.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ogarnął ⟨ich⟩ strach"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "w pokoleniu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:20.113771375Z",
+  "model": "glm-5.3"
+}

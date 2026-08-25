@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I rzekł Szmuel do ludu: Chodźcie, a pójdziemy do Gilgal i odnowimy tam królowanie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Chodźcie"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "a pójdziemy"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "i odnowimy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "królowanie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:35:59.240943477Z",
+  "model": "glm-5.3"
+}

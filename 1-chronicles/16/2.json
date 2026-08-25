@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A gdy skończył Dawid składanie całopalenia i ofiar pojednania, pobłogosławił ⟨את⟩ lud w imieniu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "a gdy skończył"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "składanie"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "i ofiar pojednania"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "pobłogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:18.225787272Z",
+  "model": "glm-5.3"
+}

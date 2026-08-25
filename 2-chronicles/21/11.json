@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Także on uczynił wyżyny w górach Jehudy, i karmił ⟨את⟩ mieszkańców Jeruszalaim, i odciągnął ⟨את⟩ Jehudę.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "במות",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "w górach"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "i karmił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców Jeruszalaim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "i odciągnął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:33.706463811Z",
+  "model": "glm-5.3"
+}

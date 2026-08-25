@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I stało się nazajutrz, i usiadł Mosze, by sądzić ⟨את⟩ lud, i stawał lud przy Mosze od ranka aż do wieczora.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazajutrz"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i usiadł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "by sądzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stawał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wieczora"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:48.829339842Z",
+  "model": "glm-5.3"
+}

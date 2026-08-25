@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I posłał Dawid do Joaba: „Wyślij do mnie ⟨את⟩ Urijasza Chetytę”. I posłał Joab ⟨את⟩ Urijasza do Dawida.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyślij"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijasza"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijasza"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetytę"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijasza"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijasza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:45.531433864Z",
+  "model": "glm-5.3"
+}

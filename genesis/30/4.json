@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I dała mu ⟨את⟩ Bilhę, swoją niewolnicę, za żonę, i wszedł Jaakow do niej.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "i dała"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhę"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhę"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "swoją niewolnicę"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:06.211279159Z",
+  "model": "glm-5.3"
+}

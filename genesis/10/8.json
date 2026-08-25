@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Kusz zrodził ⟨את⟩ Nimroda; on zaczął być mocarzem na ziemi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "A Kusz"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "החל",
+      "gloss": "zaczął"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "być"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mocarzem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:04.145210341Z",
+  "model": "glm-5.3"
+}

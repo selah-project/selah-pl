@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł Boaz do swego młodzieńca, ⟨który był⟩ postawionego nad żniwiarzami: Czyja jest ta dziewczyna?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "do swego młodzieńca"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "postawionemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "żniwiarzami"
+    },
+    {
+      "surface": "למי",
+      "gloss": "czyja"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "dziewczyna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:32.212235705Z",
+  "model": "glm-5.3"
+}

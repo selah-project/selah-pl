@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I ujrzał Balak, syn Cipora, ⟨את⟩ wszystko, co uczynił Jisrael Emorytom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emorytom"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:09.896962983Z",
+  "model": "glm-5.3"
+}

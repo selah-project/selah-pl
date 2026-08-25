@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Odejdźcie ode mnie, źli czyniący, a będę strzegł przykazań Elohim mojego.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "odejdźcie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "źli czyniący"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "a będę strzegł"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "przykazań"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mojego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:27.727961072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I czemu ciężczycie ⟨את⟩ serca wasze, jak ciężczyli Micrajim i Paro ⟨את⟩ serce swoje? Czyż nie, jak gdy się wyśmiewał z nich, wyprawili ich i odeszli?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i czemu"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "ciężczycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serca wasze"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "serca wasze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ciężczyli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "i Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce swoje"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "serce swoje"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak gdy"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "wyśmiewał się"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "wyprawili ich"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:25.562857670Z",
+  "model": "glm-5.3"
+}

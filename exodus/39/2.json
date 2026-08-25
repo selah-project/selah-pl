@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I zrobił ⟨את⟩ efod — złoto, niebieski fiolet, purpura, szkarłat i skręcony len.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "niebieski fiolet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i czerw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "szkarłat"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i len"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "skręcony"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:56.895721315Z",
+  "model": "glm-5.3"
+}

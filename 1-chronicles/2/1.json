@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "To ⟨są⟩ synowie Jisraela: Ruben, Szymon, Lewi i Jehuda, Isachar i Zebulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Szymon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isachar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "i Zebulun"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:48.117397444Z",
+  "model": "glm-5.3"
+}

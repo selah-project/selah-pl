@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Spustoszenia na nich, niech zstąpią żywi do Szeolu, bo zło w mieszkaniach ich, w ich wnętrzu.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Spustoszenia"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "niech zstąpią"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zło"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "w mieszkaniach ich"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "w ich wnętrzu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:58.157299376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Niech Ci wielbią ludy, Elohim, niech Ci wielbią ludy — wszyscy ⟨oni⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "niech Ci wielbią"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "niech Ci wielbią"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy oni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:23.984752795Z",
+  "model": "glm-5.3"
+}

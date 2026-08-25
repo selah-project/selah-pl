@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I obnażyli go, i zabrali ⟨את⟩ głowę jego i ⟨את⟩ jego zbroję, i rozesłali po ziemi filistyjskiej dokoła, by donieść ⟨את⟩ bożkom ich i ⟨את⟩ ludowi.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "i obnażyli go"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głowę jego"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "głowę jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego zbroję"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego zbroję"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i rozesłali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po ziemi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistyjskiej"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "by donieść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bożkom ich"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "bożkom ich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ludowi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:34.491756411Z",
+  "model": "glm-5.3"
+}

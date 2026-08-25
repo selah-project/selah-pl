@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Daje poznać swoje drogi Mosze, synom Iszraela swoje czyny.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Daje poznać"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "swoje drogi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "swoje czyny"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:24.351513895Z",
+  "model": "glm-5.3"
+}

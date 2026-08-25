@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A lud skradł się tego dnia, by wejść do miasta, jak skrada się lud zawstydzony, gdy ucieka w bitwie.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "a skradł się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tego dnia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tego"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "by wejść"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "do miasta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "skrada się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "zawstydzony"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "gdy ucieka"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "w bitwie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:19.016232568Z",
+  "model": "glm-5.3"
+}

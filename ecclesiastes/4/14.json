@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Bo z domu więźniów wyszedł, aby królować; choć nawet w jego królestwie narodził się ⟨jako⟩ biedny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "więźniów"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyszedł"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aby królować"
+    },
+    {
+      "surface": "כי",
+      "gloss": "choć"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "w jego królestwie"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "narodził się"
+    },
+    {
+      "surface": "רש",
+      "gloss": "biedny"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:53.160056406Z",
+  "model": "glm-5.3"
+}

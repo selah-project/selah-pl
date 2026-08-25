@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie ma mowy i nie ma słów — bez tego, by słyszany był głos ich.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nie ma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mowy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "słów"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez tego"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "słyszany"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "głos ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:48.848301107Z",
+  "model": "glm-5.3"
+}

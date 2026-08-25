@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I wziąć mi ⟨mam⟩ ⟨את⟩ mój chleb i ⟨את⟩ moją wodę, i ⟨את⟩ moje rzeźne zwierzęta, które zabiłem dla moich strzygących, i dać ⟨mam⟩ ludziom, których nie znam, skąd ⟨oni⟩ są?",
+  "tokens": [
+    {
+      "surface": "ו לקחתי",
+      "gloss": "i wziąć mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój chleb"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mój chleb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "moją wodę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "moje rzeźne zwierzęta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "zabiłem"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "dla moich strzygących"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i dać"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ludziom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "אי",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "מזה",
+      "gloss": ""
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni są"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:39.548913366Z",
+  "model": "glm-5.3"
+}

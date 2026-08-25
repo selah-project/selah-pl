@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Bezbożny wypatruje sprawiedliwego i szuka, by go zabić.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "wypatruje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Bezbożny"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "i szuka"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "by go zabić"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:40.120107937Z",
+  "model": "glm-5.3"
+}

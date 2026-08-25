@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Bożki narodów ⟨to⟩ srebro i złoto, dzieło rąk człowieka.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "bożki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i złoto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rąk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:32.322065057Z",
+  "model": "glm-5.3"
+}

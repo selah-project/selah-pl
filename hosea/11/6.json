@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I opadnie miecz na miasta jego, i wyczerpie belki jego, i pożre — przez zamierzenia ich.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "i opadnie"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "na miasta jego"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "i wyczerpie"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "belki jego"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "i pożre"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "przez zamierzenia ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:00.789691784Z",
+  "model": "glm-5.3"
+}

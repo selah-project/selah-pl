@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ⟨את⟩ pierś ofiarowania machania oraz ⟨את⟩ udo terumy będziecie jeść w miejscu czystym — ty i twoi synowie, i twoje córki ⟨את⟩ z tobą — bo twój dział i dział twoich synów dany jest z ofiar pokojowych synów Iszraela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "pierś ofiarowania machania"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "pierś"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ofiarowania machania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "udo terumy"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "udo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumy (wzniesionej)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystym"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i twoi synowie"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "i twoje córki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "twój dział"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "i dział"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "twoich synów"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dany jest"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "z ofiar"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "pokojowych"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:32.588637931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Jednak za twoich dni nie uczynię tego — ze względu na Dawida, twego ojca; z ręki twego syna rozdrapię ją.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jednak"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "za twoich dni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "uczynię tego"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "twego ojca"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twego syna"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "rozdrapię ją"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:09.832416292Z",
+  "model": "glm-5.3"
+}

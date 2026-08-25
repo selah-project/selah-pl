@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Na dziedzińcach domu Jahwe, pośród ciebie, Jeruszalaim! Chwalcie Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Na dziedzińcach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "pośród ciebie"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah!"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:11.200239275Z",
+  "model": "glm-5.3"
+}

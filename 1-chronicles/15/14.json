@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I uświęcili się kapłani i lewici, aby wnieść ⟨את⟩ aron Jahwe, Elohim Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "I uświęcili się"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i lewici"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "aby wnieść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Jahwe, Elohim Jisraela"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:22.939228053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I pośpieszył Paro wezwać Mosze i Aharona, i rzekł: zgrzeszyłem wobec Jahwe, waszego Elohim, i wobec was.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "i pośpieszył"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "wezwać"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zgrzeszyłem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wobec Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "waszego Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "i wobec was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:25.594429990Z",
+  "model": "glm-5.3"
+}

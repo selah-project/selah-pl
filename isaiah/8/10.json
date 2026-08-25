@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Radźcie radę, a będzie zerwana; mówcie słowo, a nie ostoi się, bo z nami El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "radźcie"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radę"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "a będzie zerwana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mówcie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ostoi się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:55.819751763Z",
+  "model": "glm-5.3"
+}

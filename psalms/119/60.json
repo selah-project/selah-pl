@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Pośpieszyłem i nie zwlekałem strzec twoich przykazań.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "pośpieszyłem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "zwlekałem"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "strzec"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoich przykazań"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:38.397624241Z",
+  "model": "glm-5.3"
+}

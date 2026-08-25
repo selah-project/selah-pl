@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I usłyszeli o tym mieszkańcy Jawesz w Gilad — ⟨את⟩ tego, co uczynili Filistyni Szaulowi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i usłyszeli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "o tym"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jawesz"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "w Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, co uczynili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyni"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Szaulowi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:45.977540883Z",
+  "model": "glm-5.3"
+}

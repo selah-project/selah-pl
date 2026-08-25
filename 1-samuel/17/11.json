@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I usłyszał Szauł i cały ⟨את⟩ Iszrael ⟨את⟩ słowa tego Peszelczyka te, i zlękli się, i przestraszyli się bardzo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szauł"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "i cały Iszrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały Iszrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨את⟩ Iszrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa tego Peszelczyka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Peszelczyka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "i zlękli się"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i przestraszyli się"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:57.829255663Z",
+  "model": "glm-5.3"
+}

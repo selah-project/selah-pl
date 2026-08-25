@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Prudentny widzi zło i się ukrywa, a naiwni przechodzą i ponoszą karę.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "prudentny"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "i się ukrywa"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "naiwni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przechodzą"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "ponoszą karę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:20.991252094Z",
+  "model": "glm-5.3"
+}

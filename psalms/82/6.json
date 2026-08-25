@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Ja powiedziałem: elohim ⟨jesteście⟩ i synami Eljona — wszyscy wy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jesteście"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i synami"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljona"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "wszyscy wy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:20.416711273Z",
+  "model": "glm-5.3"
+}

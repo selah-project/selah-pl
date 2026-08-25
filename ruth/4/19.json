@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I Checron zrodził ⟨את⟩ Rama, a Ram zrodził ⟨את⟩ Aminadaba.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "i Checron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "a Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaba"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:48.085244464Z",
+  "model": "glm-5.3"
+}

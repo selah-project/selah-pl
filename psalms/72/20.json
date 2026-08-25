@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Skończyły się modlitwy Dawida, syna Jiszaja.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "skończyły się"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "modlitwy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jiszajo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:34.520925956Z",
+  "model": "glm-5.3"
+}

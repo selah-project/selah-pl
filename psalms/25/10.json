@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Wszystkie ścieżki Jahwe ⟨to⟩ chesed i wierność dla strzegących jego przymierza i jego świadectw.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ścieżki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i wierność"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "dla strzegących"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "jego przymierza"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "i jego świadectw"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:45.509605931Z",
+  "model": "glm-5.3"
+}

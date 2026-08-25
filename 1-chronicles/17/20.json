@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Jahwe, nie ma takiego jak Ty, i nie ma Elohim poza Tobą, według wszystkiego, co usłyszeliśmy naszymi uszami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "takiego jak Ty"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "poza Tobą"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "usłyszeliśmy"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "naszymi uszami"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:33.363740941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zebrał ponownie Dawid ⟨את⟩ wszystkich wybranych w Israelu, trzydzieści tysięcy.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "i zebrał ponownie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ponownie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich wybranych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wybranych"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Israelu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:26.016331770Z",
+  "model": "glm-5.3"
+}

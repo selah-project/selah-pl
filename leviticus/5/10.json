@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "a ⟨את⟩ drugiego uczyni na ofiarę całopalną według prawa, i dokona kapłan nad nim przebłagania za jego grzech, który popełnił, i będzie mu odpuszczone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "drugiego"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofiarę całopalną"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "według prawa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokona przebłagania"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "za jego grzech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "popełnił"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i będzie odpuszczone"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:14.722882060Z",
+  "model": "glm-5.3"
+}

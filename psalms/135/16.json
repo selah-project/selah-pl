@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Usta mają, ale nie mówią; oczy mają, ale nie widzą.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "usta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mają"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mają"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "widzą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:32.322296311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Ty skruszyłeś ⟨את⟩ Rahab jak ⟨את⟩ zabitego; ramieniem swojej potęgi rozproszyłeś swoich nieprzyjaciół.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "skruszyłeś"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "jak zabitego"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ramieniem"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "swojej potęgi"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "rozproszyłeś"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "swoich nieprzyjaciół"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:32.317000689Z",
+  "model": "glm-5.3"
+}

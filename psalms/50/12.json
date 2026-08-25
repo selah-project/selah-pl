@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Jeśli zgłodnieję, nie powiem ci, bo moja jest ziemia i jej pełnia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "zgłodnieję"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moja jest"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i jej pełnia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:42.062246483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I wysłał król, i zebrał ⟨את⟩ wszystkich starszych Jehudy i Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich starszych Jehudy i Jeruszalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T04:25:49.285128685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Jahwe, Elohim CIM zastępów, wysłuchaj mojej modlitwy, nakłoń ucho, Elohimie Jaakowa. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "zastępów"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "wysłuchaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojej modlitwy"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakłoń ucho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:21.174800856Z",
+  "model": "glm-5.3"
+}

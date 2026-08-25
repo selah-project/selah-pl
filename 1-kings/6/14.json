@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zbudował Szelomo ⟨את⟩ dom i dokończył go.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "i dokończył go"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:54.474976062Z",
+  "model": "glm-5.3"
+}

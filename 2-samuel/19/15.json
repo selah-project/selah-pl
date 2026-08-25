@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I nakłonił ⟨את⟩ serce całego męża Jehudy jak ⟨serce⟩ jednego męża, i posłali do króla: Wróć, ty i wszyscy twoi słudzy.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "I nakłonił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce całego męża Jehudy"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jak ⟨serce⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego męża"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i posłali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Wróć"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "twoi słudzy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:58.562236117Z",
+  "model": "glm-5.3"
+}

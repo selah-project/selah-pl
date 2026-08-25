@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I usunęli ⟨את⟩ bogów obcych ze swego środka, i służyli ⟨את⟩ Jahwe; i była udręczona jego nefesz z powodu udręki Israela.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "I usunęli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów obcych"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ze swego środka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "i była ściśnięta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jego nefesz"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "z powodu udręki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:44.533205041Z",
+  "model": "glm-5.3"
+}

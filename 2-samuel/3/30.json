@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zabili Joab i Awiszej, brat jego, ⟨את⟩ Awnera — za to, że zabił ⟨את⟩ Aszaela, brata ich, w Giwon, w bitwie.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "I Joab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "i Awiszej"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brat jego"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "⟨את⟩ Awnera"
+    },
+    {
+      "surface": "על",
+      "gloss": "za to, że"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "המית",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszaela"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Aszaela"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "brata ich"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "w Giwon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "w bitwie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:45.894553368Z",
+  "model": "glm-5.3"
+}

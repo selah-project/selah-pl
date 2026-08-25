@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I każda nefesz, która by zjadła padlinę albo rozdartą ⟨zwierzynę⟩ — ⟨czy to⟩ rodowity, ⟨czy to⟩ przybysz — wypierze swoje szaty i obmyje się w wodzie i będzie nieczysty aż do wieczora, i będzie czysty.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "I każda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zjadła"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "padlinę"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "albo rozdartą"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "rodowity"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "przybysz"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "wypierze"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i obmyje się"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodzie"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "i będzie nieczysty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wieczora"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i będzie czysty"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.782508996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I uwierzyli mężowie Niniwy ⟨w⟩ Elohim, i obwołali post, i przyodziali wor, od swojego największego aż do swojego najmniejszego.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "i uwierzyli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwy"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "⟨w⟩ Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "i obwołali"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "i przyodziali"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "wor"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "od swojego największego"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "swojego najmniejszego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:28.243418651Z",
+  "model": "glm-5.3"
+}

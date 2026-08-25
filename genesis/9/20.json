@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I zaczął Noach, mąż ⟨ziemi⟩ uprawnej, i zasadził winnicę.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i zaczął"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "i zasadził"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "winnicę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:40.978594279Z",
+  "model": "glm-5.3"
+}

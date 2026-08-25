@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Wracają o wieczorze, ujadają jak pies i krążą wokół miasta.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Wracają"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "o wieczorze"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ujadają"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jak pies"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "i krążą"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:42.735397155Z",
+  "model": "glm-5.3"
+}

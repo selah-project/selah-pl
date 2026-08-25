@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 35:18",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Albo narzędziem drewnianym ręcznym, którym można zabić, uderzył go i ten umarł — zabójca ⟨jest⟩, śmiercią zostanie zabity zabójca.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "narzędziem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drewnianym"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręcznym"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "można zabić"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nim"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "uderzył go"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "zabójca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zostanie zabity"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "zabójca"
+    }
+  ],
+  "timestamp": "2026-08-25T03:21:56.901089625Z",
+  "model": "glm-5.3"
+}

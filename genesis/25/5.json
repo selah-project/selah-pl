@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I dał Awraham ⟨את⟩ wszystko, co miał, Jicchakowi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miał"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:59.062715367Z",
+  "model": "glm-5.3"
+}

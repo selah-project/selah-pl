@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I sprzedam ⟨את⟩ waszych synów i ⟨את⟩ wasze córki w rękę synów Jehudy, i sprzedadzą ich Szebańczykom, do narodu dalekiego, bo Jahwe powiedział.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "i sprzedam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waszych synów"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "waszych synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wasze córki"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "wasze córki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "i sprzedadzą ich"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "Szebańczykom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "dalekiego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:01.209247588Z",
+  "model": "glm-5.3"
+}

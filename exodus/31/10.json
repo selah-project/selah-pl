@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ szaty służby, i ⟨את⟩ szaty święte dla Ahrona kapłana, i ⟨את⟩ szaty jego synów do sprawowania kapłaństwa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szaty służby"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "służby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szaty święte"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "święte"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dla Ahrona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szaty jego synów"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "do sprawowania kapłaństwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:17.472136410Z",
+  "model": "glm-5.3"
+}

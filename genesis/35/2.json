@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I rzekł Jaakow do swojego domu i do wszystkich, którzy z nim byli: Usuńcie ⟨את⟩ obcych bogów, którzy są pośród was, i oczyśćcie się, i zmieńcie swoje szaty.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swojego domu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim byli"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Usuńcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obcych bogów"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "pośród was"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "i oczyśćcie się"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "i zmieńcie"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "swoje szaty"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:30.572372265Z",
+  "model": "glm-5.3"
+}

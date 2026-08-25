@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I przemierzał na cherubie, i leciał, i unosił się na skrzydłach wiatru.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "I przemierzał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "cherubie"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "i leciał"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "i unosił się"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "skrzydłach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatru"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:13.326642394Z",
+  "model": "glm-5.3"
+}

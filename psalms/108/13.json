@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Daj nam pomoc ⟨przeciw⟩ niedoli, a marną ⟨jest⟩ ratownicza moc człowieka.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pomoc"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "⟨przeciw⟩ niedoli"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "a marną"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ratownicza moc"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:07.852027784Z",
+  "model": "glm-5.3"
+}

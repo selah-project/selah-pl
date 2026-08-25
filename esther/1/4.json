@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "gdy okazywał ⟨את⟩ bogactwo chwały swego królestwa i ⟨את⟩ cenę wspaniałości swej wielkości przez dni liczne — osiemdziesiąt i sto dni.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "gdy okazywał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogactwo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogactwo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwały"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "swego królestwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cenę"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "cenę"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "wspaniałości"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "swej wielkości"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczne"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "osiemdziesiąt"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:59.745388554Z",
+  "model": "glm-5.3"
+}

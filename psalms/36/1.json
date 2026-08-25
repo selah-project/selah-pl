@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Przewodnikowi chóru, słudze Jahwe, Dawidowi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "słudze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:38.587885438Z",
+  "model": "glm-5.3"
+}

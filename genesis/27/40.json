@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I od miecza twego będziesz żył, i ⟨את⟩ brata twego będziesz niewolić; i stanie się, gdy się uwolnisz, że zrzucisz jarzmo jego z szyi twojej.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "i od"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "miecza twego"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "będziesz żył"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brata twego"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata twego"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "będziesz niewolić"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i stanie się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "się uwolnisz"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "zrzucisz"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jarzmo jego"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "szyi twojej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:55.060620139Z",
+  "model": "glm-5.3"
+}

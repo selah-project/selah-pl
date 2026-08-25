@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I były dni Teracha pięć lat i dwieście lat, i umarł Terach w Charan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i były"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "i dwieście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "w Charan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:29.442838417Z",
+  "model": "glm-5.3"
+}

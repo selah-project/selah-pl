@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I weźmiesz ⟨את⟩ barana drugiego, i położy Aharon i jego synowie ⟨את⟩ swoje ręce na głowie barana.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "i położy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jego synowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowie"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:55.996545133Z",
+  "model": "glm-5.3"
+}

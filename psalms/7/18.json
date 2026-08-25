@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Wysławiam Jahwe według Jego sprawiedliwości i będę grał imieniu Jahwe Eljon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "wysławiam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "według Jego sprawiedliwości"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "i będę grał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:22.881929800Z",
+  "model": "glm-5.3"
+}

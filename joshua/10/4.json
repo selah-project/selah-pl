@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Wstąpcie do mnie i pomóżcie mi, i uderzmy ⟨את⟩ Gibeon, bo zawarło pokój ⟨את⟩ Jehoszua i ⟨את⟩ synów Izraela.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Wstąpcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "i pomóżcie mi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "i uderzmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "zawarło pokój"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoszua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "synów Izraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:45.183064301Z",
+  "model": "glm-5.3"
+}

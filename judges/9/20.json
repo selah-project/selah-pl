@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A jeśli nie — niech wyjdzie ogień od Awimelecha i pożre ⟨את⟩ panów Szichem i ⟨את⟩ dom Milla; a niech wyjdzie ogień od panów Szichem i od domu Milla, i pożre ⟨את⟩ Awimelecha!",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "niech wyjdzie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "od Awimelecha"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i pożre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panów Szichem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "panów"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szichem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom Milla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milla"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "a niech wyjdzie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "od panów"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szichem"
+    },
+    {
+      "surface": "ו מבית",
+      "gloss": "i od domu"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milla"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i pożre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimelecha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelecha"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:41.373131546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I namaścisz ⟨את⟩ umywalnię i ⟨את⟩ jej podstawę, i poświęcisz ⟨את⟩ ją.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umywalnię"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umywalnię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej podstawę"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jej podstawę"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i poświęcisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "umywalnię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:28.619741564Z",
+  "model": "glm-5.3"
+}

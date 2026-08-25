@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Przeto odrażają mnie ⟨moje słowa⟩ i żałuję, na prochu i popiele.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "przeto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "odrażają mnie ⟨moje słowa⟩"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "i żałuję"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prochu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "i popiele"
+    }
+  ],
+  "timestamp": "2026-08-25T03:49:29.668866024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Prawda z ziemi wyrośnie, a sprawiedliwość z niebios wyjrzy.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Prawda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "wyrośnie"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "a sprawiedliwość"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z niebios"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "wyjrzy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:11.233791623Z",
+  "model": "glm-5.3"
+}

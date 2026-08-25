@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Jahwe, wyprowadziłeś z Szeolu moją nefesz, ożywiłeś mnie spośród zstępujących do dołu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wyprowadziłeś"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szeolu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ożywiłeś mnie"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "spośród zstępujących"
+    },
+    {
+      "surface": "בור",
+      "gloss": "do dołu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:29.371694978Z",
+  "model": "glm-5.3"
+}

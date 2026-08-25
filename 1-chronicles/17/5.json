@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Bo nie mieszkałem w domu od dnia, w którym wprowadziłem ⟨את⟩ Izraela, aż do tego dnia, i byłem od namiotu do namiotu i od przybytku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mieszkałem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w którym"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "wprowadziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "i byłem"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "od namiotu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "i od przybytku"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:21.164174741Z",
+  "model": "glm-5.3"
+}

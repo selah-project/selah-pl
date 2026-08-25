@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Głupi zaciska swoje ręce i zjada ⟨את⟩ swoje ciało.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Głupi"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "zaciska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i zjada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ciało"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "swoje ciało"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:28.108509708Z",
+  "model": "glm-5.3"
+}

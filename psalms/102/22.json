@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "By opowiadać w Cjonie imię Jahwe i Jego chwałę w Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "by opowiadać"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "w Cjonie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "i Jego chwałę"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.857869724Z",
+  "model": "glm-5.3"
+}

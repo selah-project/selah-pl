@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I spotkali ⟨את⟩ Mosze i ⟨את⟩ Ahrona, stojących naprzeciw nich, gdy wychodzili spośród ⟨את⟩ Farao­na.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "i spotkali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stojących"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "naprzeciw nich"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "gdy wychodzili"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "spośród ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:56.233724246Z",
+  "model": "glm-5.3"
+}

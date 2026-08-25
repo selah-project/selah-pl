@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I wziął Awimelech owce i woły, i sługi, i służące, i dał Awrahamowi, i przywrócił mu ⟨את⟩ Sarę, jego żonę.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "owce"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i woły"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "i sługi"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "i służące"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awrahamowi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i przywrócił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarę"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:50.130568416Z",
+  "model": "glm-5.3"
+}

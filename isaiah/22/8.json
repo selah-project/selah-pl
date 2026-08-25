@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I obnażono ⟨את⟩ zasłonę Judy, a ty spojrzałaś w dniu owym na oręż domu lasu.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "I obnażono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę Judy"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "a spojrzałaś"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "oręż"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "היער",
+      "gloss": "lasu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:58.727029916Z",
+  "model": "glm-5.3"
+}

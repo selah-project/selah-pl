@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Rada Jahwe stoi na wieki, zamysły jego serca — na pokolenie i pokolenie.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Rada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "zamysły"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jego serca"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:56.483690867Z",
+  "model": "glm-5.3"
+}

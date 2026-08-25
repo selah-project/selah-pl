@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I modlił się Eliszua, i rzekł: Jahwe, otwórz proszę ⟨את⟩ jego oczy, a zobaczy; i otworzył Jahwe ⟨את⟩ oczy młodzieńca, i zobaczył, a oto góra pełna koni i rydwanów ognia dokoła Eliszuy.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "i modlił się"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otwórz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego oczy"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jego oczy"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "a zobaczy"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "i otworzył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oczy młodzieńca"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodzieńca"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pełna"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "koni"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i rydwanów"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszuy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:59.540033801Z",
+  "model": "glm-5.3"
+}

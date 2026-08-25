@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zgromadził ku sobie ludzi, i był wodzem oddziału, gdy Dawid zabijał ⟨את⟩ ich; i poszli do Damaszku, i mieszkali w nim, i królowali w Damaszku.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "i zgromadził"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku sobie"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "שר",
+      "gloss": "wodzem"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "oddziału"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "gdy zabijał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaszek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i mieszkali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "i królowali"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "w Damaszku"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:38.634572438Z",
+  "model": "glm-5.3"
+}

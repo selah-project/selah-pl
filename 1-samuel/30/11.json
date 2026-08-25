@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I znaleźli męża, Egipcjanina, na polu, i wzięli ⟨את⟩ niego do Dawida, i dali mu chleba, i jadł, i napaili go wodą.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "I znaleźli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Egipcjanina"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "Egipcjanina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i dali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i jadł"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "i napaili go"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:01.209638109Z",
+  "model": "glm-5.3"
+}

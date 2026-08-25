@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekła jedna kobieta: Proszę, panie mój, ja i ta kobieta mieszkamy w jednym domu, i urodziłam wraz z nią w domu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I rzekła"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Proszę"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panie mój"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "i ta kobieta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "mieszkamy"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "i urodziłam"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wraz z nią"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:57.772168904Z",
+  "model": "glm-5.3"
+}

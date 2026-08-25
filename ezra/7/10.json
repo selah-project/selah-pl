@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo Ezra przygotował swoje serce, by szukać ⟨את⟩ Tory Jahwe, i by czynić ⟨ją⟩, i by nauczać w Jisraelu ustawę i prawo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "swoje serce"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "by szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torę Jahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "i by czynić"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "i by nauczać"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Jisraelu"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ustawę"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i prawo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:43:03.533419836Z",
+  "model": "glm-5.3"
+}

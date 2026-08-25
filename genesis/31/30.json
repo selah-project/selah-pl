@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "A teraz odszedłeś, bo bardzo tęskniłeś do domu ojca twego; dlaczego ukradłeś ⟨את⟩ bogów moich?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odszedłszy"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "odszedłeś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "tęskniąc"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "téskniłeś"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojca twego"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ukradłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów moich"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów moich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:20.262067571Z",
+  "model": "glm-5.3"
+}

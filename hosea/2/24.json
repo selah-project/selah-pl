@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A ziemia odpowie ⟨את⟩ zboże i ⟨את⟩ moszcz i ⟨את⟩ oliwę, a one odpowiedzą ⟨את⟩ Jizreel",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a ziemia"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zboże"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "zboże"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moszcz"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "moszcz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "oliwę"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "oliwę"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a one"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpowiedzą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:55.231848015Z",
+  "model": "glm-5.3"
+}

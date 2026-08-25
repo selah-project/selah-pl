@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Gdy doszła wieść do Micrajmu, zadrętwieli, jak ⟨przy⟩ wieści o Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wieść doszła"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "do Micrajmu"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "zadrętwieli"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "jak ⟨przy⟩ wieści"
+    },
+    {
+      "surface": "צר",
+      "gloss": "o Tsor"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:38.991351101Z",
+  "model": "glm-5.3"
+}

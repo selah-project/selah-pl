@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I stała się arka Jahwe w polu Pelisztów przez siedem miesięcy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stała się"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "w polu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miesięcy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:08.373140695Z",
+  "model": "glm-5.3"
+}

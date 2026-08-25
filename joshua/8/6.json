@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wyjdą za nami, aż ⟨את⟩ ich odciągniemy od miasta, bo powiedzą: Uciekają przed nami, jak za pierwszym razem; i uciekniemy przed nimi",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyjdą"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "za nami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "odciągniemy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "powiedzą"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "uciekają"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "przed nami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "za pierwszym razem"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "i uciekniemy"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:24.092209551Z",
+  "model": "glm-5.3"
+}

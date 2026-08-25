@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Wysłał na nich roje much, i pożerały ich, oraz żaby, i niszczyły ich.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wysłał"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "roje much"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "i pożerały ich"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "oraz żaby"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "i niszczyły ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:11.735998850Z",
+  "model": "glm-5.3"
+}

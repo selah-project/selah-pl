@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I przyodział się przekleństwem jak swoim płaszczem, a weszło jak woda w jego wnętrze i jak oliwa w jego kości.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "i przyodział się"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "przekleństwem"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "jak swoim płaszczem"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a weszło"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jak woda"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "w jego wnętrzu"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "i jak oliwa"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "w jego kości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:52.516532243Z",
+  "model": "glm-5.3"
+}

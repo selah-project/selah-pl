@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "Bo przeciwnik ściga nefesz moją, zgniótł na ziemię życie moje, kazał mi mieszkać w ciemnościach jak martwi odwieczni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ściga"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "przeciwnik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moją"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "zgniótł"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "życie moje"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "kazał mi mieszkać"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "w ciemnościach"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "jak martwi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "odwieczni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.012910525Z",
+  "model": "glm-5.3"
+}

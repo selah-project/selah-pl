@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ ha-daʾa, i ⟨את⟩ ha-ajję według jej rodzaju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-daʾa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ha-daʾa (sęp)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-ajję"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ha-ajję (sokół)"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "według jej rodzaju"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:11.729359123Z",
+  "model": "glm-5.3"
+}

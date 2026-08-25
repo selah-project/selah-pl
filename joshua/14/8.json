@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "A moi bracia, którzy weszli ze mną, rozpuścili ⟨את⟩ serce ludu, a ja w pełni szedłem za Jahwe, moim Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "A moi bracia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "weszli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "rozpuścili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "w pełni szedłem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moim Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:21:06.131858589Z",
+  "model": "glm-5.3"
+}

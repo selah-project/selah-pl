@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Bo majątek ich był zbyt wielki, by mieszkać razem, i ziemia ich pielgrzymek nie mogła ich unieść ⟨את⟩ ich sprzed oblicza ich trzód.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "majątek ich"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zbyt wielki"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "by mieszkać"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "mogła"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ich pielgrzymek"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "unieść"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ich trzód"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:25.936716021Z",
+  "model": "glm-5.3"
+}

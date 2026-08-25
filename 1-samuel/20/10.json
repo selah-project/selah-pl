@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I rzekł Dawid do Jonatana: kto mi oznajmi? albo co, jeśli ojciec twój odpowie ci surowo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznajmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "odpowie ci"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojciec twój"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "surowo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:50.649731391Z",
+  "model": "glm-5.3"
+}

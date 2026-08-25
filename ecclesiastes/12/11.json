@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Słowa mędrców jak ościenie, i jak kołki wbici — ⟨od⟩ mistrzów zbiorów; dane od pasterza jednego.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mędrców"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "jak ościenie"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "i jak kołki"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "wbici"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mistrzów"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "zbiorów"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dane"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "od pasterza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:02.063085807Z",
+  "model": "glm-5.3"
+}

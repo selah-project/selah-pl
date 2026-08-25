@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 70,
+  "translation": "Niech zawstydzą się i niech okryją wstydem ci, którzy szukają mojej nefesz; niech cofną się wstecz i niech będą zmieszani ci, którzy pragną mojego zła.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Niech zawstydzą się"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "i niech okryją wstydem"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ci, którzy szukają"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "niech cofną się"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wstecz"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "i niech będą zmieszani"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ci, którzy pragną"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojego zła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:25.305095621Z",
+  "model": "glm-5.3"
+}

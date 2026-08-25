@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I powstali starsi jego domu przy nim, żeby go podnieść z ziemi, lecz nie chciał i nie jadł ⟨את⟩ z nimi chleba.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego domu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przy nim"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "żeby go podnieść"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "jadł"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z nimi — chleb"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:32.361484999Z",
+  "model": "glm-5.3"
+}

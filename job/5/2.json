@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Bo gniew zabija głupca, a zazdrość uśmierca prostaczka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "zabija"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "a prostaczka"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "uśmierca"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "zazdrość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:38.229032578Z",
+  "model": "glm-5.3"
+}

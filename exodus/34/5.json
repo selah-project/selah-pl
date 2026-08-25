@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I zstąpił Jahwe w obłoku, i ustawił się tam z nim, i wezwał w imieniu Jahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "I zstąpił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "w obłoku"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i ustawił się"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i wezwał"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:38.373843657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "A jeśli ten, kto poświęca, wykupi ⟨את⟩ swój dom, to doda piątą część srebra twojej wyceny na ⟨to⟩, i ⟨będzie⟩ to dla niego.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ten, kto poświęca"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wykupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swój dom"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "to doda"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "piątą część"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "twojej wyceny"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na to"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:53.771962454Z",
+  "model": "glm-5.3"
+}

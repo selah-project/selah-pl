@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Ledwie minęłam ich, a znalazłam ⟨את⟩ tego, którego kocha moja nefesz; uchwyciłam go i nie puściłam, aż wprowadziłam go do domu mojej matki i do komnaty tej, która mnie poczęła.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ledwie"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "minęłam"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "znalazłam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, którego kocha moja nefesz"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "którego kocha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "uchwyciłam go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "puściłam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "wprowadziłam go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mojej matki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "komnaty"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "tej, która mnie poczęła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:15.703243585Z",
+  "model": "glm-5.3"
+}

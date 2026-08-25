@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stanie się ⟨on⟩ świątynią, i kamieniem potknięcia, i skałą zgorszenia dla dwóch domów Iszraela, sidłem i pułapką dla mieszkańców Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i stanie się"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "świątynią"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "i kamieniem"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "potknięcia"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "i skałą"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "zgorszenia"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dla dwóch"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "sidłem"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "i pułapką"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "dla mieszkańców"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:57.655078593Z",
+  "model": "glm-5.3"
+}

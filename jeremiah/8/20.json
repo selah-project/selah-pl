@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Minęło żniwo, skończyło się lato, a my nie zostaliśmy ocaleni.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Minęło"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "żniwo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "skończyło się"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "lato"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "zostaliśmy ocaleni"
+    }
+  ],
+  "timestamp": "2026-08-25T00:46:01.710637816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I złożyli ⟨את⟩ jego rynsztunek w domu Asztarot, a ⟨את⟩ jego ciało przybili do muru Beit-Szan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "i złożyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego rynsztunek"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego rynsztunek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Asztarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jego ciało"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "jego ciało"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "przybili"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "do muru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Szan"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:45.977373224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I uczynili nam złe Micrajczycy, i uciskali nas, i nałożyli na nas robotę ciężką.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "i ⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "⟨את⟩ uczynili złe"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micrajczycy"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "i uciskali nas"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i nałożyli"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "robotę"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ciężką"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:26.325512902Z",
+  "model": "glm-5.3"
+}

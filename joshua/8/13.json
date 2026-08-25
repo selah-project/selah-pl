@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I ustawił lud ⟨את⟩ cały obóz, który ⟨był⟩ od północy miasta, a ⟨את⟩ jego tyły od zachodu miasta; i poszedł Jehoszua w nocy tamtej w środek doliny.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i ustawił"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały obóz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "od północy"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jego tyły"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "jego tyły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od zachodu"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tej"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środek"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "doliny"
+    }
+  ],
+  "timestamp": "2026-08-25T03:25:04.844249260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Ojcowie nasi w Micraim nie pojęli Twych cudów, nie pamiętali ⟨את⟩ obfitości Twego chesed, i zbuntowali się nad morzem, przy morzu Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Ojcowie nasi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "pojęli"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Twych cudów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "pamiętali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obfitości Twego chesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obfitości"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "Twego chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "i zbuntowali się"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morzem"
+    },
+    {
+      "surface": "בים",
+      "gloss": "przy morzu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:43.809119122Z",
+  "model": "glm-5.3"
+}

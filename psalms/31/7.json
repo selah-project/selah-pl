@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Nienawidzę tych, którzy czczą marności kłamliwe, a ja — w Jahwe pokładam ufność.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nienawidzę"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "tych, którzy czczą"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "marności"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kłamliwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "w"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "pokładam ufność"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:53.012875710Z",
+  "model": "glm-5.3"
+}

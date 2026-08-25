@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I podniósł Mosze ⟨את⟩ rękę swoją, i uderzył ⟨את⟩ skały laską swoją dwa razy; i wypłynęły wody obfite, i piło zgromadzenie i bydło ich.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swoją"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skały"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "skały"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "laską swoją"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dwa razy"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i wypłynęły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "obfite"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "i piło"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "i bydło ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:29.498339986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Kto może powiedzieć: Oczyściłem moje serce, jestem czysty od mojego grzechu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "może powiedzieć"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "Oczyściłem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "jestem czysty"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "od mojego grzechu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:08.025997356Z",
+  "model": "glm-5.3"
+}

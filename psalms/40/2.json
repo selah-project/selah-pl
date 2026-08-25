@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Ufnie czekałem, czekałem na Jahwe, i pochylił się ku mnie, i usłyszał mój krzyk.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ufnie czekałem"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "czekałem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i pochylił się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mój krzyk"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.266705975Z",
+  "model": "glm-5.3"
+}

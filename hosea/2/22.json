@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I poślubię cię sobie w wierności, i poznasz ⟨את⟩ Jahwe",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "i poślubię cię"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "w wierności"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "i poznasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:55.231455270Z",
+  "model": "glm-5.3"
+}

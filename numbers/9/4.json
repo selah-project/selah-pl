@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przemówił Mosze do synów Jisraela, by uczynili ⟨את⟩ Pesach.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "by uczynili"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ Pesach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:33.481895788Z",
+  "model": "glm-5.3"
+}

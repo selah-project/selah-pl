@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I zrobił sobie Jehoszua noże z krzemienia i obrzezał ⟨את⟩ synów Iszraela na Wzgórzu Napletek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I zrobił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "noże"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "z krzemienia"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "i obrzezał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Iszraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Wzgórzu"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Napletek"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:09.876846655Z",
+  "model": "glm-5.3"
+}

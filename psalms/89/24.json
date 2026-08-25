@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "I potłukę przed nim jego przeciwników, a nienawidzących go porażę.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "I potłukę"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "jego przeciwników"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "a nienawidzących go"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "porażę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:00.301457201Z",
+  "model": "glm-5.3"
+}

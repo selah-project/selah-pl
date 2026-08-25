@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Niech się raduje twój ojciec i twoja matka, i niech się weseli ta, która cię zrodziła.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "niech się raduje"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "twój ojciec"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "i twoja matka"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "i niech się weseli"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ta, która cię zrodziła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:09.739974219Z",
+  "model": "glm-5.3"
+}

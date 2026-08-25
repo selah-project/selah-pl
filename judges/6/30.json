@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I powiedzieli mężowie ⟨tego⟩ miasta do Joasza: Wyprowadź ⟨את⟩ swojego syna, a niech umrze, bo rozebrał ⟨את⟩ ołtarz Baala i bo ściął Aszerę, która jest na nim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨tego⟩ miasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasza"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "wyprowadź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "swojego syna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a niech umrze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "rozebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i bo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ściął"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Aszerę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "jest na nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:00.487355926Z",
+  "model": "glm-5.3"
+}

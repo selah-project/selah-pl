@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I wyruszył Awram, idąc i wędrując ku południowi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "idąc"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "i wędrując"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ku południowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:13.936404903Z",
+  "model": "glm-5.3"
+}

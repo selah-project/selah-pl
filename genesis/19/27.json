@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wstał Awraham skoro ranek ⟨w⟩ ← do miejsca, gdzie stał tam przed obliczem Jahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał skoro ranek"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obliczem Jahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:44.140263531Z",
+  "model": "glm-5.3"
+}

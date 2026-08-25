@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I wzięli ⟨את⟩ tunikę Józefa, i zarżnęli kozła, i zanurzyli ⟨את⟩ ⟨tę⟩ tunikę we krwi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunikę Józefa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tunikę"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "i zarżnęli"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kozła"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kóz"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "i zanurzyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę tunikę"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tę tunikę"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "we krwi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:02.411325155Z",
+  "model": "glm-5.3"
+}

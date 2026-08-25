@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Moja nefesz jest nieustannie w mojej dłoni, a twojej Tory nie zapomniałem.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "w mojej dłoni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a twojej Tory"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zapomniałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:21.005491368Z",
+  "model": "glm-5.3"
+}

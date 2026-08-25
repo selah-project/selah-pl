@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stało się, gdy przedłużała modlitwę przed Jahwe, że Eli obserwował ⟨את⟩ usta jej.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "przedłużała"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "modlitwę"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "a Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "obserwował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta jej"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "usta jej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:32:35.431158170Z",
+  "model": "glm-5.3"
+}

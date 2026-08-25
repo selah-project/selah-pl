@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Także i ja mam serce jak wy, nie jestem gorszy od was; a ⟨את⟩ kogo nie ma podobnego do takich?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i ja mam"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "jak wy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jestem gorszy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od was"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kogo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "podobnego"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "do takich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:26.619213723Z",
+  "model": "glm-5.3"
+}

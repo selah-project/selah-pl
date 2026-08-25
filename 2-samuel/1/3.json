@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł mu Dawid: Skąd przybywasz? A on rzekł do niego: Z obozu Iszraela wymknąłem się.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אי",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "stąd"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "przybywasz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "z obozu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "wymknąłem się"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:34.390267687Z",
+  "model": "glm-5.3"
+}

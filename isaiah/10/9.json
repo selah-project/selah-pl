@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Czyż nie jak Karkemisz ⟨jest⟩ Kalno? Czy nie jak Arpad ⟨jest⟩ Chamat? Czy nie jak Dameszek ⟨jest⟩ Szomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "jak Karkemisz"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "jak Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "jak Dameszek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomeron"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:07.867600921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Posłał Mosze, sługę swego, Ahrona, którego wybrał.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "posłał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sługę swego"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wybrał"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:33.097336154Z",
+  "model": "glm-5.3"
+}

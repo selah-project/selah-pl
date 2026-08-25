@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wyruszył Awram z Micraim, on i jego żona, i wszystko, co jego, i Lot z nim, ku Negewowi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jego żona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jego"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "i Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ku Negewowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:16.524842578Z",
+  "model": "glm-5.3"
+}

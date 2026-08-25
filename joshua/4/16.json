@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Rozkaż ⟨את⟩ kapłanom, noszącym Aron Świadectwa, aby wyszli z Jardenu.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Rozkaż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapłanom"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanom"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "noszącym"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Świadectwa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "aby wyszli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:24.658058979Z",
+  "model": "glm-5.3"
+}

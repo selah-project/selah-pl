@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie będziesz uciskał ⟨את⟩ twego bliźniego i nie będziesz grabił; nie zostanie na noc zapłata najemnika ⟨את⟩ u ciebie aż do rana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "będziesz uciskał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twego bliźniego"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "twego bliźniego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "będziesz grabił"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "zostanie na noc"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "zapłata"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najemnika"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ u ciebie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:32.477070046Z",
+  "model": "glm-5.3"
+}

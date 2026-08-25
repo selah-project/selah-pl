@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I uczynił ⟨את⟩ wszystkie naczynia ołtarza: ⟨את⟩ garnki i ⟨את⟩ łopaty, i ⟨את⟩ czasze spryskiwania, ⟨את⟩ widelce i ⟨את⟩ kadzielnice; wszystkie jego naczynia zrobił z miedzi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie naczynia ołtarza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garnki"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "garnki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "łopaty"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "łopaty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "czasze spryskiwania"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "czasze spryskiwania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widelce"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "widelce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kadzielnice"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "kadzielnice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z miedzi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:39.008506668Z",
+  "model": "glm-5.3"
+}

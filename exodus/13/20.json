@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wyruszyli z Sukkot, i rozbili obóz w Etam, na skraju pustyni.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i wyruszyli"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "z Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "w Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na skraju"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:04.475395468Z",
+  "model": "glm-5.3"
+}

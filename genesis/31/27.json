@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Dlaczego ukryłeś się, by uciec, i oszukałeś ⟨את⟩ mnie, i nie oznajmiłeś mi, a przeciem wysłał cię z radością i z pieśniami, z bębnem i z kinorem?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "ukryłeś się"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "by uciec"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "i oszukałeś"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "oznajmiłeś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "wysłałbym cię"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z radością"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "i z pieśniami"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "z bębnem"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "i z kinorem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:20.470101837Z",
+  "model": "glm-5.3"
+}

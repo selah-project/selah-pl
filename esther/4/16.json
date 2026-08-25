@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Idź, zgromadź ⟨את⟩ wszystkich Jehudim znajdujących się w Szuszan, i pośćcie za mnie, i nie jedzcie, i nie pijcie trzy dni, nocą i dniem; także ja i moje dziewczęta pościmy tak samo. A potem wejdę do króla, co nie ⟨jest⟩ według prawa, i jak zginę — zginę.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "zgromadź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich Jehudim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "znajdujących się"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "w Szuszan"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "i pośćcie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "za mnie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedzcie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "pijcie"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "i dniem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "i moje dziewczęta"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "pościmy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak samo"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "wejdę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "według prawa"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "i jak"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "zginę"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "zginę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:40.475683444Z",
+  "model": "glm-5.3"
+}

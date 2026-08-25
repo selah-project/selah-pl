@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I kłosy chude połknęły ⟨את⟩ siedem kłosów dobrych; i powiedziałem do zaklinaczy, a nikt mi nie oznajmia.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "i połknęły"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kłosy"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "chude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem kłosów dobrych"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kłosów"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "dobrych"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powiedziałem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "zaklinaczy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nikt"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nie oznajmia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:13.229066986Z",
+  "model": "glm-5.3"
+}

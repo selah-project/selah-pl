@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A teraz, mieszkańcy Jeruszalaim i mężu Jehudy, rozsądźcie, proszę, między mną a moją winnicą.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i mężu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "rozsądźcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "moją winnicą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:29.348450590Z",
+  "model": "glm-5.3"
+}

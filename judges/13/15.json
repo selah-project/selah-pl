@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I rzekł Manoach do posłańca Jahwe: zatrzymajmy cię, ⟨את⟩ proszę, i przygotujmy przed tobą koźlę kóz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posłańca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "zatrzymajmy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "cię — wskazuje na adresata zatrzymania"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "i przygotujmy"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "koźlę"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kóz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:42.718274329Z",
+  "model": "glm-5.3"
+}

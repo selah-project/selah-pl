@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I Kattat, i Nachalal, i Szymron, i Jidala, i Bet-Lechem — miast dwanaście i ich osady.",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "i Kattat"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "i Nachalal"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "i Szymron"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "i Jidala"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miast"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naście"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "i ich osady"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:03.538645911Z",
+  "model": "glm-5.3"
+}

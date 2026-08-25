@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I zapłonął gniewem Paroh na dwu dworzan jego, na naczelnika podających kielich i na naczelnika piekarzy.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "i zapłonął gniewem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwu"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "dworzan jego"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "naczelnika"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "podających kielich"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "naczelnika"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "piekarzy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:55.456058401Z",
+  "model": "glm-5.3"
+}

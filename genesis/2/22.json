@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zbudował Jahwe Elohim ⟨את⟩ żebro, które wziął z człowieka, na kobietę, i przyprowadził ją do człowieka.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żebro"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "żebro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na kobietę"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "i przyprowadził ją"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:06.143883793Z",
+  "model": "glm-5.3"
+}

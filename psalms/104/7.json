@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Od Twego gniewnego skarcenia uciekają, od głosu Twego grzmotu spiesznie odstępują.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Od"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "Twego gniewnego skarcenia"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "uciekają"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "Twego grzmotu"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "spiesznie odstępują"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:52.014718111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I wysłał Mosze zwiadowców ⟨את⟩ Jaazer; zdobyli jego córki ⟨tj. osady⟩ i wypędzili ⟨את⟩ Emorytów, którzy tam byli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I wysłał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "zwiadowców"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "zdobyli"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "jego córki"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "i wypędzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorytów"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:43.614534806Z",
+  "model": "glm-5.3"
+}

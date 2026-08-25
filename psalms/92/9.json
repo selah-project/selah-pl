@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "A Ty ⟨jesteś⟩ na wysokości na wieki, Jahwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "na wysokości"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.012077427Z",
+  "model": "glm-5.3"
+}

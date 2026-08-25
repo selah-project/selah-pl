@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I wniósł ⟨את⟩ rzeczy święte swego ojca i swoje rzeczy święte do domu Jahwe: srebro i złoto oraz naczynia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzeczy święte swego ojca"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "rzeczy święte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "i swoje rzeczy święte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i złoto"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "oraz naczynia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:46.482639593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Paście się popiołem — serce zwiedzione odwróciło go, i nie wyrwie ⟨את⟩ swojej nefesz, i nie powie: Czyż nie kłamstwo w mojej prawicy?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Paście się"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "popiołem"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "zwiedzione"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "odwróciło go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "wyrwie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojej nefesz"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swojej nefesz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Czyż nie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwo"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "w mojej prawicy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:34:25.793758839Z",
+  "model": "glm-5.3"
+}

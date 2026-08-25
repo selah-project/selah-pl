@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I składali w ofierze ⟨את⟩ swoich synów i ⟨את⟩ swoje córki szedim (demonom).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "i składali w ofierze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoje córki"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "swoje córki"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "szedim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:31.170977308Z",
+  "model": "glm-5.3"
+}

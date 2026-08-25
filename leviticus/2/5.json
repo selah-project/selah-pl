@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A jeśli mincha na ⟨the⟩ patelni ⟨jest⟩ korban twój — precyzyjna mąka zmieszana w oleju, przaśna niech będzie.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "patelni"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korban twój"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "precyzyjna mąka"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "zmieszana"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "w oleju"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "przaśna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "niech będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:53.536512184Z",
+  "model": "glm-5.3"
+}

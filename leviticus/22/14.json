@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A jeśli mężczyzna zje rzecz świętą przez niedopatrzenie, to doda jej piątą część i da kapłanowi ⟨את⟩ ⟨tę⟩ rzecz świętą.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A jeśli mężczyzna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "rzecz świętą"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "przez niedopatrzenie"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "to doda"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "jej piątą część"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kapłanowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzecz świętą"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "rzecz świętą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:09.179958090Z",
+  "model": "glm-5.3"
+}

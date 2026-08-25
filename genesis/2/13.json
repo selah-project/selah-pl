@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A imię drugiej rzeki to Gichon — ⟨to⟩ ona, która okrąża ⟨את⟩ całą ziemię Kusz.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A imię"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiej"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ona"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "która okrąża"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą ziemię Kusz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:19.604226099Z",
+  "model": "glm-5.3"
+}

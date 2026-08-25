@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nawet gdy krzyczę i wołam o pomoc, zagradza moją modlitwę.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nawet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "krzyczę"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "i wołam o pomoc"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "zagradza"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moją modlitwę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:36.053660040Z",
+  "model": "glm-5.3"
+}

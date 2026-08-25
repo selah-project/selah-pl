@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 93,
+  "translation": "Jahwe króluje, przyodziany jest w wyniosłość, przyodział się Jahwe, mocą się przepasał; także ⟨jest⟩ utwierdzona ziemia, nie zachwieje się.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króluje"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "w wyniosłość"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "przyodziany jest"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "przyodział się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mocą"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "się przepasał"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "utwierdzona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zachwieje się"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:47.132136477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I rzekł Dawid: Nie czyńcie tak, bracia moi, ⟨את⟩ tym, które dał nam Jahwe, i strzegł ⟨את⟩ nas, i wydał ⟨את⟩ oddział, który przyszedł na nas, w naszą rękę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "czyńcie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bracia moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tym, które dał nam Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "i strzegł"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i wydał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oddział"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "oddział"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "który przyszedł"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "w naszą rękę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:34.438130354Z",
+  "model": "glm-5.3"
+}

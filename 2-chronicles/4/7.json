@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I zrobił ⟨את⟩ dziesięć menoret złota według ich wzorca, i ustawił w świątyni pięć po prawicy i pięć po lewicy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziesięć menoret złota"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "menoret"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "według ich wzorca"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i ustawił"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "w świątyni"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "po prawicy"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pięć"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "po lewicy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:54.101542628Z",
+  "model": "glm-5.3"
+}

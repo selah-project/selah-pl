@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I wysłali ⟨do⟩ Izebel, mówiąc: Ukamienowany Nabot i umarł.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i wysłali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "ukamienowany"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.464457803Z",
+  "model": "glm-5.3"
+}

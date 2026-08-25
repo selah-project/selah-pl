@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "i obmyje ⟨את⟩ swoje ciało w wodzie w miejscu świętym, i włoży ⟨את⟩ swoje szaty, i wyjdzie, i zrobi ⟨את⟩ swoją ofiarę całopalną i ⟨את⟩ ofiarę całopalną ludu, i dokona przebłagania za siebie i za lud.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "i obmyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ciało"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "swoje ciało"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodzie"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "świętym"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "i włoży"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyjdzie"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i zrobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ofiarę całopalną"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "swoją ofiarę całopalną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ofiarę całopalną ludu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofiarę całopalną"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokła przebłagania"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za siebie"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.811390094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Jak unoszenie dymu, tak ich rozwiej; jak topnienie wosku przed ogniem, niech zginą bezbożni sprzed oblicza Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "jak unoszenie"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dymu"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "tak ich rozwiej"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "jak topnienie"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "wosku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "niech zginą"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:35.329141659Z",
+  "model": "glm-5.3"
+}

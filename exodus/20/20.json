@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I powiedział Mosze do ludu: Nie bójcie się, gdyż po to przyszedł ⟨את⟩ was Elohim, aby was doświadczyć, i aby bojaźń przed nim była na waszych obliczach, abyście nie grzeszyli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bójcie się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "po to"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "aby doświadczyć"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "i aby"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "była"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "bojaźń przed nim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "waszych obliczach"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "abyście nie"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "grzeszyli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:20.298456856Z",
+  "model": "glm-5.3"
+}

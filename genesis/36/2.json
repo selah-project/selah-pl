@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Esaw wziął ⟨את⟩ swoje żony spośród córek Kenaana: ⟨את⟩ Adę, córkę Ejlona Chittyty, oraz ⟨את⟩ Aholibamę, córkę Anaha, córkę Cybeona Chiwity.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje żony"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "swoje żony"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "spośród córek"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adę"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adę"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ejlona"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chittyty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Aholibamę"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholibamę"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Cybeona"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:42.616901511Z",
+  "model": "glm-5.3"
+}

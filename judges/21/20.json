@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I rozkazali ⟨את⟩ synom Binjamina, mówiąc: idźcie i czyhajcie w winnicach.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synom Binjamina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "i czyhajcie"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "w winnicach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:32:46.422812626Z",
+  "model": "glm-5.3"
+}

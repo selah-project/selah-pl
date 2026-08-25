@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Nie będziecie doświadczać ⟨את⟩ Jahwe, Elohim waszego, jak doświadczałeś ⟨Go⟩ w Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "będziecie doświadczać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszego"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "doświadczałeś"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "w Massa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:13.353834519Z",
+  "model": "glm-5.3"
+}

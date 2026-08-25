@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bo zamiast mojego chleba przychodzi moje wzdychanie, a moje jęki wylewają się jak wody.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mojego chleba"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "moje wzdychanie"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "a się wylewają"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jak wody"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "moje jęki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:09.694282061Z",
+  "model": "glm-5.3"
+}

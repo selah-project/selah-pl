@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Lepiej słuchać nagany mądrego niż ⟨to, że⟩ człowiek słucha pieśni głupców.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepiej"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "słuchać"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "nagany"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrego"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "niż człowiek"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słuchający"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśni"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "głupców"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:52.523431368Z",
+  "model": "glm-5.3"
+}

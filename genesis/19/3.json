@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 19:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I usilnie ich nakłaniał, i ustąpili mu, i weszli do domu jego, i zrobił im ucztę, i macot upiekł, i jedli.",
+  "tokens": [
+    {
+      "surface": "ויפצר",
+      "gloss": "i usilnie nakłaniał"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "i ustąpili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i weszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "domu jego"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "i macot (przaśne chleby)"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "upiekł"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "i jedli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:14.762666307Z",
+  "model": "glm-5.3"
+}

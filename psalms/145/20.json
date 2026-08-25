@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Strzeże Jahwe ⟨את⟩ wszystkich swoich miłujących, a ⟨את⟩ wszystkich bezbożnych wytraci.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Strzeże"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich swoich miłujących"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "swoich miłujących"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich bezbożnych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "wytraci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.270036601Z",
+  "model": "glm-5.3"
+}

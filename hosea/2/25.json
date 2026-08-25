@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zasieję ją ⟨dla⟩ siebie w ⟨tej⟩ ziemi, i zmiłuję się nad Lo-Ruchamą ⟨tą, której nie zmiłowano⟩, i powiem Lo-Ammi: «Ludem moim jesteś», a on powie: «Elohim mój».",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "i zasieję ją"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨dla⟩ siebie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ⟨tej⟩ ziemi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "i zmiłuję się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "zmiłowana"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "i powiem"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "temu, który nie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jest ludem moim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludem moim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jesteś"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:16.668095539Z",
+  "model": "glm-5.3"
+}

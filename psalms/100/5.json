@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 100,
+  "translation": "Bo dobry ⟨jest⟩ Jahwe, na wieki jego chesed, a po pokolenie i pokolenie jego wierność.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a po"
+    },
+    {
+      "surface": "דר",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "jego wierność"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:11.985111317Z",
+  "model": "glm-5.3"
+}

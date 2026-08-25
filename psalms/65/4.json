@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Sprawy win przemogły mnie; nasze przestępstwa — Ty je okryjesz.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Sprawy"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "win"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "przemogły"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "nasze przestępstwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "okryjesz je"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:28.140121641Z",
+  "model": "glm-5.3"
+}

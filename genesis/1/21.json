@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stworzył Elohim ⟨את⟩ wielkie potwory morskie i ⟨את⟩ każdą istotę żywą pełznąącą, którą zroiły się wody według ich rodzajów, i ⟨את⟩ wszelkie ptactwo skrzydlate według jego rodzaju; i Elohim zobaczył, że ⟨jest⟩ dobre",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "i stworzył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wielkie potwory morskie"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "potwory morskie"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "każdą istotę żywą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "istotę"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "żywą"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "pełznąącą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "zroiły się"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "według ich rodzajów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszelkie ptactwo skrzydlate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skrzydlate"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według jego rodzaju"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:31.273305702Z",
+  "model": "glm-5.3"
+}

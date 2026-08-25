@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I postawił ⟨את⟩ wszystkich znalezionych w Jeruszalaim i w Biniaminie, i wykonali mieszkańcy Jeruszalaim według przymierza Elohim, Elohim ich ojców.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich znalezionych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "znalezionych"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i w Biniaminie"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i wykonali"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "według przymierza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ich ojców"
+    }
+  ],
+  "timestamp": "2026-08-25T03:56:27.626760649Z",
+  "model": "glm-5.3"
+}

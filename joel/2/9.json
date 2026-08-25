@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "W mieście pędzą śmiało, po murze biegają, na domy wchodzą, przez okna wchodzą jak złodziej.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "pędzą śmiało"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "po murze"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "biegają"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "na domy"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "wchodzą"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "przez"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "okna"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wchodzą"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "jak złodziej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:02.899478049Z",
+  "model": "glm-5.3"
+}

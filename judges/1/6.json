@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uciekł Adoni-Bezek, i ścigali go, i pochwycili ⟨את⟩ niego, i obcięli ⟨את⟩ kciuki jego rąk i paluchy jego nóg.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i ścigali"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "go"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "i pochwycili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "Adoni-Bezeka"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "i obcięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kciuki"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "kciuki"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jego rąk"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "i jego nóg"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:06.930753799Z",
+  "model": "glm-5.3"
+}

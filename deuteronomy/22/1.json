@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Nie zobaczysz ⟨את⟩ wołu twego brata albo ⟨את⟩ jego owcy zabłąkanych i ⟨nie⟩ ukryjesz się przed nimi — zwracając zwrócisz je twemu bratu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zobaczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wołu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twego brata"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego owcy"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "jego owcy"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "zabłąkane"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "i ⟨nie⟩ ukryjesz się"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zwracając"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "zwrócisz je"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "twemu bratu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:10.375897428Z",
+  "model": "glm-5.3"
+}

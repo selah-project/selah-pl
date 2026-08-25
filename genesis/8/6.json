@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stało się na końcu czterdziestu dni, że Noach otworzył ⟨את⟩ okno arki, które zrobił.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na końcu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdziestu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "otworzył"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okno arki"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:53.695651869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Wznieś się, Sędzio ⟨tej⟩ ziemi, zwróć odpłatę na pysznych!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Wznieś się"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Sędzio"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tej⟩ ziemi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zwróć"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "odpłatę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "pysznych"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:39.096053623Z",
+  "model": "glm-5.3"
+}

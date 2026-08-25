@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Jahwe, Elohim Cawaoth, przywróć nas; rozjaśnij swoje oblicze, a zbawieni będziemy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cawaoth"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "przywróć nas"
+    },
+    {
+      "surface": "האר",
+      "gloss": "rozjaśnij"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "a zbawieni będziemy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:39.707230311Z",
+  "model": "glm-5.3"
+}

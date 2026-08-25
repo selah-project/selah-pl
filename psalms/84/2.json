@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Jak miłe są przybytki Twoje, Jahwe Zastępów!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "miłe"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "przybytki Twoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:01.019517450Z",
+  "model": "glm-5.3"
+}

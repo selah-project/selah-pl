@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Biada Aszszurowi, rózga mego gniewu, a laska — ona ⟨jest⟩ w ich ręku: moja srogość.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszurowi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "różga"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mego gniewu"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "a laska"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "w ich ręku"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "moja srogość"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:27.288851107Z",
+  "model": "glm-5.3"
+}

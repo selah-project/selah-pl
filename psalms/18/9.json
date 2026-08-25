@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Wstąpił dym w ⟨jego⟩ nozdrzach, a ogień z ⟨jego⟩ ust pożera, węgle rozżarzyły się od niego.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Wstąpił"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dym"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "w ⟨jego⟩ nozdrzach"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "a ogień"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "z ⟨jego⟩ ust"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "pożera"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "węgle"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "rozżarzyły się"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:13.326170150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i Achitub spłodził ⟨את⟩ Cadoka, a Cadok spłodził ⟨את⟩ Szalluma;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "i Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoka"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoka"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "a Cadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szalluma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Szalluma"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:18.660300312Z",
+  "model": "glm-5.3"
+}

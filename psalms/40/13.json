@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Albo otoczyły mnie nieszczęścia, aż ⟨bez⟩ liczby, dopadły mnie winy moje, i nie mogłem widzieć; przemożniejsze są od włosów głowy mojej, a serce moje opuściło mnie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Albo"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "otoczyły"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "nieszczęścia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "liczby"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "dopadły mnie"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "winy moje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "mogłem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "widzieć"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "przemożniejsze są"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "od włosów"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy mojej"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "a serce moje"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "opuściło mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:12.770982831Z",
+  "model": "glm-5.3"
+}

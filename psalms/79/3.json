@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "Rozlali ich krew jak wodę dokoła Jeruszalaim, i nie było ⟨kogo⟩, kto by ⟨ich⟩ pochował.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Rozlali"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ich krew"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jak wodę"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "kto by pochował"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:48.608473932Z",
+  "model": "glm-5.3"
+}

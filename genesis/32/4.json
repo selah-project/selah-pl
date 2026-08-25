@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wysłał Jaakow posłańców przed sobą do Esawa, brata swego, do ziemi Seir, pola Edomu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłańców"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed sobą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata swego"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:08.149268314Z",
+  "model": "glm-5.3"
+}

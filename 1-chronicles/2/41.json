@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Szallum spłodził ⟨את⟩ Jekamjaha, a Jekamjah spłodził ⟨את⟩ Eliszama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "a Szallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjaha"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "a Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliszama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliszama"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:21.938161778Z",
+  "model": "glm-5.3"
+}

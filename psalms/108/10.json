@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Moab to naczynie mojej kąpieli, na Edom rzucę moje sandały, nad Peleszet będę się pysznić okrzykiem.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "naczynie"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mojej kąpieli"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "rzucę"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "moje sandały"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleszet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "będę się pysznić okrzykiem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:20.287859199Z",
+  "model": "glm-5.3"
+}

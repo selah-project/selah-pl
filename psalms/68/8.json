@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Elohim, gdy wychodziłeś przed ludem swoim, gdy stąpałeś przez pustynię — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "gdy wychodziłeś"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ludem swoim"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "gdy stąpałeś"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "przez pustynię"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:07.690257898Z",
+  "model": "glm-5.3"
+}

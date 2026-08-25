@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "I sprowadzi na nich ⟨את⟩ ich nieprawość, a w ich złości wytępi ich — wytępi ich Jahwe, Elohim nasz.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i sprowadzi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich nieprawość"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ich nieprawość"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "a w ich złości"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "wytępi ich"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "wytępi ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:00.664438355Z",
+  "model": "glm-5.3"
+}

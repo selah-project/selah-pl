@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jeśli zgrzeszyłem — biada mi; a jeśli byłem sprawiedliwy — nie podniosę ⟨mojej⟩ głowy; syty jestem hańby i widzę nędzę moją.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "zgrzeszyłem"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "biada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "a jeśli byłem sprawiedliwy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "podniosę"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syty jestem"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hańby"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i widzę"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nędzę moją"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:33.413743483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I poszedł Natan do swego domu, a Jahwe poraził ⟨את⟩ dziecko, które urodziła żona Uriasza Dawidowi, i zachorowało na śmiertelnie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "a poraził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziecko"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żona"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriasza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "zachorowało na śmiertelnie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:24.712342051Z",
+  "model": "glm-5.3"
+}

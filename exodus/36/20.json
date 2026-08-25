@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I zrobił ⟨את⟩ deski przybytku z drewna akacjowego, stojące.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deski"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "deski"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "przybytku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojące"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:44.966529889Z",
+  "model": "glm-5.3"
+}

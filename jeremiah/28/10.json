@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I wziął Chananja prorok ⟨את⟩ jarzmo z szyi Jeremiasza proroka i połamał je.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarzmo"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "jarzmo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "szyi"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jeremiasza"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "i połamał je"
+    }
+  ],
+  "timestamp": "2026-08-25T00:53:25.218286152Z",
+  "model": "glm-5.3"
+}

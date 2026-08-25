@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Użycz łaski mi, Adonai, bo do ciebie wołam cały dzień.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Użycz łaski mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:04.640128564Z",
+  "model": "glm-5.3"
+}

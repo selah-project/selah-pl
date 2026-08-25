@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Metuszelach siedem i osiemdziesiąt lat i sto lat, i zrodził ⟨את⟩ Lemeka.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuszelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "i osiemdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemeka"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemeka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:46.809371714Z",
+  "model": "glm-5.3"
+}

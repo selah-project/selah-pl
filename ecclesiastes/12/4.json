@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "i zamkną się drzwi na ulicy, gdy ucichnie głos młyna, i wstanie się przy głosie ptaka, i przygną się wszystkie córy pieśni —",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "i zamkną się"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "drzwi"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "na ulicy"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "gdy ucichnie"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "młyna"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "i wstanie się"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "przy głosie"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptaka"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "i przygną się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córy"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "pieśni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:46.686987145Z",
+  "model": "glm-5.3"
+}

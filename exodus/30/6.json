@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I postawisz ⟨את⟩ go przed parochet, który ⟨jest⟩ przy Aron ha-Edut, przed ha-kaporet, który ⟨jest⟩ nad ha-Edut, gdzie będę się spotykał z tobą tam.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i postawisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (ołtarz kadzielny)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parochet (zasłoną)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Aron (arka)"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ha-Edut (świadectwa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ha-kaporet (przykrywą)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ha-Edut (świadectwem)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "będę się spotykał"
+    },
+    {
+      "surface": "לך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:18.594953286Z",
+  "model": "glm-5.3"
+}

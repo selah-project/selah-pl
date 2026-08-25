@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Rzeczywiście nie czynią nieprawości, ⟨w⟩ jego drogach chodzili.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Rzeczywiście"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "czynią"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "⟨w⟩ jego drogach"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "chodzili"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:40.869098085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Czyż jak mleko mnie nie wylałeś, a jak twaróg mnie nie zsiadłeś?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "jak mleko"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "mnie wylałeś"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "a jak twaróg"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "mnie zsiadłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T02:17:24.630676501Z",
+  "model": "glm-5.3"
+}

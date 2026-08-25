@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I widzieli jego bracia, że ⟨את⟩ niego miłował ich ojciec więcej niż wszystkich jego braci, i znienawidzili ⟨את⟩ niego, i nie mogli mówić do niego pokojowo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i widzieli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego bracia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "jego (Josefa)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miłował"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ich ojciec"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "więcej niż wszystkich"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego braci"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "i znienawidzili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "jego (Josefa)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mówić do niego"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "pokojowo"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:41.963154516Z",
+  "model": "glm-5.3"
+}

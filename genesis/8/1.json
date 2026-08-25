@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wspomniał Elohim ⟨את⟩ Noacha, i ⟨את⟩ wszelkie zwierzę, i ⟨את⟩ wszelki bydło, które ⟨z⟩ nim było w arce; i przeprowadził Elohim wiatr nad ziemią, i osiadły wody.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "i wspomniał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noacha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszelkie zwierzę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszelki bydło"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelki"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bydło"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "w arce"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i przeprowadził"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "i osiadły"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:02.644292276Z",
+  "model": "glm-5.3"
+}

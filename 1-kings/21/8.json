@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I napisała listy w imieniu Achaba, i opieczętowała je jego pieczęcią, i wysłała te listy do starszych i do notablów, którzy w jego mieście, mieszkających ⟨את⟩ Nawotem.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "i napisała"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "listy"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imieniu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "i opieczętowała"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "jego pieczęcią"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "i wysłała"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "te listy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "notablów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "w jego mieście"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "mieszkających"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Nawotem"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawotem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:13.760312061Z",
+  "model": "glm-5.3"
+}

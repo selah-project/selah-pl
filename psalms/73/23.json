@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "A ja jestem stale z Tobą; uchwyciłeś ⟨את⟩ moją prawicę.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z Tobą"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "uchwyciłeś"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "moją prawicę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:24.401380575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Wtedy powiedziałem: oto przychodzę — w zwoju księgi napisane ⟨jest⟩ o mnie.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "przychodzę"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "w zwoju"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księgi"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "napisane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:21.451603652Z",
+  "model": "glm-5.3"
+}

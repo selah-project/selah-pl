@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I gdy cię zgaszę, okryję niebiosa i zaczernię ⟨את⟩ ich gwiazdy; słońce chmurą okryję, a księżyc nie będzie świecił swoim światłem.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "okryję"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "gdy cię zgaszę"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "i zaczernię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich gwiazdy"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "ich gwiazdy"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "chmurą"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "okryję"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a księżyc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "będzie świecił"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "swoim światłem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:22:51.919253105Z",
+  "model": "glm-5.3"
+}

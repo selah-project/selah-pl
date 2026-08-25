@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Gdy się mnożą sprawiedliwi, raduje się lud; a gdy rządzi niegodziwy, wzdycha lud.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "gdy się mnożą"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "a gdy rządzi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwy"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "wzdycha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:45.683885137Z",
+  "model": "glm-5.3"
+}

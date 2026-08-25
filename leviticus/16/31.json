@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Szabat, szabat całkowitego odpoczynku to jest dla was i umartwiacie ⟨את⟩ swoje nefesz — ustawa na wieki.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Szabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "całkowitego odpoczynku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "i umartwiacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje nefesz"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "swoje nefesz"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ustawa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:47.685380786Z",
+  "model": "glm-5.3"
+}

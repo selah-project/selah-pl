@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wziął Mosze ⟨את⟩ swoją żonę i ⟨את⟩ swoich synów, i posadził ich na osiołku, i wrócił do ziemi Micrajim; i wziął Mosze ⟨את⟩ laskę HaElohim w swojej ręce.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją żonę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swoją żonę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "i posadził ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "osiołku"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laskę"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "laskę"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w swojej ręce"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:34.923740962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wyniósł ⟨את⟩ Aszerę z domu Jahwe na zewnątrz Jeruszalaim, do potoku Kidron, i spalił ⟨את⟩ ⟨ją⟩ w potoku Kidron, i starł na proch, i rzucił ⟨את⟩ proch jej na groby synów ludu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszerę"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Aszerę"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spalił"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ją⟩ — Aszerę"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "w potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "i starł"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "na proch"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i rzucił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proch jej"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "proch jej"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "groby"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    }
+  ],
+  "timestamp": "2026-08-25T04:14:22.640163691Z",
+  "model": "glm-5.3"
+}

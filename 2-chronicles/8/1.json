@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stało się na końcu dwudziestu lat, w których Szlomo zbudował ⟨את⟩ dom Jahwe i ⟨את⟩ swój dom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na końcu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w których"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swój dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swój dom"
+    }
+  ],
+  "timestamp": "2026-08-25T03:55:09.086461386Z",
+  "model": "glm-5.3"
+}

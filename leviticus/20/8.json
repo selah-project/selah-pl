@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I strzeżcie ⟨את⟩ moich ustaw i czyńcie ⟨את⟩ je; Ja ⟨jestem⟩ Jahwe, uświęcający was.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i strzeżcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moich ustaw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moich ustaw"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i czyńcie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "uświęcający was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:03.432682610Z",
+  "model": "glm-5.3"
+}

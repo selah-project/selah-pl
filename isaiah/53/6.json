@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Wszyscy my jak owce zbłąkaliśmy się, każdy na swoją drogę zwróciliśmy się, a Jahwe sprawił, że spadło na niego ⟨את⟩ winę nas wszystkich.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Wszyscy my"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jak owce"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "zbłąkaliśmy się"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "na swoją drogę"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "zwróciliśmy się"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "sprawił, że spadło"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winę"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nas wszystkich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:42.557045319Z",
+  "model": "glm-5.3"
+}

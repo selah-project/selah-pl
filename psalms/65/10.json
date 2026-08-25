@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Odwiedzasz ⟨את⟩ ziemię i podlewasz ją, obficie ją wzbogacasz; strumień Elohim pełen ⟨jest⟩ wody; przygotowujesz ich zboże, tak bowiem ją przygotowujesz.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Odwiedzasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "i podlewasz ją"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "obficie"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "ją wzbogacasz"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "strumień"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pełen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "przygotowujesz"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ich zboże"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bowiem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "ją przygotowujesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:18.335989038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Miłujcie ⟨את⟩ Jahwe, wszyscy Jego czyci! Wiernych strzeże Jahwe i ponad miarę odpłaca czyniącemu pychę.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Miłujcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Jego czyci"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wiernych"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "strzeże"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "i odpłaca"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "miarę"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniącemu"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pychę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:42.387221271Z",
+  "model": "glm-5.3"
+}

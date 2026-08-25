@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I posłał król Szlomoh, i wziął ⟨את⟩ Chirama z Coru.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chirama"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chirama"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "z Coru"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:14.292609845Z",
+  "model": "glm-5.3"
+}

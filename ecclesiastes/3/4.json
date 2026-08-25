@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Pora płakać i pora się śmiać, pora narzekać i pora tańczyć.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "płakać"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "się śmiać"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "narzekać"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "tańczyć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:51.448919040Z",
+  "model": "glm-5.3"
+}

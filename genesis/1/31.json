@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ujrzał Elohim ⟨את⟩ wszystko, co uczynił, i oto ⟨było⟩ dobre bardzo. I ⟨był⟩ wieczór, i ⟨był⟩ poranek — dzień szósty.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co uczynił"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i oto"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨był⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wieczór"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨był⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranek"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "szósty"
+    }
+  ],
+  "timestamp": "2026-08-24T22:08:58.687195891Z",
+  "model": "glm-5.3"
+}

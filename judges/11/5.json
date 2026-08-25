@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I stało się, gdy synowie Ammonu walczyli z Jisraelem, że poszli starsi Giladu, by zabrać ⟨את⟩ Jiftacha z ziemi Tob.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "walczyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "by zabrać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftacha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftacha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tob"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:20.246270765Z",
+  "model": "glm-5.3"
+}

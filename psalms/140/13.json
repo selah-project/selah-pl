@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Wiem, że Jahwe wymierzy ⟨את⟩ sprawiedliwość uciśnionemu, wyrok ubogim.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Wiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wymierzy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "עני",
+      "gloss": "uciśnionemu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wyrok"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ubogim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:53.681714833Z",
+  "model": "glm-5.3"
+}

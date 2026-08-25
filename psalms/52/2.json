@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "Przy przyjściu Doega Edomity, gdy oznajmił Szaulowi i rzekł mu: „Przyszedł Dawid do domu Achimeleka”.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Przy przyjściu"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doega"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomity"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "oznajmił"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Szaulowi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Przyszedł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleka"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:16.211026038Z",
+  "model": "glm-5.3"
+}

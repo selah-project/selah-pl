@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Gdy drogi mężczyzny podobają się Jahwe, nawet jego wrogów doprowadza On do zgody z nim ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "gdy podobają się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "drogi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzny"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "jego wrogów"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "doprowadza do zgody"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:11.244639642Z",
+  "model": "glm-5.3"
+}

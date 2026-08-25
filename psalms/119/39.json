@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Odwróć moją hańbę, której się boję, bo Twoje wyroki ⟨są⟩ dobre.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Odwróć"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "moją hańbę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "której"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "się boję"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Twoje wyroki"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:37.913765799Z",
+  "model": "glm-5.3"
+}

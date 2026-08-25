@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przysiągł król i rzekł: Żywy jest Jahwe, który wykupił ⟨את⟩ moją nefesz z wszelkiego ucisku.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "i przysiągł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Żywy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wykupił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją nefesz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z wszelkiego"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucisku"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:24.803746267Z",
+  "model": "glm-5.3"
+}

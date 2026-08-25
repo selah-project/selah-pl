@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I stało się, gdy cały naród dokończył przejścia ⟨את⟩ Jardenu, że Jahwe powiedział do Jehoszuy, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "dokończył"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "przejścia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "że powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszuy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:58.334528445Z",
+  "model": "glm-5.3"
+}

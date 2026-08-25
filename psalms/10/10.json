@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Kuli się, i pochyla ⟨się⟩, i nieszczęśnicy wpadają pod jego potężne ⟨szpony⟩.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "kuli się"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "pochyla ⟨się⟩"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "i wpadają"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "pod jego potężne ⟨szpony⟩"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "nieszczęśnicy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:19.228190974Z",
+  "model": "glm-5.3"
+}

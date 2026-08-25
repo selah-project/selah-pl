@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 150,
+  "translation": "Chwalcie Go dęciem szofaru, chwalcie Go nevelem i kinnorem!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chwalcie Go"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "dęciem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "szofaru"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie Go"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevelem"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinnorem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:59.333391822Z",
+  "model": "glm-5.3"
+}

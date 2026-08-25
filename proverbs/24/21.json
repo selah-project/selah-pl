@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Bój się ⟨את⟩ Jahwe, synu, i króla; z ⟨ludźmi⟩ zmiennymi nie mieszaj się.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Bój się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i króla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "zmiennymi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "mieszaj się"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:27.475338098Z",
+  "model": "glm-5.3"
+}

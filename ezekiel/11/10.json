@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Od miecza padniecie, na granicy Jisraela osądzę ⟨את⟩ was, i poznacie, że ja jestem Jahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "padniecie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "granicy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "osądzę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i poznacie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:10:18.386695002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł król do Hamana: pośpiesz się, weź ⟨את⟩ szatę i ⟨את⟩ konia, jak powiedziałeś, i uczyń tak Mordechajowi, Judejczykowi, siedzącemu w bramie królewskiej — nie upuść ani jednej rzeczy ze wszystkiego, co powiedziałeś.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "do Hamana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pośpiesz się"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szatę"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "szatę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "konia"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "powiedziałeś"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i uczyń"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechajowi"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Judejczykowi"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "siedzącemu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "w bramie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "upuść"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ani jednej ze wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "powiedziałeś"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:11.985409723Z",
+  "model": "glm-5.3"
+}

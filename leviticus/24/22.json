@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Jedna reguła prawna będzie dla was: jak przybysz, tak tubylec ⟨będzie⟩; bo ⟨jestem⟩ Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "reguła prawna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "jak przybysz"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "tak tubylec"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨będzie⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:20:23.600264700Z",
+  "model": "glm-5.3"
+}

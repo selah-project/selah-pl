@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Słuchem ucha słyszałem Cię, a teraz oko moje widziało Cię.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "słuchem"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucha"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "słyszałem Cię"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "widziało Cię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:49:29.668629289Z",
+  "model": "glm-5.3"
+}

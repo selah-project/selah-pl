@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Oni widzieli — tak_qos się zdumili, zatrwożyli się, spiesznie uciekli.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Oni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "widzieli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "zdumili się"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zatrwożyli się"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "spiesznie uciekli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:49.792802277Z",
+  "model": "glm-5.3"
+}

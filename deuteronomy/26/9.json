@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "i przywiódł nas do tego miejsca, i dał nam ⟨את⟩ tę ziemię, ziemię opływającą w mleko i miód.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "i przywiódł nas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tego miejsca"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "opływającą"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "w mleko"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i miód"
+    }
+  ],
+  "timestamp": "2026-08-25T04:09:15.011289466Z",
+  "model": "glm-5.3"
+}

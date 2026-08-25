@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Ponieważ uczynili ⟨את⟩ zło w moich oczach i byli ⟨את⟩ mnie rozgniewującymi od dnia, w którym wyszli ich ojcowie z Micraim, aż do dnia tego.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zło"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w moich oczach"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i byli"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "rozgniewującymi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w którym"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wyszli"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ich ojcowie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:48.819893850Z",
+  "model": "glm-5.3"
+}

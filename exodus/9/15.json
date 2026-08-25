@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo teraz wyciągnąłbym ⟨את⟩ moją rękę i uderzyłbym ciebie ⟨את⟩ oraz twój lud zarazą, i zostałybyś wytępiony z ziemi —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "wyciągnąłbym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "i uderzyłbym"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "ciebie ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "twój lud"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "twój lud"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "zarazą"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "zostałybyś wytępiony"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:57.583284624Z",
+  "model": "glm-5.3"
+}

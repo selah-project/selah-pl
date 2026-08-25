@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "aby przepędzić ⟨את⟩ wszystkich nieprzyjaciół twoich sprzed oblicza twego, jak przemówił Jahwe.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "aby przepędzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich nieprzyjaciół twoich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nieprzyjaciół twoich"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sprzed oblicza twego"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:23.236475834Z",
+  "model": "glm-5.3"
+}

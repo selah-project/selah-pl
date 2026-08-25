@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I poznał Kain ⟨את⟩ swoją żonę, a ona poczęła i urodziła ⟨את⟩ Chanocha; i stał się budującym miasto, i nazwał imię miasta według imienia swego syna, Chanocha.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją żonę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swoją żonę"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a ona poczęła"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanocha"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanocha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "budującym"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "według imienia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "swego syna"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanocha"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:43.044619834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I spotkał Elohim Bilama, i rzekł do niego: ⟨את⟩ siedem ołtarzy ustawiłem i ofiarowałem młodego byka oraz barana na ołtarzu.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "i spotkał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem ołtarzy"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "ołtarzy"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ustawiłem"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "i ofiarowałem"
+    },
+    {
+      "surface": "פר",
+      "gloss": "młodego byka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "oraz barana"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na ołtarzu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:04.886513306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uczynił im tak, i wyratował ⟨את⟩ nich z ręki synów Jisraela, i nie zabili ich.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i wyratował"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "zabili ich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:20.875621132Z",
+  "model": "glm-5.3"
+}

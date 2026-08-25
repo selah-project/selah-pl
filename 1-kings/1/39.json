@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 1:39",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wziął Cadok kapłan ⟨את⟩ róg ⟨the⟩ oleju z namiotu, i namaścił ⟨את⟩ Szelomo, i zatrąbili w szofar, i powiedział cały lud: Niech żyje król Szelomo!",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "róg oleju"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "róg"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "⟨the⟩ oleju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i namaścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "i zatrąbili"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "w szofar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "niech żyje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:40.472725152Z",
+  "model": "glm-5.3"
+}

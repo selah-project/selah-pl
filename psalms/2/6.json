@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Ja namaściłem mojego króla na Cijonie, mojej świętej górze.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "namaściłem"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mojego króla"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonie"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górze"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mojej świętej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:49.887788746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Cóż za pożytek ma człowiek z całego swojego trudu, którym się trudzi pod słońcem?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pożytek"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z całego"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "swojego trudu"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "którym się trudzi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:35.209378550Z",
+  "model": "glm-5.3"
+}

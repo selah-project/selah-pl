@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Gdy zbliżają się na mnie złoczyńcy, by pożreć ⟨את⟩ moje ciało — moi przeciwnicy i moi wrogowie ⟨są⟩ mi ⟨oni⟩ — oni się potknęli i upadli.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "gdy zbliżają się"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńcy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "by pożreć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje ciało"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje ciało"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "moi przeciwnicy"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "i moi wrogowie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "potknęli się"
+    },
+    {
+      "surface": "וינפלו",
+      "gloss": "i upadli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:57.944747281Z",
+  "model": "glm-5.3"
+}

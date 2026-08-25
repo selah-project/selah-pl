@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I stanął Pinchas, i się wstawiał, i została powstrzymana plaga.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "i się wstawiał"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "i została powstrzymana"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "plaga"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:54.630608779Z",
+  "model": "glm-5.3"
+}

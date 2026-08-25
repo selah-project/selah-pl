@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I wyruszył Menachem, syn Gadiego, z Tircy, i przyszedł do Szomronu, i uderzył ⟨את⟩ Szalluma, syna Jawisza, w Szomronie, i zabił go, i królował na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadiego"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "z Tircy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Szomronu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szalluma, syna Jawisza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Szalluma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jawisza"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomronie"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i zabił go"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:38.863715196Z",
+  "model": "glm-5.3"
+}

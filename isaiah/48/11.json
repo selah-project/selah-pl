@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Dla siebie, dla siebie to uczynię, bo jak ⟨moje imię⟩ miałoby być skalane? i chwały mojej drugiemu nie dam.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "Dla siebie"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "miałoby być skalane"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "i chwała moja"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "drugiemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    }
+  ],
+  "timestamp": "2026-08-25T00:33:27.560237674Z",
+  "model": "glm-5.3"
+}

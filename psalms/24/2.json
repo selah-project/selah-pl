@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Bo On na morzach ją ugruntował i na rzekach ⟨ją⟩ utwierdził.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "morzach"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ją ugruntował"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzekach"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "⟨ją⟩ utwierdził"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.557917987Z",
+  "model": "glm-5.3"
+}

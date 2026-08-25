@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I zobaczyłeś ⟨את⟩ udrękę naszych ojców w Micrajim, a ⟨את⟩ ich krzyk usłyszałeś nad Morzem Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i zobaczyłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udrękę naszych ojców"
+    },
+    {
+      "surface": "עני",
+      "gloss": "udręka"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naszych ojców"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ich krzyk"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ich krzyk"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "usłyszałeś"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Morzem"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-25T02:48:03.554132418Z",
+  "model": "glm-5.3"
+}

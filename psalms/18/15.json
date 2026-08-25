@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wystrzelił strzały swoje, i rozproszył ich, i błyskawice wystrzelił mnogie, i wstrząsnął nimi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I wystrzelił"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "strzały swoje"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "i rozproszył ich"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "i błyskawice"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wystrzelił mnogie"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "i wstrząsnął nimi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:34.169272576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Powstań, Jahwe! Niech nie się umocni śmiertelnik; niech narody będą sądzone przed Twoim obliczem.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Powstań"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "się umocni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnik"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "niech będą sądzone"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "על",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Twoim obliczem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:09.642750889Z",
+  "model": "glm-5.3"
+}

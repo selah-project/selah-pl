@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "To poślą starsi miasta jego i wezmą ⟨את⟩ niego stamtąd, i wydadzą ⟨את⟩ niego w rękę mściciela krwi, i umrze.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "to poślą"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "miasta jego"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "i wezmą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (z miasta ucieczki)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i wydadzą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego (w rękę mściciela)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mściciela"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:01.033070306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Pora rodzić i pora umierać, pora sadzić i porę wyrywać to, co zasadzone.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "rodzić"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "למות",
+      "gloss": "umierać"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pora"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "sadzić"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "wyrywać"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "to, co zasadzone"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:51.448636116Z",
+  "model": "glm-5.3"
+}

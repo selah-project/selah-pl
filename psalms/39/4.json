@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Gorące ⟨było⟩ serce moje we wnętrzu moim; gdy rozmyślałem, rozpalił się ogień — przemówiłem językiem moim.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Gorące"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "we wnętrzu moim"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "gdy rozmyślałem"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "rozpalił się"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "przemówiłem"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "językiem moim"
+    }
+  ],
+  "timestamp": "2026-08-25T04:19:47.675794401Z",
+  "model": "glm-5.3"
+}

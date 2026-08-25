@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Nie za twoje ofiary będę cię upominał, twoje całopalenia są nieustannie przed mną.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "twoje ofiary"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "będę cię upominał"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "i twoje całopalenia"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "przede mną"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.385324687Z",
+  "model": "glm-5.3"
+}

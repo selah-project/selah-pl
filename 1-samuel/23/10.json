@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I rzekł Dawid: Jahwe, Elohim Israela, słysząco usłyszał sługa twój, że Szaul zamierza przyjść do Keili, by zniszczyć miasto z mojego powodu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słysząco"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "zamierza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "przyjść"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keili"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "by zniszczyć"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "z mojego powodu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:58.046491653Z",
+  "model": "glm-5.3"
+}

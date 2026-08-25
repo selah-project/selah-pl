@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Tak rzekł Jahwe: Podobnie zepsuję ⟨את⟩ pychę Jehudy i ⟨את⟩ wielką pychę Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Podobnie"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zepsuję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pychę"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pychę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pychę"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pychę"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "wielką"
+    }
+  ],
+  "timestamp": "2026-08-25T00:48:17.725120714Z",
+  "model": "glm-5.3"
+}

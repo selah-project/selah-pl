@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wziął ⟨את⟩ cały tłuszcz, który jest na wnętrznościach, oraz ⟨את⟩ płat wątroby i ⟨את⟩ obie nerki oraz ⟨את⟩ ich tłuszcz, i spalił jako kadzidło Mosze ⟨na⟩ ołtarzu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały tłuszcz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tłuszcz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wnętrznościach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "płat wątroby"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "płat"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wątroby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "obie nerki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obie"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nerki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ich tłuszcz"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ich tłuszcz"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "i spalił jako kadzidło"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨na⟩ ołtarzu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:58.838768437Z",
+  "model": "glm-5.3"
+}

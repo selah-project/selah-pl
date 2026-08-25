@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I rzekł Paro do Josefa: Sen śniłem, a wykładacza jego ⟨את⟩ nie ma; a ja słyszałem o tobie, mówiąc: ty słyszysz sen, by ⟨את⟩ go wyłożyć.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "śniłem"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "a wykładacza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jego ⟨את⟩",
+      "marks": "wykładacza"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "słyszałem"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "o tobie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ty słyszysz"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "by wyłożyć"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "sen"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:27.507625783Z",
+  "model": "glm-5.3"
+}

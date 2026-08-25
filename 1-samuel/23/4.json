@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I pytał Dawid ponownie Jahwe, i odpowiedział go Jahwe, i rzekł: Wstań, zejdź do Qeili, bo Ja daję ⟨את⟩ Pelisztym w twoją rękę.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "i pywał"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ponownie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "pytać"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "i odpowiedział go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "קום",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "רד",
+      "gloss": "zejdź"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "do Qeili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisztym"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w twoją rękę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:32.571286879Z",
+  "model": "glm-5.3"
+}

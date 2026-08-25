@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wyruszyli kehatici, niesący ⟨את⟩ przybytek święty, a ⟨ci inni⟩ stawiali ⟨את⟩ przybytek, aż przybyli.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "i wyruszyli"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "kehatici"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "niesący"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "przybytek święty"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "a stawiali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "באם",
+      "gloss": "przybyli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:35.339060583Z",
+  "model": "glm-5.3"
+}

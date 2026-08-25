@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I skaziła się ziemia, i nawiedziłem jej winę na niej, i wyzwiała ziemia ⟨את⟩ swoich mieszkańców.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "i skaziła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "i nawiedziłem"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "jej winę"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na niej"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "i wyzwiała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich mieszkańców"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "swoich mieszkańców"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:10.170025702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I jedną dziesiątą część na jedno jagnię — dla czternastu jagniąt.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "i jedną dziesiątą część"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "dziesiątą część"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "na jedno jagnię"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "dla czternastu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-nastu"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jagniąt"
+    }
+  ],
+  "timestamp": "2026-08-24T23:00:19.629970743Z",
+  "model": "glm-5.3"
+}

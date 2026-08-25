@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ⟨את⟩ Jebusytów, i ⟨את⟩ Emorytów, i ⟨את⟩ Girgaszytów.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jebusytów"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusytów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Emorytów"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgaszytów"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaszytów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:34.531840374Z",
+  "model": "glm-5.3"
+}

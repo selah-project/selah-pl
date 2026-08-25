@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Kto wytyczył miarę ⟨את⟩ ruach Jahwe? A jaki mąż ⟨jako⟩ doradca jego pouczył go?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "wytyczył miarę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach Jahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a jaki mąż"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "⟨jako⟩ doradca jego"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "pouczył go"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:26.668695899Z",
+  "model": "glm-5.3"
+}

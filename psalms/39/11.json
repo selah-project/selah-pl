@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Odejmij ode mnie Twój cios; od naporu Twej ręki jestem wyczerpany.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "odejmij"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "Twój cios"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "od naporu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Twej ręki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "jestem wyczerpany"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:40.693550235Z",
+  "model": "glm-5.3"
+}

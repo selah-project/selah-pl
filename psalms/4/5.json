@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Drżyjcie i nie grzeszcie; mówcie w sercu waszym na łóżku waszym i zamilkcie. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Drżyjcie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "grzeszcie"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mówcie"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "w sercu waszym"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "łóżku waszym"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "i zamilkcie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:55.952626970Z",
+  "model": "glm-5.3"
+}

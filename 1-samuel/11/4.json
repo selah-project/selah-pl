@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I przyszli posłowie do Gibei Szaula, i powiedzieli słowa w uszach ludu — i podniósł cały lud ⟨את⟩ swój głos, i zapłakali.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "posłowie"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "w uszach"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój głos"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swój głos"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i zapłakali"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:09.537109096Z",
+  "model": "glm-5.3"
+}

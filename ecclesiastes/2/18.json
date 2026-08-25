@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I znienawidziłem ja ⟨את⟩ cały mój trud, którym się tracę pod słońcem, bo muszę go zostawić człowiekowi, który będzie po mnie.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "i znienawidziłem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały mój trud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mój trud"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "którym się"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tracę"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "bo muszę go zostawić"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "który będzie"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:50.197547530Z",
+  "model": "glm-5.3"
+}

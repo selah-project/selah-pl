@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Jahwe, rano usłyszysz głos mój, rano przygotuję się dla ciebie i będę wypatrywać.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "usłyszysz"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "przygotuję się"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "i będę wypatrywać"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:11.302246884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I rzekł Josef: Przyprowadźcie wasze bydło, a dam wam ⟨chleb⟩ za wasze bydło, jeśli zniknęło srebro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "przyprowadźcie"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "wasze bydło"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a dam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "za wasze bydło"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "zniknęło"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:17.429677865Z",
+  "model": "glm-5.3"
+}

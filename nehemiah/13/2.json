@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Bo nie wyszli naprzeciw synom ⟨את⟩ Israela z chlebem i z wodą, i najął przeciw nim Bilama ⟨את⟩, żeby go przekląć; i odwrócił Elohim nasz klątwę w błogosławieństwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "wyszli naprzeciw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synom Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "z chlebem"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i z wodą"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "i najął"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przeciw nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "żeby go przekląć"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "i odwrócił"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "klątwę"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "w błogosławieństwo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:49:41.605450595Z",
+  "model": "glm-5.3"
+}

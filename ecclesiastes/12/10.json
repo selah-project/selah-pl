@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Szukał Kohelet znaleźć słowa pożądane, a napisane — prosto, słowa prawdy.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "szukał"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "znaleźć"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pożądane"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "a napisane"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prosto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:02.062940783Z",
+  "model": "glm-5.3"
+}

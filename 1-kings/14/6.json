@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I stało się, gdy Achijasz usłyszał ⟨את⟩ dźwięk jej kroków przy wchodzeniu w drzwi, że powiedział: Wejdź, żono Jeroboama! Dlaczego ⟨to⟩ udajesz obcą? A ja jestem posłany do ciebie z ⟨twardą wieścią⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achijasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dźwięk jej kroków"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dźwięk"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "jej kroków"
+    },
+    {
+      "surface": "באה",
+      "gloss": "przy wchodzeniu"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "w drzwi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "że powiedział"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Wejdź"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żono"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "udajesz obcą"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "jestem posłany"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "z twardą ⟨wieścią⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:27.166372414Z",
+  "model": "glm-5.3"
+}

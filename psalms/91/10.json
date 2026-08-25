@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Nie spotka cię zło i plaga nie zbliży się do twego namiotu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "spotka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ciebie"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "i plaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "zbliży się"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "do twego namiotu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:22.478281621Z",
+  "model": "glm-5.3"
+}

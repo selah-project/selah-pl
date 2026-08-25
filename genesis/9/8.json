@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I mówił Elohim do Noacha i do jego synów ⟨את⟩-him, saying",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I mówił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:22.963054651Z",
+  "model": "glm-5.3"
+}

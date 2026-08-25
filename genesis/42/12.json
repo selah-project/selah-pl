@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I rzekł do nich: nie, lecz nagość ziści ⟨ziemi⟩ — przybyliście, aby ją widzieć.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "przybyliście"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby widzieć"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:26.506871299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Oraz ⟨את⟩ Cholon i ⟨את⟩ jego pastwiska, oraz ⟨את⟩ Debir i ⟨את⟩ jej pastwiska.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Oraz ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jego pastwiska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jej pastwiska"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:35.061129710Z",
+  "model": "glm-5.3"
+}

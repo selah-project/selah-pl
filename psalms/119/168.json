@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Strzegłem twoich ustaw i twoich świadectw, bo wszystkie moje drogi ⟨są⟩ przed tobą.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Strzegłem"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "twoich ustaw"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "i twoich świadectw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moje drogi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "przed tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:16.747654300Z",
+  "model": "glm-5.3"
+}

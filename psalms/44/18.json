@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Wszystko to przyszło na nas, a nie zapomnieliśmy Ciebie i nie postąpiliśmy fałszywie w przymierzu Twoim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "przyszło na nas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "zapomnieliśmy Ciebie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "postąpiliśmy fałszywie"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "w przymierzu Twoim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:23.401516154Z",
+  "model": "glm-5.3"
+}

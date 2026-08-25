@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I usłyszał Jahwe ⟨את⟩ głos słów waszych, i zapłonął gniewem, i przysiągł, mówiąc:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I usłyszał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos słów waszych"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "słów waszych"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "i zapłonął gniewem"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i przysiągł"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:57.749558914Z",
+  "model": "glm-5.3"
+}

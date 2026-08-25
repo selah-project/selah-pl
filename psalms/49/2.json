@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Słuchajcie tego, wszystkie ludy; nadstawcie ⟨ucha⟩, wszyscy mieszkańcy świata.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "האזינu",
+      "gloss": "nadstawcie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "świata"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:04.294866437Z",
+  "model": "glm-5.3"
+}

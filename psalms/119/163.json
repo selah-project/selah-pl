@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Kłamstwo znienawidziłem i ⟨nim⟩ brzydziłem się; Torę Twoją umiłowałem.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Kłamstwo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "znienawidziłem"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "i brzydziłem się"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torę Twoją"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "umiłowałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:08.895603857Z",
+  "model": "glm-5.3"
+}

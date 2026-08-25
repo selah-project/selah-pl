@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I stało się, gdy król usłyszał ⟨את⟩ słowa księgi Tory, że rozdarł ⟨את⟩ swoje szaty.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa księgi Tory"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księgi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "że rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:22.358817696Z",
+  "model": "glm-5.3"
+}

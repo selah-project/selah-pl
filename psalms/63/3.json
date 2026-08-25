@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Tak w świątyni widziałem Cię, by ujrzeć moc Twoją i chwałę Twoją.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "w świątyni"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "widziałem Cię"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "by ujrzeć"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "moc Twoją"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "i chwałę Twoją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:36.345239511Z",
+  "model": "glm-5.3"
+}

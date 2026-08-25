@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A imię drugiego Eliezer, bo Elohim ojca mojego ⟨był⟩ w pomocy mojej i on mnie wyrwał od miecza Para.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A imię"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mojego"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "w pomocy mojej"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "i on mnie wyrwał"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:24.262257412Z",
+  "model": "glm-5.3"
+}

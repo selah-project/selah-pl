@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przywołał Dawid jednego z ⟨od⟩ młokosów i rzekł: Podejdź, uderz w niego; i pobił go, i umarł.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "z młokosów"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "גש",
+      "gloss": "podejdź"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "uderz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w niego"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i pobił go"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:48.810049265Z",
+  "model": "glm-5.3"
+}

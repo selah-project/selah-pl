@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I wzięliśmy ⟨את⟩ ich ziemię, i daliśmy ją na dziedzictwo Rubenitom i Gadytom, i połowie pokolenia Menaszeszego.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "i wzięliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich ziemię"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ich ziemię"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i daliśmy ją"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "na dziedzictwo"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rubenitom"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "i Gadytom"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "i połowie"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenia"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menaszeszego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:29.689260044Z",
+  "model": "glm-5.3"
+}

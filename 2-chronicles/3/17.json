@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I postawił ⟨את⟩ kolumny przed frontem świątyni, jedną po prawicy, a jedną po lewicy; i nadał imię prawej Jachin, a imię lewej Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolumny"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kolumny"
+    },
+    {
+      "surface": "על",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frontem"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "świątyni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedną"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "po prawicy"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jedną"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "po lewicy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nadał imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "prawej"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jachin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "lewej"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:11.528522349Z",
+  "model": "glm-5.3"
+}

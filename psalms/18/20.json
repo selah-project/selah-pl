@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wyprowadził mnie na przestwór, wybawił mnie, bo we mnie upodobał.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "I wyprowadził mnie"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na przestwór"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wybawił mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "upodobał"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:23.701494953Z",
+  "model": "glm-5.3"
+}

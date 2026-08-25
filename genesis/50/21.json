@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "A teraz nie bójcie się: ja będę utrzymywał ⟨את⟩ was i ⟨את⟩ waszą dziatwę. I pocieszył ich, i mówił na ich serce.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bójcie się"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "będę utrzymywał"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "waszą dziatwę"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "waszą dziatwę"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i pocieszył"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ich serce"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:39.472822279Z",
+  "model": "glm-5.3"
+}

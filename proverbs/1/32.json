@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bo odstępstwo naiwnych zabije ich, a spokój głupców zgubi ich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "odstępstwo"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "naiwnych"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "zabije ich"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "a spokój"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "głupców"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "zgubi ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:03.957038583Z",
+  "model": "glm-5.3"
+}

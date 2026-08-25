@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I ustanowił król ⟨את⟩ Benajahu, syna Jehojady, na jego miejsce nad wojskiem, a ⟨את⟩ Cadoka kapłana postawił król na miejscu Ebiatara.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu, syna Jehojady"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojady"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejsce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wojskiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoka kapłana"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postawił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na miejscu"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebiatara"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:36.784881573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A Ja zatwardzę ⟨את⟩ serce Paroh i rozmnożę ⟨את⟩ moje znaki i ⟨את⟩ moje cuda w ziemi Micraim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "zatwardzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "i rozmnożę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje znaki"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "moje znaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje cuda"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "moje cuda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:30.846966163Z",
+  "model": "glm-5.3"
+}

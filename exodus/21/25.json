@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "oparzenie za oparzenie, rana za ranę, siniak za siniak.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "oparzenie"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "oparzenie"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "siniak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "siniak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:21.070521149Z",
+  "model": "glm-5.3"
+}

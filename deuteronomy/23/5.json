@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Za ⟨sprawę⟩, której — nie wyszli naprzeciw wam ⟨את⟩ chlebem i wodą po drodze, przy waszym wyjściu z Micraim, i za to, że najął przeciwko tobie ⟨את⟩ Bilama, syna Beora, z Petor Aram Naharaim, aby ci przekląć.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "której"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "wyszli naprzeciw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam",
+      "marks": "wam"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i wodą"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po drodze"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "przy waszym wyjściu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i za to, że"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "najął"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przeciwko tobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beora"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "z Petor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "aby ci przekląć"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:12.721214037Z",
+  "model": "glm-5.3"
+}

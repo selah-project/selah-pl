@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "A Ty, Jahwe, zmiłuj się nade mną i podnieś mnie, a ja im odpłacę.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "zmiłuj się nade mną"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "podnieś mnie"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "a ja odpłacę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:32.760374723Z",
+  "model": "glm-5.3"
+}

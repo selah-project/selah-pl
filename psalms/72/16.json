@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Niech będzie obfitość zboża na ziemi, na wierzchu gór niech się kołysze jak Liban swój owoc, i niech zakwitną z miasta jak ziele ziemi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "obfitość"
+    },
+    {
+      "surface": "בר",
+      "gloss": "zboża"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na wierzchu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "niech się kołysze"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "jak Liban"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "swój owoc"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "i niech zakwitną"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z miasta"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jak ziele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:37.243838570Z",
+  "model": "glm-5.3"
+}

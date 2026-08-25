@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Ponieważ we Mnie upodobał sobie, więc go wyratuję; wyniosę go, ponieważ poznał imię moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we Mnie"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "upodobał sobie"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "więc go wyratuję"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "wyniosę go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznał"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "imię moje"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:37.067125243Z",
+  "model": "glm-5.3"
+}

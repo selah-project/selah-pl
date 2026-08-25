@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Nie ma jak Ty wśród Elohim, Adonai, i nie ma dzieł jak dzieła Twoje.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nie ma"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jak Ty"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wśród Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "jak dzieła Twoje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:24.862432639Z",
+  "model": "glm-5.3"
+}

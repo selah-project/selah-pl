@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Paras, Kusz i Put ⟨אתם⟩, wszyscy oni z tarczą i hełmem.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusz"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "i Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "z nimi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy oni"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tarczą"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "i hełmem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:25:35.310753133Z",
+  "model": "glm-5.3"
+}

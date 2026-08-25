@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Lecz ja jestem napełniony mocą, ⟨את⟩ duchem Jahwe, i prawem, i mocarstwem, aby oznajmić Jaakowowi jego bunt i Jisraelowi jego grzech.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Lecz"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "jestem napełniony"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mocą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duchem Jahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i prawem"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "i mocarstwem"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "aby oznajmić"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakowowi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "jego bunt"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Jisraelowi"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jego grzech"
+    }
+  ],
+  "timestamp": "2026-08-25T04:18:52.485578874Z",
+  "model": "glm-5.3"
+}

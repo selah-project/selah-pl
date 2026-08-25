@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Bo Jahwe, wasz Elohim, ⟨jest⟩ Tym, który idzie z wami, aby walczyć za was z waszymi nieprzyjaciołmi — aby was zbawić ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ten, który idzie"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "aby walczyć"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za was"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "waszymi nieprzyjaciołmi"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aby zbawić"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:32.112839437Z",
+  "model": "glm-5.3"
+}

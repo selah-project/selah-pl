@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Mace będą jedzone ⟨את⟩ siedem dni, i nie będzie widziany u ciebie kwaszony chleb, i nie będzie widziany u ciebie zaczyn w żadnej twojej granicy.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "mace"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będą jedzone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem dni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "będzie widziany"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u ciebie"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kwaszony chleb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "będzie widziany"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u ciebie"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "zaczyn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w żadnej"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "twojej granicy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:05.036463760Z",
+  "model": "glm-5.3"
+}

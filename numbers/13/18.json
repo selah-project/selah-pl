@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "i zobaczycie ⟨את⟩ ziemię, czym ona ⟨jest⟩, oraz ⟨את⟩ lud, który na niej mieszka — czy ⟨jest⟩ mocny, czy słaby; czy liczny, czy nieliczny;",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "i zobaczycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on(a)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "który mieszka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na niej"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "czy mocny"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "czy słaby"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "czy nieliczny"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liczny"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:40.251200222Z",
+  "model": "glm-5.3"
+}

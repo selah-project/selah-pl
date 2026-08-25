@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Chodzenie ⟨את⟩ z mędrcami — a ⟨człowiek⟩ stanie się mądry; a pasący się z głupimi zostanie zepsuty.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Chodzenie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z mędrcami"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "z mędrcami"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "a stanie się mądry"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a pasący się"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "z głupimi"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "zostanie zepsuty"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:36.887984677Z",
+  "model": "glm-5.3"
+}

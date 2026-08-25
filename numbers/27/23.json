@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I położył ⟨את⟩ swoje ręce na niego, i przykazał mu, tak jak mówił Jahwe przez rękę Moszego.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "i przykazał mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak, jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "przez rękę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:58.920394533Z",
+  "model": "glm-5.3"
+}

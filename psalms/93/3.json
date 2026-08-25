@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 93,
+  "translation": "Podniosły rzeki, Jahwe, podniosły rzeki swój głos, poniosą rzeki swój bijący przybój.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "podniosły"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "podniosły"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swój głos"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "poniosą"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "swój bijący przybój"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:46.670209339Z",
+  "model": "glm-5.3"
+}

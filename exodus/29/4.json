@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I ⟨את⟩ Ahrona i ⟨את⟩ jego synów przyprowadzisz do wejścia Namiotu Spotkania, i obmyjesz ⟨את⟩ ich wodą.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "przyprowadzisz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "i obmyjesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wodą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:48.197773543Z",
+  "model": "glm-5.3"
+}

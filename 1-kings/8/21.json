@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczyniłem tam miejsce dla arki, w której ⟨jest⟩ przymierze Jahwe, które zawarł z ojcami naszymi, gdy wyprowadzał ich z ziemi Micraim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "i uczyniłem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "dla arki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w której"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ojcami naszymi"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "gdy wyprowadzał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:20.275196912Z",
+  "model": "glm-5.3"
+}

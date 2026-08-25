@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I podniosłem ⟨את⟩ moje oczy i zobaczyłem, a oto mąż jeden przyodziany w lniane szaty, a jego biodra przepasane złotem Ofaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "i podniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje oczy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "i zobaczyłem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "przyodziany"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "w lniane szaty"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "a jego biodra"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "przepasane"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Ofaz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:06.591183886Z",
+  "model": "glm-5.3"
+}

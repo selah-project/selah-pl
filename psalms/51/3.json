@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Zmiłuj się nade mną, Elohim, według twego chesed, według obfitości twych zmiłowań wymaż moje przekroczenia.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Zmiłuj się nade mną"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "według twego chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "według obfitości"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "twych zmiłowań"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wymaż"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "moje przekroczenia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:56.959295249Z",
+  "model": "glm-5.3"
+}

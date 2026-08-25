@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Jak mamy śpiewać ⟨את⟩ pieśń Jahwe na ziemi obcej?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "mamy śpiewać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pieśń Jahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "obcej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.621052162Z",
+  "model": "glm-5.3"
+}

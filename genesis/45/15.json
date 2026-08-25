@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "I ucałował wszystkich swoich braci, i zapłakał nad nimi; a potem rozmawiali z nim jego bracia ⟨את⟩ nim.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "i ucałował"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoich braci"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zapłakał"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "–"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rozmawiali"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego bracia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:09.679846354Z",
+  "model": "glm-5.3"
+}

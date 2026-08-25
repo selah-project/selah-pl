@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Nie pamiętali ⟨את⟩ jego ręki, dnia, gdy ich wykupił od wroga,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "pamiętali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego ręki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jego ręki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "wykupił"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wroga"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:53.119036989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I cały Israel usłyszał, mówiąc: Pobił Szaul ⟨את⟩ załogę Pelisztów, a także stał się obrzydliwością Israel u Pelisztów; i zawołano lud za Szaulem do Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "załogę Pelisztów"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "załogę"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "stał się obrzydliwością"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "u Pelisztów"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "i zawołano"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaulem"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:13.584360781Z",
+  "model": "glm-5.3"
+}

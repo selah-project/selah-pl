@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "I zobaczył Israël ⟨את⟩ synów Josefa, i powiedział: Kim są ci?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "I zobaczył"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Josefa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:44.072500737Z",
+  "model": "glm-5.3"
+}

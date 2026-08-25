@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Powiedział w swoim sercu: ⟨El⟩ zapomniał, ukrył swoje oblicze — nigdy ⟨tego⟩ nie zobaczy.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "w swoim sercu"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "zapomniał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ukrył"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nigdy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zobaczy"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:19.228334605Z",
+  "model": "glm-5.3"
+}

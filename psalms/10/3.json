@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Bo chełpił się bezbożny żądzą swej duszy, a chciwiec błogosławi — wzgardził Jahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "chełpił się"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożny"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "żądzą"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swej duszy"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "a chciwiec"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "błogosławi"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "wzgardził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:41.549506977Z",
+  "model": "glm-5.3"
+}

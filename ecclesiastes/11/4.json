@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Kto pilnuje wiatru, nie będzie siał, a kto patrzy na chmury, nie będzie żął.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kto pilnuje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "będzie siał"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a kto patrzy"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "na chmury"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "będzie żął"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:30.127490462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Czy wybawili ⟨את⟩ je bogowie narodów, które zniszczyli moi ojcowie — ⟨את⟩ Gozan i ⟨את⟩ Charan, i Reszef, i synów Edenu, którzy ⟨są⟩ w Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Czy wybawili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogowie"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zniszczyli"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "moi ojcowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "i Reszef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i synowie"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "w Telassar"
+    }
+  ],
+  "timestamp": "2026-08-25T03:32:11.217100145Z",
+  "model": "glm-5.3"
+}

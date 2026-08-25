@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Tam strzaskał płomienne strzały łuku, tarczę, i miecz, i wojnę. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "strzaskał"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "płomienne strzały"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuku"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tarczę"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "i miecz"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "i wojnę"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:17.913415722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I policzył ⟨את⟩ ich Mosze według ust Jahwe, jak mu nakazano.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i policzył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "על",
+      "gloss": "według"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mu nakazano"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:43.341361773Z",
+  "model": "glm-5.3"
+}

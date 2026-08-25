@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Odstąpcie ode mnie, wszyscy czyńcy marności, bo Jahwe usłyszał głos mego płaczu.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "odstąpcie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "czyńcy"
+    },
+    {
+      "surface": "און",
+      "gloss": "marności"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "mego płaczu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:29.700923911Z",
+  "model": "glm-5.3"
+}

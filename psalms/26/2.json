@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Próbuj mnie, Jahwe, i doświadczaj mnie, wypławiaj moje nerki i moje serce.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Próbuj mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "i doświadczaj mnie"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "wypławiaj"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "moje nerki"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "i moje serce"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:51.394452409Z",
+  "model": "glm-5.3"
+}

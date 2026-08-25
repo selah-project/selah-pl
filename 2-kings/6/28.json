@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł do niej król: Co ⟨ci jest⟩? I powiedziała: Ta kobieta powiedziała do mnie: Daj ⟨את⟩ twego syna, a zjedzmy go dzisiaj, a ⟨את⟩ mego syna zjedzmy jutro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "I powiedziała"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "powiedziała"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twego syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twego syna"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "a zjedzmy go"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mego syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mego syna"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "zjedzmy"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:00.043279543Z",
+  "model": "glm-5.3"
+}

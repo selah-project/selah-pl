@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wyszedł lud, i złupili ⟨את⟩ obóz Aram, i stała się sea mąki w szeklu, a dwie sea jęczmienia w szeklu, według słowa Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "i złupili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obóz"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stała się"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mąki"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "w szeklu"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "a dwie sea"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "jęczmienia"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "w szeklu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:09.687986989Z",
+  "model": "glm-5.3"
+}

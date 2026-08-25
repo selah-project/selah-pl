@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I będzie mąż oczyszczony od winy, a ta kobieta poniesie ⟨את⟩ swoją winę.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "i będzie oczyszczony"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "od winy"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "a ta kobieta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "poniesie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją winę"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "swoją winę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:59.909097366Z",
+  "model": "glm-5.3"
+}

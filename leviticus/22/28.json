@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wołu albo sztukę drobną — jego i ⟨את⟩ jego syna — nie zarżniecie w jednym dniu.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "i wół"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sztuka drobna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "zarżniecie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:49.681822108Z",
+  "model": "glm-5.3"
+}

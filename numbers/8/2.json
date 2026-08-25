@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Przemawiaj do Ahrona i powiesz mu: przy wznoszeniu ci lamp ⟨את⟩ naprzeciw oblicza menory — zaświecą siedem lamp.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "przemawiaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "przy wznoszeniu ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamp"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "מול",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menory"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "zaświecą"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lamp"
+    }
+  ],
+  "timestamp": "2026-08-25T03:21:31.649757715Z",
+  "model": "glm-5.3"
+}

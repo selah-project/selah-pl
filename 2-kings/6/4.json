@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I poszedł ⟨את⟩ nimi, i przyszli nad Jordan, i ścinali drzewa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "nad Jordan"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "i ścinali"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drzewa"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:36.737388276Z",
+  "model": "glm-5.3"
+}

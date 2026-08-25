@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Jahwe, Elohim twój, ⟨który⟩ wywiódł cię z ziemi Micrajim, z domu niewoli.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wywiódł cię"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "niewoli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:08.034403973Z",
+  "model": "glm-5.3"
+}

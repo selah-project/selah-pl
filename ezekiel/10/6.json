@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 10:6",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I stało się, gdy rozkazał ⟨את⟩ mężowi ubranemu w szaty lniane, mówiąc: weź ogień spośród koła, spośród kerubów — wtedy przyszedł i stanął obok koła.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בצותו",
+      "gloss": "gdy rozkazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mężowi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ubranemu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "w szaty lniane"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "koła"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "לכרובים",
+      "gloss": "kerubów"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "obok"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "koła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:10:37.806697468Z",
+  "model": "glm-5.3"
+}

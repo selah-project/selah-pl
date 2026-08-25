@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahwe Zastępów — ⟨את⟩ Jego poświęcajcie, i On ⟨jest⟩ waszą trwogą, i On ⟨jest⟩ waszym lękiem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe Zastępów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Jego"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "poświęcajcie"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i On"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "waszą trwogą"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i On"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "waszym lękiem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:57.654816128Z",
+  "model": "glm-5.3"
+}

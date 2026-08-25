@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wyznaczę ⟨את⟩ granicę twoją od Morza Sitowia aż do morza Pelisztów i od pustyni aż do Rzeki, bo dam w ręce wasze ⟨את⟩ mieszkańców ziemi, a ty wypędzisz ich spod twarzy twojej.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "i wyznaczę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "granicę twoją"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "granicę twoją"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od morza"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sitowia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "i od pustyni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Rzeki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "w ręce wasze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców ziemi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "a wypędzisz ich"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "spod twarzy twojej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:01.813652313Z",
+  "model": "glm-5.3"
+}

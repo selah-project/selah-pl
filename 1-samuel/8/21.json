@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I usłyszał Szemuël ⟨את⟩ wszystkie słowa ludu, i wypowiedział je w uszach Jahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa ludu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "i wypowiedział je"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "w uszach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:57.215741537Z",
+  "model": "glm-5.3"
+}

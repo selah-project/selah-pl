@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Uczynisz ich jak piec ognia na czas oblicza twego, Jahwe; w gniewie swoim połknie ich, a ogień pochłonie ich.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "uczynisz ich"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "jak piec"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "na czas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicza twego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "w gniewie swoim"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "połknie ich"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "a pochłonie ich"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:24.890352439Z",
+  "model": "glm-5.3"
+}

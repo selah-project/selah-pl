@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Tylko wyżyny nie zniknęły; jeszcze lud składał ofiary i kadził na wyżynach.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "zniknęły"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "składał ofiary"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "i kadził"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na wyżynach"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:53.501944132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Kto powstanie za mną przeciw złoczyńcom? Kto się ostoi za mną przeciw sprawcom nieprawości?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "powstanie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mną"
+    },
+    {
+      "surface": "עם",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńcom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "się ostoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mną"
+    },
+    {
+      "surface": "עם",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sprawcom"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:07.567834949Z",
+  "model": "glm-5.3"
+}

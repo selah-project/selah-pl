@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wstąpił Jehuda, i wydał Jahwe ⟨את⟩ Kenaanitę i Peryzzytę w rękę ich; i pobili ich w Bezek — dziesięć tysięcy mężów.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "I wstąpił"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i wydał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanitę i Peryzzytę"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanitę"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Peryzzytę"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "w rękę ich"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "i pobili ich"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "w Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:27.019444033Z",
+  "model": "glm-5.3"
+}

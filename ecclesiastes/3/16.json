@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I jeszcze widziałem pod słońcem: na miejscu sądu — tam nieprawość, a na miejscu sprawiedliwości — tam nieprawość.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "I jeszcze"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na miejscu"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sądu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "a na miejscu"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "sprawiedliwości"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nieprawość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:53.247071460Z",
+  "model": "glm-5.3"
+}

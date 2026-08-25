@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Niech się raduje góra Cijjon, niech się weselą córy Jehudy przez Twe wyroki.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "niech się raduje"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "niech się weselą"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "przez"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Twe wyroki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:35.262404600Z",
+  "model": "glm-5.3"
+}

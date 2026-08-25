@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I będziesz mówił do niego, i włożysz ⟨את⟩ słowa w jego usta; a Ja będę z ustami twoimi i z ustami jego, i pouczę ⟨את⟩ was ⟨את⟩ tego, co macie czynić.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "i będziesz mówił"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i włożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "w jego usta"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "będę"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ustami twoimi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i z"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ustami jego"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "i pouczę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, co"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "macie czynić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:08.805886610Z",
+  "model": "glm-5.3"
+}

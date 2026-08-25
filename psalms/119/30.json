@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Drogę wierności wybrałem, twoje wyroki postawiłem przed sobą.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "wierności"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "wybrałem"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "twoje wyroki"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "postawiłem przed sobą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:44.288357344Z",
+  "model": "glm-5.3"
+}

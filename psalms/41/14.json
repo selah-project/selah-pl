@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Błogosławiony Jahwe, Elohim Iszraela, od wieczności i aż po wieczność. Amen i amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "od wieczności"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "po wieczność"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amen"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:17.374080260Z",
+  "model": "glm-5.3"
+}

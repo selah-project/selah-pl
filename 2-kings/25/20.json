@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I wziął ⟨את⟩ nich Nebuzaradan, naczelnik rzeźników, i poprowadził ⟨את⟩ ich przed króla Babilonu, do Ribli.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "naczelnik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "rzeźników"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poprowadził"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "przed"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "do Ribli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:02.405623031Z",
+  "model": "glm-5.3"
+}

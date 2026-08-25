@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "On leczy złamanych sercem i owija ich boleści.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "On leczy"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "złamanych"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sercem"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "i owija"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ich boleści"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.696171601Z",
+  "model": "glm-5.3"
+}

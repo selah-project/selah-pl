@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "I niech panuje od morza do morza, i od Rzeki po krańce ziemi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i niech panuje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od morza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "i od Rzeki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "po"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krańce"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:38.245715583Z",
+  "model": "glm-5.3"
+}

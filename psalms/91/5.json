@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Nie będziesz się bał trwogi nocnej, strzały lecącej za dnia",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "będziesz się bał"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "trwogi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocnej"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "strzały"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "lecącej"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "za dnia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:59.364485607Z",
+  "model": "glm-5.3"
+}

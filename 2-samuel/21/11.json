@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I doniesiono Dawidowi ⟨את⟩ ⟨to, co⟩ uczyniła Rispah córka Ajji, nałożnica Szaula.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i doniesiono"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co uczyniła Rispah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "uczyniła"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Rispah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córka"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajji"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "nałożnica"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:23.575937180Z",
+  "model": "glm-5.3"
+}

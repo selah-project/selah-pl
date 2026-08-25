@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 1:2",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przyszedł Chanani, jeden z moich braci, ⟨on⟩ i mężowie z Jehudy; i pytałem o Jehudczyków, o ocalałych, którzy pozostali z niewoli, i o Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I przyszedł"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "z moich braci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i mężowie"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "z Jehudy"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "i pytałem"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "o Jehudczykach"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "ocalałych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "pozostali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "niewoli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:45:33.755973944Z",
+  "model": "glm-5.3"
+}

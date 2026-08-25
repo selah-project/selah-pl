@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Niech się zawstydzą i zginą przeciwnicy mojej nefesz, niech okryją się hańbą i wstydem ci, którzy szukają mojego zła.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "niech się zawstydzą"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "niech zginą"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "przeciwnicy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "niech okryją się"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "i wstydem"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ci, którzy szukają"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojego zła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:20.229909883Z",
+  "model": "glm-5.3"
+}

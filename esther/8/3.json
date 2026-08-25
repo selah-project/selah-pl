@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I dodała Ester, i mówiła przed obliczem króla, i upadła u nóg jego, i płakała, i błagała go, aby usunąć ⟨את⟩ złość Hamana Agagyty i ⟨את⟩ jego zamysł, który obmyślił przeciw Jehudim.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "i dodała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "i mówiła"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "i upadła"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "u"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nóg jego"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "i płakała"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "i błagała"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "aby usunąć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złość Hamana"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "złość"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagyty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego zamysł"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "jego zamysł"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "obmyślił"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:15.489024192Z",
+  "model": "glm-5.3"
+}

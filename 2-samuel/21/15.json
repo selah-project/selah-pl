@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I była jeszcze wojna Pelisztom przeciw ⟨את⟩ Jisraelowi; i zszedł Dawid i słudzy jego z nim, i walczyli z ⟨את⟩ Pelisztami, i Dawid się wyczerpał.",
+  "tokens": [
+    {
+      "surface": "ויתהי→ותהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojna"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Pelisztom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelowi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelowi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i zszedł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויעבדיו→ועבדיו",
+      "gloss": "i słudzy jego"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisztami"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztami"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "i się wyczerpał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:39.956277523Z",
+  "model": "glm-5.3"
+}

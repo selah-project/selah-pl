@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Ponieważ wzniosłem cię z prochu i uczyniłem cię władcą nad moim ludem Izraela, a ty szedłeś drogą Jeroboama i doprowadziłeś do grzechu mój lud Izraela, aby mnie rozdrażnić ich grzechami —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Ponieważ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "wzniosłem cię"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prochu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "i uczyniłem cię"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "władcą"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moim ludem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a ty szedłeś"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "i doprowadziłeś do grzechu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud Izraela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "aby mnie rozdrażnić"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "ich grzechami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:40.441839960Z",
+  "model": "glm-5.3"
+}

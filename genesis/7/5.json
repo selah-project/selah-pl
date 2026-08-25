@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I uczynił Noach według wszystkiego, co przykazał mu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I uczynił"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "przykazał mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:31.636170290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Czary złote — trzydzieści, czary srebrne drugiego rodzaju — czteryset ⟨i⟩ dziesięć, naczynia inne — tysiąc.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "czary"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złote"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "czary"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrne"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "drugiego rodzaju"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setki"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "i dziesięć"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "inne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:56.001458558Z",
+  "model": "glm-5.3"
+}

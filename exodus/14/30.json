@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wybawił Jahwe w owym dniu ⟨את⟩ Izraela z ręki Micrajim, i zobaczył Izrael ⟨את⟩ Micrajim martwego na brzegu morza.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "I wybawił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "martwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "brzegu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:40.662650519Z",
+  "model": "glm-5.3"
+}

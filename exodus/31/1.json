@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I Jahwe przemówił do Mosze, mówiąc:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:57.651351304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "Jahwe dokończy ⟨to, co dotyczy⟩ mnie; Jahwe, twoja wierna miłość ⟨trwa⟩ na wieki — dzieła twoich rąk nie porzucaj!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "dokończy"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨to, co dotyczy⟩ mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "twoja wierna miłość"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dzieła"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "twoich rąk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "porzucaj"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:19.662884890Z",
+  "model": "glm-5.3"
+}

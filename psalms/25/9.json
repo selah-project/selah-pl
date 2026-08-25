@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Będzie prowadził pokornych w sądzie i nauczy pokornych swojej drogi.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "będzie prowadził"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokornych"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w sądzie"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "i nauczy"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokornych"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "swojej drogi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:45.509380399Z",
+  "model": "glm-5.3"
+}

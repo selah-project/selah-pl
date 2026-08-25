@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A Debora, kobieta prorokini, żona Lappidot — ona sądziła ⟨את⟩ Israela w tamtym czasie.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "A Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "prorokini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żona"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lappidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "sądziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tamtym"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:40.882402901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I był Jahwe z Josefem, i był mężem pomyślnym, i był w domu pana swego, tego Micryjczyka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Josefem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "pomyślnym"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pana swego"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "tego Micryjczyka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:23.728847290Z",
+  "model": "glm-5.3"
+}

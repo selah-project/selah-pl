@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "On ⟨to⟩ Jahwe, Elohim nasz; na całej ziemi ⟨są⟩ jego wyroki.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "jego wyroki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.933604898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Ogień przed Nim kroczy i wokół pali Jego przeciwników.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed Nim"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kroczy"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "i pali"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wokół"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "Jego przeciwników"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.656273978Z",
+  "model": "glm-5.3"
+}

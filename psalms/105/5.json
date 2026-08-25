@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Pamiętajcie jego cudów, które uczynił, jego znaków i wyroków jego ust,",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Pamiętajcie"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "jego cudów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "jego znaków"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "i wyroków"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jego ust"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.933238451Z",
+  "model": "glm-5.3"
+}

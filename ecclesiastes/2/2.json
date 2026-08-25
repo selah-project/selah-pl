@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "O śmiechu powiedziałem: szaleństwo; a o radości — co to ⟨robisz⟩?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "O śmiechu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "szaleństwo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "a o radości"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨robisz⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:03.784166761Z",
+  "model": "glm-5.3"
+}

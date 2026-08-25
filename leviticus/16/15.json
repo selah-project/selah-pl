@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 16:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I zabije ⟨את⟩ kozła ofiary za grzech, który ⟨jest⟩ dla ludu, i wniesie ⟨את⟩ krew jego do wnętrza zasłony, i uczyni ⟨את⟩ krwią jego tak, jak uczynił z krwią cielca, i pokropi ⟨את⟩ nią na pokrywę i przed pokrywą.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kozła"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kozła"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dla ludu"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "i wniesie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew jego"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krew jego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wnętrza"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "zasłony"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i uczyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krwią jego"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krwią jego"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "z krwią"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "i pokropi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nią (krew jego)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pokrywę"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "i przed"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pokrywą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:28.600100162Z",
+  "model": "glm-5.3"
+}

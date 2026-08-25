@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Idą od siły do siły, ukaże się przed Elohim na Cyjonie.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Idą"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "od siły"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "siły"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ukaże się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cyjonie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:43.531864065Z",
+  "model": "glm-5.3"
+}

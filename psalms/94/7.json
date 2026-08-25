@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "I mówią: «Nie zobaczy Jah, i nie zrozumie Elohim Jaakowa».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I mówią"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zobaczy"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "zrozumie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:26.162263116Z",
+  "model": "glm-5.3"
+}

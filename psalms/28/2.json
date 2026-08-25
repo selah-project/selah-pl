@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Usłysz głos moich błagań, gdy wołam do Ciebie, gdy wznoszę moje ręce ku ⟨twojemu⟩ najświętszemu przybytkowi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Usłysz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "moich błagań"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "gdy wołam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "gdy wznoszę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ręce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "przybytkowi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "twojemu najświętszemu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:59.946500894Z",
+  "model": "glm-5.3"
+}

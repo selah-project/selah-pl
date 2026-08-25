@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Bo sługa twój poręczył ⟨את⟩ młodzieńca u ojca mego, mówiąc: Jeśli nie przyprowadzę go do ciebie, to zgrzeszę wobec ojca mego przez wszystkie dni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "poręczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "młodzieńca"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodzieńca"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "u"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mego"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "przyprowadzę go"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "to zgrzeszę"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "wobec ojca mego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "przez wszystkie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:45.794802786Z",
+  "model": "glm-5.3"
+}

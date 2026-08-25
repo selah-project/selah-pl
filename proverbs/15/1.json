@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Odpowiedź łagodna odwraca gniew, a słowo bolesne podnosi zapalczywość.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "odpowiedź"
+    },
+    {
+      "surface": "רך",
+      "gloss": "łagodna"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "odwraca"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a słowo"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "bolesne"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "podnosi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zapalczywość"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:30.761796596Z",
+  "model": "glm-5.3"
+}

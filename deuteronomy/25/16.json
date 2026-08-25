@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Bo obrzydliwością dla Jahwe, twojego Elohim, ⟨jest⟩ każdy, kto czyni te rzeczy, każdy, kto czyni niesprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "obrzydliwością"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniący"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniący"
+    },
+    {
+      "surface": "עול",
+      "gloss": "niesprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:30.358214332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I rzekłeś ⟨do⟩ sług twoich: Jeśli nie zstąpi brat wasz najmniejszy ⟨את⟩ wami, nie zobaczcie więcej oblicza mego.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekłeś"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sług twoich"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zstąpi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brat wasz"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "najmniejszy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z wami",
+      "marks": "z wami (przyimkowe את, nie znacznik dopełnienia)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "zobaczcie więcej"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "(aby) widzieć"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza mego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:41.999982200Z",
+  "model": "glm-5.3"
+}

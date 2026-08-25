@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wszedł Elisza do domu, a oto chłopiec martwy, leżący na swoim łożu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisza"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopiec"
+    },
+    {
+      "surface": "מת",
+      "gloss": "martwy"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "leżący"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "swoim łożu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:21.699161163Z",
+  "model": "glm-5.3"
+}

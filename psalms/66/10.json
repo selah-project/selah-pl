@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Boś nas doświadczył, Elohim, wypróbowałeś nas jak próbę srebra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "doświadczyłeś nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "wypróbowałeś nas"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "jak próbę"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:49.167831172Z",
+  "model": "glm-5.3"
+}

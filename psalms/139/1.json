@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Przewodniczącemu. Dawidowi. Mizmor. Jahwe, zbadałeś mnie i znasz ⟨mnie⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodniczącemu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "zbadałeś mnie"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "i znasz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.568462307Z",
+  "model": "glm-5.3"
+}

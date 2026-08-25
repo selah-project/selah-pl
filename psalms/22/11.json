@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Na Ciebie zostałem rzucony od łona; z brzucha mojej matki — El mój ⟨jesteś⟩ Ty.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Na Ciebie"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "zostałem rzucony"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "od łona"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z brzucha"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mojej matki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:40.611726700Z",
+  "model": "glm-5.3"
+}

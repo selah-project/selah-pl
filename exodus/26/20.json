@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "A dla drugiego boku przybytku, ku stronie północnej, dwadzieścia desek.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "a dla boku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytku"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku stronie"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "północnej"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "desek"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:20.953073068Z",
+  "model": "glm-5.3"
+}

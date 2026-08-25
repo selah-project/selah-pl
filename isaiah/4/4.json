@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Gdy Adonai obmyje ⟨את⟩ nieczystość córek Cijonu i ⟨את⟩ krew Jeruszalaim wypłucze z jej wnętrza — duchem prawa i duchem spalenia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "obmyje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nieczystość córek Cijonu"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "nieczystość"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córek"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krew Jeruszalaim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krew"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "wypłucze"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "z jej wnętrza"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "i duchem"
+    },
+    {
+      "surface": "בער",
+      "gloss": "spalenia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:59.285710559Z",
+  "model": "glm-5.3"
+}

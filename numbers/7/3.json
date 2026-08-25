@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "i przynieśli ⟨את⟩ swój dar przed Jahwe: sześć wozów krytych i dwanaście wołów — wóz na dwóch książąt i wołu na jednego — i przynieśli ⟨את⟩ je przed przybytek.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "i przynieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój dar"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "swój dar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "wozów"
+    },
+    {
+      "surface": "צב",
+      "gloss": "krytych"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "i dwanaście"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wołów"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "wóz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "i wołu"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "na jednego"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "i przynieśli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:23.034755740Z",
+  "model": "glm-5.3"
+}

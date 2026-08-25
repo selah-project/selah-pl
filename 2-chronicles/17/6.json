@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I wzniosło się jego serce na drogach Jahwe, a ponadto usunął ⟨את⟩ wyżyny i ⟨את⟩ aszery z Jehudy.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "wzniosło się"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jego serce"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "na drogach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "a ponadto"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wyżyny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aszery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "aszery"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "z Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:08.540403273Z",
+  "model": "glm-5.3"
+}

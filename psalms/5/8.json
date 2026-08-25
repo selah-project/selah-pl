@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A ja w obfitości Twego chesed wejdę do Twego domu, pokłonię się ku świątyni Twojej świętości w bojaźni przed Tobą.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "w obfitości"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Twego chesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "wejdzę"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "do Twego domu"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "pokłonię się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "świątyni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Twojej świętości"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "w bojaźni przed Tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:02.180248984Z",
+  "model": "glm-5.3"
+}

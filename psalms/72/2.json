@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Niech sądzi twój lud w sprawiedliwości, a twoich ubogich — w prawie.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "niech sądzi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "twój lud"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "w sprawiedliwości"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "a twoich ubogich"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w prawie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:32.399517977Z",
+  "model": "glm-5.3"
+}

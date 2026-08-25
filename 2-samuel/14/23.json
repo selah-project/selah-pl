@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wstał Joab, i poszedł do Geszuru, i sprowadził ⟨את⟩ Awoszłoma do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "do Geszuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i sprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awoszłoma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awoszłoma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:45.459965442Z",
+  "model": "glm-5.3"
+}

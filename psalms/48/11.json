@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Jak imię Twoje, Elohim, tak i chwała Twoja po krańcach ziemi; sprawiedliwość napełniła prawicę Twoją.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "jak imię Twoje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "chwała Twoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "krańcach"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napeniła"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "prawicę Twoją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:35.262203507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Zaprawdę, Elohim usłyszał, nadstawił ucha na głos mojej modlitwy.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "nadstawił ucha"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na głos"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojej modlitwy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:42.586376855Z",
+  "model": "glm-5.3"
+}

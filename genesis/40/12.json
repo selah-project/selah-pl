@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I rzekł mu Jósef: To ⟨jest⟩ jego wykład: trzy pędy — trzy dni ⟨są⟩ one.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "jego wykład"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "pędy"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "הם",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:16.050421101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I opuścili ⟨את⟩ dom Jahwe, Elohim ich ojców, i służyli ⟨את⟩.aszerom oraz ⟨את⟩ posągom; i ⟨stał się⟩ gniew na Jehudę i Jeruszalaim z powodu tej ich winy.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "i opuścili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aszerom"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "aszerom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "posągom"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "posągom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨stał się⟩"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jeruszalaim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "z powodu ich winy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:14.596538645Z",
+  "model": "glm-5.3"
+}

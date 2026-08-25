@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I stało się, gdy usłyszeli ⟨את⟩ Tore, że oddzielili cały mieszany tłum od Israela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "gdy usłyszeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tore"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "że oddzielili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mieszany tłum"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "od Israela"
+    }
+  ],
+  "timestamp": "2026-08-25T02:49:41.605658382Z",
+  "model": "glm-5.3"
+}

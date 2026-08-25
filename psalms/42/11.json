@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Jak rzeźnią w kościach moich hańbili mnie przeciwnicy moi, mówiąc do mnie przez cały dzień: Gdzie jest Elohim twój?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "jak rzeźnią"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "w kościach moich"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hańbili mnie"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "przeciwnicy moi"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:49.326080464Z",
+  "model": "glm-5.3"
+}

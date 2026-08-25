@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ sowę białą, i ⟨את⟩ pelikana, i ⟨את⟩ sępa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sowę białą"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "sowa biała"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pelikana"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "pelikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sępa"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "sęp"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:47.398356194Z",
+  "model": "glm-5.3"
+}

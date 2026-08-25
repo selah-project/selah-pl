@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I zrobił Szlomo ⟨את⟩ wszystkie naczynia, które ⟨są⟩ w domu Elohim, oraz ⟨את⟩ ołtarz złota i ⟨את⟩ stoły, a na nich chleb obecności.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ołtarz złota"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoły"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "stoły"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "a na nich"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "obecności"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:30.380973298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A kto ją je, swoją winę poniesie, gdyż ⟨את⟩ świętość Jahwe zbezcześcił — i wycięta będzie ta nefesz spośród swego ludu.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "a kto ją je"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "swoją winę"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "poniesie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świętość Jahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętość"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "zbezcześcił"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "i wycięta będzie"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta nefesz"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "spośród swego ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.226255781Z",
+  "model": "glm-5.3"
+}

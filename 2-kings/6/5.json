@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I stało się, gdy jeden zrzucał belkę, że ⟨את⟩ żelazo spadło do wody; i zawołał i powiedział: Ach, panie mój! A ono ⟨jest⟩ pożyczone!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "zrzucał"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "belkę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "żelazo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "żelazo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "spadło"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panie mój"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ono"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "pożyczone"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:52.611792405Z",
+  "model": "glm-5.3"
+}

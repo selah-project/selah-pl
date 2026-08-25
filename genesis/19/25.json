@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wywrócił ⟨את⟩ te miasta, i ⟨את⟩ całą równinę, i ⟨את⟩ wszystkich mieszkańców miast, oraz wegetację ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "i wywrócił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te miasta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "te miasta"
+    },
+    {
+      "surface": "האל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całą równinę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "równinę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkich mieszkańców miast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miast"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "oraz wegetację"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:44.139858057Z",
+  "model": "glm-5.3"
+}

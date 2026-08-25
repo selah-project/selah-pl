@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł do swojego ludu: Oto lud synów Iszraela jest liczny i mocniejszy od nas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swojego ludu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liczny"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "i mocniejszy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:16.595357054Z",
+  "model": "glm-5.3"
+}

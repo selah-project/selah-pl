@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Jedynie przez los zostanie podzielona ⟨את⟩ ziemia; według imion pokoleń ich ojców odziedziczą.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jedynie"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "przez los"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "zostanie podzielona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "według imion"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "odziedziczą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:35.725225988Z",
+  "model": "glm-5.3"
+}

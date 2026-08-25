@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "W ustach głupca ⟨jest⟩ rózga pychy, a wargi mądrych ich strzegą.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "W ustach"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "różga"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pychy"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "a wargi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mądrych"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "ich strzegą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:53.371274504Z",
+  "model": "glm-5.3"
+}

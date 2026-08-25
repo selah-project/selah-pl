@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I rzekł im Jaakow: Bracia moi, skąd ⟨jesteście⟩? I powiedzieli: Z Charan my ⟨jesteśmy⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bracia moi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "z Charan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:54.532539052Z",
+  "model": "glm-5.3"
+}

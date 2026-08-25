@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Owce i woły, wszystkie, a także zwierzęta polne.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "owce"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "i woły"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "zwierzęta"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polne"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:58.182863332Z",
+  "model": "glm-5.3"
+}

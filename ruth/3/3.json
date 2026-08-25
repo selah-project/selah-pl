@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Umyj się więc i namaść, i włóż szatę swoją na siebie, i zejdź na klepisko — nie daj się poznać mężowi, aż skończy jeść i pić.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "umyj się"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "i namaść"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i włóż"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "szatę swoją"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na siebie"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "i zejdź"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "na klepisko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "daj się poznać"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mężowi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "skończy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jeść"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "i pić"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:16.266524469Z",
+  "model": "glm-5.3"
+}

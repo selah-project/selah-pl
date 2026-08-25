@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Bójcie się ⟨את⟩ Jahwe, święci Jego, bo nie ma braku tym, którzy się Go boją.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Bójcie się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "święci Jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "braku"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tym, którzy się Go boją"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:46.222501928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A wszyscy książęta prowincji, i satrapowie, i namiestnicy, i wykonawcy spraw królewskich wznosili ⟨את⟩ Jehudę, bo padł postrach Mordechaja na nich.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a wszyscy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "prowincji"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "i satrapowie"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "i namiestnicy"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "i wykonawcy"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "spraw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królewskich"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "wznosili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padł"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "postrach"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:11.244554457Z",
+  "model": "glm-5.3"
+}

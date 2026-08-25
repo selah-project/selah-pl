@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I zgromadził Mosze ⟨את⟩ całą społeczność synów Jisraela, i powiedział do nich: To ⟨są⟩ słowa, które Jahwe nakazał wykonać ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i zgromadził"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą społeczność synów Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "społeczność"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "wykonać"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:04.220707312Z",
+  "model": "glm-5.3"
+}

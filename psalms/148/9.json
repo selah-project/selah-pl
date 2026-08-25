@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Góry i wszystkie pagórki, drzewa owocowe i wszystkie cedry",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pagórki"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owocowe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedry"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.106175050Z",
+  "model": "glm-5.3"
+}

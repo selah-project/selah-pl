@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Czy na wieki odrzuci Adonai, i nie będzie już łaskawy na zawsze?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Czy na wieki"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "odrzuci"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "będzie jeszcze"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "łaskawy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:16.630380641Z",
+  "model": "glm-5.3"
+}

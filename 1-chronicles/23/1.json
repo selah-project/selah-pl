@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Dawid zaś postarzał się i nasycił dnami, i wprowadził na tron ⟨את⟩ Szelomo, syna swego, nad Israelem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid zaś"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "postarzał się"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i nasycił"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnami"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wprowadził na tron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna swego"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:59.745182412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wzniósł ołtarz Baalowi w świątyni ⟨ה⟩ Baala, którą zbudował w Szomronie.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wzniósł"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalowi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w świątyni"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomronie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:01.264310234Z",
+  "model": "glm-5.3"
+}

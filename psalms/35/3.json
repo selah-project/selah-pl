@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I wyciągnij włócznię, i zasłoń ⟨naprzeciw⟩ moim prześladowcom; powiedz mojej nefesz: „Twoim zbawieniem jestem ja”.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "i wyciągnij"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "włócznię"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "i zasłoń"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨naprzeciw⟩"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "moim prześladowcom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "Twoim zbawieniem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem ja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.199450595Z",
+  "model": "glm-5.3"
+}

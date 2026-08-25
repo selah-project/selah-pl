@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Adonai, wargi moje otworzysz, a usta moje oznajmią Twoją chwałę.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wargi moje"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otworzysz"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "a usta moje"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznajmią"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Twoją chwałę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:40.511545979Z",
+  "model": "glm-5.3"
+}

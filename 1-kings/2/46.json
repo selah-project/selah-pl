@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rozkazał król ⟨את⟩ Benajahu, syna Jehojady; i wyszedł, i uderzył go, i umarł; a królestwo było nienaruszone w ręku Szlomo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojady"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "a królestwo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "było nienaruszone"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w ręku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:00.954937307Z",
+  "model": "glm-5.3"
+}

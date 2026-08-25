@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I aby uczyć ⟨את⟩ synów Jisraela — ⟨את⟩ wszystkie ustawy, które Jahwe powiedział do nich ręką Mosze.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "i aby uczyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie ustawy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustawy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:31.310974459Z",
+  "model": "glm-5.3"
+}

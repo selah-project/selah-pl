@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "W trudzie śmiertelników ich nie ma, i z ludźmi nie są dotykani ⟨cierpieniem⟩.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "w trudzie"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelników"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ich nie ma"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i z"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ludźmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "są dotykani"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:04.788531177Z",
+  "model": "glm-5.3"
+}

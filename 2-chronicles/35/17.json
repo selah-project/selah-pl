@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I uczynili synowie Jisraela, którzy się znaleźli, ⟨את⟩ pesach w owym czasie, oraz ⟨את⟩ święto macy — siedem dni.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "którzy się znaleźli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "święto macy"
+    },
+    {
+      "surface": "חג",
+      "gloss": "święto"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "macy"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:11:52.830825530Z",
+  "model": "glm-5.3"
+}

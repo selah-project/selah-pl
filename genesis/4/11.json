@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A teraz przeklęty ⟨ty⟩ od ⟨tej⟩ ziemi, która otworzyła ⟨את⟩ swoje usta, by przyjąć ⟨את⟩ krew twego brata z twojej ręki.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "przeklęty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ty⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨tej⟩ ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "otworzyła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje usta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "swoje usta"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "by przyjąć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew twego brata"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krew"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twego brata"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z twojej ręki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:23.657220486Z",
+  "model": "glm-5.3"
+}

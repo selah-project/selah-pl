@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I rzekł Jehuda do swoich braci: Jaki zysk, jeśli zabijemy ⟨את⟩ naszego brata i zakryjemy ⟨את⟩ jego krew?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoich braci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaki"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "zysk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "zabijemy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naszego brata"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "naszego brata"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "i zakryjemy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego krew"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:13.512596418Z",
+  "model": "glm-5.3"
+}

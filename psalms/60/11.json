@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Kto mnie wprowadzi do miasta warownego? kto mnie poprowadzi aż do Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "wprowadzi mnie"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "warownego"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "poprowadzi mnie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:58.057245085Z",
+  "model": "glm-5.3"
+}

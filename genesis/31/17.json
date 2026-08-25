@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I wstał Jaakow, i posadził ⟨את⟩ swoich synów i ⟨את⟩ swoje żony na wielbłądach",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i posadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoje żony"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "swoje żony"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "wielbłądach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:52.774277643Z",
+  "model": "glm-5.3"
+}

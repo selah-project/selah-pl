@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "⟨את⟩ stół, ⟨את⟩ wszystkie jego naczynia oraz ⟨את⟩ chleb oblicza.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie jego naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "chleb oblicza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "oblicza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:19.926259037Z",
+  "model": "glm-5.3"
+}

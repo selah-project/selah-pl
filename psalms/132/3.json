@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Jeśli wejdę do namiotu domu mego, jeśli wstąpię na łoże posłania mego —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "wejdę"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "do namiotu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "domu mego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "wstąpię"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "łoże"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "posłania mego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:18.943628485Z",
+  "model": "glm-5.3"
+}

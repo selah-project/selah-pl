@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Ten, który belkuje w wodach swoje górne komnaty, który czyni obłoki swym rydwanem, który kroczy po skrzydłach wichru.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "który belkuje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodach"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "swoje górne komnaty"
+    },
+    {
+      "surface": "השם",
+      "gloss": "który czyni"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "obłoki"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "swym rydwanem"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "który kroczy"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "skrzydłach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wichru"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:14.085800397Z",
+  "model": "glm-5.3"
+}

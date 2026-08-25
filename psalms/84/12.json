@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Bo słońcem i tarczą ⟨jest⟩ Jahwe Elohim; łaskę i chwałę da Jahwe, nie wstrzyma dobra tym, którzy idą w nieskalności.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "i tarczą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaskę"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "i chwałę"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "wstrzyma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "tym, którzy idą"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "w nieskalności"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:36.701550281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A teraz odsłonię ⟨את⟩ haniebność jej przed oczami kochanków jej, i żaden mąż nie wyrwie jej z ręki mojej.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "odsłonię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haniebność jej"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "haniebność jej"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "przed oczami"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "kochanków jej"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i żaden mąż"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "wyrwie jej"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z ręki mojej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:00.638135248Z",
+  "model": "glm-5.3"
+}

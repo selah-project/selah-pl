@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I było tak: nadzorca zabierał ⟨את⟩ ich przysmaki oraz wino ich napoju, i dawał im warzywa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i było"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "nadzorca"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zabierał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich przysmaki"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ich przysmaki"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "oraz wino"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ich napoju"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dawał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "warzywa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:56.575072049Z",
+  "model": "glm-5.3"
+}

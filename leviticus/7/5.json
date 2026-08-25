@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I spali ⟨את⟩ je kapłan na ołtarzu jako ofiarę ogniową dla Jahwe; ⟨to⟩ ofiara winna ⟨jest⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "⟨את⟩ — tłuszcz i nerki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na ołtarzu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofiara ogniowa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ofiara winna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to (jest)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:35.748854835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I spierał się lud z Moszem, i powiedzieli: Dajcie nam wody, żebyśmy pili. I powiedział im Mosze: Czemu się ze mną spieracie? Czemu doświadczacie ⟨את⟩ Jahwe?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "i spierał się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszem"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "żebyśmy pili"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "spieracie się"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "doświadczacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:38.356340006Z",
+  "model": "glm-5.3"
+}

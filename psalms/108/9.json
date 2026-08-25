@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Mój ⟨jest⟩ Gilad, mój ⟨jest⟩ Menasze, i Efraim to warownia mojej głowy, Jehuda moim prawodawcą.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mój"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mój"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "i Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "warownia"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mojej głowy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "moim prawodawcą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:20.287607727Z",
+  "model": "glm-5.3"
+}

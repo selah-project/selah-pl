@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I upokorzył cię, i dozwolił ci głodować, i nakarmił cię ⟨את⟩ man, którego nie znałeś ani nie znali twoi ojcowie, aby cię pouczyć, że nie samym chlebem żyje człowiek, lecz wszystkim, co wychodzi z ust Jahwe, żyje człowiek.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "I upokorzył cię"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "i dozwolił ci głodować"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "i nakarmił cię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znałeś"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "znali"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "twoi ojcowie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "cię pouczyć"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chlebie"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samym"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "żyje"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "co wychodzi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "z ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "żyje"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:44.385567329Z",
+  "model": "glm-5.3"
+}

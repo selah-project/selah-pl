@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł król: Przynieście mi miecz. I przynieśli ⟨ה⟩ miecz przed obliczem króla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Przynieście"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "I przynieśli"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T04:12:44.333771984Z",
+  "model": "glm-5.3"
+}

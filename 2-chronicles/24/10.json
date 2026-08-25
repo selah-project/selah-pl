@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I radowali się wszyscy książęta i cały lud, i przynosili, i wrzucali do skrzyni, aż do wyczerpania.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "i radowali się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i przynosili"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "i wrzucali"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "do skrzyni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "do wyczerpania"
+    }
+  ],
+  "timestamp": "2026-08-25T03:07:44.606274294Z",
+  "model": "glm-5.3"
+}

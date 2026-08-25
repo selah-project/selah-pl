@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Elohim, w swoim imieniu wybaw mnie, i w swojej mocy ⟨mnie⟩ rozsądzaj!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "w swoim imieniu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "wybaw mnie"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "i w swojej mocy"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "rozsądzaj mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:15.974615312Z",
+  "model": "glm-5.3"
+}

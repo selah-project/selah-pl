@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "jedien kozioł z kóz na ofiarę za grzech.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "kozioł"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "z kóz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "na ofiarę za grzech"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:24.270380844Z",
+  "model": "glm-5.3"
+}

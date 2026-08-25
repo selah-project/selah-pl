@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Weselcie się z Jeruszalaim i radujcie w niej wszyscy, którzy ją kochają; rozkwitajcie z nią radością, wszyscy którzy ją opłakują.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Weselcie się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "i radujcie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "którzy ją kochają"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "rozkwitajcie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "radością"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "którzy opłakują"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ją"
+    }
+  ],
+  "timestamp": "2026-08-25T00:39:56.849160507Z",
+  "model": "glm-5.3"
+}

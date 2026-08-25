@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Ślubujcie i wypełnijcie Jahwe, waszemu Elohim, wszyscy wokół Niego; niech przyprowadzą dary Temu, którego bać się należy.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Ślubujcie"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "i wypełnijcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "waszemu Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "wokół Niego"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "niech przyprowadzą"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dary"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "Temu, którego bać się należy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:49.978976161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I oczyści ⟨את⟩ dom krwią ptaka, i wodą żywą, i ptakiem żywym, i drewnem cedrowym, i hizopem, i szkarłatem.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "i oczyści"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "krwią"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptaka"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i wodą"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żywą"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "i ptakiem"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "żywym"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "i drewnem"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "cedrowym"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "i hizopem"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "i szkarłatem"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "czerwcowym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:29.962931629Z",
+  "model": "glm-5.3"
+}

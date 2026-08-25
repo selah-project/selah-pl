@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Niech powie teraz dom Ahrona: bo na wieki ⟨trwa⟩ jego chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Niech powie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:11.123250152Z",
+  "model": "glm-5.3"
+}

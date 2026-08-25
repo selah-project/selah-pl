@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uderzył grad w całej ziemi Micrajim ⟨את⟩ wszystko, co ⟨było⟩ na polu, od człowieka aż do bydła; i ⟨את⟩ wszelką trawę pola zbił grad, i ⟨את⟩ wszelkie drzewo pola połamał.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co było na polu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od człowieka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszelką trawę pola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelką"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zbił"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszelkie drzewo pola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "połamał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:03.605990888Z",
+  "model": "glm-5.3"
+}

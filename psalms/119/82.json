@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wyczerpały się moje oczy dla twego powiedzenia, gdy mówię: kiedy mnie pocieszysz?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "wyczerpały się"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "dla twego powiedzenia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gdy mówię"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kiedy"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mnie pocieszysz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:30.494475544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Idź i powiedz Chizkijahu: Tak mówi Jahwe, Elohim Dawida, ojca twego: Usłyszałem ⟨את⟩ modlitwę twoją, zobaczyłem ⟨את⟩ łzy twoje; oto Ja dodam do dni twoich piętnaście lat.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Idź"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiedz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojca twego"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modlitwę twoją"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "modlitwę twoją"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "zobaczyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "łzy twoje"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "łzy twoje"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "dodam"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dni twoich"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "piętna-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:06.758169049Z",
+  "model": "glm-5.3"
+}

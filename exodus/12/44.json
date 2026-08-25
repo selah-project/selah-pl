@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A każdy niewolnik, człowiek kupiony za srebro, i obrzezałeś ⟨את⟩ niego, wtedy będzie jadł z niego.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a każdy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "niewolnik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "kupiony"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "i obrzezałeś"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jadł"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:06.006666107Z",
+  "model": "glm-5.3"
+}

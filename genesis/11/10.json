@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "To są dzieje Sema: Sem był synem stu lat i zrodził ⟨את⟩ Arpakszada, dwa lata po potopie.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dzieje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "stu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakszada"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakszada"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dwa lata"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:41:20.960943117Z",
+  "model": "glm-5.3"
+}

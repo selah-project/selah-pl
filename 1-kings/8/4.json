@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wnieśli ⟨את⟩ arkę Jahwe oraz ⟨את⟩ namiot spotkania, i ⟨את⟩ wszystkie przybory świętości, które ⟨są⟩ w namiocie — wnieśli ⟨את⟩ je kapłani i lewici.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "I wnieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "namiot spotkania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie przybory świętości"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "przybory"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w namiocie"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wnieśli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i lewici"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:57.003102692Z",
+  "model": "glm-5.3"
+}

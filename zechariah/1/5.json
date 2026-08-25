@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wasi ojcowie — gdzie ⟨są⟩? A prorocy — czy na wieczność żyją?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "wasz ojcowie"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "a prorocy"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "czy na wieczność"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "żyją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:40:02.138142003Z",
+  "model": "glm-5.3"
+}

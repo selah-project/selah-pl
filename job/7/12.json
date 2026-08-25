@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Czy ja ⟨jestem⟩ morze, czy potwór morski, że wystawiasz nade mną straż?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "potwór morski"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "wystawiasz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "straż"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:48.536433685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Jahwe-Cewaot ⟨jest⟩ z nami; warownią naszą ⟨jest⟩ Elohim Jaakowa. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cewaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "warownią"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naszą"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:13.269063844Z",
+  "model": "glm-5.3"
+}

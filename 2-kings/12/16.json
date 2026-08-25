@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I nie rozliczano ⟨את⟩ mężów, którym wydawano ⟨את⟩ srepresso — ⟨את⟩ srebro do ręki, aby oddać wykonawcom roboty, bo w wierności oni działali.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "rozliczano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "wydawano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ręki"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby oddać"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "wykonawcom"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "roboty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "w wierności"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "działali"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:10.067161537Z",
+  "model": "glm-5.3"
+}

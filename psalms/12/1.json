@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Kierownikowi chóru, na ⟨szeminit⟩; psalam Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "⟨szeminit⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:18.470157471Z",
+  "model": "glm-5.3"
+}

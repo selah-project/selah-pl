@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I Adam poznał ponownie ⟨את⟩ swoją żonę, a ta urodziła syna i nazwała ⟨את⟩ jego imię Szet, gdyż „wzbudził mi Elohim inne potomstwo zamiast Hewela, bo zabił go Kain”.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ponownie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją żonę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swoją żonę"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a ta urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego imię"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Szet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "שת",
+      "gloss": "wzbudził"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstwo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "inne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hewela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabił go"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:00.491532922Z",
+  "model": "glm-5.3"
+}

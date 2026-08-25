@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Bo góry ustąpią i pagórki się zachwieją, a moje chesed od ⟨את⟩ ciebie nie ustąpi i moje przymierze pokoju nie zachwieje się — mówi ten, kto cię miłuje, Jahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "ustąpią"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "i pagórki"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "zachwieją się"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "a moje chesed"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ ciebie",
+      "marks": "od ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ustąpi"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "i przymierze"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mojego pokoju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zachwieje się"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "któj cię miłuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:01.606570576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A resztę ludu oddał w rękę Abiszajowi, bratu swojemu, i ten ustawił się w szyku przeciw synom Ammonu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "resztę ludu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oddał"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abiszajowi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratu swojemu"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "i ustawił się w szyku"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "przeciwnko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:48.901552255Z",
+  "model": "glm-5.3"
+}

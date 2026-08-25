@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Znalazłem Dawida, sługę mego; świętym olejem moim namaściłem go.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Znalazłem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sługę mego"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "świętym moim"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "namaściłem go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:00.301009105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Oto dni nadchodzą — wyrocznia Jahwe — i zasieję dom Iszraela i ⟨את⟩ dom Jehudy nasieniem człowieka i nasieniem bydła.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nadchodzą"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "i zasieję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jehudy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jehudy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nasieniem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "i nasieniem"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    }
+  ],
+  "timestamp": "2026-08-25T00:54:32.737754019Z",
+  "model": "glm-5.3"
+}

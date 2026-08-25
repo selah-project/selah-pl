@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Odbiegli bezbożni od łona, zbłąkali od żywota, mówcy kłamstwa.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "odbiegli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "od łona"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "zbłąkali"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od żywota"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mówcy"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:53.538416030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wzięliśmy w tym czasie ⟨את⟩ ziemię z ręki dwóch królów Emorytów, którzy ⟨byli⟩ za Jordanem, od potoku Arnon aż po górę Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "i wzięliśmy"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanem"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "od potoku"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:20.897141496Z",
+  "model": "glm-5.3"
+}

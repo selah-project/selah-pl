@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "A Szaul i oni, i wszelki mąż Jisraela ⟨byli⟩ w dolinie Ela, walcząc z Pelisztami.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "a Szaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszelki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "w dolinie"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "walcząc"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:15.373132037Z",
+  "model": "glm-5.3"
+}

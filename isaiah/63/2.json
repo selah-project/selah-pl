@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Dlaczego ⟨jest⟩ czerwone twoje ubranie, a twoje szaty jak ⟨u tego, który⟩ tłoczy w tłoczni?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "czerwone"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "twoje ubranie"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "a twoje szaty"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "jak ⟨ten, który⟩ tłoczy"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "w tłoczni"
+    }
+  ],
+  "timestamp": "2026-08-25T00:38:31.528562961Z",
+  "model": "glm-5.3"
+}

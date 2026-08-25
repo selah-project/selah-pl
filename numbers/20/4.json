@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I czemu sprowadziliście ⟨את⟩ zgromadzenie Jahwe na tę pustynię, aby umrzeć tam my i nasze bydło?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i czemu"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "sprowadziliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zgromadzenie Jahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "tę pustynię"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "למות",
+      "gloss": "aby umrzeć"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "i nasze bydło"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:44.914209097Z",
+  "model": "glm-5.3"
+}

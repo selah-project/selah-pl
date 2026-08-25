@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł do niej Eli: jak długo będziesz się upijać? Usuń ⟨את⟩ swoje wino od siebie!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jak"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "długo"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "będziesz się upijać"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "usuń"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje wino"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "swoje wino"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "od siebie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:22.816783599Z",
+  "model": "glm-5.3"
+}

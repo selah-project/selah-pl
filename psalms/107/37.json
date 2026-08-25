@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I zasiali pola, i nasadzili winnice, i uczyniły owoc plonu.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "i zasiali"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "pola"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "i nasadzili"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "winnice"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczyniły"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "plonu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:10.644043686Z",
+  "model": "glm-5.3"
+}

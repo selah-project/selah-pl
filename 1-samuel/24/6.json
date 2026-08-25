@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I stało się po tym, i uderzyło serce Dawida ⟨את⟩ go, że wyciął ⟨את⟩ skraj, który był Saula.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tym"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzyło"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "על",
+      "gloss": "że"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wyciął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skraj"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skraj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "był Saula"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:12.356107591Z",
+  "model": "glm-5.3"
+}

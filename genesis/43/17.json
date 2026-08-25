@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I uczynił ⟨mężczyzna⟩ tak, jak powiedział Josef, i wprowadził ⟨mężczyzna⟩ ⟨את⟩ mężczyzn do domu Józefa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨mężczyzna⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wprowadził"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨mężczyzna⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężczyzn"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężczyzn"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    }
+  ],
+  "timestamp": "2026-08-25T04:05:08.412676605Z",
+  "model": "glm-5.3"
+}

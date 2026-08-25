@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I rzekł: nie możesz zobaczyć ⟨את⟩ mojego oblicza, gdyż nie zobaczy mnie człowiek i będzie żył.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "możesz"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "zobaczyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojego oblicza"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojego oblicza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "zobaczy mnie"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i będzie żył"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:13.015299180Z",
+  "model": "glm-5.3"
+}

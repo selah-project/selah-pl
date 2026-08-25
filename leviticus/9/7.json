@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł Mosze do Aharona: Przybliż się do ołtarza i czyń ⟨את⟩ swoją ofiarę za grzech oraz ⟨את⟩ swoją ofiarę całopalną, i dokonaj przebłagania za siebie i za lud, i czyń ⟨את⟩ ofiarę ludu, i dokonaj przebłagania za nich, jak przykazał Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "przybliż się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i czyń"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ofiarę za grzech"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "swoją ofiarę za grzech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "swoją ofiarę całopalną"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "swoją ofiarę całopalną"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokonaj przebłagania"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "za siebie"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i czyń"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiarę ludu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ofiarę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokonaj przebłagania"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "za nich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:44.017770919Z",
+  "model": "glm-5.3"
+}

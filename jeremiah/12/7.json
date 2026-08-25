@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Opuszczam ⟨את⟩ dom mój, porzucam ⟨את⟩ dziedzictwo moje, oddaję ⟨את⟩ ukochaną duszy mojej w dłoń nieprzyjaciół jej.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Opuszczam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom mój"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "dom mój"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "porzucam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziedzictwo moje"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "dziedzictwo moje"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "oddaję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukochaną duszy mojej"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "ukochaną"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszy mojej"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "w dłoń"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "nieprzyjaciół jej"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:58.928276957Z",
+  "model": "glm-5.3"
+}

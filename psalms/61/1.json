@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 61,
+  "translation": "Przewodnikowi, przy muzyce strunowej, Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "muzyce strunowej"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:06.550563166Z",
+  "model": "glm-5.3"
+}

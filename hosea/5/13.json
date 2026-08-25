@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I ujrzał Efraim ⟨את⟩ swoją chorobę, a Jehuda ⟨את⟩ swój wrzód; i poszedł Efraim do Aszszura, i posłał do króla Jareba, a on nie zdoła was uleczyć ani usunąć od was wrzodu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją chorobę"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "swoją chorobę"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój wrzód"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "swój wrzód"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jareba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "uleczyć"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "was"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "usunąć"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od was"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "wrzód"
+    }
+  ],
+  "timestamp": "2026-08-25T01:29:37.005194606Z",
+  "model": "glm-5.3"
+}

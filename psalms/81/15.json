@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Wnet wrogów ich ugniotłbym i na przeciwników ich obróciłbym rękę moją.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "wnet"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "wrogów ich"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ugniotłbym"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "przeciwników ich"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "obróciłbym"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rękę moją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:38.902271104Z",
+  "model": "glm-5.3"
+}

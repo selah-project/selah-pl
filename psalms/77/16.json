@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Wykupiłeś ramieniem lud Twój, synów Jaakowa i Józefa. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Wykupiłeś"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ramieniem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lud Twój"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "i Józefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:23.037848286Z",
+  "model": "glm-5.3"
+}

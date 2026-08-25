@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Lecz w Torze Jahwe ⟨jest⟩ jego upodobanie i o Torze Jego rozmyśla we dnie i w nocy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "w Torze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "jego upodobanie"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "i o Torze Jego"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "rozmyśla"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "we dnie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i w nocy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:05.653901927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I rzucili każdy swoją laskę, i stały się taninim; i połknęła laska Ahrona ⟨את⟩ ich laski.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "i rzucili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "swoją laskę"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i stały się"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninim"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "i połknęła"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "laska"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich laski"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ich laski"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:41.890454201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Na pastwiskach świeżej trawy kładzie mnie ⟨na⟩ odpoczynek, nad wodami spokoju prowadzi mnie.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "na pastwiskach"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "świeżej trawy"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "położy mnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "spokoju"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "prowadzi mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:04.587130735Z",
+  "model": "glm-5.3"
+}

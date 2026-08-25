@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Zaszumią, wzburzą się wody jego, zadrżą góry w pysze jego. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Zaszumią"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "wzburzą się"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "wody jego"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "zadrżą"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "w pysze jego"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:15.073940709Z",
+  "model": "glm-5.3"
+}

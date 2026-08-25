@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I stało się słowo Jahwe do Jonasz drugi raz, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonasza"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi raz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:39.787624906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I Mosze i Aharon uczynili ⟨את⟩ wszystkie te znaki przed Parohem, i Jahwe umocnił ⟨את⟩ serce Paroha, i nie wypuścił ⟨את⟩ synów Jisraela ze swej ziemi.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "i Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te znaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "znaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohem"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "i umocnił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce Paroha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wypuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze swej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:32.478136011Z",
+  "model": "glm-5.3"
+}

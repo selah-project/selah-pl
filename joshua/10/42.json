@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Oraz ⟨את⟩ wszystkich tych królów i ⟨את⟩ ich ziemie pojmał Jehoszua za jednym razem, bo Jahwe, Elohim Iszraela, walczył dla Iszraela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich tych królów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich ziemie"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ich ziemie"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "pojmał"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "razem"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczył"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Iszraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:47.087310582Z",
+  "model": "glm-5.3"
+}

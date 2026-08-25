@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Gdy będziesz obijać twoją oliwkę, nie przeglądasz za sobą (gałęzi): dla cudzoziemca, dla sieroty i dla wdowy będzie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "będziesz obijać"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "twoją oliwkę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "przeglądasz \/ wyposażasz"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za sobą"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "dla cudzoziemca"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "dla sieroty"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "i dla wdowy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:29.668896490Z",
+  "model": "glm-5.3"
+}

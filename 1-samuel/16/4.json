@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I uczynił Szmuel ⟨את⟩ to, co powiedział Jahwe, i przyszedł do Betlechem. I zadrżeli starsi miasta na jego spotkanie, i rzekł: Pokój — twoje przyjście.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co powiedział Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "i zadrżeli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "na jego spotkanie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Pokój"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "twoje przyjście"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:33.247902568Z",
+  "model": "glm-5.3"
+}

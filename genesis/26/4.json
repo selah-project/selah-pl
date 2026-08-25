@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rozmnożę ⟨את⟩ twoje potomstwo jak gwiazdy nieba, i dam twemu potomstwu ⟨את⟩ wszystkie te kraje, i będą się błogosławić w twoim potomstwie wszystkie narody ziemi.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "i rozmnożę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje potomstwo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "twoje potomstwo"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "jak gwiazdy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nieba"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "twemu potomstwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te kraje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "kraje"
+    },
+    {
+      "surface": "האל",
+      "gloss": "te"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "i będą się błogosławić"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "w twoim potomstwie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "narody"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:40.565999145Z",
+  "model": "glm-5.3"
+}

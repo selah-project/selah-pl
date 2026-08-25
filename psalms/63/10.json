@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "A oni ku zagładzie szukają mojej nefesz — wejdą w głębiny ziemi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ku zagładzie"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "szukają"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wejdą"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "w głębiny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:54.960914371Z",
+  "model": "glm-5.3"
+}

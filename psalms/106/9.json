@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I zganił Morze Suf, i wyschło, i poprowadził ich w głębinach jak na pustyni.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "i zganił"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Morze"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "i wyschło"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "i poprowadził ich"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "w głębinach"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "jak na pustyni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:41.686395404Z",
+  "model": "glm-5.3"
+}

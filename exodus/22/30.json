@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I ludzie świętości będziecie Mi ⟨należeć⟩, a mięso rozszarpane na polu nie będziecie jedli — psu je ⟩odrzucicie⟨⟨את⟩niego.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "I ludzie"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "będziecie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a mięso"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "rozszarpane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jedli"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "psu"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "odrzucicie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego (mięso)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:58.114456343Z",
+  "model": "glm-5.3"
+}

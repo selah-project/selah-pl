@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Wyrok występu ⟨mówi⟩ do bezbożnego w środku serca mego: nie ma trwogi przed Elohim przed oczami jego.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Wyrok"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "występu"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "do bezbożnego"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serca mego"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "trwogi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oczami jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:38.588083926Z",
+  "model": "glm-5.3"
+}

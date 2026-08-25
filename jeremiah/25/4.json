@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I posłał Jahwe do was ⟨את⟩ wszystkich swoich sług, proroków, wstając wcześnie i posyłając — ale nie słuchaliście i nie nachyliliście ⟨את⟩ swojego ucha, aby słuchać.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "I posłał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich swoich sług, proroków"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sług"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "wstając wcześnie"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i posyłając"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "słuchaliście"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "nachyliliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego ucha"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "swojego ucha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "aby słuchać"
+    }
+  ],
+  "timestamp": "2026-08-25T00:52:13.381483449Z",
+  "model": "glm-5.3"
+}

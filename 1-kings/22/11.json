@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I zrobił sobie Cidkijahu, syn Kenany, rogi z żelaza, i rzekł: Tak rzekł Jahwe: Tymi będziesz bodł ⟨את⟩ Aram, aż ich skończysz.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenany"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "rogi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "z żelaza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "tymi"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "będziesz bodł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "ich skończysz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:12.072685361Z",
+  "model": "glm-5.3"
+}

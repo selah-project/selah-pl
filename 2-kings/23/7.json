@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zburzył ⟨את⟩ domy kedeszów, które ⟨były⟩ w domu Jahwe, gdzie kobiety tkały tam tkaniny ⟨dla⟩ Aszery.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "i zburzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domy kedeszów"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kedeszów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "tkały"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "tkaniny"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "dla Aszery"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:46.212260263Z",
+  "model": "glm-5.3"
+}

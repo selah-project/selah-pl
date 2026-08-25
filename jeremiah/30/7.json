@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Biada! Bo wielki ⟨jest⟩ dzień ów, nie ⟨ma⟩ jemu równego; i ⟨to⟩ czas uciśnienia ⟨jest⟩ dla Jaakowa, ale z niego będzie wybawiony.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ów"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nie ⟨ma⟩"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jemu równego"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i czas"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "uciśnienia"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dla Jaakowa"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "ale z niego"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "będzie wybawiony"
+    }
+  ],
+  "timestamp": "2026-08-25T00:55:03.969772547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Będziecie służyć ⟨את⟩ Jahwe, Elohim waszemu, i pobłogosławi ⟨את⟩ twój chleb i ⟨את⟩ twoją wodę, a Ja usunę chorobę z twojego wnętrza.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "będziecie służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "i pobłogosławi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twój chleb"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "twój chleb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "twoją wodę"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "twoją wodę"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "a usunę"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "chorobę"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "z twojego wnętrza"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:12.168753877Z",
+  "model": "glm-5.3"
+}

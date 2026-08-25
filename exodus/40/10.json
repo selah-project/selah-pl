@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I namaścisz ⟨את⟩ ołtarz całopalenia i ⟨את⟩ wszystkie jego naczynia, i poświęcisz ⟨את⟩ ołtarz, i będzie ołtarz świętością świętości ⟨najświętszy⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i poświęcisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętością"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "świętości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:28.619606331Z",
+  "model": "glm-5.3"
+}

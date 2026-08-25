@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I wyszli mężowie ⟨את⟩ miasta, i walczyli z Joabem; i polegli z ludu, spośród sług Dawida — i umarł także Uriasz Chetyta.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨את⟩ miasta"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Joabem"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i polegli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "spośród sług"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriasz"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetyta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:11.052970194Z",
+  "model": "glm-5.3"
+}

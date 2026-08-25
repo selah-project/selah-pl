@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wracały wody znad ziemi, idąc i wracając, i ubywało wód po końcu pięćdziesięciu i stu dni.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "i wracały"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "znad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "idąc"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "i wracając"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "i ubywało"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "po końcu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesięciu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i stu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:02.644884394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I mówił Mosze do synów Jisraela: według wszystkiego, co Jahwe przykazał ⟨את⟩ Mosze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:33.199778148Z",
+  "model": "glm-5.3"
+}

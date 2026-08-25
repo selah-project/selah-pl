@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "oraz ⟨את⟩ sówkę, i ⟨את⟩ kormorana, i ⟨את⟩ sowa wielkiego",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sówkę"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "sówka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kormorana"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sowa wielkiego"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "sów wielki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:47.398138339Z",
+  "model": "glm-5.3"
+}

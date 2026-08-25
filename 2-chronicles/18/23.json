@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 18:23",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I przystąpił Cydkijahu, syn Kenany, i uderzył ⟨את⟩ Micha w policzek, i rzekł: Gdzież ⟨to⟩ ta droga, którą przeszedł duch Jahwe, ⟨od⟩ ⟨mnie⟩, by mówić ⟨z⟩ ⟨tobą⟩?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i przystąpił"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cydkijahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenany"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micha"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micha"
+    },
+    {
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "policzek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אי",
+      "gloss": "gdzież"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ta droga"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przeszedł"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ode mnie"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "by mówić"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:43.048413995Z",
+  "model": "glm-5.3"
+}

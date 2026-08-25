@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli go uciskając uciskać będziesz — ⟨את⟩ niego — bo jeśli zawołając zawoła do mnie, słysząc usłyszę jego okrzyk.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "uciskając"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uciskać będziesz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego (wdowę lub sierotę)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "wołając"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "zawoła"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słysząc"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "usłyszę"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "jego okrzyk"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:09.284141950Z",
+  "model": "glm-5.3"
+}

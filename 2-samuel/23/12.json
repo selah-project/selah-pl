@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I stanął w środku działki i ocalił ją, i pobił ⟨את⟩ Filistynów; i dokonał Jahwe wielkiego wybawienia.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "I stanął"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "działki"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "i ocalił ją"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistynów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i dokonał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "wybawienia"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielkiego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:39.219096676Z",
+  "model": "glm-5.3"
+}

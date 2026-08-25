@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Sprzedajesz swój lud bez bogactwa i nie pomnożyłeś ⟨siebie⟩ przez ich ceny.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Sprzedajesz"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bogactwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "pomnożyłeś"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "przez ich ceny"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:39.000169503Z",
+  "model": "glm-5.3"
+}

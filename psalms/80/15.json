@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Elohim Cywaot, wróć, prosimy, spojrzyj z niebios i zobacz, i nawiedź tę winorośl —",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cywaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosimy"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "spojrzyj"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z niebios"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i zobacz"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "i nawiedź"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "winorośl"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:34.566397998Z",
+  "model": "glm-5.3"
+}

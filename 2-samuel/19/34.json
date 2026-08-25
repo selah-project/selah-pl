@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I rzekł król do Barzillaja: Ty przepraw się ⟨את⟩ ze mną, a ja będę ci utrzymywał ⟨את⟩ ze sobą w Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillaja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przepraw się"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ze mną"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "a ja będę utrzymywał"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ci"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:53:11.324285202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Według liczby, którą sporządzicie, tak sporządzicie ⟨dla⟩ każdego według ich liczby.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "według liczby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sporządzicie"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sporządzicie"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "dla każdego"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "według ich liczby"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:37.507306359Z",
+  "model": "glm-5.3"
+}

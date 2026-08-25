@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wspomniałem w nocy na Twoje imię, Jahwe, i strzegłem Twojej Tory.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Wspomniałem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "i strzegłem"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Twojej Tory"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.537992575Z",
+  "model": "glm-5.3"
+}

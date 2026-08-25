@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I cała ziemia szukała ⟨את⟩ oblicza Szlomo, aby usłyszeć ⟨את⟩ jego mądrość, którą Elohim dał do jego serca.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "szukała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicza Szlomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "aby usłyszeć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego mądrość"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "jego mądrość"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "do jego serca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:29.458209130Z",
+  "model": "glm-5.3"
+}

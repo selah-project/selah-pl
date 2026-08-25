@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Głosem moim do Jahwe wołam, a On mi odpowiada ze swojej świętej góry. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "głosem moim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a On mi odpowiada"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "z góry"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "swojej świętej"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:47.604109842Z",
+  "model": "glm-5.3"
+}

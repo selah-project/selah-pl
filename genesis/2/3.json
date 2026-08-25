@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I pobłogosławił Elohim ⟨את⟩ dzień siódmy, i uświęcił ⟨את⟩ go, bo w nim odpoczął od całej swojej pracy, którą stworzył Elohim, aby wykonać.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "pobłogosławił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień siódmy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmy"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "uświęcił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "dzień siódmy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "odpoczął"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od całej"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "swojej pracy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stworzył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby wykonać"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:20.382774845Z",
+  "model": "glm-5.3"
+}

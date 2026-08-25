@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 9:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uprawiaj dla niego ⟨את⟩ ziemię — ty i twoi synowie, i twoi słudzy — i znosisz plony, i będzie dla syna twego pana chleb, i będzie jadł; a Mefiboszet, syn twego pana, będzie jadł stale chleb przy moim stole. A Ciba miał piętnastu synów i dwudziestu sług.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "i uprawiaj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i twoi synowie"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "i twoi słudzy"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "i znosisz"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "dla syna"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "twego pana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i będzie jadł"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "a Mefiboszet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "twego pana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jadł"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stale"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "moim stole"
+    },
+    {
+      "surface": "ולציבא",
+      "gloss": "a Ciba"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "piętnastu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(na)ście"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dwudziestu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sług"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:28.583998313Z",
+  "model": "glm-5.3"
+}

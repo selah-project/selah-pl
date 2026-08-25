@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zrobisz ⟨את⟩ szatę efodu w całości z tketlet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szatę"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "szatę"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "w całości"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z tketlet"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:40.776865726Z",
+  "model": "glm-5.3"
+}

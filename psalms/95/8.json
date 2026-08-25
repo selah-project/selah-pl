@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Nie czyńcie twardym waszego serca jak przy Meriba, jak w dniu Massa na pustyni,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "czyńcie twardym"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "waszego serca"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "jak przy Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jak w dniu"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:56.779830568Z",
+  "model": "glm-5.3"
+}

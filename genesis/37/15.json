@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I znalazł go pewien mąż, a oto błąkał się na polu; i zapytał go ów mąż, mówiąc: Czego szukasz?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "i znalazł go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pewien mąż"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "błąkał się"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "i zapytał go"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ów mąż"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czego"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "szukasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:37.926156809Z",
+  "model": "glm-5.3"
+}

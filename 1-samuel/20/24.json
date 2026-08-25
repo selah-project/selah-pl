@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I ukrył się Dawid na polu, i nadszedł ⟨nowy⟩ księżyc, i zasiadł król przy posiłku, by jeść.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "i ukrył się"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i nadszedł"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "księżyc"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zasiadł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "posiłku"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "by jeść"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:29.557099076Z",
+  "model": "glm-5.3"
+}

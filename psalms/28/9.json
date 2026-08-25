@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Zbaw ⟨את⟩ swój lud i błogosław ⟨את⟩ swoje dziedzictwo, i pasture ich, i noś ich aż na wieki.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Zbaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój lud"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "i błogosław"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje dziedzictwo"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "swoje dziedzictwo"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "i pasture ich"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "i noś ich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:03.756651816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Usłyszy El i odpowie im, i ⟨Ten, który⟩ zasiada ⟨od⟩ pradawna — Sela — ⟨ci, którzy⟩ nie mają zmian dla siebie, i nie boją się Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Usłyszy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "i odpowie im"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i ⟨Ten, który⟩ zasiada"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "pradawna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ci, którzy⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie mają"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "zmian"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "boją się"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:08.632735703Z",
+  "model": "glm-5.3"
+}

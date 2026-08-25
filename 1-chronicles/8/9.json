@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zrodził z Chodesz, swojej żony, ⟨את⟩ Jobaba i ⟨את⟩ Cibję, i ⟨את⟩ Meszę, i ⟨את⟩ Malkama.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesz"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swojej żony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobaba"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Cibję"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Cibja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Meszę"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Malkama"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:26.791123606Z",
+  "model": "glm-5.3"
+}

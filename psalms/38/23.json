@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Pośpiesz się na pomoc mnie, Adonai, wybawienie moje!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "pośpiesz się"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "na pomoc mnie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "wybawienie moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:17.454492892Z",
+  "model": "glm-5.3"
+}

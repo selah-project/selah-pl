@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Bo przez ciebie jesteśmy zabijani cały dzień, uważani za owce rzeźni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przez ciebie"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "jesteśmy zabijani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "uważani"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "za owce"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "rzeźni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:20.728882944Z",
+  "model": "glm-5.3"
+}

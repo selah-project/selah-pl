@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Nie dozwolił ⟨żadnemu⟩ człowiekowi ich uciskać i upomniał za nich królów.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dozwolił"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ich uciskać"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "i upomniał"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "za nich"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:32.151047463Z",
+  "model": "glm-5.3"
+}

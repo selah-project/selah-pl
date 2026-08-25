@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Elohim mój, w Tobie zaufałem: niech nie będę zawstydzony, niech się nie cieszą wrogowie moi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w Tobie"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "zaufałem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "będę zawstydzony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "będą się cieszyć"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "wrogowie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.481646044Z",
+  "model": "glm-5.3"
+}

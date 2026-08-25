@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Dopóki nie przyszedłem do świątyń El, zrozumiałem ⟨ich⟩ kres ich.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dopóki"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nie przyszedłem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "świątyń"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "zrozumiałem"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ich kres"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:04.057069249Z",
+  "model": "glm-5.3"
+}

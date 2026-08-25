@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Gdyż wy przekaczacie ⟨את⟩ Jordan, aby wejść, by odziedziczyć ⟨את⟩ ziemię, którą Jahwe, wasz Elohim, wam daje; i odziedziczycie ⟨את⟩ ją, i będziecie w niej mieszkać.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "przekaczacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "aby wejść"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "by odziedziczyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "i odziedziczycie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "i będziecie mieszkać"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:43.353696755Z",
+  "model": "glm-5.3"
+}

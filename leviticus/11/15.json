@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "⟨את⟩ każdego kruka według jego rodzaju.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "każdego kruka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kruka"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "według jego rodzaju"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:11.729486351Z",
+  "model": "glm-5.3"
+}

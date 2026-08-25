@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Czy ja poczęłem ⟨את⟩ cały ten lud, czy ja go zrodziłem, że mówisz do mnie: noś go na swojej piersi, jak nosi piastun ⟨את⟩ ssące, na ziemi, którą przysiągłeś jego ojcom?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "czy ja"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "poczęłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały ten lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ten lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "go zrodziłem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mówisz"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "noś go"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "na swojej piersi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nosi"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "piastun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ssące"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "ssące"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "przysiągłeś"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "jego ojcom"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:46.388273227Z",
+  "model": "glm-5.3"
+}

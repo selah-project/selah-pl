@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Dusza, która grzeszy — ta umrze; syn nie poniesie winy ojca, a ojciec nie poniesie winy syna; sprawiedliwość sprawiedliwego będzie na nim, a bezbożność bezbożnego będzie na nim.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "dusza"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "która grzeszy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umrze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "poniesie"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "winy"
+    },
+    {
+      "surface": "האב",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "a ojciec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "poniesie"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "winy"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "a bezbożność"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:16:10.208080523Z",
+  "model": "glm-5.3"
+}

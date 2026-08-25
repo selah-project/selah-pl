@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Wznieście melodię, i dajcie bęben, kinor przyjemny z nevelem.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Wznieście"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "melodię"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "i dajcie"
+    },
+    {
+      "surface": "תף",
+      "gloss": "bęben"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "przyjemny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevelem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:29.674237055Z",
+  "model": "glm-5.3"
+}

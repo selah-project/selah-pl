@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zrobił dwóch kerubów ze złota; robotą kowaną zrobił ⟨את⟩ nich, na dwóch krańcach pokrywy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubów"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze złota"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "robotą kowaną"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nich (kerubów)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na dwóch"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "krańcach"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pokrywy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:03.803289724Z",
+  "model": "glm-5.3"
+}

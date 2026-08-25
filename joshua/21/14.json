@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Oraz ⟨את⟩ Jattir i ⟨את⟩ jego pastwiska, oraz ⟨את⟩ Esztemoa i ⟨את⟩ jej pastwiska.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Oraz ⟨את⟩",
+      "marks": "Jattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jego pastwiska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Esztemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esztemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej pastwiska"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jej pastwiska"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:35.060976319Z",
+  "model": "glm-5.3"
+}

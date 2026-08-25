@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "W swoim sercu ukryłem twe słowo, abym nie zgrzeszył tobie.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "w swoim sercem"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ukryłem"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "twe słowo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "zgrzeszył"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.258404836Z",
+  "model": "glm-5.3"
+}

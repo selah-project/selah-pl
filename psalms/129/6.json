@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "Niech będą jak trawa dachów, którą zanim wyrasta, usycha słońce.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "niech będą"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jak trawa"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "dachów"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "zanim wyrasta"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "wyrwana\/wyprostowana"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "usycha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:04.529871498Z",
+  "model": "glm-5.3"
+}

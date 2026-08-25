@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I niech błądzą, niech błąkają się synowie jego, i niech żebrzą, i niech szukają z ruin ich.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "i niech błąkają się"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "błądzą"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synowie jego"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "i niech żebrzą"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "i niech szukają"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "z ruin ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:30.372706682Z",
+  "model": "glm-5.3"
+}

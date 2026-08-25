@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 19:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I rzekł: Oto teraz, panowie moi, zajrzyjcie teraz do domu sługi waszego, i przenocujecie, i umyjecie nogi wasze, i wstanieszcie rano, i pójdziecie w drogę waszą. A oni rzekli: Nie, lecz na placu przenocujemy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz (proszę)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panowie moi"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "zajrzyjcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "sługi waszego"
+    },
+    {
+      "surface": "ולינו",
+      "gloss": "i przenocujecie"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "i umyjecie"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "nogi wasze"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "i wstaniecie rano"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "i pójdziecie"
+    },
+    {
+      "surface": "לדרככם",
+      "gloss": "w drogę waszą"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rzekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "na placu"
+    },
+    {
+      "surface": "נלין",
+      "gloss": "przenocujemy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:14.762503438Z",
+  "model": "glm-5.3"
+}

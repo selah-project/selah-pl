@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Strzały twoje ostre — ludy pod tobą padną — ⟨w⟩ sercu wrogów króla.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "strzały twoje"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ostre"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pod tobą"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padną"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "⟨w⟩ sercu"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "wrogów"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:24.266493168Z",
+  "model": "glm-5.3"
+}

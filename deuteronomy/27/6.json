@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Kamieniami całymi zbudujesz ⟨את⟩ ołtarz Jahwe, Elohim twojego, i wzniesiesz na nim całopalenia dla Jahwe, Elohim twojego.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "kamieniami"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "całymi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zbudujesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz Jahwe, Elohim twojego"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "wzniesiesz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:17.290486590Z",
+  "model": "glm-5.3"
+}

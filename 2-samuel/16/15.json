@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A Aweszalom i cały lud, mężowie Jisraela, przyszli do Jeruszalaim, i Achitofel ⟨את⟩-niego.",
+  "tokens": [
+    {
+      "surface": "ויבא... ואבשלום",
+      "gloss": "a Aweszalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "i Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-niego",
+      "marks": "niego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:29.577898520Z",
+  "model": "glm-5.3"
+}

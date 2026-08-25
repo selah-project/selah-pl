@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I przyszli do obozu Jisraela, i powstał Jisrael, i pobili ⟨את⟩ Moab, i uciekli przed nimi; a oni weszli w ⟨nią⟩ i pobijali ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "a oni weszli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nią"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "i pobijając"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:44.228810757Z",
+  "model": "glm-5.3"
+}

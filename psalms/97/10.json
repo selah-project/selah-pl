@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Miłujący Jahwe, nienawidźcie zła! ⟨On⟩ strzeże dusz swoich czcicieli, z ręki bezbożnych wyrywa ich.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Miłujący"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nienawidźcie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzeże"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "dusz"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "swoich czcicieli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wyrywa ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:21.791567964Z",
+  "model": "glm-5.3"
+}

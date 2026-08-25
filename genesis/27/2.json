@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I rzekł: Oto teraz zestarzałem się; nie znam dnia śmierci swojej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "zestarzałem się"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "śmierci swojej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:48.710844625Z",
+  "model": "glm-5.3"
+}

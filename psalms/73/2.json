@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "A ja — omal się nie zachwiały moje nogi, kroki moje niemal się rozlały.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "omal"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "zachwiały się"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje nogi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "niemal"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "rozlały się"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kroki moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:46.795740689Z",
+  "model": "glm-5.3"
+}

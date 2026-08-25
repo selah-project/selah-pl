@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Elohimie, nie oddalaj się ode mnie; Elohim mój, pośpiesz mi na pomoc!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "oddalaj się"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "na pomoc mi"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "pośpiesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:17.281889855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 113,
+  "translation": "Od wschodu słońca aż do jego zachodu chwalone ⟨jest⟩ Imię Jahwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Od wschodu"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "jego zachodu"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "chwalone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:37.145396188Z",
+  "model": "glm-5.3"
+}

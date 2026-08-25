@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Ponieważ powiedziałeś: ⟨את⟩ dwa te narody i ⟨את⟩ dwie te ziemie moje będą, i posiądziemy je — a Jahwe tam był.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "powiedziałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa te narody"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "te narody"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dwie te ziemie"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "te ziemie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moje"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "będą"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "i posiądziemy je"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    }
+  ],
+  "timestamp": "2026-08-25T01:24:50.804995808Z",
+  "model": "glm-5.3"
+}

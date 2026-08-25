@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Nie będziesz się im kłaniał i nie będziesz im służył, bo Ja, Jahwe, Elohim twój, ⟨jestem⟩ El zazdrosny, odpłacający winę ojców na synach, na trzecich i na czwartych pokoleniach tych, którzy Mnie nienawidzą.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "będziesz się kłaniał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "będziesz im służył"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "zazdrosny"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "odpłacający"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ojców"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synach"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzecich (pokoleniach)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "czwartych (pokoleniach)"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "których Mnie nienawidzą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:30.294640551Z",
+  "model": "glm-5.3"
+}

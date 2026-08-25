@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Nie opuszczaj mnie, Jahwe, Elohim mój, nie oddalaj się ode mnie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "opuszczaj mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "oddalaj się"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:17.454331376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I spojrzał Filistyn, i zobaczył ⟨את⟩ Dawida, i wzgardził nim, bo ⟨był⟩ młodzieńcem, rudy, i pięknego wyglądu.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "i spojrzał"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyn"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "i wzgardził nim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨był⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "młodzieńcem"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "rudy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "i"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "pięknego"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wyglądu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:24.259796957Z",
+  "model": "glm-5.3"
+}

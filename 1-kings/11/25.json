@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I był przeciwnikiem ⟨dla⟩ Israela przez wszystkie dni Szelomo, a ⟨także⟩ ⟨את⟩ zło, ⟨które⟩ uczynił Hadad; i wlókł̨ ⟨się⟩ w Israelu i królował nad Aramem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "przeciwnikiem"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Israela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zło"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "i wlókł"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Israelu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:35.628885165Z",
+  "model": "glm-5.3"
+}

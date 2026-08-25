@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Twoja sprawiedliwość ⟨jest⟩ jak góry El, twoje wyroki ⟨są⟩ Wielką Głębią; człowieka i bydło ratujesz, Jahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Twoja sprawiedliwość"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "jak góry"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "twoje wyroki"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Głębia"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Wielka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "i bydło"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ratujesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:53.746647847Z",
+  "model": "glm-5.3"
+}

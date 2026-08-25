@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 2:20",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I odpowiedziałem im ⟨את⟩ słowo, i powiedziałem do nich: Elohim niebios, to on nam pomoże, a my, jego słudzy, wstaniemy i zbudujemy; ale wam nie przysługuje część, ani prawo, ani pamięć w Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ואשיב",
+      "gloss": "i odpowiedziałem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ im",
+      "marks": "słowo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "i powiedziałem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to on"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "pomoże"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jego słudzy"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "wstaniemy"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "i zbudujemy"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ale wam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie przysługuje"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "część"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ani prawo"
+    },
+    {
+      "surface": "וזכרון",
+      "gloss": "ani pamięć"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:47:20.674097295Z",
+  "model": "glm-5.3"
+}

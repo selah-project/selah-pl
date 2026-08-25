@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Biada tym, którzy mówią złemu: dobry, a dobremu: zły; którzy stawiają ciemność za światło i światło za ciemność, stawiają gorzkie za słodkie a słodkie za gorzkie!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "biada"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "tym, którzy mówią"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "złemu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "a dobremu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zły"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "którzy stawiają"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "za światło"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "i światło"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "za ciemność"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "stawiają"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorzkie"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "za słodkie"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "a słodkie"
+    },
+    {
+      "surface": "למר",
+      "gloss": "za gorzkie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:32:04.464989245Z",
+  "model": "glm-5.3"
+}

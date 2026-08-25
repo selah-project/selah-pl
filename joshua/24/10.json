@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I nie chciałem słuchać Bilama, więc błogosławił on was błogosławieństwem ⟨אתכם⟩, i wyrwałem was ⟨אתכם⟩ z jego ręki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "chciałem"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "słuchać"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i błogosławił"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławieństwem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "i wyrwałem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "z jego ręki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:58.666969841Z",
+  "model": "glm-5.3"
+}

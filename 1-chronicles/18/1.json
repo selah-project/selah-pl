@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I stało się potem, że Dawid pobił ⟨את⟩ Filistynów i upokorzył ich, i wziął ⟨את⟩ Gat i jego córki z ręki Filistynów.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistynów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i upokorzył ich"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "i jego córki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:25.110384387Z",
+  "model": "glm-5.3"
+}

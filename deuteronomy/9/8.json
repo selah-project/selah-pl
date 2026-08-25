@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A w Chorew rozgniewaliście ⟨את⟩ Jahwe, i zapłonął gniewem Jahwe na was, by was wyniszczyć ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "A w Chorew"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "rozgniewaliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "i zapłonął gniewem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na was"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "by wyniszczyć"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:11.031522318Z",
+  "model": "glm-5.3"
+}

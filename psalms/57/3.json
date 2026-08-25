@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Wezwę Elohim Najwyższego, do Ela, który ⟨מ⟩ dopełnia ⟨tego⟩ dla mnie.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Wezwę"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najwyższego"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "do Ela"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "dopełnia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:27.865419089Z",
+  "model": "glm-5.3"
+}

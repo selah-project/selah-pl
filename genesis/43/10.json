@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Gdybyśmy się nie wahałi, już teraz wrócilibyśmy ten drugi raz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdyż"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "gdyby nie"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "się nie wahałi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "już"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "wrócilibyśmy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "drugi raz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:23.727969654Z",
+  "model": "glm-5.3"
+}

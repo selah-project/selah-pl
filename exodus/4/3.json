@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł: Rzuć go na ziemię. I rzucił go na ziemię, i stał się wężem, i uciekł Mosze przed nim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "rzuć go"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "i rzucił go"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "wężem"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "przed nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:54.940824800Z",
+  "model": "glm-5.3"
+}

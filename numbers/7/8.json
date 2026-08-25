@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ cztery wozy i ⟨את⟩ osiem sztuk bydła dał synom Merariego, według ich służby, pod ręką Itamara, syna Ahrona kapłana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "cztery wozy"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "wozy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "osiem sztuk bydła"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "osiem"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sztuk bydła"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merariego"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "według"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ich służby"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pod ręką"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:24.130263848Z",
+  "model": "glm-5.3"
+}

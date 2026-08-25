@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Szczęśliwy mąż, którego Ty karzesz, Jah, i z Twojej Tory pouczasz go.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "Ty karzesz go"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "i z Twojej Tory"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "pouczasz go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.421114163Z",
+  "model": "glm-5.3"
+}

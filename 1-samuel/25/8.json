@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Zapytaj ⟨את⟩ swoich młodzieńców, a powiedzą ci, i znajdą młodzieńcy łaskę w twoich oczach, bo w dobry dzień przybyliśmy — dajże, proszę, ⟨את⟩ to, co znajdzie twoja ręka, twoim sługom i twojemu synowi, Dawidowi.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "zapytaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich młodzieńców"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "swoich młodzieńców"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "a powiedzą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i znajdą"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "młodzieńcy"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaskę"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w twoich oczach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "przybyliśmy"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dajże"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co znajdzie twoja ręka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "znajdzie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoja ręka"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "twoim sługom"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "i twojemu synowi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:55.973202594Z",
+  "model": "glm-5.3"
+}

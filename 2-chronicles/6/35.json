@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "to usłyszysz z niebios ⟨את⟩ modlitwy ich i ⟨את⟩ błagania ich, i dokonasz ich prawa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "to usłyszysz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modlitwy ich"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "modlitwy ich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "błagania ich"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "błagania ich"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i dokonasz"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ich prawa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:01:03.268983343Z",
+  "model": "glm-5.3"
+}

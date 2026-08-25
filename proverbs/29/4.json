@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Król sprawiedliwością ugruntowuje ziemię, a człowiek danin ją burzy.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sprawiedliwością"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ugruntowuje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a człowiek"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "danin"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "ją burzy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:45.684143573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I usłyszał Mosze ⟨את⟩ lud płaczący według swych rodzin, każdy przy wejściu swego namiotu; i zapłonął gniew Jahwe bardzo, a w oczach Mosze ⟨było⟩ złe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud płaczący"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "płaczący"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "według swych rodzin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "przy wejściu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "swego namiotu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonął"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "a w oczach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:46.387850080Z",
+  "model": "glm-5.3"
+}

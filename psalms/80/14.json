@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Niszczy ją dzik z lasu, i zwierz pola wyżera ją.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "niszczy ją"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "dzik"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "z lasu"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "i zwierz"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pola"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "wyżera ją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:34.566142268Z",
+  "model": "glm-5.3"
+}

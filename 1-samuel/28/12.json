@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I ujrzała kobieta ⟨את⟩ Szemuela, i krzyknęła donośnym głosem; i powiedziała kobieta do Szaula, mówiąc: Dlaczego mnie zwiódłeś? A ty ⟨jesteś⟩ Szaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i ujrzała"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuela"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "i krzyknęła"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "donośnym"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "mnie zwiódłeś"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:37.671770132Z",
+  "model": "glm-5.3"
+}

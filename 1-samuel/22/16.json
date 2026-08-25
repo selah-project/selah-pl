@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł król: Śmiercią umrzesz, Achimeleku, ty i cały dom ojca twego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umrzesz"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojca twego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:54.027331057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Lepsze trochę dla sprawiedliwego niż obfitość wielu bezbożnych.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepsze"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochę"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "dla sprawiedliwego"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "niż obfitość"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.662626247Z",
+  "model": "glm-5.3"
+}

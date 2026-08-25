@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Nasi ojcowie zgrzeszyli — ⟨już⟩ ich nie ma, a my nosimy ich winy.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Nasi ojcowie"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "zgrzeszyli"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ich nie ma"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ich winy"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "nosimy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:22.708834912Z",
+  "model": "glm-5.3"
+}

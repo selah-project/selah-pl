@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I ruszył stamtąd przeciw mieszkańcom Dewiru; a imię Dewiru przedtem ⟨było⟩ Kirjat-Sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ruszył"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dewiru"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dewiru"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "przedtem"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-24T23:21:29.259854727Z",
+  "model": "glm-5.3"
+}

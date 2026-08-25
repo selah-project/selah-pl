@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Powiem do Eloah: nie uznawaj mnie ⟨za winnego⟩; spraw, bym poznał, o co mnie oskarżasz.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "powiem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "uznawaj mnie winnym"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "spraw, bym poznał"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "oskarżasz mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:15.787005021Z",
+  "model": "glm-5.3"
+}

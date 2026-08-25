@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Skróciłeś dni jego młodości, okryłeś go hańbą. Sela.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "skróciłeś"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "jego młodości"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "okryłeś"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:41.823117155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Adonai, przed Tobą cała tsknota moja, i wzdychanie moje przed Tobą nie jest ukryte.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "przed Tobą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "tsknota moja"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "i wzdychanie moje"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "przed Tobą \/ od Ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "jest ukryte"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.697095970Z",
+  "model": "glm-5.3"
+}

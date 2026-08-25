@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zważyłem im ⟨את⟩ srebro i ⟨את⟩ złoto i ⟨את⟩ naczynia — ofiarę domu naszego Elohim, którą wznieśli król i jego doradcy, i jego książęta, i cały Izrael obecni.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "I zważyłem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "złoto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naczynia"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ofiarę"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszego Elohim"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "którą wznieśli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "i jego doradcy"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "i jego książęta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "obecni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:44:43.261597256Z",
+  "model": "glm-5.3"
+}

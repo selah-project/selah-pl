@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Niech żyje moja nefesz i niech cię chwali, a twoje prawa niech mi pomagają.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "niech żyje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "i niech cię chwali"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "a twoje prawa"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "niech mi pomagają"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:12.727544904Z",
+  "model": "glm-5.3"
+}

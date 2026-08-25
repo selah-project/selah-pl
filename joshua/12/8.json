@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "W górach i na Szefeli, i w Arabei, na stokach, i na pustkowiu, i w Negewie — Chetyta, Emoryta i Kanaanejczyka, Perizzytyta, Chiwwityta i Jebusytyta.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "w górach"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "i na Szefeli"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "i w Arabei"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "na stokach"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "i na pustkowiu"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "i w Negewie"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetyta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoryta"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "i Kanaanejczyka"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzytyta"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwwityta"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusytyta"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:34.566959026Z",
+  "model": "glm-5.3"
+}

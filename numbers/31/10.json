@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "A ⟨את⟩ wszystkie ich miasta w ich siedzibach i ⟨את⟩ wszystkie ich osady spalili w ogniu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "wszystkie ich miasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ich miasta"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "w ich siedzibach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie ich osady"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ich osady"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spalili"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:11.958234677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Nasycają się drzewa Jahwe — cedry Libanu, które On zasadził.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Nasycają się"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "zasadził"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:01.560688515Z",
+  "model": "glm-5.3"
+}

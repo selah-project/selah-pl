@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I będzie szabat ziemi wam na pokarm — dla ciebie, i dla twego niewolnika, i dla twej niewolnicy, i dla twego najemnika, i dla twego osadnika, przybyszów przebywających z tobą.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "na pokarm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "i dla twego niewolnika"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "i dla twej niewolnicy"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "i dla twego najemnika"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "i dla twego osadnika"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "przybyszów"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:56.303785723Z",
+  "model": "glm-5.3"
+}

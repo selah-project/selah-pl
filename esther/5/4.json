@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I rzekła Ester: Jeżeli królowi ⟨to jest⟩ dobre, niech przyjdzie król i Haman dziś na ucztę, którą przygotowałam dla niego.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I rzekła"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jeżeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "dla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "niech przyjdzie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "i Haman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "przygotowałam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:21.600505558Z",
+  "model": "glm-5.3"
+}

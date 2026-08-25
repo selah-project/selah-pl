@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Okup ⟨dla⟩ sprawiedliwego — niesprawiedliwy, a w miejsce prostych — zdrajca.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "okup"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "dla sprawiedliwego"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niesprawiedliwy"
+    },
+    {
+      "surface": "ו",
+      "gloss": "a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "w miejsce"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prostych"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "zdrajca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:32.912409844Z",
+  "model": "glm-5.3"
+}

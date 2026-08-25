@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Teraz przyjdź, zapisz to na tablicy ⟨את⟩ i wyryj w księdze, i niech to będzie na dzień ostatni na świadectwo, aż na wieki wieków.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "przyjdź"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "zapisz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablicy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "na tablicy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i w"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księdze"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "wyryj"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i niech będzie"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dzień"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ostatni"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na świadectwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T00:28:11.512095081Z",
+  "model": "glm-5.3"
+}

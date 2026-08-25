@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Twoi synowie i twoje córki ⟨są⟩ oddani ludowi innemu, a twoje oczy patrzą i wyczerpują się ku nim cały dzień, a nie masz ⟨nic⟩ w mocy twojej ręki.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "twoi synowie"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "i twoje córki"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "oddani"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innemu"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "a twoje oczy"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "patrzą"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "i wyczerpują się"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku nim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie masz"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "w mocy"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twojej ręki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:57.889561350Z",
+  "model": "glm-5.3"
+}

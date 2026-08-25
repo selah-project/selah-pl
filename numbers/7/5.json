@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Weź ⟨את⟩ ⟨od nich⟩, i będą służyć do ⟨את⟩ służby Namiotu Spotkania, i dasz ⟨את⟩ je Lewitom, każdy według swej służby.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Weź"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ⟨od nich⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i będą"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "służby"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "służby"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "i dasz"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "Lewitom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewitów"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "według"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "swej służby"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:24.129792697Z",
+  "model": "glm-5.3"
+}

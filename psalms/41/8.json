@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Razem przeciwko mnie szepczą wszyscy nienawidzący mnie; przeciwko mnie obmyślają złe dla mnie.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Razem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "szepczą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nienawidzący mnie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "obmyślają"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:54.509446857Z",
+  "model": "glm-5.3"
+}

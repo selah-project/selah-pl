@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I przykazał Jirmejahu ⟨את⟩ Baruchowi, mówiąc: Jestem zatrzymany, nie mogę wejść do domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "I przykazał"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruch"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruchowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jestem"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "zatrzymany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "wejść"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:57:46.085801734Z",
+  "model": "glm-5.3"
+}

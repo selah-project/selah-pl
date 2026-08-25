@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 123,
+  "translation": "Pieśń wstępowa. Do Ciebie podniosłem ⟨את⟩ moje oczy, siedzący w niebiosach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Do Ciebie"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje oczy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "siedzący"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w niebiosach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:45.206372477Z",
+  "model": "glm-5.3"
+}

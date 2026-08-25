@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Nienawidzę zgromadzenia złoczyńców i z bezbożnymi nie usiądę.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Nienawidzę"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i z"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnymi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "usiądę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:41.119082207Z",
+  "model": "glm-5.3"
+}

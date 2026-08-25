@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I stanie się, gdy powie do ciebie: nie wyjdę od ciebie, ponieważ pokochał ciebie i ⟨את⟩ twój dom, ponieważ dobrze jest mu u ciebie —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i stanie się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "wyjdę"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "pokochał ciebie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twój dom"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twój dom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jest mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u ciebie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:42.898826485Z",
+  "model": "glm-5.3"
+}

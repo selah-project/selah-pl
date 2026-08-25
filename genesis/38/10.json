@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I było złe w oczach Jahwe to, co uczynił, i zabił także ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "i było złe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego (Onana)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:09.394527742Z",
+  "model": "glm-5.3"
+}

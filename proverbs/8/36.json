@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "a kto zawinioni względem mnie, krzywdzi własną swą nefesz; wszyscy, którzy mię nienawidzą, miłują śmierć.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "a kto zawinioni względem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "krzywdzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swoją nefesz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "którzy nienawidzą"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "miłują"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:24.771744233Z",
+  "model": "glm-5.3"
+}

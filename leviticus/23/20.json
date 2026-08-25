@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wymacha ⟨את⟩ nimi kapłan wraz z chlebem bikurim, tnufą przed obliczem Jahwe, wraz z dwoma barankami; święte będą Jahwe — dla kapłana.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "i wymacha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi (dwa baranki z chlebem)"
+    },
+    {
+      "surface": "על",
+      "gloss": "wraz z"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "bikurim (pierwocin)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tnufą"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wraz z"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwoma"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "barankami"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święte"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dla kapłana"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:59.551775864Z",
+  "model": "glm-5.3"
+}

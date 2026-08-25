@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "El mój ⟨jesteś⟩ i będę Cię wyznawał; Elohim mój, będę Cię wywyższał.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨jesteś⟩"
+    },
+    {
+      "surface": "ו אודך",
+      "gloss": "i będę Cię wyznawał"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "będę Cię wywyższał"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:19.655914109Z",
+  "model": "glm-5.3"
+}

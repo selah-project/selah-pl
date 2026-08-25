@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Wysławiajcie Elohim ⟨Boga⟩ bogów, bo na wieki ⟨trwa⟩ jego chesed (wierna miłość przymierza).",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim ⟨Boga⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:07.403966701Z",
+  "model": "glm-5.3"
+}

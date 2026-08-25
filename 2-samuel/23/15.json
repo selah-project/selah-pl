@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I zapragnął Dawid, i rzekł: Kto mnie napoi wodą ze studni Bet-Lechem, tej przy bramie?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "I zapragnął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "mnie napoi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodą"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ze studni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tej"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "przy bramie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:34.588266778Z",
+  "model": "glm-5.3"
+}

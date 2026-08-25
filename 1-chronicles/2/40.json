@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Elasa zrodził ⟨את⟩ Sisaja, a Sisaj zrodził ⟨את⟩ Szalluma.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "a Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisaja"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sisaj"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "a Sisaj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szalluma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Szallum"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:17.709118509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Chodź, napojmy ⟨את⟩ ojca naszego winem i połóżmy się z nim, a zachowajmy z ojca naszego potomstwo.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "chodź"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "napojmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca naszego"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ojca naszego"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "i połóżmy się"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "a zachowajmy"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "z ojca naszego"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstwo"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:05.118089118Z",
+  "model": "glm-5.3"
+}

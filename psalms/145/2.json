@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Każdego dnia będę Cię błogosławił i będę wysławiał Twoje imię na wieki i na zawsze.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Każdego"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "będę Cię błogosławił"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "i będę wysławiał"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.637599500Z",
+  "model": "glm-5.3"
+}

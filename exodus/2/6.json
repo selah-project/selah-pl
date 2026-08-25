@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I otworzyła ⟨ją⟩, i ujrzała go — ⟨את⟩ dziecko — a oto chłopiec płaczący; i ulitowała się nad nim, i powiedziała: z dzieci Hebrajczyków ten.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "i otworzyła"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "i ujrzała go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziecko"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chłopiec"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "płaczący"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "i ulitowała się"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "z dzieci"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrajczyków"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:33.235415958Z",
+  "model": "glm-5.3"
+}

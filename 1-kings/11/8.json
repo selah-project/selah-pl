@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I tak uczynił dla wszystkich swoich niewiast obcych, kadzących i składających ofiary swoim Elohim.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "i tak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla wszystkich"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "niewiast swoich"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "kadzących"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "i składających ofiary"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "swoim Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:47.545928381Z",
+  "model": "glm-5.3"
+}

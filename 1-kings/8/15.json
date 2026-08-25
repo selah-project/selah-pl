@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I powiedział: Niech ⟨jest⟩ błogosławiony Jahwe, Elohim Jisraela, który powiedział swoim ustami ⟨את⟩ Dawida, mojego ojca, a swoją ręką wypełnił, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "swoimi ustami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojego ojca"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "a swoją ręką"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wypełnił"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:46.015461245Z",
+  "model": "glm-5.3"
+}

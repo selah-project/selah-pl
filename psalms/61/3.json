@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 61,
+  "translation": "Z krańca ziemi wołam do ciebie, gdy zamiera moje serce; na skałę wyższą ode mnie poprowadzisz mnie.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Z krańca"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "gdy zamiera"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na skałę"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "wyższą"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "poprowadzisz mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:06.550967777Z",
+  "model": "glm-5.3"
+}

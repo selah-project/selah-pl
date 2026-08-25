@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "i powie ojciec dziewczyny do starszych: ⟨את⟩ moją córkę dałem temu mężczyźnie za żonę, a on znienawidził ją;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dziewczyny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją córkę"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "moją córkę"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mężczyźnie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "temu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "a on znienawidził ją"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:53.585010230Z",
+  "model": "glm-5.3"
+}

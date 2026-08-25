@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekli do ludu: Przejdźcie i okrążajcie ⟨את⟩ miasto, a uzbrojeni przejdą przed arką Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przejdźcie"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "i okrążajcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "a uzbrojeni"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "przejdą"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arką"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:38.244694012Z",
+  "model": "glm-5.3"
+}

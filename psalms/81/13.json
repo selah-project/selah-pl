@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "I wydałem ich na upór ich serca, chodzić będą w radach swoich.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "i wydałem ich"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "na upór"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ich serca"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "chodzić będą"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "w radach swoich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:38.901722220Z",
+  "model": "glm-5.3"
+}

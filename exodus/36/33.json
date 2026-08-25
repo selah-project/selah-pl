@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I zrobił ⟨את⟩ środkową poprzeczkę, aby przechodziła przez środek desek od jednego końca do drugiego końca.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "środkową poprzeczkę"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "poprzeczkę"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "środkową"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "aby przechodziła"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "przez środek"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "desek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "jednego końca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "drugiego końca"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:31.568251115Z",
+  "model": "glm-5.3"
+}

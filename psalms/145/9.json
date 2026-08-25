@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Dobry jest Jahwe dla wszystkich, a jego litości nad wszystkimi jego dziełami.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla wszystkich"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "a jego litości"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkimi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "jego dziełami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:31.185709546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Błogosławiony jesteś ty, Jahwe; naucz mnie twoich ustaw.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "naucz mnie"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "twoich ustaw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.258547105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I przykazał im, mówiąc: Tak powiecie mojemu panu, Eisawowi: Tak mówi sługa twój Jaakow: z Lawanem przebywałem jako przybysz i przebywam tam aż dotąd.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i przykazał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "im"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "powiecie"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mojemu panu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Eisawowi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawanem"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "przebywałem jako przybysz"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "i przebywam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dotąd"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:24.179041065Z",
+  "model": "glm-5.3"
+}

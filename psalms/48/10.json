@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Porównaliśmy, Elohim, chesed Twój w środku Twego pałacu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "porównaliśmy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Twój"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "Twego pałacu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:35.261837441Z",
+  "model": "glm-5.3"
+}

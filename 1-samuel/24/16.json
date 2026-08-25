@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I niech Jahwe będzie ⟨sędzią⟩, i osądzi między mną a między tobą, i niech zobaczy, i niech rozsądzi ⟨את⟩ mój spór, i niech mnie wybawi z twojej ręki.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i niech będzie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "⟨sędzią⟩"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "i osądzi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a między tobą"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i niech zobaczy"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "i niech rozsądzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój spór"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mój spór"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "i niech mnie wybawi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z twojej ręki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:49.209675728Z",
+  "model": "glm-5.3"
+}

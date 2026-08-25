@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i wynieśli ⟨את⟩ stele domu Baala, i spalili je.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i wynieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stele domu Baala"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "i spalili je"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:12.157890480Z",
+  "model": "glm-5.3"
+}

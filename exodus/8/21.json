@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przywołał Paroh Mosze oraz Aharona, i powiedział: Idźcie, złóżcie ofiarę waszemu Elohim w ⟨tej⟩ ziemi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "oraz do Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "złóżcie ofiarę"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "waszemu Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:50.590667487Z",
+  "model": "glm-5.3"
+}

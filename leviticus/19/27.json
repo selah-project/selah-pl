@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie będziecie okrążać skraju waszej głowy i nie zniszczycie ⟨את⟩ skraju waszej brody.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "będziecie okrążać"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skraju"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "waszej głowy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "zniszczycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skraju waszej brody"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skraju"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "waszej brody"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:19.338506118Z",
+  "model": "glm-5.3"
+}

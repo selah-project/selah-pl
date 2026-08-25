@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Gdzie słowo króla — ⟨tam⟩ władza, i kto mu powie: co czynisz?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Gdzie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "władza"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i kto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "czynisz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:20.014064002Z",
+  "model": "glm-5.3"
+}

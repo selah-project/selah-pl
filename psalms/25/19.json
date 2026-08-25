@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Wejrzyj na mych wrogów, bo liczni ⟨są⟩, i nienawiścią gwałtu znienawidzili mnie.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "wejrzyj"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "na mych wrogów"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "liczni"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "i nienawiścią"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gwałtu"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "znienawidzili mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:46.379445251Z",
+  "model": "glm-5.3"
+}

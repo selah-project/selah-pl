@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 99,
+  "translation": "Wysławiajcie Jahwe, Elohima naszego, i kłaniajcie się ⟨przy⟩ podnóżku nóg Jego — święty ⟨jest⟩ On.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohima naszego"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "i kłaniajcie się"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "⟨przy⟩ podnóżku"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nóg Jego"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:55.205104024Z",
+  "model": "glm-5.3"
+}

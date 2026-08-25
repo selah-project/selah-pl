@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Królowie wojsk uciekają, uciekają, a mieszkanka domu dzieli łupy.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Królowie"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wojsk"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "uciekają"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "uciekają"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "a mieszkanka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "dzieli"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "łupy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:30.746275015Z",
+  "model": "glm-5.3"
+}

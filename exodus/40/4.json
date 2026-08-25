@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I wprowadzisz ⟨את⟩ stół i ułożysz ⟨את⟩ jego sprzęt, i wprowadzisz ⟨את⟩ menorę i zapalisz ⟨את⟩ jej lampy.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "i wprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "i ułożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego sprzęt"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "jego sprzęt"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "i wprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorę"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorę"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "i zapalisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jej lampy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:01.611061888Z",
+  "model": "glm-5.3"
+}

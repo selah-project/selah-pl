@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i Szallum spłodził ⟨את⟩ Chilkijasza, a Chilkijasz spłodził ⟨את⟩ Azarjasza;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "i Szallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkijasza"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkijasza"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "a Chilkijasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjasza"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjasza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:18.660430748Z",
+  "model": "glm-5.3"
+}

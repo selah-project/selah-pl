@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zbuntował się Iszrael przeciwko domowi Dawida aż do dnia tego.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "I zbuntował się"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "przeciwko domowi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:54.903137897Z",
+  "model": "glm-5.3"
+}

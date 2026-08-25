@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Gdy Efraim mówił — drżenie; wzniósł się on w Israelu, lecz zaciążył winą przez Baala i umarł.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "gdy mówił"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "drżenie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wzniósł się"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Israelu"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "i zaciążył winą"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "przez Baala"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:00.586861350Z",
+  "model": "glm-5.3"
+}

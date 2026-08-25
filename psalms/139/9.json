@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Gdybym wziął skrzydła świtu, gdybym zamieszkał na krańcu morza —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "wziąłbym"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "skrzydła"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "świtu"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "zamieszkałbym"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "na krańcu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:05.960150162Z",
+  "model": "glm-5.3"
+}

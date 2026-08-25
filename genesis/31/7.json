@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "A ojciec wasz oszukiwał mnie i zmieniał ⟨את⟩ moją zapłatę dziesięć razy, ale nie pozwolił mu Elohim szkodzić mi.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "a ojciec wasz"
+    },
+    {
+      "surface": "התל",
+      "gloss": "oszukiwał"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "i zmieniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją zapłatę"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "moją zapłatę"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "razy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "pozwolił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "szkodzić"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:58.676197952Z",
+  "model": "glm-5.3"
+}

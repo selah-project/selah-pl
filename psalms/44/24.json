@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Przebudź się! Dlaczego śpisz, Adonai? Ocknij się, nie odrzucaj ⟨nas⟩ na wieki!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "przebudź się"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "śpisz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "ocknij się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "odrzucaj"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:20.729077925Z",
+  "model": "glm-5.3"
+}

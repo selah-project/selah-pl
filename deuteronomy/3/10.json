@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wszystkie miasta równiny, i cały Gilad, i cały Baszan aż do Salchy i Edrei — miasta królestwa Oga w Baszanie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "równiny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salchy"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "i Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "królestwa"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "w Baszanie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:32.425840117Z",
+  "model": "glm-5.3"
+}

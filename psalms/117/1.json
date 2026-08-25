@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 117,
+  "translation": "Chwalcie ⟨את⟩ Jahwe, wszystkie narody; wysławiajcie Go, wszystkie ludy!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "wysławiajcie Go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ludy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.981239470Z",
+  "model": "glm-5.3"
+}

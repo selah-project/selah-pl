@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Siedzący w ukryciu El Eljona, w cieniu Szaddaj się zatrzyma (na nocleg).",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "siedzący"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w ukryciu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "w cieniu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Szaddaj"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "się zatrzyma (na nocleg)"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:33.447100053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Każdy znaleziony przebity zostanie, a każdy doprowadzony padnie od miecza.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "znaleziony"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "przebity zostanie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a każdy"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "doprowadzony\/przyłączony"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padnie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "od miecza"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:59.722899614Z",
+  "model": "glm-5.3"
+}

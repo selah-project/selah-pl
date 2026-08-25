@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I co może Dawid jeszcze dodać, by mówić do ciebie? A ty znasz ⟨את⟩ swego sługę, Adonai Jahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "i co"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "może dodać"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "by mówić"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego sługę"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "swego sługę"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:43.777847032Z",
+  "model": "glm-5.3"
+}

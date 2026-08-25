@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "strzeż się, abyś nie zapomniał ⟨את⟩ Jahwe, który cię wyprowadził z ziemi Micrajim, z domu niewoli.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "strzeż się"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "cię wyprowadził"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "niewoli"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:21.999307884Z",
+  "model": "glm-5.3"
+}

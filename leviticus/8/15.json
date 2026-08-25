@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zabił go; i wziął Mosze ⟨את⟩ krew, i dał ją na rogi ołtarza dokoła swoim palcem, i oczyścił ⟨את⟩ ołtarz, a ⟨את⟩ krew wylał ku podstawie ołtarza, i poświęcił go, aby dokonać na nim przebłagania.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zabił go"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "swoim palcem"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "i oczyścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "wylał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podstawie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "i poświęcił go"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "aby dokonać przebłagania"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:58.838596592Z",
+  "model": "glm-5.3"
+}

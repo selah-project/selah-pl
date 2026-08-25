@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Jahwe, pokochałem mieszkanie Twego domu i miejsce przybytku Twojego majestatu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "pokochałem"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mieszkanie"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "Twego domu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "i miejsce"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "przybytku"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "Twojego majestatu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:41.119915205Z",
+  "model": "glm-5.3"
+}

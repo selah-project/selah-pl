@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Przyjdzie Elohim nasz i nie zamilczy, ogień przed nim pochłania, a wokół niego szaleje burza nader wielka.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Przyjdzie"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "zamilczy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "pochłania"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "a wokół niego"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "szaleje burza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nader"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:14.764300828Z",
+  "model": "glm-5.3"
+}

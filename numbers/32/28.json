@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I nakazał im Mosze ⟨את⟩ Elazara kapłana i ⟨את⟩ Jehoszuy, syna Nuna, i ⟨את⟩ naczelników rodów pokoleń synów Iszraela.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i nakazał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazara kapłana"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoszuy, syna Nuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naczelników rodów pokoleń"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "naczelników"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "rodów"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:27.094396593Z",
+  "model": "glm-5.3"
+}

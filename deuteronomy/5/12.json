@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Strzeż ⟨את⟩ dnia szabatu, aby go uświęcić, jak ci przykazał Jahwe, Elohim twój.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Strzeż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień szabatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "aby go uświęcić"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ci przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:55.550314485Z",
+  "model": "glm-5.3"
+}

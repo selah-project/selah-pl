@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "i zabijesz ⟨את⟩ lud ten jak jednego męża, wtedy powiedzą narody, które słyszały ⟨את⟩ twe sławę, mówiąc:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "i zabijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud ten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jak jednego męża"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jak jednego męża"
+    },
+    {
+      "surface": "וומרו",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słyszały"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twe sławę"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "twe sławę"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:45.033230700Z",
+  "model": "glm-5.3"
+}

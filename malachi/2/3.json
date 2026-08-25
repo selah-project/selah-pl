@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Oto Ja karczę ⟨dla was⟩ ⟨את⟩ potomstwo wasze i rozrzucę odchody na oblicza wasze — odchody świąt waszych — i ⟨ono⟩ uniesie ⟨את⟩ was do siebie.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Oto Ja"
+    },
+    {
+      "surface": "גער",
+      "gloss": "karczę"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨dla was⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potomstwo wasze"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "potomstwo wasze"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "i rozrzucę"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "odchody"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "oblicza wasze"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "odchody"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "świąt waszych"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "i uniesie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do siebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:42:35.678215412Z",
+  "model": "glm-5.3"
+}

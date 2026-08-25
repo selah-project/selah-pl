@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Lepiej chronić się w Jahwe niż ufać nadwornym.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepiej"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "chronić się"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "niż ufać"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nadwornym"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:19.990184149Z",
+  "model": "glm-5.3"
+}

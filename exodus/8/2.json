@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wyciągnął Aharon ⟨את⟩ swoją rękę nad wody Micrajim, i weszła żaba, i okryła ⟨את⟩ ziemię Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i wyciągnął"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "i weszła"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "żaba"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "i okryła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:03.785523791Z",
+  "model": "glm-5.3"
+}

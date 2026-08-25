@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Daj mądremu, a będzie jeszcze mądrzejszy; oznajmij sprawiedliwemu, a pomnoży ⟨się⟩ w nabywaniu wiedzy.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "mądremu"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "a będzie jeszcze mądrzejszy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "oznajmij"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sprawiedliwemu"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "a pomnoży"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nabywanie wiedzy"
+    }
+  ],
+  "timestamp": "2026-08-25T04:21:33.678511398Z",
+  "model": "glm-5.3"
+}

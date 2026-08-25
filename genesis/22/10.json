@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wyciągnął Awraham ⟨את⟩ rękę swoją, i wziął ⟨את⟩ nóż, żeby zabić ⟨את⟩ syna swego.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wyciągnął"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swoją"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nóż"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nóż"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "żeby zabić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna swego"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna swego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:52.143477805Z",
+  "model": "glm-5.3"
+}

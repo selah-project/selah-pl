@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I usłyszeli ⟨את⟩ głos Jahwe Elohim przechadzającego się w ogrodzie przy wietrze dnia; i ukrył się człowiek oraz jego żona przed obliczem Jahwe Elohim pośród drzew ogrodu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i usłyszeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos Jahwe Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "przechadzającego się"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "w ogrodzie"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "przy wietrze"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "i ukrył się"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "oraz jego żona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzew"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ogrodu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:42.884011680Z",
+  "model": "glm-5.3"
+}

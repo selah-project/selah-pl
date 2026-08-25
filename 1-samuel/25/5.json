@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I wysłał Dawid dziesięciu młodzieńców, i rzekł Dawid do młodzieńców: Wstąpcie na Karmel i przyjdziecie do Nawala, i zapytacie go w moim imieniu o pokój.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dziesięciu"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "do młodzieńców"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wstąpcie"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "na Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "i przyjdziecie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nawala"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "i zapytacie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jego"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "w moim imieniu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "o pokój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:55.972520267Z",
+  "model": "glm-5.3"
+}

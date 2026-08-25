@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I wszystkie dni Adama, które przeżył, ⟨to⟩ dziewięćset trzydzieści lat, i umarł.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i były"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חי",
+      "gloss": "przeżył"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "dziewięć"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:40.924225733Z",
+  "model": "glm-5.3"
+}

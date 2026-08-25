@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "oraz ⟨את⟩ strusia, i ⟨את⟩ puszczyka nocnego, i ⟨את⟩ mewę, i ⟨את⟩ jastrzębia według jego rodzaju",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "strusia"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "strusia (jaen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "puszczyka nocnego"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "puszczyka nocnego (tachmas)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mewę"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mewę (szachaf)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jastrzębia"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "jastrzębia (nec)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według jego rodzaju"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:00.219853496Z",
+  "model": "glm-5.3"
+}

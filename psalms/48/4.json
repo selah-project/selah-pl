@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Elohim w twierdzach jej dał się poznać jako warownia.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "w twierdzach jej"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "dał się poznać"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "jako warownia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:01.539684781Z",
+  "model": "glm-5.3"
+}

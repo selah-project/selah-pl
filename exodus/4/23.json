@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I mówiłem do ciebie: wypuść ⟨את⟩ syna mego, aby mi służył; a ty odmówiłeś go wypuścić — oto Ja zabijam ⟨את⟩ syna twego, pierworodnego twego.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i mówiłem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wypuść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna mego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syna mego"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "aby mi służył"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "a odmówiłeś"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "go wypuścić"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabijam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna twego"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syna twego"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "pierworodnego twego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:31.190913122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Jak długo, Jahwe, będziesz mnie zapominać — na zawsze? Jak długo będziesz ukrywać ⟨את⟩ swoje oblicze przede mną?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jak długo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "będziesz mnie zapominać"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jak długo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "będziesz ukrywać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje oblicze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "przeze mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:39.822196161Z",
+  "model": "glm-5.3"
+}

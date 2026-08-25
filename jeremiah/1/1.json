@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Słowa Jirmejahu, syna Chilkijahu, spośród kapłanów, którzy byli w Anatot, w ziemi Binjamina.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Słowa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkijahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "w Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    }
+  ],
+  "timestamp": "2026-08-25T00:41:00.570150052Z",
+  "model": "glm-5.3"
+}

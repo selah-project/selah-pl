@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł jeden: Zechciej proszę i idź ⟨את⟩ sługami twoimi. I rzekł: Ja pójdę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Zechciej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługami twoimi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sługami twoimi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pójdę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:36.737251768Z",
+  "model": "glm-5.3"
+}

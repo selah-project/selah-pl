@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I usłyszał Jitro, kapłan Midjanu, teść Mosze, ⟨את⟩ wszystko, co uczynił Elohim Moszemu i Iszraelowi, ludowi swojemu, że Jahwe wyprowadził ⟨את⟩ Iszraela z Micraim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I usłyszał"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanu"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "teść"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Iszraelowi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ludowi swojemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wyprowadził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iszraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:24.261623751Z",
+  "model": "glm-5.3"
+}

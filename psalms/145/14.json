@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Jahwe podpiera wszystkich upadających i wyprostowuje wszystkich pochylonych.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "podpiera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "upadającym"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "i wyprostowuje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "pochylonym"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:34.073896656Z",
+  "model": "glm-5.3"
+}

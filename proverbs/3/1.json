@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Synu mój, mojej Tory nie zapomnij, a moje przykazania niech strzeże twoje serce.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu mój"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mojej Tory"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomnij"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a moje przykazania"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "niech strzeże"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "twoje serce"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:31.396882800Z",
+  "model": "glm-5.3"
+}

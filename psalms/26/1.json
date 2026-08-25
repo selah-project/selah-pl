@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Dawidowi. Osądź mnie, Jahwe, bo ja w mojej niewinności chodzę i w Jahwe ufam, nie zachwieję się.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Osądź mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "w mojej niewinności"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "chodzę"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "i w Jahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ufam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "zachwieję się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:51.394081965Z",
+  "model": "glm-5.3"
+}

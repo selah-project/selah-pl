@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Będę błogosławił ⟨את⟩ Jahwe w każdym czasie, nieustannie Jego chwała w moich ustach.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Będę błogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w każdym"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czasie"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Jego chwała"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "w moich ustach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:26.618908791Z",
+  "model": "glm-5.3"
+}

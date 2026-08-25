@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I napił się z wina, i upił się, i odsłonił się w środku swego namiotu.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "i napił się"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wina"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "i upił się"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "i odsłonił się"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "swego namiotu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:20.541386022Z",
+  "model": "glm-5.3"
+}

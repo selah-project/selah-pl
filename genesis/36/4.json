@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I Adah urodziła Esawowi ⟨את⟩ Elifaza, a Bosmat urodziła ⟨את⟩ Reuela.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaza"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaza"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "a Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuela"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:42.617165588Z",
+  "model": "glm-5.3"
+}

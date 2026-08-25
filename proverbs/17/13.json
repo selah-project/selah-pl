@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Kto odpłaca złem za dobre — zło nie ustąpi z jego domu.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Kto odpłaca"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "ustąpi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "z jego domu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:32.013794281Z",
+  "model": "glm-5.3"
+}

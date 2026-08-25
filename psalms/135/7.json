@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Wyprowadza ku górze mgły z krańca ziemi, błyskawice na deszcz czyni, wydobywa wiatr ze swoich skarbców.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "wyprowadza-ku-górze"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mgły"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "z-krańca"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "błyskawice"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "na-deszcz"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyni"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "wydobywa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ze-swoich-skarbców"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:38.657791362Z",
+  "model": "glm-5.3"
+}

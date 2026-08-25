@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Synu mój, jeśli poręczyłeś za bliźniego swego, jeśli ścisnąłeś dłoń swoją za obcego —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu mój"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "poręczyłeś"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "za bliźniego swego"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ścisnąłeś (dłoń)"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "za obcego"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dłoń swoją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:47.489799410Z",
+  "model": "glm-5.3"
+}

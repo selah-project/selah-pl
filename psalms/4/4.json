@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A wiedzcie, że Jahwe wyróżnił sobie czciciela ⟨swego⟩; Jahwe usłyszy, gdy będę wołał do niego.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "A wiedzcie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "wyróżnił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "czciciela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłyszy"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "gdy będę wołał"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.603626423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I rzekł Jahwe do Moszego: Widziałem ⟨את⟩ lud ten, a oto lud o twardym karku on ⟨jest⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud ten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "o twardym"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "karku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:23.535093717Z",
+  "model": "glm-5.3"
+}

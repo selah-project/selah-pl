@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Jednak jak adam pomrzecie i jak jeden z książąt upadniecie.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "jednak"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "jak adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "pomrzecie"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "i jak jeden"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "z książąt"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "upadniecie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:20.416881666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "bo z naprzeciwka zobaczysz ⟨את⟩ kraj, ale tam nie wejdziesz do kraju, który ja daję synom Jisraela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "z naprzeciwka"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zobaczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ale tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wejdziesz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daję"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:36.357493638Z",
+  "model": "glm-5.3"
+}

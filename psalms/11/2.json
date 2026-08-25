@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Gdyż oto źli napinają łuk, przygotowali strzałę swą na cięciwie, by strzelać w ciemności do prostych sercem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "źli"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "napinają"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "przygotowali"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "strzałę swą"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "cięciwie"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "by strzelać"
+    },
+    {
+      "surface": "במו",
+      "gloss": "w"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ciemności"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "do prostych"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sercem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.258425727Z",
+  "model": "glm-5.3"
+}

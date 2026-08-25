@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rzekł do nich Jicchak: Dlaczego przyszliście do mnie, wy, których mnie nienawidziliście ⟨את⟩ i którzy mnie odprawiliście od was ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "przyszliście"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "nienawidziliście"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "i odprawiliście mnie"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "od was ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:08.269933618Z",
+  "model": "glm-5.3"
+}

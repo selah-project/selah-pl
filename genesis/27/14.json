@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I poszedł, i wziął, i przyniósł swojej matce; i zrobiiła jego matka potrawy smakowite, tak jak kochał jego ojciec.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyniósł"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "swojej matce"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "i zrobiiła"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jego matka"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "potrawy smakowite"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kochał"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojciec"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:22.706140786Z",
+  "model": "glm-5.3"
+}

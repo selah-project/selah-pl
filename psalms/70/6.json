@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 70,
+  "translation": "A ja ⟨jestem⟩ ubogi i biedny — Elohim, pośpiesz się do mnie! Moja pomoc i mój wybawiciel ⟨jesteś⟩ ty, Jahwe; nie zwlekaj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": ""
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i biedny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pośpiesz się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Moja pomoc"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i mój wybawiciel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zwlekaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.749502079Z",
+  "model": "glm-5.3"
+}

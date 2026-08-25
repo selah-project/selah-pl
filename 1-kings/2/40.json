@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wstał Szimei, i osiodłał ⟨את⟩ swego osła, i poszedł do Gat, do Akisza, szukać ⟨את⟩ swoich sług; i poszedł Szimei, i sprowadził ⟨את⟩ swoich sług z Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Szimei"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "i osiodłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego osła"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "swego osła"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "do Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akisza"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sług"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sług"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Szimei"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i sprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sług"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sług"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "z Gat"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:02.450594854Z",
+  "model": "glm-5.3"
+}

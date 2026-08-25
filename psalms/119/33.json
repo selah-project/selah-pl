@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Naucz mnie, Jahwe, drogi Twoich ustaw, a będę jej strzegł ⟨aż do⟩ końca.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Naucz mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Twoich ustaw"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "a będę jej strzegł"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨aż do⟩ końca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:41.029249166Z",
+  "model": "glm-5.3"
+}

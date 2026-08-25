@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wezwał ⟨אל⟩ Mojżesza, i mówił Jahwe do niego z Namiotu Spotkania, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I wezwał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojżesza"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "z Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:15.602350723Z",
+  "model": "glm-5.3"
+}

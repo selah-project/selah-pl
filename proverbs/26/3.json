@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Bicz dla konia, uzda dla osła, a rózga dla plec głupich.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "bicz"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "dla konia"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "uzda"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "dla osła"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "a rózga"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "dla plec"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "głupich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:05.279157465Z",
+  "model": "glm-5.3"
+}

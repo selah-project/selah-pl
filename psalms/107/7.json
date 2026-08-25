@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I wiódł ich drogą prostą, aby iść do miasta ⟨na⟩ zamieszkanie.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "i wiódł ich"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "prostą"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby iść"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "zamieszkania"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:01.277651373Z",
+  "model": "glm-5.3"
+}

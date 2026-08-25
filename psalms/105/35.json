@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I zjadł każdą trawę w ich ziemi, i zjadł owoc ich gleby.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "I zjadł"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "w ich ziemi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i zjadł"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ich gleby"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.795434256Z",
+  "model": "glm-5.3"
+}

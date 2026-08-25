@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 142,
+  "translation": "Glosem moim do Jahwe wołam, glosem moim do Jahwe o łaskę błagam.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "głosem moim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głosem moim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "o łaskę błagam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:45.649911919Z",
+  "model": "glm-5.3"
+}

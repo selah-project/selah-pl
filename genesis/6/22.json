@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I uczynił Noach według wszystkiego, co przykazał ⟨את⟩ niego Elohim — tak uczynił.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:02.485660965Z",
+  "model": "glm-5.3"
+}

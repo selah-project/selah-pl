@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I nienawidziłem ⟨את⟩ życia, bo złe jest dla mnie dzieło, które się czyni pod słońcem, bo wszystko to marność i trapienie ducha.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "i nienawidziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "życie"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "życie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "które się czyni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marność"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i trapienie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:49.114985196Z",
+  "model": "glm-5.3"
+}

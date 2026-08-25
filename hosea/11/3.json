@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A Ja uczyłem chodzić Efraima, brałem ich na jego ramiona, lecz oni nie wiedzieli, że Ja ich uzdrawiałem.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "A Ja"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "uczyłem chodzić"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "brałem ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "jego ramiona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wiedzieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "uzdrawiałem ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:07.636375507Z",
+  "model": "glm-5.3"
+}

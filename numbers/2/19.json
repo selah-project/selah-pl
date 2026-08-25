@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 2:19",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I jego wojsko, i jego policzeni ⟨liczbowo⟩: czterdzieści tysięcy i pięćset.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego wojsko"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i ich policzeni"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdzieści"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pięć"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:21.917188687Z",
+  "model": "glm-5.3"
+}

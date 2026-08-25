@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Jeśli powiedzą: Pójdź ⟨את⟩-z nami, zaczajmy się na krew, zasadzkujmy na niewinnych bez powodu,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "powiedzą"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Pójdź"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-z nami",
+      "marks": "z nami"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "zaczajmy się"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "na krew"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "zasadzkujmy"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "na niewinnych"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:58.031141204Z",
+  "model": "glm-5.3"
+}

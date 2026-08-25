@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I ja spustoszę ⟨את⟩ ziemię, i zdumieją się nad nią wasi wrogowie, którzy w niej mieszkają.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "spustoszę"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "zdumieją się"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad nią"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "wasi wrogowie"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "którzy mieszkają"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:17.666535030Z",
+  "model": "glm-5.3"
+}

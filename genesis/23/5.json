@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I odpowiedzieli synowie Cheta ⟨את⟩ Awrahama, mówiąc do niego:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "i odpowiedzieli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "do niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:57.272398421Z",
+  "model": "glm-5.3"
+}

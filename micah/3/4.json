@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wtedy krzyczeć będą do Jahwe, ale nie odpowie ⟨את⟩ im, i ukryje oblicze swoje przed nimi w czasie owym, że złe czynili czyny swoje.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "krzyczeć będą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "odpowie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ im",
+      "marks": "oni — przywódcy"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "i ukryje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oblicze swoje"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "złe czynili"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "czyny swoje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:37.315007184Z",
+  "model": "glm-5.3"
+}

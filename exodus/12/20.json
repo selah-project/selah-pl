@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Każdego kwaszonego nie będziecie jeść; we wszystkich waszych siedzibach będziecie jeść mace.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "kwaszonego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkich"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "waszych siedzibach"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mace"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:53.929786294Z",
+  "model": "glm-5.3"
+}

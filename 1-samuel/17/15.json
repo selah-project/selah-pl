@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "A Dawid chodził i wracał od Szaula, aby paść ⟨את⟩ trzodę ojca swego w Betlechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodził"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i wracał"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "aby paść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzodę"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzodę"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-lechem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:55.380313114Z",
+  "model": "glm-5.3"
+}

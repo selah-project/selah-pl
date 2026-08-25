@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Ustanów nad nim bezbożnego, a oskarżyciel niech stoi po jego prawicy.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Ustanów"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "a oskarżyciel"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "niech stoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jego prawicy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:29.812016417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Błąkali się na pustyni, na stepie — drogą ⟨bez⟩ miasta zamieszkania nie znaleźli.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Błąkali się"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "na stepie"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "zamieszkania"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "znaleźli"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:03.523601802Z",
+  "model": "glm-5.3"
+}

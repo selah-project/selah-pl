@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A jeśli zostanie znaleziony, zapłaci siedemkroć — ⟨את⟩ cały majątek domu swego da.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "a jeśli zostanie znaleziony"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "siedemkroć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały majątek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "הון",
+      "gloss": "majątek"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "domu swego"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:19.734511487Z",
+  "model": "glm-5.3"
+}

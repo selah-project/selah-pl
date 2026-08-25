@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Czyż nie ⟨jest⟩ służba wojsenna człowiekowi na ziemi, i jak dni najemnika dni jego?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "służba wojsenna"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "i jak dni"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najemnika"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dni jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:38.621454756Z",
+  "model": "glm-5.3"
+}

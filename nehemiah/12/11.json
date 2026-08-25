@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A Jojada spłodził ⟨את⟩ Jonatana, a Jonatan spłodził ⟨את⟩ Jaddue.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "A Jojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "a Jonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaddue"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaddue"
+    }
+  ],
+  "timestamp": "2026-08-25T02:48:54.644515086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I wzbudził Jahwe przeciwnika Szlomo — ⟨את⟩ Hadada Edomitę, z nasienia królewskiego — on ⟨był⟩ w Edomie.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wzbudził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "przeciwnika"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadada Edomitę"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomitę"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "z nasienia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "w Edomie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:49.948028290Z",
+  "model": "glm-5.3"
+}

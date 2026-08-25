@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I(On) skończył w marności ich dni, a lata ich w przerażeniu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "skończył"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "w marności"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ich dni"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "a lata ich"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "w przerażeniu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.502423851Z",
+  "model": "glm-5.3"
+}

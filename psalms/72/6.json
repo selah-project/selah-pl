@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Niech zstąpi jak deszcz na runo, jak ulewy spryskujące ziemię.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "niech zstąpi"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "jak deszcz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גז",
+      "gloss": "runo"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "jak ulewy"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "spryskujące"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:38.245193913Z",
+  "model": "glm-5.3"
+}

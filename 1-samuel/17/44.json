@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Filistyn do Dawida: Podejdź do mnie, a dam ⟨את⟩ twoje ciało ptactwu niebios i zwierzętom pola.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "podejdź"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a dam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje ciało"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "twoje ciało"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ptactwu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "i zwierzętom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:24.260199917Z",
+  "model": "glm-5.3"
+}

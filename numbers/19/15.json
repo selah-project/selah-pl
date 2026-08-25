@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I każdy otwarty przedmiot, na którym nie ⟨jest⟩ mocowany sznurek-pokrywka, nieczysty jest.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i każdy"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "przedmiot"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "otwarty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na którym"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "mocowany sznurek-pokrywka"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "sznurek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczysty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:50.519469912Z",
+  "model": "glm-5.3"
+}

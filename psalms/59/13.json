@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Grzech ich ust, słowo ich warg — niech będą schwytani w swej pysze; i z przekleństwa i z kłamstwa opowiadają.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "grzech"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ich ust"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ich warg"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "niech będą schwytani"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "w swej pysze"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "i z przekleństwa"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "i z kłamstwa"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "opowiadają"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.584488340Z",
+  "model": "glm-5.3"
+}

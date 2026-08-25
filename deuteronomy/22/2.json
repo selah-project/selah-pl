@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A jeśli nie ⟨jest⟩ blisko twój brat przy tobie i nie znasz go, zgromadzisz ⟨את⟩ tego do wnętrza twego domu, i ⟨będzie⟩ z tobą, aż poszuka twój brat ⟨את⟩ tego, i oddasz mu to.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blisko"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twój brat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "przy tobie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "znasz go"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "zgromadzisz go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "wnętrza"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twego domu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "poszuka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twój brat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tego",
+      "marks": "go (zwierzę)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "i oddasz go"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:10.376121046Z",
+  "model": "glm-5.3"
+}

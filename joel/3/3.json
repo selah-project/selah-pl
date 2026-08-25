@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I dam znaki na niebiosach i na ziemi: krew i ogień, i słupy dymu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "znaki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na niebiosach"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na ziemi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "i ogień"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "i słupy"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dymu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:14.451779137Z",
+  "model": "glm-5.3"
+}

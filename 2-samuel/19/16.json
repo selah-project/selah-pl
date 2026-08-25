@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wrócił król, i przybył aż do Jarden, a Jehuda przyszedł do Ha-Gilgal, aby pójść na spotkanie króla, aby przeprowadzić ⟨את⟩ króla przez ⟨את⟩ Jarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I wrócił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przybył"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pryszedł"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "do Ha-Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby pójść"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na spotkanie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "aby przeprowadzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:58.562404487Z",
+  "model": "glm-5.3"
+}

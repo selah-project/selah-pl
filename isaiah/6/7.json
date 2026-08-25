@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I dotknął moich ust, i powiedział: Oto ten dotknął twoich warg, i usunięta ⟨jest⟩ twoja wina, i twój grzech zostanie okryty.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "i dotknął"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moich ust"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotknął"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "twoich wargach"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "i usunięta"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "twoja wina"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "i twój grzech"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "zostanie okryty"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:59.881206816Z",
+  "model": "glm-5.3"
+}

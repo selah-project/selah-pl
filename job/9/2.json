@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Zaprawdę, wiem, że tak ⟨jest⟩; lecz jak może człowiek śmiertelny ⟨być⟩ sprawiedliwy wobec El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lecz jak"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "⟨być⟩ sprawiedliwy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "człowiek śmiertelny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:15.244157923Z",
+  "model": "glm-5.3"
+}

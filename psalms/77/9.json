@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Czyż wygasła na zawsze jego wierna miłość przymierza? Czy się wypełniło ⟨i skończyło⟩ słowo ⟨obiecane⟩ na pokolenie i pokolenie?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "czyż wygasła"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego wierna miłość przymierza"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "się wypełniło ⟨i skończyło⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "słowo ⟨obiecane⟩"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:22.340493983Z",
+  "model": "glm-5.3"
+}

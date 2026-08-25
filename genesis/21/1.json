@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I Jahwe nawiedził ⟨את⟩ Sarę, jak powiedział, i uczynił Jahwe dla Sary, jak przemówił.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "I Jahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nawiedził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarę"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarę"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "dla Sary"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:25.106558595Z",
+  "model": "glm-5.3"
+}

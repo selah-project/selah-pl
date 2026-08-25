@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Jeśli widziałeś złodzieja, biegałeś z nim, a z cudzołożnikami ⟨jest⟩ twój dział.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "widziałeś"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "złodzieja"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "biegałeś"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a z"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "cudzołożnikami"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "twój dział"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:57.884315094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 111,
+  "translation": "Żer dał ⟨tym, którzy⟩ się Go boją; pamiętać będzie na wieki o swoim przymierzu.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Żer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "⟨tym, którzy⟩ się Go boją"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "pamiętać będzie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "o swoim przymierzu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:28.838164013Z",
+  "model": "glm-5.3"
+}

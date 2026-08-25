@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I żył Re'u dwa i trzydzieści lat, i zrodził ⟨את⟩ Seruga.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruga"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruga"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:46.028722517Z",
+  "model": "glm-5.3"
+}

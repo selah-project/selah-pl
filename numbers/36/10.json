@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Jak przykazał Jahwe ⟨את⟩ Moszemu, tak uczyniły córki Celofchada.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczyniły"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Celofchada"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:33.839105981Z",
+  "model": "glm-5.3"
+}

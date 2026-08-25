@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I namaścisz nim ⟨את⟩ Namiot Spotkania oraz ⟨את⟩ Aron Świadectwa",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Namiot Spotkania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Aron Świadectwa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:14.221364935Z",
+  "model": "glm-5.3"
+}

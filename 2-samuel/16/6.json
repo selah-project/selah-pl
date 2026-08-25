@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rzucał kamieniami w Dawida i we wszystkich sługi króla Dawida; a cały lud i wszyscy mężowie dzielni ⟨byli⟩ po jego prawicy i po jego lewicy.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "I rzucał kamieniami"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kamieniami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich sługi króla Dawida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mężowie dzielni"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "po jego prawicy"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "i po jego lewicy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:04.641643614Z",
+  "model": "glm-5.3"
+}

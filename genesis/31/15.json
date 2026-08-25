@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Czy nie zostałyśmy przez niego poczytane za obce? Bo sprzedał nas, a nawet zjadł do końca ⟨את⟩ nasze srebro.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Czy nie"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "za obce"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "zostałyśmy poczytane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "przez niego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "sprzedał nas"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a zjadł"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "do końca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasze srebro"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "nasze srebro"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:23.907475010Z",
+  "model": "glm-5.3"
+}

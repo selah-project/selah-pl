@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Jahwe nas wspomniał, pobłogosławi — pobłogosławi ⟨את⟩ dom Jisroel, pobłogosławi ⟨את⟩ dom Ahrona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "nas wspomniał"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pobłogosławi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pobłogosławi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jisroel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisroel"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pobłogosławi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Ahrona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:10.031535710Z",
+  "model": "glm-5.3"
+}

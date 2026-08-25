@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I przyszedł Dawid oraz jego mężowie do miasta — a oto spalone ogniem; a ich kobiety, i ich synowie, i ich córki zostały uprowadzone do niewoli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jego mężowie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "spalone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "a ich kobiety"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "i ich synowie"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "i ich córki"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "zostały uprowadzone do niewoli"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:21.736072563Z",
+  "model": "glm-5.3"
+}

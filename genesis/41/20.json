@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I pożarły krowy chude i złe ⟨את⟩ siedem krów pierwszych, tuczne.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "i pożarły"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "krowy"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "chude"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "i złe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem krów pierwszych, tuczne"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "krów"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "pierwszych"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "tuczne"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:59.010750783Z",
+  "model": "glm-5.3"
+}

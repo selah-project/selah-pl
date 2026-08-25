@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "⟨את⟩ samosiejki twojego żniwa nie zżniesz, i ⟨את⟩ winogron twego nieuprawionego winoroślu nie zbierzesz — rok szabatowego odpoczynku ⟨będzie⟩ dla ziemi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samosiejki twojego żniwa"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "samosiejka"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "twojego żniwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "zżniesz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "winogron twego nieuprawionego winoroślu"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "winogrona"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "twój nieuprawiany (winorośl)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "zbierzesz"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "rok"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "szabatowego odpoczynku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dla ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:56.303553820Z",
+  "model": "glm-5.3"
+}

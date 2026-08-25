@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uczynił Jahwe ⟨את⟩ słowo to nazajutrz, i padła cała trzoda Micraim, a z trzody synów Israela nie padło ⟨ani⟩ jedno.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowo to"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazajutrz"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i padła"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "trzoda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "a z trzody"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מת",
+      "gloss": "padło"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:05.298942019Z",
+  "model": "glm-5.3"
+}

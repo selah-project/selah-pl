@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "lecz z owocu drzewa, które jest pośrodku ogrodu, Elohim powiedział: Nie będziecie z niego jeść ani go dotykać, abyście nie pomarli.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "lecz z owocu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośrodku"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ogrodu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dotykać"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "pomarli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:45.134917458Z",
+  "model": "glm-5.3"
+}

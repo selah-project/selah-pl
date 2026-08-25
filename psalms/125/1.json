@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 125,
+  "translation": "Pieśń wstępowań. Ufający w Jahwe ⟨są⟩ jak góra Cijon — nie zachwieje się, na wieki mieszka.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ufający"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jak góra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zachwieje się"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mieszka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:11.142433851Z",
+  "model": "glm-5.3"
+}

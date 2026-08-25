@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I weźmie kapłan z logu oliwy, i wyleje na dłoń kapłana, lewą.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i weźmie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "z logu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oliwy"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "i wyleje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dłoń"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "lewą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:23.070816971Z",
+  "model": "glm-5.3"
+}

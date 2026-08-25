@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ⟨את⟩ kłaniających się na dachach wojsku niebios, i ⟨את⟩ kłaniających się, przysięgających Jahwe i przysięgających Malkamem ⟨swoim królem⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kłaniających się na dachach"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kłaniających się"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "dachach"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "wojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kłaniających się, przysięgających"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kłaniających się"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "przysięgających"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "i przysięgających"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malkamem ⟨swoim królem⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:22.338133567Z",
+  "model": "glm-5.3"
+}

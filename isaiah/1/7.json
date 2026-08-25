@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wasza ziemia ⟨jest⟩ pustkowiem, wasze miasta spalone ogniem; waszą rolę — na waszych oczach obcy ją pożerają ⟨את⟩ — i ⟨jest⟩ pustkowiem jak obalenie ⟨przez⟩ obcych.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Wasza ziemia"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustkowiem"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "wasze miasta"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "spalone"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "wasza rola"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "na waszych oczach"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "pożerają"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "i ⟨jest⟩ pustkowiem"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "jak obalenie"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "przez obcych"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:29.207494886Z",
+  "model": "glm-5.3"
+}

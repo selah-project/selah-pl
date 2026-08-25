@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A król Koresz wyniósł ⟨את⟩ naczynia domu Jahwe, które wyniósł Nebukadnecar z Jeruszalaim, i umieścił je w domu swoich bogów.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a król"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresz"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wyniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naczynia domu Jahwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wyniósł"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnecar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruszalaim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "i umieścił je"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "swoich bogów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:41:24.253162309Z",
+  "model": "glm-5.3"
+}

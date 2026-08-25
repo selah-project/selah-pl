@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "Będą Ci dziękować, Jahwe, wszyscy królowie ziemi, bo usłyszeli słowa twych ust.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Będą Ci dziękować"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłyszeli"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twych ust"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:38.909764568Z",
+  "model": "glm-5.3"
+}

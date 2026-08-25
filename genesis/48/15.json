@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "I pobłogosławił ⟨את⟩ Josefa, i powiedział: Elohim, przed którym kroczyli moi ojcowie Awraham i Jicchak — Elohim, który mnie pasie ⟨את⟩ od mego istnienia aż po ten dzień —",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "kroczyli"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "moi ojcowie"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "i Jicchak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "który pasie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "od mego istnienia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ten dzień"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:43.633842229Z",
+  "model": "glm-5.3"
+}

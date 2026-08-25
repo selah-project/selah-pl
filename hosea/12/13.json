@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I uciekł Jaakow na pole Aramu, i służył Jisraël ⟨za⟩ żonę, i ⟨za⟩ żonę strzegł ⟨owiec⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "i służył"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "za żonę"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "i za żonę"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzegł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:03.252450529Z",
+  "model": "glm-5.3"
+}

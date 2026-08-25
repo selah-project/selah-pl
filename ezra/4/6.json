@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I za królowania Achaszerosza, na początku jego królestwa, napisali oskarżenie przeciw mieszkańcom Jehudy i Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "i za królowania"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaszerosza"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na początku"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "jego królestwa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "napisali"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "oskarżenie"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:42:53.880150358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wziął Szemuuel ⟨את⟩ Szaula i ⟨את⟩ jego sługę, i wprowadził ich do komnaty, i dał im miejsce na czele zaproszonych — a ich było około trzydziestu mężów.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego sługę"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "jego sługę"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i wprowadził ich"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "do komnaty"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na czele"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "zaproszonych"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "a ich było"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "około trzydziestu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:07.925252687Z",
+  "model": "glm-5.3"
+}

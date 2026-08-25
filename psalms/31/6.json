@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "W Twoją rękę powierzam mojego ducha; wykupiłeś ⟨את⟩ mnie, Jahwe, Elu wierności.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "w Twoją rękę"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "powierzam"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mojego ducha"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "wykupiłeś"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wierności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:53.012683605Z",
+  "model": "glm-5.3"
+}

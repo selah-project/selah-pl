@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A synowie Cheszona, którzy mu się urodzili: ⟨את⟩ Jerachmeel i ⟨את⟩ Ram, i ⟨את⟩ Kelubaj.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A synowie"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Cheszona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "urodzili się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kelubaj"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubaj"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:33.075948555Z",
+  "model": "glm-5.3"
+}

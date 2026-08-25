@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I posłałem przed wami ⟨את⟩ szerszenia, i wypędził ich ⟨אתם⟩ sprzed was — dwóch królów Emorytów; nie twoim mieczem ani twoim łukiem.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "i posłałem"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szerszenia"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "szerszenia"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "i wypędził"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sprzed was"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "twoim mieczem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "twoim łukiem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:58.667396860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wymazał ⟨את⟩ cały byt, który ⟨był⟩ na obliczu gleby — od człowieka aż do bydła, aż do płaza i aż do ptactwa niebios; i zostały wymazane z ziemi. I pozostał tylko Noach oraz ⟨את⟩ z nim w arce.",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "i wymazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały byt, który był na obliczu gleby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "byt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gleby"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od człowieka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "płaza"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "i zostały wymazane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "i pozostał"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oraz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "w arce"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:56.899083610Z",
+  "model": "glm-5.3"
+}

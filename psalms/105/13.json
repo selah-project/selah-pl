@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I wędrowali od narodu do narodu, od królestwa do innego ludu.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "i wędrowali"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "od narodu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "od królestwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:32.150812443Z",
+  "model": "glm-5.3"
+}

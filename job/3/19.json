@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Mały i wielki tam ⟨jest⟩, i sługa wolny od swego pana.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "mały"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "i sługa"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "wolny"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "od swego pana"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:57.700400125Z",
+  "model": "glm-5.3"
+}

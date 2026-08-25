@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I gdy ten lżył ⟨את⟩ Jisraela, poraził go Jehonatan, syn Szymeja, brata Dawida.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "i lżył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "poraził go"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Szymeja"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:16.127779287Z",
+  "model": "glm-5.3"
+}

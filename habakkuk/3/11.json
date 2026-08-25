@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Słońce, księżyc stanęły w swojej siedzibie; przy świetle twoich strzał kroczą, przy blasku błyskawicy twojej włóczni.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "księżyc"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stanęły"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "w swojej siedzibie"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "przy świetle"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "twoich strzał"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "kroczą"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "przy blasku"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "błyskawicy"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "twojej włóczni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:43.275552387Z",
+  "model": "glm-5.3"
+}

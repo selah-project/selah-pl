@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "gdyż usłyszą ⟨את⟩ twoje imię wielkie i ⟨את⟩ twoją rękę mocną oraz twoje ramię wyciągnięte, i przyjdzie, i będzie się modlić ku temu domowi,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "usłyszą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje imię"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twoje imię"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "twoją rękę"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoją rękę"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mocną"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "oraz twoje ramię"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "wyciągnięte"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przyjdzie"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "i będzie się modlił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temu domowi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "temu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:36.552884208Z",
+  "model": "glm-5.3"
+}

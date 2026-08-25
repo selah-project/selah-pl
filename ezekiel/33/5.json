@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Głos szofaru usłyszał, a nie dał się ostrzec — jego krew ⟨będzie⟩ na nim; a kto się ostrzegł, swoją nefesz ocalił.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos szofaru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "szofaru"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "dał się ostrzec"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨będzie⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ostrzegł się"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swoją nefesz"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ocalił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:24:05.959016143Z",
+  "model": "glm-5.3"
+}

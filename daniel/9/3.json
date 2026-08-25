@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I zwróciłem ⟨את⟩ moją twarz ku Adonai, Elohim, by szukać modlitwy i błagań — w poście, w worze i w popiele.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "i zwróciłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją twarz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "moją twarz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "by szukać"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitwy"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "i błagań"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "w poście"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "w worze"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "i w popiele"
+    }
+  ],
+  "timestamp": "2026-08-25T02:38:48.951202407Z",
+  "model": "glm-5.3"
+}

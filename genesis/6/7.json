@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł Jahwe: Wymażę ⟨את⟩ człowieka, którego stworzyłem, z oblicza ziemi — od człowieka aż do bydła, aż do płazów i aż do ptactwa niebios, bo żałuję, że ich uczyniłem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "wymażę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "stworzyłem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od człowieka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "płazów"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "żałuję"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ich uczyniłem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:28.079081842Z",
+  "model": "glm-5.3"
+}

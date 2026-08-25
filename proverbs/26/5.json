@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Odpowiedz głupiemu według jego głupoty, żeby nie był mądrym we własnych oczach.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Odpowiedz"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "głupiemu"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "według jego głupoty"
+    },
+    {
+      "surface": "פן",
+      "gloss": "żeby nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "był"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrym"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "we własnych oczach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:09.896912450Z",
+  "model": "glm-5.3"
+}

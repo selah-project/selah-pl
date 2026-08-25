@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I przykazał ⟨את⟩ pierwszemu, mówiąc: Gdy spotka cię Esaw, brat mój, i zapyta cię, mówiąc: Czyj jesteś? I dokąd idziesz? I czyje to ⟨są⟩ przed tobą?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i przykazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pierwszemu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pierwszemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "spotka cię"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brat mój"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "i zapyta cię"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "למי",
+      "gloss": "czyj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jesteś"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "i dokąd"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "idziesz"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "i czyje"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:54.378195434Z",
+  "model": "glm-5.3"
+}

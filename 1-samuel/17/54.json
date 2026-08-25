@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I wziął Dawid ⟨את⟩ głowę tego Peliszty i przywiódł ją do Jeruszalaim, a ⟨את⟩ jego sprzęty złożył w swoim namiocie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głowę"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "tego Peliszty"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "i przywiódł ją"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jego sprzęty"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego sprzęty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "złożył"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "w swoim namiocie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:26:41.641224015Z",
+  "model": "glm-5.3"
+}

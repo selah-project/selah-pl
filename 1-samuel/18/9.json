@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I stało się: Szaul śledził ⟨את⟩ Dawida od tego dnia i dalej.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "śledził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "od tego dnia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tego"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "i dalej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:49.915196551Z",
+  "model": "glm-5.3"
+}

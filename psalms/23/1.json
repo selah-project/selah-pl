@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Pieśń Dawida: Jahwe ⟨jest⟩ moim pasterzem — nie będę lacking...",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "pasterz mój"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "będę cierpiał niedostatek"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:04.586848102Z",
+  "model": "glm-5.3"
+}

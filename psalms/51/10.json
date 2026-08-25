@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Spraw, bym usłyszał radość i wesele; niech się rozradują kości, które zmiażdżyłeś.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "spraw, bym usłyszał"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radość"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "i wesele"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "niech się rozradują"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kości"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "które zmiażdżyłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.495760526Z",
+  "model": "glm-5.3"
+}

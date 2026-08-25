@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Będę chwalił Jahwe w życiu moim, będę grał Elohim memu, póki jestem.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Będę chwalił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "w życiu moim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "będę grał"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim memu"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "póki jestem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:08.078912180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I ⟨את⟩ kadzielnice i ⟨את⟩ misy, które złote — złotem, a które srebrne — srebrem, wziął naczelny rzeźników.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadzielnice"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "kadzielnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "misy"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "misy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złote"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a które"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrne"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrem"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "רב",
+      "gloss": "naczelny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "rzeźników"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:24.956764981Z",
+  "model": "glm-5.3"
+}

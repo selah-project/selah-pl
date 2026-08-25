@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I poszedł Owadjah na spotkanie Achaba i oznajmił mu; i poszedł Achab na spotkanie Eljasza.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Owadja"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na spotkanie"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na spotkanie"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eljasza"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:34.714016423Z",
+  "model": "glm-5.3"
+}

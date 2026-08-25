@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 110,
+  "translation": "Będzie sądził ⟨w⟩ narodach, napełni ⟨trupy⟩, zmiażdży głowę ⟨na⟩ ziemi wielkiej.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "będzie sądził"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "w narodach"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napełni"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "trupy"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "zmiażdży"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wielkiej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.663375984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Dniem i nocą obchodzą ⟨ją⟩ na murach jej, a niegodziwość i trud ⟨są⟩ w wnętrzu jej.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "dniem"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocą"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "obchodzą ją"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "murach jej"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "a niegodziwość"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "i trud"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "w wnętrzu jej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:46.916200796Z",
+  "model": "glm-5.3"
+}

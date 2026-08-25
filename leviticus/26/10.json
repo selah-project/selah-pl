@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I będziecie jeść stare zapasy i stary wyprowadzicie przed obliczem nowego.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "i będziecie jeść"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "stare"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "zapasy"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "i stary"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nowego"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "wyprowadzicie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:41.523926745Z",
+  "model": "glm-5.3"
+}

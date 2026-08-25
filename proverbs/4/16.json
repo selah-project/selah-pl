@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Bo nie śpią, jeśli nie wyrządzią zła, i zostaje im odebran ⟨ich⟩ sen, jeśli nie kogoś potkną.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "śpią"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "wyrządzią zła"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "i zostaje odebran"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ich sen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "kogoś potkną"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:37.878795450Z",
+  "model": "glm-5.3"
+}

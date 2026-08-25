@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A Szmuel dotąd nie znał ⟨את⟩ Jahwe, i dotąd nie zostało mu objawione słowo Jahwe.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "a Szmuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "dotąd nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "i dotąd nie"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "zostało objawione"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:24.198010293Z",
+  "model": "glm-5.3"
+}

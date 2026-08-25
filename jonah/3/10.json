@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zobaczył Elohim ⟨את⟩ ich uczynki, że zawrócili ze swojej drogi złej; i pożałował Elohim ⟨nad⟩ złem, które mówił uczynić im — i nie uczynił.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "I zobaczył"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich uczynki"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ich uczynki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "zawrócili"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ze swojej drogi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "złej"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i pożałował"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nad⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "złem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "uczynić"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:20.046067615Z",
+  "model": "glm-5.3"
+}

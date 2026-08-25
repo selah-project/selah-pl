@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I powstrzymał się Haman, i przyszedł do swego domu, i posłał, i sprowadził ⟨את⟩ swoich przyjaciół oraz ⟨את⟩ Zeresz, swoją żonę.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "i powstrzymał się"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i sprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich przyjaciół"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "swoich przyjaciół"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Zeresz"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresz"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swoją żonę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:53.279188894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 126,
+  "translation": "Siewcy w łzach — w radosnym śpiewie będą żąć.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "siewcy"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "w łzach"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "w radosnym śpiewie"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "będą żąć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:56.518018749Z",
+  "model": "glm-5.3"
+}

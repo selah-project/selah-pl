@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Wyrwij od miecza moją nefesz, z łapy psa moją jedynek.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Wyrwij"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z łapy"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "psa"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "moją jedynek"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:38.051946410Z",
+  "model": "glm-5.3"
+}

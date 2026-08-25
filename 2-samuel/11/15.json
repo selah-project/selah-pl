@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I napisał w liście, mówiąc: Postawcie ⟨את⟩ Uriję naprzeciw frontu najcięższej walki i odstąpcie od niego, a będzie porażony i umrze.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisał"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "w liście"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "postawcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriję"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriję"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "מול",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frontu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "walki"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "najcięższej"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "i odstąpcie"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "od niego"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "a będzie porażony"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:50.720846546Z",
+  "model": "glm-5.3"
+}

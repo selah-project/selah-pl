@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Gotowe ⟨jest⟩ moje serce, Elohim; zaśpiewam, tak, zagram, także moja chwała.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Gotowe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zaśpiewam"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "zagram"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja chwała"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.446302784Z",
+  "model": "glm-5.3"
+}

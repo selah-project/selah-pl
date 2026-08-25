@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Twarz swoją rozjaśnij nad sługą swoim i naucz mnie ⟨את⟩ swoich ustaw.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "twarz swoją"
+    },
+    {
+      "surface": "האר",
+      "gloss": "rozjaśnij"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "nad sługą swoim"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "i naucz mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich ustaw"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "swoich ustaw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:27.055914345Z",
+  "model": "glm-5.3"
+}

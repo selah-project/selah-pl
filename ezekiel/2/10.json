@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rozpostarł ją przede mną, a ona ⟨była⟩ zapisana z przodu i z tyłu, i napisane na niej: lamenty, i jęk, i biada.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "I rozpostarł"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przede mną"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "zapisana"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "z przodu"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "i z tyłu"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "i napisane"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na niej"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "lamenty"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "i jęk"
+    },
+    {
+      "surface": "והי",
+      "gloss": "i biada"
+    }
+  ],
+  "timestamp": "2026-08-25T01:07:38.782547685Z",
+  "model": "glm-5.3"
+}

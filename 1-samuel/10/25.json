@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przemówił Szemuël do ludu ⟨את⟩ prawo królestwa, i zapisał ⟨je⟩ w księdze, i złożył ⟨ją⟩ przed Jahwe; i odprawił Szemuël ⟨את⟩ cały lud, każdy do swego domu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prawo królestwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "królestwa"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "i zapisał"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "w księdze"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "i złożył"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i odprawił"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swego domu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:41.908917624Z",
+  "model": "glm-5.3"
+}

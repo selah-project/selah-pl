@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 28:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I poszedł Esaw do Jiszmaela, i wziął ⟨את⟩ Machalat, córkę Jiszmaela, syna Awrahama, siostrę Newajota, do swoich żon, sobie za żonę.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jiszmaela"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machalat"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jiszmaela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "siostrę"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Newajota"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "swoich żon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:42.631582071Z",
+  "model": "glm-5.3"
+}

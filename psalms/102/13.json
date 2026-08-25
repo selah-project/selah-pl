@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "A Ty, Jahwe, na wieki zasięgniesz ⟨tronu⟩, a Twoja pamięć ⟨trwa⟩ pokolenie i pokolenie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "zasięgniesz ⟨tronu⟩"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "a Twoja pamięć"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:38.812134762Z",
+  "model": "glm-5.3"
+}

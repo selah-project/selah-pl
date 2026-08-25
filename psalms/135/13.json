@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Jahwe, imię Twoje na wieczność, Jahwe, pamięć Twoja na pokolenie i pokolenie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieczność"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "pamięć Twoja"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.671161580Z",
+  "model": "glm-5.3"
+}

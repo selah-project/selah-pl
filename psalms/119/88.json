@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Według twego chesed ożyw mnie, abym strzegł świadectwa twoich ust.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "według twego chesed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ożyw mnie"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "abym strzegł"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "świadectwa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twoich ust"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:23.773498647Z",
+  "model": "glm-5.3"
+}

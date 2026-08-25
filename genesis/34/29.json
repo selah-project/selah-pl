@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Oraz ⟨את⟩ cały ich dobytek, i ⟨את⟩ wszystkie ich dzieci, i ⟨את⟩ ich kobiety uprowadzili w niewolę, i złupili ⟨את⟩ wszystko, co ⟨było⟩ w domu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "cały ich dobytek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ich dobytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie ich dzieci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ich dzieci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich kobiety"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ich kobiety"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "uprowadzili w niewolę"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "i złupili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co w domu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:22.805875987Z",
+  "model": "glm-5.3"
+}

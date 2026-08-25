@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Góry — że skaczecie jak barany, pagórki jak synowie trzody?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Góry"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "skaczecie"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "jak barany"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pagórki"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "jak synowie"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzody"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.143808378Z",
+  "model": "glm-5.3"
+}

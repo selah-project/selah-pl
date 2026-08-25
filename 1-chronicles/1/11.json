@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Micrajim zrodził ⟨את⟩ Ludim, i ⟨את⟩ Anamim, i ⟨את⟩ Lehabim, i ⟨את⟩ Naftuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "A Micrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Naftuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuchim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:07.106673103Z",
+  "model": "glm-5.3"
+}

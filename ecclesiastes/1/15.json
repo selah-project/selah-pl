@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wykrzywionego nie można wyprostować, a braku nie można policzyć.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "wykrzywionego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "można"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "wyprostować"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "a braku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "można"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "policzyć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:40.871693555Z",
+  "model": "glm-5.3"
+}

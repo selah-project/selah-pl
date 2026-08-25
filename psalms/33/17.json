@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Kłamstwem ⟨jest⟩ koń dla ratunku, i przez obfitość swej siły nie wyratuje.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Kłamstwem"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "koń"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "dla ratunku"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "i przez obfitość"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "swej siły"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "wyratuje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:30.510196429Z",
+  "model": "glm-5.3"
+}

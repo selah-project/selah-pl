@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I widział Paroh, że nastała ulga, i uczynił twardym ⟨את⟩ serce swoje, i nie usłuchał ich, jak mówił Jahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nastała"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ulga"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "i uczynił twardym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce swoje"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "serce swoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłuchał"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:41.651049667Z",
+  "model": "glm-5.3"
+}

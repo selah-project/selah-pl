@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A teraz usuńcie ⟨את⟩ bogów obcych, które pośród was, i skłońcie ⟨את⟩ serce wasze ku Jahwe, Elohim Israela.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "usuńcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów obcych"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pośród was"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "i skłońcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce wasze"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "serce wasze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:59.481140719Z",
+  "model": "glm-5.3"
+}

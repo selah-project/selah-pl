@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł do nich: Skalczcie ⟨את⟩ dom i napełnijcie ⟨את⟩ dziedzińce zabitymi; wyjdźcie! I wyszli, i bili w mieście.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "skalczcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napełnijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziedzińce"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "dziedzińce"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "zabitymi"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "wyjdźcie"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "i bili"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    }
+  ],
+  "timestamp": "2026-08-25T01:11:45.968346177Z",
+  "model": "glm-5.3"
+}

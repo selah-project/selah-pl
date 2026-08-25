@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "i ⟨את⟩ nami zamieszkajcie, i ⟨ta⟩ ziemia będzie przed wami; osiedlcie się, handlujcie ⟨nią⟩ i obejmijcie ją w posiadanie.”",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "i ⟨את⟩ nami",
+      "marks": "wy"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "zamieszkajcie"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i ziemia"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "osiedlcie się"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "handlujcie ⟨nią⟩"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "i obejmijcie w posiadanie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ją"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:02.881219075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Poznaliśmy, Jahwe, naszą nieprawość, winę naszych ojców, bo zgrzeszyliśmy przeciwko Tobie.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "poznaliśmy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "naszą nieprawość"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "naszych ojców"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "zgrzeszyliśmy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "przeciwko Tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:37:07.493233499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Gdy próbowali Mnie wasi ojcowie, doświadczali Mnie, choć widzieli moje dzieło.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "próbowali Mnie"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "wasi ojcowie"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "doświadczali Mnie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "choć"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "widzieli"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moje dzieło"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:25.505847924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zdobył ⟨את⟩ miasta warowne, które należały do Jehudy, i dotarł aż do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "I zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasta warowne"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "warowne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "należały do Jehudy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dotarł"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:03.825968387Z",
+  "model": "glm-5.3"
+}

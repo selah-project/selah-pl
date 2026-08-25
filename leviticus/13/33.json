@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I ogoli się, lecz ⟨את⟩ wypad nie ogoli; i zamknie kapłan ⟨את⟩ wypad na siedem dni powtórnie.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "i ogoli się"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wypad"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "wypad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ogoli"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i zamknie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wypad"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "wypad"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "powtórnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:30.479335447Z",
+  "model": "glm-5.3"
+}

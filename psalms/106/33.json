@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Bo rozgoryczyli ⟨את⟩ jego ducha i mówił pochopnie swoimi wargami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "rozgoryczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego ducha"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jego ducha"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "i mówił pochopnie"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "swoimi wargami"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:45.632749782Z",
+  "model": "glm-5.3"
+}

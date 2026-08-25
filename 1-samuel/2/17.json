@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I ⟨była⟩ grzech owych młodzienców wielka bardzo przed ⟨obliczem⟩ Jahwe, bo wzgardzili mężowie ⟨את⟩ ofiarą Jahwe.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i ⟨była⟩"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grzech"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "owych młodzienców"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przed obliczem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wzgardzili"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiarą"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofiarą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:43.462337860Z",
+  "model": "glm-5.3"
+}

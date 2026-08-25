@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przyszli wszyscy starsi Jisraela, a kapłani unieśli ⟨את⟩ arkę.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "I przyszli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a unieśli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:57.002922048Z",
+  "model": "glm-5.3"
+}

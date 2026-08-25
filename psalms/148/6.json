@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "I ustawił je na zawsze, na wieki wieków; ustanowił dekret, który nie przeminie.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "i ustawił je"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki wieków"
+    },
+    {
+      "surface": "חק",
+      "gloss": "dekret"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ustanowił (dosł. dał)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "przeminie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:36.345197383Z",
+  "model": "glm-5.3"
+}

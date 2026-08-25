@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I stanęli bieguńcy, każdy z bronią swoją w ręku swoim, od boku domu po stronie prawej aż do boku domu po stronie lewej, przy ołtarzu i przy domu, wokół króla.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "I stanęli"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "bieguńcy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "z bronią swoją"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w ręku swoim"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "od boku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "po stronie prawej"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "boku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "po stronie lewej"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "przy ołtarzu"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "i przy domu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wokół"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:08.416354947Z",
+  "model": "glm-5.3"
+}

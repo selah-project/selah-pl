@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Słowa niegodziwych ⟨to⟩ zasadzka na krew, a usta prostych wybawią ich.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "niegodziwych"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "zasadzka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "a usta"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prostych"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wybawią ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:09.516064034Z",
+  "model": "glm-5.3"
+}

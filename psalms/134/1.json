@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 134,
+  "translation": "Pieśń stopni. Oto błogosławcie ⟨את⟩ Jahwe, wszyscy słudzy Jahwe, którzy stoją w domu Jahwe w nocach!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stopni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "błogosławcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "którzy stoją"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "w nocach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:22.215417429Z",
+  "model": "glm-5.3"
+}

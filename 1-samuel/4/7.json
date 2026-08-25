@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I bali się Pelisztim, bo rzekli: Przybyli Elohim do obozu. I rzekli: Biada nam, bo nie było takiej ⟨rzeczy⟩ wczoraj i przedwczoraj.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "I bali się"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelisztim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rzekli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Przybyli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "I rzekli"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "była"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "taka"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "wczoraj"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "i przedwczoraj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:47.728298948Z",
+  "model": "glm-5.3"
+}

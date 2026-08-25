@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Arpachszad zrodził ⟨את⟩ Szelacha, a Szelach zrodził ⟨את⟩ Ebera.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "A Arpachszad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szelacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Szelacha"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a Szelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebera"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:34.349534816Z",
+  "model": "glm-5.3"
+}

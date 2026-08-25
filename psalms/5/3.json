@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Nastaw ucha na głos wołania mego, królu mój i Elohim mój, bo do ciebie się modlę.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Nastaw ucha"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na głos"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "wołania mego"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królu mój"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i Elohim mój"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "się modlę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:11.302008088Z",
+  "model": "glm-5.3"
+}

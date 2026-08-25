@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Każda dolina zostanie podniesiona, a każda góra i pagórek będą poniżone; i stanie się kręta przestrzeń równiną, a pagórki doliną.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Każda"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dolina"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "zostanie podniesiona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a każda"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "i pagórek"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "będą poniżone"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i stanie się"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "kręta przestrzeń"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "równiną"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "a pagórki"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "doliną"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:02.726025012Z",
+  "model": "glm-5.3"
+}

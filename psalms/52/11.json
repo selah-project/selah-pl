@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "Będę Cię wysławiał na wieki, bo uczyniłeś ⟨to⟩; i oczekuję na imię Twoje, bo ⟨ono⟩ jest dobre wobec Twoich świętych.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Będę Cię wysławiał"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "i oczekuję"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "na imię Twoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "Twoich świętych"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:42.931112794Z",
+  "model": "glm-5.3"
+}

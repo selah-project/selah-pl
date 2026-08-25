@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wziął Mosze połowę krwi i włożył ⟨ją⟩ do czar, a połowę krwi pokropił na ołtarz.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "połowę"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i włożył"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "do czar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a połowę"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "pokropił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:01.902763194Z",
+  "model": "glm-5.3"
+}

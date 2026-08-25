@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Wybaw mnie, Elohim, bo przyszły wody aż do nefesz.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Wybaw mnie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:42.112507695Z",
+  "model": "glm-5.3"
+}

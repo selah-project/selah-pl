@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A Uzzi spłodził ⟨את⟩ Zerachjasza, a Zerachjasz spłodził ⟨את⟩ Merajota.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "A Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachjasza"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachjasza"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "a Zerachjasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajota"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajota"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:34.013475058Z",
+  "model": "glm-5.3"
+}

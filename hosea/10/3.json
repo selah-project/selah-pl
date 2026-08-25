@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Bo teraz powiedzą: Nie ma dla nas króla, bo nie baliśmy się Jahwe; a król — cóż uczyni nam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "powiedzą"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "baliśmy się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a król"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:05.350274297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Elohim ⟨jest⟩ sędzią sprawiedliwym, i El gniewa się każdego dnia.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sędzią"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwym"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "gniewa się"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:42.939958674Z",
+  "model": "glm-5.3"
+}

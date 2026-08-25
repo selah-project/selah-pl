@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wyczerpią się wody od morza, a rzeka wyschnie i ustchnie.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "i wyczerpią się"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "od morza"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "a rzeka"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "wyschnie"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "i ustchnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:23.127837319Z",
+  "model": "glm-5.3"
+}

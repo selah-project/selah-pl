@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I rzekł: Nie, proszę, bracia moi, nie czyńcie zła.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bracia moi"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "czyńcie zła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:16.826430708Z",
+  "model": "glm-5.3"
+}

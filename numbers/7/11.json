@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I powiedział Jahwe do Moszego: jeden książę na dzień, jeden książę na dzień, niech przystąpią ze swoim darem ⟨את⟩ ku poświęceniu ołtarza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "książę"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dzień"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "książę"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dzień"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "niech przystąpią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim darem"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "swoim darem"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ku poświęceniu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:14.574822556Z",
+  "model": "glm-5.3"
+}

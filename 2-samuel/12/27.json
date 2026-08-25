@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I posłał Joab posłańców do Dawida, i powiedział: Walczyłem przeciwko Rabba, także zdobyłem ⟨את⟩ miasto wód.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłańców"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "walczyłem"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "przeciwko Rabba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "zdobyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:58.257141234Z",
+  "model": "glm-5.3"
+}

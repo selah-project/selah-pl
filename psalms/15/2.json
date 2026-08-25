@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Ten, kto chodzi w niewinności, i czyni sprawiedliwość, i mówi prawdę w swym sercu.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chodzi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "w niewinności"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "i czyni"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i mówi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdę"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "w swym sercu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:52.317147239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I utrwalił ⟨את⟩ swe oblicze, i tak trwał aż do zawstydzenia, i zapłakał mąż Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i utrwalił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swe oblicze"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swe oblicze"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i tak trwał"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בש",
+      "gloss": "zawstydzenia"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zapłakał"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:40.417348745Z",
+  "model": "glm-5.3"
+}

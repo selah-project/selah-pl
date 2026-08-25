@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Moje ⟨jest⟩ Gilad i moje ⟨jest⟩ Menasze, i Efraim — twierdza głowy mojej, Jehuda — prawodawca mój.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "moje"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "i moje"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasze"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "i Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "twierdza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy mojej"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "prawodawca mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:58.056841947Z",
+  "model": "glm-5.3"
+}

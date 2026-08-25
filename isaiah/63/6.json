@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "i deptałem ludy w moim gniewie, i upajałem je moją wściekłością, i strącałem na ziemię ich krew (sok winny).",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "i deptałem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "w moim gniewie"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "i upajałem je"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "moją wściekłością"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "i strącałem"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ich krew (sok winny)"
+    }
+  ],
+  "timestamp": "2026-08-25T00:39:22.984103340Z",
+  "model": "glm-5.3"
+}

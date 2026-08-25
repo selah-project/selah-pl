@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Niech góry niosą pokój ludowi, a pagórki — sprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "niech niosą"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "a pagórki"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:32.399669302Z",
+  "model": "glm-5.3"
+}

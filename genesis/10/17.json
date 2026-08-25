@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Chivwita, i ⟨את⟩ Arkitę, i ⟨את⟩ Sinitę",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chivwita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivwita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arkitę"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkitę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sinitę"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinitę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:37.951499114Z",
+  "model": "glm-5.3"
+}

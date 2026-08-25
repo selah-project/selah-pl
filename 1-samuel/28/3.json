@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "A Szemuel umarł, i opłakiwał go cały Israel, i pochowali go w Ramie, w jego mieście. A Szaul usunął ⟨את⟩ owód i ⟨את⟩ jiddeoni ze kraju.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "a Szemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umarł"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "i opłakiwał"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "i pochowali go"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "w Ramie"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "w jego mieście"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Szaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "usunął"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "owód"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jiddeoni"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "jiddeoni"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "ze kraju"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:27.496860844Z",
+  "model": "glm-5.3"
+}

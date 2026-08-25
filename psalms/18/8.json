@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I zadrżała, i zatrzęsła się ziemia, i posady gór się poruszyły, i spiętrzyły się, bo zapłonął Jego gniew.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "i zadrżała"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "i zatrzęsła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "i posady"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "się poruszyły"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "i spiętrzyły się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "zapłonął gniew"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:23.720951841Z",
+  "model": "glm-5.3"
+}

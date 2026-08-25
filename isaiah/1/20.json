@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A jeśli odmówicie i zbuntujecie się — miecz was pożre, bo usta Jahwe mówiły.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "odmówicie"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "i zbuntujecie się"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pożre was"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówiły"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:55.434200131Z",
+  "model": "glm-5.3"
+}

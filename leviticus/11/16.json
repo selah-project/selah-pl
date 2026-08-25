@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ córkę jaenijji, i ⟨את⟩ ha-tachmas, i ⟨את⟩ ha-szachaf, i ⟨את⟩ ha-nec według jego rodzaju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "córkę jaenijji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "jaenijji (strusia)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ha-tachmas (puszczyk nocny)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-szachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ha-szachaf (mewa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ha-nec"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ha-nec (jastrząb)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według jego rodzaju"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:11.729680380Z",
+  "model": "glm-5.3"
+}

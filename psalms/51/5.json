@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Bo swoje bunty ja znam, a grzech mój jest przed mną nieustannie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "swoje bunty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znam"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "a grzech mój"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "przed mną"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:43.013721946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Zagrzmijcie ku Jahwe, cała ziemio; wybuchnijcie radośnie, zawołajcie i grajcie!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Zagrzmijcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemio"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "wybuchnijcie"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "zawołajcie"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "i grajcie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:47.532527946Z",
+  "model": "glm-5.3"
+}

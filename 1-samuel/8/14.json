@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ wasze pola i ⟨את⟩ wasze winnice i wasze sady oliwne, ⟨te⟩ najlepsze, weźmie i wyda swym sługom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wasze pola"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "wasze pola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wasze winnice"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "wasze winnice"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "i wasze sady oliwne"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "⟨te⟩ najlepsze"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i wyda"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "swym sługom"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:13.931707282Z",
+  "model": "glm-5.3"
+}

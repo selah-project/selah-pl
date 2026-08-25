@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Zawołaj teraz — czy jest ⟨ktoś⟩, kto ci odpowie? I do którego z świętych się zwrócisz?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Zawołaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "היש",
+      "gloss": "czy jest"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "kto ci odpowie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "מי",
+      "gloss": "którego"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "świętych"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "się zwrócisz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:38.228820533Z",
+  "model": "glm-5.3"
+}

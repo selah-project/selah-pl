@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i zachowacie przy życiu ⟨את⟩ mego ojca i ⟨את⟩ moją matkę, i ⟨את⟩ moich braci i ⟨את⟩ moją siostrę, i ⟨את⟩ wszystko, co do nich należy, i wyrwiecie ⟨את⟩ nasze nefesz od śmierci.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "i zachowacie przy życiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego ojca"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mego ojca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moją matkę"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "moją matkę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moich braci"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "moich braci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moją siostrę"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "moją siostrę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich należy"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "i wyrwiecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasze nefesz"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "nasze nefesz"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T04:09:27.248821058Z",
+  "model": "glm-5.3"
+}

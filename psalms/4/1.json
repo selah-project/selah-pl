@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Przewodniczącemu, przy instrumentach strunowych, mizmor Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodniczącemu"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "przy instrumentach strunowych"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.603014747Z",
+  "model": "glm-5.3"
+}

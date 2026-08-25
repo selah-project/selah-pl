@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Wśród nich sprawili słowa znaków Jego i cuda w ziemi Chama.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "sprawili"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wśród nich"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "znaków Jego"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "i cuda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chama"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:33.097488382Z",
+  "model": "glm-5.3"
+}

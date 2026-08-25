@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I stanął ⟨on⟩ między umarłymi a żywymi, i została powstrzymana zaraza.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "umarłymi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a (między)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żywymi"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "i została powstrzymana"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "zaraza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:43.053666285Z",
+  "model": "glm-5.3"
+}

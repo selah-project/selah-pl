@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I osiadł Rechabam w Jeruszalaim, i zbudował miasta na obronę w Jehudzie.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i osiadł"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "na obronę"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "w Jehudzie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:02:20.215324014Z",
+  "model": "glm-5.3"
+}

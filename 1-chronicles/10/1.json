@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Filistyni walczyli z Izraelem, i uciekł każdy męż Izraela przed Filistynami, i polegli zabici na górze Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "A Filistyni"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "walczyli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "z Izraelem"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy męż"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynami"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "i polegli"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "zabici"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:25.273875427Z",
+  "model": "glm-5.3"
+}

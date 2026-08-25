@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A imię jego brata ⟨było⟩ Juwal — on ⟨był⟩ ojcem wszystkich grających na kinorze i na ugab.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A imię"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brata"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juwal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojcem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "grających"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "na kinorze"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "i na ugab"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:49.571123010Z",
+  "model": "glm-5.3"
+}

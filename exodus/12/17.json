@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I będziecie strzec ⟨את⟩ przaśników, bo w samym dniu tym wyprowadziłem ⟨את⟩ wasze zastępy z ziemi Micrajim; i będziecie strzec ⟨את⟩ dzień ten dla waszych pokoleń — przepis na wieczność.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przaśników"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "przaśników"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "w samym"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dniu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tym"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "wyprowadziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze zastępy"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "wasze zastępy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "i będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień ten"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "dla waszych pokoleń"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "przepis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieczność"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:08.195555244Z",
+  "model": "glm-5.3"
+}

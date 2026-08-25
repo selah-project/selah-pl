@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I poszedł Abram, jak przemówił do niego Jahwe, i poszedł ⟨את⟩ z nim Łot; a Abram ⟨był⟩ synem pięciu lat i siedemdziesięciu lat przy swoim wyjściu z Charan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z nim (Łot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Łot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "a Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięciu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "i siedemdziesięciu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "przy swoim wyjściu"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "z Charan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:46.794565437Z",
+  "model": "glm-5.3"
+}

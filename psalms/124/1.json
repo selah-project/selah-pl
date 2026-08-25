@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Pieśń wstępowań, Dawidowi. Gdyby nie Jahwe, który był dla nas — niech powie raczej Izrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Gdyby nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "który był"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "niech powie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "raczej"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:30.441216997Z",
+  "model": "glm-5.3"
+}

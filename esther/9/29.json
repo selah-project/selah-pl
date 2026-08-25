@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "esther 9:29",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I napisała Ester, ⟨the⟩ królowa, córka Awichajila, oraz Mordechaj, ⟨the⟩ Żyd, ⟨את⟩ całą moc ⟨potwierdzenia⟩, aby potwierdzić ⟨את⟩ list o Purim ten drugi.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "i napisała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "królowa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córka"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Awichajila"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "oraz Mordechaj"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Żyd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą moc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "תקף",
+      "gloss": "moc"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "aby potwierdzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "list"
+    },
+    {
+      "surface": "אגרת",
+      "gloss": "list"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "o Purim"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:46.209532413Z",
+  "model": "glm-5.3"
+}

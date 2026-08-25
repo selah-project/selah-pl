@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Niech będą tobie, tobie samemu, i nie obcym ⟨את⟩ tobą.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "niech będą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tobie samemu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "obcym"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą",
+      "marks": "obcym"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:42.906157389Z",
+  "model": "glm-5.3"
+}

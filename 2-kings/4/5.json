@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I odeszła od ⟨את⟩niego, i zamknęła drzwi za sobą i za swoimi synami — oni przynosili jej, a ona wylewała.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "i odeszła"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "od ⟨את⟩niego",
+      "marks": "od niego"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "i zamknęła"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "drzwi"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "za sobą"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "swoimi synami"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "przynosili"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "wylewała"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:23.394135560Z",
+  "model": "glm-5.3"
+}

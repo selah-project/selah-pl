@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Wyrwij mnie z bagna, abym nie utonął; niech będę wyrwany od nienawidzących mnie i z głębin wód.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "z bagna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "niech nie utonę"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "niech będę wyrwany"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "od nienawidzących mnie"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "i z głębin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:52.416513055Z",
+  "model": "glm-5.3"
+}

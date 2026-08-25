@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I poznacie, że Ja ⟨jestem⟩ Jahwe, gdy otworzę ⟨את⟩ wasze groby i wyprowadzę was w górę z waszych grobów, ludu mój.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "i poznacie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "gdy otworzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze groby"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "wasze groby"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "i wyprowadzę w górę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "z waszych grobów"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludu mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:26:16.958816843Z",
+  "model": "glm-5.3"
+}

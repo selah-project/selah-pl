@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Jeśli postąpiłeś głupio, unosząc się, i jeśli knułeś — rękę na usta!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "postąpiłeś głupio"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "unosząc się"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "i jeśli"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "knułeś"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rękę"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "na usta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:11.635344460Z",
+  "model": "glm-5.3"
+}

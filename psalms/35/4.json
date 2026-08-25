@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech będą zawstydzeni i okryci wstydem szukający mojej nefesz; niech się cofną wstecz i niech będą spłopiali obmyślający moją krzywdę.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "niech będą zawstydzeni"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "i okryci wstydem"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "szukający"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "niech się cofną"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wstecz"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "i niech będą spłopiali"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "obmyślający"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "moją krzywdę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.199677359Z",
+  "model": "glm-5.3"
+}

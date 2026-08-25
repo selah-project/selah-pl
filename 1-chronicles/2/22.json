@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I Segub zrodził ⟨את⟩ Jaira, i było mu dwadzieścia i trzy miasta w ziemi Giladu.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "I Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaira"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaira"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i było"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "i trzy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:58.178978067Z",
+  "model": "glm-5.3"
+}

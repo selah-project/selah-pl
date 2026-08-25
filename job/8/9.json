@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Bo wczoraj ⟨byliśmy⟩ my, i nie znaliśmy ⟨ niczego⟩, bo cieniem są dni nasze na ziemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "wczoraj"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "znaliśmy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צל",
+      "gloss": "cieniem"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dni nasze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:47.212811107Z",
+  "model": "glm-5.3"
+}

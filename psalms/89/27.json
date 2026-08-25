@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "On wołać będzie do mnie: Ojcze mój ⟨jesteś⟩, El mój i skała zbawienia mego.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "wołać będzie do mnie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ojcze mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨jesteś⟩ ty"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "i skała"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "zbawienia mego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:10.719812240Z",
+  "model": "glm-5.3"
+}

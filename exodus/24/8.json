@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wziął Mosze ⟨את⟩ krwi i pokropił nią lud, i powiedział: Oto krew przymierza, które Jahwe zawarł z wami o wszystkich tych słowach.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "i pokropił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowach"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:01.903076196Z",
+  "model": "glm-5.3"
+}

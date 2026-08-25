@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Nie zapomnij głosu Twoich przeciwników, wrzawę powstających przeciw Tobie, wzbierającą nieustannie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomnij"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Twoich przeciwników"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "wrzawę"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "powstających przeciw Tobie"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wzbierającą"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:14.126125943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Oto jako szerokości dłoni dałeś moje dni, a trwanie moje jak nicość przed Tobą; tylko marnością ⟨jest⟩ każdy człowiek stojący. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "szerokości dłoni"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moje dni"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "a trwanie moje"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "jak nicość"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "przed Tobą"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnością"
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stojący"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:07.413209008Z",
+  "model": "glm-5.3"
+}

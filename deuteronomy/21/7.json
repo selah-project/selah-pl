@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I odpowiedzą, i powiedzą: Nasze ręce nie wylały ⟨את⟩ tej krwi, a nasze oczy nie widziały ⟨jej⟩.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "i odpowiedzą"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i powiedzą"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "nasze ręce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "wylały"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tej krwi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tej krwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "a nasze oczy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "widziały"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:26.061109364Z",
+  "model": "glm-5.3"
+}

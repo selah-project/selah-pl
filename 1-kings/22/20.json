@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł Jahwe: Kto uwiedzie ⟨את⟩ Achaba, żeby wyruszył i padł pod Ramot-Gilad? A ten mówił tak, a tamten mówił tak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "uwiedzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achaba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "żeby wyruszył"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i padł"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "pod Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mówił"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a tamten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:37.104636186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zgodzili się kapłani, by nie brać srebra od ⟨את⟩ ludu i by nie wzmacniać ⟨את⟩ uszkodzeń ⟨the⟩ świątyni.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "i zgodzili się"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "by nie"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "brać"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "ludu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "i by nie"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wzmacniać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uszkodzeń"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "uszkodzeń"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "świątyni"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:43.897066551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Jahwe wchodzi na sąd ze starszymi swojego ludu i jego książętami: to wy spaliliście ⟨את⟩ winnicę, łup ubogich ⟨jest⟩ w waszych domach.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sąd"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wchodzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszymi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swojego ludu"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "i jego książętami"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "to wy"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "spaliliście"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ winnicę"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "łup"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ubogich"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "w waszych domach"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:29.618482933Z",
+  "model": "glm-5.3"
+}

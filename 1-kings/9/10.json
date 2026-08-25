@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I stało się pod koniec dwudziestu lat, podczas których Szlomoh zbudował ⟨את⟩ oba te domy — ⟨את⟩ dom Jahwe i ⟨את⟩ dom króla —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pod koniec"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "podczas których"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oba te domy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "oba"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "te domy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויהי-c\/853",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:21.219207578Z",
+  "model": "glm-5.3"
+}

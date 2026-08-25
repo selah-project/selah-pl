@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech nie mówią w swym sercu: „Hę! nasza nefesz!” Niech nie mówią: „Połknęliśmy go!”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "w swym sercu"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hę!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nasza nefesz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "połknęliśmy go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:43.764520268Z",
+  "model": "glm-5.3"
+}

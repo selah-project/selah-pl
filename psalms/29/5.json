@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe łamie cedry — tak, Jahwe skruszył ⟨את⟩ cedry Lewanonu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "łamie"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "skruszył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedry Lewanonu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lewanonu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:31.619155982Z",
+  "model": "glm-5.3"
+}

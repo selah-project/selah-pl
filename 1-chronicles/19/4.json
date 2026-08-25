@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wziął Chanun ⟨את⟩ sługi Dawida, i ogolił ich, i obciął ⟨את⟩ ich szaty do połowy aż do pośladków, i odesłał ich.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługi Dawida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "i ogolił ich"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i obciął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich szaty"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ich szaty"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "do połowy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "pośladków"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i odesłał ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:35.623035122Z",
+  "model": "glm-5.3"
+}

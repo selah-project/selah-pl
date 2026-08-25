@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Martwy należący do Achaba w mieście zjedzą psy, a martwy na polu zjedzą ptactwo nieba",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Martwy"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "należący do Achaba"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psy"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a martwy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nieba"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:04.196547048Z",
+  "model": "glm-5.3"
+}

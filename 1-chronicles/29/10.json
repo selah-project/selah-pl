@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I błogosławił Dawid ⟨את⟩ Jahwe na oczach całego zgromadzenia, i rzekł Dawid: Błogosławiony ⟨jesteś⟩ Ty, Jahwe, Elohim Israela, ojciec nasz, od wieczności i aż po wieczność.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "I błogosławił"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na oczach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ojciec nasz"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od wieczności"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż po"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczność"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:39.392274261Z",
+  "model": "glm-5.3"
+}

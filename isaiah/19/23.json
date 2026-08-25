@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "W dniu owym będzie gościniec z Egiptu do Aszszura, i przyjdzie Aszszur do Egiptu, a Egipt do Aszszura, i będą służyć Egipt ⟨את⟩ Aszszurowi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "gościniec"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egiptu"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "do Aszszura"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przyjdzie"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "do Egiptu"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "a Egipt"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "do Aszszura"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i będą służyć"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egipt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszszurowi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszur"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:15.413449749Z",
+  "model": "glm-5.3"
+}

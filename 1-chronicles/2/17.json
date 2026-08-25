@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Awigajil urodziła ⟨את⟩ Amasę, a ojcem Amasy ⟨był⟩ Jeter Iszmaelita.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "A Awigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasę"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasę"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "a ojcem"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasy"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Iszmaelita"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:42.512078965Z",
+  "model": "glm-5.3"
+}

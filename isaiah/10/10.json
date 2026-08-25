@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Skoro moja ręka znalazła królestwa bożka i ich posągi — ⟨te, które były⟩ od Jeruszalaim i od Szomeronu",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "skoro"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "znalazła"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja ręka"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "królestwa"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "bożka"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "i ich posągi"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "od Jeruszalaim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "i od Szomeronu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:07.867861894Z",
+  "model": "glm-5.3"
+}

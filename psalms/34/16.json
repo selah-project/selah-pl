@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Oczy Jahwe ⟨są skierowane⟩ ku sprawiedliwym, a Jego uszy — ku ich wołaniu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Oczy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwym"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "a Jego uszy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ich wołaniu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:10.749365271Z",
+  "model": "glm-5.3"
+}

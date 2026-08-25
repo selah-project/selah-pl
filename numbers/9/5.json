@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I dokonali ⟨את⟩ Pesach w pierwszym miesiącu, czternastego dnia miesiąca, między wieczorami na pustyni Synaj; według wszystkiego, co Jahwe przykazał ⟨את⟩ Moszemu, tak uczynili synowie Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i dokonali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "w pierwszym"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "czternaście"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(naście)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wieczorami"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:25.017657535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Panie mój pytał ⟨את⟩ sług swoich, mówiąc: Czy jest wam ojciec albo brat?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "panie mój"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pytał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługi swoich"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sług swoich"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "היש",
+      "gloss": "czy jest"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brat"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:38.779098614Z",
+  "model": "glm-5.3"
+}

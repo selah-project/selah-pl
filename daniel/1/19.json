@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rozmawiał ⟨את⟩ nimi król, i nie znaleziono spośród nich wszystkich ⟨takich⟩ jak Daniel, Chananja, Miszael i Azarja; i stanęli przed królem.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I rozmawiał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z nimi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "znaleziono"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "spośród nich wszystkich"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "jak Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Miszael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "i Azarja"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stanęli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:12.125706763Z",
+  "model": "glm-5.3"
+}

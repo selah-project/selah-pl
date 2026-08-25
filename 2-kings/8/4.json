@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A król rozmawiał z Gechazim, sługą męża Elohim, mówiąc: Opowiedz mi, proszę, ⟨את⟩ wszystkie wielkie rzeczy, które uczynił Eliszua.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A król"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "rozmawiał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazim"
+    },
+    {
+      "surface": "נער",
+      "gloss": "sługą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Opowiedz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie wielkie rzeczy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "wielkie rzeczy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:46.542508954Z",
+  "model": "glm-5.3"
+}

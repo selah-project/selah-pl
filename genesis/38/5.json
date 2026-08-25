@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I dodała jeszcze, i urodziła syna, i nazwała ⟨את⟩ imię jego Szeła; i ⟨był⟩ w Kzibie, gdy go rodziła.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "i dodała"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Szeła"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i był"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "w Kzibie"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "gdy rodziła"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:04.057128819Z",
+  "model": "glm-5.3"
+}

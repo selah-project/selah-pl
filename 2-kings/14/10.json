@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Zawzięcie zabiłeś ⟨את⟩ Edom, i uniosło cię serce twoje — wsław się i siedź w domu twoim; i po co masz się porwać na nieszczęście, i upadniesz ty i Jehuda z tobą?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "zawzięcie!"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "zabiłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "i uniosło cię"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "serce twoje"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wsław się"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i siedź"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "w domu twoim"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i po co"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "masz się porwać"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na nieszczęście"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "i upadniesz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:24.958968230Z",
+  "model": "glm-5.3"
+}

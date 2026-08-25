@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Przewodniczemu, na ⟨melodię⟩ „Łani świtu” — psalm Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodniczemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Łani"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "świtu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:49.641211553Z",
+  "model": "glm-5.3"
+}

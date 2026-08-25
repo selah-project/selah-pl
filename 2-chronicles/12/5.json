@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I przyszedł Szmajahu prorok do Rechabama i książąt Jehudy, którzy zgromadzili się w Jeruszalaim przed obliczem Szszaka, i rzekł do nich: Tak mówi Jahwe: Wy opuściliście ⟨את⟩ mnie, więc i ja opuściłem ⟨את⟩ was w ręku Szszaka.",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "i przyszedł Szmajahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabama"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i książąt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "zgromadzili się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "w"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Szszaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "opuszciliście"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "więc i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "opusciłem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w ręku"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Szszaka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:03:21.698556063Z",
+  "model": "glm-5.3"
+}

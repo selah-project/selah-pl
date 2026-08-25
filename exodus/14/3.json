@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I powie Paro o synach Israela: „Zabłąkani ⟨są⟩ w ziemi, zamknął ich pustkowie.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "o synach"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "zabłąkani"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zamknął"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustkowie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:00.182833210Z",
+  "model": "glm-5.3"
+}

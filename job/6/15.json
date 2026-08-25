@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Bracia moi zawiedli jak potok, jak koryto potoków, które przemijają.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "bracia moi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "zawiedli"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "jak koryto"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "potoków"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "przemijają"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:34.170275653Z",
+  "model": "glm-5.3"
+}

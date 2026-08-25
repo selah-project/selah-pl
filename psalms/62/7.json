@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Tylko On ⟨jest⟩ skałą moją i zbawieniem moim, warownią moją — nie zachwieję się.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tylko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skałą moją"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "i zbawieniem moim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "warownią moją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachwieję się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:05.024484933Z",
+  "model": "glm-5.3"
+}

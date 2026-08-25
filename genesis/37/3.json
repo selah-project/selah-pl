@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A Iszrael miłował ⟨את⟩ Josefa więcej niż wszystkich swoich synów, bo on był mu synem starości; i zrobił mu szatę pasowaną.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "a Iszrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miłował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "więcej niż wszystkich"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starości"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "szatę"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pasowaną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:41.963026054Z",
+  "model": "glm-5.3"
+}

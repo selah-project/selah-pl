@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Kalew: Który pobije ⟨את⟩ Kirjat-Séfer i pojma ją, temu dam ⟨את⟩ Aksę, córkę moją, za żonę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Który"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "pobije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "i pojma ją"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksę"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksę"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "córkę moją"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:46.015974272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "A potem przystąpili wszyscy synowie Jisraela, i przykazał im ⟨את⟩ wszystko, co mówił Jahwe ⟨את⟩ nim na górze Synaj.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "a po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tym"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "przystąpili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "i przykazał im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "z nim (przyimek H854)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:47.627974134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Oto prawdy pragniesz w ukrytych ⟨zakamarkach⟩, a w skrytości mądrość mi poznania udzielisz.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdy"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "pragniesz"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "w ukrytych ⟨zakamarkach⟩"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "a w skrytości"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "poznania mi udzielisz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:43.014998362Z",
+  "model": "glm-5.3"
+}

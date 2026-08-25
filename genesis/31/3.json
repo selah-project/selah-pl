@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I rzekł Jahwe do Jaakowa: Wróć do ziemi twoich ojców i do twojego rodowodu, a Ja będę z tobą.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "twoich ojców"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "i do twojego rodowodu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "a Ja będę"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:45.590163085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "przygotowuje w lecie swój chleb, zbiera w żniwa swój pokarm.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "przygotowuje"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "w lecie"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "swój chleb"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "zbiera"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "w żniwa"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "swój pokarm"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:54.035768371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Przy kim z twoich sług zostanie to znalezione, niech umrze, a także my staniemy się niewolnikami mojego pana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "przy kim"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zostanie znalezione"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (znalezione)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "z twoich sług"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i niech umrze"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "staniemy się"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "niewolnikami mojego pana"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "(niewolnikami)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:59.137207658Z",
+  "model": "glm-5.3"
+}

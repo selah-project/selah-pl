@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I przykazał Mosze ⟨את⟩ nim, mówiąc: Na końcu siedmiu lat, w wyznaczonym czasie roku szmity, w Święcie Sukanot —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i przykazał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nim",
+      "marks": "im — kapłanom i starszym"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na końcu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedmiu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "w wyznaczonym czasie"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "roku"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "szmity"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "w Święcie"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukanot"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:13.333228756Z",
+  "model": "glm-5.3"
+}

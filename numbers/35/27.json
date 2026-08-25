@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "i znajdzie ⟨את⟩ go goel krwi poza granicą miasta jego schronienia, i zabije goel krwi ⟨את⟩ zabójcę — nie będzie na nim winy krwi.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "i znajdzie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "⟨את⟩ go — zabójcę"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "poza"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "granicą"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "jego schronienia"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "i zabije"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabójcę"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "zabójca"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "winę krwi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:24.302700473Z",
+  "model": "glm-5.3"
+}

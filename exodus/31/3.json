@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I napełniłem go ⟨את⟩ duchem Elohim — w mądrości i w roztropności, i w poznaniu, i w każdym rzemiośle",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "i napełniłem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "on — duchem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "w mądrości"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "i w roztropności"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "i w poznaniu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i w każdym"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "rzemiośle"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:56.733268389Z",
+  "model": "glm-5.3"
+}

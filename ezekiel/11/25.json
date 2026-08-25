@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I mówiłem do zgromadzenia wygnańców ⟨את⟩ wszystkie słowa Jahwe, które mi pokazał.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "i mówiłem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "zgromadzenia wygnańców"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi pokazał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:09:53.353167790Z",
+  "model": "glm-5.3"
+}

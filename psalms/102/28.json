@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "A Ty ⟨jesteś⟩ Ten sam, a lata Twoje się nie skończą.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A Ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ten sam"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "a lata Twoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "się skończą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.051313634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I powiedział Szemuuel do rzeźnika: Podaj ⟨את⟩ porcję, którą ci dałem, o której powiedziałem do ciebie: Odłóż ⟨את⟩ ją przy sobie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "do rzeźnika"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "podaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porcję"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "porcję"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ci dałem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o której"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "שים",
+      "gloss": "odłóż"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją przy sobie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "przy sobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:07.925489140Z",
+  "model": "glm-5.3"
+}

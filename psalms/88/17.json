@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Nade mną przeszły twoje zapalczywości, twoje przerażenia zniweczyły mnie.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przeszły"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "twoje zapalczywości"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "twoje przerażenia"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "zniweczyły mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:12.402177514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Ja, Jahwe, takie jest moje imię, i mojej chwały innemu nie dam, ani mojej pieśni chwalebnej rzeźbionym wizerunkom.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "takie jest"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje imię"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "i mojej chwały"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "innemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ani mojej pieśni chwalebnej"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "rzeźbionym wizerunkom"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:19.060077080Z",
+  "model": "glm-5.3"
+}

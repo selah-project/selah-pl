@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I będziesz strzegł ⟨את⟩ tego ustanowienia w jego wyznaczonym czasie, od dni do dni.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "i będziesz strzegł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego ustanowienia"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ustanowienia"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "w jego wyznaczonym czasie"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "od dni"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "do dni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:29.827788066Z",
+  "model": "glm-5.3"
+}

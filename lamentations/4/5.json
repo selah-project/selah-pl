@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Ci, którzy jedli ⟨w⟩ przysmaki, zbratowali się na ulicach; ci, którzy wychowani ⟨zostali⟩ na szkarłacie, obejmują śmietniki.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Ci, którzy jedli"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "przysmaki"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "zbratowali się"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "na ulicach"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "wychowani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "szkarłacie"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "obejmują"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "śmietniki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:29:14.363486891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe wykręca łanie i obnaża lasy, a w ⟨jego⟩ pałacu wszystko mówi: chwała.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "wykręca"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "łanie"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "i obnaża"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "lasy"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "a w jego pałacu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwała"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:03.825557280Z",
+  "model": "glm-5.3"
+}

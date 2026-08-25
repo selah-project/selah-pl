@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Zapadły się narody w dole, który zrobiły; w sieci tej, którą ukryły, została schwytana noga ich.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "Zapadły-się"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "w-dole"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zrobiły"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "w-sieci"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tej"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ukryły"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "została-schwytana"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "noga-ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:16.007150034Z",
+  "model": "glm-5.3"
+}

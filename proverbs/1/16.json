@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bo ich stopy do zła biegną i śpieszą się, by wylewać krew.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ich stopy"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "do zła"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "biegną"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "i śpieszą się"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "by wylewać"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:45.780091554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I usłyszał Mosze, i było to dobre w jego oczach.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I usłyszał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "i było dobre"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:29.101053845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 93,
+  "translation": "Ponad głosami wód wielkich, ponad wspaniałymi przybojami morza — wspaniały na wysokości ⟨jest⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ponad głosami"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielkich"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "wspaniałymi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "przybojami"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wspaniały"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "na wysokości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:46.670611589Z",
+  "model": "glm-5.3"
+}

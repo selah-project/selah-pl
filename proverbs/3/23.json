@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wtedy pójdziesz bezpiecznie drogą twoją, a twoja noga się nie potknie.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpiecznie"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "drogą twoją"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "a twoja noga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "się potknie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:07.537577746Z",
+  "model": "glm-5.3"
+}

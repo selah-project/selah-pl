@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Bo ja ⟨jestem⟩ Jahwe, twój Elohim, Święty Izraela, twój Zbawiciel — dałem jako twój okup Micrajim, Kusz i Sewa zamiast ciebie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Święty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "twój Zbawiciel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "twój okup"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusz"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "i Sewa"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "zamiast ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:49.013201165Z",
+  "model": "glm-5.3"
+}

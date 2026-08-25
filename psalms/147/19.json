@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Ogłasza słowo swoje Jaakowowi, ustawy swoje i swoje prawa Jisraelowi.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ogłasza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "słowo swoje"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakowowi"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ustawy swoje"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i swoje prawa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:24.199950921Z",
+  "model": "glm-5.3"
+}

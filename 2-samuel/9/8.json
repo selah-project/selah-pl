@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I pokłonił się, i rzekł: Czymże jest sługa twój, że zwróciłeś się ku psu martwemu, takiemu jak ja?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłonił się"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czymże"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "zwróciłeś się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "psu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "martwemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "takiemu jak ja"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:09.043991018Z",
+  "model": "glm-5.3"
+}

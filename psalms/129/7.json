@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "Z której nie napełnił dłoni żniwiarz, ani łona ten, co wiącze snopy.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "z której nie"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napełnił"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "dłoni"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "żniwiarz"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ani łona"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ten, co wiącze snopy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:04.530066199Z",
+  "model": "glm-5.3"
+}

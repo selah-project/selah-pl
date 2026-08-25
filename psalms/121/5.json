@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Jahwe ⟨jest⟩ twym stróżem, Jahwe ⟨jest⟩ twym cieniem po ⟨tej⟩ prawej ręce twojej, przy twojej prawej ręce.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "twym stróżem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "tym cieniem"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręce"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "twojej prawej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:52.213653275Z",
+  "model": "glm-5.3"
+}

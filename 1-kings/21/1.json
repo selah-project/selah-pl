@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I stało się po tych sprawach: winnica była własnością Nawota z Jizreel, która ⟨była⟩ w Jizreel, obok pałacu Achaba, króla Szomronu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tych sprawach"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "winnica"
+    },
+    {
+      "surface": "היה",
+      "gloss": "była"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "własnością Nawota"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "z Jizreel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "w Jizreel"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "obok"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pałacu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomronu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:10.082984858Z",
+  "model": "glm-5.3"
+}

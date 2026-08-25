@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Tak będę Cię błogosławił w moim życiu; w Twoim imieniu wzniosę moje dłonie.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "będę Cię błogosławił"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "w moim życiu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "w Twoim imieniu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wzniosę"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "moje dłonie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:30.580978172Z",
+  "model": "glm-5.3"
+}

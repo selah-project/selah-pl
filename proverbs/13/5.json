@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Kłamliwe słowo nienawidzi sprawiedliwy, a bezbożny ⟨jest⟩ obrzydliwy i okrywa się wstydem.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamliwe"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nienawidzi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "a bezbożny"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "⟨jest⟩ obrzydliwy"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "i okrywa się wstydem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:17.862278750Z",
+  "model": "glm-5.3"
+}

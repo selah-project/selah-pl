@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Ten, który formuje razem ich serca, ten, który poznaje wszystkie ich dzieła.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "ten, który formuje"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ich serca"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ten, który poznaje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ich dzieła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.718404008Z",
+  "model": "glm-5.3"
+}

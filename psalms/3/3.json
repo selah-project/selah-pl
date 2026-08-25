@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wielu mówi do mej nefesz: „Nie ⟨ma⟩ zbawienia dla niego w Elohim”. Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Wielu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "do mej nefesz"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "zbawienia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "w Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:36.203994662Z",
+  "model": "glm-5.3"
+}

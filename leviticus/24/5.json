@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I weźmiesz mąkę prędną i upieczesz ⟨את⟩ nią dwanaście chlebów; dwa dziesiąte (efy) będzie w jednym chlebie.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mąka przednia"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "i upieczesz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nią (dwanaście chlebów)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naście"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "chleby"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dziesiąte (efy)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "w jednym chlebie"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "(jednym)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:52.552522475Z",
+  "model": "glm-5.3"
+}

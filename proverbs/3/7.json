@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nie bądź mądrym we własnych oczach — bój się ⟨את⟩ Jahwe i odwróć się od zła.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bądź"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrym"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "we własnych oczach"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "i odwróć się"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:00.058702900Z",
+  "model": "glm-5.3"
+}

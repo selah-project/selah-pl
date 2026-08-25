@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Wszystkie zwierzęta polne, przyjdźcie pożreć, wszystkie zwierzęta ⟨w⟩ lesie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystkie"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zwierzęta"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polne"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "przyjdźcie"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pożreć"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zwierzęta"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "w lesie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:00.434137022Z",
+  "model": "glm-5.3"
+}

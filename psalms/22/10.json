@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Bo Ty mnie wydobyłeś z łona; czyniłeś mi ⟨ufność⟩ na piersiach mojej matki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "wydobyłeś"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z łona"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "czyniłeś mi ⟨ufność⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "piersiach"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mojej matki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:40.611557710Z",
+  "model": "glm-5.3"
+}

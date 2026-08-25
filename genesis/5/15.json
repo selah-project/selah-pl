@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Mahalalel pięć lat i sześćdziesiąt lat, i zrodził ⟨את⟩ Jereda.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i sześćdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jereda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jereda"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:00.497087772Z",
+  "model": "glm-5.3"
+}

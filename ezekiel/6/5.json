@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I położę ⟨את⟩ zwłoki synów Jisraela przed ich bożkami, i rozsypię ⟨את⟩ wasze kości dokoła waszych ołtarzy.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i położę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwłoki synów Jisraela"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "zwłoki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ich bożkami"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "i rozsypię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze kości"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "wasze kości"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "waszych ołtarzy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:08:10.699717302Z",
+  "model": "glm-5.3"
+}

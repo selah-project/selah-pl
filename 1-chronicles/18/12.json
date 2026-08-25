@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I Abiszaj, syn Cerui, poraził ⟨את⟩ Edom w Dolinie Soli — osiemnaście tysięcy.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "i Abiszaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerui"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "poraził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "w Dolinie"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osiem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naście"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:26.786965052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A ziemia skalana jest pod mieszkańcami swymi, bo przekroczyli ⟨את⟩ Tory, naruszyli ⟨את⟩ ustawę, złamali ⟨את⟩ przymierze wieczne.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a ziemia"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "skalana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mieszkańcami swymi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przekroczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tory"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "naruszyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustawę"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ustawę"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "złamali"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczne"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:41.305457802Z",
+  "model": "glm-5.3"
+}

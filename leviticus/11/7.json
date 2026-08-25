@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ świnię, ponieważ rozdziela kopyto, i rozszczepia szparę kopyta, a pokarmu nie przeżuwa — nieczysty ⟨jest⟩ on dla was.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "świnię"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "świnię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rozdziela"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "i rozszczepia"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "szparę"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "pokarmu (przeżuwanego)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "przeżuwa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczysty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:30.132667908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I stało się rano, że duch jego zatrwożył się; i posłał, i zawołał ⟨את⟩ wszystkich wróżbitów Micraim oraz ⟨את⟩ wszystkich jego mędrców; i opowiedział Paroh im ⟨את⟩ swój sen, a nie było nikogo, kto by ⟨את⟩ je wyłożył Parohowi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "zatrwożył się"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duch jego"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich wróżbitów Micraim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "wróżbitów"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich jego mędrców"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "jego mędrców"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "i opowiedział"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój sen"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "swój sen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie było"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "kto by wyłożył"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parohowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:56.796946312Z",
+  "model": "glm-5.3"
+}

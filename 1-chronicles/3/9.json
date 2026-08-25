@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wszyscy ⟨to⟩ synowie Dawida, oprócz synów nałożnic, i Tamar ich siostra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszyscy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "oprócz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "nałożnic"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "i Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ich siostra"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:16.813735162Z",
+  "model": "glm-5.3"
+}

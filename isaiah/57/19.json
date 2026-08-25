@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Stwarzając owoc warg: pokój, pokój dalekiemu i bliskiemu — powiedział Jahwe — i uleczyłem go.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "stwarzając"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "warg"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "dalekiemu"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "i bliskiemu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "i uleczyłem go"
+    }
+  ],
+  "timestamp": "2026-08-25T00:37:42.089138157Z",
+  "model": "glm-5.3"
+}

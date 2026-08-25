@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Tylko ku Elohim ucisz się, duszo moja, bo od Niego ⟨jest⟩ nadzieja moja.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tylko"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ucisz się"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od Niego"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "nadzieja moja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:05.024105351Z",
+  "model": "glm-5.3"
+}

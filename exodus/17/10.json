@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I uczynił Jehoszua, jak mu powiedział Mosze, by walczyć z Amalekiem; a Mosze, Aharon i Chur weszli na szczyt wzgórza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "by walczyć"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "z Amalekiem"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "a Mosze"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "i Chur"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "weszli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "na szczyt"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "wzgórza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:07.628063612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Ponieważ ze względu na Dawida dał Jahwe, jego Elohim, mu lampę w Jeruszalaim, aby postawić ⟨את⟩ jego syna po nim i aby umocnić ⟨את⟩ Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ponieważ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jego Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampę"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "aby postawić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syna"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po nim"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "i aby umocnić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:57.587139046Z",
+  "model": "glm-5.3"
+}

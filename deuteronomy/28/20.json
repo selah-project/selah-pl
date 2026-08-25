@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Ześle Jahwe na ciebie ⟨את⟩ klątwę, ⟨את⟩ zamieszanie i ⟨את⟩ strofowanie, we wszystkim, co poślesz ręką swoją, co uczynisz, aż będziesz zniszczony i aż zginiesz szybko — z powodu złota twoich postępowań, ponieważ opuściłeś mnie.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ześle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na ciebie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klątwę"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "klątwę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zamieszanie"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "zamieszanie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "strofowanie"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "strofowanie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkim"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "co poślesz"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ręką swoją"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uczynisz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "będziesz zniszczony"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "zginiesz"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "szybko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "twoich postępowań"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "opuściłeś mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:55.936578925Z",
+  "model": "glm-5.3"
+}

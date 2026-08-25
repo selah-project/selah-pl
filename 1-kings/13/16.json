@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "A on rzekł: Nie mogę wrócić ⟨את⟩ z tobą ani wejść ⟨את⟩ z tobą; i nie będę jadł chleba ani pił ⟨את⟩ z tobą wody w tym miejscu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "wrócić"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą",
+      "marks": "z tobą"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ani wejść"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą",
+      "marks": "z tobą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "będę jadł"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "pił"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą",
+      "marks": "z tobą"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tym"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:21.375246044Z",
+  "model": "glm-5.3"
+}

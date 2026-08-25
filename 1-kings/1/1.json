@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I król Dawid zestarzał się, wszedł w dni, i okrywali go szatami, lecz nie było mu ciepła.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "I król"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "zestarzał się"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wszedł"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "w dni"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "i okrywali go"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "szatami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "było ciepło"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:01.909551158Z",
+  "model": "glm-5.3"
+}

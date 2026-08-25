@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Twój spór prowadź ⟨את⟩ twoim przyjacielem, a tajemnicy innego nie wyjawiaj.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "twój spór"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "prowadź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoim przyjacielem"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "twoim przyjacielem"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "a tajemnicy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "wyjawiaj"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:26.721216683Z",
+  "model": "glm-5.3"
+}

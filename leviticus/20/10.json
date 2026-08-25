@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A męża, który by cudzołożył ⟨את⟩ z żoną męża — który by cudzołożył ⟨את⟩ z żoną swego bliźniego — śmiercią niech będą ukarani: cudzołożnik i cudzołożnica.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A męża"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "cudzołożyłby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z żoną męża"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żoną"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "cudzołożyłby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z żoną swego bliźniego"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żoną"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swego bliźniego"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będą ukarani"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "cudzołożnik"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "i cudzołożnica"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:06.156860408Z",
+  "model": "glm-5.3"
+}

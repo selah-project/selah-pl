@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Wróć, duszo moja, do swego spoczynku, bo Jahwe dobrze ci współdarował.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Wróć"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "do swego spoczynku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "współdarował"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:26.062766763Z",
+  "model": "glm-5.3"
+}

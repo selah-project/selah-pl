@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I porzucił przybytek Szilo, namiot, który zamieszkał wśród ludzi.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "i porzucił"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Szilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "zamieszkał"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "wśród ludzi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:53.564624772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Niech będzie pokój w twoich murach, spokój w twoich pałacach.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Niech będzie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "w twoich murach"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "spokój"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "w twoich pałacach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:06.430929603Z",
+  "model": "glm-5.3"
+}

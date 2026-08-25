@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Tylko jak się je ⟨את⟩ gazela i ⟨את⟩ jelenia, tak będziesz to jeść; nieczysty i czysty spożywać to będą razem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "się je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazelę"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jelenia"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "jelenia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "będziesz to jeść"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nieczysty"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "i czysty"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "spożywać to będą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:15.591824629Z",
+  "model": "glm-5.3"
+}

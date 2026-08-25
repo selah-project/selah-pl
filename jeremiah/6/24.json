@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Słyszeliśmy ⟨את⟩ jego wieść, opadły nasze ręce; ucisk chwycił nas, ból jak rodząca.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Słyszeliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego wieść"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wieść"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "opadły"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "nasze ręce"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "chwycił nas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ból (porodowy)"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "jak rodząca"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:33.801561535Z",
+  "model": "glm-5.3"
+}

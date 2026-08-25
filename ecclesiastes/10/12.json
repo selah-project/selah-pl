@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Słowa ust mędrca ⟨są⟩ łaskawe, a wargi głupca go pożerają.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mędrca"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaska"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "a wargi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "go pożerają"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:39.396666879Z",
+  "model": "glm-5.3"
+}

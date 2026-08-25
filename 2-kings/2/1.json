@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I stało się, gdy Jahwe unosił ⟨את⟩ Elijahu w wirze ku niebiosom, że Elijahu ruszył i Elisza z Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "gdy unosił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "w wirze"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ku niebiosom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ruszył"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "i Elisza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:34.613800068Z",
+  "model": "glm-5.3"
+}

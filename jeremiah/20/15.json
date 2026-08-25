@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Przeklęty mąż, który zwiastował ⟨את⟩ memu ojcu, mówiąc: narodził ci się syn — mężczyzna! — ciesząc go radością.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "zwiastował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "memu ojcu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "memu ojcu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "narodził się"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ciesząc"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "go radością"
+    }
+  ],
+  "timestamp": "2026-08-25T00:49:17.855817912Z",
+  "model": "glm-5.3"
+}

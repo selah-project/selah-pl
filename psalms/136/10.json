@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Temu, który poraził Micraim w ich pierworodnych, bo na wieki trwa Jego chesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Temu, który poraził"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "w ich pierworodnych"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.485891747Z",
+  "model": "glm-5.3"
+}

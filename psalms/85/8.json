@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Ukaż nam, Jahwe, chesed swój, a zbawienie swoje dasz nam.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ukaż nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed swój"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "a zbawienie swoje"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:38.762770731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Ty będziesz mówić ⟨את⟩ wszystko, co ci nakażę, a Aharon, brat twój, będzie mówił do Paroh, i ⟨on⟩ wyśle ⟨את⟩ synów Israela ze swojej ziemi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "będziesz mówić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ci nakażę"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat twój"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "będzie mówił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i wyśle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:30.846756363Z",
+  "model": "glm-5.3"
+}

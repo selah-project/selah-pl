@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Wyślij swe światło i swą wierność — one niech mnie prowadzą, niech mnie przywiodą na twe świętą górę i do twych namiotów.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wyślij"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "swe światło"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i swą wierność"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "niech mnie prowadzą"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "niech mnie przywiodą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "twe świętą"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "twych namiotów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:13.540531228Z",
+  "model": "glm-5.3"
+}

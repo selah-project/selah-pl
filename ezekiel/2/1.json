@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł do mnie: synu człowieczy, stań na swoich stopach, a ja będę mówił ⟨את⟩ ciebie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczy"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stań"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "swoich stopach"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "a będę mówił"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:07:21.219880162Z",
+  "model": "glm-5.3"
+}

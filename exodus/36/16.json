@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I połączył ⟨את⟩ pięciu zasłon osobno, i ⟨את⟩ sześciu zasłon osobno.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "i połączył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pięciu zasłon"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięciu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sześciu zasłon"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześciu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osobno"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:35.316515589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "oraz ⟨את⟩ stół i ⟨את⟩ wszystkie jego naczynia, oraz ⟨את⟩ świecznik i ⟨את⟩ jej naczynia, oraz ⟨את⟩ ołtarz kadzenia",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "wszystkie jego naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "świecznik"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "świecznik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jej naczynia"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jej naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ołtarz kadzenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadzenia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:14.221537212Z",
+  "model": "glm-5.3"
+}

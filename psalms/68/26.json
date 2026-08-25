@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Śpiewacy szli naprzód, za nimi grający na instrumentach, pośród nich panny bębniące.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "szli naprzód"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "śpiewacy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za nimi"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "grający na instrumentach"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "panny"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "bębniące"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:29.530401008Z",
+  "model": "glm-5.3"
+}

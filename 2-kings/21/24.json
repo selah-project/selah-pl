@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I poraził lud ziemi ⟨את⟩ wszystkich spiskujących przeciwko królowi Amonowi, i lud ziści uczynił królem ⟨את⟩ Joszijahu, jego syna, na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich spiskujących"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "spiskujących"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonowi"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "uczynił królem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziści"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joszijahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joszijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:59.792632089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Tego z Jarobama, kto umrze w mieście, zjedzą psy, a tego, kto umrze na polu, zjedzą ptaki niebieskie, bo Jahwe mówił.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kto umrze"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "z Jarobama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psy"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a kto umrze"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebieskie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:59.421691300Z",
+  "model": "glm-5.3"
+}

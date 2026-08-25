@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "I strącił Paroha i jego wojsko w morze Suf, bo na wieki trwa jego chesed (wierna miłość).",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "I strącił"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "i jego wojsko"
+    },
+    {
+      "surface": "בים",
+      "gloss": "w morze"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.796537867Z",
+  "model": "glm-5.3"
+}

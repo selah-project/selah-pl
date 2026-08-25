@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I ⟨את⟩ mężczyzny nie będziesz kłaść się lożyskami kobiety — obrzydliwością ⟨to jest⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mężczyzny"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyzny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "będziesz kłaść się"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "lożyskami"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "obrzydliwość"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:32.274789591Z",
+  "model": "glm-5.3"
+}

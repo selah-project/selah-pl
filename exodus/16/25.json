@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rzekł Mosze: Jedzcie go dziś, bo szabat ⟨jest⟩ ten dzień dla Jahwe; dziś nie znajdziecie go na polu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Jedzcie go"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szabat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ten dzień"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "znajdziecie go"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:57.185118132Z",
+  "model": "glm-5.3"
+}

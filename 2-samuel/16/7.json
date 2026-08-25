@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I tak mówił Szim'i, gdy złorzeczył: Wynijdź, wynijdź, mężu krwi i mężu Beliala!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "I tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Szim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "gdy złorzeczył"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Wynijdź"
+    },
+    {
+      "surface": "צא",
+      "gloss": "wynijdź"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ż"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "mężu krwi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i mężu"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Beliala"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:04.641858305Z",
+  "model": "glm-5.3"
+}

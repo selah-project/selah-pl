@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Zamilkłem, nie otworzę ust moich, bo Ty to uczyniłeś.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "zamilkłem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otworzę"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust moich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:40.693283504Z",
+  "model": "glm-5.3"
+}

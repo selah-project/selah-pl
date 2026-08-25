@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Pieśń pielgrzymkowa. Podnoszę moje oczy ku górom — skąd przyjdzie moja pomoc?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "pielgrzymkowa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Podnoszę"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "górom"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "moja pomoc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:03.919109426Z",
+  "model": "glm-5.3"
+}

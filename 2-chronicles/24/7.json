@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Gdyż Atalija, ta bezbożnica, i jej synowie złamali ⟨את⟩ dom Elohima, a nawet wszystkie poświęcone rzeczy domu Jahwe przeznaczyli dla baali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalija"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "ta bezbożnica"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "jej synowie"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "złamali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "poświęcone rzeczy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "przeznaczyli"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "dla baali"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:56.480511186Z",
+  "model": "glm-5.3"
+}

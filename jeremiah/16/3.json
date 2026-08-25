@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Bo tak rzekł Jahwe o synach i o córkach, które urodziły się w tym miejscu, i o ich matkach, które ⟨את⟩ nich zrodziły, i o ich ojcach, którzy ⟨את⟩ nich spłodzili w tej ziemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "synach"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "córkach"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "urodzonych"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tym"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "ich matkach"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "rodzących"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ich ojcach"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "spładzających"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:54.875795989Z",
+  "model": "glm-5.3"
+}

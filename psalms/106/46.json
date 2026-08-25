@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I sprawił, że ⟨את⟩ ich darzono współczuciem, wobec wszystkich ich porywaczy w niewolę.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i sprawił"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "współczuciem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ich porywaczy w niewolę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:44.287325250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I usunął go król Micraim ⟨z tronu⟩ w Jeruszalaim, i nałożył karę na ⟨את⟩ ziemię — stu talentami srebra i talentem złota.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "i usunął go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "i nałożył karę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "stu"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentami"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "i talentem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:39.336979127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I wysłuchał Jahwe Chizkijahu, i uzdrowił ⟨את⟩ lud.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i wysłuchał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "i uzdrowił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-25T03:10:39.967276509Z",
+  "model": "glm-5.3"
+}

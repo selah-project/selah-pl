@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I zasnął Omri ze swymi ojcami, i został pochowany w Szomron; i królował Achab, jego syn, na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i zasnął"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swymi ojcami"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pochowany"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:02.231205100Z",
+  "model": "glm-5.3"
+}

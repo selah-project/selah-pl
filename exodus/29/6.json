@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I włożysz zawój na jego głowę, i nałożysz ⟨את⟩ świętą koronę na zawój.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i włożysz"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "zawój"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i nałożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świętą koronę"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "koronę"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętą"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "zawój"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:03.325858917Z",
+  "model": "glm-5.3"
+}

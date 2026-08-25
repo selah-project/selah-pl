@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Komu Mnie przyrównacie i zrównacie, i porównacie Mnie, że ⟨bylibyśmy⟩ podobni?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "komu"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "Mnie przyrównacie"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "i zrównacie"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "i porównacie Mnie"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "że ⟨bylibyśmy⟩ podobni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:33:55.463223963Z",
+  "model": "glm-5.3"
+}

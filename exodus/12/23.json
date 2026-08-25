@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I przejdzie Jahwe, aby uderzyć ⟨את⟩ Micrajim, i zobaczy ⟨את⟩ krew na progu i na obu odrzwiach, i Jahwe ochroni próg, i nie dopuści niszczyciela, aby wszedł do waszych domów uderzyć ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "i przejdzie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "aby uderzyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i zobaczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "progu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obu"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "odrzwiach"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "i ochroni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "próg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dopuści"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "niszczyciela"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "aby wszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "waszych domów"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "uderzyć"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:09.249268376Z",
+  "model": "glm-5.3"
+}

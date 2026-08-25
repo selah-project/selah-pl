@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I Jahwe wywyższył ⟨את⟩ przeciwników Recina przeciw niemu, a ⟨את⟩ jego wrogów pobudził.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "I wywyższył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przeciwników Recina"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "przeciwników"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recina"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przeciwo niemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego wrogów"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jego wrogów"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "pobudził"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:26.065983995Z",
+  "model": "glm-5.3"
+}

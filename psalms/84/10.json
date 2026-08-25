@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Tarczą naszą ⟨jest⟩ — spójrz, Elohim, i przyjrzyj się obliczu Twego Masziacha.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Tarczą naszą"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "spójrz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "i przyjrzyj się"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczu"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Twego Masziacha"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:21.175038261Z",
+  "model": "glm-5.3"
+}

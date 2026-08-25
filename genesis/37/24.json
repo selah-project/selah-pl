@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I wzięli go, i rzucili go ⟨את⟩ do boru — a bór był pusty, nie było w nim wody.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "i wzięli go"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "i rzucili go"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "do boru"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "do boru"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "a bór"
+    },
+    {
+      "surface": "רק",
+      "gloss": "był pusty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie było"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:08.762530996Z",
+  "model": "glm-5.3"
+}

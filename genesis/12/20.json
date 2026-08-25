@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I rozkazał o nim faraon ⟨את⟩ ludziom, i odprawili ⟨את⟩ go oraz ⟨את⟩ jego żony, i ⟨את⟩ wszystkiego, co miał.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "o nim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ludziom"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i odprawili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego żony"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkiego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:03.358062195Z",
+  "model": "glm-5.3"
+}

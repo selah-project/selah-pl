@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I rzekł Szemuël do ⟨tego⟩ ludu: Jahwe, który uczynił ⟨את⟩ Mosze i ⟨את⟩ Ahrona, i który wywiódł ⟨את⟩ ojców waszych z ziemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨tego⟩ ludu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i który"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wywiódł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojców waszych"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ojców waszych"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:52.730582782Z",
+  "model": "glm-5.3"
+}

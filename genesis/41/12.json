@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "A tam był ⟨את⟩ nami młody młodzieniec, iwri, sługa sara rzeźników; i opowiedzieliśmy mu, a on wyłożył nam ⟨את⟩ nasze sny — każdemu według jego snu wyłożył.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "נער",
+      "gloss": "młody młodzieniec"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "iwri (Hebrajczyk)"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługa"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "sara"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "rzeźników"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "i opowiedzieliśmy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "a on wyłożył"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasze sny"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "nasze sny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdemu"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "według jego snu"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "wyłożył"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:53.112397763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "A król wyszedł, i cały jego dom na jego nogach, i zostawił król ⟨את⟩ dziesięć niewiast, nałożnic, aby strzegły domu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A wyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego dom"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na jego nogach"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "i zostawił"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziesięć niewiast"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "niewiast"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "nałożnic"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "aby strzegły"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:41.497372986Z",
+  "model": "glm-5.3"
+}

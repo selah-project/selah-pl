@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Chur spłodził ⟨את⟩ Uri, a Uri spłodził ⟨את⟩ Becalela.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "A Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "a Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becalela"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becalela"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:42.512741773Z",
+  "model": "glm-5.3"
+}

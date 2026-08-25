@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A żył Enosz po spłodzeniu ⟨את⟩ Kenana piętnaście lat i osiemset lat, i płodził synów i córki.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a żył"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosz"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "spłodzeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenana"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "i osiemset"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i płodził"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i córki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:55.342563806Z",
+  "model": "glm-5.3"
+}

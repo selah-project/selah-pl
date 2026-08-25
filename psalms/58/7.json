@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Elohimie, rozbij zęby ich w ustach ich, Jahwe, wyłam kły lwów młodych!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "rozbij"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "zęby ich"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "w ustach ich"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "kły"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "lwów młodych"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "wyłam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.215522606Z",
+  "model": "glm-5.3"
+}

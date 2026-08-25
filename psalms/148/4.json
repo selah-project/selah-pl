@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Chwalcie go, niebiosa niebios, i wody ⟨te⟩, które ⟨są⟩ ponad niebiosami!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie go"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ו המים",
+      "gloss": "i wody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:49.259240649Z",
+  "model": "glm-5.3"
+}

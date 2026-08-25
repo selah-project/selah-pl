@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "A także Lotowi, idącemu ⟨את⟩ Awramem, było trzody i bydła, i namiotów.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lotowi"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "idącemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awramem"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awramem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i bydła"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "i namiotów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:47.582989310Z",
+  "model": "glm-5.3"
+}

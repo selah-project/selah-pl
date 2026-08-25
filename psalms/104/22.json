@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Wschodzi słońce — one się zbierają i w swoich legowiskach kładą się.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "wschodzi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "one się zbierają"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i w"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "swoich legowiskach"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "kładą się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:31.071146407Z",
+  "model": "glm-5.3"
+}

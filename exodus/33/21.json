@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I rzekł Jahwe: Oto miejsce przy ⟨את⟩ mnie, a ty staniesz na skale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ przy",
+      "marks": "przy mnie"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "a staniesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "skale"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:07.685705879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I umarli także obaj — Machlon i Kiljon — i została ta kobieta po dwóch swoich synach i po swoim mężu.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "i umarli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obaj"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "i Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "i została"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta kobieta"
+    },
+    {
+      "surface": "משני",
+      "gloss": "po dwóch"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "swoich synach"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "i po swoim mężu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:16.145874739Z",
+  "model": "glm-5.3"
+}

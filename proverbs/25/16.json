@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Miód znalazłeś — jedz, ile ci trzeba, abyś się nim nie nasycił i go nie zwymiotował.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "miód"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "znalazłeś"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedz"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "ile ci trzeba"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "nasycił się nim"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "i zwymiotował go"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:07.950222971Z",
+  "model": "glm-5.3"
+}

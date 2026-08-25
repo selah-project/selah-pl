@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "i ustalił ją dla Jaakowa jako ustawę, dla Jisraela — przymierze wieczne",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "i ustalił ją"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dla Jaakowa"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "jako ustawę"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Jisraela"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczne"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:24.685939721Z",
+  "model": "glm-5.3"
+}

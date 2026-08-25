@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "i nie wchodź w sąd z ⟨את⟩ sługą twoim, bo nie będzie usprawiedliwiony przed obliczem twoim żaden żyjący.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wchodź"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w sąd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługą twoim"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługą twoim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "będzie usprawiedliwiony"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed obliczem twoim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "żaden"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyjący"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.012625989Z",
+  "model": "glm-5.3"
+}

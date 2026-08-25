@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I pobił ⟨את⟩ Moab, i stali się Moabici sługami Dawida, niosący daninę.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "I pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i stali się"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabici"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sługami"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "niosący"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daninę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:25.110678553Z",
+  "model": "glm-5.3"
+}

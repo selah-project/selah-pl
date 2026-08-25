@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Bo dobry — chesed Twój — bardziej niż życie, wargi moje wysławiać Cię będą.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Twój"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "bardziej niż życie"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wargi moje"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "wysławiać Cię będą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:36.345383743Z",
+  "model": "glm-5.3"
+}

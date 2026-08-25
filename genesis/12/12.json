@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I będzie, gdy zobaczą ⟨את⟩ ciebie Micryjczycy, i powiedzą: żona jego to; i zabiją ⟨את⟩ mnie, a ⟨את⟩ ciebie zachowają przy życiu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zobaczą"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cię",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micryjczycy"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i powiedzą"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "żona"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "i zabiją"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "a ⟨את⟩ ciebie",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "zachowają przy życiu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:13.937046298Z",
+  "model": "glm-5.3"
+}

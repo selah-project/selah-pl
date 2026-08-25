@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "I stała się prawda nieobecna, a kto odwraca się od zła, staje się łupem; i widział Jahwe, i było złe w jego oczach, że nie ma sądu.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i stała się"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "prawda"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "nieobecna"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "a odwraca się"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zła"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "staje się łupem"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "i było złe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sądu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:38:43.180154769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Niech przyjdzie przed Twoje oblicze moja modlitwa, nakłoń swoje ucho ku mojemu okrzykowi.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Niech przyjdzie"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed Twoje oblicze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moja modlitwa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nakłoń"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "swoje ucho"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ku mojemu okrzykowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:05.299442230Z",
+  "model": "glm-5.3"
+}

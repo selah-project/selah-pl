@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Czy Ten, karzący ludy, czy nie przekona? Czy Ten, pouczający człowieka wiedzą, ⟨nie będzie wiedział⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Czy Ten, karzący"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "przekona"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Czy Ten, pouczający"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wiedzą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.420333045Z",
+  "model": "glm-5.3"
+}

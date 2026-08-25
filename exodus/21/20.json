@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A gdy mąż uderzy ⟨את⟩ swojego niewolnika albo ⟨את⟩ swoją niewolnicę kijem i umrą pod jego ręką — pomstą zostanie ukarany.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "uderzy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego niewolnika"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "swojego niewolnika"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją niewolnicę"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "swoją niewolnicę"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "kijem"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrą"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jego ręką"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pomstą"
+    },
+    {
+      "surface": "יינקם",
+      "gloss": "zostanie ukarany"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:25.112724669Z",
+  "model": "glm-5.3"
+}

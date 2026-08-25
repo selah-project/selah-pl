@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Ty roztrzaskałeś swą mocą ⟨את⟩ morze, skruszyłeś głowy taninów nad wodami.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "roztrzaskałeś"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "swą mocą"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "skruszyłeś"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "taninów"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.202947267Z",
+  "model": "glm-5.3"
+}

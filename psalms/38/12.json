@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Miłujący mnie i przyjaciele moi na widok plagi mojej stoją z boku, a bliscy moi stoją z daleka.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "miłujący mnie"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "i przyjaciele moi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "na widok \/ z boku"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "plagi mojej"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stoją"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "a bliscy moi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stoją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.697491113Z",
+  "model": "glm-5.3"
+}

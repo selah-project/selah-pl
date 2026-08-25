@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "A wy, którzy porzuciliście Jahwe, którzy zapomnieliście ⟨את⟩ moją świętą górę, którzy szykujecie stół dla Gad i napełniacie dla Meni mieszany trunk —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a wy"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "którzy porzuciliście"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "którzy zapomnieliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją świętą górę"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "świętą moją"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "którzy szykujecie"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "dla Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "i napełniacie"
+    },
+    {
+      "surface": "למני",
+      "gloss": "dla Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mieszany trunk"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:06.332330137Z",
+  "model": "glm-5.3"
+}

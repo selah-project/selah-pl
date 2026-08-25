@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I poraził Jahwe ⟨את⟩ lud za to, że zrobili ⟨את⟩ cielca, którego zrobił Aharon",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zrobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielca"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:10.292227364Z",
+  "model": "glm-5.3"
+}

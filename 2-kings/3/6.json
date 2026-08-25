@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wyszedł król Jehoram w tym dniu z Szomronu, i przeglądnął ⟨את⟩ całego Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "z Szomronu"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i przeglądnął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:08.428228612Z",
+  "model": "glm-5.3"
+}

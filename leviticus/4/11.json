@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I ⟨את⟩ skórę bydła oraz ⟨את⟩ całe jego mięso, z jego głową i z jego nogami, i jego wnętrzności, i jego odchody —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "skórę bydła"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skórę"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "całe jego mięso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jego mięso"
+    },
+    {
+      "surface": "על",
+      "gloss": "z"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głową"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i z"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "jego nogami"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "i jego wnętrzności"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "i jego odchody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:40.389726978Z",
+  "model": "glm-5.3"
+}

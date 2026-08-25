@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "których usta mówią marność, a ich prawa ręka ⟨jest⟩ prawicą kłamstwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "marność"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a ich prawa ręka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "prawicą"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:25.000612985Z",
+  "model": "glm-5.3"
+}

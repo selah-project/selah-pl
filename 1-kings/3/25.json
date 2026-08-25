@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł król: Potnijcie ⟨את⟩ żywe dziecko na dwoje i dajcie ⟨את⟩ połowę jednej, a ⟨את⟩ połowę drugiej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "potnijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żywe dziecko"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "החי",
+      "gloss": "żywe"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "na dwoje"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "i dajcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "połowę"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "połowę"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "jednej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "połowę"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "połowę"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "drugiej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:19.030894745Z",
+  "model": "glm-5.3"
+}

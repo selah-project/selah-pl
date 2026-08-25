@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Niech napełni się usta moje Twoją chwałą, cały dzień Twoim majestatem.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "Niech napełni się"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta moje"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Twoją chwałą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "Twoim majestatem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:20.254938821Z",
+  "model": "glm-5.3"
+}

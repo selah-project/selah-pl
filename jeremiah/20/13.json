@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Śpiewajcie Jahwe, chwalcie ⟨את⟩ Jahwe, bo wyrwał ⟨את⟩ nefesz biednego z ręki złoczyńców.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Śpiewajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wyrwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesz biednego"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "biednego"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    }
+  ],
+  "timestamp": "2026-08-25T00:49:17.855313587Z",
+  "model": "glm-5.3"
+}

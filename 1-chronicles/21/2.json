@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I rzekł Dawid do Joaba i do książąt ⟨tego⟩ ludu: Idźcie, policzcie ⟨את⟩ JisraEl, od Beer-Szewy aż do Dan, i przynieście ⟨to⟩ do mnie, abym poznał ⟨את⟩ liczbę ich.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "policzcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JisraEl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "JisraEl"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "od studni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Szewy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "i przynieście"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "abym poznał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liczbę ich"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "liczbę ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:16.907946257Z",
+  "model": "glm-5.3"
+}

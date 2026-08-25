@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I przeszedł cały lud ⟨את⟩ Jardén, a król przeszedł; i pocałował król Barzillaja, i pobłogosławił go, i wrócił on na swoje miejsce.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "i przeszedł"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a król"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przeszedł"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "i pocałował"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzillaja"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "i pobłogosławił go"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na swoje miejsce"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:49.131187055Z",
+  "model": "glm-5.3"
+}

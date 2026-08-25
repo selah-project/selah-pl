@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Jeśli sam przyjdzie, sam wyjdzie; jeśli ⟨jest⟩ panem żony, to jego żona wyjdzie z nim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "panem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "żony"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żona"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:41.938758172Z",
+  "model": "glm-5.3"
+}

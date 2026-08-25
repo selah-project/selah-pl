@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Razem więźniowie ⟨są⟩ spokojni, nie słyszą głosu ciemiężcy.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "więźniowie"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "spokojni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słyszą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ciemiężcy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:57.700283878Z",
+  "model": "glm-5.3"
+}

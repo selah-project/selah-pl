@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I zapomnieli Jego dzieła i Jego cudów, które im pokazał.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "I zapomnieli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Jego dzieła"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i Jego cudów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "im pokazał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:45.118908320Z",
+  "model": "glm-5.3"
+}

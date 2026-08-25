@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Mówcie braciom waszym: Ludem moim; i siostrom waszym: Obdarzona litością.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mówcie"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "braciom waszym"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludem moim"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "i siostrom waszym"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "obdarzona litością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:31.734140663Z",
+  "model": "glm-5.3"
+}

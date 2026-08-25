@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "I mówił ⟨z nim⟩ dobre słowa, i postawił ⟨את⟩ jego tron ponad tronem królów, którzy ⟨byli⟩ ⟨z nim⟩ w Bawelu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I mówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z nim⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dobre słowa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego tron"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jego tron"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "tronem"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z nim⟩"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "w Bawelu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:07:57.842090182Z",
+  "model": "glm-5.3"
+}

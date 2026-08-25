@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "Bo Jahwe, Eljon, jest straszliwy — król wielki nad całą ⟨את⟩ ziemią.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "straszliwy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ziemią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:58.497946688Z",
+  "model": "glm-5.3"
+}

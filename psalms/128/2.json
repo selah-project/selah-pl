@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 128,
+  "translation": "Owoc pracy twoich rąk będziesz ⟨jadał⟩, szczęśliwy ⟨będziesz⟩, i dobrze ci ⟨będzie⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Owoc pracy"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "twoich rąk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨będziesz⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jadał"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i dobrze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:58.839494742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Jahwe, jak pomnożyli się ci, którzy mnie trapią! Wielu ⟨jest tych, którzy⟩ powstają przeciwko mnie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "pomnożyli się"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ci, którzy mnie trapią"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Wielu"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "powstają"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:36.203793900Z",
+  "model": "glm-5.3"
+}

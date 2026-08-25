@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I pokropi kapłan ⟨את⟩ krew na ołtarzu Jahwe, przy wejściu namiotu spotkania, i spali tłuszcz na miłą woń Jahwe.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "i pokropi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejściu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i spali (kadząc)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tłuszcz"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "na woń"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "miłą (spokoju)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:01.134062249Z",
+  "model": "glm-5.3"
+}

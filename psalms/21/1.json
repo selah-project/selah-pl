@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Kierownikowi chóru, psalm Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:01.836745475Z",
+  "model": "glm-5.3"
+}

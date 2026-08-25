@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wyszedł Szatan znad ⟨את⟩ oblicza Jahwe, i poraził ⟨את⟩ Ijowa wrzodem złym, od podeszwy jego stopy aż po jego czubek głowy.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Szatan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "znad ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijowa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijowa"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "wrzodem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złym"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "od podeszwy"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "jego stopy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "jego czubek głowy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:15.551873289Z",
+  "model": "glm-5.3"
+}

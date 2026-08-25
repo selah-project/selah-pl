@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Grzechów mojej młodości i moich buntów nie pamiętaj; według swojego chesed pamiętaj o mnie — Ty — dla swojej dobroci, Jahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "grzechów"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "mojej młodości"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "i moich buntów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "pamiętaj"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "według swojego chesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamiętaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "o mnie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dla"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "swojej dobroci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:27.742246639Z",
+  "model": "glm-5.3"
+}

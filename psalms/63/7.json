@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Gdy wspominam Cię na moim łożu, w strażach nocnych rozmyślam o Tobie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "wspominam Cię"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "moim łożu"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "w strażach nocnych"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "rozmyślam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "o Tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:30.581404115Z",
+  "model": "glm-5.3"
+}

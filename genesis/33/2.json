@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I ustawił ⟨את⟩ niewolnice i ⟨את⟩ ich dzieci z przodu, a ⟨את⟩ Leę i ⟨את⟩ jej dzieci za nimi, a ⟨את⟩ Rachel i ⟨את⟩ Józefa na końcu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i ustawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niewolnice"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "niewolnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich dzieci"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ich dzieci"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "z przodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Leę"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leę"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "i jej dzieci"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "za nimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Józefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na końcu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:04.210495040Z",
+  "model": "glm-5.3"
+}

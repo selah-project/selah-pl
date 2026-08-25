@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech przyjdzie na niego zagłada — nie ⟨jej⟩ zna; a sieć jego, którą ukrył, niech go schwyta; w zagładzie niech upadnie w nią.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Niech przyjdzie na niego"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "zagłada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "a sieć jego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ukrył"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "niech go schwyta"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "w zagładzie"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "niech upadnie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:41.938490857Z",
+  "model": "glm-5.3"
+}

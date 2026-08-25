@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł Jehoszafat: Czy nie ma tu jeszcze proroka dla Jahwe, żebyśmy zapytali ⟨את⟩ niego?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "czy nie ma"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "żebyśmy zapytali"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "proroka"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:11.572373656Z",
+  "model": "glm-5.3"
+}

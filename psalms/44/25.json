@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Dlaczego swoje oblicze ukrywasz, zapominasz o naszym ucisku i naszej udręce?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ukrywasz"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapominasz"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "o naszym ucisku"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "i naszej udręce"
+    }
+  ],
+  "timestamp": "2026-08-25T04:19:56.161110294Z",
+  "model": "glm-5.3"
+}

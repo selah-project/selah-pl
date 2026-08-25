@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Drogą twoich przykazań biegnę, bo ty poszerzasz moje serce.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoich przykazań"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "biegnę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "poszerzasz"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:44.288654636Z",
+  "model": "glm-5.3"
+}

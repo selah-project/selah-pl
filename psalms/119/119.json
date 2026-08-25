@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "⟨Jak⟩ żużel usunąłeś wszystkich bezbożnych ziemi; dlatego pokochałem Twoje świadectwa.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "żużel"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "usunąłeś"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "pokochałem"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Twoje świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:19.965067501Z",
+  "model": "glm-5.3"
+}

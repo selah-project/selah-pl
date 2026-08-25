@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "i skóry baranie wybarwione na czerwono, i skóry tachaszowe, i drzewa szyttimowe",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "i skóry"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "baranie"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wybarwione na czerwono"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "i skóry"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachaszowe"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "i drzewa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szyttimowe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:26.485356631Z",
+  "model": "glm-5.3"
+}

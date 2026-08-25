@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 99,
+  "translation": "Wysławiajcie Jahwe, Elohima naszego, i składajcie pokłon ⟨przy⟩ górze świętości Jego, bo święty ⟨jest⟩ Jahwe, Elohim nasz.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "i składajcie pokłon"
+    },
+    {
+      "surface": "להר",
+      "gloss": "⟨przy⟩ górze"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "świętości Jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "święty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:13.944602348Z",
+  "model": "glm-5.3"
+}

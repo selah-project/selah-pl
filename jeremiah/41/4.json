@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I stało się w dniu drugim zabicia ⟨את⟩ Gedaljahu — i nikt nie wiedział.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "zabicia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i nikt (i żaden mąż)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    }
+  ],
+  "timestamp": "2026-08-25T01:00:02.662552426Z",
+  "model": "glm-5.3"
+}

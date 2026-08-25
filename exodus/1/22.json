@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rozkazał Paroh całemu swemu ludowi, mówiąc: Każdego syna nowo narodzonego do rzeki wrzucicie go, a każdą córkę zachowacie przy życiu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I rozkazał"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "całemu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swemu ludowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Każdego"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "nowo narodzonego"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "do rzeki"
+    },
+    {
+      "surface": "תשליכהון",
+      "gloss": "wrzucicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a każdą"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "zachowacie przy życiu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:59.094179156Z",
+  "model": "glm-5.3"
+}

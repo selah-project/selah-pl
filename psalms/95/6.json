@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Przyjdźcie, ukoronujmy pokłon i uklęknijmy, pobłogosławmy przed Jahwe, który nas uczynił.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Przyjdźcie"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ukoronujmy pokłon"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "i uklęknijmy"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "pobłogosławmy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "który nas uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:56.779475604Z",
+  "model": "glm-5.3"
+}

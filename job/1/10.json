@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Czy nie ty zagrodziłeś wokół niego i wokół jego domu, i wokół wszystkiego, co ma, ze wszystkich stron? Dzieło jego rąk pobłogosławiłeś, a jego dobytek rozprzestrzenił się na ziemi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "zagrodziłeś"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "wokół niego"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i wokół"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego domu"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i wokół"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ze wszystkich stron"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jego rąk"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "pobłogosławiłeś"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "a jego dobytek"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "rozprzestrzenił się"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:21.514716226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Bo Ty nas wybawiłeś od naszych przeciwników, a tych, którzy nas nienawidzą, zawstydziłeś.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "wybawiłeś nas"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "od naszych przeciwników"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "a tych, którzy nas nienawidzą"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "zawstydziłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:59.499951029Z",
+  "model": "glm-5.3"
+}

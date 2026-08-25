@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rzekł Awimelech: Cóż to uczyniłeś nam? Omal nie położył się ktoś z ludu z ⟨את⟩ żoną twoją — i sprowadziłbyś na nas winę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "omal nie"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "położył się"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ktoś"
+    },
+    {
+      "surface": "העם",
+      "gloss": "z ludu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z żoną twoją"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "żoną twoją"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "sprowadziłbyś"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "winę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:18.976592271Z",
+  "model": "glm-5.3"
+}

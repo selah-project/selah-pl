@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "NiechTwojaręka ⟨będzie⟩ mi pomocą, bo twoje rozporządzenia wybrałem.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoja ręka"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "mi pomocą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "twoje rozporządzenia"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "wybrałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:12.727134941Z",
+  "model": "glm-5.3"
+}

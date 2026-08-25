@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I usłyszeli mieszkańcy Gibeonu ⟨את⟩ to, co uczynił Jehoszua Jerychowi i Aj.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "i mieszkańcy"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłyszeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co uczynił Jehoszua Jerychowi i Aj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerychowi"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "i Aj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:06.442708421Z",
+  "model": "glm-5.3"
+}

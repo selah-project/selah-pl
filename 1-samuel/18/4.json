@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I zdarł z siebie Jehonatan ⟨את⟩ płaszcz, który był na nim, i dał go Dawidowi, i szaty swoje, i aż po miecz swój, i aż po łuk swój, i aż po pas swój.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "I zdarł z siebie"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "płaszcz"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "płaszcz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "był na nim"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i dał go"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "i szaty swoje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż po"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "miecz swój"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż po"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "łuk swój"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż po"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "pas swój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:12.043916996Z",
+  "model": "glm-5.3"
+}

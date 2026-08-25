@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Widziałem ⟨את⟩ wszystkie czyny, które uczyniono pod słońcem, a oto wszystko to marność i gonienie za wiatrem.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie czyny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "czyny"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "które uczyniono"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marność"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i gonienie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "za wiatrem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:40.871516459Z",
+  "model": "glm-5.3"
+}

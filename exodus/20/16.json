@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Nie będziesz odpowiadał przeciw bliźniemu twemu świadkiem kłamstwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "będziesz odpowiadał"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "przeciw bliźniemu twemu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "świadkiem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:19.605891554Z",
+  "model": "glm-5.3"
+}

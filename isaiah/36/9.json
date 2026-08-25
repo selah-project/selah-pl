@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I jak odwrócisz ⟨את⟩ oblicze jednego namiestnika z najmniejszych sług pana mego, a ty ufasz sobie na Micraim, na rydwan i na jeźdźców?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "i jak"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "odwrócisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicze"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "namiestnika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sług"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pana mego"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "z najmniejszych"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "a ty ufasz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "na rydwan"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "i na jeźdźców"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:37.361161144Z",
+  "model": "glm-5.3"
+}

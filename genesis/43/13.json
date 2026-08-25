@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "i ⟨את⟩ brata waszego weźcie, i wstańcie, wróćcie do męża owego —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brata waszego"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brata waszego"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "weźcie"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "i wstańcie"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "wróćcie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża owego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:28.832350925Z",
+  "model": "glm-5.3"
+}

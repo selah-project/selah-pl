@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I przyszła do swojej teściowej, a ona powiedziała: Kim ⟨jesteś⟩ ty, córko moja? Ona zaś opowiedziała jej ⟨את⟩ wszystko, co jej uczynił ów mąż.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "I przyszła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "swojej teściowej"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ona powiedziała"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "córo moja"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Ona zaś opowiedziała"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ów mąż"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:08.471835412Z",
+  "model": "glm-5.3"
+}

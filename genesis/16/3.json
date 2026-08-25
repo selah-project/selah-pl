@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wzięła Saraj, żona Awrama, ⟨את⟩ Hagar Miczrytkę, niewolnicę swoją, po końcu dziesięciu lat mieszkania Awrama w ziemi Kenaan, i dała ⟨את⟩ ją Awramowi, mężowi swojemu, jemu za żonę.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "I wzięła"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żona"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar Miczrytkę, niewolnicę swoją"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Miczrytkę"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "niewolnicę swoją"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "po końcu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dziesięciu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mieszkania"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וותתן",
+      "gloss": "i dała"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "Awramowi, mężowi swojemu"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Awramowi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mężowi swojemu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:35.796668731Z",
+  "model": "glm-5.3"
+}

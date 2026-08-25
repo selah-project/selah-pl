@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Oto pobił skałę, i popłynęły wody, a potoki rozlały się — czy też chleb zdoła dać, albo przygotować mięso dla ludu swego?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "oto"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skałę"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "i popłynęły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "a potoki"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "rozlały się"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "czy też"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dać"
+    },
+    {
+      "surface": "אם",
+      "gloss": "albo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "przygotować"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "dla ludu swego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:40.125169284Z",
+  "model": "glm-5.3"
+}

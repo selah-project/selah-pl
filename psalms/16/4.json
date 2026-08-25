@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Niech się pomnożą ich boleści — ⟨ci, którzy⟩ pospieszyli za innym ⟨bogiem⟩; nie wyleję ich libacji z krwi i nie wezmę ⟨את⟩ ich imion na moje wargi.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "niech się pomnożą"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ich boleści"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za innym"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "pospieszyli"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "wyleję"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ich libacje"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krwi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wezmę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich imion"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ich imiona"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "moje wargi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:47.848643045Z",
+  "model": "glm-5.3"
+}

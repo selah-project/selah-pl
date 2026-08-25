@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Ku przewodnikowi ⟨ku⟩ gitinit, synów Koracha, psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku przewodnikowi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitinit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:01.019283442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I rzekł Awimelek do Awrahama: Co widziałeś, że uczyniłeś ⟨את⟩ rzecz tę?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "widziałeś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzecz tę"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:33.320509312Z",
+  "model": "glm-5.3"
+}

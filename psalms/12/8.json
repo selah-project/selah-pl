@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Ty, Jahwe, będziesz ich strzegł, zachowasz go od tego pokolenia na wieki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "będziesz ich strzegł"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "zachowasz go"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "tego pokolenia"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tego"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:36.413976263Z",
+  "model": "glm-5.3"
+}

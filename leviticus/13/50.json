@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I przyjrzy się kapłan ⟨את⟩ znamieniu, i zamknie ⟨את⟩ znamienie na siedem dni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i przyjrzy się"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "znamieniu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "znamieniu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i zamknie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "znamienie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "znamienie"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "na siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:29.493931917Z",
+  "model": "glm-5.3"
+}

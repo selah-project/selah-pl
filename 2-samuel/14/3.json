@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I przyjdziesz do króla i powiesz mu według tego słowa. A Joab włożył ⟨את⟩ słowa w jej usta.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "i przyjdziesz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a włożył"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "w jej usta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:12.650819072Z",
+  "model": "glm-5.3"
+}

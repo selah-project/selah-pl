@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Każdą wdowę i sierotę nie będziecie uciskać.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wdowę"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "i sierotę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "będziecie uciskać"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:09.283929554Z",
+  "model": "glm-5.3"
+}

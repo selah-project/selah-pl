@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I wzniesiesz ⟨את⟩ przybytek według jego prawa, które ci pokazano na górze.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "i wzniesiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "według jego prawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ci pokazano"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:34:11.490933949Z",
+  "model": "glm-5.3"
+}

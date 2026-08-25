@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A do mnie słowo zostało przywłaszczone skrycie, i ucho moje chwyciło szmer z niego.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "A do mnie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "zostało przywłaszczone skrycie"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i chwyciło"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ucho moje"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "szmer"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "z niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:54.490485406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I wróci proch na ziemię, jak był, a ruach wróci do Elohim, który go dał.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wróci"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "proch"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "jak był"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "a ruach"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wróci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "go dał"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:32.870118369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Będziesz ich szukał, a nie znajdziesz ich — mężowie twojej zwady; będą jak nicość i jak nikt, mężowie twojej wojny.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "będziesz ich szukał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "znajdziesz ich"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "twojej zwady"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "jak nicość"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "i jak nikt"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "twojej wojny"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:50.158473922Z",
+  "model": "glm-5.3"
+}

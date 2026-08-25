@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Strzeż ⟨את⟩ miesiąca Abib i uczynisz Pesach dla Jahwe, Elohim twojego, bo w miesiącu Abib wyprowadził cię Jahwe, Elohim twój, z Micrajim nocą.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Strzeż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miesiąca Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ו עשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ל יהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ב חדש",
+      "gloss": "w miesiącu"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "wyprowadził cię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "מ מצרים",
+      "gloss": "z Micrajim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:54.485345406Z",
+  "model": "glm-5.3"
+}

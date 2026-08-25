@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Przy wychodzeniu Israela z Micraim, domu Jaakowa od ludu obcej mowy",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "przy wychodzeniu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od ludu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "obcej mowy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:55.709204068Z",
+  "model": "glm-5.3"
+}

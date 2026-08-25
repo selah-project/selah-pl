@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I wrócił Mosze do Jahwe oraz rzekł: Adonai, czemu wyrządziłeś złe temu ludowi, czemu to posłałeś mnie?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oraz rzekł"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "wyrządziłeś złe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "temu ludowi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "temu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "posłałeś mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:17.771125568Z",
+  "model": "glm-5.3"
+}

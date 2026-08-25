@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "I dał ich ziemię jako dziedzictwo, dziedzictwo Israelowi, jego ludowi.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "I dał"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ich ziemię"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "jako dziedzictwo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dziedzictwo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelowi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego ludowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:24.445083499Z",
+  "model": "glm-5.3"
+}

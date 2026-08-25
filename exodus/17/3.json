@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I pragnął tam lud wody, i szemrał lud przeciwko Moszowi, i powiedział: Czemu to wyprowadziłeś nas z Micraim, żeby umorzyć ⟨את⟩ mnie, i ⟨את⟩ moich synów, i ⟨את⟩ moje bydło pragnieniem?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "i pragnął"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "למים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "i szemrał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszowi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "wyprowadziłeś nas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "żeby umorzyć"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moich synów"
+    },
+    {
+      "surface": "בני",
+      "gloss": "moich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moje bydło"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "moje bydło"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "pragnieniem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:38.356500360Z",
+  "model": "glm-5.3"
+}

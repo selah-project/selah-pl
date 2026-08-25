@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I dlaczego nie zachowałeś ⟨את⟩ przysięgi Jahwe oraz ⟨את⟩ przykazania, które nałożyłem na ciebie?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "i dlaczego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "zachowałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przysięgi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "przysięgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "przykazania"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "przykazania"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nałożyłem"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:29.141901855Z",
+  "model": "glm-5.3"
+}

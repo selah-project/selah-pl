@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Błogosławiony ⟨niech będzie⟩ Adonai; dzień po dniu dźwiga nasze brzemię, El zbawienia naszego. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony ⟨niech będzie⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "יום",
+      "gloss": "po dniu"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "dźwiga brzemię"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nasze"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "zbawienia naszego"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:27.080061419Z",
+  "model": "glm-5.3"
+}

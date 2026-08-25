@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I niech objawi nam Jahwe, Elohim twój, ⟨את⟩ drogę, którą nią pójdziemy, i ⟨את⟩ rzecz, którą uczynimy.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i niech objawi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drogę"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pójdziemy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nią"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "rzecz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "uczynimy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:00:24.966580874Z",
+  "model": "glm-5.3"
+}

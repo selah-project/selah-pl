@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A ⟨את⟩ Jechu, syna Nimsziego, namaścisz na króla nad Jisiraelem; a ⟨את⟩ Eliszę, syna Szafata, z Avel-Mecholi, namaścisz na proroka po tobie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jechu, syna Nimsziego"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jechu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsziego"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "namaścisz"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na króla"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eliszę, syna Szafata"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszę"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Szafata"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "z Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mecholi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "namaścisz"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "na proroka"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "po tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.698945965Z",
+  "model": "glm-5.3"
+}

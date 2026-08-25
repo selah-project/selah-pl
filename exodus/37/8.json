@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Kerub jeden od krańca z tej strony, i kerub jeden od krańca z tamtej strony; z ⟨tej⟩ pokrywy zrobił ⟨את⟩ kerubów na dwóch jej krańcach.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od krańca"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z tej strony"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "i kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od krańca"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z tamtej strony"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pokrywy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubów"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubów"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na dwóch"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "jej krańcach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:03.803558662Z",
+  "model": "glm-5.3"
+}

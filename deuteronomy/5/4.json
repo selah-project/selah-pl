@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Twarz w twarz mówił Jahwe z wami na górze, spośród ognia.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Twarz"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "w twarz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognia"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:05.060667678Z",
+  "model": "glm-5.3"
+}

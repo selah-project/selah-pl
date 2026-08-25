@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Wspominam w nocy moją pieśń, z moim sercem rozmawiam, a mój duch szukająco drąży.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Wspominam"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "moją pieśń"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moim sercem"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "rozmawiam"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "szukająco drąży"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mój duch"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:16.630234024Z",
+  "model": "glm-5.3"
+}

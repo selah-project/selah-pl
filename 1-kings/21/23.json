@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Także o Izabel przemówił Jahwe, mówiąc: Psy zjedzą ⟨את⟩ Izabel przy murze Jizreel",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Także"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "o Izabel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Psy"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zjedzą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izabel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "przy murze"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:04.196404589Z",
+  "model": "glm-5.3"
+}

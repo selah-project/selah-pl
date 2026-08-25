@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Zaprzestaje wojen aż po kraniec ziemi, łuk łamie i włócznię siecze, wozy pali w ogniu.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Zaprzestaje"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wojen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraniec"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "łamie"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "i siecze"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "włócznię"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "wozy"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "pali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:58.042091918Z",
+  "model": "glm-5.3"
+}

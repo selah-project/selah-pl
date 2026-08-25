@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I czynił złe w oczach Jahwe, i szedł za grzechami Jerobama, syna Nebata, którym ⟨את⟩ Israela doprowadził do grzechu — nie odstąpił od nich.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i czynił"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "złe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i szedł"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grzechami"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "doprowadził do grzechu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstąpił"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:33.595897192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Burzy się serce moje słowem dobrym; mówię ja: czyny moje ⟨są⟩ dla króla; język mój ⟨jest⟩ rylcem pisarza szybkiego.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Burzy się"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrym"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówię"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "czyny moje"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dla króla"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "język mój"
+    },
+    {
+      "surface": "עט",
+      "gloss": "rylcem"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "pisarza"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "szybkiego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:18.596518710Z",
+  "model": "glm-5.3"
+}

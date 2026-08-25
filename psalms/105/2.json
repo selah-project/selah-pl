@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Śpiewajcie Mu, grajcie Mu, rozmyślajcie o wszystkich Jego cudach",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Śpiewajcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "grajcie (zagrajcie Mu)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "rozmyślajcie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o wszystkich"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "Jego cudach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:54.119842181Z",
+  "model": "glm-5.3"
+}

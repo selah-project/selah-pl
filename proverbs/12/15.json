@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Droga głupiego ⟨jest⟩ prosta w jego oczach, a słuchający rady ⟨jest⟩ mądry.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "droga"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "głupiego"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prosta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "a słuchający"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "rady"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:08.387646687Z",
+  "model": "glm-5.3"
+}

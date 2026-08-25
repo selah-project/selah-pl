@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I mówił sar zaszczytnych podających ⟨את⟩ Parohowi, mówiąc: ⟨את⟩ moje winy ja przypominam dzisiaj.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I mówił"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar (książę, nadzierca)"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "zaszczytnych podających (czaszy)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parohowi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje winy"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "moje winy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "przypominam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:53.111863988Z",
+  "model": "glm-5.3"
+}

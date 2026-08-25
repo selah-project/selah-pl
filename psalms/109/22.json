@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Bo biedny i ubogi jestem ja, a serce moje ⟨jest⟩ ranione we wnętrzu moim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem ja"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "a serce moje"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ranione"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "we wnętrzu moim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:31.283801159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 111,
+  "translation": "Pamiątkę uczynił dla cudów swoich, łaskawy i miłosierny ⟨jest⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pamiątkę"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "dla cudów swoich"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "łaskawy"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "i miłosierny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:46.251174485Z",
+  "model": "glm-5.3"
+}

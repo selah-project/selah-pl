@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Wszyscy, którzy mnie widzą, wyśmiewają się ze mnie, wykrzywiasz wargę, potrząsają głową.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "którzy mnie widzą"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "wyśmiewają się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ze mnie"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "wykrzywiasz"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "wargę"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "potrząsają"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głową"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:21.554228346Z",
+  "model": "glm-5.3"
+}

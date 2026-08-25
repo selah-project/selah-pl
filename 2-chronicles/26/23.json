@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 26:23",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I Uzzijasz zasnął z ojcami swoimi, i pochowali ⟨את⟩ niego z ojcami jego w polu grobowym, które należało do królów, gdyż powiedzieli: trędowaty ⟨on⟩ jest; i królował Jotam, syn jego, na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i zasnął"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzzijasz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ojcami jego"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pochowali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ojcami jego"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "w polu"
+    },
+    {
+      "surface": "הקבורה",
+      "gloss": "grobowym"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "należało do królów"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "powiedzieli"
+    },
+    {
+      "surface": "מצורע",
+      "gloss": "trędowaty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jego"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:55:30.369967441Z",
+  "model": "glm-5.3"
+}

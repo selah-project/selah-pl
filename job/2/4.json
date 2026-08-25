@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Szatan odpowiedział Jahwe i rzekł: Skórę za skórę — i wszystko, co człowiek ma, odda za swoje życie.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "A odpowiedział"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Szatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Skórę"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skórę"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "człowiek ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "odda"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swoje życie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:47.617324715Z",
+  "model": "glm-5.3"
+}

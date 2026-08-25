@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A teraz wstań wcześnie rano, ty i słudzy twego pana, którzy przyszli ⟨את⟩ z tobą; i wstaniecie rano, gdy zabłyśnie dla was, i odejdźcie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "wstań wcześnie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "i słudzy"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "twego pana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "z tobą"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "i wstaniecie wcześnie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "gdy zabłyśnie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "i odejdźcie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:36.335443469Z",
+  "model": "glm-5.3"
+}

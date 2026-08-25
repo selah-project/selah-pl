@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Przyznajcie Jahwe chwałę ⟨jego⟩ imienia; ukorzcie się przed Jahwe w świętej wspaniałości.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Przyznajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imienia"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ukorzcie się"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "przed Jahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "w wspaniałości"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:53.004336230Z",
+  "model": "glm-5.3"
+}

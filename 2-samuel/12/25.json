@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I posłał ⟨את⟩ ⟨to⟩ przez rękę Natana proroka, i nazwał ⟨את⟩ jego imię Jedidja, ze względu na Jahwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "przez rękę"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego imię"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:58.256716021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I rzekł Laban do Jaakowa: co uczyniłeś, że ukradłeś ⟨את⟩ moje serce i uprowadziłeś ⟨את⟩ moje córki jako jeńczynie miecza?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "do Jaakowa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "że ukradłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje serce"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "i uprowadziłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje córki"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "moje córki"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "jako jeńczynie"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:20.469925402Z",
+  "model": "glm-5.3"
+}

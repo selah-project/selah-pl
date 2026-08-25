@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Od wszystkich moich ciemiężycieli stałem się ⟨obiektem⟩ hańby, a dla sąsiadów nadmiernie, i strachem dla moich znajomych; ci, którzy mnie widzieli na zewnątrz, uciekli ode mnie.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od wszystkich"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "moich ciemiężycieli"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "stałem się"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hańby"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "a dla sąsiadów"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nadmiernie"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "i strachem"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "dla moich znajomych"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "którzy mnie widzieli"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "uciekli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:32.008964632Z",
+  "model": "glm-5.3"
+}

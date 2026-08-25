@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I rzekł do Jehudy: szukać ⟨את⟩ Jahwe, Elohima ojców ich, i czynić Torę i przykazanie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "do Jehudy"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ojców ich"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "i czynić"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torę"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "i przykazanie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:11.228106829Z",
+  "model": "glm-5.3"
+}

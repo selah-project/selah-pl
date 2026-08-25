@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I usłyszał słuchacz ⟨את⟩ głos szofaru i nie dał się ostrzec, i przyszedł miecz, i zabrał go — krew jego na głowie jego będzie.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "słuchacz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "szofaru"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "dał się ostrzec"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "i zabrał go"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krew jego"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na głowie jego"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:38:52.823005002Z",
+  "model": "glm-5.3"
+}

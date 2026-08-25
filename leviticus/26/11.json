@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I położę moje mieszkanie pośród was, i nie będzie brzydzić się moja nefesz ⟨את⟩ was.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i położę"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "moje mieszkanie"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pośród was"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "będzie brzydzić się"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:41.524040838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wziął Achaz ⟨את⟩ srebro i ⟨את⟩ złoto znalezione w domu Jahwe i w skarbcach domu króla, i posłał królowi Aszszura łapówkę.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "złoto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "znalezione"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "i w skarbcach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "łapówkę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:56.571371469Z",
+  "model": "glm-5.3"
+}

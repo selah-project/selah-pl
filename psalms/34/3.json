@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "W Jahwie chlubi się moja nefesz, usłyszą pokorni i będą się radować.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "W Jahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "chlubi się"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "usłyszą"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokorni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "i będą się radować"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:26.619062522Z",
+  "model": "glm-5.3"
+}

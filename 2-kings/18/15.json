@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I dał Chizkijahu ⟨את⟩ całe srebero znalezione w domu Jahwe oraz w skarbcach domu króla.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "I dał"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe srebro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "znalezione"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "oraz w skarbcach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:49.350670140Z",
+  "model": "glm-5.3"
+}

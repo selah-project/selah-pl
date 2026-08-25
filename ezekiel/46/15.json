@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "I przygotują ⟨את⟩ baranka oraz ⟨את⟩ ofiarę z pokarmów i ⟨את⟩ oliwę rano po raniu — ofiarę całopalną ustawiczną.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i przygotują"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baranka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baranka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ofiarę z pokarmów"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofiarę z pokarmów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "oliwę"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oliwę"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "po raniu"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ofiarę całopalną"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustawiczną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:28:52.485577903Z",
+  "model": "glm-5.3"
+}

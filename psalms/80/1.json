@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Przewodnikowi chóru, według „Szuszannim-Edut”, świadectwo Asafa, psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "według"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Szuszannim (Lilie)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut (Świadectwo)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:46.388180197Z",
+  "model": "glm-5.3"
+}

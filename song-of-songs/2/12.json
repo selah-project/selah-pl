@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Kwiaty pokazały się w ziemi, czas śpiewu nadszedł, a głos turkawki słychać w naszej ziemi.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "Kwiaty"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "pokazały się"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "śpiewu"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "nadszedł"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "a głos"
+    },
+    {
+      "surface": "התור",
+      "gloss": "turkawki"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "słychać"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "w naszej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:02.971839300Z",
+  "model": "glm-5.3"
+}

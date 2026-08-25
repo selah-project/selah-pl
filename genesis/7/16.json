@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A te, które wchodziły, samiec i samica z wszelkiego ciała, weszły, jak nakazał mu ⟨את⟩ Elohim; i zamknął Jahwe za nim ⟨drzwiami⟩.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "a te, które wchodziły"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samiec"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "i samica"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z wszelkiego"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciała"
+    },
+    {
+      "surface": "באו",
+      "gloss": "weszły"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mu (Noacha)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "i zamknął"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:29.526002520Z",
+  "model": "glm-5.3"
+}

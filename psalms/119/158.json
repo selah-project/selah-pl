@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Widziałem zdrajców i czułem wstręt, że twojego słowa nie strzegli.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zdrajców"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "i czułem wstręt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "twojego słowa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "strzegli"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:46.035832092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "⟨את⟩ twoje ustawy będę strzegł; nie opuszczaj mnie całkowicie!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje ustawy"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "twoje ustawy"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "będę strzegł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "opuszczaj mnie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "całkowicie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "całkowicie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:27.847035680Z",
+  "model": "glm-5.3"
+}

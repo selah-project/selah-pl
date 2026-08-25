@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I poczęła, i urodziła syna, i nazwał ⟨את⟩ imię jego Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:24.034406638Z",
+  "model": "glm-5.3"
+}

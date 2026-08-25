@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Człowiek w dostojności, a nie rozumie — przyrównany do bydła ⟨został⟩, zginęli.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "w dostojności"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "rozumie"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "przyrównany"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "do bydła"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zginęli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:21.400600681Z",
+  "model": "glm-5.3"
+}

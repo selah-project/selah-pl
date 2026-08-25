@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Rzekłem ja w sercu moim: ⟨את⟩ sprawiedliwego i ⟨את⟩ bezbożnego osądzi Elohim, bo ⟨jest⟩ czas dla każdego upodobania i nad każdym dziełem ⟨tam⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Rzekłem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "w sercu moim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sprawiedliwego"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bezbożnego"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "osądzi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla każdego"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "upodobania"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdym"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "dziełem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:10.834974055Z",
+  "model": "glm-5.3"
+}

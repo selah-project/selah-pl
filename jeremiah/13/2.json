@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I kupiłem ⟨את⟩ pas według słowa Jahwe i włożyłem go na swoje biodra.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "I kupiłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pas"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "i włożyłem"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "swoje biodra"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:53.306526780Z",
+  "model": "glm-5.3"
+}

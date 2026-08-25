@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo nie ma człowieka sprawiedliwego na ziemi, który by czynił dobre i nie grzeszył.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "czynił"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "grzeszył"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:25.841272243Z",
+  "model": "glm-5.3"
+}

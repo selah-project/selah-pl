@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Chwałę twego królestwa będą mówić i twoją potęgę będą opowiadać",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "twego królestwa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "będą mówić"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "i twoją potęgę"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "będą opowiadać"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:26.095505986Z",
+  "model": "glm-5.3"
+}

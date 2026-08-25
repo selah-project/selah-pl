@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zgromadził się cały lud jak jeden człowiek na placu, który ⟨jest⟩ przed bramą Wodną, i powiedzieli do Ezdrasza, pisarza, by przyniósł ⟨את⟩ księgę Tory Moszego, którą Jahwe przykazał ⟨את⟩ Izraelowi.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "i zgromadził się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jak jeden mąż"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "placu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramą"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Wodną"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "do Ezdrasza"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pisarza"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "by przyniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "księgę"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księgę"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelowi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:48:29.520082349Z",
+  "model": "glm-5.3"
+}

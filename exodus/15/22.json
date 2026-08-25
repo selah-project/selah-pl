@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I dał w drogę Mosze ⟨את⟩ Israela od Morza Sitowia, i wyszli na pustynię Szur, i szli trzy dni na pustyni, a nie znaleźli wody.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "I dał w drogę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od Morza"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sitowia"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustynię"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Szur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i szli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "znaleźli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:12.874479774Z",
+  "model": "glm-5.3"
+}

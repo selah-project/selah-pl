@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wzięła Noemi ⟨את⟩ dziecko, i położyła je na swoim łonie, i była mu dla piastunki.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i wzięła"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziecko"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "i położyła je"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "na swoim łonie"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "dla piastunki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:26.285240598Z",
+  "model": "glm-5.3"
+}

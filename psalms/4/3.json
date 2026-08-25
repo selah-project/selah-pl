@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Synowie ⟨⟨ludzi⟩⟩ — jak długo moja chwała ⟨będzie⟩ na zawstydzenie? Miłujecie marność, szukacie kłamstwa. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synowie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ludzi⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja chwała"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "na zawstydzenie"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Miłujecie"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "marność"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "szukacie"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kłamstwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.603438706Z",
+  "model": "glm-5.3"
+}

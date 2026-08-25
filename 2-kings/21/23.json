@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I spiskowali słudzy Amona przeciwko niemu, i zabili ⟨את⟩ króla w jego domu.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "i spiskowali"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przeciwko niemu"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "i zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "w jego domu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:59.792465443Z",
+  "model": "glm-5.3"
+}

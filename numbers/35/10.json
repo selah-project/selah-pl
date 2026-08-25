@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Przemawiaj do synów Jisraela i powiesz im: gdy będziecie przekraczać ⟨את⟩ Jarden, do ziemi Kenaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "przemawiaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "będziecie przekraczać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:01.278802824Z",
+  "model": "glm-5.3"
+}

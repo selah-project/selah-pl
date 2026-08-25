@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Wrócą bezbożni do Szeolu, wszystkie narody zapominające Elohima.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "wrócą"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "do Szeolu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "zapominające"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:09.642425282Z",
+  "model": "glm-5.3"
+}

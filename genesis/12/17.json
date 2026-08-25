@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I dotknął Jahwe ⟨את⟩ faraona wielkimi plagami oraz ⟨את⟩ jego domu — z powodu sprawy Saraj, żony Abrama.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "i dotknął"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "plagami"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "wielkimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego domu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego domu"
+    },
+    {
+      "surface": "על",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żony"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrama"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:03.357468854Z",
+  "model": "glm-5.3"
+}

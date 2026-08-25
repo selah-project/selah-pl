@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I urodziła Ada ⟨את⟩ Jawala; on ⟨był⟩ ojcem mieszkających w namiotach i ⟨posiadających⟩ trzodę.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawala"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jawala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨był⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojcem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mieszkających"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "w namiotach"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "i ⟨posiadających⟩ trzodę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:43.045173407Z",
+  "model": "glm-5.3"
+}

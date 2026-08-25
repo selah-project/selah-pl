@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A wstał Jehoszua rano, i ponieśli kapłani ⟨את⟩ aron Jahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "A wstał rano"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i ponieśli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:40.642420885Z",
+  "model": "glm-5.3"
+}

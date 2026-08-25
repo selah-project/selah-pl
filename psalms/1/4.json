@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Nie tak bezbożni: lecz jak plewa, którą wiatr roziewa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jak plewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "roziewa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:05.654299123Z",
+  "model": "glm-5.3"
+}

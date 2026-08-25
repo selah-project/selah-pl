@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I wyruszyli z Calmony i rozbili obóz w Punonie.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i wyruszyli"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "z Calmony"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "w Punonie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:12.010138926Z",
+  "model": "glm-5.3"
+}

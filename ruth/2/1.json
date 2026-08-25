@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Noomi ⟨miała⟩ znajomego męża swego, męża mocarza dziela, z rodziny Elimelecha — a imię jego Boaz.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "A Noomi"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "znajomego"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "męża swego"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocarza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dziela"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "z rodziny"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelecha"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a imię jego"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:29.523506166Z",
+  "model": "glm-5.3"
+}

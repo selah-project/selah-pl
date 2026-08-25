@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Zguby ⟨są⟩ w wnętrzu jej i nie ustępuje z placu jej ucisk i podstęp.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "zguby"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "w wnętrzu jej"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ustępuje"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "z placu jej"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "i podstęp"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:46.916517535Z",
+  "model": "glm-5.3"
+}

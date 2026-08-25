@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I usłyszała Atalja ⟨את⟩ głos biegnących ⟨i⟩ ludu, i przyszła do ludu ⟨do⟩ domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "I usłyszała"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "biegnących"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i przyszła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:57.072409255Z",
+  "model": "glm-5.3"
+}

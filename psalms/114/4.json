@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Góry tańczyły jak barany, pagórki jak synowie trzody",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Góry"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "tańczyły"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "jak barany"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pagórki"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "jak synowie"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "trzody"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:55.709739675Z",
+  "model": "glm-5.3"
+}

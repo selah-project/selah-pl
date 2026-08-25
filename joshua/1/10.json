@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rozkazał Jehoszua ⟨את⟩ zwierzchnikom ludu, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwierzchnikom ludu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "zwierzchnikom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:16:44.286388695Z",
+  "model": "glm-5.3"
+}

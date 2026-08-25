@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Drogę wyznaczysz, aby przyszedł miecz ⟨את⟩ Rabbat synów Ammona, i ⟨את⟩ Jehudę w Jeruszalaim warownym.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Drogę"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "wyznaczysz"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "aby przyszedł"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbat synów Ammona"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "warownym"
+    }
+  ],
+  "timestamp": "2026-08-25T03:38:01.872679886Z",
+  "model": "glm-5.3"
+}

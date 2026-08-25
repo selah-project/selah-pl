@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I się skłonił człowiek, i się uniżył mąż — a nie noś ⟨ich⟩!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "i się skłonił"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "i się uniżył"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "noś"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:30.474045411Z",
+  "model": "glm-5.3"
+}

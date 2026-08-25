@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Byłem młody, też się zestarzałem, i nie widziałem sprawiedliwego opuszczonego ani jego potomstwa szukającego chleba.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "młody"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "też"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "zestarzałem się"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "opuszczonego"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ani jego potomstwo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "szukającego"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:37.640123218Z",
+  "model": "glm-5.3"
+}

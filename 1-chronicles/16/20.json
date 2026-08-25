@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wędrowali od narodu do narodu i od królestwa do ludu innego.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "i wędrowali"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "od narodu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "i od królestwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "innego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:32.065094780Z",
+  "model": "glm-5.3"
+}

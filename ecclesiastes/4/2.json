@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wysławiłem ja ⟨את⟩ umarłych, którzy już umarli, ponad żyjących, którzy oni żyją dotąd.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "i wysławiłem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarłych"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "umarłych"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "już"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "umarli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żyjących"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żyją"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "dotąd"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:23.872485667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Stawają królowie ziemi i wodzowie naradzają się razem, przeciwko Jahwe i przeciwko Jego Masziachowi.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Stawają"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "i wodzowie"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "naradzają się"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i przeciwko"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Jego Masziachowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:58.073801325Z",
+  "model": "glm-5.3"
+}

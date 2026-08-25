@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ cały jego tłuszcz przystroi z niego: ⟨את⟩ tłusty ogon oraz ⟨את⟩ tłuszcz pokrywający ⟨את⟩ wnętrzności,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "jego tłuszcz"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "przystroi\/ofiaruje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tłusty ogon"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "tłusty ogon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tłuszcz"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "pokrywający"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wnętrzności"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wnętrzności"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:15.134951191Z",
+  "model": "glm-5.3"
+}

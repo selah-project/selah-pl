@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I poznał Joab, syn Cerui, że serce króla ⟨jest⟩ przy Awszalomie.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Cerui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awszalomie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:12.650375923Z",
+  "model": "glm-5.3"
+}

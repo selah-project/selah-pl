@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I sprowadzą przeciwko tobie zgromadzenie, i ukamienują ⟨את⟩ ciebie kamieniami, i posiekały cię ich mieczami.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "i sprowadzą"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przeciwko tobie"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ukamienują"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ciebie",
+      "marks": "ciebie kamieniami"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kamieniami"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "i posiekały"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ich mieczami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:13:24.282283976Z",
+  "model": "glm-5.3"
+}

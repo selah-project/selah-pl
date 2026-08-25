@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Niech będzie Twoja ręka na mężu Twojej prawicy, na synu człowieczym, którego umocniłeś ⟨sobie⟩.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Twoja ręka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Twojej prawicy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczym"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "umocniłeś"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sobie⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:39.706822864Z",
+  "model": "glm-5.3"
+}

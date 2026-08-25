@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A twój niewolnik i twoja niewolnica, którzy będą tobie ⟨należeć⟩, ⟨będą⟩ od ⟨את⟩ narodów, którzy dokoła was — z nich kupicie niewolnika i niewolnicę.",
+  "tokens": [
+    {
+      "surface": "וועבדך",
+      "gloss": "A twój niewolnik"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i twoja niewolnica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od narodów"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "dokoła was"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "kupicie"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "niewolnika"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i niewolnicę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:11.153378125Z",
+  "model": "glm-5.3"
+}

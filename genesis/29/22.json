@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I zebrał Laban ⟨את⟩ wszystkich mężów ⟨tego⟩ miejsca i zrobił ucztę.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich mężów miejsca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:18.847554739Z",
+  "model": "glm-5.3"
+}

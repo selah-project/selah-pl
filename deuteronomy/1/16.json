@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I nakazałem ⟨את⟩ waszym sędziom w tym czasie, mówiąc: Słuchajcie między waszymi braćmi i sądźcie sprawiedliwie — między mężem a między bratem jego, i między przybyszem jego.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "i nakazałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waszym sędziom"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "waszym sędziom"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym czasie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "waszymi braćmi"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "i sądźcie"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwie"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratem jego"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i między"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "przybyszem jego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:03.943379597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Który zabił ludy liczne, i zabił królów potężnych.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Który zabił"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczne"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "potężnych"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:24.444842317Z",
+  "model": "glm-5.3"
+}

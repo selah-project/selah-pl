@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Czy będziesz ich sądził, czy będziesz sądził, synu człowieczy? ⟨את⟩ obrzydliwości ich ojców spraw, by poznali.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "czy będziesz sądził"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "czy będziesz sądził"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obrzydliwości"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "obrzydliwości"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "spraw, by poznali"
+    }
+  ],
+  "timestamp": "2026-08-25T01:16:50.684907119Z",
+  "model": "glm-5.3"
+}

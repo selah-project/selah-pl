@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Bo swoim posłańcom rozkaże o tobie, aby cię strzegli na wszystkich twych drogach.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "swoim posłańcom (aniołom)"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "rozkaże"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o tobie"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "aby cię strzegli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na wszystkich"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "twych drogach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:22.478420914Z",
+  "model": "glm-5.3"
+}

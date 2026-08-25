@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I połączysz ⟨את⟩ pięć zasłon osobno, a ⟨את⟩ sześć zasłon osobno, i podwoisz ⟨את⟩ zasłonę szóstą naprzeciwko oblicza namiotu.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "i połączysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pięć zasłon"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "sześć zasłon"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osobno"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "i podwoisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę szóstą"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "szóstą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naprzeciwko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiotu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:48.867483447Z",
+  "model": "glm-5.3"
+}

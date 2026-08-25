@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Jahwe samotnie go prowadził, a nie ⟨było⟩ z nim boga obcego.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "samotnie"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "go prowadził"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boga"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "obcego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:08.546837995Z",
+  "model": "glm-5.3"
+}

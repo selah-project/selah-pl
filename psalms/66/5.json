@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Przyjdźcie i zobaczcie dzieła Elohima — groźny ⟨jest⟩ w czynie nad synami adam",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Przyjdźcie"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "i zobaczcie"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "dzieła"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "groźny"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "w czynie"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synami"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:25.811762526Z",
+  "model": "glm-5.3"
+}

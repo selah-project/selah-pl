@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "i wrzucili ⟨את⟩ bogów ich w ogień, bo nie ⟨są⟩ bogami oni, lecz dziełem rąk człowieka, drewno i kamień, i wytracili ich.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i wrzucili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów ich"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogów ich"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogień"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "leż"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dziełem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rąk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drewno"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamień"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "i wytracili ich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:15.195705962Z",
+  "model": "glm-5.3"
+}

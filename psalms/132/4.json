@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Jeśli dam sen oczom moim, powicom moim drzemkę —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "oczom moim"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "powicom moim"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "drzemkę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:18.943777096Z",
+  "model": "glm-5.3"
+}

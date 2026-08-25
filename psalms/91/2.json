@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Powiem do Jahwe: ⟨mój⟩ schronienie mój i moja twierdza, Elohim mój, w nim zaufam.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "powiem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "do Jahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "schronienie mój"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i moja twierdza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "zaufam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:33.447307278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Podnieś swoje kroki ku wiecznym pustkowiom; wszystko zepsuł nieprzyjaciel w świątyni.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Podnieś"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "swoje kroki"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ku pustkowiom"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "wiecznym"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zepsuł"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciel"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "w świątyni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.145817538Z",
+  "model": "glm-5.3"
+}

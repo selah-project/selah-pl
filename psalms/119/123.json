@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Oczy moje wyczerpały się ⟨od oczekiwania⟩ na zbawienie twoje i na słowo sprawiedliwości twojej.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oczy moje"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wyczerpały się"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "na zbawienie twoje"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "i na słowo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sprawiedliwości twojej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:29.985704055Z",
+  "model": "glm-5.3"
+}

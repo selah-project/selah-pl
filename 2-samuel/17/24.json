@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "A Dawid przyszedł do Machanajim, i Awszalom przeszedł przez ⟨את⟩ Jordan, on i cały mąż Izraela z nim.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "A Dawid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "do Machanajim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "i Awszalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przeszedł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "przez Jordan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:53.602898026Z",
+  "model": "glm-5.3"
+}

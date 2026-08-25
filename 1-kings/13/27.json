@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I przemówił do swoich synów, mówiąc: Zaprzęgnijcie mi ⟨את⟩ osiołka — i zaprzęgli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "zaprzęgnijcie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osiołka"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osiołka"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "i zaprzęgli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:54.007338248Z",
+  "model": "glm-5.3"
+}

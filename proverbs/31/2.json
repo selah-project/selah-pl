@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Cóż, synu mój? i cóż, synu mego łona? i cóż, synu moich ślubów?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cóż"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "synu mój"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i cóż"
+    },
+    {
+      "surface": "בר",
+      "gloss": "synu"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mego łona"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i cóż"
+    },
+    {
+      "surface": "בר",
+      "gloss": "synu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "moich ślubów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:40.033830455Z",
+  "model": "glm-5.3"
+}

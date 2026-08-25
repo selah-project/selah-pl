@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Błogosław, duszo moja, ⟨את⟩ Jahwe i nie zapominaj wszystkich dobrodziejstw Jego.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "błogosław"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "zapominaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "dobrodziejstw Jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:01.492500790Z",
+  "model": "glm-5.3"
+}

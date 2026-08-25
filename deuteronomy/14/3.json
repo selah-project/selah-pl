@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Nie będziesz jadł żadnej obrzydliwości.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "będziesz jadł"
+    },
+    {
+      "surface": "כל",
+      "gloss": "żadnej"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "obrzydliwości"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:03.104235685Z",
+  "model": "glm-5.3"
+}

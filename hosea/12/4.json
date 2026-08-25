@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "W łonie za piętę chwycił ⟨את⟩ swojego brata, a w swojej sile walczył ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "w łonie"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "za piętę chwycił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego brata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swojego brata"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "a w swojej sile"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "walczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:59.475564743Z",
+  "model": "glm-5.3"
+}

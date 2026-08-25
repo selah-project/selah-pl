@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I utył Jeszurun, i kopnął; utyłś, zbielaś od tłuszczu, okrągleś — i porzucił Eloaha, który go zrobił, i znieważył Skałę swego wyzwolenia.",
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "i utył"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Jeszurun"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "i kopnął"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "utyłś"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "zgrubiałeś\/zbieleś od tłuszczu"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "okrągleś\/otłuszczałeś"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "i porzucił"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloaha"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "który go zrobił"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "i znieważył"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Skałę"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "swego wyzwolenia"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:16.703017842Z",
+  "model": "glm-5.3"
+}

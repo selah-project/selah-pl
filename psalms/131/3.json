@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 131,
+  "translation": "Niech czeka Israel na Jahwe, od teraz i aż na wieczność.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "niech czeka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od teraz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieczność"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:05.950311895Z",
+  "model": "glm-5.3"
+}

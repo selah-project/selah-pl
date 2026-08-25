@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I zestarzał się Jehojada, i nasycił się dniami, i umarł — syn stu i trzydziestu lat w swojej śmierci.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "i zestarzał się"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i nasycił się"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dniami"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "stu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "w swojej śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:14.906024323Z",
+  "model": "glm-5.3"
+}

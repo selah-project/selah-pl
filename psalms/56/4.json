@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "W dniu, gdy się boję — ja, w Tobie pokładam ufność.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "gdy się boję"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "w Tobie"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "pokładam ufność"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:52.511017264Z",
+  "model": "glm-5.3"
+}

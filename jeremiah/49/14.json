@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Wieść usłyszałem od ⟨את⟩ Jahwe, a poselstwo wśród narodów jest posłane: zbierzcie się i przyjdźcie przeciwko niej, i powstańcie do wojny!",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "Wieść"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "a poselstwo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wśród narodów"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "jest posłane"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "zbierzcie się"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "i przyjdźcie"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "przeciwko niej"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "i powstańcie"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do wojny"
+    }
+  ],
+  "timestamp": "2026-08-25T01:04:42.314216223Z",
+  "model": "glm-5.3"
+}

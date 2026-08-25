@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I stało się, gdy przybyła arka przymierza Jahwe do obozu, że krzyknął cały Izrael okrzykiem wielkim, i zahuciała ziemia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "gdy przybyła"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "że krzyknął"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "okrzykiem"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "i zahuciała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:47.727917551Z",
+  "model": "glm-5.3"
+}

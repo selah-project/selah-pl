@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Zbiegają się, czają w ukryciu — oni — moje pięty pilnują, jak gdy wyczekiwali mego życia.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "zbiegają się"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "czają w ukryciu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "moje pięty"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "pilnują"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak gdy"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "wyczekiwali"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mego życia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:40.871445328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Lepsze małe z sprawiedliwością niż obfite plony bez prawa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepsze"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "małe"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "z sprawiedliwością"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "niż obfite"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "plony"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:11.244781038Z",
+  "model": "glm-5.3"
+}

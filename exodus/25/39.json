@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Talent złota czystego uczyni ⟨את⟩ niej, ⟨את⟩ wszystkich naczyń tych.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystego"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niej (menorę)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich naczyń tych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "naczyń"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:27.817101611Z",
+  "model": "glm-5.3"
+}

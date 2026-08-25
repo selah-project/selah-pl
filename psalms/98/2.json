@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Objawił Jahwe swoje zbawienie, przed oczami narodów odkrył swoją sprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "Objawił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "swoje zbawienie"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "przed oczami"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odkrył"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "swoją sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:47.532208331Z",
+  "model": "glm-5.3"
+}

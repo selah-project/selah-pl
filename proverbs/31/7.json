@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Niech pije i zapomni swoje ubóstwo, a swego cierpienia nie wspomni więcej.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "niech pije"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "i zapomni"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "swoje ubóstwo"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "swego cierpienia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "wspomni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "więcej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:54.852960187Z",
+  "model": "glm-5.3"
+}

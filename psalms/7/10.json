@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Niech się skończy, proszę, zło bezbożnych, a sprawiedliwy niech będzie utwierdzony; ⟨Ten, który⟩ bada serca i nerki — Elohim sprawiedliwy.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "niech się skończy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "a niech będzie utwierdzony"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "⟨Ten, który⟩ bada"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "serca"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "i nerki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:42.939559093Z",
+  "model": "glm-5.3"
+}

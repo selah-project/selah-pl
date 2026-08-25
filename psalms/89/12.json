@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Twoje ⟨są⟩ niebiosa, również Twoja ziemia; świat i jego pełnia — Ty je ugruntowałeś.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Twoje"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "również"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Twoja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i jego pełnia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ugruntowałeś je"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:32.317158688Z",
+  "model": "glm-5.3"
+}

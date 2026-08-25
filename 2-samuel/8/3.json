@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I pobił Dawid ⟨את⟩ Hadadezera, syna Rechoba, króla Coby, gdy on szedł, by przywrócić swoją rękę nad Rzeką.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezera"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechoba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coby"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "gdy szedł"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "by przywrócić"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "nad Rzeką"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:08.866493723Z",
+  "model": "glm-5.3"
+}

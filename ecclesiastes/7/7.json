@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Bo ucisk doprowadza mądrego do szaleństwa, a podarek niszczy ⟨את⟩ serce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "doprowadza do szaleństwa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrego"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "a niszczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "podarek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:52.523885486Z",
+  "model": "glm-5.3"
+}

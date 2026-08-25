@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I poszedłem do Perat, i wykopałem, i wziąłem ⟨את⟩ pas z miejsca, które ukryłem go tam; i oto zepsuty ⟨był⟩ pas, nie przyda się do niczego.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "i poszedłem"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "do Perat"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "i wykopałem"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "i wziąłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pas"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "ukryłem go"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i oto"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "zepsuty"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "przyda się"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "do niczego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:31.822457607Z",
+  "model": "glm-5.3"
+}

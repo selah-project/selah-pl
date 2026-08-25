@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Bo nie było zrobione jak Pesach ten od dni sędziów, którzy sądzili ⟨את⟩ Jisraela, i ⟨od⟩ wszystkich dni królów Jisraela i królów Jehudy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "było zrobione"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "jak Pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "od dni"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "sędziów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "sądzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkich"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "i królów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:50.911809752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A Szlomo miłował ⟨את⟩ Jahwe, aby chodzić w ustawach Dawida, swojego ojca; tylko na wyżynach on składał ofiary i kadził.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "i miłował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby chodzić"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "w ustawach"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na wyżynach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "składał ofiary"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "i kadził"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:14.212175978Z",
+  "model": "glm-5.3"
+}

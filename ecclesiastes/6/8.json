@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Bo cóż więcej ⟨ma⟩ mędrzec niż głupiec? Cóż ⟨ma⟩ ubogi, który wie, jak chodzić przed żyjącymi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "więcej"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "mędrzecowi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "niż"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "głupiec"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ubogiemu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "który wie"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "chodzić"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żyjącymi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:18.230170610Z",
+  "model": "glm-5.3"
+}

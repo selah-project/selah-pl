@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł: Idź i powiedz temu ludowi: Słuchajcie ciągle, a nie rozumiejcie, i patrzcie ciągle, a nie poznawajcie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiedz"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "temu ludowi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "temu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ciągle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "rozumiejcie"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "i patrzcie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ciągle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "poznawajcie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:28.716849090Z",
+  "model": "glm-5.3"
+}

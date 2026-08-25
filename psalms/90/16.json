@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Niech się okaże ku sługom twoim dzieło twoje, a blask twój nad synami ich.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Niech się okaże"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sługom twoim"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dzieło twoje"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "a blask twój"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "synam ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:41.840399084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I przystąpili książęta z ⟨את⟩ poświęceniem ołtarza w dniu namaszczenia jego ⟨את⟩; i przystąpili książęta ze swoim darem ⟨את⟩ przed obliczem ołtarza.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "i przystąpili"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poświęceniem ołtarza"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "poświęcenie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jego",
+      "marks": "ołtarz (namaszczany)"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "i przystąpili"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim darem"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "swoim darem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:14.574629198Z",
+  "model": "glm-5.3"
+}

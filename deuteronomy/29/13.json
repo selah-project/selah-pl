@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A nie ⟨את⟩ wami samymi ja zawieram ⟨את⟩ to przymierze i ⟨את⟩ tę przysięgę",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "sami"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawieram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to przymierze"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tę przysięgę"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "przysięgę"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:51.525535851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I mówiliście: «Nie jest wyważona droga Adonai» — każdego według jego dróg osądzę ⟨את⟩ was, domu Jisraela.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "I mówiliście"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "jest wyważona"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "droga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "według jego dróg"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "osądzę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was (domu Jisraela)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:22:42.434243164Z",
+  "model": "glm-5.3"
+}

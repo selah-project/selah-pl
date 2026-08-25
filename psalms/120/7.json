@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Ja — pokój; lecz gdy mówię, oni — na wojnę.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "ו",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mówię"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na wojnę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:40.256841390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Przez Ciebie naszymi wrogami będziemy bodać; w Twoim imieniu rozdepczemy naszych powstających.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Przez Ciebie"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "naszymi wrogami"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "będziemy bodać"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "w Twoim imieniu"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "rozdepczemy"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "naszych powstających"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:59.499454879Z",
+  "model": "glm-5.3"
+}

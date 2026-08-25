@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A gdy będzie w mężu grzech ⟨godny⟩ wyroku śmierci, i zostanie zabity, to powisisz ⟨את⟩ go na drzewie.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "w mężu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grzech"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wyroku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "i zostanie zabity"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "powisisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:18.177506085Z",
+  "model": "glm-5.3"
+}

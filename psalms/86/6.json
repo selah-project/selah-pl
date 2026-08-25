@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Nakłoń ucha, Jahwe, na moją modlitwę i wysłuchaj głosu moich błagań.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Nakłoń ucha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moją modlitwę"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "i wysłuchaj"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "moich błagań"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:24.862118184Z",
+  "model": "glm-5.3"
+}

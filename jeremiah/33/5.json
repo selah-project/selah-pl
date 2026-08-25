@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Przychodzą, by walczyć z Kasdim i napełnić ⟨את⟩ trupy ludzi, których poraziłem w gniewie moim i w zapalczywości mojej, i od których ukryłem oblicze moje przed miastem tym z powodu całej złości ich.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "przychodzą"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "by walczyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "z Kasdim"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "i napełnić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupy ludzi"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "trupy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "poraziłem"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "w gniewie moim"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "i w zapalczywości mojej"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i od których"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ukryłem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze moje"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "przed miastem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tym"
+    },
+    {
+      "surface": "על",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "złości ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:36:52.945674656Z",
+  "model": "glm-5.3"
+}

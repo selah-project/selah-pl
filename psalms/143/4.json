@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "I okryła mnie duch mój, wnętrze moje — osłupiało serce moje.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "i okryła"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duch mój"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "wnętrze moje"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "osłumpiało"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.013055549Z",
+  "model": "glm-5.3"
+}

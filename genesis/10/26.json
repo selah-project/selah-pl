@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Joktan zrodził ⟨את⟩ Almodada, i ⟨את⟩ Szelefa, i ⟨את⟩ Chacarmawet, i ⟨את⟩ Jeracha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "A Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szelefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Szelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chacarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chacarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jeracha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:47.235393527Z",
+  "model": "glm-5.3"
+}

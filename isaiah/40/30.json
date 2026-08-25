@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I mdleć będą młodzieńcy, i się zmęczą, a wybrańcy całkiem się potkną.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "i mdleć będą"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "młodzieńcy"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "i się zmęczą"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "a wybrańcy"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "całkiem"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "się potkną"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:49.698381757Z",
+  "model": "glm-5.3"
+}

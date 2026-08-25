@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "lecz tylko do miejsca, które wybierze Jahwe, twój Elohim, aby zamieszkało tam Jego imię — tam zabijesz ⟨את⟩ Pesach wieczorem, przy zachodzie słońca, w oznaczonym czasie twojego wyjścia z Micraim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "wybierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "aby zamieszkało"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jego imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "zabijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "przy zachodzie"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońca"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "w oznaczonym czasie"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "twojego wyjścia"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:51.632641928Z",
+  "model": "glm-5.3"
+}

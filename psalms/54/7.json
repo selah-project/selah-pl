@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Niech wróci zło na moich przeciwników; w Twojej wierności wytrać ich!",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "niech wróci"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "na moich przeciwników"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "w Twojej wierności"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "wytrać ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:37.972660796Z",
+  "model": "glm-5.3"
+}

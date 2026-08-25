@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Jego jest morze, i On je uczynił, a ląd wyschnięty uformowały Jego ręce.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Jego jest"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i On"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "je uczynił"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "a ląd wyschnięty"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Jego ręce"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "uformowały"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:56.779233220Z",
+  "model": "glm-5.3"
+}

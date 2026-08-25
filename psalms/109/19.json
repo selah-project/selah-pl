@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Niech mu ⟨to⟩ będzie jak szata, którą się okrywa, i jak pas, którym przepasany jest nieustannie.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jak szata"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "którą się okrywa"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "i jak pas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "którą przepasuje się"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:52.516702686Z",
+  "model": "glm-5.3"
+}

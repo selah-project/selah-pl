@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I wysłali posłańców do mieszkańców Kirjat-Jearim, aby powiedzieli: Filistyni odesłali ⟨את⟩ Aron Jahwe — zejdźcie, zabierzcie ⟨את⟩ go do siebie.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i wysłali"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłańców"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby powiedzieli"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "odesłali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "zejdźcie"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "zabierzcie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "⟨את⟩ + jego — znacznik aleph-tav z sufiksem wskazuje na Aron"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do siebie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:56.088780806Z",
+  "model": "glm-5.3"
+}

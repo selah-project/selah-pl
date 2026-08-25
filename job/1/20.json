@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I powstał Ijob, i rozdarł ⟨את⟩ swoją szatę, i ogolił ⟨את⟩ swoją głowę, i upadł na ziemię, i oddał pokłon.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją szatę"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "swoją szatę"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "i ogolił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją głowę"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "swoją głowę"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i upadł"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i oddał pokłon"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:03.418214912Z",
+  "model": "glm-5.3"
+}

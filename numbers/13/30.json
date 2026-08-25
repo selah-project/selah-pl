@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I uciszył Kalew ⟨את⟩ lud wobec Mosze, i rzekł: Wstępujmy, wstąpimy i zdobędziemy ⟨את⟩ ją, bo zdołamy ją.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "I uciszył"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Wstępujmy"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "wstąpimy"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "i zdobędziemy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "zdołamy"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "potrafimy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ją"
+    }
+  ],
+  "timestamp": "2026-08-25T03:21:02.030023597Z",
+  "model": "glm-5.3"
+}

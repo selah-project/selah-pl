@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Wydadzą z siebie, będą mówić zuchwałe słowa, wywyższają się wszyscy sprawcy nieprawości.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Wydadzą z siebie"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "będą mówić"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "zuchwałe słowa"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "wywyższają się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sprawcy"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:39.096362727Z",
+  "model": "glm-5.3"
+}

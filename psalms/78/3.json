@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "które usłyszeliśmy i poznaliśmy, i ojcowie nasi opowiedzieli nam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "usłyszeliśmy"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "i poznaliśmy"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "i ojcowie nasi"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "opowiedzieli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:54.769439760Z",
+  "model": "glm-5.3"
+}

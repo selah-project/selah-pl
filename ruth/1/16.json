@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Rut powiedziała: Nie naciskaj na mnie, żebym cię opuściła, żeby zawrócić od ciebie; bo dokąd ty pójdziesz, ja pójdę, i gdzie ty zamieszkasz, ja zamieszkam; twój lud — mój lud, i twój Elohim — mój Elohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "naciskaj"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "żebym cię opuściła"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "żeby zawrócić"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dokąd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pójdę"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "i gdzie"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "zamieszkasz"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "zamieszkam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "twój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "i twój Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mój Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:55.058247514Z",
+  "model": "glm-5.3"
+}

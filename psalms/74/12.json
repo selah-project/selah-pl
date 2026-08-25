@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "A Elohim — Król mój od dawien dawna, działający wybawienia pośród ziemi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "A Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Król mój"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "od dawien dawna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "działający"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "wybawienia"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:27.006404813Z",
+  "model": "glm-5.3"
+}

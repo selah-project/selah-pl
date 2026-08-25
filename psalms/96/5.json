@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Bo wszyscy bogowie ludów to elilim ⟨są⟩, a Jahwe uczynił niebiosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogowie"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "elilim (bożki-nicości)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:45.624410865Z",
+  "model": "glm-5.3"
+}

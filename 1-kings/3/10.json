@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I ⟨to⟩ było dobre to słowo w oczach Adonai, że Szelomo poprosił o ⟨את⟩ tę rzecz.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "było dobre"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "to słowo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "poprosił"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę rzecz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tę rzecz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:55.517178941Z",
+  "model": "glm-5.3"
+}

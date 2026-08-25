@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 2:27",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": " którzy mówią do drzewa: „Ojcze mój ⟨ty⟩”, a do kamienia: „Ty mnie zrodziłaś”; odwrócili ku mnie kark, a nie oblicze, a w czasie swojej niedoli powiedzą: „Powstań i nas wybaw!”",
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "którzy mówią"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "do drzewa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ojcze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "a do kamienia"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty",
+      "marks": "zaimek żeński „ty” podmiotem ילדתני"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "mnie zrodziłaś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "od"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "odwrócili"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kark"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "a w czasie"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "swojej niedoli"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "powiedzą"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "Powstań"
+    },
+    {
+      "surface": "והושיענו",
+      "gloss": "i nas wybaw"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:36.296291906Z",
+  "model": "glm-5.3"
+}

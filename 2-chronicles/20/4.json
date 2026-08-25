@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I zgromadził się Jehuda, by szukać ⟨u⟩ Jahwe; także ze wszystkich miast Jehudy przybyli, by szukać ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "I zgromadził się"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "by szukać"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "⟨u⟩ Jahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkich"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miast"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przybyli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "by szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:58.709435602Z",
+  "model": "glm-5.3"
+}

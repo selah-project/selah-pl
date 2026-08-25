@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Nie wydawaj mnie na łup wrogów moich, powstali bowiem przeciwko mnie świadkowie kłamstwa i dyszą gwałtem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "wydawaj mnie"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "na łup"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "wrogów moich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bowiem"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "powstali"
+    },
+    {
+      "surface": "בי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "świadkowie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "i dyszą"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gwałtem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:25.764186585Z",
+  "model": "glm-5.3"
+}

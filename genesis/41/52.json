@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "A ⟨את⟩ imię drugiego nazwał Efraim, bo uczynił mnie płodnym Elohim w ziemi mojego ucisku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazwał"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "uczynił mnie płodnym"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mojego ucisku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:27.983691319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Bezbożny, według wyniosłości swego oblicza, wcale nie pyta: ⟨nie ma⟩ Elohim — wszystkie jego zamysły.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Bezbożny"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "według wyniosłości"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "swego oblicza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wcale nie"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "pyta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "jego zamysły"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:41.549822374Z",
+  "model": "glm-5.3"
+}

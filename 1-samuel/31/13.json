@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I wzięli ⟨את⟩ ich kości, i pogrzebali pod tamaryszkiem w Jawisz, i pościli siedem dni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich kości"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ich kości"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pogrzebali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamaryszkiem"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "w Jawisz"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "i pościli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:29.101882065Z",
+  "model": "glm-5.3"
+}

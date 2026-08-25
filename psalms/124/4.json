@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Wtedy wody nas zatopiłyby, potok przelałby się nad naszą nefesz,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "nas zatopiłyby"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "potok"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przelałby się"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naszą nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:30.441733397Z",
+  "model": "glm-5.3"
+}

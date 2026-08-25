@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Odwrócił serce ich, by nienawidzić ludu Jego, by knować podstępnie przeciwko sługom Jego.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "odwrócił"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "serce ich"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "by nienawidzić"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ludu Jego"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "by knować podstępnie"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "przeciwko sługom Jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:33.097122366Z",
+  "model": "glm-5.3"
+}

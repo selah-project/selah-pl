@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I dałem Jicchakowi ⟨את⟩ Jaakowa i ⟨את⟩ Esawa, i dałem Esawowi ⟨את⟩ górę Seir, aby ⟨את⟩ ją posiąść; a Jaakow i jego syny zeszli do Micraim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "i dałem"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Esawa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "i dałem"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "górę Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aby posiąść"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ją"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakow"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jego syny"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zeszli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:39.968294953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "i zobacz, czy droga boleści ⟨jest⟩ we mnie, i prowadź mnie drogą wieczną.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i zobacz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "droga"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "boleści"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "i prowadź mnie"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczną"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.966086861Z",
+  "model": "glm-5.3"
+}

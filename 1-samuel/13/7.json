@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "A Iwrim przeszli ⟨את⟩ Jordan do ziemi Gad i Gilad; a Szaul był jeszcze w Gilgal, i cały lud drżał za nim.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "A Iwrim"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przeszli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "i Gilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Szaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "był jeszcze"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "w Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "drżał"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:10.780592796Z",
+  "model": "glm-5.3"
+}

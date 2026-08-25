@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I będę walczył ja sam z ⟨את⟩ wami ręką wyciągniętą i ramieniem mocnym, i w gniewie, i w zapalczywości, i w wielkiej srogości.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "i będę walczył"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "z wami"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wyciągniętą"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "i ramieniem"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mocnym"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "i w gniewie"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "i w zapalczywości"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "i w srogości"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkiej"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:29.478671697Z",
+  "model": "glm-5.3"
+}

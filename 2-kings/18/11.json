@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I uprowadził król Aszszura ⟨את⟩ Iszraela do Aszszura i osadził ich w Chalach i przy Chaborze, rzece Gozan, oraz w miastach Medii.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "i uprowadził"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iszraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "do Aszszura"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i osadził"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "w Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "i przy Chaborze"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rzece"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "oraz w miastach"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medii"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:26.987993393Z",
+  "model": "glm-5.3"
+}

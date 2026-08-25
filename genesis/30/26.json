@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Daj ⟨את⟩ moje żony i ⟨את⟩ moje dzieci, którym ci służyłem w ich ⟨sprawie⟩, a pójdę; bo ty znasz ⟨את⟩ moją służbę, którą ci odbędowałem.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje żony"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "moje żony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moje dzieci"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "moje dzieci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "służyłem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ci"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "w ich ⟨sprawie⟩"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a pójdę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją służbę"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "moją służbę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ci odbędowałem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:14.033418066Z",
+  "model": "glm-5.3"
+}

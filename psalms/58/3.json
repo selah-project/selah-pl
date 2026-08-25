@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Nawet w sercu nieprawości dopuszczacie się, na ziemi przemoc rąk waszych wyważacie.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "w sercu"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "dopuszczacie się"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "przemoc"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "rąk waszych"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "wyważacie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:53.538211750Z",
+  "model": "glm-5.3"
+}

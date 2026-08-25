@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Nawet wróbel znalazł ⟨sobie⟩ dom, i jaskółka gniazdo dla siebie, gdzie złożyła pisklęta swoje — ⟨את⟩ ołtarze Twoje, Jahwe Zastępów, Królu mój i Elohim mój!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nawet"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "wróbel"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "znalazł"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "i jaskółka"
+    },
+    {
+      "surface": "קן",
+      "gloss": "gniazdo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "złożyła"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "pisklęta swoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze Twoje"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "ołtarze Twoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Królu mój"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i Elohim mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:01.019951328Z",
+  "model": "glm-5.3"
+}

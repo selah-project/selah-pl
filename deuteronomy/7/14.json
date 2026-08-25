@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Błogosławiony będziesz spośród wszystkich ludów; nie będzie w tobie niepłodnego ani niepłodnej — ani wśród twojego bydła.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będziesz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "spośród wszystkich"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "niepłodnego"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ani niepłodnej"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ani wśród twojego bydła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:51.829565603Z",
+  "model": "glm-5.3"
+}

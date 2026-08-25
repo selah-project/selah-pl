@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Jeśli zdoła walczyć ze mną ⟨את⟩ i porazi mnie, będziemy wam za sługi; a jeśli ja zdołam ⟨przeciwko⟩ niemu i porazię go, będziecie nam za sługi i będziecie nam służyć ⟨את⟩ nas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "walczyć"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ze mną"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "i porazi mnie"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "będziemy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za sługi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zdołam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨przeciwko⟩ niemu"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "i porazię go"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "będziecie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za sługi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i będziecie służyć"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nas"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:57.828784169Z",
+  "model": "glm-5.3"
+}

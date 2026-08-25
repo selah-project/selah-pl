@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "I boją się mieszkańcy krańców przed Twoimi znakami; wyjścia poranka i wieczora sprawiasz, że śpiewają z radości.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "i boją się"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "krańców"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "przed Twoimi znakami"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "wyjścia"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranka"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "i wieczora"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "sprawiasz, że śpiewają z radości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:18.335713349Z",
+  "model": "glm-5.3"
+}

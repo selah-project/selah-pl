@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Przewodnikowi chóru. Psalma Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalma"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.266444233Z",
+  "model": "glm-5.3"
+}

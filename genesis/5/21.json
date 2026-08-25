@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Chanok pięćdziesiąt ⟨i⟩ sześć lat, i zrodził ⟨את⟩ Metuszelacha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "I żył"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięćdziesiąt ⟨i⟩ sześć"
+    },
+    {
+      "surface": "וששים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuszelacha"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuszelacha"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:08.742051726Z",
+  "model": "glm-5.3"
+}

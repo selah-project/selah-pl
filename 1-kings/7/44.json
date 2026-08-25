@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "i ⟨את⟩ morza jednego, i ⟨את⟩ wołów dwanaście pod morzem",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "morza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wołów"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wołów"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwanaście—dwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naście"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morzem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:59.462455635Z",
+  "model": "glm-5.3"
+}

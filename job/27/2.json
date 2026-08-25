@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Żywy ⟨jest⟩ El, który usunął mój wyrok, i Szaddaj, który zeszkodził moją nefesz.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "żywy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "usunął"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mój wyrok"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "i Szaddaj"
+    },
+    {
+      "surface": "המר",
+      "gloss": "zeszkodził"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:21:32.916042967Z",
+  "model": "glm-5.3"
+}

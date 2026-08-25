@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rozejrzał się tam i tu, i zobaczył, że nie ma męża, i uderzył ⟨את⟩ Micrajejczyka, i ukrył go w piasku.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "i rozejrzał się"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tам"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "i tu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajejczyka"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Micrajejczyka"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "i ukrył go"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "w piasku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:25.271885501Z",
+  "model": "glm-5.3"
+}

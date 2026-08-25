@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Grzech mój powiadomię Cię, a winy mojej nie zasłoniłem; rzekłem: wyznam o przewinieniach moich przed Jahwe — a Ty poniósłeś winę grzechu mego. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "grzech mój"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "powiadomię Cię"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "a winy mojej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "zasłoniłem"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rzekłem"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "wyznam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "przewinieniach moich"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "przed Jahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "poniosłeś"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grzechu mego"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:08.701904817Z",
+  "model": "glm-5.3"
+}

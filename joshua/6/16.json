@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I stało się za siódmym razem, gdy kapłani zatrąbili w szofary, że Jehoszua powiedział do ludu: Krzyczcie, bo Jahwe dał wam ⟨את⟩ miasto!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "za"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "siódmym razem"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "zatrąbili"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "w szofary"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Krzyczcie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:56.703442618Z",
+  "model": "glm-5.3"
+}

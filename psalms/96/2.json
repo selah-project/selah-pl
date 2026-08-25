@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Śpiewajcie Jahwe, błogosławcie Jego imię, oznajmujcie z dnia na dzień Jego zbawienie!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Śpiewajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "błogosławcie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jego imię"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "oznajmujcie"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "z dnia"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dzień"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "Jego zbawienie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:00.069226776Z",
+  "model": "glm-5.3"
+}

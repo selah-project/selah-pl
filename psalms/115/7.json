@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Ich ręce, a nie macają; ich stopy, a nie chodzą; nie mamrają swoim gardłem.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ich ręce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "macają"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ich stopy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "chodzą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mamrzą"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "swoim gardłem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:01.289195483Z",
+  "model": "glm-5.3"
+}

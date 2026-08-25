@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Podtrzymuje pokornych Jahwe, poniża bezbożnych aż do ziemi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Podtrzymuje"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokornych"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "poniża"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:44.964333737Z",
+  "model": "glm-5.3"
+}

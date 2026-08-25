@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "Badają nieprawości; «dopracowaliśmy» — mówią — podstęp dopracowany; i wnętrze człowieka, i serce ⟨jest⟩ głębokie.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "badają"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "dopracowaliśmy"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "podstęp"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "dopracowany"
+    },
+    {
+      "surface": "ו קרב",
+      "gloss": "i wnętrze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "ו לב",
+      "gloss": "i serce"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "głębokie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:18.740337379Z",
+  "model": "glm-5.3"
+}

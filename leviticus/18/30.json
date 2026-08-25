@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I będziecie strzec ⟨את⟩ mojej straży, aby nie czynić według obrzydliwych ustaw, które czyniono przed wami, i nie skalacie się nimi; Ja jestem Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "I będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojej straży"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mojej straży"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "czynić"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "według ustaw"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "obrzydliwych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "czyniono"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "skalacie się"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:45.353166269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I upadł Awram na swoje oblicze, i mówił ⟨את⟩ z nim Elohim, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "I upadł"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z nim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:57.070342966Z",
+  "model": "glm-5.3"
+}

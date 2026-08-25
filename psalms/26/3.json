@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Bo Twoja wierna miść jest przed moimi oczami i chodzę w Twojej wierności.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Twoja wierna miłość"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moimi oczami"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "i chodzę"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "w Twojej wierności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:51.394655025Z",
+  "model": "glm-5.3"
+}

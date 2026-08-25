@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Żałuję, że ⟨את⟩ Szaula uczyniłem królem, bo odwrócił się od ⟨pójścia⟩ za mną, i ⟨את⟩ moich słów nie wypełnił; i zapłonęło ⟨to⟩ Szmuela gniewem, i wołał do Jahwe całą noc.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "żałuję"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "uczyniłem królem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "odwrócił się"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od ⟨pójścia⟩ za mną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moich słów"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moich słów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "wypełnił"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonęło"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Szmuela"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "i wołał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:04.942292562Z",
+  "model": "glm-5.3"
+}

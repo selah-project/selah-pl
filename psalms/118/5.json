@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Z uciśnienia wołałem Jah, Jah odpowiedział mi na przestrzeni.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "uciśnienia"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedział mi"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "na przestrzeni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.478402900Z",
+  "model": "glm-5.3"
+}

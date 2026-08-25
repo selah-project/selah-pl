@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Oto w winie zostałem ukształtowany, a w grzechu poczęła mnie matka moja.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "w winie"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "zostałem ukształtowany"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "a w grzechu"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "poczęła mnie"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "matka moja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:43.014646684Z",
+  "model": "glm-5.3"
+}

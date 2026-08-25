@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wrogów moich dałeś mi ⟨tył karku⟩, a nienawidzących moich wytępię.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "i wrogów moich"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "⟨tył karku⟩"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "a nienawidzących moich"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "wytępię ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:17.302509693Z",
+  "model": "glm-5.3"
+}

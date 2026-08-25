@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wrócił Jehoszua oraz cały Izrael z nim do obozu, do Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oraz cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:39.545816180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I pozostał Jaakow sam, i zapaśnik z nim się zmagał ⟨איש⟩ — męż — aż do wstania świtu.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "i pozostał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "i zmagał się zapaśniczo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "wstania"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "świtu ⟨the⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:33.158692097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Cały dzień hańba moja przede mną, i wstyd mego oblicza okrył mnie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "hańba moja"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "przede mną"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "i wstyd"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mego oblicza"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "okrył mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:39.000823812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Dobry i prosty ⟨jest⟩ Jahwe; dlatego poucza grzeszników na drodze.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobry"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "i prosty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dla tego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "poucza"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grzeszników"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:27.742429406Z",
+  "model": "glm-5.3"
+}

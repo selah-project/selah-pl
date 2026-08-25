@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I powiedzieli: Zawołajmy dziewczynę i zapytajmy ⟨את⟩ jej ust.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "zawołajmy"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "dziewczynę"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "i zapytajmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej ust"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "jej ust"
+    }
+  ],
+  "timestamp": "2026-08-25T04:04:42.704169990Z",
+  "model": "glm-5.3"
+}

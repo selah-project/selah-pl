@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Elohimie, słysz ⟨את⟩ modlitwę moją, nadstaw ucha na słowa ust moich.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słysz"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "modlitwę moją"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nadstaw ucha"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "na słowa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust moich"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:14.958030526Z",
+  "model": "glm-5.3"
+}

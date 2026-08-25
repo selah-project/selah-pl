@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "I dali polecenie ⟨dla⟩ Josefa, aby powiedzieć: Ojciec twój nakazał przed śmiercią swoją, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "i dali polecenie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dla⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby powiedzieć"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojciec twój"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "śmiercią swoją"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:50.047097074Z",
+  "model": "glm-5.3"
+}

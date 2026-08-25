@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bądź mocny i mężny, bo ty wprowadzisz w dziedzictwo ⟨את⟩ lud ten ⟨את⟩ ziemię, którą przysiągłem ojcom ich, by dać im.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "bądź mocny"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "i mężny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "wprowadzisz w dziedzictwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud ten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "przysiągłem"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ojcom ich"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "by dać"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:54.347882084Z",
+  "model": "glm-5.3"
+}

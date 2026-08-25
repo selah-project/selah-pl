@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Kto mi ⟨jest⟩ w niebiosach? A wraz z Tobą — nie pragnąłem ⟨niczego⟩ na ziemi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w niebiosach"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a wraz z Tobą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "pragnąłem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:15.208254461Z",
+  "model": "glm-5.3"
+}

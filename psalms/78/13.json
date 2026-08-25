@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Rozdarł morze i przeprowadził ich, i sprawił, że wody stanęły jak wał.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Rozdarł"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "i przeprowadził ich"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "i sprawił, że stanęły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נד",
+      "gloss": "wał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:50.263162738Z",
+  "model": "glm-5.3"
+}

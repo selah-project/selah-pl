@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I rzekł: Ponieważ ⟨את⟩ siedem owiec weźmiesz z mojej ręki, aby ⟨to⟩ było mi na świadectwo, że wykopałem ⟨את⟩ tę studnię.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem owiec"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "owiec"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mojej ręki"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "aby"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "było"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "na świadectwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "wykopałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę studnię"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "tę studnię"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:29.776510678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Nie bój się, bo ⟨את⟩ z tobą jestem ja; ze wschodu przyprowadzę twoje potomstwo, a z zachodu cię zgromadzę.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą",
+      "marks": "z tobą"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ze wschodu"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "przyprowadzę"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "twoje potomstwo"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "a z zachodu"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "cię zgromadzę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:53.556483670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "oraz ⟨את⟩ Ewal, oraz ⟨את⟩ Abimael i ⟨את⟩ Szeba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Ewal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ewal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Abimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szeba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeba"
+    }
+  ],
+  "timestamp": "2026-08-25T02:49:59.896908830Z",
+  "model": "glm-5.3"
+}

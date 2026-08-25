@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Stały się mi łzy moje chlebem we dnie i w nocy, gdy mówią do mnie cały dzień: Gdzie jest twój Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Stała się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "łza moja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "we dnie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i w nocy"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "gdy mówią"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:14.880374135Z",
+  "model": "glm-5.3"
+}

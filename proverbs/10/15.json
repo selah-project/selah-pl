@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Majątek bogacza — warowne miasto jego, zagładą biednych — ich nędza.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Majątek"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogacza"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "warowna jego (siły jego)"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "zagłada"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "biednych"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "nędza ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:54.411378132Z",
+  "model": "glm-5.3"
+}

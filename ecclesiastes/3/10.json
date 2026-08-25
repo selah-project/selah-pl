@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Widziałem ⟨את⟩ zajęcie, które Elohim dał synom człowieka, aby się w nim trudzili.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajęcie"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "zajęcie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "aby się trudzili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:47.548895920Z",
+  "model": "glm-5.3"
+}

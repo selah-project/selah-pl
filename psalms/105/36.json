@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I poraził każdego pierworodnego w ich ziemi, początek całej ich siły.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "I poraził"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pierworodnego"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "w ich ziemi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "początek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ich siły"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.795580302Z",
+  "model": "glm-5.3"
+}

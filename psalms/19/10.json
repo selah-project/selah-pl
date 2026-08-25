@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Bojaźń Jahwe ⟨jest⟩ czysta, trwająca na zawsze; wyroki Jahwe ⟨są⟩ prawdą, sprawiedliwe wszystkie razem.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "bojaźń"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "czysta"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "trwająca"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "wyroki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdą"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sprawiedliwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wszystkie razem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:19.634393167Z",
+  "model": "glm-5.3"
+}

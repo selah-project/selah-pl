@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A ⟨the⟩ miasta, które Churam dał Szlomo — zbudował ⟨את⟩-je Szlomo i osiedlił tam ⟨את⟩ synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "A miasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-je",
+      "marks": "miasta"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "i osiedlił"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:55:09.086689743Z",
+  "model": "glm-5.3"
+}

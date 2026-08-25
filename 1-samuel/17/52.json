@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I powstali mężowie Iszraela i Jehudy, i krzyknęli, i ścigali ⟨את⟩ Peliszytów aż do wejścia w wąwóz i aż do bram Ekronu; i padali ranni Pelisztów na drodze Szajarim, aż do Gat i aż do Ekronu.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehudy"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "i krzyknęli"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i ścigali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peliszytów"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Peliszytów"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "wejścia w"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "wąwóz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "bram"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "i padali"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ranni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Szajarim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:18.486689375Z",
+  "model": "glm-5.3"
+}

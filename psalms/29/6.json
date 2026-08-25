@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I sprawia, że ⟨oni⟩ tańczą jak młody cielak — Lewanon i Sirjon jak młody reem.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "sprawia, że tańczą"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "młody cielak"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lewanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "i Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "młody"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "reem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:31.619824469Z",
+  "model": "glm-5.3"
+}

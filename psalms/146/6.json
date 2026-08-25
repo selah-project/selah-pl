@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Ten, który czyni niebiosa i ziemię, ⟨את⟩ morze i ⟨את⟩ wszystko, co w nich — Ten, który strzeże prawdy na wieki.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "czyni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨i את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Ten, który strzeże"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:46.701136068Z",
+  "model": "glm-5.3"
+}

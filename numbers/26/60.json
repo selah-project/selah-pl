@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I narodzili się Ahronowi ⟨את⟩ Nadaw i ⟨את⟩ Awihu, ⟨את⟩ Elazar i ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "i narodzili się"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahronowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadaw"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Awih"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Awihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:42.435384110Z",
+  "model": "glm-5.3"
+}

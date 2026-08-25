@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "W roku śmierci króla Ozjasza ujrzałem ⟨את⟩ Adonai, siedzącego na tronie wysokim i wyniesionym, a kraj jego szaty wypełniał ⟨את⟩ świątynię.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "W roku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ozjasza"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ujrzałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siedzącego"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronie"
+    },
+    {
+      "surface": "רם",
+      "gloss": "wysokim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "i wyniesionym"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "a kraj jego szaty"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "wypełniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świątynię"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "świątynię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:57.975984897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Wysyła swoje słowo i ich leczy, i wyrywa ich z ich zgub.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wysyła"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "swoje słowo"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "i ich leczy"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i wyrywa"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "ich zgub"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:59.647818583Z",
+  "model": "glm-5.3"
+}

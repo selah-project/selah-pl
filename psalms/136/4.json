@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Temu, który sam jeden czyni cuda wielkie, bo na wieki ⟨trwa⟩ jego chesed (wierna miłość przymierza).",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Temu, który... czyni"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "cuda"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam jeden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:07.404198685Z",
+  "model": "glm-5.3"
+}

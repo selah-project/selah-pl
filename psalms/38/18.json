@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Bo ja ⟨jestem⟩ gotowy do potknięcia, a mój ból ⟨jest⟩ nieustannie przede mną.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "do-potknięcia"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gotowy"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "a-mój-ból"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "przede-mną"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:43.374972547Z",
+  "model": "glm-5.3"
+}

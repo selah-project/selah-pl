@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i jego zastęp oraz jego policzeni — dziewięć i pięćdziesiąt tysięcy i trzysta stu",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego zastęp"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "oraz jego policzeni"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "dziewięć"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i trzysta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:24.564969841Z",
+  "model": "glm-5.3"
+}

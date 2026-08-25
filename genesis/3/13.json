@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jahwe Elohim do niewiasty: Co to uczyniłaś? A niewiasta rzekła: Wąż mnie zwodził — i zjadłam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "do niewiasty"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłaś"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A rzekła"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "niewiasta"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Wąż"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "mnie zwodził"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i zjadłam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:47.734250285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Roztropny widzi zło i się ukrywa, a naiwni przechodzą i zostają ukarani.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "roztropny"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "i się ukrywa"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "a naiwni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przechodzą"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "i zostają ukarani"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:00.615168255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł król Micrajim do położnych Hebrejek, z których imię jednej Szifra, a imię drugiej Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "do położnych"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Hebrejek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z których"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jednej"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Szifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugiej"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:35.141321369Z",
+  "model": "glm-5.3"
+}

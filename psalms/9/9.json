@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "On będzie sądził ⟨את⟩ świat w sprawiedliwości, będzie sądził ludy w prawości.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "będzie sądził"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "w sprawiedliwości"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "będzie sądził"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "w prawości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:01.310939503Z",
+  "model": "glm-5.3"
+}

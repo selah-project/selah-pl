@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I zróbcie aron z drewna szittim: dwa łokcie i pół jego długość, łokieć i pół jego szerokość, łokieć i pół jego wysokość.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i zróbcie"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron (skrzynia)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim (akacji)"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dwa łokcie"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jego długość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jego szerokość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jego wysokość"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:52.653313512Z",
+  "model": "glm-5.3"
+}

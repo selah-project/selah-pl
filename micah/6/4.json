@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Bo wywiodłem cię z ziemi Micrajim i z domu niewolników wykupiłem cię, i posłałem przed tobą ⟨את⟩ Moszego, ⟨את⟩ Ahrona i ⟨את⟩ Mirjam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "wywiodłem cię"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "i z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "niewolników"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "wykupiłem cię"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "i posłałem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszego"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "i Mirjam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:05.336509033Z",
+  "model": "glm-5.3"
+}

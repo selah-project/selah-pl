@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Gdy zbiednieje twój brat i sprzeda ⟨z części⟩ swojej posiadłości, i przyjdzie jego wykupiciel, krewny mu bliski, i wykupi ⟨את⟩ to, co sprzedał jego brat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "zbiednieje"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twój brat"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "i sprzeda"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "swojej posiadłości"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przyjdzie"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "jego wykupiciel"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "krewny bliski"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "i wykupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co sprzedał jego brat"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "sprzedane"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brata"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:45.243627990Z",
+  "model": "glm-5.3"
+}

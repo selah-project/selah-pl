@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Przewodnikowi chóru, przy instrumentach strunowych; psalm Asafa; pieśń.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "przy instrumentach strunowych"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:17.912893992Z",
+  "model": "glm-5.3"
+}

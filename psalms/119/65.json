@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Dobrze uczyniłeś z sługą twoim, Jahwe, według słowa twojego.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobrze"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługą twoim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "według słowa twego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:57.683665836Z",
+  "model": "glm-5.3"
+}

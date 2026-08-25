@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I poszła woda dokoła ołtarza, a także ⟨את⟩ rów napełnił wodą.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "I poszła"
+    },
+    {
+      "surface": "המים",
+      "gloss": "woda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rów"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "rów"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napełnił"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:41.790789110Z",
+  "model": "glm-5.3"
+}

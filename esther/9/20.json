@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I napisał Mordechaj ⟨את⟩ słowa te, i posłał listy do wszystkich Jehudim, którzy we wszystkich prowincjach króla Achaszwerosza, bliskich i dalekich.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napisał"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "listy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkich"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "prowincjach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaszwerosza"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "bliskich"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "i dalekich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:39.834282368Z",
+  "model": "glm-5.3"
+}

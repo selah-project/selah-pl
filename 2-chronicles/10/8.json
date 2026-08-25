@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I porzucił ⟨את⟩ radę starców, którzy mu doradzali, i radził się ⟨את⟩ młodzieńców, którzy wzrastali ⟨את⟩ nim, stojących przed nim.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "I porzucił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "radę"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "radę"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starców"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "mu doradzali"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "i radził się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "młodzieńców"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wzrastali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stojących"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:06.914341236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Dlatego opuści mężczyzna ⟨את⟩ ojca swego i ⟨את⟩ matkę swoją, i przylgnie do żony swojej, i staną się jednym ciałem.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "opuści"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca swego"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "matkę swoją"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matkę swoją"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "i przylgnie"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "do żony swojej"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i staną się"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "jednym ciałem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:07.383034760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Daje zwierzęciu jego pokarm, pisklętom kruka, które wołają.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "zwierzęciu"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "jego pokarm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pisklętom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kruka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "wołają"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:07.875472172Z",
+  "model": "glm-5.3"
+}

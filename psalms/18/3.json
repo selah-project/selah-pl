@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Jahwe — skała moja i twierdza moja, i mój wyzwoliciel; El mój, opoka moja, w Nim się schronię, tarcza moja i róg mojego zbawienia, warownia moja.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "skała moja"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i twierdza moja"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i wyzwoliciel mój"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "opoka moja"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "schowam się"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w Nim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tarcza moja"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "i róg"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mojego zbawienia"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "warownia moja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:57.200428080Z",
+  "model": "glm-5.3"
+}

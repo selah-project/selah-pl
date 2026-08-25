@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 100,
+  "translation": "Wchodźcie w bramy Jego z dziękczynieniem, w dziedzińce Jego z chwałą; dziękujcie Mu, błogosławcie imię Jego!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Wchodźcie"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "w bramy Jego"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "z dziękczynieniem"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "w dziedzińce Jego"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "z chwałą"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "dziękujcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "błogosławcie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię Jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:03.674834292Z",
+  "model": "glm-5.3"
+}

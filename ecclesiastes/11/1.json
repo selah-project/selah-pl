@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Wyślij swój chleb na oblicze wód, bo w mnóstwie dni go znajdziesz.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wyślij"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "swój chleb"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "w mnóstwie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "go znajdziesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:30.126867774Z",
+  "model": "glm-5.3"
+}

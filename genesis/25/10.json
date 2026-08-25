@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "pole, które kupił Awraham od ⟨את⟩ synów Cheta; tam pogrzebano Awrahama i Sarę, żonę jego.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kupił"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "synów Cheta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pogrzebano"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "i Sarę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "żonę jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:00.862660144Z",
+  "model": "glm-5.3"
+}

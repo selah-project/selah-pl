@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przyniesie go kapłan do ołtarza, i ukręci ⟨את⟩ jego głowę, i spali na ołtarzu, a jego krew zostanie wyciśnięta na ścianę ołtarza.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "i przyniesie go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "i ukręci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego głowę"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na ołtarzu"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "zostanie wyciśnięta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ścianę"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:05.725223432Z",
+  "model": "glm-5.3"
+}

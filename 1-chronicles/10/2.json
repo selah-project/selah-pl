@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przylgnęli Filistyni za Szaulem i za synami jego, i porazili Filistyni ⟨את⟩ Jonatana i ⟨את⟩ Awinadaba i ⟨את⟩ Malki-Szua, synów Szaula.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "I przylgnęli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaulem"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "i za"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synami jego"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i porazili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Awinadaba"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Szua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Szua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:25.274183240Z",
+  "model": "glm-5.3"
+}

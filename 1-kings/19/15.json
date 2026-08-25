@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I powiedział Jahwe do niego: Idź, zawróć swoją drogą, na pustynię Damaszku, i przyjdziesz, i namaścisz ⟨את⟩ Chazaela na króla nad Aramem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zawróć"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "swoją drogą"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "na pustynię"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaszku"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "i przyjdziesz"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazaela"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na króla"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.698733779Z",
+  "model": "glm-5.3"
+}

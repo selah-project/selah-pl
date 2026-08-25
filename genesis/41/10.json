@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Paroh rozgniewał się na swoich sługi i wydał ⟨את⟩ mnie do strażnicy domu sara rzeźników, ⟨את⟩ mnie i ⟨את⟩ sara piekarzy.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "rozgniewał się"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sługi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i wydał"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "do strażnicy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sara (nadziercy)"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "rzeźników"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sara piekarzy"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sara"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "piekarzy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:53.112097425Z",
+  "model": "glm-5.3"
+}

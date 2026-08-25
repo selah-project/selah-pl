@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I położył sługa ⟨את⟩ swoją rękę pod udo Abrama, swojego pana, i przysiągł mu na tę sprawę — Awrahama, pana swego, i przysiągł mu o tej sprawie.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sługa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידו",
+      "gloss": " swoją rękę"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "udo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pana swego"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i przysiągł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tę sprawę"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:22.946321295Z",
+  "model": "glm-5.3"
+}

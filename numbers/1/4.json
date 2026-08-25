@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ wami będzie po mężu, po mężu dla pokolenia, mężowie będący głowami domu swoich ojców.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "i ⟨את⟩ wami",
+      "marks": "wami"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "po mężu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "po mężu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "dla pokolenia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowami"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoich ojców"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:05.272700536Z",
+  "model": "glm-5.3"
+}

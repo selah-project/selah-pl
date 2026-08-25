@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Wysławiajcie Adonai ⟨Władcę⟩ władców, bo na wieki ⟨trwa⟩ jego chesed (wierna miłość przymierza).",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai ⟨Władcę⟩"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "władców"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:07.404082718Z",
+  "model": "glm-5.3"
+}

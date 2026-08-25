@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Nie według grzechów naszych uczynił nam, i nie według win naszych odwzajemnił na nam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "według grzechów naszych"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "według win naszych"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "odwzajemnił"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.869680154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I ujrzał ⟨את⟩ Amaleka, i wziął swój maszál, i rzekł: pierwociną narodów Amalek, a jego końcem zagłada na zawsze.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "swój maszál"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pierwociną"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "a jego końcem"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zagłada"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:54.358791298Z",
+  "model": "glm-5.3"
+}

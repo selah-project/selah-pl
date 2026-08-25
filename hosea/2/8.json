@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Dlatego oto Ja zagrodzę ⟨את⟩ twoją drogę cierniem, i zbuduję ⟨את⟩ jej mur, a jej ścieżek nie znajdzie.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "שך",
+      "gloss": "zagrodzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoją drogę"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "twoją drogę"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "cierniem"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "i zbuduję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej mur"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "jej mur"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "a jej ścieżki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "znajdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:08.542845924Z",
+  "model": "glm-5.3"
+}

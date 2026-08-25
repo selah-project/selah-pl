@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Podali bezbożni sidła na mnie, a od twoich przykazań nie zbłądziłem.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "podali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sidła"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "a od twoich przykazań"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "zbłądziłem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:21.005773560Z",
+  "model": "glm-5.3"
+}

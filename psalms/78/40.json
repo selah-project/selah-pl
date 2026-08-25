@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Jak często buntowali się przeciw niemu na pustyni, zasmucali go na pustkowie!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "jak często"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "buntowali się przeciw niemu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "zasmucali go"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "na pustkowie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.891252381Z",
+  "model": "glm-5.3"
+}

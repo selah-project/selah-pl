@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Kłamstwo mówią każdy ⟨את⟩ bliźnim swymi; wargą pochlebstwa, sercem i sercem mówią.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Kłamstwo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bliźnim swymi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bliźnim swymi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "wargą"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "pochlebstwa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sercem"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "i sercem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mówią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:18.470604294Z",
+  "model": "glm-5.3"
+}

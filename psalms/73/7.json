@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Wychodzi z tłuszczu ich oko, przebrnęły wyobrażenia serca.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "wychodzi"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "z tłuszczu"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ich oko"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przebrnęły"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "wyobrażenia"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:04.788927001Z",
+  "model": "glm-5.3"
+}

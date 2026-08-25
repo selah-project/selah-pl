@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Kto mruga okiem, sprawia ból, a głupiec warg — upadnie.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "mruga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "okiem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sprawia"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ból"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "a głupiec"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "warg"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "upadnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:44.054977754Z",
+  "model": "glm-5.3"
+}

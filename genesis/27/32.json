@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I powiedział mu Jicchak, jego ojciec: Kim ty ⟨jesteś⟩? A on powiedział: Ja ⟨jestem⟩ twój syn, twój pierworodny, Esaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojciec"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twój syn"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "twój pierworodny"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:55.423737450Z",
+  "model": "glm-5.3"
+}

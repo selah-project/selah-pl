@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Niewiasta dzielna ⟨jest⟩ koroną męża swego, a jak zgnilizna w jego kościach — ta, która zawstydza.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "niewiasta"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzielna"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "koroną"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "męża swego"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "a jak zgnilizna"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "w jego kościach"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ta, która zawstydza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:46.157810478Z",
+  "model": "glm-5.3"
+}

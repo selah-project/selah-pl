@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Moje świętości wzgardziłaś, a ⟨את⟩ moje szabaty sprofanowałaś.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "moje świętości"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wzgardziłaś"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje szabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "moje szabaty"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "sprofanowałaś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:16:12.988944818Z",
+  "model": "glm-5.3"
+}

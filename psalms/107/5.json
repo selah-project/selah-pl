@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Głodni, a nawet spragnieni, ich nefesz w nich omdlewa.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "głodni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "a nawet"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "spragnieni"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich nefesz"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "omdlewa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:01.277284876Z",
+  "model": "glm-5.3"
+}

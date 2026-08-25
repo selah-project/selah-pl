@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I powiedział do niego Jehuda, mówiąc: Człowiek uroczyście zaświadczył przeciwko nam, mówiąc: Nie ujrzycie mojego oblicza, jeśli wasz brat nie będzie ⟨את⟩ wami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "העד",
+      "gloss": "uroczyście zaświadczył"
+    },
+    {
+      "surface": "העד",
+      "gloss": "zaświadczył"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "przeciwko nam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ujrzycie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jeśli nie"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wasz brat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami",
+      "marks": "wy — bracia Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:52.498026483Z",
+  "model": "glm-5.3"
+}

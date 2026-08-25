@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Nie ⟨את⟩ ⟨z⟩ naszymi ojcami zawarł Jahwe ⟨את⟩ to przymierze, lecz ⟨את⟩ z nami — my, ci oto, tutaj, dzisiaj, wszyscy my żywi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨z⟩",
+      "marks": "naszymi ojcami"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naszymi ojcami"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to przymierze"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ z nami"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci oto"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wszyscy my"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:05.060515370Z",
+  "model": "glm-5.3"
+}

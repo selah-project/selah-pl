@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Przysięgłam wam, córki Jeruszalaim: czemu budzić i czemu przebudzać ⟨את⟩ miłość, aż ⟨ona⟩ zapragnie?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "przysięgłam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "wam, córki Jeruszalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "budzić"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i czemu"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "przebudzać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miłość"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "miłość"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "zapragnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:32.662803148Z",
+  "model": "glm-5.3"
+}

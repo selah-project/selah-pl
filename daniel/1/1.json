@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "W trzecim roku panowania Jehojakima, króla Jehudy, przyszedł Nebukadnesar, król Babel, do Jeruszalaim i oblegał ją.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "W roku"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "trzecim"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "panowania"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "i oblegał"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:51.346507667Z",
+  "model": "glm-5.3"
+}

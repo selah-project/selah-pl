@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I powiedziałem do anioła, który mówił we mnie: dokąd one prowadzą ⟨את⟩ efę?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i powiedziałem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anioła"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "który mówił"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dokąd"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "prowadzą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efę"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efę"
+    }
+  ],
+  "timestamp": "2026-08-25T04:19:24.857238925Z",
+  "model": "glm-5.3"
+}

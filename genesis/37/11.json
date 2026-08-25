@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zawistnicy byli mu jego bracia, a jego ojciec strzegł ⟨את⟩ słowa.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "i zawistnicy byli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego bracia"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "a jego ojciec"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzegł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:30.475131588Z",
+  "model": "glm-5.3"
+}

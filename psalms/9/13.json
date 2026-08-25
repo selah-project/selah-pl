@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo dochodzi krwi — pamięta ⟨ich⟩; nie zapomniał krzyku ubogich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "dochodzi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamięta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "zapomniał"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "krzyku"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ubogich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:16.006506245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Syn mądry raduje ojca, a głupi człowiek gardzi matką swoją.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Syn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a głupi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "gardzi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matką swoją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:45.314493580Z",
+  "model": "glm-5.3"
+}

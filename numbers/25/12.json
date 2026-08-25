@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Dlatego powiedz: Oto Ja daję mu ⟨את⟩ moje przymierze pokoju.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daję"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze pokoju"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:15.810302327Z",
+  "model": "glm-5.3"
+}

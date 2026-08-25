@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I umieścisz tam ⟨את⟩ Arkę Świadectwa, i zasłonisz Arę ⟨את⟩ zasłoną.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i umieścisz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkę Świadectwa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkę"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Świadectwa"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "i zasłonisz"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłoną"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "zasłoną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:01.610943157Z",
+  "model": "glm-5.3"
+}

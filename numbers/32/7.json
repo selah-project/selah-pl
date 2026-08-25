@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I dlaczego zniechęcacie ⟨את⟩ serce synów Iszraela, by nie przechodzili do ziemi, którą Jahwe dał im?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i dlaczego"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "zniechęcacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce synów Iszraela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "by nie przechodzili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:11.901070434Z",
+  "model": "glm-5.3"
+}

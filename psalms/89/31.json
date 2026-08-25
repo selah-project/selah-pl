@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Jeśli synowie jego porzucą moją Torę i w moich prawach nie będą chodzić.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "porzucą"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synowie jego"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "moją Torę"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "i w moich prawach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "będą chodzić"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:33.444185012Z",
+  "model": "glm-5.3"
+}

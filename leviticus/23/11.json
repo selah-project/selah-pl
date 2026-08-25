@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wykieruje ⟨את⟩ ⟨ה⟩omer przed obliczem Jahwe, ku przyjęciu waszego ⟨od was⟩; dnia następnego po szabacie wykieruje go kapłan.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "i wykieruje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ku przyjęciu waszego"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dnia następnego"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "po szabacie"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "wykieruje go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:19.353604153Z",
+  "model": "glm-5.3"
+}

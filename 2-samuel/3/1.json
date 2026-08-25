@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I ⟨była⟩ wojna długa między domem Szaula a między domem Dawida; a Dawid szedł i wzmacniał się, a dom Szaula szedł i słabł.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "I ⟨była⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "wojna"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "długa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "szedł"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "i wzmacniał się"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "a dom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "szedł"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "i słabł"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:02.599245891Z",
+  "model": "glm-5.3"
+}

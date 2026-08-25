@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "Mizmor Asafowi. Elohim, narody przyszły w Twoje dziedzictwo, skalały ⟨את⟩ przybytek Twojej świętości, uczyniły ⟨את⟩ Jeruszalaim stertami gruzów.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafowi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszły"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "w Twoje dziedzictwo"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "skalały"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek Twojej świętości"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Twojej świętości"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uczyniły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "stertami gruzów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:48.607805134Z",
+  "model": "glm-5.3"
+}

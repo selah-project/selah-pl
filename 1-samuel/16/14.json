@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A ruach Jahwe odstąpiła od Szaula, i trwożyła go ruach zła od ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "a ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "odstąpiła"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "i trwożyła go"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zła"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:32.493555928Z",
+  "model": "glm-5.3"
+}

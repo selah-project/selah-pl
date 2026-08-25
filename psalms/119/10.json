@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Całym swoim sercem szukałem ciebie; nie pozwól mi zbłądzić od twoich przykazań.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "swoim sercem"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "szukałem ciebie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "pozwól mi zbłądzić"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "od twoich przykazań"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.258256526Z",
+  "model": "glm-5.3"
+}

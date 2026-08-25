@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Przez moich braci i moich towarzyszy przemówię teraz: pokój w tobie.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Przez"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "moich braci"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "i moich towarzyszy"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "przemówię"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:06.431088203Z",
+  "model": "glm-5.3"
+}

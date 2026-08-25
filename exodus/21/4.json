@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Jeśli jego pan da mu żonę, a ona urodzi mu synów albo córki, to żona i jej dzieci będą należeć do jej pana, a on wyjdzie sam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jego pan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "żonę"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "a urodzi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "żona"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "i jej dzieci"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie należeć"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "do jej pana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:41.938943294Z",
+  "model": "glm-5.3"
+}

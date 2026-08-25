@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Czy brakuje mi szaleńców, że przyprowadziliście ⟨את⟩ tego, by szaleł przy mnie? Czyż ten wejdzie do mojego domu?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "czy brakuje"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "szaleńców"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "przyprowadziliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "by szaleł"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przy mnie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "czyż ten"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mojego domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:05.686594933Z",
+  "model": "glm-5.3"
+}

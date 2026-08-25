@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Nie da, by się zachwiała twoja noga, nie zdrzemnie się ten, kto cię strzeże.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "by się zachwiała"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "twoja noga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zdrzemnie się"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ten, kto cię strzeże"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:13.704092830Z",
+  "model": "glm-5.3"
+}

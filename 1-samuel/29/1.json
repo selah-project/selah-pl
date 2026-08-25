@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I zgromadzili Pelisztim ⟨את⟩ wszystkie swoje obozy do Afek, a Jisrael rozbil obóz przy źródle, które jest w Jizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "I zgromadzili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie swoje obozy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "swoje obozy"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "rozbil obóz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "przy źródle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "w Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:55.366718530Z",
+  "model": "glm-5.3"
+}

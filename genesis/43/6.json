@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I rzekł Jisrael: Czemu zgotowaliście mi zło, oznajmiając owemu człowiekowi, że macie jeszcze brata?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "zgotowaliście zło"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "oznajmiając"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "owemu człowiekowi"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "czy jeszcze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "macie"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:27.609037873Z",
+  "model": "glm-5.3"
+}

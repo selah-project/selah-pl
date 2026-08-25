@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Proś mnie, a dam ci narody w dziedzictwo i krańce ziemi w posiadanie.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Proś"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a dam"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "w dziedzictwo twoje"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "i w posiadanie twoje"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krańce"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:49.888189720Z",
+  "model": "glm-5.3"
+}

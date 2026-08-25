@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I napełnił ⟨את⟩ niego duchem Elohim — w mądrości, w roztropności i w poznaniu, i we wszelkiej pracy.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "i napełnił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "w mądrości"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "w roztropności"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "i w poznaniu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i we wszelkiej"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pracy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:57.695386822Z",
+  "model": "glm-5.3"
+}

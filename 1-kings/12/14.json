@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I przemówił do nich według rady młodzieńców, mówiąc: Ojciec mój uczynił ciężkim ⟨את⟩ jarzmo wasze, a ja dodam do jarzma waszego; ojciec mój karze ⟨את⟩ was biczami, a ja karze ⟨את⟩ was skorpionami.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "według rady"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "uczynił ciężkim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarzmo wasze"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jarzmo wasze"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "dodam"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jarzma waszego"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "karze"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was (obiekt karcenia biczami)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biczami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "karze"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was (obiekt karcenia skorpionami)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpionami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:20.842219371Z",
+  "model": "glm-5.3"
+}

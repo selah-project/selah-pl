@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wielki pokój mają ci, którzy miłują twoją Torę, i nie ma dla nich potknięcia.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ci, którzy miłują"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "twoją Torę"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dla nich"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "potknięcia"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:16.747167267Z",
+  "model": "glm-5.3"
+}

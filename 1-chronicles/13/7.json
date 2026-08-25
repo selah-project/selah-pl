@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I wieźli ⟨את⟩ aron Elohim na nowym wozie z domu Awinadaba, a Uzza i jego brat poprowadzili wóz.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "i wieźli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "wozie"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nowym"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadaba"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "a Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i jego brat"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "poprowadzili"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "wóz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:45.089779554Z",
+  "model": "glm-5.3"
+}

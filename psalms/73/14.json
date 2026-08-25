@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "I byłem smagany cały dzień, i moje karcenie — co rano.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "i byłem"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "smagany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "i moje karcenie"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "co rano"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:08.745711591Z",
+  "model": "glm-5.3"
+}

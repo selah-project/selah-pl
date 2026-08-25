@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Ty, budzący trwogę, Ty — a kto się ostoi przed Twoim obliczem odkąd gniew Twój?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "budzący trwogę"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "się ostoi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed Twoim obliczem"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "odkąd"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gniew Twój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:32.432244467Z",
+  "model": "glm-5.3"
+}

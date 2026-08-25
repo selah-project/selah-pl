@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Wszystko, w którego nozdrzach ⟨było⟩ tchnienie ducha życia, ze wszystkiego, co ⟨jest⟩ na suchym lądzie — umarło.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "tchnienie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życia"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "w nozdrzach jego"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "na suchym lądzie"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "umarło"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:56.898913276Z",
+  "model": "glm-5.3"
+}

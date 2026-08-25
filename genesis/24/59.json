@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wyprawili ⟨את⟩ Riwkę, siostrę swoją, i ⟨את⟩ piastunkę jej, i ⟨את⟩ sługę Awrahama, i ⟨את⟩ ludzi jego.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i wyprawili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riwkę"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riwkę"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "siostrę swoją"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "piastunkę jej"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "piastunkę jej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sługę"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługę"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ludzi jego"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ludzi jego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:18.082383605Z",
+  "model": "glm-5.3"
+}

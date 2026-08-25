@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Jeżeliby rozbił się obóz przeciw mnie — nie ulęknie się moje serce; jeżeliby powstała przeciw mnie wojna — w tym ja pokładam ufność.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeżeliby"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "rozbił się obóz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ulęknie się"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeżeliby"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "powstała"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojna"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "w tym"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "pokładam ufność"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:57.944945699Z",
+  "model": "glm-5.3"
+}

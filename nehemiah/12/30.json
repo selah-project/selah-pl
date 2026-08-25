@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "i oczyszczyli się kapłani i lewici, i oczyszczyli ⟨את⟩ lud, i ⟨את⟩ bramy, i ⟨את⟩ mur.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "i oczyszczyli się"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i lewici"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "i oczyszczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bramy"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mur"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mur"
+    }
+  ],
+  "timestamp": "2026-08-25T02:49:26.263526452Z",
+  "model": "glm-5.3"
+}

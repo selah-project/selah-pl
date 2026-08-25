@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I powiedział: Idź, wypożycz sobie naczynia z zewnątrz, od ⟨את⟩ wszystkich swoich sąsiadów — naczynia puste — nie pomniejszaj (ich liczby)!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idź"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "wypożycz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "zewnątrz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich swoich sąsiadów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "swoich sąsiadów"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "puste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "pomniejszaj"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:17.442764484Z",
+  "model": "glm-5.3"
+}

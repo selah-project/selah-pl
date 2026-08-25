@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I zdarzył się dzień, gdy jego synowie i jego córki jedli i pili wino w domu ich brata, ⟨tego⟩ pierworodnego.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i zdarzył się"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jego synowie"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "i jego córki"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i pili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ich brata"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨tego⟩ pierworodnego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:28.618812709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I radowało się cały lud ziemi, a miasto ⟨było⟩ spokojne; a ⟨את⟩ Atalję zabili mieczem.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "I radowało się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a miasto"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "⟨było⟩ spokojne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalję"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalję"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:07.513100415Z",
+  "model": "glm-5.3"
+}

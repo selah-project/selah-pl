@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "A ty wstań, idź do swego domu; gdy twoje stopy wejdą do miasta, umrze dziecko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idź"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "do swego domu"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "gdy wejdą"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "twoje stopy"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "do miasta"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "umrze"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:59.421898666Z",
+  "model": "glm-5.3"
+}

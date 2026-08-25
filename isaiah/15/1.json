@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Brzemię Moabu: bo w nocy spustoszone zostało Ar Moabu, zginęło; bo w nocy spustoszone zostało Kir Moabu, zginęło.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Brzemię"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "spustoszone zostało"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "zginęło"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "spustoszone zostało"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "zginęło"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:49.815985314Z",
+  "model": "glm-5.3"
+}

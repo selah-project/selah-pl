@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I będziecie strzec, aby czynić ⟨את⟩ wszystkie ustawy i ⟨את⟩ prawa, które ja daję przed waszym obliczem dzisiaj.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i będziecie strzec"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby czynić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie ustawy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustawy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prawa"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "prawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daję"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed waszym obliczem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:43.353951394Z",
+  "model": "glm-5.3"
+}

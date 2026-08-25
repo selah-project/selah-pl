@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Bo na Ciebie, Jahwe, czekałem; Ty odpowiesz, Adonai, Elohim mój",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "czekałem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpowiesz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:39.268781642Z",
+  "model": "glm-5.3"
+}

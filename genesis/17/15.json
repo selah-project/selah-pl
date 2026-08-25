@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Elohim do Awrahama: Saraj, twoja żona — nie będziesz nazywać ⟨את⟩ jej imienia Saraj, bo Sara ⟨jest⟩ jej imię.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "twoja żona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "będziesz nazywać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej imienia"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jej imienia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jej imię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:35.141330643Z",
+  "model": "glm-5.3"
+}

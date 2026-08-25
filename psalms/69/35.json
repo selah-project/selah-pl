@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Niech chwalą go niebiosa i ziemia, morza i wszystko, co się w nich rusza.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "niech chwalą go"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemia"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "co się rusza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "w nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:46.513650985Z",
+  "model": "glm-5.3"
+}

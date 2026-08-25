@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Oko, które go widziało, ⟨już go⟩ nie ujrzy, ani miejsce jego już go nie obejrzy.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "widziało go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "doda ⟨ujrzy go⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "obejrzy go"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "miejsce jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:20:06.383254197Z",
+  "model": "glm-5.3"
+}

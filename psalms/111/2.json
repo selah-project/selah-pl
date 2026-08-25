@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 111,
+  "translation": "Wielkie są dzieła Jahwe, badane przez wszystkich, którzy ich pragną.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Wielkie"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dzieła"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "badane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "przez wszystkich"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "którzy ich pragną"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:46.250877844Z",
+  "model": "glm-5.3"
+}

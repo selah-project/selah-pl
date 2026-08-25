@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Niech znikną grzesznicy z ziemi, a bezbożni — niech ich już nie będzie. Błogosław, duszo moja, ⟨את⟩ Jahwe! Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "niech znikną"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grzesznicy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "a bezbożni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "niech ich nie będzie"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "błogosław"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "wychwalajcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:17.472300271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł Gedeon: Przetoż — gdy wyda Jahwe ⟨את⟩ Zewacha i ⟨את⟩ Calmunnę w moją rękę — rozdepczę ciało wasze cierniami pustyni i ⟨את⟩ ostrzami cierni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gedeon"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "przetoż"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "gdy wyda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zewacha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zewacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Calmunnę"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Calmunnę"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "w moją rękę"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "rozdepczę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciało wasze"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "ciało wasze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cierniami"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "cierniami"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ostrzami cierni"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "ostrzami cierni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:27.007963430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Wtedy skoczy jak jeleń kulawy, i zaśpiewa język niemych, bo wytrysnęły ⟨w⟩ pustyni wody, i strumienie na stepie.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "skoczy"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "jak jeleń"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "kulawy"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "i zaśpiewa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "język"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "niemych"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "wytrysnęły"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨w⟩ pustyni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "i strumienie"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "na stepie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:57.698185792Z",
+  "model": "glm-5.3"
+}

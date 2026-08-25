@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Czy zapomni dziewica swojej biżuterii, panna młoda swoich ozdób? A mój lud zapomniał mnie — dni bez liczby.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Czy zapomni"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "dziewica"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "swojej biżuterii"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "panna młoda"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "swoich ozdób"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "a mój lud"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "zapomniał mnie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "liczby"
+    }
+  ],
+  "timestamp": "2026-08-25T00:41:05.338227278Z",
+  "model": "glm-5.3"
+}

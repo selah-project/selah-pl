@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I podniósł Bilam ⟨את⟩ swoje oczy, i ujrzał ⟨את⟩ Jisraela, mieszkającego według swoich pokoleń, i był na nim duch Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje oczy"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "swoje oczy"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mieszkającego"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "według swoich pokoleń"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:52.773532741Z",
+  "model": "glm-5.3"
+}

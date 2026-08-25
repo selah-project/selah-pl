@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Ty rozdarłeś ⟨את⟩ źródło i ⟨את⟩ potok, Ty wysuszyłeś rzeki nieustające.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "rozdarłeś"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "źródło"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "i potok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "wysuszyłeś"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nieustające"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.203411245Z",
+  "model": "glm-5.3"
+}

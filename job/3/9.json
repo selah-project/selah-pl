@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Niech zgasną gwiazdy zmierzchu jego, niech czeka na światło, a go ⟨nie ma⟩; i niech nie ujrzy powiek świtu.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "niech zgasną"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "gwiazdy"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "zmierzchu jego"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "niech czeka"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "na światło"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a go nie ma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i niech nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ujrzy"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "powiek"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "świtu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:49.218421617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Wykupił w pokoju moją nefesz ⟨spośród bitwy, która ⟨była⟩ przy mnie⟩, bo liczni byli przy mnie.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Wykupił"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "spośród bitwy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "przy mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "liczni"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "przy mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:08.631102870Z",
+  "model": "glm-5.3"
+}

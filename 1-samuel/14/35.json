@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I zbudował Szaul ołtarz dla Jahwe; ⟨את⟩ temu ⟨był on⟩ początkiem budowania ołtarza dla Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temu",
+      "marks": "początkiem — החל wskazuje na ten ołtarz"
+    },
+    {
+      "surface": "החל",
+      "gloss": "początkiem"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "budowania"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:26:48.583924387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Elohim mój, wybaw mnie z ręki bezbożnego, z dłoni krzywdzącego i gwałtownika.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "wybaw mnie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z dłoni"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "krzywdzącego"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "i gwałtownika"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:33.517750657Z",
+  "model": "glm-5.3"
+}

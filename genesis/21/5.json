@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A Awraham miał sto lat, gdy narodził mu się ⟨את⟩ Jicchak, syn jego.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "A Awraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "stu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "gdy narodził się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchak, syn jego"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:15.306384462Z",
+  "model": "glm-5.3"
+}

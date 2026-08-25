@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Dawid do młodzieńca, który mu doniósł: Skąd wiesz, że umarł Szaul i Jehonatan, syn jego?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodzieńca"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "który doniósł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wiesz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umarł"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "i Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:38.818804813Z",
+  "model": "glm-5.3"
+}

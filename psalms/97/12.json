@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Weselcie się, sprawiedliwi, w Jahwe, i dziękujcie ⟨przy⟩ wspomnieniu jego świętości!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Weselcie się"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "i dziękujcie"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨przy⟩ wspomnieniu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jego świętości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:21.791993286Z",
+  "model": "glm-5.3"
+}

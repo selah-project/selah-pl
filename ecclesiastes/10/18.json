@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Przez lenistwo zapada się dach, a przez opieszałość rąk przecieka dom.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "przez lenistwo"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "zapada się"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "dach"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "a przez opieszałość"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rąk"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "przecieka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:06.408440959Z",
+  "model": "glm-5.3"
+}

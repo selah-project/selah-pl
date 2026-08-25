@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Czy w ogóle wybawili bogowie narodów, każdy ⟨את⟩ swoją ziemię z ręki króla Aszszura?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "czy w ogóle (wybawiać)"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wybawili"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogowie"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ziemię"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "swoją ziemię"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:03.834832470Z",
+  "model": "glm-5.3"
+}

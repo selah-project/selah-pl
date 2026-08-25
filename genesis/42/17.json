@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I zebrał ich do straży trzy dni.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "straży"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:42.844419569Z",
+  "model": "glm-5.3"
+}

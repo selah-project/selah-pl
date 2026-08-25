@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Ja, Nebukadnesar, byłem w spokoju w moim domu i rozkwitający w moim pałacu.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "w spokoju"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "w moim domu"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "i rozkwitający"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "w moim pałacu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:37:37.619544356Z",
+  "model": "glm-5.3"
+}

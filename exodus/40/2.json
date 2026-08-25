@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "W pierwszym miesiącu, pierwszego dnia miesiąca postawisz ⟨את⟩ przybytek namiotu spotkania.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "pierwszego miesiąca"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pierwszego"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "w pierwszym dniu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "postawisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek namiotu spotkania"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:01.610805018Z",
+  "model": "glm-5.3"
+}

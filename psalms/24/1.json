@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Dawidowi. Pieśń. Jahwe ⟨jest Panem⟩ ziemi i jej pełni, ⟨jest Panem⟩ świata i mieszkańców jego.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "i jej pełni"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świata"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "i mieszkańców"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.557662688Z",
+  "model": "glm-5.3"
+}

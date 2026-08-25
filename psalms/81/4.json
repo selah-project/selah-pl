@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Zatrąbcie w miesiącu szofar, w pełni ku dniu naszego święta.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Zatrąbcie"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "w miesiącu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "szofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "w pełni"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku dniu"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "naszego święta"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:29.674442417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "A głód ⟨był⟩ ciężki w ziemi.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "a głód"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:52.497579178Z",
+  "model": "glm-5.3"
+}

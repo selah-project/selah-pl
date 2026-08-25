@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Połknij, Adonai, rozdziel język ich, bo widziałem przemoc i spór w mieście.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "połknij"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "rozdziel"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "język ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "przemoc"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "i spór"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:46.915860781Z",
+  "model": "glm-5.3"
+}

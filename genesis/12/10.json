@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I stało się: głód w ⟨tej⟩ ziemi, i zszedł Awram do Micrajim, aby tam przebywać, bo ciężki był głód w ⟨tej⟩ ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "głód"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i zszedł"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Micrajim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "aby przebywać"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężki"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "głód"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:13.936609794Z",
+  "model": "glm-5.3"
+}

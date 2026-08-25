@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Przewodnikowi, według Jedutuna, psalm Dawidowi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "על",
+      "gloss": "według"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutuna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:19.792927910Z",
+  "model": "glm-5.3"
+}

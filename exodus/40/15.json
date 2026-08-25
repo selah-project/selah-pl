@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I namaścisz ich, jak namaściłeś ⟨את⟩ ich ojca, i będą Mi kapłanami, i będzie ich namaszczenie im ku kapłaństwu wiecznemu dla ich pokoleń.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "namaściłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich ojca"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ich ojca"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "i będą kapłanami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ku byciu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ich namaszczenie"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "ku kapłaństwu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiecznemu"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dla ich pokoleń"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:49.787304137Z",
+  "model": "glm-5.3"
+}

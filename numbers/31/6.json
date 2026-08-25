@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I posłał ich Mosze, tysiąc na pokolenie, na wojnę — ⟨אתם⟩ i ⟨את⟩ Pinchas, syna Elazara kapłana, na wojnę — oraz naczynia ⟨the⟩ świętości i trąby signalowe w jego ręce.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąc"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "na wojnę"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ich (Pinchasa i wojsko)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Pinchasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "na wojnę"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "oraz naczynia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "i trąby"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "signalowe (krzyku bojowego)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w jego ręce"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:37.500359461Z",
+  "model": "glm-5.3"
+}

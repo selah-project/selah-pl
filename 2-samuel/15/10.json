@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I posłał Awszalom zwiadowców do wszystkich pokoleń Iszraela, aby powiedzieć: Gdy usłyszycie ⟨את⟩ głos trąby, powiecie: Króluje Awszalom w Chebronie.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awszalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "zwiadowców"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "do wszystkich"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby powiedzieć"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "gdy usłyszycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "trąby"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "powiecie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króluje"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awszalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "w Chebronie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:10.434762152Z",
+  "model": "glm-5.3"
+}

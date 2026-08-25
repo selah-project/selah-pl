@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Bo nachylił się z wysokości swej świątyni, Jahwe z niebios na ziemię spojrzał.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nachylił się"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z wysokości"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "swej świątyni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z niebios"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "spojrzał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.177880063Z",
+  "model": "glm-5.3"
+}

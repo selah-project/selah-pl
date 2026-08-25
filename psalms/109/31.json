@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Bo Jahwe stoi po prawicy ubogiego, aby go ratować od tych, którzy ⟨wydają wyrok na⟩ jego nefesz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "po prawicy"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aby ratować"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "od tych, którzy wydają wyrok"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "na jego nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:44.126652895Z",
+  "model": "glm-5.3"
+}

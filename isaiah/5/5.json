@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A teraz powiadam ⟨את⟩ wam, proszę, ⟨את⟩ to, co ja czynię mojej winnicy: usunę jej ogrodzenie, i ⟨będzie⟩ do spalenia; zburzę jej mur, i ⟨będzie⟩ do deptania.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "powiadam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam",
+      "marks": "wam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co ja czynię mojej winnicy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czynię"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "mojej winnicy"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "usunę"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "jej ogrodzenie"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i ⟨będzie⟩"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "do spalenia"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "zburzę"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "jej mur"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i ⟨będzie⟩"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "do deptania"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:41.289003554Z",
+  "model": "glm-5.3"
+}

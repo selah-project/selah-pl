@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Twoim jest dzień, także Twoim jest noc; Ty ustanowiłeś ⟨את⟩ światłość i ⟨את⟩ słońce.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Twoim jest"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Twoim jest"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ustanowiłeś"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "światłość"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "i słońce"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.203578873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I wysłał król Jehojakim mężów do Micraim: ⟨את⟩ Elnatana, syna Akbora, i mężów z ⟨את⟩ nim, do Micraim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatana, syna Akbora"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbora"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i mężów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "z ⟨את⟩ nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:51:36.610524928Z",
+  "model": "glm-5.3"
+}

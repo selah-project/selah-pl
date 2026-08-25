@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "A gdy się potykałem, radowali się i zbierali się; zebrali się przeciw mnie obelżywi, a nie wiedziałem — rozdarli i nie milknęli.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "gdy się potykałem"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "radowali się"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "i zbierali się"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "zebrali się"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "obelżywi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiedziałem"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "rozdarli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "milknęli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:34.625173689Z",
+  "model": "glm-5.3"
+}

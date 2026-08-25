@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Jak długo, Elohim, będzie lżył przeciwnik? Czy szydzić będzie wróg z Twego imienia na zawsze?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jak"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "długio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "będzie lżył"
+    },
+    {
+      "surface": "צר",
+      "gloss": "przeciwnik"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "szydzić będzie"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wróg"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "z Twego imienia"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:27.006090859Z",
+  "model": "glm-5.3"
+}

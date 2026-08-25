@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I powiedziała Ester do Hatacha, i przykazała mu ⟨wobec⟩ Mordechaja —",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "do Hatacha"
+    },
+    {
+      "surface": "ויתצוהו",
+      "gloss": "i przykazała mu",
+      "surface_alt": "ותצוהו"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "i przykazała mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨wobec⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:37.964914450Z",
+  "model": "glm-5.3"
+}

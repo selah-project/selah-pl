@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Jahwe, mój Elohim, wołałem do Ciebie i uleczyłeś mnie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mój Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "i uleczyłeś mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:29.371495468Z",
+  "model": "glm-5.3"
+}

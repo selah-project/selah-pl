@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przyniesiesz ⟨את⟩ ten dar, który będzie zrobiony z tych rzeczy, dla Jahwe; i przystąpi go do kapłana, a on przystąpi go do ołtarza.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "i przyniesiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ten dar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "będzie zrobiony"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "z tych rzeczy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "i przystąpi go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "a on przystąpi go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:49.834973829Z",
+  "model": "glm-5.3"
+}

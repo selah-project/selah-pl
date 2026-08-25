@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Bo pamiętał ⟨את⟩ swoje święte słowo, ⟨את⟩ Awrahama, swojego sługę.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamiętał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje święte słowo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "swoje święte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "swojego sługę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.686128800Z",
+  "model": "glm-5.3"
+}

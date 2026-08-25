@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Gdy ich zabijał, wtedy szukali Go, i wracali, i wcześnie szukali Ela.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "zabijał ich"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "i szukali Go"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i wracali"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "i wcześnie szukali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:02.502638871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I byłem nienaganny wobec Niego, i strzegłem się przed moją winą.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "i byłem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nienaganny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wobec Niego"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "i strzegłem się"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "przed moją winą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:10.652197360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I uczynił Betzalel ⟨את⟩ Arkę z drewna akacjowego: dwa i pół łokcia jej długość, łokieć i pół jej szerokość i łokieć i pół jej wysokość.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨the⟩ Arka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dwa łokcie"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jej długość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jej szerokość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jej wysokość"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:04.812184021Z",
+  "model": "glm-5.3"
+}

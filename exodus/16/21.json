@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I zbierali ⟨את⟩ niego rano rano, każdy według ust swojego jedzenia, i gdy zorzało słońce, rozpłynęło się.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "i zbierali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "według ust"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "swojego jedzenia"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "i gdy zorzało"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "rozpłynęło się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:35.610434860Z",
+  "model": "glm-5.3"
+}

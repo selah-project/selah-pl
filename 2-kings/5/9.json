@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przybył Naaman swymi końmi i swoim rydwanem, i stanął u wejścia do domu Eliszui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przybył"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "swymi końmi"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "i swoim rydwanem"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "Eliszui"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:33.345928727Z",
+  "model": "glm-5.3"
+}

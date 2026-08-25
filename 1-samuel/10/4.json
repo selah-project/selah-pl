@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I zapytają cię o pokój, i dadzą ci dwa chleby, a ty weźmiesz z ich ręki.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "i zapytają"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cię"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "o pokój"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i dadzą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleby"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a ty weźmiesz"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z ich ręki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:34.584303772Z",
+  "model": "glm-5.3"
+}

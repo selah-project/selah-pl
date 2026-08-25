@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Także Twoje świadectwa są moją rozkoszą, mężami mojej rady.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Także"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Twoje świadectwa"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "moją rozkoszą"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężami"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mojej rady"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:43.874060448Z",
+  "model": "glm-5.3"
+}

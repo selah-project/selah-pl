@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Nasza nefesz jak ptak uszła z sideł łowców — sidło się zerwało, a my uszliśmy.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nasza nefesz"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "jak ptak"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "uszła"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "z sideł"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "łowców"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "sidło"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "się zerwało"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "uszliśmy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:20.441188244Z",
+  "model": "glm-5.3"
+}

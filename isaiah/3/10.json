@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Powiedzcie ⟨o⟩ sprawiedliwym, że ⟨mu będzie⟩ dobrze, bo owoc swych czynów jeść będą.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "powiedzcie"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "swych czynów"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jeść będą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:30.045499547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Schnie trawa, więdnie kwiat, bo wiatr Jahwe na nim powiał — zaprawdę trawa ⟨jest⟩ lud ⟨ten⟩.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "schnie"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kwiat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "powiał"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:20.073422974Z",
+  "model": "glm-5.3"
+}

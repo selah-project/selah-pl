@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I ⟨את⟩ wyłomy miasta Dawida widzieliście, bo się rozmnożyły, i zebraliście ⟨את⟩ wody dolnej sadzawki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wyłomy"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "wyłomy"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "widzieliście"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "rozmnożyły się"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "i zebraliście"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wody"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wody"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "sadzawki"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "dolnej"
+    }
+  ],
+  "timestamp": "2026-08-25T04:15:10.537792229Z",
+  "model": "glm-5.3"
+}

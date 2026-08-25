@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Temu, który prowadził swój lud przez pustynię, bo na wieki trwa jego chesed (wierna miłość).",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Temu, który prowadził"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "przez pustynię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.796671328Z",
+  "model": "glm-5.3"
+}

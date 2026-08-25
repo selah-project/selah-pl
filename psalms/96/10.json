@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Mówcie wśród narodów: Jahwe króluje! Świat również stoi niewzruszenie, nie zachwieje się; będzie sądził ludy w prostocie.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mówcie"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wśród narodów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króluje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "również"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zachwieje się"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "będzie sądził"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "w prostocie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:36.273023413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Uczynił ciemność ⟨jako⟩ swoją skrytość, wokół niego ⟨jest⟩ jego szałas — ciemność wód, gęste chmury mgliste.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Uczynił"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "⟨jako⟩ swoją skrytość"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "wokół niego"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "jego szałas"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "gęste chmury"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mgliste"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:13.326823628Z",
+  "model": "glm-5.3"
+}

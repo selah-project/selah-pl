@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Milcz przed Jahwe i czekaj na Niego; nie zapalaj się gniewem przez tego, komu powodzi się na jego drodze, przez człowieka, który czyni podstępy.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Milcz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "przed Jahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "i czekaj (przeczekuj)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na Niego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "zapalaj się gniewem"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "przez tego, komu powodzi się"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "na jego drodze"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "przez człowieka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "który czyni"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "podstępy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:57.728366829Z",
+  "model": "glm-5.3"
+}

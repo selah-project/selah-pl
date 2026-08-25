@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Biada, narodzie grzeszny, ludu obciążony winą, nasienie złoczyńców, synowie szkodnicy! Opuścili ⟨את⟩ Jahwe, wzgardzili ⟨את⟩ Świętym Israela, odwrócili się wstecz.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodzie"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grzeszny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "obciążony"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winą"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nasienie"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "szkodnicy"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Opuścili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wzgardzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Świętym Israela"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Świętym"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "odwrócili się"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wstecz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:19.110456080Z",
+  "model": "glm-5.3"
+}

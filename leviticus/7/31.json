@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I kadzi kapłan ⟨את⟩ łój na ołtarzu, i ⟨będzie⟩ pierś dla Ahrona i dla jego synów.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "I kadzi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "łój"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "łój"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na ołtarzu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i ⟨będzie⟩"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "pierś"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dla Ahrona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "i dla jego synów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:53.865551783Z",
+  "model": "glm-5.3"
+}

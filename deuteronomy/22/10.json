@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Nie będziesz orał wołem i osłem razem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "będziesz orał"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "wołem"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "i osłem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:19.119618835Z",
+  "model": "glm-5.3"
+}

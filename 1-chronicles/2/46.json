@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Nałożnica Kaleba, Efa, urodziła ⟨את⟩ Charana i ⟨את⟩ Moca oraz ⟨את⟩ Gazesa, a Charan spłodził ⟨את⟩ Gazesa.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Efa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "nałożnica"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Charana"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Moca"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Gazesa"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazesa"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "a Charan"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazesa"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazesa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:32.108920422Z",
+  "model": "glm-5.3"
+}

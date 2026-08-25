@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I ⟨את⟩ wieżę Penuel zburzył, i zabił ⟨את⟩ mężów miasta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wieżę Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "wieżę"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "zburzył"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów miasta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:11.904800455Z",
+  "model": "glm-5.3"
+}

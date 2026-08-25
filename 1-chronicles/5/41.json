@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A Jehocadak poszedł na wygnanie, gdy Jahwe uprowadził ⟨את⟩ Jehudę i Jeruszalaim ręką Nebukadnecara.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "A Jehocadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "poszedł"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "na wygnanie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jeruszalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnecara"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:12.299986861Z",
+  "model": "glm-5.3"
+}

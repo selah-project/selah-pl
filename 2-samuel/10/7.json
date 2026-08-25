@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I usłyszał Dawid, i posłał ⟨את⟩ Joaba oraz ⟨את⟩ całe wojsko — bohaterów.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "całe wojsko bohaterów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wojsko"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "bohaterów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:39.129234685Z",
+  "model": "glm-5.3"
+}

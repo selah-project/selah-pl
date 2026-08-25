@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I Sara poczęła, i urodziła Awrahamowi syna w jego starości, w wyznaczonym czasie, o którym mówił ⟨את⟩ niego Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awrahamowi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "w jego starości"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "w wyznaczonym czasie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o którym"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:25.106867118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Głos Twego gromu ⟨był⟩ w wirze, rozświetliły błyskawice świat, zadrżała i zatrzęsła się ziemia.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "Twego gromu"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "w wirze"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "rozświetliły"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "błyskawice"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "zadrżała"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "i zatrzęsła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:31.570131469Z",
+  "model": "glm-5.3"
+}

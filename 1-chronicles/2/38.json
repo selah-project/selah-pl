@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Owed zrodził ⟨את⟩ Jehu, a Jehu zrodził ⟨את⟩ Azarjasza.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "a Owed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "a Jehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjasza"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjasz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:17.708831106Z",
+  "model": "glm-5.3"
+}

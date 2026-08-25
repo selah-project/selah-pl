@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Ty ⟨jesteś⟩ moim królem, Elohim; rozkazuj wyzwolenia Jaakowowi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jesteś⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "moim królem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazuj"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "wyzwolenia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowowi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:59.499092049Z",
+  "model": "glm-5.3"
+}

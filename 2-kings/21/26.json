@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I pogrzebano go ⟨את⟩ w jego grobowcu w ogrodzie Uzza, a Joaszijasz, syn jego, został królem zamiast niego.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "i pogrzebano go"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "w jego grobowcu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "w ogrodzie"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i został królem"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joaszijasz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jego"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "zamiast niego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:14.474716287Z",
+  "model": "glm-5.3"
+}

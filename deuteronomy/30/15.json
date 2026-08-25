@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Patrz, położyłem przed tobą dzisiaj ⟨את⟩ życie i ⟨את⟩ dobro, oraz ⟨את⟩ śmierć i ⟨את⟩ zło.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "patrz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "położyłem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "życie"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "życie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "dobro"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "śmierć"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierć"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "zło"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zło"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:10.312809599Z",
+  "model": "glm-5.3"
+}

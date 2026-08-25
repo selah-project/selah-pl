@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Gdy widzę niebiosa Twoje, dzieło palców Twoich, księżyc i gwiazdy, które ustanowiłeś —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "widzę"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "niebiosa Twoje"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "palców Twoich"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "księżyc"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "i gwiazdy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ustanowiłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:33.130370142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I poszedł Dawid stamtąd do Mispy Moabu, i rzekł do króla Moabu: Niech wyjdą, proszę, mój ojciec i moja matka ⟨את⟩ wami, aż poznam, co Elohim uczyni dla mnie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "do Mispy"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "niech wyjdą"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mój ojciec"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i moja matka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "poznam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:07.871521418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I teraz, oto przyniosłem ⟨את⟩ pierwociny owoców ⟨tej⟩ ziemi, którą dałeś mi, Jahwe; i złożysz to przed obliczem Jahwe, Elohim twojego, i pokłonisz się przed obliczem Jahwe, Elohim twojego.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "i teraz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "przyniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pierwociny owoców ziemi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pierwociny"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoców"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "i złożysz to"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "i pokłonisz się"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    }
+  ],
+  "timestamp": "2026-08-25T04:09:19.617931171Z",
+  "model": "glm-5.3"
+}

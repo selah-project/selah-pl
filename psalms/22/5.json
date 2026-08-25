@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "W tobie ufali ojcowie nasi, ufali, i wyratowałeś ich.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ufali"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ojcowie nasi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ufali"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "i wyratowałeś ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:21.553581401Z",
+  "model": "glm-5.3"
+}

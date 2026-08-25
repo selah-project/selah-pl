@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A mężczyzna, który weźmie ⟨את⟩ kobietę i ⟨את⟩ jej matkę — to nikczemność ⟨jest⟩; w ogniu spalą jego i je, i nie będzie nikczemności pośród was.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A mężczyzna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobietę"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobietę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jej matkę"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "jej matkę"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nikczemność"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨jest⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "spalą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nikczemności"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pośród was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:29.248533040Z",
+  "model": "glm-5.3"
+}

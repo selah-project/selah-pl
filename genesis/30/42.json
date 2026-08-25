@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A gdy owce słabły, nie kładał; i ⟨bywały⟩ słabe dla Labana, a mocne dla Jaakowa.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "a gdy słabły"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "owce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "kładał"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i ⟨bywały⟩"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "słabe"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "dla Labana"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "a mocne"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dla Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:30.171545255Z",
+  "model": "glm-5.3"
+}

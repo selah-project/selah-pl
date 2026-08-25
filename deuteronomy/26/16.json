@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Dnia tego Jahwe, Elohim twój, nakazuje ci czynić ⟨את⟩ te ustawy i ⟨את⟩ te prawa; i będziesz strzec i czynić ⟨את⟩ je całym swym sercem i całą swą nefesz.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuje ci"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "czynić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te ustawy"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustawy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "te prawa"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "prawa"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "i będziesz strzec"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i czynić"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "całym swym sercem i całą swą nefesz — dopełnienie 'je' wskazuje na ustawy i prawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "swym sercem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i całą"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "swą nefesz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:47.735347414Z",
+  "model": "glm-5.3"
+}

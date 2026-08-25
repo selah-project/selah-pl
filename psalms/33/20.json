@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Nasza nefesz czekała na Jahwe; On ⟨jest⟩ naszą pomocą i naszą tarczą.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nasza nefesz"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "czekała"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Jahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "naszą pomocą"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "i naszą tarczą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:30.511034808Z",
+  "model": "glm-5.3"
+}

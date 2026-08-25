@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Widziałem ⟨את⟩ wszystkich żyjących, którzy kroczą pod słońcem, z tamtym chłopcem — drugim — który ma stanąć na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich żyjących"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żyjących"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "którzy kroczą"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "tamtym chłopcem"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ma stanąć"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:53.160237019Z",
+  "model": "glm-5.3"
+}

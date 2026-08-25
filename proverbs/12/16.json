@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Głupiec w dniu ⟨swoim⟩ poznawany jest gniew jego, a zasłaniający hańbę ⟨jest⟩ przebiegły.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "głupiec"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "poznawany jest"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "gniew jego"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "a zasłaniający"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hańbę"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "przebiegły"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:08.387970402Z",
+  "model": "glm-5.3"
+}

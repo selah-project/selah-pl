@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Niech on pocałuje mnie pocałunkami ust swoich, bo lepsze są twe miłości niż wino.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "niech on pocałuje mnie"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "pocałunkami"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ust swoich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "lepsze"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "twe miłości"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "niż wino"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:33.837141441Z",
+  "model": "glm-5.3"
+}

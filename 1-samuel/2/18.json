@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Szemuel służył przed obliczem Jahwe, młodzieniec przepasany efodem z lnu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "A Szemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "służył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przed obliczem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "młodzieniec"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "przepasany"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodem"
+    },
+    {
+      "surface": "בד",
+      "gloss": "z lnu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:43.462605795Z",
+  "model": "glm-5.3"
+}

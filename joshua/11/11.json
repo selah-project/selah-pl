@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I pobili ⟨את⟩ całą nefesz, która w niej była, ostrzem miecza — obłożyli klątwą ⟨ich⟩; nie ocalało żadnej neszama, a ⟨את⟩ Chacor spalił w ogniu.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą nefesz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "obłożyli klątwą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ocalało"
+    },
+    {
+      "surface": "כל",
+      "gloss": "żadnej"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "neszama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chacor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalił"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:20:12.373513185Z",
+  "model": "glm-5.3"
+}

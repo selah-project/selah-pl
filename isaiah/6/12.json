@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "i oddali Jahwe ⟨את⟩ człowieka, a opustoszałość wielka będzie w środku ziemi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "i oddali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "a wielka będzie"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "opustoszałość"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:28.717537749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynił Mosze tak, jak polecił Jahwe ⟨את⟩ niego; i zebrała się społeczność u wejścia Namiotu Spotkania.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak, jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poleciał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego (Moszego)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "i zebrała się"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "społeczność"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:48.680333043Z",
+  "model": "glm-5.3"
+}

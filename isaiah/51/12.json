@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Ja, ja ⟨to⟩ ten, który was pociesza. Kim ⟨że⟩ ty jesteś, że się boisz człowieka śmiertelnego, który umrze, i syna człowieczego, który jak trawa zostanie wydany?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ ten"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "który was pociesza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "że się boisz"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "człowieka śmiertelnego"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "który umrze"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "i syna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczego"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jak trawa"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "zostanie wydany"
+    }
+  ],
+  "timestamp": "2026-08-25T00:35:59.944012462Z",
+  "model": "glm-5.3"
+}

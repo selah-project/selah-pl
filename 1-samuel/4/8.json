@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Biada nam! Kto nas wyrwie z ręki tych potężnych Elohim? To ⟨są⟩ Elohim, którzy pobili ⟨את⟩ Micrajim każdą plagą na pustyni.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nas wyrwie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "potężnych"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨są⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "którzy pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "plagą"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:47.728465174Z",
+  "model": "glm-5.3"
+}

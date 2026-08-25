@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 128,
+  "translation": "Oto tak będzie błogosławiony mąż, który boi się Jahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "będzie błogosławiony"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "który boi się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:58.839787545Z",
+  "model": "glm-5.3"
+}

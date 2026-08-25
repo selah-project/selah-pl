@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Błogosławcie, ludy, naszego Elohima, i rozbrzmiewajcie głosem jego chwały",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Błogosławcie"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszego Elohima"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "i rozbrzmiewajcie"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jego chwały"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:25.813838456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "A w imię Jahwe wzywałem: ach, Jahwe, wyratuj duszę moją!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "A w imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wzywałem"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "wyratuj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszę moją"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:17.295237619Z",
+  "model": "glm-5.3"
+}

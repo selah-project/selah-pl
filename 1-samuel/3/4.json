@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zawołał Jahwe: „Szemuëlu!”, a on powiedział: „Oto jestem.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I zawołał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuëla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on powiedział"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Oto jestem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:58.112830800Z",
+  "model": "glm-5.3"
+}

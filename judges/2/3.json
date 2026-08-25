@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I powiedziałem także: Nie wypędzę ich sprzed was, i będą wam ⟨za⟩ ciernie, a bogowie ich będą wam za sidło.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i także"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "wypędzę"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sprzed was"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i będą"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "za ciernie"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "a bogowie ich"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "będą"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "za sidło"
+    }
+  ],
+  "timestamp": "2026-08-24T23:25:02.597149648Z",
+  "model": "glm-5.3"
+}

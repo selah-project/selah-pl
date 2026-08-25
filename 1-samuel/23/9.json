@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I dowiedział się Dawid, że Szaul knuje przeciw niemu złe, i rzekł do Ewjatara kapłana: Przybliż tu efod.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "I dowiedział się"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przeciwnie niemu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "knuje"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "złe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ewjatara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "przybliż"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:58.046181536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł król: Kto ⟨jest⟩ na dziedzińcu? A Haman właśnie przyszedł na zewnętrzny dziedziniec domu króla, aby powiedzieć królowi ⟨את⟩ o powieszeniu ⟨את⟩ Mordechaja na drzewie, które przygotował dla niego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "na dziedzińcu"
+    },
+    {
+      "surface": "ו",
+      "gloss": "a"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "na dziedziniec"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "zewnętrzny"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby powiedzieć"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "⟨את⟩ o powieszeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechaja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:30.319316950Z",
+  "model": "glm-5.3"
+}

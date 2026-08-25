@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Na początku Elohim stworzył ⟨את⟩ niebiosa i ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Na początku"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stworzył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:08:29.727039818Z",
+  "model": "glm-5.3"
+}

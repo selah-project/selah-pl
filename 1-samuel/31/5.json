@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I zobaczył nosiciel jego uzbrojenia, że umarł Szaul, i upadł także on na swój miecz, i umarł wraz z nim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nosiciel"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego uzbrojenia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umarł"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i upadł"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "swój miecz"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wraz z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:05.962863338Z",
+  "model": "glm-5.3"
+}

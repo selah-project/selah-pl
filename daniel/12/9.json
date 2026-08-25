@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I rzekł: Idź, Danielu, bo zamknięte i zapieczętowane są słowa aż do czasu ⟨od⟩ końca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "zamknięte"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "i zapieczętowane"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "są słowa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czasu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "końca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:55.965080897Z",
+  "model": "glm-5.3"
+}

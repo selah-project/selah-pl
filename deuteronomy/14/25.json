@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "wtedy dasz ⟨את⟩ to w srebrze i zawiążesz to srebro w swojej ręce, i pójdziesz do miejsca, które wybierze Jahwe, twój Elohim, ⟨na nie⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "w srebrze"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "zawiążesz"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "to srebro"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w swojej ręce"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "i pójdziesz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "wybierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨na nie⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:25.616917457Z",
+  "model": "glm-5.3"
+}

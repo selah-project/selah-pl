@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I rzekł do nich Jaakow, ojciec ich: Mnie pozbawiliście dzieci; Josefowy nie ma, i Szymeonowy nie ma, a ⟨את⟩ Binjamina weźmiecie — na mnie przyszło to wszystko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ojciec ich"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mnie"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "pozbawiliście dzieci"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefowy"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "i Szymeonowy"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamina"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "weźmiecie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "przyszło"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "to wszystko"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:46.023503210Z",
+  "model": "glm-5.3"
+}

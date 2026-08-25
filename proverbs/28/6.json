@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Lepszy biedny, kroczący w niewinności, ⟨niż⟩ przewrotny swoimi drogami, choć ⟨jest⟩ bogaty.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepszy"
+    },
+    {
+      "surface": "רש",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kroczący"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "w niewinności"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "przewrotny"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "swoimi drogami"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "choć on"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogaty"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:07.203452970Z",
+  "model": "glm-5.3"
+}

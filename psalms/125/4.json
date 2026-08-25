@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 125,
+  "translation": "Czyń dobrze, Jahwe, dobrym i prostym w ich sercach.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "czyń dobrze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "dobrym"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "i prostym"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "w ich sercach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:09.788774296Z",
+  "model": "glm-5.3"
+}

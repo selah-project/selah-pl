@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I zaprzęgł ⟨את⟩ swój rydwan, a ⟨את⟩ swój lud wziął ze sobą.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "i zaprzęgł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój rydwan"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "swój rydwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "swój lud"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ze sobą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:02.127013843Z",
+  "model": "glm-5.3"
+}

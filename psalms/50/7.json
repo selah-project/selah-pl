@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Słuchaj, mój ludu, a będę mówił, Jisroel, a będę świadczył przeciwko tobie: Elohim, twój Elohim, ⟨jestem⟩ ja.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Słuchaj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój ludu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "a będę mówił"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisroel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "a będę świadczył"
+    },
+    {
+      "surface": "בך",
+      "gloss": "przeciwko tobie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.385153342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I umieścił na nim ⟨את⟩ naramiennik, i włożył przy naramienniku ⟨את⟩ Urim i ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i umieścił"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naramiennik"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "naramiennik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i włożył"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przy"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "naramienniku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ויתם",
+      "gloss": "i ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:28.714971117Z",
+  "model": "glm-5.3"
+}

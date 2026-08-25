@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Wyrwij mnie, Jahwe, od człowieka złego, od męża gwałtowników chroń mnie.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Wyrwij mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od człowieka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złego"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od męża"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "gwałtowników"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "chroń mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:33.779829684Z",
+  "model": "glm-5.3"
+}

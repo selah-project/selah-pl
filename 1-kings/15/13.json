@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 15:13",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "A także ⟨את⟩ Maachę, jego matkę, usunął ⟨z⟩ godności królowej, bo zrobiła bohorzysko dla Aszery, i Asa porąbał ⟨את⟩ jej bohorzysko i spalił ⟨je⟩ w potoku Kidronie.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maachę"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maachę"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jego matkę"
+    },
+    {
+      "surface": "ויסרה",
+      "gloss": "usunął"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "⟨z⟩ godności królowej"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "zrobiła"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "bohorzysko"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "dla Aszery"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i porąbał"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohorzysko"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "jej bohorzysko"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spalił"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "w potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:46.482265470Z",
+  "model": "glm-5.3"
+}

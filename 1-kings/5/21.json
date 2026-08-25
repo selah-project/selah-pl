@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 5:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I stało się, gdy usłyszał Chiram ⟨את⟩ słowa Szlomoha, że ucieszył się bardzo, i powiedział: Niech będzie błogosławiony Jahwe w dniu tym, który dał Dawidowi syna mądrego nad lud ten liczny.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomoha"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "i ucieszył się"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "w dniu tym"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrego"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "liczny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:35.207040911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Będę dziękował Jahwe całym swoim sercem, opowiem wszystkie twoje cuda.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "będę dziękował"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "swoim sercem"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "opowiem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "twoje cuda"
+    }
+  ],
+  "timestamp": "2026-08-25T04:44:34.161158687Z",
+  "model": "glm-5.3"
+}

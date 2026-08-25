@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I zobaczył Josef ⟨את⟩ swoich braci, i poznał ich, a udawał przed nimi obcego, i mówił z nimi surowo, i rzekł do nich: Skąd przybywacie? A oni powiedzieli: Z ziemi Kenaan, by kupować żywność.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich braci"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoich braci"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "i poznał ich"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "a udawał obcego"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "surowo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "przybywacie"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a oni powiedzieli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "by kupować"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "żywność"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:40.181179151Z",
+  "model": "glm-5.3"
+}

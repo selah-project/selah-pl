@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Będziecie jedli ⟨jedzenie⟩ i nasycenie, i sławić będziecie ⟨את⟩ imię Jahwe, Elohim waszego, który zdziałał z wami cudownie; i nie będzie zawstydzony lud mój na wieki.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "będziecie jedli"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "⟨jedzenie⟩"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "i nasycenie"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "sławić będziecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zdziałał"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "z wami"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "cudownie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "będzie zawstydzony"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lud mój"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:02.908250564Z",
+  "model": "glm-5.3"
+}

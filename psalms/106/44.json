@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I spojrzał na ich ucisk, gdy usłyszał ⟨את⟩ ich wołanie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i spojrzał"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na ucisk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich wołanie"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ich wołanie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:45.354628704Z",
+  "model": "glm-5.3"
+}

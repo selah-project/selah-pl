@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "W tym dniu Jahwe ukarze swoim mieczem twardym i wielkim i mocnym Lewiatana, węża uciekającego, i Lewiatana, węża krętego, i zabije ⟨את⟩ potwora, który ⟨jest⟩ w morzu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ukarze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "swoim mieczem"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "twardym"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "i wielkim"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "i mocnym"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Lewiatana"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "węża"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "uciekającego"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Lewiatanem"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "wężem"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "krętym"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "i zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potwora"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "potwora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בים",
+      "gloss": "w morzu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:06.077931943Z",
+  "model": "glm-5.3"
+}

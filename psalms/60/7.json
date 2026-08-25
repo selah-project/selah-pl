@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Aby wybawieni byli umiłowani twoi — wybaw prawicą swoją i odpowiedz nam.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "zostali wybawieni"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "umiłowani twoi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "wybaw"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "prawicą twoją"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "i odpowiedz nam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.027484514Z",
+  "model": "glm-5.3"
+}

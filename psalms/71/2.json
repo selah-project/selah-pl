@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "W twojej sprawiedliwości wyrwij mnie i wybaw mnie; nachyl ku mnie swoje ucho i wybaw mnie!",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "w twojej sprawiedliwości"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "i wybaw mnie"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nachyl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "swoje ucho"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "i wybaw mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:33.517441983Z",
+  "model": "glm-5.3"
+}

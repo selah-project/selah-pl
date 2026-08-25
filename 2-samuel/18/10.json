@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I zobaczył to pewien mąż, i doniósł Joabowi, i rzekł: Oto widziałem ⟨את⟩ Awszaloma wiszącego w terpencie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pewien"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i doniósł"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joabowi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awszaloma"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Awszaloma"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "wiszącego"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "w terpencie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:48.929398755Z",
+  "model": "glm-5.3"
+}

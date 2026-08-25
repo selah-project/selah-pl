@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przyszedł, i doniósł swemu panu, mówiąc: Tak i tak powiedziała dziewczynka, która ⟨jest⟩ z ziemi Izraela.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I przyszedł"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i doniósł"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "swemu panu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "i tak"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "powiedziała"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "dziewczynka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:01.682914361Z",
+  "model": "glm-5.3"
+}

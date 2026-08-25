@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I uczynił im Jehoszua tak, jak powiedział mu Jahwe: ⟨את⟩ ich konie wyłamał, a ⟨את⟩ ich rydwany spalił w ogniu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak, jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich konie"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ich konie"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "wyłamał"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ich rydwany"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ich rydwany"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalił"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:20:12.373047480Z",
+  "model": "glm-5.3"
+}

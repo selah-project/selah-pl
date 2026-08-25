@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A kto uderzy zwierzę, zapłaci ⟨za⟩ nie; a kto uderzy człowieka, będzie zgładzony.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "a kto uderzy"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "zapłaci ⟨za⟩ nie"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "a kto uderzy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będzie zgładzony"
+    }
+  ],
+  "timestamp": "2026-08-25T03:20:23.600014228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wstąpił Mosze na ⟨tę⟩ górę, i okrył obłok ⟨את⟩ ⟨tę⟩ górę.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i wstąpił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨tę⟩ górę"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "i okrył"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "obłok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨tę⟩ górę"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨tę⟩ górę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:40.637366364Z",
+  "model": "glm-5.3"
+}

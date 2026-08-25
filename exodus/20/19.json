@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I powiedzieli do Mosze: Mów ty z nami, a usłyszymy; a niech nie mówi z nami Elohim, żebyśmy nie umarli.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "a usłyszymy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a niech nie"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "żebyśmy nie"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "umarli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:20.298244972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "I ulęknie się każdy człowiek, i opowiadają ⟨dzieło⟩ czynu Elohim, i rozumnie rozważą Jego dzieło.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "i ulęknie się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "i opowiadają"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "czyn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "i Jego dzieło"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "rozumnie rozważą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:39.063714152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A lud stał z daleka, a Mosze przybliżył się do gęstego mroku, gdzie tam był Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "A stał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "a Mosze"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "przybliżył się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "gęstego mroku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:59.341467748Z",
+  "model": "glm-5.3"
+}

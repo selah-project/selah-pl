@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I okazał dzielność, i pobił ⟨את⟩ Amaleka, i wyrwał ⟨את⟩ Izraela z ręki łupieżcy jego.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i okazał"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzielność"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i wyrwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "łupieżcy jego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:52.355203040Z",
+  "model": "glm-5.3"
+}

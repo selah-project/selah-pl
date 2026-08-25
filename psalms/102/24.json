@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Poniżył na drodze siłę moją, skrócił dni moje.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Poniżył"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "siłę moją"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "skrócił"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.858165383Z",
+  "model": "glm-5.3"
+}

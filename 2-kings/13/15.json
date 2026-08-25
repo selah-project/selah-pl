@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I rzekł mu Elisza: Weź łuk i strzały. I wziął ku niemu łuk i strzały.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisza"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "i strzały"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku niemu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "łuk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "i strzały"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:25.885527815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Bądź wywyższony ponad niebiosa, o Elohim, i nad całą ziemią chwała twoja.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Bądź wywyższony"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "chwała twoja"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:43.594995324Z",
+  "model": "glm-5.3"
+}

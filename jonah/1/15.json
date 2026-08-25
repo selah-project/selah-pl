@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wzięli ⟨את⟩ Jonę, i wrzucili go do morza, i ustało morze od swojego szału.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonę"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonę"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "i wrzucili go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i ustało"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "od swojego szału"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:09.285124863Z",
+  "model": "glm-5.3"
+}

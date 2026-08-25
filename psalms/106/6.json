@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Zgrzeszyliśmy wraz z ojcami naszymi, winniśmy się, źle czyniliśmy.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Zgrzeszyliśmy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wraz z"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ojcami naszymi"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "winniśmy się"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "źle czyniliśmy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:43.808975410Z",
+  "model": "glm-5.3"
+}

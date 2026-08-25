@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Kto przelewa krew człowieka, przez człowieka zostanie przelana jego krew, bo w obrazie Elohim uczynił ⟨את⟩ człowieka.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "kto przelewa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "przez człowieka"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "zostanie przelana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "w obrazie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:22.962826314Z",
+  "model": "glm-5.3"
+}

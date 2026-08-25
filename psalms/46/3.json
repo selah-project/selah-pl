@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Przeto nie będziemy się bać, gdyby ziemia się zmieniła i góry zapadały w serce mórz.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Przeto"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "będziemy się bać"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "gdyby się zmieniła"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "i zapadały"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "w serce"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mórz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:15.073643207Z",
+  "model": "glm-5.3"
+}

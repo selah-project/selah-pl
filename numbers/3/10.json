@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ Ahrona i ⟨את⟩ jego synów ustanowisz, i będą strzec ⟨את⟩ swojego kapłaństwa; a obcy, który się przybliży, będzie zabity.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ustanowisz"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "i będą strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego kapłaństwa"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "swojego kapłaństwa"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a obcy"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "który się przybliży"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:26.876561409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wziął cały lud Jehudy ⟨את⟩ Azariasza, a on ⟨był⟩ synem szesnastu lat, i ustanowili ⟨את⟩ go królem na miejsce jego ojca Amasjasza.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azariasza"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariasza"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "שש",
+      "gloss": "szesnastu… sześć"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…(na)dzieścio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "i ustanowili królem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na miejsce"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amasjasza"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:49.299952692Z",
+  "model": "glm-5.3"
+}

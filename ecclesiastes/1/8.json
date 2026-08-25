@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wszystkie słowa ⟨są⟩ męczące — nie zdoła człowiek mówić; nie nasyci się oko widzeniem i nie napełni się ucho słyszeniem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "⟨są⟩ męczące"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoła"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mówić"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nasyci się"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "widzeniem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "napełni się"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "słyszeniem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:09.388989396Z",
+  "model": "glm-5.3"
+}

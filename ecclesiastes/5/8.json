@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A korzyść ziemi ⟨jest⟩ we wszystkim ⟨ona⟩: ⟨nawet⟩ król ⟨zależy od⟩ pola uprawnego.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "a korzyść"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "⟨od⟩ pola"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "uprawnego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:08.073363448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 149,
+  "translation": "Niech się raduje Jisraeel ze swojego Stwórcy, syny Cyjonu niech się weselą w swoim Królu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Niech się raduje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ze swojego Stwórcy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cyjonu"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "niech się weselą"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "w swoim Królu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.771860760Z",
+  "model": "glm-5.3"
+}

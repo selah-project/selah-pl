@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Czyż nie tych, którzy Cię nienawidzą, Jahwe, nienawidzę, i z tymi, którzy powstają przeciw Tobie, się strończę?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "którzy Cię nienawidzą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "nienawidzę"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "i z tymi, którzy powstają przeciw Tobie"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "się strończę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.965528348Z",
+  "model": "glm-5.3"
+}

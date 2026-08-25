@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Bo on wyrwie biedaka wołającego i ubogiego, i niemającego pomocnika dla niego.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "wyrwie"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "biedaka"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "wołającego"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "i ubogiego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i niemającego"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:05.876056346Z",
+  "model": "glm-5.3"
+}

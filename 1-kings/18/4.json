@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I stało się, gdy Izevel wycinała ⟨את⟩ proroków Jahwe, wziął Owadjahu stu proroków i ukrył ich, pięćdziesięciu mężów w pieczarze, i żywił ich chlebem i wodą.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "gdy wycinała"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroków Jahwe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Owadjahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "stu"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "i ukrył ich"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesięciu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "w pieczarze"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "i żywił ich"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i wodą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:03.467205763Z",
+  "model": "glm-5.3"
+}

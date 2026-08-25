@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Szczęśliwi strzegący ⟨jego⟩ świadectw, całym sercem szukają ⟨jego⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwi"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "strzegący"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "świadectw ⟨jego⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sercem"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "szukają ⟨jego⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:40.868932692Z",
+  "model": "glm-5.3"
+}

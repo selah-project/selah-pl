@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I stało się, gdy Mosze skończył pisać ⟨את⟩ słowa tej Tory na zwoju, aż do końca,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "gdy skończył"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "pisać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa tej Tory"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "zwoju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "końca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:40.167198012Z",
+  "model": "glm-5.3"
+}

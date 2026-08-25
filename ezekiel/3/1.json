@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł do mnie: synu człowieczy, ⟨את⟩ to, co znajdziesz, jedz — zjedz ⟨את⟩ ten zwój, i idź, mów do domu Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co znajdziesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "znajdziesz"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jedz"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "zjedz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten zwój"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "zwój"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idź"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:09:14.868054905Z",
+  "model": "glm-5.3"
+}

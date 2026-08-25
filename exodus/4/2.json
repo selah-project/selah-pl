@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł Jahwe do niego: Co to jest w ręce twojej? A on rzekł: Laska.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "co to"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w ręce twojej"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "laska"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:54.940705988Z",
+  "model": "glm-5.3"
+}

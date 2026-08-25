@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A jeśli w polu znajdzie ⟨את⟩ mężczyzna ⟨את⟩ młodą niewiastę zaręczoną i chwyci ją ten mężczyzna i obejmie z nią, to umrze ten mężczyzna, który z nią obcował — on sam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "w polu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "znajdzie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "młodą niewiastę zaręczoną"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodą niewiastę"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "zaręczoną"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "i chwyci"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ją"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten mężczyzna"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "i obejmie z nią"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "z nią"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "to umrze"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten mężczyzna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "obcował"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "z nią"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "on sam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:09.750884222Z",
+  "model": "glm-5.3"
+}

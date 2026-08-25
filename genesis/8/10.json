@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I czekał jeszcze siedem innych dni, i dodał posłać ⟨את⟩ gołębicę z arki.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i czekał"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innych"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "i dodał"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posłać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gołębicę"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "gołębicę"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:23.480280344Z",
+  "model": "glm-5.3"
+}

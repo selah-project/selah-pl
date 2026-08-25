@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "i korzyć się będą przed nim wszyscy królowie, wszystkie narody będą mu służyć.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "i korzyć się będą"
+    },
+    {
+      "surface": "לו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "będą mu służyć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:05.875898217Z",
+  "model": "glm-5.3"
+}

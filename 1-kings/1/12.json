@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A teraz idź, doradzę ci, proszę, radę, i ocal ⟨את⟩ siebie i ⟨את⟩ życie twego syna Szlomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idź"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "doradzę ci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radę"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "i ocal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siebie"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "życie"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "życie"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twego syna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:55.911720355Z",
+  "model": "glm-5.3"
+}

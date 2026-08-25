@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Brata w żaden sposób nie wykupi człowiek, nie da Elohim okupu za niego.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Brata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "w żaden sposób"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "wykupi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "okupu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:45.550613108Z",
+  "model": "glm-5.3"
+}

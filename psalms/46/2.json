@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Elohim ⟨jest⟩ nam schronieniem i mocą, pomocą w uciskach znalezioną bardzo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "schronieniem"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "i mocą"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "pomocą"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "w uciskach"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "znalezioną"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:15.073322961Z",
+  "model": "glm-5.3"
+}

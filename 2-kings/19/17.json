@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Zaprawdę, Jahwe, spustoszyli królowie Aszuru ⟨את⟩ narody i ⟨את⟩ ich ziemię.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "spustoszyli"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narody"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich ziemię"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ich ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:07.526166670Z",
+  "model": "glm-5.3"
+}

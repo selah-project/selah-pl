@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Chwalcie ⟨את⟩ Jahwe z ziemi, potwory morskie i wszystkie otchłanie.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "potwory morskie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "otchłanie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:36.345345553Z",
+  "model": "glm-5.3"
+}

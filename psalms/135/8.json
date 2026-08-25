@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Który poraził pierworodnych Micrajim, od człowieka aż po bydło.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Który-poraził"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "pierworodnych"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od-człowieka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż-po"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bydło"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:38.657946776Z",
+  "model": "glm-5.3"
+}

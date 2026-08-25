@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I zeszli bracia Josefa, dziesięciu, aby kupować zboże z Micrajim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "i zeszli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bracia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dziesięciu"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "aby kupować"
+    },
+    {
+      "surface": "בר",
+      "gloss": "zboże"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:02.871566532Z",
+  "model": "glm-5.3"
+}

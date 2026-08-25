@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Nie będzie krzyczał ani podnosił ⟨głosu⟩, i nie da się usłyszeć na ulicy swojego głosu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "będzie krzyczał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "podniesie ⟨głosu⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "da się usłyszeć"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na ulicy"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "swego głosu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:22.492180289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Nakłoń ucha, Elohim, ku mojej modlitwie i nie kryj się przed moją prośbą.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Nakłoń ucha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ku mojej modlitwie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "kryj się"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "przed moją prośbą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.086652535Z",
+  "model": "glm-5.3"
+}

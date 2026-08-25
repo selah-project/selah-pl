@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekł wuj Szaula: Opowiedz mi, proszę, co ⟨to⟩ Szemuel powiedział wam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wuj"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "opowiedz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:46.214263306Z",
+  "model": "glm-5.3"
+}

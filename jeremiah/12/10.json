@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Pasterze liczni zrujnowali moją winnicę, zadeptali ⟨את⟩ moją działkę, obrócili ⟨את⟩ działkę mojej rozkoszy w pustkowie spustoszenia.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "pasterze"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczni"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zrujnowali"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "moją winnicę"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "zadeptali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją działkę"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "moją działkę"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "obrócili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "działkę mojej rozkoszy"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "działkę"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "mojej rozkoszy"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "w pustkowie"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "spustoszenia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:08.517571637Z",
+  "model": "glm-5.3"
+}

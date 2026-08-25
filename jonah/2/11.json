@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł Jahwe do ryby, i wypluła ⟨את⟩ Jonę na ląd suchy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "do ryby"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "i wypluła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonę"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ląd suchy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:22.810560271Z",
+  "model": "glm-5.3"
+}

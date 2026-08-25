@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nie ulęknę się miriad ludu, który dokoła nastawił się przeciw mnie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ulęknę się"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "miriad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nastawił się"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciw mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:47.604510986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Uciekł Adad, on i mężowie edomici ze sług jego ojca, ⟨את⟩ z nim, by przyjść do Micraim; a Hadad ⟨był⟩ chłopcem małym.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Uciekł"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i mężowie"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomici"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ze sług"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim",
+      "marks": "Adad i mężowie edomici"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "by przyjść"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micraim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "a Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chłopcem"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "małym"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:23.566172972Z",
+  "model": "glm-5.3"
+}

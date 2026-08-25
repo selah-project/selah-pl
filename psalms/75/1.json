@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Przewodnikowi chóru; „Nie niszcz”; psalm dla Asafa; pieśń.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "niszcz"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "dla Asafa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:26.819663832Z",
+  "model": "glm-5.3"
+}

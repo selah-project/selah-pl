@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli z pewnością zostanie znalezione w ręku jego skradzione — od wołu aż po osła, aż po owcę, żywe — podwójnie zapłaci.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "z pewnością znalezione"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "zostanie znalezione"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w ręku jego"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "skradzione"
+    },
+    {
+      "surface": "משור",
+      "gloss": "od wołu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osła"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "שה",
+      "gloss": "owcę"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "podwójnie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:48.114062288Z",
+  "model": "glm-5.3"
+}

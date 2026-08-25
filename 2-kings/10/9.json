@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I stało się rano, że wyszedł i stanął, i rzekł do całego ludu: Sprawiedliwi jesteście wy — oto ja spiskowałem przeciw memu panu i zabiłem go, a kto zabił ⟨את⟩ wszystkich tych?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wyszedł"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "stanął"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "Sprawiedliwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jesteście wy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "spiskowałem"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "memu panu"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "i zabiłem go"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich tych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tych"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:31.336960756Z",
+  "model": "glm-5.3"
+}

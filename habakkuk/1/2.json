@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Dokąd, Jahwe, wołałem, a nie słyszysz! Krzyczę do ciebie o przemoc, a nie ratujesz!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Dokąd"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "(dokąd)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "słyszysz"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Krzyczę"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "przemoc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ratujesz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:25.816807030Z",
+  "model": "glm-5.3"
+}

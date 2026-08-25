@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I urodziła syna, i nazwał ⟨את⟩ imię jego Gerszom, bo powiedział: przybyszem byłem w ziemi obcej.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nazwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerszom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "גר",
+      "gloss": "przybyszem"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "obcej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:54.814023446Z",
+  "model": "glm-5.3"
+}

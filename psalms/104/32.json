@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Ten, który spogląda na ziemię, a ona drży, dotyka gór — i one dymią.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ten, który spogląda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "a ona drży"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dotyka"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "i one dymią"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.193941701Z",
+  "model": "glm-5.3"
+}

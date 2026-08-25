@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przyszedł na wzgórze ⟨Ofel⟩, i wziął ⟨to⟩ z ich rąk, i odłożył do domu, i odprawił ⟨את⟩ mężów, a oni odeszli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "wzgórze"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z ich rąk"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i odłożył"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i odprawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a oni odeszli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:40.185037379Z",
+  "model": "glm-5.3"
+}

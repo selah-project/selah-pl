@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Tak synowie adamowe, jak i synowie mężów, razem bogacz i ubogi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamowe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogacz"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:04.295048362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Przodownikowi chóru, według Jedutuna, Asafowi, psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przodownikowi chóru"
+    },
+    {
+      "surface": "על",
+      "gloss": "według"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutuna"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafowi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:21.060306844Z",
+  "model": "glm-5.3"
+}

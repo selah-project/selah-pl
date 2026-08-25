@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 141,
+  "translation": "Niech wpadną we własne sieci bezbożni — a ja, aż przejdę.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "niech wpadną"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "we własne sieci"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "przejdę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.276948201Z",
+  "model": "glm-5.3"
+}

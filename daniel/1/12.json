@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Doświadcz, proszę, ⟨את⟩ sługi twoje dni dziesięć, i niech dadzą nam z nasion, i będziemy jeść, i wodę, i będziemy pić.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "doświadcz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sługi twoje"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sługi twoje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i niech dadzą"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "nasień"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "i będziemy jeść"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i wodę"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "i będziemy pić"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:06.380990696Z",
+  "model": "glm-5.3"
+}

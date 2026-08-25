@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I stało się w piątym roku króla Rechabeama, że wyruszył Szyszak, król Micraim, na Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "piątym"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabeama"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wyruszył"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Szyszak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:50.200378744Z",
+  "model": "glm-5.3"
+}

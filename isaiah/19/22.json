@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I uderzy Jahwe ⟨את⟩ Egiptu, uderzając i uzdrawiając, i wrócą aż do Jahwe, i będzie przebłagany dla nich, i uzdrowi ich.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "i uderzy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egiptu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egiptu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "uderzając"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "i uzdrawiając"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i wrócą"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "i będzie przebłagany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "i uzdrowi ich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:15.413296623Z",
+  "model": "glm-5.3"
+}

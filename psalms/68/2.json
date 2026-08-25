@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Niechaj powstanie Elohim, niech się rozproszą jego wrogowie, i niech uciekną jego nienawidnicy sprzed jego oblicza.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Niechaj powstanie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "niech się rozproszą"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "jego wrogowie"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "i niech uciekną"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "jego nienawidnicy"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sprzed jego oblicza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:35.328913713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I stało się słowo to za grzech, i chodził lud przed jednym aż do Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za grzech"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i chodził"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednym"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:42.899395095Z",
+  "model": "glm-5.3"
+}

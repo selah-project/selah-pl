@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Bo teraz przychodzi ⟨to⟩ do ciebie, a ty słabniesz; dotyka ⟨to⟩ do ciebie, a ty się trwożysz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "a ty słabniesz"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "dotyka"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "a ty się trwożysz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:06.843349518Z",
+  "model": "glm-5.3"
+}

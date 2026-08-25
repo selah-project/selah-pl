@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Bo w nim się raduje nasze serce, bo w Twoim świętym Imieniu zaufaliśmy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "się raduje"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "nasze serce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w Imieniu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "świętym"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "zaufaliśmy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:53.912289938Z",
+  "model": "glm-5.3"
+}

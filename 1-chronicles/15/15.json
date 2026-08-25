@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I nieśli synowie lewitów ⟨את⟩ aron ⟨ha⟩Elohim, jak przykazał Mosze według słowa Jahwe — na swoich ramionach, na drążkach nad nimi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "I nieśli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewitów"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron ha-Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ha⟩Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "na swoich ramionach"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "na drążkach"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:22.939404859Z",
+  "model": "glm-5.3"
+}

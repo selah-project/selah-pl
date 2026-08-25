@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "A nie wspomał nadzorca podczaszy ⟨את⟩ Josefa, i zapomniał go.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wspomał"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadzorca"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "podczaszych"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "i zapomniał go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:56.330265960Z",
+  "model": "glm-5.3"
+}

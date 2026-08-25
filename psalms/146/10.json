@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Króluje Jahwe na wieki, Elohim twój, Cijjon, z pokolenia w pokolenie — chwalcie Jaha!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Króluje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "z pokolenia"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "w pokolenie"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:54.658541986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Nie będziecie jedli z niego surowego ani ugotowanego w wodzie, lecz pieczonego na ogniu: jego głowę na jego nogach i na jego wnętrznościach.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jedli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "נא",
+      "gloss": "surowego"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "ani ugotowanego"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "ugotowanego"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodzie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(tylko)"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "pieczonego"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na ogniu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "jego nogach"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "jego wnętrznościach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.451060348Z",
+  "model": "glm-5.3"
+}

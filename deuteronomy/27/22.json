@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty ten, kto się kocha ze swą siostrą, córką swego ojca albo córką swej matki; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kto się kocha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "swą siostrą"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córką"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córką"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "swej matki"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:58.178144116Z",
+  "model": "glm-5.3"
+}

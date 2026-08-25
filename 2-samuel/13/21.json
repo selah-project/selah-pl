@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I usłyszał król Dawid ⟨את⟩ wszystkich tych spraw, i zapłonęła w nim ⟨gniewem⟩ wielka wściekłość.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich tych spraw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "spraw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "zapłonęło w nim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:40.321105780Z",
+  "model": "glm-5.3"
+}

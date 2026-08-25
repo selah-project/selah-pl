@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I połączył ⟨את⟩ pięć zasłon jedną do drugiej, a pięć zasłon połączył jedną do drugiej.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "i połączył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pięć zasłon"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "drugiej"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pięć"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "zasłon"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "połączył"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "drugiej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:19.847226523Z",
+  "model": "glm-5.3"
+}

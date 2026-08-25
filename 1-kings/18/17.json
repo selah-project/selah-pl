@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I stało się, gdy Achab ujrzał ⟨את⟩ Eliasza, że Achab rzekł do niego: Czy to ty burczysz Izraela?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "gdy ujrzał"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliasza"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliasza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "czy to ty"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "burczysz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:31.771128513Z",
+  "model": "glm-5.3"
+}

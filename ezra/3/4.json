@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I obchodzili ⟨את⟩ święto Suki, jak napisano, oraz całopalenie dzień w dniu, w liczbie, według porządku, sprawę dnia w dniu jego.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i obchodzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "święto Suki"
+    },
+    {
+      "surface": "חג",
+      "gloss": "święto"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Suki"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jak napisano"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "oraz całopalenie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "w liczbie"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "według porządku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawę"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "w dniu jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:42:50.220800494Z",
+  "model": "glm-5.3"
+}

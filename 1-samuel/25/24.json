@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I upadła u nóg jego, i powiedziała: Na mnie, panie mój, na mnie ⟨niech będzie⟩ ta wina, i niech przemówi, proszę, twoja służebnica w twoich uszach, i usłysz ⟨את⟩ słowa twojej służebnicy.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "i upadła"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nóg jego"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panie mój"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ta wina"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "i niech przemówi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "twoja służebnica"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "w twoich uszach"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "i usłysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "twojej służebnicy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:21.728305693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A twoje siedzenie i twoje wychodzenie i twoje przychodzenie — poznałem, i ⟨את⟩ twoje wzburzenie przeciwko Mnie.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "a twoje siedzenie"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i twoje wychodzenie"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "i twoje przychodzenie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznałem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twoje wzburzenie"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "twoje wzburzenie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "przeciwko Mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:03.547315177Z",
+  "model": "glm-5.3"
+}

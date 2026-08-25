@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Dobra mi Tora z twoich ust ponad tysiące złota i srebra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "z twoich ust"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ponad tysiące"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "i srebra"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:14.078035605Z",
+  "model": "glm-5.3"
+}

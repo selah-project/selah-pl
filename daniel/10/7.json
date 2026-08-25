@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I widziałem ja, Daniel, sam ⟨את⟩ widzenie, a mężowie, którzy byli ze mną, nie widzieli ⟨את⟩ widzenia, lecz wielka trwoga padła na nich i uciekli, by się ukryć.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "i widziałem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widzenie"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "widzenie"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "a mężowie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "widzieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widzenia"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "widzenia"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "trwoga"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "wielka"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "padła"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "by się ukryć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:06.591663154Z",
+  "model": "glm-5.3"
+}

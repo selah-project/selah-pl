@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Królowie Tarszisz i wyspy daninę oddadzą, królowie Szeby i Sewy podarunki przyniosą.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarszisz"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "i wyspy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daninę"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "oddadzą"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeby"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "i Sewy"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "podarunki"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "przyniosą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:05.875729748Z",
+  "model": "glm-5.3"
+}

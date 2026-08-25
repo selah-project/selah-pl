@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I dał król ⟨את⟩ srebro oraz ⟨את⟩ złoto w Jeruszalaim jak kamienie, a ⟨את⟩ cedry dał jak sykomory, które na nizinie, w obfitości.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "złoto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "jak kamienie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "cedry"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "jak sykomory"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "na nizinie"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "w obfitości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:59:40.957881013Z",
+  "model": "glm-5.3"
+}

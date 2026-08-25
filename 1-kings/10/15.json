@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "oprócz ⟨tego⟩ od ludzi tarów i handlu rokoszli, i wszystkich królów ⟨Arabii⟩ oraz namiestników ziemi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "oprócz"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "od ludzi"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tarów"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "i handlu"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "rokoszli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨Arabii⟩"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "oraz namiestników"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:20.102438279Z",
+  "model": "glm-5.3"
+}

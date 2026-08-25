@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "To ⟨jest⟩ księga dziejów Adama. W dniu stworzenia Elohim Adama, na podobieństwo Elohim uczynił ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księga"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dziejów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "W dniu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stworzenia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "na podobieństwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:05.473011719Z",
+  "model": "glm-5.3"
+}

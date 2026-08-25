@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Każdy pokarm brzydzi się ich nefesz i doszli aż do bram śmierci.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Każdy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pokarm"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "brzydzi się"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich nefesz"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "i doszli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "bram"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:59.647510100Z",
+  "model": "glm-5.3"
+}

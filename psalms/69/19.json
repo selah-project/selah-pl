@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Przybliż się do mojej nefesz, wykup ją; ze względu na moich wrogów wyzwól mnie.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Przybliż się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "wykup ją"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moich wrogów"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "wyzwól mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.625357137Z",
+  "model": "glm-5.3"
+}

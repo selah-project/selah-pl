@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Złych wieści nie ulęknie się; utwierdzone ⟨jest⟩ serce jego, ufające w Jahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "wieści"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ulęknie się"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "utwierdzone"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "serce jego"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ufające"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:00.229260992Z",
+  "model": "glm-5.3"
+}

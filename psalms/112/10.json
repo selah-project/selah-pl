@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Reszę widzi ⟨i⟩ gniewa się, zębami jego zgrzyta ⟨i⟩ znika; pożądanie niegodziwców zginie.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwiec"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "widzi"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "⟨i⟩ gniewa się"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zębami jego"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "zgrzyta"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "⟨i⟩ znika"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pożądanie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "niegodziwców"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zginie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:18.689355026Z",
+  "model": "glm-5.3"
+}

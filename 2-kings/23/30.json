@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wieźli go jego słudzy martwego z Megiddo, i przywieźli go do Jeruszalaim, i pochowali go w jego grobowcu; i wziął lud kraju ⟨את⟩ Jehoachaza, syna Joszijahu, i namaścili ⟨את⟩ niego, i uczynili królem ⟨את⟩ niego zamiast jego ojca.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "i zawieźli go (na wozie)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jego słudzy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "martwego"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "z Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "i przywieźli go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "i pochowali go"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "w jego grobowcu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יושיהו",
+      "gloss": "Joszijahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "i namaścili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "i uczynili królem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    }
+  ],
+  "timestamp": "2026-08-25T03:32:03.406278204Z",
+  "model": "glm-5.3"
+}

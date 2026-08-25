@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Majątek i bogactwo ⟨będzie⟩ w jego domu, a jego sprawiedliwość stoi na zawsze.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Majątek"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "i bogactwo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "w jego domu"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "a jego sprawiedliwość"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:36.940249364Z",
+  "model": "glm-5.3"
+}

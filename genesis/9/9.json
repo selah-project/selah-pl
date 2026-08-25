@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Ja, oto Ja ustanawiam ⟨את⟩ przymierze moje ⟨את⟩ ⟨z⟩ wami i ⟨את⟩ z waszym potomstwem po was.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A Ja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ustanawiam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przymierze moje"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "przymierze moje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨z⟩ wami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "z waszym potomstwem po was"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "waszym potomstwem"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "po was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:07.640233437Z",
+  "model": "glm-5.3"
+}

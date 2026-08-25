@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I stała się ciężka ręka Jahwe na Aszdodytów, i spustoszyła ich, i poraziła ich ⟨את⟩ guzami ⟨את⟩ Aszdod i ⟨את⟩ jego okolice.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "i stała się ciężka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Aszdodytów"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "i spustoszyła ich"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i poraziła"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich (Aszdodytów)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "guzami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aszdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego okolice"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "jego okolice"
+    }
+  ],
+  "timestamp": "2026-08-24T23:35:38.417027403Z",
+  "model": "glm-5.3"
+}

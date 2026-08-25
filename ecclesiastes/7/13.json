@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Spójrz na ⟨את⟩ dzieło Elohim, bo kto zdoli prostować ⟨את⟩ to, co On wykrzywił?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "spójrz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzieło"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zdoli"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "prostować"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co On wykrzywił"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "wykrzywił"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:52.814783375Z",
+  "model": "glm-5.3"
+}

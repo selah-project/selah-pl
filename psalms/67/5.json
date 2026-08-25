@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Niech się weselą i radośnie wykrzykują ludy, bo będziesz sądzić ludy ⟨w⟩ prostocie, a ludy na ziemi będziesz prowadzić. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "niech się weselą"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "i radośnie wykrzykują"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "będziesz sądzić"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "prostota"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "a ludy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "będziesz prowadzić"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:23.984355347Z",
+  "model": "glm-5.3"
+}

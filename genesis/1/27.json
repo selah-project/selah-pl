@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stworzył Elohim ⟨את⟩ człowieka na swój obraz; na obraz Elohim stworzył ⟨את⟩ niego; mężczyznę i kobietę stworzył ⟨את⟩ ich.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "I stworzył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "na swój obraz"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na obraz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stworzył"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "i kobietę"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stworzył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:51.570149044Z",
+  "model": "glm-5.3"
+}

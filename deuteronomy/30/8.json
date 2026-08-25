@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A ty się nawrócisz i będziesz słuchał głosu Jahwe, i będziesz wykonywał ⟨את⟩ wszystkie jego przykazania, które ja nakazuję ci dzisiaj.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "się nawrócisz"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "i będziesz słuchał"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i będziesz wykonywał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie jego przykazania"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jego przykazania"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuję ci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:14:01.463560886Z",
+  "model": "glm-5.3"
+}

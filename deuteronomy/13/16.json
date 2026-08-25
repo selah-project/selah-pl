@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "zabijesz-na-sure ⟨את⟩ mieszkańców tego miasta ostrzem miecza; wytraćisz ją na kahal ⟨את⟩ niej i ⟨את⟩ wszystkiego, co w niej, i ⟨את⟩ jej bydła ostrzem miecza.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "zabijesz-na-sure"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "zabijesz-na-sure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców tego miasta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tego miasta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tego"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "wytraćisz-na-kahal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkiego, co w niej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej bydła"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "jej bydła"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:49.635301094Z",
+  "model": "glm-5.3"
+}

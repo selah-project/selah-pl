@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Ustąp od gniewu i porzuć zapalczość; nie zapalaj się — to prowadzi tylko do zła.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Ustąp (odpuść)"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "od gniewu"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "i porzuć"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "zapalczość"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "zapalaj się"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "do zła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:57.728580126Z",
+  "model": "glm-5.3"
+}

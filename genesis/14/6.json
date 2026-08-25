@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "oraz ⟨את⟩ Chorytów w ich górze Seir, aż do El-Paran, które ⟨jest⟩ nad pustynią.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Chorytów"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Chorytowie"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "w ich górze"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustynią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:14.156850883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Chwalcie Jah, bo dobry ⟨jest⟩ śpiew naszemu Elohim, bo przyjemna, przystoi chwała.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "śpiew"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszemu Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "przyjemna"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "przystoi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "chwała"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.695750046Z",
+  "model": "glm-5.3"
+}

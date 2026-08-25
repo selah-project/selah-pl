@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "I on wykupi ⟨את⟩ Israela ze wszystkich jego win.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "I on"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "wykupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkich"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "jego win"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:20.617421947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rozkazał Awimelech ⟨את⟩ cały lud, mówiąc: Ktokolwiek dotknie tego męża albo żony jego — śmiercią będzie zabity.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ktokolwiek dotknie"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "tego męża"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "albo żony jego"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:18.976736834Z",
+  "model": "glm-5.3"
+}

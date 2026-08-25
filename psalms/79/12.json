@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "I zwróć sąsiadom naszym siedmiokrotnie na ich łono ⟨את⟩ hańbę ich, którą hańbili ciebie, Adonai!",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "I zwróć"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sąsiadom naszym"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "siedmiokrotnie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ich łono"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "hańbę ich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "hańbili ciebie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:27.615221510Z",
+  "model": "glm-5.3"
+}

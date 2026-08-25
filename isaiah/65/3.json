@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Lud, który mnie doprowadza do gniewu, nieustannie na moim obliczu; składający ofiary w ogrodach i kadzący na cegłach.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "który doprowadza do gniewu"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "składający ofiary"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "w ogrodach"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "i kadzący"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "cegłach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:35:30.574244011Z",
+  "model": "glm-5.3"
+}

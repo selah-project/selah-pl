@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty ten, kto skrycie uderza swego bliźniego; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kto uderza"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swego bliźniego"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "skrycie"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:58.178373288Z",
+  "model": "glm-5.3"
+}

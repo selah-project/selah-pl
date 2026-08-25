@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przyniósł ⟨את⟩ ofiarę całopalenia, i wykonał ją według prawa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i przyniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiarę całopalenia"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofiarę całopalenia"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "i wykonał ją"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "według prawa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:23.643012171Z",
+  "model": "glm-5.3"
+}

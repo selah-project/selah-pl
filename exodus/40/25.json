@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I zapalił lampy przed Jahwe, jak nakazał Jahwe ⟨את⟩ Moszemu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "zapalił"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:13.564343319Z",
+  "model": "glm-5.3"
+}

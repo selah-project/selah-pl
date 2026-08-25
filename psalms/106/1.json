@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Chwalcie Jaha, dziękujcie Jahwe, bo ⟨jest⟩ dobry, bo na wieki ⟨trwa⟩ Jego chesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "dziękujcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:55.757883575Z",
+  "model": "glm-5.3"
+}

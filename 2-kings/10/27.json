@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i zburzyli ⟨את⟩ stelę Baala, i zburzyli ⟨את⟩ dom Baala, i uczynili go wychodkami aż do dnia ⟨dzisiejszego⟩.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "i zburzyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stelę Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stelę"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "i zburzyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Baala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "i uczynili go"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "wychodkami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:12.158022879Z",
+  "model": "glm-5.3"
+}

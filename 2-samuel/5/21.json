@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I porzucili tam ⟨את⟩ swoje bożki, i wziął ⟨je⟩ Dawid i jego ludzie.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "i porzucili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje bożki"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "swoje bożki"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "i wziął ⟨je⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jego ludzie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:25.013162939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Kto ⟨jest⟩ ⟨ten⟩ człowiek, co boi się Jahwe? ⟨On⟩ pouczy go na drodze, którą ⟨on⟩ wybierze.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boi się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "pouczy go"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "którą wybierze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:42.036396620Z",
+  "model": "glm-5.3"
+}

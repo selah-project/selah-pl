@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A te ⟨są⟩ prawa, które postawisz przed nimi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a te"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "prawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "postawisz"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:41.938241731Z",
+  "model": "glm-5.3"
+}

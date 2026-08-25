@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I zbliżył się Szaul ⟨את⟩ ⟨do⟩ Szmuela w środku bramy i powiedział: Wyjaśnij mi, proszę, gdzie ⟨jest⟩ dom Widzącego.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i zbliżył się"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szmuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuela"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "wyjaśnij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Widzącego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:49.790839525Z",
+  "model": "glm-5.3"
+}

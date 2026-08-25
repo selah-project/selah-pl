@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "i wytaczam ⟩את⟩ moją zapalczywość na mur i na tych, co go tynkują marnym tynkiem, i powiem wam: nie ma już muru ani tych, co go tynkowały.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "i wytaczam (do końca)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją zapalczywość"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "moją zapalczywość"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na mur"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "i na tynkujących"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "marnym tynkiem (oznacza 'go' — mur)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "marnym tynkiem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powiem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "⟨już⟩ muru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani nie ma"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "tynkujących"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (mur)"
+    }
+  ],
+  "timestamp": "2026-08-25T01:11:52.771140641Z",
+  "model": "glm-5.3"
+}

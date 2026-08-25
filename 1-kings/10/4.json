@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ujrzała królowa Szewy ⟨את⟩ całą mądrość Szelomo oraz ⟨את⟩ dom, który zbudował.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i ujrzała"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "królowa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szewy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "oraz dom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:50.779681363Z",
+  "model": "glm-5.3"
+}

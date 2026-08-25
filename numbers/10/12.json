@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wyruszyli synowie Israela w swoich marszrutch z pustyni Synaj, i spoczęła chmura na pustyni Paran.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i wyruszyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "w swoich marszrutch"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pustyni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "i spoczęła"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "chmura"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-24T22:52:59.604743189Z",
+  "model": "glm-5.3"
+}

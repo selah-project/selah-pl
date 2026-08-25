@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Zaprawdę, wy ⟨jesteście⟩ ludem, i wraz z wami umrze mądrość.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zaprawdę-że"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "i wraz z wami"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umrze"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:18.708691696Z",
+  "model": "glm-5.3"
+}

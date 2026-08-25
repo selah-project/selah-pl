@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Lepsi są dwaj od ⟨tego⟩ jednego, gdyż mają dobrą zapłatę za swój trud.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "lepsi są"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dwaj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨tego⟩ jednego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mają"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zapłatę"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrą"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "za swój trud"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:41.596678403Z",
+  "model": "glm-5.3"
+}

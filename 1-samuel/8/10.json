@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I powiedział Szmuel ⟨את⟩ wszystkich słów Jahwe do ludu proszących ⟨את⟩ od niego króla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich słów Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "proszących"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ od niego"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:25.538877306Z",
+  "model": "glm-5.3"
+}

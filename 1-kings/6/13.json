@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zamieszkam pośród synów Jisraela i nie porzucę ⟨את⟩ mego ludu Jisraela.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "i zamieszkam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "porzucę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego ludu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mego ludu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:54.474802703Z",
+  "model": "glm-5.3"
+}

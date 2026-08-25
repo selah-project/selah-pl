@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I zapytał mnie: Kim ty ⟨jesteś⟩? A odpowiedziałem mu: Amaleczykiem jestem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I zapytał"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A odpowiedziałem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amaleczykiem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem"
+    }
+  ],
+  "timestamp": "2026-08-25T04:11:40.228715891Z",
+  "model": "glm-5.3"
+}

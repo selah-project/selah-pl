@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Moja noga stoi na równinie; w zgromadzeniach będę błogosławił Jahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "moja noga"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stoi"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "na równinie"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "w zgromadzeniach"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "będę błogosławił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:17.975484019Z",
+  "model": "glm-5.3"
+}

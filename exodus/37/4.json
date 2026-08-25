@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I uczynił drążki z drewna akacjowego i pokrył ⟨את⟩ je złotem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i pokrył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:04.812700622Z",
+  "model": "glm-5.3"
+}

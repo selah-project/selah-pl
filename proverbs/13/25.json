@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Sprawiedliwy je do nasycenia swej nefesz, a brzuch nikczemnych cierpi niedostatek.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Sprawiedliwy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do nasycenia"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "swej nefesz"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "a brzuch"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nikczemnych"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "cierpi niedostatek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:48.894547448Z",
+  "model": "glm-5.3"
+}

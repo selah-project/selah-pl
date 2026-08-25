@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wstali, i uciekli o zmierzchu, i porzucili ⟨את⟩ swoje namioty oraz ⟨את⟩ swoje konie i ⟨את⟩ swoje osły — obóz takim, jaki był — i uciekli ratując swoje nefesz.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "i wstali"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "o zmierzchu"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "i porzucili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje namioty"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "swoje namioty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "swoje konie"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "swoje konie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoje osły"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "swoje osły"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "takim, jaki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "był"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ratując"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "swoje nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T04:13:32.546747396Z",
+  "model": "glm-5.3"
+}

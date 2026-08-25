@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wstał Awraham rano, i osiodłał ⟨את⟩ osła swego, i wziął ⟨את⟩ dwóch swoich młodzieńców ⟨את⟩ ⟨z⟩ nim, i ⟨את⟩ Jicchaka, syna swego; i porąbał drwa na całopalenie, i wstał, i poszedł do miejsca, o którym powiedział mu Elohim.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał rano"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "i osiodłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osła swego"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "osła swego"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwóch swoich młodzieńców"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "swoich młodzieńców"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z⟩ nim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jicchaka, syna swego"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna swego"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "i porąbał"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "na całopalenie"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o którym"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:15.537569625Z",
+  "model": "glm-5.3"
+}

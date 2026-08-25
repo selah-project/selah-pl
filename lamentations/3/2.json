@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Mnie ⟨את⟩ poprowadził i kazał iść w ciemności, a nie w świetle.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "poprowadził"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i kazał iść"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "w ciemności"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אור",
+      "gloss": "w świetle"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:46.510274960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I umieściłem tam ⟨את⟩ Arkę, w której ⟨jest⟩ przymierze Jahwe, które zawarł z synami Izraela.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "i umieściłem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkę"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Arkę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w której"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jest"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:00:53.447025717Z",
+  "model": "glm-5.3"
+}

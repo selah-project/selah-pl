@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wziął około pięciu tysięcy mężów, i ustawił ich ⟨את⟩-nich w zasadzce między Bet-El a Haj, na zachód od miasta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "około pięciu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i ustawił"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-nich",
+      "marks": "w zasadzce"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "w zasadzce"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haj"
+    },
+    {
+      "surface": "מים",
+      "gloss": "na zachód"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "od miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:47.519315855Z",
+  "model": "glm-5.3"
+}

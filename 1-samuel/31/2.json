@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I przylgnęli Pelisztym do Szaula i ⟨את⟩ synów jego, i porazili Pelisztym ⟨את⟩ Jehonatana i ⟨את⟩ Awinadaba i ⟨את⟩ Malki-Szua, synów Szaula.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "i przylgnęli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "synów jego"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synów jego"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i porazili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonatana"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Awinadaba"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Malki-Szua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Szua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:03.876112382Z",
+  "model": "glm-5.3"
+}

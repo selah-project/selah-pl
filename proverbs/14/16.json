@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Mądry lęka się i odwraca od zła, a głupiec wpada w pasję i ufa ⟨sobie⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Mądry"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "lęka się"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "i odwraca"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zła"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a głupiec"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "wpada w pasję"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "i ufa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:48.735405733Z",
+  "model": "glm-5.3"
+}

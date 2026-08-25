@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Bo popiół jak chleb jadłem, a mój napój z płaczem zmieszałem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "popiół"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "jak chleb"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "jadłem"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "a mój napój"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "z płaczem"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "zmieszałem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:27.120259670Z",
+  "model": "glm-5.3"
+}

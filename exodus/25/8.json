@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I uczynią mi świątynię, i będę mieszkał w ich środku",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i uczynią"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "świątynię"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "i będę mieszkał"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "w ich środku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:26.485922649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I uczynił ⟨את⟩ ołtarz kadzenia z drewna szittim — łokieć jego długość i łokieć jego szerokość, czworoboczny, i dwa łokcie jego wysokość; z niego ⟨były⟩ jego rogi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz kadzenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadzenia"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim (akacji)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "łokieć"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jego długość"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i łokieć"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jego szerokość"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "czworoboczny"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "i dwa łokcie"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jego wysokość"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "היו",
+      "gloss": "były"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "jego rogi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:13.569000978Z",
+  "model": "glm-5.3"
+}

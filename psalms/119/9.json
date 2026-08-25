@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Czym młodzieniec oczyści ⟨את⟩ swoją ścieżkę? Przestrzegając jej według twego słowa.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "oczyści"
+    },
+    {
+      "surface": "נער",
+      "gloss": "młodzieniec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ścieżkę"
+    },
+    {
+      "surface": "ארחo",
+      "gloss": "swoją ścieżkę"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "przestrzegając"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "według twego słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:48.258025404Z",
+  "model": "glm-5.3"
+}

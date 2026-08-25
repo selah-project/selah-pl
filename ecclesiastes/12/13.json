@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Koniec sprawy — wszystko zostało usłyszane: bój się ⟨את⟩ Elohim i strzeż ⟨את⟩ jego przykazań, bo to jest cały człowiek.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "koniec"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawy"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "zostało usłyszane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego przykazań"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jego przykazań"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "strzeż"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:55.921654369Z",
+  "model": "glm-5.3"
+}

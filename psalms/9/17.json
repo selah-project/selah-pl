@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Jahwe dał się poznać ⟨przez⟩ sąd, którego dokonał; w dziele swoich rąk został złapany w sidło bezbożny. Higgajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dał się poznać"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sąd"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "którego dokonał"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "w dziele"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "swoich rąk"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "został złapany w sidło"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożny"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:09.642167528Z",
+  "model": "glm-5.3"
+}

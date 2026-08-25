@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I rzekł Paroh do Josefa, mówiąc: ojciec twój i bracia twoi przybyli do ciebie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojciec twój"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "i bracia twoi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przybyli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:39.949383369Z",
+  "model": "glm-5.3"
+}

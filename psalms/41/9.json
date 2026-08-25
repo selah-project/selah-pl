@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Rzecz Beliala jest wylana na niego, a gdy ⟨on⟩ leży, nie wstanie już więcej.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "jest wylana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leży"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "wstanie już"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "więcej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:32.759849617Z",
+  "model": "glm-5.3"
+}

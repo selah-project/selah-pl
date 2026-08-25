@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Dajesz im — zbierają; otwierasz swoją rękę — nasycają się dobrem.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "dajesz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "zbierają"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otwierasz"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "nasycają się"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:05.091997075Z",
+  "model": "glm-5.3"
+}

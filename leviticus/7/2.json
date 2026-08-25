@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Na miejscu, gdzie rzeźną ⟨את⟩ ofiarę całopalną, rzeźnią ⟨את⟩ ofiarę winną, a ⟨את⟩ krew jej pokropi na ołtarz dookoła.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "na miejscu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "rzeźnią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiara całopalna"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofiarę całopalną"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "rzeźnią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofiara winna"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ofiarę winną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krew jej"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "pokropi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:15.134757753Z",
+  "model": "glm-5.3"
+}

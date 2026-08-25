@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Powiedział w swoim sercu: Nie zachwieję się, pokolenie po pokoleniu — ⟨nie zaznam⟩ złego.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Powiedział"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "w swoim sercu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachwieję się"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "po pokoleniu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ten, który⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "złego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:53.523112416Z",
+  "model": "glm-5.3"
+}

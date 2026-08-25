@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I pobili każdy swego męża, i uciekł Aram, a Izrael ich ścigał; i uszedł Ben-Hadad, król Aramu, na koniu — i jeźdźcy.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "swego męża"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "a ich ścigał"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i uszedł"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "koniu"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "i jeźdźcy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:29.590617174Z",
+  "model": "glm-5.3"
+}

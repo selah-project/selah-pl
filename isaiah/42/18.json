@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Głusi, słyszcie, a ślepi, patrzcie, aby widzieć!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "Głusi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "słyszcie"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "a ślepi"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "patrzcie"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby widzieć"
+    }
+  ],
+  "timestamp": "2026-08-25T03:33:39.006366312Z",
+  "model": "glm-5.3"
+}

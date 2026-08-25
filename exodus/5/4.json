@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I powiedział do nich król Micrajim: Czemu, Mosze i Aharon, odrywacie lud od jego prac? Idźcie do swoich ciężarów!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "odrywacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "od jego prac"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "do swoich ciężarów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:19.799806055Z",
+  "model": "glm-5.3"
+}

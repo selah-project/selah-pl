@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Elohim: Niechaj się zbiorą wody spod niebios w jedno miejsce, i niechaj się ukaże ląd suchy; i stało się tak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "niechaj się zbiorą"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "spod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "אל",
+      "gloss": "w"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "i niechaj się ukaże"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ląd suchy"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:14.307684639Z",
+  "model": "glm-5.3"
+}

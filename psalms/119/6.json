@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wtedy nie będę zawstydzony, gdy spojrzę na wszystkie twoje przykazania.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "będę zawstydzony"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "gdy spojrzę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoje przykazania"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:27.846611300Z",
+  "model": "glm-5.3"
+}

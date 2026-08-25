@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I żył Terach siedemdziesiąt lat, i zrodził ⟨את⟩ Abrama, ⟨את⟩ Nachora i ⟨את⟩ Harana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "siedemdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:21.372021241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł Dawid: Czy jest jeszcze ktoś z pozostałych ⟨dla⟩ domu Szaula, i uczynię z nim chesed ze względu na Jonatana?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "czy"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ktoś, który"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "pozostał"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dla domu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "i uczynię"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:19.625982734Z",
+  "model": "glm-5.3"
+}

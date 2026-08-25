@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Elohim przemówił w swojej świętości: będę się radował, podzielę Szekem, i dolinę Sukkot zmierzę.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "w swojej świętości"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "będę się radował"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "podzielę"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "i dolinę"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "zmierzę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:43.595284118Z",
+  "model": "glm-5.3"
+}

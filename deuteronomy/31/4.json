@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I uczyni Jahwe im tak, jak uczynił Sichonowi i Ogowi, królom Emoryty, i ich ziemi, których wytępił ⟨את⟩-ich.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i uczyni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichonowi"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "i Ogowi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królom"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoryty"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "i ich ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "wytępił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ich",
+      "marks": "Sichon i Og"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:43.456646292Z",
+  "model": "glm-5.3"
+}

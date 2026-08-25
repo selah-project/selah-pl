@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 61,
+  "translation": "Niech zasiada na wieczność przed obliczem Elohim, chesed i wierność niech go strzegą.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Niech zasiada"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieczność"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i wierność"
+    },
+    {
+      "surface": "מן",
+      "gloss": "niech (wyznaczają)"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "niech go strzegą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:12.704034372Z",
+  "model": "glm-5.3"
+}

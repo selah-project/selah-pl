@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Bo kto zje, a kto zazna upodobania — poza mną?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zje"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "יחושׁ",
+      "gloss": "zazna upodobania"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "poza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mną"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:39.928049087Z",
+  "model": "glm-5.3"
+}

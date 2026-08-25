@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo uczyniłeś mój wyrok i moją sprawę, zasiadłeś na tronie, sędzia sprawiedliwości.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mój wyrok"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "i moją sprawę"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "zasiadłeś"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "na tronie"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sędzia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwości"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:41.605323394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I wyślę ⟨את⟩ szerszenia przed tobą, i wypędzi ⟨את⟩ Chiwwitę, ⟨את⟩ Kanaanity i ⟨את⟩ Chittyty znizna przed tobą.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "I wyślę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szerszenia"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "szerszenia"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "i wypędzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiwwitę"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwwitę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanity"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanity"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chittyty"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chittyty"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "znizna przed tobą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:37.370549619Z",
+  "model": "glm-5.3"
+}

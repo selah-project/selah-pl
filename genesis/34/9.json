@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "i spokrewnijcie się z nami — ⟨את⟩ nas: swoje córki dajcie nam, a ⟨את⟩ nasze córki weźcie sobie.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "i spokrewnijcie się z nami"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "swoje córki"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dajcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nasze córki"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "nasze córki"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "weźcie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:02.880932665Z",
+  "model": "glm-5.3"
+}

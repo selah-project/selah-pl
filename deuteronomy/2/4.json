@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I ⟨את⟩ lud nakaż, mówiąc: Wy przechodzicie przez granicę braci waszych, synów Esawa, mieszkających w Seir, i oni ulękną się was; wy zaś strzeżcie się bardzo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "צו",
+      "gloss": "nakaż"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "przechodzicie"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "przez granicę"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "braci waszych"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "mieszkających"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "w Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i oni ulękną się"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "was"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "wy zaś strzeżcie się"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:53.838194946Z",
+  "model": "glm-5.3"
+}

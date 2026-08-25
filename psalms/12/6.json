@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Przez złupienie ubogich, przez jęk biednych — teraz powstanę, mówi Jahwe, pomieszczę w bezpieczeństwie temu, kto dla niego wzdycha.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "przez złupienie"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ubogich"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "przez jęk"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "biednych"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "powstanę"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "pomieszczę"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "w bezpieczeństwie"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "wzdycha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:36.413671968Z",
+  "model": "glm-5.3"
+}

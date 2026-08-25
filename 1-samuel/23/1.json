@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I doniesiono Dawidowi, mówiąc: Oto Pelisztym walczą z Qeilą i łupią ⟨את⟩ gumna.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "i doniesiono"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "walczą"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "z Qeilą"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "łupią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumna"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "gumna"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:32.570694338Z",
+  "model": "glm-5.3"
+}

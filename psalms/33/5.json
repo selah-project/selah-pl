@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Miłuje sprawiedliwość i prawo; chesed Jahwe — pełna jest ziemia.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Miłuje"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i prawo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pełna jest"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:19.058207605Z",
+  "model": "glm-5.3"
+}

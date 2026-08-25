@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I pobłogosławił ⟨את⟩ nich Elohim, mówiąc: Płodźcie i rozmnażajcie się, i napełnijcie ⟨את⟩ wody w morzach, a ptactwo niech się rozmnaża na ziemi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "płodźcie"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i rozmnażajcie się"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napełnijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "w morzach"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "a ptactwo"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "niech się rozmnaża"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:27.119738705Z",
+  "model": "glm-5.3"
+}

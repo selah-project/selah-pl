@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I stało się w drodze, w karczmie, że spotkał go Jahwe i szukał go zabić.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "w drodze"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "w karczmie"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "spotkał go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "i szukał"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "zabić go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:31.191028117Z",
+  "model": "glm-5.3"
+}

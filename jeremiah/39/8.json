@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "A ⟨את⟩ dom króla i ⟨את⟩ dom ludu spalili Kasdyci ogniem, a ⟨את⟩ mury Jeruszalaim zburzyli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dom króla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom ludu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spalili"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdyci"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mury Jeruszalaim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mury"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "zburzyli"
+    }
+  ],
+  "timestamp": "2026-08-25T00:58:45.692874996Z",
+  "model": "glm-5.3"
+}

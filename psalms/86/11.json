@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Poucz mnie, Jahwe, Twojej drogi, abym chodził w Twojej prawdzie; złącz moje serce ku bojaźni Twojego imienia.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Poucz mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Twojej drogi"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "abym chodził"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "w Twojej prawdzie"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "złącz"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ku bojaźni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twojego imienia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:02.689333798Z",
+  "model": "glm-5.3"
+}

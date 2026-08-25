@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A Elohim wyznaczył robaka o wschodzie świtu nazajutrz, i uderzył ⟨את⟩ rycynusa, i ten usechł.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "i wyznaczył"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "robaka"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "o wschodzie"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "świtu"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "nazajutrz"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rycynusa"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "rycynusa"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "i usechł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:40.279130144Z",
+  "model": "glm-5.3"
+}

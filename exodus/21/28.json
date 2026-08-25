@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A jeśli wół zabodzie ⟨את⟩ mężczyznę albo ⟨את⟩ kobietę i ⟨on⟩ umrze — ukamienowany będzie ukamienowany ⟨the⟩ wół i nie będzie jedzone ⟨את⟩ jego mięso, a właściciel wołu będzie niewinny.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "zabodzie"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wół"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężczyznę"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobietę"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobietę"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "ukamienowany"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "będzie ukamienowany"
+    },
+    {
+      "surface": "השור",
+      "gloss": "wół"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jedzone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego mięso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jego mięso"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a właściciel"
+    },
+    {
+      "surface": "השור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "niewinny"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:21.071004194Z",
+  "model": "glm-5.3"
+}

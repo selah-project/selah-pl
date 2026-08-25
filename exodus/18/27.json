@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I Mosze odprawił ⟨את⟩ swego teścia, i ⟨on⟩ poszedł sobie do swojej ziemi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i odprawił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego teścia"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "swego teścia"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:42.577733429Z",
+  "model": "glm-5.3"
+}

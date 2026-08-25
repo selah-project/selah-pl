@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Mozół głupców męczy ich, bo nie umieją iść do miasta.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mozół"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "głupców"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "męczy ich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "umieją"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iść"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:48.981902514Z",
+  "model": "glm-5.3"
+}

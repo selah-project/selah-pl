@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I wziął lud ziemi ⟨את⟩ Jehoachaza, syna Joszjaszu, i ustanowili go królem zamiast ojca jego w Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joszjaszu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "i ustanowili go królem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca jego"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:39.336531648Z",
+  "model": "glm-5.3"
+}

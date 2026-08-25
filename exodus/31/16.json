@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I będą strzec synowie Jisraela ⟨את⟩ szabat, aby czynić ⟨את⟩ szabat dla swoich pokoleń — przymierzem wiecznym.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "i będą strzec"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby czynić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dla swoich pokoleń"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierzem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiecznym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:42.349915349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "I rzekł do mnie: Sługo mój ⟨jesteś⟩ ty, Jisrael, w którym się wsławię.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Sługa mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w którym"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "się wsławię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:34:59.719114652Z",
+  "model": "glm-5.3"
+}

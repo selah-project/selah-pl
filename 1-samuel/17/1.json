@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zebrali Pelisztowie ⟨את⟩ swoje obozy do bitwy, i zebrali się przy Soko, które należy do Jehudy, i rozbili obóz między Soko a między Azeką, w Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "i zebrali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje obozy"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "swoje obozy"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do bitwy"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i zebrali się"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "przy Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "należy do Jehudy"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeką"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "w Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:52.891202720Z",
+  "model": "glm-5.3"
+}

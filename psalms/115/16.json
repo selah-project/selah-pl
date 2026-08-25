@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Niebiosa niebiosa ⟨są⟩ dla Jahwe, a ziemię dał synom człowieka.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Niebiosa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a ziemię"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:05.546683611Z",
+  "model": "glm-5.3"
+}

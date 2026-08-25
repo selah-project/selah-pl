@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "I płakałem w poście mojej nefesz, i stało się to dla mnie hańbą.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "i płakałem"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "w poście"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:46.984413908Z",
+  "model": "glm-5.3"
+}

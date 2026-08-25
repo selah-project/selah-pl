@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Przed jego obliczem trzęsie się ziemia, drżą niebiosa, słońce i księżyc pociemniały, a gwiazdy zgromadziły swój blask.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "przed jego obliczem"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "trzęsie się"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "drżą"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "i księżyc"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "pociemniały"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "a gwiazdy"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "zgromadziły"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "swój blask"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:02.899879632Z",
+  "model": "glm-5.3"
+}

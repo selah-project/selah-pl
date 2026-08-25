@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I każda twoja wycena będzie w szeklu ⟨świątyni⟩, dwadzieścia ger będzie ⟨to⟩ szekel.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i każda"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "twoja wycena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "w szeklu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨świątyni⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "szekel"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:27.873034370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Usta sprawiedliwego szepczą mądrość, a język jego mówi prawo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Usta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "szepczą"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "a język jego"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:40.119799194Z",
+  "model": "glm-5.3"
+}

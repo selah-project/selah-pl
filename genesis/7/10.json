@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I stało się po siedmiu dniach, a wody potopu były na ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "po siedmiu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dniach"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a wody"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "były"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:18.802068663Z",
+  "model": "glm-5.3"
+}

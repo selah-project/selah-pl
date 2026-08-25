@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 143,
+  "translation": "I w chesed twoim wytracisz nieprzyjaciół moich, i zgubisz wszystkich ciemiężycieli nefesz mojej, bo ja ⟨jestem⟩ sługą twoim.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "i w chesed twoim"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "wytracisz"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nieprzyjaciół moich"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "i zgubisz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ciemiężycieli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz mojej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługą twoim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:26.674072341Z",
+  "model": "glm-5.3"
+}

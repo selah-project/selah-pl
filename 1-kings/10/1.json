@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A królowa Szewy, słysząc ⟨את⟩ sławę Szelomo — ku imieniu Jahwe — przyszła, by go doświadczać zagadkami.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "a królowa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szewy"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "słysząc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sławę"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sławę"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ku imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "przyszła"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "by go doświadczać"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "zagadkami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:50.779113560Z",
+  "model": "glm-5.3"
+}

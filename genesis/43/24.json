@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I wprowadził ten mąż ⟨את⟩ mężów do domu Józefa, i dał wody, i umyli swoje stopy; i dał paszy ich osłom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wprowadził"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten mąż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "i umyli"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "swoje stopy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "paszę"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ich osłom"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:47.217667146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I wspomoże ich Jahwe, i wyrwie ich — wyrwie ich od niegodziwych i ocali ich, bo schronili się w Nim.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "i wspomoże ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "i wyrwie ich"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "wyrwie ich"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "od niegodziwych"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "i ocali ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "schronili się"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w Nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:45.480018985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A Obed spłodził ⟨את⟩ Jiszaja, a Jiszaj spłodził ⟨את⟩ Dawida.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "A Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jiszaja"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "a Jiszaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:05.762901222Z",
+  "model": "glm-5.3"
+}

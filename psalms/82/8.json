@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Powstań, Elohim, sądź ⟨את⟩ ziemię, bo Ty odziedziczysz wszystkie narody.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "powstań"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "sądź"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ziemię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "odziedziczysz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narody"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:20.417040868Z",
+  "model": "glm-5.3"
+}

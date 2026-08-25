@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ⟨⟨את⟩⟩ całej zwierzynie ziemi oraz całemu ptactwu niebios i wszystkiemu, co pełza po ziemi, w czym ⟨jest⟩ nefesz żyjąca — ⟨⟨את⟩⟩ wszelką zieleń trawy na pokarm. I stało się tak.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "oraz całej"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zwierzynie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "całemu"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactwu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i wszystkiemu"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "co pełza"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w czym"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "żyjąca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszelką zieleń trawy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelką"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zieleń"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawy"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "na pokarm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:08:58.686899822Z",
+  "model": "glm-5.3"
+}

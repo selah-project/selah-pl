@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Zło zabija bezbożnego, a nienawidzący sprawiedliwego poniosą karę.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "zabija"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnego"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "a nienawidzący"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "poniosą karę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:10.041528603Z",
+  "model": "glm-5.3"
+}

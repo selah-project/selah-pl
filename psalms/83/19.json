@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "I niech poznają, że Ty — imię Twoje ⟨jest⟩ Jahwe — ⟨jesteś⟩ sam, Najwyższy, nad całą ⟨tę⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "I niech poznają"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najwyższy"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:24.454677941Z",
+  "model": "glm-5.3"
+}

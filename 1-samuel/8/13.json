@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ waszych córki weźmie na przyrządzające maści i na kucharki i na piekarki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waszych córki"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "waszych córki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "na przyrządzające maści"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "i na kucharki"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "i na piekarki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:13.931469286Z",
+  "model": "glm-5.3"
+}

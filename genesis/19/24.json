@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A Jahwe zesłał deszcz na Sedom i na Amorę — siarkę i ogień — od Jahwe, z niebios.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "zesłał deszcz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorę"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "siarkę"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "i ogień"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:41.844061046Z",
+  "model": "glm-5.3"
+}

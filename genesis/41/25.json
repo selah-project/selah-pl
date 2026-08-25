@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I rzekł Josef do faraona: sen faraona jeden ⟨jest⟩; ⟨את⟩ tego, co Elohim czyni, oznajmił faraonowi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, co Elohim czyni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyni"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oznajmił"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:34.916043455Z",
+  "model": "glm-5.3"
+}

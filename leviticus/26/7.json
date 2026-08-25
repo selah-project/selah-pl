@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I będziecie ścigać ⟨את⟩ swoich wrogów, i polecą przed wami od miecza.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "i będziecie ścigać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich wrogów"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "swoich wrogów"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i polecą"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "od miecza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:51.700507488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Szczęśliwi twoi mężowie, szczęśliwi ci twoi słudzy, którzy stają przed tobą nieustannie, słyszący ⟨את⟩ twoją mądrość.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwi"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "twoi mężowie"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "twoi słudzy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "którzy stają"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "słyszący"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoją mądrość"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "twoją mądrość"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:36.115114348Z",
+  "model": "glm-5.3"
+}

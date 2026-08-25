@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I usłyszał Eli ⟨את⟩ głos krzyku i rzekł: co ⟨to⟩ za głos tego zgiełku? I mąż pośpieszył się, i przyszedł, i oznajmił Eliemu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos krzyku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "krzyku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "zgiełku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "i mąż"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pośpieszył się"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eliemu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:52.914308706Z",
+  "model": "glm-5.3"
+}

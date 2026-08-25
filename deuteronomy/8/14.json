@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "i uniesie się twoje serce, i zapomnisz ⟨את⟩ Jahwe, Elohim twojego, który cię wyprowadził z ziemi Micraim, z domu niewoli",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "i uniesie się"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "twoje serce"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "i zapomnisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "który cię wyprowadził"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "niewoli"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:51.830732736Z",
+  "model": "glm-5.3"
+}

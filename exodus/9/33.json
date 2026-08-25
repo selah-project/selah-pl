@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wyszedł Mosze spośród Paro, ⟨z⟩ ⟨את⟩ miasta, i wyciągnął swoje dłonie ku Jahwe; i ustały grzmoty oraz grad, a deszcz nie został wylany na ziemię.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "i wyciągnął"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "swoje dłonie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "i ustały"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "grzmoty"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "oraz grad"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "a deszcz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "został wylany"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:37.803569029Z",
+  "model": "glm-5.3"
+}

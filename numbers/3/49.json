@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wziął Mosze ⟨את⟩ srebro odkupienia od ⟨את⟩ tych, którzy byli nadwyżką ponad wykupionych spośród lewitów.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "odkupienia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "tych, którzy byli nadwyżką"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "wykupionych"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewitów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:09.345741476Z",
+  "model": "glm-5.3"
+}

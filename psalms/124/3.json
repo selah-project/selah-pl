@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Wtedy żywcem nas połknęliby, w rozpaleniu ich gniewu przeciwko nam,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Wtedy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywcem"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "nas połknęliby"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "w rozpaleniu"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ich gniewu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "przeciwko nam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:30.441604655Z",
+  "model": "glm-5.3"
+}

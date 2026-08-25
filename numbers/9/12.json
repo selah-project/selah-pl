@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Nie zostawią z niego nic do rana, i kości w nim nie złamią; według całego statutu Pesach uczynią ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "zostawią"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "i kości"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "złamią"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według całego"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statutu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "uczynią"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:19.414913725Z",
+  "model": "glm-5.3"
+}

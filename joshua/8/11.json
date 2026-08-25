@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I cały lud wojenny, który ⟨את⟩-nim był, wstąpił i przystąpił, i przyszedł naprzeciw miasta, i rozbili obóz od północy od Haj — a dolina ⟨była⟩ między nim a Haj.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "wojenny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wstąpił"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "i przystąpił"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "od północy"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "od Haj"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "a dolina"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "między nim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:47.519118647Z",
+  "model": "glm-5.3"
+}

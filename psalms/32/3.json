@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Gdy milczałem, więdły moje kości, przez moje wycie ⟨przez⟩ cały dzień.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "milczałem"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "więdły"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moje kości"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "przez moje wycie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.480057728Z",
+  "model": "glm-5.3"
+}

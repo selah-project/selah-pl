@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Dawidowi. Pouczający ⟨maskil⟩. Szczęśliwy ten, którego przewinienie ⟨jest⟩ zniesione, którego grzech ⟨jest⟩ przykryty.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pouczający"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "zniesione"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "przewinienie"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "przykryty"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "grzech"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.479533634Z",
+  "model": "glm-5.3"
+}

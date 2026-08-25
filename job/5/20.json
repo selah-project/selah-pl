@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "W głodzie wykupi cię od śmierci, a na wojnie od rąk miecza.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "W głodzie"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "wykupi cię"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "a na wojnie"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "od rąk"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:14.377898911Z",
+  "model": "glm-5.3"
+}

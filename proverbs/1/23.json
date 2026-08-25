@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Nawróćcie się na moją karćącą mowę — oto wyleję na was mojego ducha, oznajmię wam moje słowa ⟨את⟩was.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "nawróćcie się"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "na moją karćącą mowę"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "wyleję"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na was"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mojego ducha"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "oznajmię"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje słowa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:37.594860986Z",
+  "model": "glm-5.3"
+}

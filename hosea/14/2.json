@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Wróć, Jisra'elu, do Jahwe, Elohim twojego, bo potknąłeś się w winie swojej.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'elu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "potknąłeś się"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "w winie swojej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:23.153454156Z",
+  "model": "glm-5.3"
+}

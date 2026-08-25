@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Gdy wezmę ⟨wyznaczony⟩ czas, Ja — w prostocie będę sądził.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "wezmę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wyznaczony czas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "w prostocie"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "będę sądził"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:24.640321298Z",
+  "model": "glm-5.3"
+}

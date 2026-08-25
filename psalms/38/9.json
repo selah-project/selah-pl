@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Znękany jestem i starty ⟨do⟩ ⟨gruntu⟩; jęczę od zgiełku serca mego.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "znękany jestem"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "i starty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨gruntu⟩ (nadmiernie)"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "jęczę"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "od zgiełku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serca mego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.696749393Z",
+  "model": "glm-5.3"
+}

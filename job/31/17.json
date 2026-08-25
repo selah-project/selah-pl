@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "albo jeśli jadłem swój kęs sam, a sierota nie jadła z niego —",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "a jadłem"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "swój kęs"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jadła"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sierota"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:22:51.618242863Z",
+  "model": "glm-5.3"
+}

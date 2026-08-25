@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 114,
+  "translation": "Który odwraca ⟨את⟩ skałę w staw wód, krzemień w źródło wód!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Który odwraca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skałę"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "skałę"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "w staw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "krzemień"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "w źródło"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.144132763Z",
+  "model": "glm-5.3"
+}

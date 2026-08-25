@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 110,
+  "translation": "Przysiągł Jahwe i nie będzie żałował: „Ty jesteś kapłanem na wieki na słowę Malki-Cedeka”.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Przysiągł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "będzie żałował"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kapłanem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "słowę"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Cedeka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:30.473879544Z",
+  "model": "glm-5.3"
+}

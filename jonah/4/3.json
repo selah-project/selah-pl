@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A teraz, Jahwe, zabierz oto ⟨את⟩ moją nefesz ode mnie, bo lepsza moja śmierć niż moje życie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zabierz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "oto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją nefesz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepsza"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "moja śmierć"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "niż moje życie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:04.658595873Z",
+  "model": "glm-5.3"
+}

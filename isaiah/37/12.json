@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Czy wybawili ⟨את⟩ ⟨ich⟩ bogowie narodów, które zniszczyli moi ojcowie: ⟨את⟩ Gozan i ⟨את⟩ Charan, i Resef, i synów Eden, którzy ⟨są⟩ w Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "czy wybawili"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨ich⟩",
+      "marks": "bogowie narodów"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogowie"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "zniszczyli"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "moi ojcowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "i Resef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i synowie"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "w Telassar"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:43.330888600Z",
+  "model": "glm-5.3"
+}

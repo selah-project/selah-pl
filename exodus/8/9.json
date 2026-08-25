@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynił Jahwe według słowa Moszego, i pomarły żaby z domów, z podwórek i z pól.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "i pomarły"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "żaby"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domów"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "podwórek"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "pól"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:41.650496114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 101,
+  "translation": "Kto w skrytości obmawia bliźniego swego — ⟨את⟩ niego wytępię; wyniosłe oczy i szerokie serce — ⟨את⟩ niego nie zdołam znieść.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "obmawia"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w skrytości"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bliźniego swego"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wytępię (go)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "wytępię"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wyniosłe"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "i szerokie"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nie zdołam znieść (go)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zdołam znieść"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:54.020383367Z",
+  "model": "glm-5.3"
+}

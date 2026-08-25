@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Błogosławiony owoc twojego łona, i owoc twojej gleby, i owoc twojego bydła, poród twoich krów i młode twoich trzód.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "twojego łona"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "i owoc"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "twojej gleby"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "i owoc"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "twojego bydła"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "poród"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "twoich krów"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "i młode"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "twoich trzód"
+    }
+  ],
+  "timestamp": "2026-08-25T03:23:21.368537248Z",
+  "model": "glm-5.3"
+}

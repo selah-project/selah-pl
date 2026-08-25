@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Składającego ofiarę ⟨innym⟩ bogom wyklętyś ⟨wytracony⟩ — jedynie Jahwemu, jemu samemu.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "składającego ofiarę"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogom"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "wyklęty (wytracony)"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jedynie… nie (oprócz)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwemu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "jemu samemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:37.132403650Z",
+  "model": "glm-5.3"
+}

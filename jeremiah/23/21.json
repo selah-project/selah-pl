@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Nie posłałem ⟨את⟩ proroków, a oni pobiegli; nie mówiłem do nich, a oni prorokowali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "posłałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroków"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "pobiegli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "prorokowali"
+    }
+  ],
+  "timestamp": "2026-08-25T00:51:36.924485941Z",
+  "model": "glm-5.3"
+}

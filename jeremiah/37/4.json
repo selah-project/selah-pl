@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A Jeremijahu wchodził i wychodził wśród ludu, i nie dali go jeszcze do domu więzienia.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "a Jeremijahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wchodził"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wychodził"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali (go) jeszcze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "do domu więzienia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "więzienia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:59:29.686307355Z",
+  "model": "glm-5.3"
+}

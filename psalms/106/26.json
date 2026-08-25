@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I podniósł swoją rękę przeciwko nim, aby ⟨את⟩ ich powalić na pustyni.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "przeciwko nim"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "aby powalić"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:46.544389090Z",
+  "model": "glm-5.3"
+}

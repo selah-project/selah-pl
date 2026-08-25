@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I usłyszałem ⟨את⟩ głos Adonai mówiącego: ⟨את⟩ kogo poślę, i kto pójdzie ⟨za⟩ nas? I powiedziałem: Oto ja, poślij mnie!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "i usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówiącego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kogo"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "poślę"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i kto"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pójdzie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powiedziałem"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto ja"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "poślij mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:59.881398505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Bo wielka aż do niebios wierna miłość przymierza twoja, i aż do obłoków twoja wierność.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "wielka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "miłość przymierza twoja"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "obłoków"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wierność twoja"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:37.146237062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Który przysiągł Jahwe, ślubował Potężnemu Jaakowa —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Który"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysiągł"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ślubował"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Potężnemu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:18.943446479Z",
+  "model": "glm-5.3"
+}

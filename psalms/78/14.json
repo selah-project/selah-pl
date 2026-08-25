@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I prowadził ich we dnie obłokiem, a przez całą noc światłem ognia.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "I prowadził ich"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "obłokiem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "we dnie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a przez całą"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "באור",
+      "gloss": "światłem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:50.263431614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Nawet mąż mego pokoju, któremu ufałem, jedzący mój chleb, podniósł przeciwko mnie piętę.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mego pokoju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "któremu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ufałem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "jedzący"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mój chleb"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "podniósł"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "piętę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:32.760167238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I poszedł Rechawam do Szekem, bo do Szekem przyszło całe Izrael, by go królem uczynić ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechawam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "do Szekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "do Szekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszło"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "by królem uczynić"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (Rechawama)"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:02.693965048Z",
+  "model": "glm-5.3"
+}

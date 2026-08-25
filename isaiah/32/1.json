@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Oto król będzie królował w sprawiedliwości, a książęta w sądzie będą rządzić.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "w sprawiedliwości"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "będzie królował"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "a książęta"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "w sądzie"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "będą rządzić"
+    }
+  ],
+  "timestamp": "2026-08-25T00:27:21.111910785Z",
+  "model": "glm-5.3"
+}

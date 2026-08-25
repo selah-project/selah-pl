@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Dawidowi. Prowadź spór, Jahwe, ⟨את⟩ moich przeciwników; walcz ⟨את⟩ moich walczących.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "prowadź spór"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moich przeciwników"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "moich przeciwników"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "walcz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moich walczących"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "moich walczących"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.198944035Z",
+  "model": "glm-5.3"
+}

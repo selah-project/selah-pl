@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Bo jak schodzi deszcz i śnieg z niebios i tam nie wraca, lecz ⟨gdy⟩ napoił ⟨את⟩ ziemię, i poczynił ją płodną, i wyprowadził jej kiełki, i dał nasienie siewcy a chleb jedzącemu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "schodzi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deszcz"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "i śnieg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wraca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨gdy⟩"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "napoił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "i poczynił ją płodną"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "i wyprowadził jej kiełki"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nasienie"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "siewcy"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "a chleb"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jedzącemu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:20.691260358Z",
+  "model": "glm-5.3"
+}

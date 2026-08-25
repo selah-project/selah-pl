@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I będzie, gdy będzie winien jednej z ⟨tych⟩ rzeczy, wtedy wyzna, czym zgrzeszył w niej.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I będzie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "będzie winien"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "jednej"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "z ⟨tych⟩ rzeczy"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "wtedy wyzna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "czym"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zgrzeszył"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:41:47.250009137Z",
+  "model": "glm-5.3"
+}

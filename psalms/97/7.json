@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Zawstydzą się wszyscy czciciele posągu, chełpiący się bożkami; ukłonie mu oddajcie, wszyscy elohim!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "zawstydzą się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "czciciele"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "posągu"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "chełpiący się"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "bożkami"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ukłonie oddajcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:54.921358768Z",
+  "model": "glm-5.3"
+}

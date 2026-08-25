@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Bo Ty stworzyłeś moje nerki, utkałeś mnie w łonie mojej matki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "stworzyłeś"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "moje nerki"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "utkałeś mnie"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "w łonie"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mojej matki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:23.901560477Z",
+  "model": "glm-5.3"
+}

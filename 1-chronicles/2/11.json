@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Nachszon spłodził ⟨את⟩ Salmę, a Salma spłodził ⟨את⟩ Boaza.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "A Nachszon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmę"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmę"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "a Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaza"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:33.076362405Z",
+  "model": "glm-5.3"
+}

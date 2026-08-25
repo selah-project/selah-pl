@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 70,
+  "translation": "Elohimie, ⟨by⟩ mnie wyratować — Jahwe, ku pomocy mojej pośpiesz się!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "⟨by⟩ mnie wyratować"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ku pomocy mojej"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pośpiesz się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:25.304914437Z",
+  "model": "glm-5.3"
+}

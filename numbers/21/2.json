@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I złożył Israel ślub Jahwe i powiedział: jeśli rzeczywiście dasz ⟨את⟩ lud ten w moją rękę, to obłożę ⟨את⟩ ich miasta cheremem.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "i złożył ślub"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ślub"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dać"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud ten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "w moją rękę"
+    },
+    {
+      "surface": "ו החרמתי",
+      "gloss": "to obłożę cheremem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich miasta"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ich miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:23.192249575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 31:17",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Także oni ⟨את⟩ nim zstąpili do Szeolu, pośród przebitych mieczem; a jego potomstwo mieszkało w jego cieniu pośród narodów.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "z nim (przyimek zbliżenia, nie wskaźnik dopełnienia)"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zstąpili"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "do Szeolu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "przebitych"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "a jego potomstwo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "mieszkali"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "w jego cieniu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:22:41.552479841Z",
+  "model": "glm-5.3"
+}

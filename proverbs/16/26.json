@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Dusza pracująca pracuje dla niego, bo usta jego naglą go.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "dusza"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pracująca"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "pracuje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "naglą"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "usta jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:12.705464996Z",
+  "model": "glm-5.3"
+}

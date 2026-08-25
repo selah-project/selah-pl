@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Naprzeciw obrzeża były ⟨the⟩ pierścienie, domy ⟨dla⟩ drążków, by nosić ⟨את⟩ stół.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "obrzeża"
+    },
+    {
+      "surface": "היו",
+      "gloss": "były"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "⟨the⟩ pierścienie"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "⟨dla⟩ drążków"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "by nosić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ stół"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:36.151319494Z",
+  "model": "glm-5.3"
+}

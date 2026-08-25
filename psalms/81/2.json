@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Śpiewajcie radośnie Elohim, sile naszej; zgłośnijcie się Elohim Jaakowa!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Śpiewajcie radośnie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "sile naszej"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "zgłośnijcie się"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:31.077014972Z",
+  "model": "glm-5.3"
+}

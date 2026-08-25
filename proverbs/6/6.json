@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Idź do mrówki, leniwcze, spójrz na jej drogi i bądź mądry.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Idź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "mrówki"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leniwcze"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "spójrz"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "na jej drogi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "i bądź mądry"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:54.035485748Z",
+  "model": "glm-5.3"
+}

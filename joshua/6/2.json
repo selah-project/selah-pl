@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł Jahwe do Jehoszuy: Patrz, oddałem w twoją rękę ⟨את⟩ Jerycho i ⟨את⟩ króla jego — mocarzami dzielności.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszuy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Patrz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "oddałem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w twoją rękę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerycho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerycho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "króla jego"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "króla jego"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mocarzami"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "dzielności"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:01.969741024Z",
+  "model": "glm-5.3"
+}

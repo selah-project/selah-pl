@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wziął ⟨את⟩ starszych miasta oraz ⟨את⟩ ciernie pustyni i ⟨את⟩ kolczaste krzewy, i dał im poznać nimi ⟨את⟩ ludzi Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starszych miasta"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciernie pustyni"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "ciernie"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kolczaste krzewy"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "kolczaste krzewy"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i dał poznać"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludzi Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:14.901134053Z",
+  "model": "glm-5.3"
+}

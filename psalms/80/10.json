@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Oczyściłeś ⟨miejsce⟩ przed nią, i zakorzeniła się korzeniami swymi, i napełniła ziemię.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "oczyściłeś"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "przed nią"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "i zakorzeniła się"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "korzeniami swymi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napełniła"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:26.372460543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rozkazał Jehoszua ⟨את⟩ kapłanów, mówiąc: Wzejdźcie z Jardenu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I rozkazał"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapłanów"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Wzejdźcie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:16:44.309897252Z",
+  "model": "glm-5.3"
+}

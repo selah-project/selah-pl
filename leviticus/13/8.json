@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I obejrzy kapłan, a oto -- rozpostarł się strup w skórze, i uzna go kapłan za nieczystego: trąd ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i obejrzy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "rozpostarł się"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "strup"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "w skórze"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "i uzna go za nieczystego"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "trąd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:53.756334409Z",
+  "model": "glm-5.3"
+}

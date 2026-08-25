@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Wielki ⟨jest⟩ Jahwe i bardzo godny chwały, i Jego wielkości nie można zbadać.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Wielki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "i godny chwały"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "i Jego wielkości"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "zbadania"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.637761096Z",
+  "model": "glm-5.3"
+}

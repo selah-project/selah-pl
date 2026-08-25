@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I ugotowaliśmy ⟨את⟩ mojego syna i zjedliśmy go, i powiedziałam do niej: następnego dnia daj ⟨את⟩ twego syna, a zjemy go — lecz ona ukryła ⟨את⟩ swego syna.",
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "ugotowaliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojego syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mojego syna"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "zjedliśmy go"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "powiedziałam"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "następnego"
+    },
+    {
+      "surface": "תני",
+      "gloss": "daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twego syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twego syna"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "zjemy go"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "ukryła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego syna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "swego syna"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:50.644309329Z",
+  "model": "glm-5.3"
+}

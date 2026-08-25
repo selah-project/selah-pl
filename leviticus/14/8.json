@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wypra ten, który ma być oczyszczony, ⟨את⟩ swoich szat, i ogoli ⟨את⟩ cały swój włos, i obmyje się w wodzie, i będzie czysty; a potem wejdzie do obozu i będzie przebywał na zewnątrz swojego namiotu siedem dni.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "i wypra"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ten, który ma być oczyszczony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich szat"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoich szat"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "i ogoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały swój włos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "swój włos"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i obmyje się"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodzie"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i będzie czysty"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i będzie przebywał"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "swojego namiotu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:23.089565410Z",
+  "model": "glm-5.3"
+}

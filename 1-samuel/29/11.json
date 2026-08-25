@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I wstał Dawid wcześnie, on i jego ludzie, aby wyruszyć rano i powrócić do ziemi Pelisztów; a Peliszty wstąpili do Jizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "I wstał wcześnie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jego ludzie"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby wyruszyć"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "i powrócić"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "a Peliszty"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wstąpili"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "do Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:36.335641777Z",
+  "model": "glm-5.3"
+}

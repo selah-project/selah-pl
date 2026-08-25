@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Jahwe do Moszego: Przejdź przed ludem i weź z sobą ⟨את⟩ ze starszych Jisraela, i laskę twoją, którą uderzyłeś nią ⟨את⟩ rzekę — weź w rękę swoją i pójdziesz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przejdź"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "i weź"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z sobą"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ze starszych"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "i laskę twoją"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "uderzyłeś"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzekę"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rzekę"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w rękę swoją"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "i pójdziesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:16.912821253Z",
+  "model": "glm-5.3"
+}

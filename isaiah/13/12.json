@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Uczynię śmiertelnika rzadszym niż szczero złoto, a człowieka niż złoto z Ofiru.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Uczynię rzadszym"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnika"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "niż szczero złoto"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a człowieka"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "niż złoto"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "z Ofiru"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:39.288469151Z",
+  "model": "glm-5.3"
+}

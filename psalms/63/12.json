@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "A król rozraduje się w Elohim, chlubić się będzie każdy, kto przysięga na niego, bo zamknięte będzie usta mówiących kłamstwo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a król"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rozraduje się"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "w Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "chlubić się będzie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kto przysięga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "zamknięte będzie"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "mówiących"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:54.961224517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I żaden obcy nie będzie jadł ⟨z⟩ świętości; przybysz kohana i najemnik nie będą jeść ⟨z⟩ świętości.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i żaden"
+    },
+    {
+      "surface": "זר",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jadł"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "przybysz"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohana"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "i najemnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będą jeść"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:59.171576756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Kroki nasze teraz otoczyli; swoje oczy nastawili, by ⟨nas⟩ strącić na ziemię.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "kroki nasze"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "otoczyli"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "swoje oczy"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "nastawili"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "by strącić"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:59.597208496Z",
+  "model": "glm-5.3"
+}

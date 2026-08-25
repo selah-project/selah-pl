@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I posłał mąż Elohim do króla Jisraela, mówiąc: Strzeż się przejścia przez to miejsce, bo tam zstępują Aramejczycy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "strzeż się"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "przejścia"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "przez miejsce"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramejczycy"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "zstępują"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:41.303375772Z",
+  "model": "glm-5.3"
+}

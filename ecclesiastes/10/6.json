@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Głupiec postawiony na wysokich stanowiskach, a bogaci na niskim miejscu siedzą.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "postawiony"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "głupiec"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "na wysokich stanowiskach"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielu"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "a bogaci"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "na niskim miejscu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siedzą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:55.270487318Z",
+  "model": "glm-5.3"
+}

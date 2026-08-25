@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I posłał Szaul posłańców, by zabrali ⟨את⟩ Dawida, a ona powiedziała: chory on.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłańców"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "by zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a powiedziała"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "chory"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:55.079372255Z",
+  "model": "glm-5.3"
+}

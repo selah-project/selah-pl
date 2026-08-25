@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "i poślę przed tobą wysłannika, i wypędzę ⟨את⟩ Kenaanczyka, ha-Emorytego, i Chitytę, i Perizzytego, Chiwwitę i Jebusyty.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "i poślę"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "wysłannika"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "i wypędzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanczyka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanczyka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emorytego"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Chitytę"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Perizzytego"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwwitę"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusytę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:59.451095386Z",
+  "model": "glm-5.3"
+}

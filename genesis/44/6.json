@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I dogonił ich, i mówił do nich ⟨את⟩ te słowa.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "i dogonił ich"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te słowa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:15.513745022Z",
+  "model": "glm-5.3"
+}

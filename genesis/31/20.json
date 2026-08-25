@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I ukradł Jaakow ⟨את⟩ serce Lawana Aramejczyka, nie oznajmiwszy mu, że ucieka",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "I ukradł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawana"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejczyka"
+    },
+    {
+      "surface": "על",
+      "gloss": "przez"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oznajmiwszy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ucieka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:52.774854522Z",
+  "model": "glm-5.3"
+}

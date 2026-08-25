@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I ustanowił królem król Babilonu ⟨את⟩ Mattaniasza, stryja jego, zamiast niego, i odmienił ⟨את⟩ imię jego na Cidkijaszu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "i ustanowił królem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattaniasza"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattaniasza"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "stryja jego"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "zamiast niego"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i odmienił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "na Cidkijaszu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:25.843481771Z",
+  "model": "glm-5.3"
+}

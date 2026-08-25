@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I powiedzą: ponieważ opuścili ⟨את⟩ przymierze Jahwe, Elohima swego, i korzyli się bogom innym, i służyli im.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "i powiedzą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opuścili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przymierze"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohima swego"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i korzyli się"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innym"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "i służyli im"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:15.980039842Z",
+  "model": "glm-5.3"
+}

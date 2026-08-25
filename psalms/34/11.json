@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Młode lwy nędzę cierpią i głodują, lecz szukający Jahwe nie zaznaczą braku żadnego dobra.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "młode lwy"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "nędzę cierpią"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "i głodują"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "lecz szukający"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "zaznaczą braku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "żadnego"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:09.327810073Z",
+  "model": "glm-5.3"
+}

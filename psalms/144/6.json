@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Błyśnij błyskawicą i rozprosz ich, wyślij swoje strzały i wstrząśnij nimi.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Błyśnij"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "błyskawicą"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "i rozprosz ich"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyślij"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "swoje strzały"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "i wstrząśnij nimi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:25.000314200Z",
+  "model": "glm-5.3"
+}

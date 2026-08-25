@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Szczęśliwi doskonali drogą, którzy idą w Torze Jahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwi"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "doskonali"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "którzy idą"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "w Torze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:40.868692482Z",
+  "model": "glm-5.3"
+}

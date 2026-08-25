@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Wstępują góry, zstępują doliny — do miejsca, któreś dla nich ugruntował.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Wstępują"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zstępują"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "doliny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "זה",
+      "gloss": "które"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ugruntowałeś"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:52.014882472Z",
+  "model": "glm-5.3"
+}

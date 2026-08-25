@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I rzekł: Słuchajcież, domu Dawida! Czy małym ⟨jest⟩ dla was męczenie ludzi, że będziecie męczyć również ⟨את⟩ Elohim mojego?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ż"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "czy małym"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "męczenie"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "będziecie męczyć"
+    },
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mojego"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mojego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:04.900615647Z",
+  "model": "glm-5.3"
+}

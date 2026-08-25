@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Dziesięcinować będziesz dziesięcinować ⟨את⟩ cały plon twojego ziarna, wychodzący z pola, rok po roku.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dziesięcinować"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "będziesz dziesięcinować"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały plon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "plon"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "twojego ziarna"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "wychodzący"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "z pola"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "po roku"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:30.199492068Z",
+  "model": "glm-5.3"
+}

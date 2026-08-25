@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I rzekł Jehonatan do Dawida: Czego ⟨zechce⟩ nefesz twoja, a uczynię ⟨to⟩ tobie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Czego"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "⟨zechce⟩"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesz twoja"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "a uczynię"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:29.805102003Z",
+  "model": "glm-5.3"
+}

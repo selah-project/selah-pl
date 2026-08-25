@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I pokochał przekleństwo, a ⟨ono⟩ przyszło na niego, i nie chciał błogosławieństwa, a ⟨ono⟩ oddaliło się od niego.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "i pokochał"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "przekleństwo"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "a przyszło na niego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "błogosławieństwa"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "a oddaliło się"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:52.516287384Z",
+  "model": "glm-5.3"
+}

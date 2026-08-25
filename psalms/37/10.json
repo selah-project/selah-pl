@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Jeszcze chwila, a nie ma bezbożnika; przyjrzysz się jego miejscu — a jego nie ma.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Jeszcze"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chwila"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnika"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "przyjrzysz się"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "jego miejscu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "a jego nie ma"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:59.685054399Z",
+  "model": "glm-5.3"
+}

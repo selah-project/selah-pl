@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i jego zastęp oraz jego policzeni — pięć i czterdzieści tysięcy i sześćset pięćdziesiąt",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego zastęp"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "oraz jego policzeni"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "i czterdzieści"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i sześćset"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pięćdziesiąt"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:24.565323392Z",
+  "model": "glm-5.3"
+}

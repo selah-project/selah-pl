@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I przyszedł do nich Josef rano, i widział ⟨את⟩ nich, a oto byli zasmuceni.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "zasmuceni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:36.074543198Z",
+  "model": "glm-5.3"
+}

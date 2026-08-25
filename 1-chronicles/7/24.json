@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A jego córką ⟨była⟩ Szeera; zbudowała ⟨את⟩ Bet-Choron Dolny i ⟨את⟩ Górny, oraz ⟨את⟩ Ucen-Szeera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "a jego córką"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Szeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "zbudowała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Choron Dolny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Dolny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Górny"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Górny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ucen-Szeera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Ucen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Szeera"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:05.252414890Z",
+  "model": "glm-5.3"
+}

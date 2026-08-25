@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Resztkę po gazam zjadła szarańcza, a resztkę po szarańczy zjadł jej złocisty człon, a resztkę po członie zjadł chasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Resztkę"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "po gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "zjadła"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "szarańcza"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a resztkę"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "po szarańczy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "zjadł"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "jej złocisty człon"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a resztkę"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "po członie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "zjadł"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "chasil"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:21.365080953Z",
+  "model": "glm-5.3"
+}

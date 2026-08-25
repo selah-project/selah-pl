@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I wstał Dawid i cały lud, który ⟨את⟩ niego był, i przeprawili się przez ⟨את⟩ Jordan aż do światła poranka; aż jednego nie zabrakło, który by nie przeszedł przez ⟨את⟩ Jordan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I wstał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "i przeprawili się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "przez Jordan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światła"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "poranka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "zabrakło"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przeszedł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "przez Jordan"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:53.602529514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Jahwe, czym ⟨jest⟩ człowiek, że go znasz, syn śmiertelnego człowieka, że o nim myślisz?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "że go znasz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnego człowieka"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "że o nim myślisz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:19.989997923Z",
+  "model": "glm-5.3"
+}

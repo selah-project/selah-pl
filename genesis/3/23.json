@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wyprawił go Jahwe Elohim z ogrodu Eden, aby uprawiał ⟨את⟩ ziemię, z której został wzięty.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "i wyprawił go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "z ogrodu"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "aby uprawiał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "został wzięty"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:51.182376386Z",
+  "model": "glm-5.3"
+}

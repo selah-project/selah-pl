@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Słuchaj, Jahwe, i zmiłuj się nade mną; Jahwe, bądź mi pomocnikiem!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Słuchaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i zmiłuj się nade mną"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bądź"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocnikiem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:15.035687230Z",
+  "model": "glm-5.3"
+}

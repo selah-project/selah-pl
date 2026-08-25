@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł do nich: Weźcie mnie i rzućcie mnie do morza, a ucichnie morze od was — bo wiem ja, że przeze mnie ⟨ten⟩ wielki sztorm ⟨jest⟩ na was.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "weźcie mnie"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "i rzućcie mnie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "a ucichnie"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "od was"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "przeze mnie"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "sztorm"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na was"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:56.581981114Z",
+  "model": "glm-5.3"
+}

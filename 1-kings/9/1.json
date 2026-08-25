@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I stało się, gdy Szlomo skończył budować ⟨את⟩ dom Jahwe i ⟨את⟩ dom króla, i ⟨את⟩ całą radość Szlomo, którą chciał uczynić,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "gdy skończył"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "budować"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom króla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całą radość Szlomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "radość"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chciał"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "uczynić"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:46.391654874Z",
+  "model": "glm-5.3"
+}

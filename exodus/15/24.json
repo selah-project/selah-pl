@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I szemral lud przeciw Mosze, mówiąc: Cóż będziemy pić?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "I szemral"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Cóż"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "będziemy pić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:12.874804279Z",
+  "model": "glm-5.3"
+}

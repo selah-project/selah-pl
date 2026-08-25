@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I zamienił w krew ich rzeki i ich strumienie, tak że pić nie mogli.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "i zamienił"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "w krew"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "ich rzeki"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "i ich strumienie"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tak że... nie"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "pić (nie mogli)"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:53.119629067Z",
+  "model": "glm-5.3"
+}

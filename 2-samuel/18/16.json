@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I zatrąbił Joab w róg, i zawrócił lud od ścigania za Israellem, bo powstrzymał Joab ⟨את⟩ lud.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "I zatrąbił"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "w róg"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zawrócił"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "od ścigania"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israellem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "powstrzymał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:06.368983380Z",
+  "model": "glm-5.3"
+}

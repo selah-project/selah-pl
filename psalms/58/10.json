@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Zanim zrozumieją wasze garnki ciernie, jak zielone, tak płonące, wichrem je poniesie w gniewie swoim.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zrozumieją"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "wasze garnki"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "cierń"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zielone"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tak"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "płomień gniewu"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "wichrem je poniesie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:03.627826085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Bo każdy człowiek, który by złorzeczył ⟨את⟩ swemu ojcu i ⟨את⟩ swej matce, śmiercią niech będzie ukarany; swemu ojcu i swej matce złorzeczył — jego krew ⟨jest⟩ na nim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "złorzeczyłby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swemu ojcu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swemu ojcu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swej matce"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "swej matce"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "będzie ukarany"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swemu ojcu"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i swej matce"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "złorzeczył"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "jego krew"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:06.156539942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "i ⟨את⟩ wszystkich królów Zimri, i ⟨את⟩ wszystkich królów Elam, i ⟨את⟩ wszystkich królów Madaju",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich królów Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich królów Elam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich królów Madaju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madaju"
+    }
+  ],
+  "timestamp": "2026-08-25T00:51:30.206929754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Niech ⟨będzie⟩ ich twierdza spustoszona, w ich namiotach niech nie ⟨będzie⟩ mieszkańca.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Niech ⟨będzie⟩"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ich twierdza"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "spustoszona"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "w ich namiotach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨będzie⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mieszkaniec"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.315691714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Niech serce moje będzie doskonałe w Twoich ustawach, abym się nie zawstydził.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "doskonałe"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "w Twoich ustawach"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "się zawstydził"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:38.038642854Z",
+  "model": "glm-5.3"
+}

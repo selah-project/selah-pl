@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A w Szuszanie, ⟨w⟩ twierdzy, zabili Jehudim i wytracili pięciuset mężów.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "a w Szuszanie"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "twierdzy"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudim"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "i wytracili"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:38.680986076Z",
+  "model": "glm-5.3"
+}

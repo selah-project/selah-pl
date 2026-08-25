@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I przywrócę ⟨את⟩ los Jehudy i ⟨את⟩ los Jisraela, i odbuduję ich jak poprzednio.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "i przywrócę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los Jehudy"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "los"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "los Jisraela"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "los"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "i odbuduję ich"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "jak poprzednio"
+    }
+  ],
+  "timestamp": "2026-08-25T03:36:09.096178994Z",
+  "model": "glm-5.3"
+}

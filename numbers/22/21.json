@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wstał Bilam rano, i okulaczył ⟨את⟩ swoją oślicę, i poszedł z książętami Moabu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "i okulaczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją oślicę"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "swoją oślicę"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książętami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:33.221144654Z",
+  "model": "glm-5.3"
+}

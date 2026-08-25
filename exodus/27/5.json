@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I umieszczisz ⟨את⟩ ją pod obrzeżem ołtarza, od dołu, i będzie siatka aż do połowy ołtarza.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i umieszczisz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (siatkę)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "obrzeżem"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "od dołu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "siatka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "połowy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:55.390077754Z",
+  "model": "glm-5.3"
+}

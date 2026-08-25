@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Połóż na niego swoją dłoń — pamiętaj o bitwie, nie czyń więcej!",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "połóż"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "swoją dłoń"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamiętaj"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "o bitwie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "czyń więcej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:25:18.372153760Z",
+  "model": "glm-5.3"
+}

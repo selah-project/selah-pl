@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Synowie Naftalego, rody ich, według rodzin ich, według domu ojców ich, w liczbie imion, od syna dwudziestu lat i wzwyż, każdy wychodzący na wojnę —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synowie"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalego"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "rody ich"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według rodzin ich"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "według domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ojców ich"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "w liczbie"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "imion"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od syna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i wzwyż"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wychodzący"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "na wojnę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:06.460409528Z",
+  "model": "glm-5.3"
+}

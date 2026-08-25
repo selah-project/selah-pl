@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I rzekł król: Pośpieszcie ⟨את⟩ Hamana, by spełnić ⟨את⟩ słowo Estery. I przyszedł król oraz Haman na ucztę, którą przygotowała Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Pośpieszcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "by spełnić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estery"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "I przyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ווהמן",
+      "gloss": "oraz Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "przygotowała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:47.487276944Z",
+  "model": "glm-5.3"
+}

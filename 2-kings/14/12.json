@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I pobita została Jehuda przed Jisraelem, i uciekli mężowie do namiotów swoich.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "i pobita została"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelem"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "do namiotów swoich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:24.959254430Z",
+  "model": "glm-5.3"
+}

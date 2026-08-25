@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "Jak długo, Jahwe? Będziesz się gniewał na zawsze? Zapłonie jak ogień twoja zazdrość?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "będziesz się gniewał"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "zapłonie"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "twoja zazdrość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:41.404232650Z",
+  "model": "glm-5.3"
+}

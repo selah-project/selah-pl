@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Bo oto twoi wrogowie szumią, a twoi nienawidzący podnieśli głowę.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "twoi wrogowie"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "szumią"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "a twoi nienawidzący"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "podnieśli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:57.526742779Z",
+  "model": "glm-5.3"
+}

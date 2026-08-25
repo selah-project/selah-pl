@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Bo tego, którego ty zraniłeś, ścigali, i o bólu twojących przebitków opowiadają.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "zraniłeś"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ścigali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bólu"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "twoich przebitków"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "opowiadają"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.315910341Z",
+  "model": "glm-5.3"
+}

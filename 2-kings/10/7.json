@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I stało się, gdy przyszedł list do nich, że wzięli ⟨את⟩ synów króla i zabili siedemdziesięciu mężów, i złożyli ⟨את⟩ ich głowy w koszach, i posłali ⟨je⟩ do niego do Jizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "gdy przyszedł"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "list"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "że wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów króla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "i zabili"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "siedemdziesięciu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i złożyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich głowy"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ich głowy"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "w koszach"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i posłali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "do Jizreel"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:04.954975836Z",
+  "model": "glm-5.3"
+}

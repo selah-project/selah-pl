@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Wychodzi duch jego, wraca do ziemi swej — w dniu tym giną jego zamysły.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "wychodzi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duch jego"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wraca"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "do ziemi swej"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "giną"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "jego zamysły"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:08.079239741Z",
+  "model": "glm-5.3"
+}

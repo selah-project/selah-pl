@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Również wszyscy czekający na Ciebie nie będą zawstydzeni; zawstydzeni będą zdrajcy ⟨bez powodu⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "czekający na Ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "będą zawstydzeni"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "zawstydzeni będą"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "zdrajcy"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bez powodu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.481857898Z",
+  "model": "glm-5.3"
+}

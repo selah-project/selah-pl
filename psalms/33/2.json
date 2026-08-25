@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Wysławiajcie Jahwe harfą, na nebelu dziesięciostrunnym grajcie Mu.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "harfą"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nebelu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dziesięciostrunnym"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "grajcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:56.318720214Z",
+  "model": "glm-5.3"
+}

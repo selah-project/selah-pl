@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "I rzekł Józef do braci swoich: Ja jestem Józef. Czy jeszcze żyje ojciec mój? I nie mogli bracia jego ⟨את⟩ odpowiedzieć ⟨את⟩ mu, bo zatrwożyli się obliczem jego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braci swoich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "Czy jeszcze"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "I nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bracia jego"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "⟨את⟩ odpowiedzieć"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zatrwożyli się"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "obliczem jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:25.174962234Z",
+  "model": "glm-5.3"
+}

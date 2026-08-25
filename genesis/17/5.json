@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I nie będzie już więcej zwane ⟨את⟩ twoje imię Awram, i będzie twoje imię Awraham, bo ojcem mnóstwa narodów uczyniłem cię.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "będzie zwane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już więcej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje imię"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twoje imię"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twoje imię"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ojcem"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mnóstwa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "uczyniłem cię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:42.814278983Z",
+  "model": "glm-5.3"
+}

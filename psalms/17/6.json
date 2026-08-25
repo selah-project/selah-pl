@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Ja wzywałem cię, bo mi odpowiadasz, El; nakłoń ku mnie ucho twoje, słuchaj słów moich.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "wzywałem cię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mi odpowiadasz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nakłoń"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ucho twoje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słuchaj"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "słów moich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:37.326567493Z",
+  "model": "glm-5.3"
+}

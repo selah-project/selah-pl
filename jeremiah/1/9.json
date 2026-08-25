@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wysłał Jahwe ⟨את⟩ swoją rękę, i dotknął moich ust; i rzekł Jahwe do mnie: Oto dałem moje słowa w twoje usta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "i dotknął"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moimi ustami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje słowa"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "w twoje usta"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:04.025512618Z",
+  "model": "glm-5.3"
+}

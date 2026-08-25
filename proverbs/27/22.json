@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Jeśli ubijesz ⟨את⟩ głupiego w moździerzu, wśród ziaren, tłuczkiem, nie odstąpi od niego jego głupota.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "ubijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głupiego"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "głupiego"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "w moździerzu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "ziaren"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tłuczkiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "odstąpi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od niego"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "jego głupota"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:52.046828369Z",
+  "model": "glm-5.3"
+}

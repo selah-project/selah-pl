@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I wziął Dawid ⟨את⟩ włócznię i ⟨את⟩ dzbanek wody spod wezgłowia Szaula, i odeszli sobie; a nie było widzącego, i nie było wiedzącego, i nie było budzącego się, bo wszyscy spali, bo głęboki sen od Jahwe spadł na nich.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "włócznię"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "włócznię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dzbanek"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "dzbanek"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "spod wezgłowia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie było"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzącego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wiedzącego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie było"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "budzącego się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "spali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "głęboki sen (tardema)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "od Jahwe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "spadł"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:49.155342850Z",
+  "model": "glm-5.3"
+}

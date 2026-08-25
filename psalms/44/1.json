@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Przewodnikowi chóru, synom Koracha — pouczający poemat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pouczający poemat"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:06.370889258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Odziedziczyłem twoje świadectwa na wieki, bo ⟨są⟩ radością mojego serca — one.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "odziedziczyłem"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "twoje świadectwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radością"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mojego serca"
+    },
+    {
+      "surface": "המה",
+      "gloss": "— one"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:21.005958582Z",
+  "model": "glm-5.3"
+}

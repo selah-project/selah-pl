@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Powiedzcie Elohim: jak straszne są Twoje dzieła! W obfitości Twojej mocy będą Ci kłamać Twoi wrogowie.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Powiedzcie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "straszne"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "są Twoje dzieła"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "W obfitości"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "Twojej mocy"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "będą kłamać"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "Twoi wrogowie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:27.974640025Z",
+  "model": "glm-5.3"
+}

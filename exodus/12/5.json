@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Baranek bez skazy, samiec, syn roku, będzie wam; z owiec albo z kóz weźmiecie go.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "baranek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez skazy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samiec"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "owiec"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "albo z"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kóz"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "weźmiecie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.669833704Z",
+  "model": "glm-5.3"
+}

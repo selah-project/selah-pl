@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Umyję w niewinności moje dłonie i będę krążyć wokół ⟨את⟩ Twego ołtarza, Jahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Umyję"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "w niewinności"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "moje dłonie"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "i będę krążyć wokół"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Twego ołtarza"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "Twego ołtarza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:41.119350972Z",
+  "model": "glm-5.3"
+}

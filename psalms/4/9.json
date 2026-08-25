@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "W pokoju, razem położę się i zaśniam, bo Ty, Jahwe, sam ⟨w⟩ bezpieczeństwie mieszkać mnie czynisz.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "położę się"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "i zaśniam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "⟨w⟩ bezpieczeństwie"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "mieszkać mnie czynisz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:20.625459115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I uczynię ⟨את⟩ dom Achaba jak dom Jeroboama, syna Nebata, i jak dom Baasy, syna Achijasza.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i uczynię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Achaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "jak dom"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "i jak dom"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achijasza"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:48.891845793Z",
+  "model": "glm-5.3"
+}

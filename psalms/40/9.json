@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Czynić wolę Twoją, Elohim mój, pożądałem, a Tora Twoja ⟨jest⟩ w środku moich wnętrzności.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "czynić"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "wolę Twoją"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "pożądałem"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a Tora Twoja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "moich wnętrzności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.334916Z",
+  "model": "glm-5.3"
+}

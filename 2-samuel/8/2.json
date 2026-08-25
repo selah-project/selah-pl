@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I pobił ⟨את⟩ Moab, i mierzył ich sznurem, kładąc ich na ziemi; i zmierzył dwa sznury, by zabić, a pełny sznur, by ożywić. I stał się Moab dla Dawida sługami, dźwigającymi daninę.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "i mierzył ich"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "sznurem"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "kładąc (ich)"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "na ziemi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "i zmierzył"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "sznury"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "by zabić"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "a pełny"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "sznur"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "by ożywić"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dla Dawida"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "sługami"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dźwigającymi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daninę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:08.866297078Z",
+  "model": "glm-5.3"
+}

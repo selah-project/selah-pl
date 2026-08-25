@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "To ⟨jest⟩ moja pociecha w moim ucisku, że twoje słowo ożywiło mnie.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "To"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "moja pociecha"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "w moim ucisku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "twoje słowo"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ożywiło mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:47.667654221Z",
+  "model": "glm-5.3"
+}

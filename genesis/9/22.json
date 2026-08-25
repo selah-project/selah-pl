@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I Cham, ojciec Kenaana, zobaczył ⟨את⟩ nagość swojego ojca i opowiedział o tym dwom swoim braciom na zewnątrz.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagość"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i opowiedział o tym"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoim braciom"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na zewnątrz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:20.541689859Z",
+  "model": "glm-5.3"
+}

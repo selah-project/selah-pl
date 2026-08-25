@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Elohim mój, wołam w dzień, a nie odpowiadasz, i nocą, i nie ma dla mnie ciszy.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "w dzień"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpowiadasz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "jest ciszy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:49.641651083Z",
+  "model": "glm-5.3"
+}

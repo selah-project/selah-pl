@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I rzekł mu: Idź w pokoju. I odszedł od ⟨את⟩ niego na kibłat ziemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Idź"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "I odszedł"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "od niego"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "kibłat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:53.402524021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "Dla Dawida. Będę Ci dziękował całym moim sercem, wobec Elohim będę Ci zagrał.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dla Dawida"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Będę Ci dziękował"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moim sercem"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "będę Ci zagrał"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:38.909236064Z",
+  "model": "glm-5.3"
+}

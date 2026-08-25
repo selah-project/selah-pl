@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I rzekł Dawid do całego zgromadzenia: Błogosławcie nuż ⟨את⟩ Jahwe, Elohim waszego! I błogosławiło całe zgromadzenie Jahwe, Elohim ojców ich, i nachylili się, i pokłonili się Jahwe i królowi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "do całego"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "błogosławcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nuż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszego"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "i błogosławili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadzenie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "ojców ich"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "i nachylili się"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłonili się"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "i królowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:59:46.200408154Z",
+  "model": "glm-5.3"
+}

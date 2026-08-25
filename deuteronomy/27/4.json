@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I będzie, gdy przeprawicie się ⟨את⟩ Jarden, wystawicie ⟨את⟩ te kamienie, które ja nakazuję ⟨את⟩ wam dzisiaj, na górze Ejbal, i oblepisz ⟨את⟩ je wapnem.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I będzie"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "gdy przeprawicie się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "wystawicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te kamienie"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nakazuję"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ejbal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "i oblepisz"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "te kamienie"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "wapnem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:59.978793856Z",
+  "model": "glm-5.3"
+}

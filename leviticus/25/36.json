@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Nie weźmiesz od niego ⟨את⟩ odsetek ani zysku, i będziesz się bał swojego Elohim, i będzie żył twój brat z tobą.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "odsetek"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "odsetek"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ani zysku"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "i będziesz się bał"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "swojego Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i będzie żył"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twój brat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:11.456759696Z",
+  "model": "glm-5.3"
+}

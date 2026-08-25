@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Jeśli będziesz uciskał ⟨את⟩ moje córki, a jeśli weźmiesz żony ponad moje córki — nie ma człowieka z nami, patrz: Elohim ⟨jest⟩ świadkiem między mną a między tobą.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "będziesz uciskał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje córki"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "moje córki"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "żony"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "moje córki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "patrz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "świadkiem"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a między tobą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:38.700225607Z",
+  "model": "glm-5.3"
+}

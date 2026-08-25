@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I rzekł nasz ojciec: Wróćcie, kupcie nam trochę żywności.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nasz ojciec"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Wróćcie"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochę"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "żywności"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:04.128155728Z",
+  "model": "glm-5.3"
+}

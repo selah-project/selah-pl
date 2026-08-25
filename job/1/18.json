@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 1:18",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Póki ten mówił, a ten przyszedł i rzekł: Synowie twoi i córki twoje jedli i pili wino w domu brata swego, pierworodnego;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Póki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a ten"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "Synowie twoi"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "i córki twoje"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i pili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "brata swego"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pierworodnego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:08.513287834Z",
+  "model": "glm-5.3"
+}

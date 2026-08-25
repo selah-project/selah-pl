@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I poszedł ⟨pewien⟩ mężczyzna z rodu Lewiego, i wziął ⟨את⟩ córkę Lewiego.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z rodu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "córkę Lewiego"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:55.027268709Z",
+  "model": "glm-5.3"
+}

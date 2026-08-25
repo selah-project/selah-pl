@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I widział Elohim ⟨את⟩ ziemię, a oto zepsuta ⟨jest⟩, bo wszelkie ciało zepsuło ⟨את⟩ drogę swoją na ziemi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "I widział"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "zepsuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "zepsuło"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drogę swoją"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "drogę swoją"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:17.911938109Z",
+  "model": "glm-5.3"
+}

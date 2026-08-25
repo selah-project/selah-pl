@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I wziął pan Józefa ⟨את⟩ niego, i oddał go do domu więzienia, miejsca, gdzie więźniowie króla są więzieni; i był tam w domu więzienia.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i oddał go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "więzienia"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "więźniowie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "są więzieni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "więzienia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:41.595226234Z",
+  "model": "glm-5.3"
+}

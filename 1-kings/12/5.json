@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I rzekł do nich: Idźcie jeszcze trzy dni i wróćcie do mnie; i poszedł lud.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "i wróćcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:18.832908592Z",
+  "model": "glm-5.3"
+}

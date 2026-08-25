@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 133,
+  "translation": "Jak rosa Chermonu, która zstępuje na góry Cijjon, bo tam rozkazał Jahwe ⟨את⟩ błogosławieństwo, życie aż na zawsze.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Jak rosa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermonu"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "która zstępuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "błogosławieństwo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "błogosławieństwo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "na zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:57.423696639Z",
+  "model": "glm-5.3"
+}

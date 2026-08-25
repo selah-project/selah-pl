@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "⟨את⟩ księżyc i ⟨את⟩ gwiazdy, by rządziły nocą, bo na wieki trwa Jego chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "księżyc"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "księżyc"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "i gwiazdy"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "by rządziły"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.485604204Z",
+  "model": "glm-5.3"
+}

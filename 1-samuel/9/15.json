@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Jahwe odsłonił ⟨את⟩ ucho Szemuela dzień jeden przed przyjściem Szaula, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odsłonił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucho Szemuela"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "przyjściem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:50.659562175Z",
+  "model": "glm-5.3"
+}

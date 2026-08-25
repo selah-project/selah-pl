@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe siecze płomienie ognia.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "siece"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "płomienie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:31.620139645Z",
+  "model": "glm-5.3"
+}

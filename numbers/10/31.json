@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekł: Nie opuszczaj nas, proszę, bo ty znasz nasze rozbijanie namiotów na pustyni i będziesz nam za oczy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "opuszczaj"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nas — przedmiot czasownika „opuszczaj”"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "że"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "nasze rozbijanie namiotów"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "i będziesz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "za oczy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:19.902765387Z",
+  "model": "glm-5.3"
+}

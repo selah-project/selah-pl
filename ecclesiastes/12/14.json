@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Bo ⟨את⟩ każdy czyn Elohim wprowadzi na sąd, wraz z każdą ukrytą rzeczą, czy to dobre, czy złe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "każdy czyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "czyn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wprowadzi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sąd"
+    },
+    {
+      "surface": "על",
+      "gloss": "wraz z \/ nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ukrytą rzeczą"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy to"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:55.921953213Z",
+  "model": "glm-5.3"
+}

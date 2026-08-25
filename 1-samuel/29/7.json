@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A teraz wróć i idź w pokoju, i nie czyń złego w oczach serenów Filistynów.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idź"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "czyń"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "serenów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:00.868487384Z",
+  "model": "glm-5.3"
+}

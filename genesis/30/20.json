@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 30:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I rzekła Lea: Obdarzył mnie Elohim ⟨את⟩ darem dobrym; tym razem zamieszka ze mną mąż mój, bo urodziłam mu sześciu synów; i nazwała ⟨את⟩ imię jego Zewulun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "זבדני",
+      "gloss": "obdarzył mnie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie (darem dobrym)"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "darem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrym"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "tym razem"
+    },
+    {
+      "surface": "יזבלני",
+      "gloss": "zamieszka ze mną"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mąż mój"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "urodziłam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sześciu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zewulun"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:05.737292277Z",
+  "model": "glm-5.3"
+}

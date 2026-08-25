@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I przyszedł król z Damaszku, i ujrzał król ⟨את⟩ ołtarz, i przybliżył się król ku ołtarzowi, i wstąpił na niego.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "z Damaszku"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "i przybliżył się"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzowi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wstąpił"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:59.634126014Z",
+  "model": "glm-5.3"
+}

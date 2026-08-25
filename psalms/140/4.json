@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Ostrzą swój język jak wąż; jad żmii pod ich wargami. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Ostrzą"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "swój język"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "wąż"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "jad"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "żmii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ich wargami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:33.780069313Z",
+  "model": "glm-5.3"
+}

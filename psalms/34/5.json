@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Szukałem Jahwe, a On mnie wysłuchał i ze wszystkich moich trwożnych lęków mnie wyrwał.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Szukałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "a On mnie wysłuchał"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "i ze wszystkich"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "moich trwożnych lęków"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mnie wyrwał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:14.022904246Z",
+  "model": "glm-5.3"
+}

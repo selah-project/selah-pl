@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Budujący Jeruszalaim Jahwe, rozproszonych Izraela zbiera.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Budujący"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "rozproszonych"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "zbiera"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.696006899Z",
+  "model": "glm-5.3"
+}

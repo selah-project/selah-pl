@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Nieprzyjaciele moi mówią zło o mnie: Kiedy on umrze i zaginie imię jego?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Nieprzyjaciele moi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "לי",
+      "gloss": "o mnie"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kiedy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umrze"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "i zaginie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:54.508981457Z",
+  "model": "glm-5.3"
+}

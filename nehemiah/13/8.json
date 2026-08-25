@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I było mi to bardzo przykro, i wyrzuciłem ⟨את⟩ wszystkie sprzęty domu Towii na zewnątrz z komnaty.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "i było przykro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "i wyrzuciłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie sprzęty domu Towii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sprzęty"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Towii"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "komnaty"
+    }
+  ],
+  "timestamp": "2026-08-25T03:53:08.854367653Z",
+  "model": "glm-5.3"
+}

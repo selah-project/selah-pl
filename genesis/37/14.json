@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A rzekł mu: Idźże, zobacz ⟨את⟩ pokój twoich braci i ⟨את⟩ pokój trzody, i przynieś mi wieść. I posłał go z doliny Chebronu, i przyszedł do Szkhemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "נא",
+      "gloss": "że"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zobacz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokój twoich braci"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twoich braci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pokój trzody"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "i przynieś mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wieść"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "i posłał go"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "z doliny"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebronu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "do Szkchemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:37.925971927Z",
+  "model": "glm-5.3"
+}

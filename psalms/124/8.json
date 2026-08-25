@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Pomoc nasza w imieniu Jahwe, który czyni niebiosa i ziemię.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "pomoc nasza"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "w imieniu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "który czyni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:20.441309020Z",
+  "model": "glm-5.3"
+}

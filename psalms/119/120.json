@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Sierści ⟨mi⟩ jeżą się z bojaźni przed Tobą, a od Twoich wyroków drżę.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "jeżą się"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "z bojaźni przed Tobą"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje ciało"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "a od Twoich wyroków"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "drżę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:19.965228396Z",
+  "model": "glm-5.3"
+}

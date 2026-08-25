@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 128,
+  "translation": "Niech Jahwe błogosławi tobie z Cijonu, i patrz na dobro Jeruszalaim przez wszystkie dni życia twego.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "niech błogosławi tobie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "z Cijonu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i patrz"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "na dobro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "życia twego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:47.147757152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Wyczerpałem się od mojego wzdychania, każdej nocy zalewam moje łoże, łzami moimi rozpuszczam moje posłanie.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "wyczerpałem się"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "od mojego wzdychania"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "zalewam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "każdej"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocy"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "moje łoże"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "łzami moimi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "moje posłanie"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "rozpuszczam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:44.229731497Z",
+  "model": "glm-5.3"
+}

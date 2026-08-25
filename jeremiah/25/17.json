@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I wziąłem ⟨את⟩ kielich z ręki Jahwe i podałem do picia wszystkim narodom, do których posłał mnie Jahwe:",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "i wziąłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kielich"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kielich"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "i podałem do picia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkim narodom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "posłał mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:52:29.121081351Z",
+  "model": "glm-5.3"
+}

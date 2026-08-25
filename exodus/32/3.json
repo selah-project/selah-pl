@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I porwali sobie cały lud ⟨את⟩ złotych kolczyków, które były w ich uszach, i przynieśli ⟨je⟩ Aharonowi.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "i porwali sobie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złotych kolczyków"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "kolczyków"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złotych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "w ich uszach"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i przynieśli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:41.124497044Z",
+  "model": "glm-5.3"
+}

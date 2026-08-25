@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo dziecko narodziło się nam, syn został nam dany, i ⟨jest⟩ władza na jego barku, i nazwano jego imię: Pele-Joec, El Gibor, Abi-Ad, Sar-SzalOM.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "narodziło się"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "został dany"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i ⟨jest⟩"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "władza"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "jego barku"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwano"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "Pele (Cud)"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "Joec (Doradca)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gibor (Mocarny)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abi (Ojciec)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ad (Wieczności)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Sar (Książę)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "SzalOM (Szalom)"
+    }
+  ],
+  "timestamp": "2026-08-25T00:22:23.957704021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I stało się, gdy król Chizkijahu usłyszał ⟨to⟩, rozdarł ⟨את⟩ swoje szaty i okrył się worzem, i wszedł do domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "i okrył się"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "worem"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:45.972423863Z",
+  "model": "glm-5.3"
+}

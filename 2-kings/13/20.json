@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I umarł Eliszua, i pogrzebali go. A wypady Moabu przychodziły do ziemi wraz z nadejściem roku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "i pogrzebali go"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "a wypady"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "przychodziły"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nadejściem"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:42.733877622Z",
+  "model": "glm-5.3"
+}

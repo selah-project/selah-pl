@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I nazbierali je w sterty, sterty na sterty, i zacuchnęła ziemia.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "i nazbierali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "sterty"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "sterty"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "i zacuchnęła"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:41.650895115Z",
+  "model": "glm-5.3"
+}

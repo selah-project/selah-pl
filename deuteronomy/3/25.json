@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Przejdźże ⟨niechaj przejdę⟩ i zobaczę ⟨את⟩ tę ziemię dobrą, która jest za Jordanem, tę górę dobrą tę i Lewanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "niechaj przejdę"
+    },
+    {
+      "surface": "נא",
+      "gloss": "że"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i zobaczę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę ziemię dobrą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobrą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanem"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobrą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "i Lewanon"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:45.218454710Z",
+  "model": "glm-5.3"
+}

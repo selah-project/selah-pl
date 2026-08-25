@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Przed nim zegną kolana mieszkańcy pustyni, a jego wrogowie proch będą lizać.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "zegną kolana"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "mieszkańcy pustyni"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "a jego wrogowie"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "proch"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "będą lizać"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:05.875398099Z",
+  "model": "glm-5.3"
+}

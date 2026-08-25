@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I poszedł Dawid i jego ludzie, Keila, i walczył z Pelisztami, i przegnał ⟨את⟩ ich bydło, i uderzył ich ciosem wielkim; i wybawił Dawid ⟨את⟩ mieszkańców Keili.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ו אנשיו",
+      "gloss": "i jego ludzie"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i walczył"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "z Pelisztami"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "i przegnał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich bydło"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ich bydło"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ciosem"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "i wybawił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców Keili"
+    },
+    {
+      "surface": "י שבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keili"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:08.746149861Z",
+  "model": "glm-5.3"
+}

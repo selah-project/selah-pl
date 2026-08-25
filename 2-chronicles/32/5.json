@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 32:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I umocnił się, i zbudował ⟨את⟩ cały mur wyłomany, i nadbudował go aż po wieże, a na zewnątrz mur drugi, i wzmocnił ⟨את⟩ Milo, miasto Dawida, i zrobił oszczepy w obfitości i tarcze.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "i umocnił się"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały mur wyłomany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mur"
+    },
+    {
+      "surface": "הפרוצה",
+      "gloss": "wyłomany"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i nadbudował"
+    },
+    {
+      "surface": "על",
+      "gloss": "aż po"
+    },
+    {
+      "surface": "המגדלות",
+      "gloss": "wieże"
+    },
+    {
+      "surface": "ולחוצה",
+      "gloss": "a na zewnątrz"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mur"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "i wzmocnił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "oszczepy"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "w obfitości"
+    },
+    {
+      "surface": "ומגנים",
+      "gloss": "i tarcze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:10:28.811321784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Idź i zbierzesz ⟨את⟩ starszych Israela, i powiesz im: Jahwe, Elohim ojców waszych, ukazał się mi — Elohim Awrahama, Jicchaka i Jaakowa — mówiąc: Wejrzeniem wejrzałem ⟨את⟩ was i ⟨את⟩ to, co wam uczyniono w Micrajim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Idź"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i zbierzesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starszych Israela"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i powiesz"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ojców waszych"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukazał się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "i Jaakowa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Wejrzeniem"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "wejrzałem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co wam uczyniono"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "to, co uczyniono"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:34.569101605Z",
+  "model": "glm-5.3"
+}

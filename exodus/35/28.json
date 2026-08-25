@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I ⟨את⟩ wonności, i ⟨את⟩ oliwę — na światło, i na olej namaszczenia, i na kadzidło z aromatów.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wonności"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "wonności"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "oliwę"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oliwę"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "na światło"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "i na olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "i na kadzidło"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "z aromatów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:30.641936496Z",
+  "model": "glm-5.3"
+}

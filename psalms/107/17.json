@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Głupcy przez drogę swego buntu i przez swoje winy są dręczeni.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Głupcy"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "przez drogę"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "swego buntu"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "i przez swoje winy"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "są dręczeni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:59.647234521Z",
+  "model": "glm-5.3"
+}

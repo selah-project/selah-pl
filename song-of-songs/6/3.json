@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Ja ⟨jestem⟩ mego miłego, a mój miły ⟨jest⟩ mój — ten, który pasie wśród lilii.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "mego miłego"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "a mój miły"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mój"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ten, który pasie"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "wśród lilii"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:29.992465536Z",
+  "model": "glm-5.3"
+}

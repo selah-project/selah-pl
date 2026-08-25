@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Ze swoimi trzodami i ze swoim bydłem pójdą szukać ⟨את⟩ Jahwe, lecz nie znajdą ⟨Go⟩ — wycofał się od nich.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ze swoimi trzodami"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "i ze swoim bydłem"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "pójdą"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "szukać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "znajdą"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "wycofał się"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:18.244514836Z",
+  "model": "glm-5.3"
+}

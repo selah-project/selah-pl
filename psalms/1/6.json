@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bo Jahwe zna drogę sprawiedliwych, a droga bezbożnych zginie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwych"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "a droga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zginie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:24.030037425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Przewodnikowi chóru. Słudze Jahwe, Dawidowi, który przemówił do Jahwe ⟨את⟩ słowa tej pieśni w dniu, gdy Jahwe wyrwał ⟨את⟩ go z ręki wszystkich jego wrogów i z ręki Szaula.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Słudze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "do Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa tej pieśni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pieśni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wyrwał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jego wrogów"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i z ręki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:57.199401673Z",
+  "model": "glm-5.3"
+}

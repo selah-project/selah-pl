@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 84,
+  "translation": "Szczęśliwy człowiek, którego siłą ⟨jest⟩ ty, szlaki pielgrzymkowe w ich sercu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "siłą"
+    },
+    {
+      "surface": "לו",
+      "gloss": "którego"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "szlaki pielgrzymkowe"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "w ich sercu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:43.531470435Z",
+  "model": "glm-5.3"
+}

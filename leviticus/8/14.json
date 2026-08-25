@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przyprowadził ⟨את⟩ cielca ⟨od grzechu⟩ ofiary za grzech, i Ahron oraz jego synowie oparli ⟨את⟩ swoje ręce na głowie cielca ofiary za grzech.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i przyprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielca"
+    },
+    {
+      "surface": "פר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "i oparli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "oraz jego synowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowie"
+    },
+    {
+      "surface": "פר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofiary za grzech"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:58.838397223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I ukłonił się Awraham przed ludem ⟨tej⟩ ziemi.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "i ukłonił się"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:03.403807439Z",
+  "model": "glm-5.3"
+}

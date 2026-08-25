@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "I rzekłem: To moja słabość ⟨jest⟩, ⟨że się zmieniła⟩ prawa ręka Najwyższego.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "moja słabość"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to ⟨jest⟩"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "⟨że się zmieniła⟩"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "prawa ręka"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najwyższego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:22.340961136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Czy nie za niewiele, znikomy czas, i odwróci się Liban w Karmel ⟨ogród⟩, a Karmel ⟨ogród⟩ za las będzie uznany?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "niewiele"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "znikomy"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i odwróci się"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Liban"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "w Karmel ⟨ogród⟩"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "a Karmel ⟨ogród⟩"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "za las"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "będzie uznany"
+    }
+  ],
+  "timestamp": "2026-08-25T00:28:02.988551999Z",
+  "model": "glm-5.3"
+}

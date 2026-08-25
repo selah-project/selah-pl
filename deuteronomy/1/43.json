@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I mówiłem do was, ale nie usłuchaliście; zbuntowaliście się przeciw ⟨את⟩ ustom Jahwe, i działaliście hardo, i wstąpiliście na górę.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "I mówiłem"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "usłuchaliście"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "zbuntowaliście się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustom Jahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ustom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "i działaliście hardo"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "i wstąpiliście"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na górę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:41.169855708Z",
+  "model": "glm-5.3"
+}

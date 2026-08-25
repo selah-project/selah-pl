@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 134,
+  "translation": "Wznieście swoje ręce ku ⟨świętości⟩, i błogosławcie ⟨את⟩ Jahwe!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Wznieście"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ku ⟨świętości⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "i błogosławcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:22.215658031Z",
+  "model": "glm-5.3"
+}

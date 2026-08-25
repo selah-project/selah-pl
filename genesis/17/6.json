@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rozmnożę cię ⟨את⟩ bardzo, bardzo, i dam cię narodom, i królowie z ciebie wyjdą.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "i rozmnożę"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "i dam cię"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "i królowie"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "z ciebie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wyjdą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:42.814535525Z",
+  "model": "glm-5.3"
+}

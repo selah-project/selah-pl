@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I nie wejdą, aby patrzeć, gdy pochłaniane ⟨את⟩ święto, i umrą.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I nie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wejdą"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby patrzeć"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "gdy pochłaniane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "święto"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "święto"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "i umrą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:54.581370074Z",
+  "model": "glm-5.3"
+}

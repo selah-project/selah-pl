@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Za jego dni zbuntował się Edom spod ręki Jehudy, i ustanowili nad sobą króla.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Za jego dni"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "zbuntował się"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "spod"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "i ustanowili króla"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad sobą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:27.772374042Z",
+  "model": "glm-5.3"
+}

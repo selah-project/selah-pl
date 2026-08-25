@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nie knuj przeciw twemu bliźniemu złego, gdy ⟨on⟩ mieszka bezpiecznie ⟨את⟩ przy tobie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "knuj"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "twemu bliźniemu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złego"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gdy ⟨on⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mieszka"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpiecznie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ przy tobie",
+      "marks": "przy tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:48.475045897Z",
+  "model": "glm-5.3"
+}

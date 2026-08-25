@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I usłyszał Jahwe głos Elijaszu, i wróciła nefesz chłopca do jego wnętrza, i ożył.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaszu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "i wróciła"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "chłopca"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "jego wnętrza"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "i ożył"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:14.045202043Z",
+  "model": "glm-5.3"
+}

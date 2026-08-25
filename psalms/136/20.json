@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "I Oga, króla Baszanu — bo na wieki ⟨trwa⟩ jego chesed.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "I Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:00.635605770Z",
+  "model": "glm-5.3"
+}

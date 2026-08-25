@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I uczynisz szaty święte dla Ahrona, brata twego, na chwałę i na ozdobę.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święte"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dla Ahrona"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata twego"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "na chwałę"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "i na ozdobę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:24.331088624Z",
+  "model": "glm-5.3"
+}

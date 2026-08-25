@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wyciągnę ⟨את⟩ moją rękę i uderzę ⟨את⟩ Micraim wszelkimi moimi cudami, które uczynię w jego wnętrzu, a potem was wypuści.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "I wyciągnę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "i uderzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wszelkimi"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "moimi cudami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "w jego wnętrzu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tym"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "wypuści"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:03.831485112Z",
+  "model": "glm-5.3"
+}

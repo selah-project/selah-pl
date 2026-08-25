@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I przygotował ⟨dla niego⟩ narzędzia śmierci, swoje strzały dla płonących sporządzi.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "i ⟨dla niego⟩"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "narzędzia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "swoje strzały"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "dla płonących"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "sporządzi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:40.132555098Z",
+  "model": "glm-5.3"
+}

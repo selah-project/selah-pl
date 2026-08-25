@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "A ja stałem się ⟨dla⟩ nich hanbą; widzą mnie — kręcą swą głową.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "stałem się"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hanbą"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "widzą mnie"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "kręcą"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "swą głową"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:27.585309846Z",
+  "model": "glm-5.3"
+}

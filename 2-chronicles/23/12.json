@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I usłyszała Atalja ⟨את⟩ głos ludu biegnącego i chwalącego ⟨את⟩ króla, i przyszła do ludu ⟨do⟩ domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "i usłyszała"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "biegnącego"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "i chwalącego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i przyszła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:54.375258534Z",
+  "model": "glm-5.3"
+}

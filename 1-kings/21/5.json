@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I przyszła do niego Izebel, jego żona, i mówiła do niego: Cóż to, że duch twój przygnębiony i nie jesz chleba?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i przyszła"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żona"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "i mówiła"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "duch twój"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "przygnębiony"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jesz"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:13.759626087Z",
+  "model": "glm-5.3"
+}

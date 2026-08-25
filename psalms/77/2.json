@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Głos mój ⟨do⟩ Elohim, i wołam; głos mój ⟨do⟩ Elohim, i niech wsłucha się we mnie.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Głos mój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "i wołam"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "i niech wsłucha się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "we mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:21.060511014Z",
+  "model": "glm-5.3"
+}

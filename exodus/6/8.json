@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I wprowadzę was ⟨את⟩ do ziemi, o której podniosłem ⟨את⟩ moją rękę, aby dać ją ⟨את⟩ Awrahamowi, Jicchakowi i Jaakowowi; i dam ją ⟨את⟩ wam na posiadłość: ja, Jahwe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "i wprowadzę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-was",
+      "marks": "do ziemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o której"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby dać"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-ją",
+      "marks": "Awrahamowi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awrahamowi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakowi"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "i Jaakowowi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-ją",
+      "marks": "wam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "na posiadłość"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:12.092185387Z",
+  "model": "glm-5.3"
+}

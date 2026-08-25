@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I rozstawisz ⟨את⟩ dziedziniec dokoła, i umieścisz ⟨את⟩ zasłonę bramy dziedzińca.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i rozstawisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziedziniec"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedziniec"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i umieścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę bramy"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedzińca"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:35.092114215Z",
+  "model": "glm-5.3"
+}

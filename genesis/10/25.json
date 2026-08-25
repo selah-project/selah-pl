@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A Ewerowi urodzili się dwaj synowie: imię jednego Peleg, bo za jego dni została podzielona ziemia, a imię jego brata Joktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "A Ewerowi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "urodzili się"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwaj"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "za jego dni"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "została podzielona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brata"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:47.235179357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Bo dwa zła uczynił mój lud: ⟨את⟩ Mnie opuścili, źródło wód żywych, by wykuć sobie cysterny, cysterny popękane, które nie zdołają wód zatrzymać.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zła"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Mnie",
+      "marks": "Mnie (אתי — marker z sufiksem 1 os.)"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opuścili"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "źródło"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "żywych"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "by wykuć"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "cysterny"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "cysterny"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "popękane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "zdołają"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód zatrzymać"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:12.378690267Z",
+  "model": "glm-5.3"
+}

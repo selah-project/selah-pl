@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Wyznacz ⟨את⟩ liczbę synów Gerszona, także ich, według domu ich ojców, według ich rodzin —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "wyznacz (podnieś)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liczbę"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "liczbę (dosł. głowę)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerszona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "według domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ich ojców"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodzin"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:39.797717267Z",
+  "model": "glm-5.3"
+}

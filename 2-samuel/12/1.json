@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I posłał Jahwe ⟨את⟩ Natana do Dawida, i przyszedł do niego, i rzekł mu: Dwaj mężowie byli w jednym mieście, jeden bogaty a jeden ubogi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwaj"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednym"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogaty"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jeden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ubogi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:12.565979774Z",
+  "model": "glm-5.3"
+}

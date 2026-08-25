@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Otwierasz ⟨את⟩ swoją rękę i nasycasz każdą istotę żywą ⟨z łaskawości⟩.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Otwierasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "i nasycasz"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "każdą"
+    },
+    {
+      "surface": "חי",
+      "gloss": "istotę żywą"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "⟨z łaskawości⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:34.861276397Z",
+  "model": "glm-5.3"
+}

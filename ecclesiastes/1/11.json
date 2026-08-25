@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Nie ma pamięci o pierwszych, i również o późniejszych, którzy będą, nie będzie pamięci wraz z tymi, którzy będą na końcu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pamięci"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "o pierwszych"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i również"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "o późniejszych"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "którzy będą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pamięć"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wraz z"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "tymi, którzy będą"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "na końcu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:30.871288363Z",
+  "model": "glm-5.3"
+}

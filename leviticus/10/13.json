@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I będziecie jeść ⟨את⟩ ją w miejscu świętym, bo to twój ustawny dział i ustawny dział twoich synów z ofiar ogniowych Jahwe, bo tak zostałem nakazany.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "i będziecie jeść"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nią (ofiara)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "twój ustawny dział"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "i ustawny dział"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "twoich synów"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "z ofiar ogniowych"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "zostałem nakazany"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:32.588322836Z",
+  "model": "glm-5.3"
+}

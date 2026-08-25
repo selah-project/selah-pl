@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I usłuchał Jahwe głosu Israela i wydał ⟨את⟩ Kanańczyka, i obłożono ich cheremem, ⟨את⟩ nich i ⟨את⟩ ich miasta; i nazwano imię tego miejsca Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłuchał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i wydał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanańczyka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanańczyka"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "i obłożono cheremem"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich miasta"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ich miasta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tego miejsca"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:23.192416181Z",
+  "model": "glm-5.3"
+}

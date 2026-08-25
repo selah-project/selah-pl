@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zrobił ⟨את⟩ drążki z drewna akacjowego, i pokrył ⟨את⟩ je złotem, by nosić ⟨את⟩ stół.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drążki"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "⟨the⟩ drążki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i pokrył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "by nosić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ stół"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:36.151440931Z",
+  "model": "glm-5.3"
+}

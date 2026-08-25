@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Jeśli duch władcy wzbiera przeciwko tobie, nie opuszczaj twego miejsca, bo ukojenie uśmierza winy wielkie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "władcy"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "wzbiera"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "przeciwko tobie"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "twego miejsca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "opuszczaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ukojenie"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "uśmierza"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "winy"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "wielkie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:20.469649984Z",
+  "model": "glm-5.3"
+}

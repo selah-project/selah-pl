@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I rzekłem: Nie będę paść ⟨את⟩ was — umierająca niech umrze, i wytracona niech będzie wytracona, a pozostałe niechaj jedzą, każda ⟨את⟩ ciało bliźniej swojej.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "będę paść"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was (za pomocą przyrostka)"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "umierająca"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "niech umrze"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "i wytracona"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "niech będzie wytracona"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "a pozostałe"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "niechaj jedzą"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "każda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciało"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "bliźniej swojej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:42:06.814023620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 31:35",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I rzekła do swego ojca: niechaj nie zapłonie gniewem mój pan, bo nie mogę wstać przed tobą, gdyż droga niewiast ⟨jest⟩ przy mnie. I szukał, ale nie znalazł ⟨את⟩ terafim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niechaj nie"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "zapłonie gniewem"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mój pan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "wstać"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "droga"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "niewiast"
+    },
+    {
+      "surface": "לי",
+      "gloss": "przy mnie"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "i szukał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "znalazł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:23.211864946Z",
+  "model": "glm-5.3"
+}

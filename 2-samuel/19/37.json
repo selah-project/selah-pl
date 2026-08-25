@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Niewiele ⟨ma⟩ przejść sługa twój ⟨את⟩ Jardén, ⟨את⟩ króla; i czemu miałby mi król odpłacić taką odpłatą?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "niewiele"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "przejść"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i czemu"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "odpłaci mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "odpłatą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "taką"
+    }
+  ],
+  "timestamp": "2026-08-24T23:51:49.130499488Z",
+  "model": "glm-5.3"
+}

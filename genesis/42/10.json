@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "A oni rzekli do niego: nie, panie mój, ale słudzy twoi przybyli, aby kupować żywność.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rzekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panie mój"
+    },
+    {
+      "surface": "ויעבדיך...",
+      "gloss": ""
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "słudzy twoi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przybyli"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "aby kupować"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "żywność"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:26.506604877Z",
+  "model": "glm-5.3"
+}

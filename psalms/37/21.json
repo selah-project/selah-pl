@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Pożycza niegodziwy i nie spłaca, a sprawiedliwy jest łaskawy i daje.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "Pożycza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "spłaca"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "a sprawiedliwy"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "jest łaskawy"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "i daje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:31.620357600Z",
+  "model": "glm-5.3"
+}

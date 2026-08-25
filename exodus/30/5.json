@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I uczynisz ⟨את⟩ drążki z drewna szittim, i okryjesz ⟨את⟩ je złotem.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drążki"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim (akacji)"
+    },
+    {
+      "surface": "וצצית",
+      "gloss": "i okryjesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:18.594696403Z",
+  "model": "glm-5.3"
+}

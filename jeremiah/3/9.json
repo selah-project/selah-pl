@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I stało się z powodu lekkości jej nierządu, że skalala ⟨את⟩ ziemię, i cudzołożyła ⟨את⟩ z kamieniem i ⟨את⟩ z drzewem.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "z powodu lekkości"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "jej nierządu"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "że skalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "i cudzołożyła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamień"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kamień"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "drzewem"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:41:28.477641146Z",
+  "model": "glm-5.3"
+}

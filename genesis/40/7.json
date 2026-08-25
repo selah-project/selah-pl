@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I spytał ⟨את⟩ dworzan Paro, którzy byli z nim w dozorze domu jego pana, mówiąc: Czemu dziś wasze oblicza są złe?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i spytał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dworzan Paro"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "dworzan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z nim"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "w dozorze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jego pana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "wasze oblicza"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "złe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:36.074743420Z",
+  "model": "glm-5.3"
+}

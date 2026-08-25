@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I uwierzył lud, i usłyszeli, że odwiedził Jahwe ⟨את⟩ synów Jisraela i że widział ⟨את⟩ ich udręczenie; i skłonili się i pokłonili się.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "I uwierzył"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "i usłyszeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "odwiedził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i że"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich udręczenie"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ich udręczenie"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "i skłonili się"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłonili się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:45.492621928Z",
+  "model": "glm-5.3"
+}

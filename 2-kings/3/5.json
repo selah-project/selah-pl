@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I stało się, gdy umarł Achab, że zbuntował się król Moabu przeciw królowi Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "gdy umarł"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "że zbuntował się"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "przeciw królowi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:08.427987550Z",
+  "model": "glm-5.3"
+}

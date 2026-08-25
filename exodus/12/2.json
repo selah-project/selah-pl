@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Ten miesiąc ⟨jest⟩ dla was głową miesięcy: pierwszy on dla was spośród miesięcy roku.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ten miesiąc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głową"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miesięcy"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pierwszy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "spośród miesięcy"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:46.594354245Z",
+  "model": "glm-5.3"
+}

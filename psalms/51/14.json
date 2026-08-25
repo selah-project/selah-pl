@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Przywróć mi radość z wyzwolenia twego, i duchem chętnym mnie podtrzymaj.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "przywróć"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radość"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "z wyzwolenia twego"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i duchem"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "chętnym"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "mnie podtrzymaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:48.194996696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Lepiej się schronić w Jahwe niż ufać człowiekowi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepiej"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "schronić się"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "niż ufać"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "człowiekowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.478851357Z",
+  "model": "glm-5.3"
+}

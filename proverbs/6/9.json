@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Jak długo, leniwcze, będziesz leżał? Kiedy wstaniesz ze swojego snu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leniwcze"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "będziesz leżał"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kiedy"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "wstaniesz"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ze swojego snu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:53.521943788Z",
+  "model": "glm-5.3"
+}

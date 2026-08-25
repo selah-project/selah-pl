@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Prawa ręka Jahwe wywyższona; prawa ręka Jahwe działa walecznie.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "Prawa ręka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "wywyższona"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "prawa ręka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "działa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "walecznie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:30.937107768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I Babilon zaprowadzi ⟨את⟩ Cidkijaszua, i tam będzie, aż go nawiedzę — wyrocznia Jahwe; choć będziecie walczyć ⟨⟨את⟩ z⟩ Kasditami, nie powiedzie się wam.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "I Babilon"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "zaprowadzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijaszua"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijaszua"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "nawiedzę"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "Cidkijaszua"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "choć"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "będziecie walczyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z",
+      "marks": "Kasditami"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasditami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "powiedzie się wam"
+    }
+  ],
+  "timestamp": "2026-08-25T00:56:30.826091247Z",
+  "model": "glm-5.3"
+}

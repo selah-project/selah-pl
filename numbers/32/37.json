@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "A synowie Reuwena zbudowali ⟨את⟩ Cheszbon oraz ⟨את⟩ Elale i ⟨את⟩ Kirjatayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a synowie"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwena"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zbudowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheszbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheszbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kirjatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatayim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:34.109597651Z",
+  "model": "glm-5.3"
+}

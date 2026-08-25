@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Czy rży dziki osioł nad świeżą trawą? Czy ryczy wół nad swoją paszą?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "czy rży"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "dziki osioł"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "świeżą trawą"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ryczy"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wół"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "swoją paszą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:52.422058888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Dziewiątego ⟨dnia⟩ miesiąca głód się wzmógł w mieście i nie było chleba dla ludu ziemi.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Dziewiątego"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "i się wzmógł"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "głód"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dla ludu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:49.605879165Z",
+  "model": "glm-5.3"
+}

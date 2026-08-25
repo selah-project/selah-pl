@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 141,
+  "translation": "Nie skłaniaj serca mego ku słowu złemu, by popełniać czyny w nieprawości ⟨את⟩ ludźmi czyniącymi nieprawość, i nie będę jadł ich przysmaków.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תט",
+      "gloss": "skłaniaj"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serca mego"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku słowu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złemu"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "by popełniać"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "czyny"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "w nieprawości"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludźmi czyniącymi nieprawość"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ludźmi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "czyniącymi"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "będę jadł"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ich przysmakach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:53.350764166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wziął Mosze ⟨את⟩ oleju namaszczenia i namaścił ⟨את⟩ przybytek i ⟨את⟩ wszystko, co w nim, i uświęcił ⟨את⟩ je.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i namaścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i uświęcił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:08.477812592Z",
+  "model": "glm-5.3"
+}

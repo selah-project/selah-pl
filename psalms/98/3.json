@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Wspomniał na swoją wierną miłość (chesed) i swoją wierność wobec domu Jisraela; ujrzały wszystkie krańce ziemi ⟨את⟩ zbawienie naszego Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wspomniał"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "swoją wierną miłość (chesed)"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "i swoją wierność"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wobec domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ujrzały"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krańce"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbawienie"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "zbawienie"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszego Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:47.532389445Z",
+  "model": "glm-5.3"
+}

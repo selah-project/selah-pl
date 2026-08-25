@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Elohim niech nam okazuje łaskę i niech nas błogosławi, niech rozświetli oblicze swoje ⟨את⟩ ⟨z⟩ nami. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "niech nam okazuje łaskę"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "i niech nas błogosławi"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "niech rozświetli"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oblicze swoje"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨z⟩ nami",
+      "marks": "nami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:32.599489036Z",
+  "model": "glm-5.3"
+}

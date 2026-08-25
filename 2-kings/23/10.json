@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I skaził ⟨את⟩ Tofet, które ⟨jest⟩ w dolinie synów Hinoma, aby nikt nie przeprowadzał ⟨את⟩ swego syna ani ⟨את⟩ swoją córkę przez ogień ku Molochowi.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "i skaził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "w dolinie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinoma"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aby nikt nie"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "przeprowadzał"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "swego syna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "swoją córkę"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "swoją córkę"
+    },
+    {
+      "surface": "באש",
+      "gloss": "przez ogień"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku Molochowi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:21.234477319Z",
+  "model": "glm-5.3"
+}

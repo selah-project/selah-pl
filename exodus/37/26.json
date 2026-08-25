@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I pokrył ⟨את⟩⟨niego⟩ czystym złotem — ⟨את⟩ jego dach i ⟨את⟩ jego ściany dokoła, oraz ⟨את⟩ jego rogi; i uczynił mu koronę ze złota dokoła.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i pokrył"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego dach"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "jego dach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego ściany"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "jego ściany"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego rogi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "jego rogi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "koronę (listwę)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze złota"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:13.569217001Z",
+  "model": "glm-5.3"
+}

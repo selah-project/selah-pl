@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Utrzymuj kroki moje na ścieżkach twoich, niech nie chwieją się stopy moje.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Utrzymuj"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kroki moje"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "na ścieżkach twoich"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "chwieją się"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "stopy moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:37.326354967Z",
+  "model": "glm-5.3"
+}

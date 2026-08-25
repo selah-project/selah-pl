@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Ogień i grad, śnieg i obłoki pary, wicher wichrowy wykonujący jego słowo.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "i grad"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "śnieg"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "i obłoki pary"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wicher"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wichrowy (burzowy)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wykonujący"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jego słowo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:36.345480477Z",
+  "model": "glm-5.3"
+}

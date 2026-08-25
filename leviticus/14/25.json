@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I zarżnie ⟨את⟩ barana ofiary winnej, i weźmie kohen z krwi ofiary winnej, i da na płatek ucha oczyszczanego, prawego, i na kciuk jego ręki prawej, i na kciuk jego nogi prawej.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zarżnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barana"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "barana"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ofiary winnej"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "i weźmie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krwi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ofiary winnej"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "płatek"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucha"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oczyszczanego"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "prawego"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kciuk"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jego ręki"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "prawej"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kciuk"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "jego nogi"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "prawej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:40.522351686Z",
+  "model": "glm-5.3"
+}

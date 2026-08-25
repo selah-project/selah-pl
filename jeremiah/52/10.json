@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "I zabił król Babelu ⟨את⟩ synów Cidkijahu na jego oczach, a także ⟨את⟩ wszystkich książąt Jehudy zabił w Ribli.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Cidkijahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "na jego oczach"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich książąt Jehudy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "w Ribli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:05:59.647019336Z",
+  "model": "glm-5.3"
+}

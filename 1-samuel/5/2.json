@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I wzięli Pelisztym ⟨את⟩ aron Elohim, i wprowadzili go do domu Dagona, i postawili go obok Dagona.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "I wzięli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i wprowadzili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "go ⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagona"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "i postawili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "go ⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "obok"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagona"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:44.814054567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Córko Babilonu, spustoszona! Szczęśliwy, kto ci odda ⟨את⟩ twoją zapłatę, jakąś odwzajemniła nam.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Córko"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonu"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "spustoszona"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "kto odda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoją zapłatę"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "twoją zapłatę"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "odwzajemniłaś"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:42.399641523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I przyszedł Jisraël do Micraim, a Jaakow przebywał jako przychodzień w ziemi Chama.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micraim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakow"
+    },
+    {
+      "surface": "גר",
+      "gloss": "przebywał jako przychodzień"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chama"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:53.998878755Z",
+  "model": "glm-5.3"
+}

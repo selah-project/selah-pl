@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "która nie usłyszy głosu zaklinaczy, najbardziej biegłego w zaklęciach czarownika.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłyszy"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "zaklinaczy"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "czarownika"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "zaklęć"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "najbardziej biegłego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.215307295Z",
+  "model": "glm-5.3"
+}

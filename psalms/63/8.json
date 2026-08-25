@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Bo byłeś mi pomocą i w cieniu Twoich skrzydeł śpiewam z radości.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "byłeś"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pomocą"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "i w cieniu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "Twoich skrzydeł"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "śpiewam z radości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:30.581565030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Jakiż pożytek ma ten, kto działa, w tym, w czym się trudzi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jakiż"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pożytek"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ten, kto działa"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "w tym, w czym"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "się trudzi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:47.548639328Z",
+  "model": "glm-5.3"
+}

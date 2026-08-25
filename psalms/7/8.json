@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I zgromadzenie ludów niech cię otoczy, a nad nim na wysokość wróć.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "I zgromadzenie"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "niech cię otoczy"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "a nad nim"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na wysokość"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "wróć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:10.428602838Z",
+  "model": "glm-5.3"
+}

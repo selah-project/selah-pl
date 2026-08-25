@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Bo wygładził ⟨to⟩ sobie w oczach swoich, ⟨by⟩ znaleźć nieprawość swoją ⟨i⟩ nienawidzić ⟨jej⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "wygładził"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w oczach swoich"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "znaleźć"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "nieprawość swoją"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nienawidzić"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:38.588205303Z",
+  "model": "glm-5.3"
+}

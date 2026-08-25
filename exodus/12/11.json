@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I tak będziecie jeść ⟨את⟩ to: biodra wasze przepasane, sandały wasze na nogach waszych i laska wasza w ręce waszej; i będziecie jeść ⟨את⟩ to w pośpiechu — Pesach to dla Jahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "i tak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "biodra wasze"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "przepasane"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandały wasze"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "na nogach waszych"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "i laska wasza"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "w ręce waszej"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "i będziecie jeść"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "w pośpiechu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.451580827Z",
+  "model": "glm-5.3"
+}

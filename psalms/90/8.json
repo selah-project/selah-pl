@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Postawiłeś nasze winy przed sobą, nasze skrytości w świetle Twojego oblicza.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Postawiłeś"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "nasze winy"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "przed sobą"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "nasze skrytości"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "w świetle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Twojego oblicza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:28.672946982Z",
+  "model": "glm-5.3"
+}

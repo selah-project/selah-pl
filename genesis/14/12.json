@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I zabrali ⟨את⟩ Lota oraz ⟨את⟩ jego dobytek — syna brata Abrama — i odeszli; a on mieszkał w Sedomie.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jego dobytek"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "jego dobytek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrama"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mieszkał"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "w Sedomie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:02.490874762Z",
+  "model": "glm-5.3"
+}

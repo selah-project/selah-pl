@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Gdy fundamenty są burzone — sprawiedliwy cóż uczynił?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "fundamenty"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "są burzone"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.258602833Z",
+  "model": "glm-5.3"
+}

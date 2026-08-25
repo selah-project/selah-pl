@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Jeśli głodny ⟨jest⟩ ten, kto cię nienawidzi, nakarm go chlebem, a jeśli spragniony, daj mu pić wodę.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "głodny"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ten, kto cię nienawidzi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "nakarm go"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "spragniony"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "daj mu pić"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:47.414194005Z",
+  "model": "glm-5.3"
+}

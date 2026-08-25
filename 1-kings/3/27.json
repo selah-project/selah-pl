@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I odpowiedział król, i rzekł: Dajcie jej ⟨את⟩ żywe dziecię, a zabijajcie go — nie, zabijcie go nie; ona ⟨jest⟩ jego matką.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpowiedział"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajcie"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żywe dziecię"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "dziecię"
+    },
+    {
+      "surface": "החי",
+      "gloss": "żywe"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a zabijajcie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "zabijcie go"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jego matką"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:19.031318124Z",
+  "model": "glm-5.3"
+}

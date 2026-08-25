@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A Pelisztym wzięli ⟨את⟩ aron Elohim i przynieśli go z Even-ha-Ezer do Aszdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "A Pelisztym"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wzięli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "i przynieśli go"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "z Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "do Aszdod"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:44.813789007Z",
+  "model": "glm-5.3"
+}

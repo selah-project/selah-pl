@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Nie weźmie się w zastaw żaren ani kamienia górnego, gdyż ⟨to⟩ życie bierze się w zastaw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "weźmie się w zastaw"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "żaren"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ani kamienia górnego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "życie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "bierze się w zastaw"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:00.828364782Z",
+  "model": "glm-5.3"
+}

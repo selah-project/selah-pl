@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 10:29",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przeszedł Jehoszua, i cały Jisraeel z nim, z Makkedy do Libny, i walczył z Libną.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "i przeszedł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ממקדה",
+      "gloss": "z Makkedy"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "do Libny"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i walczył"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libną"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:34.472322656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I położył się Szemuël aż do poranka, i otworzył ⟨את⟩ drzwi domu Jahwe; a Szemuël bał się oznajmić ⟨את⟩ widzenie Elemu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i położył się"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "poranka"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otworzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drzwi domu Jahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "drzwi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "a Szemuël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bał się"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "oznajmić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "widzenie"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "widzenie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elemu — do"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:18.631334022Z",
+  "model": "glm-5.3"
+}

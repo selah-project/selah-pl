@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Kto strzeże przykazania, nie pozna złej rzeczy, a czas i sąd zna serce mędrca.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "strzeże"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "przykazania"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a czas"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i sąd"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mędrca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:35.472085649Z",
+  "model": "glm-5.3"
+}

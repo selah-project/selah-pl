@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 146,
+  "translation": "Chwalcie Jah! Chwal, duszo moja, ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "chwal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:08.078676819Z",
+  "model": "glm-5.3"
+}

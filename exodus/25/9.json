@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Według wszystkiego, które ja ⟨את⟩ tobie pokazuję — ⟨את⟩ wzór Przybytku i ⟨את⟩ wzór wszystkich jego naczyń — tak zróbcie.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "pokazuję"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wzór Przybytku"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "wzór"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Przybytku"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "wzór wszystkich jego naczyń"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "wzór"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczyń"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zróbcie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:52.653105715Z",
+  "model": "glm-5.3"
+}

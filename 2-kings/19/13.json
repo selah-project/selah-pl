@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Gdzie ⟨jest⟩ król Chamat, i król Arpad, i król miasta Sefarwajim, Hena i Iwwa?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Gdzie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "i Iwwa"
+    }
+  ],
+  "timestamp": "2026-08-25T00:15:47.499294382Z",
+  "model": "glm-5.3"
+}

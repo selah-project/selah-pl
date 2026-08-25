@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Strzeżcie pilnować ⟨את⟩ przykazań Jahwe, Elohim waszych, i ⟨את⟩ Jego świadectw i Jego ustaw, które ci przykazał.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "strzeż"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "pilnować będziecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazań"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "przykazań"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszych"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "i Jego świadectw"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "i Jego ustaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ci przykazał"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:23.235880740Z",
+  "model": "glm-5.3"
+}

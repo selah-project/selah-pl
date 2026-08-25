@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "⟨את⟩ Ich owce, i ⟨את⟩ ich bydło, i ⟨את⟩ ich osły, i ⟨את⟩ to, co w mieście, i ⟨את⟩ to, co na polu, wzięli.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ich owce"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Ich owce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich bydło"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ich bydło"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich osły"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ich osły"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co w mieście"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "to, co na polu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wzięli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:05.855678745Z",
+  "model": "glm-5.3"
+}

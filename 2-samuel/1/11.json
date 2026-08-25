@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uchwycił Dawid swoje szaty i rozdarł je, również wszyscy mężowie, którzy byli ⟨את⟩ nim.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i uchwycił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "i rozdarł je"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "również"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "mężowie z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:55.429867543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "i ⟨את⟩ ołtarz kadzenia i ⟨את⟩ jego drążki, oraz ⟨את⟩ olej namaszczenia i ⟨את⟩ kadzidło woni, i ⟨את⟩ zasłonę wejścia na wejście do przybytku;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ołtarz kadzenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadzenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego drążki"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "jego drążki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "olej namaszczenia"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kadzidło woni"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadzidło"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "woni (korzeni)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zasłonę wejścia"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zasłona"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na wejście"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "do przybytku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:37.071821199Z",
+  "model": "glm-5.3"
+}

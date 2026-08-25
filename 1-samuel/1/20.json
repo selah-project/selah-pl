@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stało się przy obrocie dni, że poczęła Channa, i urodziła syna, i nazwała ⟨את⟩ jego imię Szemuel: bo od Jahwe go wyprosiłam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "przy obrocie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego imię"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "go wyprosiłam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:28.317999613Z",
+  "model": "glm-5.3"
+}

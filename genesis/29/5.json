@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I rzekł do nich: Czy znacie ⟨את⟩ Lawana, syna Nachora? A oni rzekli: Znamy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Czy znacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lawana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachora"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "A oni rzekli"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Znamy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:59.183109662Z",
+  "model": "glm-5.3"
+}

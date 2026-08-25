@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "A te ⟨są⟩ dzieje Esawa, ojca Edomu, w górze Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A te"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "dzieje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:46.331761382Z",
+  "model": "glm-5.3"
+}

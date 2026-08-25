@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Jeśli chmury się napełnią deszczem, na ziemię go wyleją; a jeśli drzewo runie na południe, a jeśli na północ — na miejscu, gdzie drzewo runie, tam ⟨ono⟩ będzie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "się napełnią"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "chmury"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "deszczem"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "go wyleją"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "runie"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewo"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "na południe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "na północ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na miejscu"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "gdzie runie"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨ono⟩ będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:30.127340890Z",
+  "model": "glm-5.3"
+}

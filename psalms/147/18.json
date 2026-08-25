@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Posyła słowo swoje i je topi; daje wiać wiatrowi swemu — płyną wody.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Posyła"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "słowo swoje"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "i je topi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "daje wiać"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "wiatrowi swemu"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "płyną"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:24.199833602Z",
+  "model": "glm-5.3"
+}

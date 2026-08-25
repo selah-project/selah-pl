@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A Noach znalazł łaskę w oczach Jahwe.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "A Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "znalazł"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaskę"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:28.079215553Z",
+  "model": "glm-5.3"
+}

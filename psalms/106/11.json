@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I okryły wody ich ciemięzców — ani jeden z nich nie pozostał.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "i okryły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ich ciemięzców"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ani jeden"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "pozostał"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:41.686725941Z",
+  "model": "glm-5.3"
+}

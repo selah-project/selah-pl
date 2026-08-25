@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Wołają, lecz nie ma wybawcy; do Jahwe — lecz im nie odpowiedział.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "wołają"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lecz nie ma"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "wybawcy"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "odpowiedział im"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:17.302823065Z",
+  "model": "glm-5.3"
+}

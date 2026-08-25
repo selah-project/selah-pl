@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "rzemieślnikom i budowniczym i murarzom, oraz na zakup drzewa i kamienia ciosanego, aby umocnić ⟨את⟩ dom",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "rzemieślnikom"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "i budowniczym"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "i murarzom"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "oraz na zakup"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "i kamienia"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "ciosanego"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "aby umocnić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:28.405415396Z",
+  "model": "glm-5.3"
+}

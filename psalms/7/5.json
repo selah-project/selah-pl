@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jeśli odwzajemniłem złem pokój mój, i jeśli wyrwałem nieprzyjaciela mego bez powodu,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "odwzajemniłem"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "pokój mój"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złem"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "i wyrwałem"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "nieprzyjaciela mego"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bez powodu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:10.427655987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 90,
+  "translation": "Bo tysiąc lat w twoich oczach ⟨jest⟩ jak dzień wczorajszy, gdy przeminął, i jak straż nocna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąc"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w twoich oczach"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jak dzień"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "wczorajszy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "przeminął"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "i jak straż"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nocna"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:22.865678918Z",
+  "model": "glm-5.3"
+}

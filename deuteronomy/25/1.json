@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Gdy będzie spór między ludźmi i przystąpią do sądu, i osądzą ich, i uniewinnią ⟨את⟩ sprawiedliwego, a potępią ⟨את⟩ winowajcę.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spór"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ludźmi"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "i przystąpią"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sądu"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "i osądzą"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "i uniewinnią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sprawiedliwego"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "a potępią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winowajcę"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "winowajcę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:42.074818602Z",
+  "model": "glm-5.3"
+}

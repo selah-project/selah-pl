@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekła: Jedną prośbę małą ja proszę od ⟨את⟩ ciebie — nie odwracaj ⟨את⟩ twarzy mojej. I rzekł do niej król: Proś, matko moja, bo nie odwrócę ⟨את⟩ twarzy twojej.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I rzekła"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "prośbę"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Jedną"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "małą"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ ciebie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odwracaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twarzy mojej"
+    },
+    {
+      "surface": "פני",
+      "gloss": "twarzy mojej"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Proś"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "matko moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "odwrócę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twarzy twojej"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "twarzy twojej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:20.032254051Z",
+  "model": "glm-5.3"
+}

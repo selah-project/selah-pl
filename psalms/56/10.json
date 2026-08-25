@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Wtedy zawrócą wrogowie moi wstecz w dniu, gdy zawołam — to wiem, że Elohim ⟨jest⟩ dla mnie.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "zawrócą"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "wrogowie moi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wstecz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "gdy zawołam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.560626612Z",
+  "model": "glm-5.3"
+}

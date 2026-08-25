@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I powiedziała Abrahamowi: wypędź tę niewolnicę i ⟨את⟩ jej syna, bo nie odiedziczy syn tej niewolnicy z moim synem, z Jicchakiem.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamowi"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "wypędź"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tę niewolnicę"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jej syna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jej syna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "odzieziczy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "niewolnicy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "moim synem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchakiem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:30.736640851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Hańba złamała moje serce i zaniemogłem; i czekałem na współczującego — i nie było ⟨go⟩, i na pocieszycieli — i nie znalazłem.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "hańba"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "złamała"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "i zaniemogłem"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "i czekałem"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "na współczującego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "i na pocieszycieli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "znalazłem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:45.981122201Z",
+  "model": "glm-5.3"
+}

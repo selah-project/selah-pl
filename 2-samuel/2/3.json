@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A swoich ludzi, którzy z nim byli, wyprowadził Dawid w górę, każdego człowieka z jego domem; i zamieszkali w miastach Chewronu.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "a swoich ludzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wyprowadził w górę"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdego człowieka"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "z jego domem"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i zamieszkali"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "w miastach"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewronu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:16.953856666Z",
+  "model": "glm-5.3"
+}

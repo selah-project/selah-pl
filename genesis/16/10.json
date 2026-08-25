@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rzekł do niej anioł Jahwe: Rozmnożę, rozmnożę ⟨את⟩ twoje potomstwo i nie będzie policzone z powodu mnogości.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anioł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Rozmnożę"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "rozmnożę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje potomstwo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "twoje potomstwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "będzie policzone"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "z powodu mnogości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:04.292901273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "żałuje, więdnie ziemia; omdlewając więdnie świat; omdlewały wyżyny ludu ziemi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "żałuje"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "omdlewając"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "omdlewały"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:29.836862250Z",
+  "model": "glm-5.3"
+}

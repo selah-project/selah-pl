@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A potem ruszył lud z Chacerot i rozbili obóz na pustyni Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "a-potem"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ruszyli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "z-Chacerot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i-rozbili-obóz"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na-pustyni"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:11.140879283Z",
+  "model": "glm-5.3"
+}

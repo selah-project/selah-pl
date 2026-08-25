@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Wyprowadź lud ślepy, a oczy ⟨są u niego⟩, i głuchych, a uszy ⟨są u nich⟩.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Wyprowadź"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ślepy"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "a oczy"
+    },
+    {
+      "surface": "יש",
+      "gloss": "są"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "i głuchych"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "a uszy"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨u nich⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:53.557093347Z",
+  "model": "glm-5.3"
+}

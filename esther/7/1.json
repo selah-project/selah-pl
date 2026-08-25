@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I przyszedł król i Haman, aby pić z Esterą królową.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I przyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "i Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "aby pić"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterą"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "królową"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:03.814596881Z",
+  "model": "glm-5.3"
+}

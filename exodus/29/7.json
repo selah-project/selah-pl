@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I weźmiesz ⟨את⟩ olejek namaszczenia, i wylejesz na jego głowę, i namaścisz go.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olejek"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejek"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "i wylejesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:03.326064590Z",
+  "model": "glm-5.3"
+}

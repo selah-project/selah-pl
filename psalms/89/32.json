@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Jeśli moje ustawy zbezcześcią i moich przykazań nie będą strzec.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje ustawy"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "zbezcześcią"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "i moich przykazań"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "będą strzec"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:33.444353091Z",
+  "model": "glm-5.3"
+}

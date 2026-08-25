@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Jakże mam ci to odpuścić? Twoi synowie opuścili mnie i przysięgali ⟨את⟩ nie-bogami; nasyciłem ich, a oni cudzołożyli i tłoczą się gromadnie do domu nierządnicy.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "jakże"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "mam odpuścić"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "twoi synowie"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "opuścili mnie"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "i przysięgali"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nie-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogami"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "a nasyciłem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "synowie"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "a oni cudzołożyli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i do domu"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "nierządnicy"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "tłoczą się gromadnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:53.199681042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I dodadzą pisarze mówić do ludu, i powiedzą: Kto ⟨to⟩ mąż lękliwy i o sercu miękkim? Niech idzie i wróci do swego domu, i niech nie roztopi ⟨את⟩ serca jego braci jak serce jego.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "i dodadzą"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "pisarze"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mówić"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i powiedzą"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "lękliwy"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "i miękkie"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "niech idzie"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wróci"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swego domu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "roztopi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serca jego braci"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego braci"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "jak serce jego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:55.052534129Z",
+  "model": "glm-5.3"
+}

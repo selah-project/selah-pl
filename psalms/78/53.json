@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I wprowadził ich bezpiecznie, a nie lękali się, a ⟨את⟩ ich wrogów przykryło morze.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wprowadził bezpiecznie"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpiecznie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "lękali się"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich wrogów"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ich wrogów"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "przykryło"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:07.380261311Z",
+  "model": "glm-5.3"
+}

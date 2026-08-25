@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stało się po śmierci Szaula, a Dawid wrócił z pobicia ⟨את⟩ Amalekitów, i mieszkał Dawid w Ciklag dni dwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wrócił"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "z pobicia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekitów"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalekitów"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i mieszkał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "w Ciklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:34.389876961Z",
+  "model": "glm-5.3"
+}

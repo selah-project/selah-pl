@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Czyniący wichry swymi posłańcami, ogień płonący swymi sługami.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Czyniący"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "swymi posłańcami"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "wichry"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "swymi sługami"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "להט",
+      "gloss": "plonący"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:14.085936072Z",
+  "model": "glm-5.3"
+}

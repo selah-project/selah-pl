@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I ufają Tobie znający Twoje imię, bo nie opuściłeś szukających Ciebie, Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "I ufają"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Tobie"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "znający"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "opuściłeś"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "szukających Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:01.311340247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Jahwe otworzył swój skarbiec i wyprowadził ⟨את⟩ naczynia swego gniewu, bo dzieło ⟨to⟩ jest dla Adonai Jahwe Cewaot w ziemi Kasdytów.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "otworzył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój skarbiec"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "swój skarbiec"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "i wyprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naczynia swego gniewu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "swego gniewu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "dla Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cewaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdytów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:05:14.367180075Z",
+  "model": "glm-5.3"
+}

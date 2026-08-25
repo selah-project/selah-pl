@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Od twoich wyroków nie odstąpiłem, bo Ty mnie pouczyłeś.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "od twoich wyroków"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "odstąpiłem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "mnie pouczyłeś"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:56.610803651Z",
+  "model": "glm-5.3"
+}

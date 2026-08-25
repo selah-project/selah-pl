@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "W dniu waszej ofiary będzie zjedzona, i nazajutrz; a co pozostanie do trzeciego dnia, w ogniu będzie spalone.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "waszej ofiary"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie zjedzona"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "i nazajutrz"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "a co pozostanie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzeciego"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "będzie spalone"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.225994451Z",
+  "model": "glm-5.3"
+}

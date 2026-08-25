@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "i przynieście tam swoje całopalenia i swoje ofiary rzeźne, oraz ⟨את⟩ swoje dziesięciny, oraz ⟨את⟩ dar swojej ręki, i swoje śluby, i swoje dobrowolne dary, i pierworodne z waszego bydła i z waszych trzód.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "i przynieście"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "swoje całopalenia"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "i swoje ofiary rzeźne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swoje dziesięciny"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "swoje dziesięciny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dar swojej ręki"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "swojej ręki"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "i swoje śluby"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "i swoje dobrowolne dary"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "i pierworodne"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "z waszego bydła"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "i z waszych trzód"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:34.317803488Z",
+  "model": "glm-5.3"
+}

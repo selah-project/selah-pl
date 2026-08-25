@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Jahwe, w swym gniewie nie karć mnie i w swojej zapalczywości nie ćwicz mnie!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "w swym gniewie"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "karć mnie"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i w swojej zapalczywości"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "nie ćwicz mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:48.700227779Z",
+  "model": "glm-5.3"
+}

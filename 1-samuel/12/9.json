@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zapomnieli ⟨את⟩ Jahwe, Elohim swego, i sprzedał ⟨את⟩-ich w rękę Sisery, dowódcy wojska Chacor, i w rękę Pelisztów, i w rękę króla Moabu, i walczyli przeciwko nim.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "i zapomnieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim swego"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "i sprzedał"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ich",
+      "marks": "ich (składnik dopełnienia)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisery"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dowódcy"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wojska"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i w rękę"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i w rękę"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "בם",
+      "gloss": "przeciwko nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:35.139262805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "lecz tylko dla swego krewnego, bliskiego sobie: dla swej matki i dla swego ojca, i dla swego syna, i dla swojej córki, i dla swojego brata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "dla swego krewnego"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bliskiego"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "dla swej matki"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "i dla swego ojca"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "i dla swego syna"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "i dla swojej córki"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "i dla swojego brata"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:53.049068786Z",
+  "model": "glm-5.3"
+}

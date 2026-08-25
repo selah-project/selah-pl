@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Którzy powiedzieli: Zdobądźmy dla nas ⟨את⟩ pastwiska Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Którzy"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "powiedzieli"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Zdobądźmy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pastwiska Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pastwiska"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:43.381313565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I rzekł Aharon: Niechaj nie zapłonie gniew pana mego; ty znasz ⟨את⟩ ten lud, że jest skłonny do zła.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niechaj nie"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "zapłonie"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pana mego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "do zła"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:34.573176862Z",
+  "model": "glm-5.3"
+}

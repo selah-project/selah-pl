@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I odpowiedzieli ⟨את⟩ Jhoszue, mówiąc: Wszystko, co nam nakazałeś, uczynimy, i dokądkolwiek nas poślesz, pójdziemy.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "I odpowiedzieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jhoszue"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jhoszue"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "nam nakazałeś"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "uczynimy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ⟨dokąd⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dokądkolwiek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "nas poślesz"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pójdziemy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:09.030498403Z",
+  "model": "glm-5.3"
+}

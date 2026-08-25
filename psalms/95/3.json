@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 95,
+  "translation": "Bo El wielki ⟨jest⟩ Jahwe i Król wielki nad wszystkim, co boskie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i Król"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkim, co"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "boskie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.402058018Z",
+  "model": "glm-5.3"
+}

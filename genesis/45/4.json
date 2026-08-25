@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "I rzekł Józef do braci swoich: Podejdźcie, proszę, do mnie. I podeszli. I rzekł: Ja jestem Józef, brat wasz, którego sprzedaliście ⟨את⟩ mnie do Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braci swoich"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Podejdźcie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "I podeszli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brat wasz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sprzedaliście"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:25.175129111Z",
+  "model": "glm-5.3"
+}

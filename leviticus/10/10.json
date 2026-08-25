@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I aby rozróżniać między ⟨ה⟩świętym a między ⟨ה⟩powszechnym, i między nieczystym a między czystym.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "i aby rozróżniać"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨ה⟩świętym"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨ה⟩powszechnym"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i między"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nieczystym"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "czystym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:31.310822813Z",
+  "model": "glm-5.3"
+}

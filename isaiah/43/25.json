@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Ja, ja sam ⟨jestem⟩ ten, który wymazuje twoje buntownictwa — dla siebiesamego, a twoich grzechów nie będę wspominał.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam ⟨jestem⟩ ten"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "który wymazuje"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "twoje buntownictwa"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "dla siebiesamego"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "a twoich grzechów"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "będę wspominał"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:38.075561268Z",
+  "model": "glm-5.3"
+}

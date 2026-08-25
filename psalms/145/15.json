@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Oczy wszystkich ku Tobie wypatrują, a Ty dajesz im ⟨את⟩ ich pokarm we ⟨właściwym⟩ czasie.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Oczy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku Tobie"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "wypatrują"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "dajesz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich pokarm"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ich pokarm"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "we ⟨właściwym⟩ czasie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:34.861036356Z",
+  "model": "glm-5.3"
+}

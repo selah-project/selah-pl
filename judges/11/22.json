@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I odziedziczyli ⟨את⟩ całą granicę ha-Emoriego, od Arnonu aż do Jabboku i od pustyni aż do Jarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "i odziedziczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą granicę ha-Emoriego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "granicę"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emoriego"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "od Arnonu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabboku"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-08-24T23:29:22.967111459Z",
+  "model": "glm-5.3"
+}

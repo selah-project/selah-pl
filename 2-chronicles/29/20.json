@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I wstał rano Chizkijahu, król, i zebrał ⟨את⟩ książąt miasta, i wszedł do domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał rano"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "książąt miasta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:09:27.162158977Z",
+  "model": "glm-5.3"
+}

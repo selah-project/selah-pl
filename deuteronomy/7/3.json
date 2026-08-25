@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I nie będziesz zawierać pokrewieństwa małżeńskiego z nimi: swojej córki nie dasz synowi jego, a jego córki nie weźmiesz synowi twojemu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I nie"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "będziesz zawierać pokrewieństwa małżeńskiego"
+    },
+    {
+      "surface": "בם",
+      "gloss": "z nimi"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "swojej córki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "synowi jego"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "a jego córki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "synowi twojemu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:09.466253045Z",
+  "model": "glm-5.3"
+}

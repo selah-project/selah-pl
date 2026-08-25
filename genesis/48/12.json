@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "I wyprowadził Józef ich ⟨את⟩ spośród kolan jego, i pokłonił się ku obliczu jego na ziemię.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i wyprowadził"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "kolan jego"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłonił się"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ku obliczu jego"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:01.244560029Z",
+  "model": "glm-5.3"
+}

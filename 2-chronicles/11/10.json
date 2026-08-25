@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ Ciorę, i ⟨את⟩ Ajjalon, i ⟨את⟩ Chebron, które ⟨są⟩ w Jehudzie i w Binjaminie — miasta warowne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ciora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Ciora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ajjalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "w Jehudzie"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "i w Binjaminie"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "warowne"
+    }
+  ],
+  "timestamp": "2026-08-25T03:02:25.482867661Z",
+  "model": "glm-5.3"
+}

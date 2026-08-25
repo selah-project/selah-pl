@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I byli obydwoje nadzy, człowiek i jego żona, i nie wstydzili się.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i byli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obydwoje"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nadzy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jego żona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "wstydzili się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:08:52.446511162Z",
+  "model": "glm-5.3"
+}

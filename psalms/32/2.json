@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Szczęśliwy człowiek, któremu Jahwe nie poczytuje winy, i w którego duchu nie ⟨ma⟩ zdrady.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "poczytuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "któremu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "w jego duchu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zdrady"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.479878017Z",
+  "model": "glm-5.3"
+}

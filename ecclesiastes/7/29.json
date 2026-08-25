@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Tylko oto to znalazłem: że Elohim uczynił ⟨את⟩ człowieka prostym, a oni szukali licznych podstępów.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "znalazłem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prostym"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "szukali"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "podstępów"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "licznych"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:20.194096749Z",
+  "model": "glm-5.3"
+}

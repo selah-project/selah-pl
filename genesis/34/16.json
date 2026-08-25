@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I damy ⟨את⟩ córki nasze wam, a ⟨את⟩ córki wasze weźmiemy sobie, i będziemy mieszkać ⟨את⟩ wami, i będziemy jednym ludem.",
+  "tokens": [
+    {
+      "surface": "וונתנו",
+      "gloss": "i damy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "córki nasze"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "córki nasze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "córki wasze"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "córki wasze"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "weźmiemy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "i będziemy mieszkać"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "i będziemy"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:28.847185703Z",
+  "model": "glm-5.3"
+}

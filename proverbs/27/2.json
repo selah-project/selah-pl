@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Niech cię chwali obcy, a nie twoje usta; przybysz — a nie twoje wargi.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "niech cię chwali"
+    },
+    {
+      "surface": "זר",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twoje usta"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "przybysz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "twoje wargi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:48.295062032Z",
+  "model": "glm-5.3"
+}

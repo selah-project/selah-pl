@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Błogosławiony niech będzie Jahwe na wieki. Amen i amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amen"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:14.032155968Z",
+  "model": "glm-5.3"
+}

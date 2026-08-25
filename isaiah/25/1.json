@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Jahwe, Elohim mój, Ty ⟨jesteś⟩; wywyższam Cię, wysławiać będę imię Twoje, bo uczyniłeś cud — rady zamierzchłe, ⟨to⟩ wierność pewna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "wywyższam Cię"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "wysławiać będę"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "cud"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "rady"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "zamierzchłe"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "wierność"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "pewna"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:06.239319529Z",
+  "model": "glm-5.3"
+}

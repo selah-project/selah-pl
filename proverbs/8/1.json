@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Czyż mądrość nie woła, a roztropność nie wydaje swego głosu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "woła"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "a roztropność"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wydaje"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "swój głos"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:38.636503792Z",
+  "model": "glm-5.3"
+}

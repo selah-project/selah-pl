@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I powiedział Nawot do Achaba: Uchowaj tego ode mnie przed Jahwe, abym dawał ⟨את⟩ dziedzictwo moich ojców tobie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I powiedział"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Uchowaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "przed Jahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "abym dawał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziedzictwo moich ojców"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dziedzictwo"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "moich ojców"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:10.083485379Z",
+  "model": "glm-5.3"
+}

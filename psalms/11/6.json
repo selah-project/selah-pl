@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Będzie deszczem spuszczał na bezbożnych sidła, ogień i siarkę, i wicher żaru — ⟨to⟩ dział ich kielicha.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "będzie deszczem spuszczał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "sidła"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "i siarkę"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i wicher"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "żaru"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dział"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ich kielicha"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:27.085400712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Czyż nie jak uczyniłem Szomeronowi i jego bożkom, tak uczynię Jeruszalaim i jego ⟨jej⟩ bożkom?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "uczyniłem"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Szomeronowi"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "i jego bożkom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "i jej bożkom"
+    }
+  ],
+  "timestamp": "2026-08-25T00:21:07.868033365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 141,
+  "translation": "Niech mnie uderzy sprawiedliwy — chesed ⟨to⟩, i niech mnie przekona — olejek na głowę; niech moja głowa nie odmawia ⟨go⟩, bo jeszcze i moja modlitwa ⟨jest⟩ przy ich złych czynach.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "niech mnie uderzy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "i niech mnie przekona"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יני",
+      "gloss": "odmawia"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moja głowa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "i moja modlitwa"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "przy ich złych czynach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:43.075410716Z",
+  "model": "glm-5.3"
+}

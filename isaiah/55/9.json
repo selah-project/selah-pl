@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Bo jak niebiosa są wyższe niż ziemia, tak drogi moje wyższe są niż drogi wasze i myśli moje niż myśli wasze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "są wyższe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "niż ziemia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "wyższe są"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "drogi moje"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "niż drogi wasze"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "i myśli moje"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "niż myśli wasze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:20.690989017Z",
+  "model": "glm-5.3"
+}

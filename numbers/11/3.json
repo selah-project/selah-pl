@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I nazwał ⟨את⟩ imię owego miejsca Tabera, gdyż buchnęła w nich pożoga Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię",
+      "marks": "imię"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owego"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "buchnęła"
+    },
+    {
+      "surface": "בם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "אש",
+      "gloss": "pożoga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:42.671530847Z",
+  "model": "glm-5.3"
+}

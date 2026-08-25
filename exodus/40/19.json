@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I rozpostarł ⟨את⟩ Namiot nad Przybytkiem, i położył ⟨את⟩ pokrywę Namiotu na nim, od góry — jak Jahwe przykazał ⟨את⟩ Moszemu.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "I rozpostarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Namiot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Namiot"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Przybytkiem"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokrywę"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokrywę"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "od góry"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moszemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszemu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:55.254758198Z",
+  "model": "glm-5.3"
+}

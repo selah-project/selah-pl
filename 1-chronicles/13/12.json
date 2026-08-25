@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I uląkł się Dawid ⟨את⟩ HaElohim w dniu owym, mówiąc: Jak przyniosę do siebie ⟨את⟩ skrzynię Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "i uląkł się"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "היך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "przyniosę"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do siebie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrzynię"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrzynię"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:14.912636864Z",
+  "model": "glm-5.3"
+}

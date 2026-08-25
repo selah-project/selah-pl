@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Zapamiętaj ⟨את⟩ to, co uczynił Jahwe, Elohim twój, Mirjam, na drodze, przy wyjściu waszym z Micrajim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Zapamiętaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co uczynił Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "przy wyjściu waszym"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:24.237237519Z",
+  "model": "glm-5.3"
+}

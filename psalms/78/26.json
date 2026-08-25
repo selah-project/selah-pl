@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Wzruszył wiatr wschodni na ⟨niebiosach⟩ i powiódł mocą swoją wiatr południowy.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Wzruszył"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wiatr wschodni"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na ⟨niebiosach⟩"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "i powiódł"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "mocą swoją"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "wiatr południowy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:57.658622410Z",
+  "model": "glm-5.3"
+}

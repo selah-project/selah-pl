@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynił tak Aharon: naprzeciw oblicza menory wzniósł jej lampy, tak jak przykazał Jahwe ⟨את⟩ Mosze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menory"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wzniósł"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jej lampy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:21:01.934340922Z",
+  "model": "glm-5.3"
+}

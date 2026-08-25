@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I obrzezał Awraham ⟨את⟩ Jicchaka, syna swojego, syna ośmiu dni, jak mu nakazał ⟨את⟩ niego Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "i obrzezał"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna swojego"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ośmiu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:25.107172536Z",
+  "model": "glm-5.3"
+}

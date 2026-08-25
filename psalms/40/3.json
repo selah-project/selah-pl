@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I wyciągnął mnie z dołu hałasu, z błotnistego mułu, i postawił moje stopy na skale, utwierdził moje kroki.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "I wyciągnął mnie"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "z dołu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hałasu"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "z błotnistego"
+    },
+    {
+      "surface": "היון",
+      "gloss": "mułu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "skale"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "utwierdził"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "moje kroki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.266893752Z",
+  "model": "glm-5.3"
+}

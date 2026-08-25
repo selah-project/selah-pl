@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rozkazał Dawid zebrać ⟨את⟩ przybyszów, którzy ⟨byli⟩ w ziemi Israela, i ustanowił kamieniarzy do ciosania kamieni ciosanych na zbudowanie domu Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rozkazał"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "zebrać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybyszów"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "przybyszów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "kamieniarzy"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "do ciosania"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamieni"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ciosanych"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "na zbudowanie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:16.685714623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I poznał Josef ⟨את⟩ swoich braci, a oni go nie poznali.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich braci"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "swoich braci"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "poznali go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:40.181346488Z",
+  "model": "glm-5.3"
+}

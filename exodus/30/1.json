@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I zrobisz ołtarz do kadzenia kadzidła; z drewna szittim zrobisz ⟨את⟩ niego.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "do kadzenia"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadzidła"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim (akacji)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zrobisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:30.369916983Z",
+  "model": "glm-5.3"
+}

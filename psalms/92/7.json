@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "Człowiek ciemny nie poznaje, a głupiec nie rozumie ⟨את⟩ tego —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Człowiek"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ciemny (bydlęcy)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznaje"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a głupiec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "rozumie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:56.955647575Z",
+  "model": "glm-5.3"
+}

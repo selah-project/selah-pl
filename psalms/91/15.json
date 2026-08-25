@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Będzie Mnie wzywał, a Ja mu odpowiem; ja jestem z nim w niedoli, wyzwolę go i okryję go chwałą.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "będzie Mnie wzywał"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "a Ja mu odpowiem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "w niedoli"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "wyzwolę go"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "i okryję go chwałą"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:38.211947168Z",
+  "model": "glm-5.3"
+}

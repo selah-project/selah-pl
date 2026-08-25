@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Uciśniony jestem ja i konający od młodości, nosiłem przerażenia Twoje — ogarnięty zamętem.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "uciśniony"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem ja"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "i konający"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od młodości"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nosiłem"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "przerażenia Twoje"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ogarnięty zamętem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:25.780720373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I podniosłem ⟨את⟩ moje oczy i zobaczyłem, a oto cztery rogi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "i podniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje oczy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "i zobaczyłem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:41:01.620381301Z",
+  "model": "glm-5.3"
+}

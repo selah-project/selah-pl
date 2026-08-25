@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł do niego Jahwe: Ponieważ ja będę z tobą, i pobijesz ⟨את⟩ Midian jak jednego męża.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ja będę"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "i pobijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jak jednego męża"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:30.176793807Z",
+  "model": "glm-5.3"
+}

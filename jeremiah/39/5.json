@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 39:5",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I ścigało ich wojsko Kasdytów, i dosięgli ⟨את⟩ Cydakijasza na równinach Jerycha; i pochwycili ⟨את⟩ niego, i przyprowadzili go do Nebukadnesara, króla Bawelu, do Ribla, w ziemi Chamat, i wymówił ⟨את⟩ nim wyroki.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "i ścigało"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wojsko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdytów"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "i dosięgli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cydakijasza"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cydakijasz"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na równinach"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerycha"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i pochwycili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "Cydakijasza"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "i przyprowadzili go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnesara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawelu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "do Ribla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i wymówił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "wyroki"
+    }
+  ],
+  "timestamp": "2026-08-25T00:58:45.692206920Z",
+  "model": "glm-5.3"
+}

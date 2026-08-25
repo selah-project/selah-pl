@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 117,
+  "translation": "Bo jego wierna miłość przymierza zwyciężyła nad nami, a prawda Jahwe ⟨trwa⟩ na wieki. Hallelujah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "zwyciężyła"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego wierna miłość przymierza"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "a prawda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelujah (chwalcie)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.981503338Z",
+  "model": "glm-5.3"
+}

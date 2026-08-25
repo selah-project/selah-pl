@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Strzeż mnie jak źrenicę oka, w cieniu skrzydeł twoich ukryj mnie.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Strzeż mnie"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "jak źrenicę"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨źrenicy⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "w cieniu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "skrzydeł twoich"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ukryj mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:37.326849053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Z ust niemowląt i ssących ugruntowałeś moc, z powodu przeciwników Twoich, by uciszyć wroga i mściwcza.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Z ust"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "niemowląt"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "i ssących"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ugruntowałeś"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moc"
+    },
+    {
+      "surface": "למען",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "przeciwników Twoich"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "by uciszyć"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wroga"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "i mściwcza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:33.130185751Z",
+  "model": "glm-5.3"
+}

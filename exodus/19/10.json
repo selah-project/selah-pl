@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I rzekł Jahwe do Moszego: Idź do ludu i poświęć ich dzisiaj i jutro, i niech wyprzą szaty swoje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "i poświęć ich"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "i jutro"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "i niech wyprą"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "szaty swoje"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:50.285210269Z",
+  "model": "glm-5.3"
+}

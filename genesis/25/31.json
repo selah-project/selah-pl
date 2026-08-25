@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A Jaakow rzekł: Sprzedaj dziś ⟨את⟩ swoje pierworództwo mnie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A rzekł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Sprzedaj"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje pierworództwo"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "swoje pierworództwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:19.685247658Z",
+  "model": "glm-5.3"
+}

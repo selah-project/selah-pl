@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 141,
+  "translation": "Mizmor Dawida. Jahwe, wołałem Ciebie, pośpiesz się ku mnie, nadstaw ucha na głos mój, gdy wołam do Ciebie.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "wołałem Ciebie"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pośpiesz się"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nadstaw ucha"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "gdy wołam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "do Ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:53.350224901Z",
+  "model": "glm-5.3"
+}

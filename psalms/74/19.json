@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Nie wydawaj zwierzęciu nefesz Twojej gołębicy; żywych spośród Twych ubogich nie zapomnij na wieki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wydawaj"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "zwierzęciu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "Twojej gołębicy"
+    },
+    {
+      "surface": "חית",
+      "gloss": "żywych"
+    },
+    {
+      "surface": "ענייכ",
+      "gloss": "Twych ubogich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomnij"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:41.101701748Z",
+  "model": "glm-5.3"
+}

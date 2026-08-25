@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Bo Elohim ⟨jest⟩ sędzią: tego poniża, a tego wywyższa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sędzią"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "poniża"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a tego"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wywyższa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:35.079397735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Wstań, idź do Niniwy, ⟨את⟩ tego miasta wielkiego, i zwołaj do niego ⟨את⟩ to zwołanie, które ja mówię do ciebie.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Wstań"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwy"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tego miasta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "wielkiego"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "i zwołaj"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to zwołanie"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "to zwołanie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówię"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:39.788030157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I zasłonił król ⟨את⟩ oblicze swoje, i krzyczał król głosem wielkim: Synu mój, Awszalomie! Awszalomie, synu mój, synu mój!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "zasłonił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicze swoje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oblicze swoje"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "i krzyczał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu mój"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awszalomie"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awszalomie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu mój"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu mój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:53:24.413740074Z",
+  "model": "glm-5.3"
+}

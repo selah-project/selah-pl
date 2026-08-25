@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Aż ⟨gdy⟩ nie zaćmi się słońce i światło, i księżyc, i gwiazdy, i wrócą chmury po deszczu,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨gdy⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "zaćmi się"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "i światło"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "i księżyc"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "i gwiazdy"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i wrócą"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "chmury"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deszczu"
+    }
+  ],
+  "timestamp": "2026-08-25T04:23:04.205822648Z",
+  "model": "glm-5.3"
+}

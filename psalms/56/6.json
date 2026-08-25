@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Cały dzień szykanują moje słowa, wszystkie ich zamysły przeciwko mnie — ku złemu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje słowa"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "szykanują"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ich zamysły"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ku złemu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:56.178489085Z",
+  "model": "glm-5.3"
+}

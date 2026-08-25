@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "On zbudował ⟨את⟩ Eilot i przywrócił ⟨ją⟩ Jehudzie po zaśnięciu króla z jego ojcami.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "i przywrócił ją"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudzie"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "zaśnięciu (położeniu się)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jego ojcami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:03.896111023Z",
+  "model": "glm-5.3"
+}

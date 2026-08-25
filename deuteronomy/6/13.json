@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahwe, Elohim twojego, będziesz się bał i Jemu ⟨את⟩ będziesz służył, i w Jego imieniu będziesz przysięgał.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "będziesz się bał"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "i Jemu ⟨את⟩",
+      "marks": "będziesz służył"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "będziesz służył"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "i w Jego imieniu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "będziesz przysięgał"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:13.353195680Z",
+  "model": "glm-5.3"
+}

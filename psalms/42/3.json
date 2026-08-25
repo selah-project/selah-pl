@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Pragnie moja nefesz Elohim, za El żywego — kiedy przyjdę i ukażę się przed obliczem Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Pragnie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "za El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żywego"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kiedy"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "przyjdę"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i ukażę się"
+    },
+    {
+      "surface": "פני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:14.880105409Z",
+  "model": "glm-5.3"
+}

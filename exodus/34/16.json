@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "i brałeś z córek jego dla synów twoich, i uprawiały nierząd córki jego za ich elohim, i przywodziły do nierządu ⟨את⟩ synów twoich za ich elohim.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i brałeś"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "z córek jego"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "dla synów twoich"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "i uprawiały nierząd"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "córki jego"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ich elohim"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "i przywodziły do nierządu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów twoich"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "synów twoich"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ich elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:11.893565631Z",
+  "model": "glm-5.3"
+}

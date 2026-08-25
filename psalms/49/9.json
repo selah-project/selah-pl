@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "i zbyt drogi ⟨jest⟩ okup ich nefesz, i ustaje na zawsze —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "i-drogi"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "okup"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich-nefesz"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "i-ustaje"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na-zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:54.323677254Z",
+  "model": "glm-5.3"
+}

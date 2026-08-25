@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Będę wspominać czyny Jaha, bo wspomnę Twoje cuda z zamierzchłości.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "będę wspominać"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "czyny"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "wspomnę"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "z zamierzchłości"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "Twoje cuda"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:22.341088846Z",
+  "model": "glm-5.3"
+}

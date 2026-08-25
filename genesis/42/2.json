@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I rzekł: oto słyszałem, że jest zboże w Micrajim; zejdźcie tam i kupcie nam stamtąd, abyśmy żyli i nie pomarli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "słyszałem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zboże"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "w Micrajim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "zejdźcie"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "i kupcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "abyśmy żyli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "pomarli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:02.871442730Z",
+  "model": "glm-5.3"
+}

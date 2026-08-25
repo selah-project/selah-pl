@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Przedziwna ⟨jest⟩ ta wiedza dla mnie, wyniosła — nie zdołam jej ⟨pojąć⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "przedziwna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wiedza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "wyniosła"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zdołam"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:28.519468686Z",
+  "model": "glm-5.3"
+}

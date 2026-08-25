@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "A sprawiedliwi niech się radują, niech eksultują przed obliczem Elohim, i niech się cieszą w radości.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "A sprawiedliwi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "niech się radują"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "niech eksultują"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "i niech się cieszą"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "w radości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:35.329318996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Wołajcie radośnie, sprawiedliwi, w Jahwe; dla prostych przystoi pieśń chwały.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Wołajcie radośnie"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "dla prostych"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "przystoi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pieśń chwały"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:56.318382904Z",
+  "model": "glm-5.3"
+}

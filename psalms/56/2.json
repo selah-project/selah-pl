@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Zmiłuj się nade mną, Elohim, bo śmiertelnik mnie chłonie — cały dzień tocząc wojnę, miażdży mnie.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "zmiłuj się nade mną"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mnie chłonie"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tocząc wojnę"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "miażdży mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:26.194684925Z",
+  "model": "glm-5.3"
+}

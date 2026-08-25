@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I walczył Joab przeciwko Rabat synów Ammonu, i zdobył ⟨את⟩ miasto królewskie.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "i walczył"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "przeciwko Rabat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "królewskie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:58.256975339Z",
+  "model": "glm-5.3"
+}

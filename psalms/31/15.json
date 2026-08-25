@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "A ja na Tobie polegałem, Jahwe; powiedziałem: Elohim mój ⟨jesteś⟩ Ty.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na Tobie"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "polegałem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:42.701333537Z",
+  "model": "glm-5.3"
+}

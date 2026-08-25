@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I powiedział do ludu: bądźcie gotowi na trzeci dzień, nie zbliżajcie się do kobiety.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bądźcie"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "gotowi"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "na trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "zbliżajcie się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobiety"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:40.498754082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I wzięli Mosze i Aharon ⟨את⟩ ludzi tych, których wskazano imiennie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wzięli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludzi tych"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "których"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "wskazano"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "imiennie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:03.383314550Z",
+  "model": "glm-5.3"
+}

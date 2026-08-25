@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I wszyscy starsi tego miasta, ci, którzy ⟨są⟩ blisko zabitego, umyją ⟨את⟩ swoje ręce nad jałówką o zdartej szyi w potoku.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tego miasta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tego"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "którzy blisko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "zabitego"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "umyją"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ręce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "swoje ręce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "jałówką"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "o zdartej szyi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "w potoku"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:26.060947717Z",
+  "model": "glm-5.3"
+}

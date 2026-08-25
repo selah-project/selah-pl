@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "i przyszedł aż przed bramę królewską, bo nie ⟨było można⟩ wejść do bramy królewskiej w odzieniu z woru.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramę"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewską"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ⟨było można⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "wejść"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiej"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "w odzieniu"
+    },
+    {
+      "surface": "שק",
+      "gloss": "z woru"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:22.779513233Z",
+  "model": "glm-5.3"
+}

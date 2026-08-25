@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Bo nie pokojem mówią, a o spokojnych ziemi słowa oszustwa obmyślają.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokojem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a o"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "spokojnych"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "oszustwa"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "obmyślają"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:39.070846458Z",
+  "model": "glm-5.3"
+}

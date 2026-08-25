@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Dokoła bezbożni krążą swobodnie, gdy podlech jest wywyższane wśród synów ludzkich.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "krążą swobodnie"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "gdy podlech"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "jest wywyższane"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wśród synów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ludzkich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:51.067964166Z",
+  "model": "glm-5.3"
+}

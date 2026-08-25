@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I wynieśli ⟨את⟩ arkę, i ⟨את⟩ namiot spotkania, i ⟨את⟩ wszystkie naczynia świętości, które ⟨były⟩ w namiocie — wynieśli ⟨את⟩ je kapłani, lewici.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "i wynieśli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "namiot spotkania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkie naczynia świętości"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w namiocie"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "wynieśli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (arkę i naczynia)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "lewici"
+    }
+  ],
+  "timestamp": "2026-08-25T03:01:50.380629624Z",
+  "model": "glm-5.3"
+}

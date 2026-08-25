@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Uciekinierzy od miecza — idźcie, nie stójcie! Wspominajcie z daleka ⟨את⟩ Jahwe, a Jeruszalaim niech wstępuje na wasze serce.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "Uciekinierzy"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "stójcie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Wspominajcie"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruszalaim"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "niech wstępuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "wasze serce"
+    }
+  ],
+  "timestamp": "2026-08-25T01:06:50.762156253Z",
+  "model": "glm-5.3"
+}

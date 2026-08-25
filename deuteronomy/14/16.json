@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "⟨את⟩ sówkę, i ⟨את⟩ sowa wielkiego, i sową białą (tinszemet)",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sówkę"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "sówka (kos)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sowa wielkiego"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "sowa wielka (janszuf)"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "i sowa biała (tinszemet)"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:00.219987979Z",
+  "model": "glm-5.3"
+}

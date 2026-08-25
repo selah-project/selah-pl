@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Ten ubogi zawołał, a Jahwe go usłyszał i ze wszystkich jego ucisków go ocalił.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ten"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zawołał"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "go usłyszał"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "i ze wszystkich"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "jego ucisków"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "go ocalił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:14.023324929Z",
+  "model": "glm-5.3"
+}

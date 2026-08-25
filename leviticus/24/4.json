@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Na świeczniku czystym ułoży ⟨את⟩ lampy przed Jahwe nieustannie.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "świeczniku"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "czystym"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ułoży"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampy"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:27.888635996Z",
+  "model": "glm-5.3"
+}

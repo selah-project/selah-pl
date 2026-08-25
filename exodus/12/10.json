@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I nie zostawicie z niczego z niego aż do poranka; to, co zostanie z niego aż do poranka, w ogniu spalicie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "zostawicie"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranka"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "to, co zostanie"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "spalicie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.451401696Z",
+  "model": "glm-5.3"
+}

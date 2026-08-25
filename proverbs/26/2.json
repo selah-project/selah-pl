@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Jak wróblа przy błądzeniu, jak jaskółka przy lataniu, tak klątwa bez powodu nie przyjdzie.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "jak ptak"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "przy błądzeniu"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "jak jaskółka"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "przy lataniu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "klątwa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "przyjdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:05.279036007Z",
+  "model": "glm-5.3"
+}

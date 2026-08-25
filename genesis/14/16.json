@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I przywrócił ⟨את⟩ cały dobytek, a także ⟨את⟩ Lota, jego brata, i jego dobytek przywrócił, a także ⟨את⟩ kobiety i ⟨את⟩ lud.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i przywrócił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały dobytek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego brat"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "i jego dobytek"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "przywrócił"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobiety"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:18.519617648Z",
+  "model": "glm-5.3"
+}

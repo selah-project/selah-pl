@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Jedynie do Elohim ⟨jest⟩ milczenie mojej nefesz; od niego ⟨jest⟩ moje zbawienie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jedynie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "milczenie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "moje zbawienie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:19.793189933Z",
+  "model": "glm-5.3"
+}

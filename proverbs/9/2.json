@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Zarżnęła swój rzeźny, zmieszała swoje wino, także ustawiła swój stół.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Zarżnęła"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "swój rzeźny"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "zmieszała"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "swoje wino"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ustawiła"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "swój stół"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:43.589515498Z",
+  "model": "glm-5.3"
+}

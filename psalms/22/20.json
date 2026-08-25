@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A Ty, Jahwe, nie bądź daleko; moja Mocy, pośpiesz ku pomocy mnie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "bądź daleko"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "moja Moco"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ku pomocy mnie"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pośpiesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:54.202038853Z",
+  "model": "glm-5.3"
+}

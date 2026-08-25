@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I stało się, gdy Dawid i jego mężowie przybyli do Ciklag trzeciego dnia, że Amalekici dokonali najazdu na Negew i na Ciklag, i pobili ⟨את⟩ Ciklag, i spalili ⟨את⟩​ją ogniem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "gdy przybyli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jego mężowie"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzecim"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "i Amalekici"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "dokonali najazdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negew"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "i spalili"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Ciklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:21.735582693Z",
+  "model": "glm-5.3"
+}

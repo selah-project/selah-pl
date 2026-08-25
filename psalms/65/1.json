@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Przewodniczącemu — psalm, Dawidowi — pieśń.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodniczącemu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:28.139026540Z",
+  "model": "glm-5.3"
+}

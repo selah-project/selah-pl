@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I przystępował Pelisztynin rano i wieczorem, i stawał czterdzieści dni.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i przystępował"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelisztynin"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "rano"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "i wieczorem"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i stawał"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdzieści"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:55.380433821Z",
+  "model": "glm-5.3"
+}

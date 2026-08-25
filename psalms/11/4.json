@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Jahwe — w świątyni swojej świętości; Jahwe — na niebiosach tron swój. Oczy jego patrzą, powieki jego badają synów człowieka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "w świątyni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "swojej świętości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na niebiosach"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tron swój"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oczy jego"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "patrzą"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "powieki jego"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "badają"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.258755582Z",
+  "model": "glm-5.3"
+}

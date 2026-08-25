@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I zdobył Dawid ⟨את⟩ twierdzę Cijjon — ⟨to jest⟩ miasto Dawida.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "I zdobył"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twierdzę Cijjon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "twierdzę"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to jest⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:40.542477915Z",
+  "model": "glm-5.3"
+}

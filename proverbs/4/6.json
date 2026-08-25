@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Nie opuszczaj jej, a ⟨ona⟩ cię ⟨będzie⟩ strzec; kochaj ją, a ⟨ona⟩ cię ⟨będzie⟩ strażą otaczać.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "opuszczaj ją"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "a strzec cię"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kochaj ją"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "a otaczać cię strażą"
+    }
+  ],
+  "timestamp": "2026-08-25T05:23:15.011412593Z",
+  "model": "glm-5.3"
+}

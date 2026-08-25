@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Otchłań przyzywa otchłań do głosu twoich wodospadów; wszystkie twoje fale i twoje bałwany nade mną przeszły.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Otchłań"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przyzywa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "otchłań"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "przyzywa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "do głosu"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "twoich wodospadów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "twoje fale"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "i twoje bałwany"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "przeszły"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:10.977870892Z",
+  "model": "glm-5.3"
+}

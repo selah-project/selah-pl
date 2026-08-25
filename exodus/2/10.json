@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A gdy dziecko wyrosło, przyprowadziła je do córki Paroha, i ⟨stało się⟩ jej na syna. I nazwała jego imię Mosze, i rzekła: Bo z wód wyciągnęłam go.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "a wyrosło"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecko"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "i przyprowadziła go"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "do córki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨stało się⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "na syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "wyciągnęłam go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:25.271512611Z",
+  "model": "glm-5.3"
+}

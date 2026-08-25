@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "W dniu tym człowiek porzuci ⟨את⟩ bożki swojego srebra i ⟨את⟩ bożki swojego złota, które zrobili sobie, by się kłaniać — kretom i nietoperzom.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "porzuci"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bożki swojego srebra"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bożki"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "swojego srebra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bożki swojego złota"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bożki"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "swojego złota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zrobili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "by się kłaniać"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kretom"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "i nietoperzom"
+    }
+  ],
+  "timestamp": "2026-08-25T00:17:45.793288847Z",
+  "model": "glm-5.3"
+}

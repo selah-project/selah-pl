@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "weźmie ojciec dziewczyny i jej matka, i wyniosą ⟨את⟩ znaki dziewictwa dziewczyny do starszych miasta, do bramy,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dziewczyny"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i jej matka"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "i wyniosą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "znaki dziewictwa dziewczyny"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "znaki dziewictwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dziewczyny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "do bramy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:53.584834406Z",
+  "model": "glm-5.3"
+}

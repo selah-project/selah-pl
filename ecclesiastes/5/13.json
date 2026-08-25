@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i ginie ów majątek w złym trudu, i ⟨on⟩ spłodził syna, a niczego nie ma w swojej ręce.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "i ginie"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ów majątek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ów"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "w trudu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złym"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "i spłodził"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w swojej ręce"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niczego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:47.399134038Z",
+  "model": "glm-5.3"
+}

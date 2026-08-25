@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A teraz: mój ojciec obciążał was jarzmem ciężkim, a ja dodam do waszego jarzma; mój ojciec karał ⟨את⟩ was biczykami, a ja karać będę ⟨את⟩ was skorpionami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mój ojciec"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "obciążał"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "was"
+    },
+    {
+      "surface": "על",
+      "gloss": "jarzmem"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężkim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "dodam"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "waszego jarzma"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mój ojciec"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "karał"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "biczykami"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biczykami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "karać będę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "skorpionami"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpionami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:53.453242726Z",
+  "model": "glm-5.3"
+}

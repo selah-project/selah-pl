@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Rzekli: Chodźcie, a wytracimy ich z ⟨ Bycia ⟩ narodem, i nie będzie wspominane imię Israela więcej.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Rzekli"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Chodźcie"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "a wytracimy ich"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "z ⟨Bycia⟩ narodem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "będzie wspominane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "więcej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:56.608012885Z",
+  "model": "glm-5.3"
+}

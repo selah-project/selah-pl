@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I zawołali do Lota, i powiedzieli mu: Gdzie ⟨są⟩ mężowie, którzy przyszli do ciebie tej nocy? Wyprowadź ich do nas, a poznamy ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "i zawołali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tej nocy"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "wyprowadź ich"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "do nas"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "a poznamy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ich — mężczyźni, którzy przyszli do Lota"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:16.825886323Z",
+  "model": "glm-5.3"
+}

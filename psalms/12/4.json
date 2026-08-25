@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Niech odejmie Jahwe wszystkie wargi pochlebcze, język mówiący rzeczy wyniosłe.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Niech odejmie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wargi"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "pochlebcze"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "język"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "mówiący"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "rzeczy wyniosłe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:18.470753977Z",
+  "model": "glm-5.3"
+}

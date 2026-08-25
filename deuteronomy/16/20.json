@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Sprawiedliwość, sprawiedliwość będziesz ścigał, abyś żył i odziedziczył ⟨את⟩ ziemię, którą Jahwe, twój Elohim, daje tobie.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "będziesz ścigał"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abyś"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "żył"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "i odziedziczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:51.011241345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Bo Jahwe wybrał ⟨את⟩ Cyjon, pożądał jej na mieszkanie dla siebie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wybrał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "⟨את⟩ Cyjon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "pożądał"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "na mieszkanie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla siebie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:21.553629671Z",
+  "model": "glm-5.3"
+}

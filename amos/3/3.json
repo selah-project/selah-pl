@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Czy pójdą dwóch razem, jeśli się nie umówili?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Czy pójdą"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jeśli nie"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "się umówili"
+    }
+  ],
+  "timestamp": "2026-08-25T01:33:40.926125660Z",
+  "model": "glm-5.3"
+}

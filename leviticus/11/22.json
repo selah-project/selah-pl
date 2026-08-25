@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "⟨את⟩ te z nich możecie jeść: ⟨את⟩ szarańczę według rodzaju jej, i ⟨את⟩ solam według rodzaju jego, i ⟨את⟩ chargol według rodzaju jego, i ⟨את⟩ chagab według rodzaju jego.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "możecie jeść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szarańczę"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "szarańczę"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "według rodzaju jej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według rodzaju jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według rodzaju jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "chagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według rodzaju jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:11.215322556Z",
+  "model": "glm-5.3"
+}

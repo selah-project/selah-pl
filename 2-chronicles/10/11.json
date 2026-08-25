@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A teraz: ojciec mój obciążył was jarzmem ciężkim, a ja dodam do waszego jarzma; ojciec mój karał ⟨את⟩ was biczami, a ja — skorpionami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "obciążył"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "was"
+    },
+    {
+      "surface": "על",
+      "gloss": "jarzmem"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężkim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "dodam"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "waszego jarzma"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec mój"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "karał"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biczami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpionami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:03:13.245806623Z",
+  "model": "glm-5.3"
+}

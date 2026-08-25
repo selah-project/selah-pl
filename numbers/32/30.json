@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "A jeśli nie przejdą uzbrojeni ⟨את⟩ wami, to zostaną osadzeni w pośród was w ziemi Kanaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "przejdą"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "uzbrojeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wami",
+      "marks": "z wami"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "to zostaną osadzeni"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "w pośród was"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-24T23:02:08.453334405Z",
+  "model": "glm-5.3"
+}

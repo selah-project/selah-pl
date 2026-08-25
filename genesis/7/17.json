@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I ⟨był⟩ potop czterdzieści dni nad ziemią, i rozmnożyły się wody, i poniosły ⟨את⟩ arkę, i uniosła się znad ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨był⟩"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potop"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "czterdzieści"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "i rozmnożyły się"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i poniosły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "i uniosła się"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "znad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:44.513843614Z",
+  "model": "glm-5.3"
+}

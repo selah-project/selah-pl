@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Niech zaćmią się ich oczy od widzenia, a ich lędźwie niech się ustawicznie chwieją.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "niech zaćmią się"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ich oczy"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "od widzenia"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "a ich lędźwie"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustawicznie"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "niech się chwieją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:45.982135112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A on mu rzekł: ja ⟨jestem⟩; idź, powiedz twemu panu: oto Eliahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "twemu panu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:07.363082073Z",
+  "model": "glm-5.3"
+}

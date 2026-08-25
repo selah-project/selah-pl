@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i Azarjasz spłodził ⟨את⟩ Serajasza, a Serajasz spłodził ⟨את⟩ Jehocadaka;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "i Azarjasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajasza"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajasza"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "a Serajasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehocadaka"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehocadaka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:18.660578457Z",
+  "model": "glm-5.3"
+}

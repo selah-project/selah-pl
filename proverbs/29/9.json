@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Mąż mądry spiera się ⟨z⟩ ⟨את⟩ mężem głupim — czy gniewa się, czy śmieje — i nie ma odpoczynku.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "spiera się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężem głupim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "głupim"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "czy gniewa się"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "czy śmieje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "odpoczynku"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:54.278433068Z",
+  "model": "glm-5.3"
+}

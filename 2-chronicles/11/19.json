@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I urodziła mu synów ⟨את⟩ Jeusza, i ⟨את⟩ Szemarjah, i ⟨את⟩ Zahama.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeusza"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeusza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szemarjah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Szemarjah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zahama"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahama"
+    }
+  ],
+  "timestamp": "2026-08-25T03:02:56.519957768Z",
+  "model": "glm-5.3"
+}

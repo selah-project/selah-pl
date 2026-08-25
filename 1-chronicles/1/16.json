@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ Arwadytę, i ⟨את⟩ Semarytę, i ⟨את⟩ Chamatytę.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Arwadytę"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Semarytę"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Semarytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chamatytę"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatytę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:11.978034059Z",
+  "model": "glm-5.3"
+}

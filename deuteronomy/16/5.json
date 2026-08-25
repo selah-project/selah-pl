@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Nie możesz zabić ⟨את⟩ Pesach w żadnym z twoich bram, które Jahwe, twój Elohim, daje tobie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "możesz"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "zabić (na ofiarę)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "w jednym z"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "twoich bram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:51.632335478Z",
+  "model": "glm-5.3"
+}

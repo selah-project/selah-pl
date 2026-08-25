@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Wróć, Jahwe, wyzwij moją nefesz, ocal mnie przez wzgląd na twój chesed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "wyzwij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ocal mnie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "przez wzgląd na"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "twój chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:44.229313150Z",
+  "model": "glm-5.3"
+}

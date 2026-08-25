@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Czcij ⟨את⟩ swojego ojca i ⟨את⟩ swoją matkę, aby się przedłużyły twoje dni na ziemi, którą Jahwe, twój Elohim, ci daje.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Czcij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego ojca"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "swojego ojca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoją matkę"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "swoją matkę"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "się przedłużyły"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "twoje dni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "twój Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:29.916170022Z",
+  "model": "glm-5.3"
+}

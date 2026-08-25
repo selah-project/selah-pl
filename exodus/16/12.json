@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Usłyszałem ⟨את⟩ szemrania synów Jisraela; mów do nich, mówiąc: Między wieczorami będziecie jeść mięso, a rano nasycicie się chlebem, i poznacie, że Ja ⟨jestem⟩ Jahwe, wasz Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szemrania synów Jisraela"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "szemrania"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Między"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wieczorami"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a rano"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "nasycicie się"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i poznacie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:28.909084909Z",
+  "model": "glm-5.3"
+}

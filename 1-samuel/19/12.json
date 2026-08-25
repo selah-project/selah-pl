@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I spuściła Mikal ⟨את⟩ Dawida przez okno, i odszedł, i uciekł, i uszedł.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "i spuściła"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "przez"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i odszedł"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "i uciekł"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i uszedł"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:58.705422036Z",
+  "model": "glm-5.3"
+}

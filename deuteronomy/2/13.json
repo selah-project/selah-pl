@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Teraz wstańcie i przeprawcie się przez ⟨את⟩ potok Zered. I przeprawiliśmy się przez ⟨את⟩ potok Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Teraz"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "wstańcie"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "i przeprawcie się"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "i przeprawiliśmy się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:38.916443823Z",
+  "model": "glm-5.3"
+}

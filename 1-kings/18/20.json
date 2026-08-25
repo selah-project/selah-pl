@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I posłał Achab do wszystkich synów Izraela i zgromadził ⟨את⟩ proroków na górę Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posłał"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "do wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "i zgromadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroków"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "górę"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:31.771830469Z",
+  "model": "glm-5.3"
+}

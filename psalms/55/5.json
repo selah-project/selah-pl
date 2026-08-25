@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Serce moje我们wija się we mnie, a trwogi śmierci spadły na mnie.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wija się"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "we mnie"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "a trwogi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmierci"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "spadły"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:44.621251369Z",
+  "model": "glm-5.3"
+}

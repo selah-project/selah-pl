@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Ze wszystkich moich przewinień wyrwij mnie; hańbą głupca nie czyń mnie.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ze wszystkich"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "moich przewinień"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "czyń mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:40.692923780Z",
+  "model": "glm-5.3"
+}

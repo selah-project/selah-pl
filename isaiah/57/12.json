@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Ja oznajmię twoją sprawiedliwość i ⟨את⟩ twoje czyny — i nie przyniosą ci one pożytku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "oznajmię"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "twoją sprawiedliwość"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twoje czyny"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "twoje czyny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "przyniosą ci pożytku"
+    }
+  ],
+  "timestamp": "2026-08-25T00:37:07.023900097Z",
+  "model": "glm-5.3"
+}

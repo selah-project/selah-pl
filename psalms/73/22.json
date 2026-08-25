@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "a ja byłem głupi i nie znałem — byłem jak bydlę u ciebie.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בער",
+      "gloss": "głupi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znałem"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "jak bydlę"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:23.906954164Z",
+  "model": "glm-5.3"
+}

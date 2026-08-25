@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Na Elohim ⟨spoczywa⟩ zbawienie moje i chwała moja, skała mocy mojej, schronienie moje — w Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "zbawienie moje"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "i chwała moja"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skała"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mocy mojej"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "schronienie moje"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "w Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:05.024860708Z",
+  "model": "glm-5.3"
+}

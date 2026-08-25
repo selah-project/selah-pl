@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Jahwe zna myśli człowieka, że ⟨są⟩ marnością.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "myśli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.420738548Z",
+  "model": "glm-5.3"
+}

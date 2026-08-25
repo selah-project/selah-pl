@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynili tak czarownicy swymi bajdami, i wyprowadzili ⟨את⟩ żaby na ziemię Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "czarownicy"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "swymi bajdami"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i wyprowadzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żaby"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "żaby"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:03.785681640Z",
+  "model": "glm-5.3"
+}

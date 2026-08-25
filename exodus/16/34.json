@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Jak Jahwe przykazał Mosze, tak Aharon złożył ⟨to⟩ przed ⟨את⟩ Świadectwem dla zachowania.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "tak złożył ⟨to⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwem",
+      "marks": "⟨את⟩ Świadectwem"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "dla zachowania"
+    }
+  ],
+  "timestamp": "2026-08-25T04:05:29.376299207Z",
+  "model": "glm-5.3"
+}

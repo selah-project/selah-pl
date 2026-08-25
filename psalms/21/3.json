@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Pragnienie jego serca dałeś mu, a prośbę jego warg nie odmówiłeś. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "pragnienie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jego serca"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "a prośbę"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "jego warg"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "odmówiłeś"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:01.837265392Z",
+  "model": "glm-5.3"
+}

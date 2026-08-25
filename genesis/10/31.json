@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "To ci są synowie Sema według ich rodzin, według ich języków, w ich ziemiach, według ich narodów.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodzin"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "według ich języków"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "w ich ziemiach"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "według ich narodów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:43.531807182Z",
+  "model": "glm-5.3"
+}

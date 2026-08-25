@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Na zawsze przygotuję twoje potomstwo, i zbuduję na pokolenie i pokolenie twój tron. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "przygotuję"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "twoje potomstwo"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "i zbuduję"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "i pokolenie"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "twój tron"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:29.574472262Z",
+  "model": "glm-5.3"
+}

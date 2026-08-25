@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "On pobił ⟨את⟩ Pelisztynów aż do Azy i ⟨את⟩ jej granice, od wieży strażniczej aż do miasta warownego.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisztynów"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztynów"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jej granice"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "jej granice"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "od wieży"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "strażniczej"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "warownego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:14.118226988Z",
+  "model": "glm-5.3"
+}

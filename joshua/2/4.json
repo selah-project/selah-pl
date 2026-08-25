@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wzięła kobieta ⟨את⟩ owych dwóch mężów i ukryła ich, i powiedziała: Tak, przyszli do mnie mężowie, a nie wiem, skąd byli.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i wzięła"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owych dwóch mężów"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "i ukryła ich"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:39.978297618Z",
+  "model": "glm-5.3"
+}

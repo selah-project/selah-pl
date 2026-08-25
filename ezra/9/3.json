@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I gdy usłyszałem ⟨את⟩ ⟨to⟩ słowo, rozdarłem ⟨את⟩ moją szatę i mój płaszcz, i wyrywałem włosy z mojej głowy i mojej brody, i usiadłem zatrwożony.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "i gdy usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨to⟩ słowo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "rozdarłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją szatę"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "moją szatę"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "i mój płaszcz"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "i wyrywałem"
+    },
+    {
+      "surface": "משער",
+      "gloss": "włosy z"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mojej głowy"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i mojej brody"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "i usiadłem"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "zatrwożony"
+    }
+  ],
+  "timestamp": "2026-08-25T02:45:36.371034399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "A gdy żąć będziecie ⟨את⟩ żniwo ziemi waszej, nie wyczerpiesz skraju pola twego przy żniwie twym, i kłosów żniwa twego nie zbierzesz — ubogiemu i przychodniowi zostawisz ⟨את⟩ je: Ja Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "a gdy żąć będziecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "żniwo"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "żniwo"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ziemi waszej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "wyczerpiesz"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "skraj"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "pola twego"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "przy żniwie twym"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "i kłosy (pookresowe)"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "żniwa twego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "zbierzesz"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ubogiemu"
+    },
+    {
+      "surface": "ו לגר",
+      "gloss": "i przychodniowi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zostawisz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:10.256536305Z",
+  "model": "glm-5.3"
+}

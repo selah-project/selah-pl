@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Strzeż sobie ⟨את⟩ tego, co Ja nakazuję ci dzisiaj: oto Ja wypędzam sprzed twojego oblicza ⟨את⟩ Emorytę i Kanaanejczyka, i Chetytę, i Peryzzytę, i Chiwwitę, i Jebusytę.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "strzeż"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, co Ja nakazuję ci dzisiaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuję ci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto Ja"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "wypędzam"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sprzed twojego oblicza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorytę i Kanaanejczyka, i Chetytę, i Peryzzytę, i Chiwwitę, i Jebusytę"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytę"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "i Kanaanejczyka"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Chetytę"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Peryzzytę"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "i Chiwwitę"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusytę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:47.785910774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Dlaczego, Jahwe, stoisz w oddali, ukrywasz ⟨się⟩ w czasach ucisku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stoisz"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "w oddali"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ukrywasz"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "w czasach"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ucisku"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:41.548909208Z",
+  "model": "glm-5.3"
+}

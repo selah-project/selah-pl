@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A Jokszan zrodził ⟨את⟩ Szebę i ⟨את⟩ Dedana; a synowie Dedana byli Aszurejami i Letuszami i Leummami.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "A Jokszan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szebę"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szebę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Dedana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedana"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a synowie"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Aszurejami"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "i Letuszami"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i Leummami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:43.532051849Z",
+  "model": "glm-5.3"
+}

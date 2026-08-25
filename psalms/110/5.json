@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 110,
+  "translation": "Adonai przy twojej prawicy zmiażdży ⟨w⟩ dniu gniewu swego królów.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "twojej prawicy"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "zmiażdży"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gniewu swego"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.663136936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I dał im ziemskie kraje narodów, a trudy ludów odziedziczyli.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "kraje"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "a trudy"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "odziedziczyli"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.686372386Z",
+  "model": "glm-5.3"
+}

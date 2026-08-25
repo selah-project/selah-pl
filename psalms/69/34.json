@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Bo Jahwe słyszy ubogich, a ⟨את⟩ więźniów swoich nie wzgardził.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słyszy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ubogim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "więźniów swoich"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "więźniów swoich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "wzgardził"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:46.513451455Z",
+  "model": "glm-5.3"
+}

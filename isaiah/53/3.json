@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Wzgardzony i opuszczony przez ludzi, mężowi bólów i doświadczonemu chorobą; jak zasłona oblicza przed nami — wzgardzony, i nie uznaliśmy ⟨go⟩.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "wzgardzony"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "i opuszczony"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "przez ludzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowi"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "bólów"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "i doświadczonemu"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "chorobą"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "jak zasłona"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "przed nami"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "wzgardzony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "uznaliśmy ⟨go⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T03:33:50.244724319Z",
+  "model": "glm-5.3"
+}

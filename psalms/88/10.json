@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Oko moje więdnie od ucisku mego; wołałem cię, Jahwe, każdego dnia, rozpostarłem ku tobie dłonie moje.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ucisku mego"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "wołałem cię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w każdym"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dniu"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "rozpostarłem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku tobie"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dłonie moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:19.724831577Z",
+  "model": "glm-5.3"
+}

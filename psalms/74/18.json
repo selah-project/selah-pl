@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Wspomnij na to: nieprzyjaciel zelżył Jahwe, a lud niemądry znieważył Twoje imię.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wspomnij"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "na to"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciel"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "zelżył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a lud"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "niemądry"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "znieważył"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:41.101520954Z",
+  "model": "glm-5.3"
+}

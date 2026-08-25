@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "i zajdzie słońce, i będzie oczyszczony, i potem będzie jeść ze świętych rzeczy, bo ⟨to⟩ jego pokarm ⟨jest⟩",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "i zajdzie"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i będzie oczyszczony"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "i potem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jeść"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "świętych rzeczy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jego pokarm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:32.812745476Z",
+  "model": "glm-5.3"
+}

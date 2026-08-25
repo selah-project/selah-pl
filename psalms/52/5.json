@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 52,
+  "translation": "Umiłowałeś zło bardziej niż dobro, kłamstwo bardziej niż mówienie sprawiedliwości. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Umiłowałeś"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "bardziej niż dobro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "niż mówienie"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwości"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:05.978195585Z",
+  "model": "glm-5.3"
+}

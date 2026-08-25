@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Jeśli przejdzie, i zamknie, i zgromadzi, ⟨to⟩ kto Go zawróci?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "przejdzie"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "i zamknie"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "i zgromadzi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "Go zawróci"
+    }
+  ],
+  "timestamp": "2026-08-25T02:17:46.016278536Z",
+  "model": "glm-5.3"
+}

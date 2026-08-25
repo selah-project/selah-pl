@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I pośpieszył się, i zdjął ⟨את⟩ popiół znad swoich oczu, i rozpoznał ⟨את⟩ go król Jisraela, że ⟨był⟩ spośród proroków on.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "i pośpieszył się"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i zdjął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popiół"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "popiół"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "znad"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "swoich oczu"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "i rozpoznał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "król Jisraela (אתו wskazuje go)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "spośród proroków"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:37.266319897Z",
+  "model": "glm-5.3"
+}

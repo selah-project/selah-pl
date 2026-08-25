@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Nienawidzący Jahwe udawaliby posłuszeństwo przed Nim, a czas ich trwałby na wieki.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "nienawidzący"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "udawaliby posłuszeństwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "przed Nim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a trwałby"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "czas ich"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:38.902441757Z",
+  "model": "glm-5.3"
+}

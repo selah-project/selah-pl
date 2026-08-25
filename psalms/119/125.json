@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Sługą twoim jestem — daj mi zrozumienie, i poznam twoje świadectwa.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "sługą twoim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "daj mi zrozumienie"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "i poznam"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "twoje świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:02.619945290Z",
+  "model": "glm-5.3"
+}

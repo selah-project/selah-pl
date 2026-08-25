@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "Miłuje Jahwe bramy Cijjon ponad wszystkie przybytki Jaakowa.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Miłuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ponad wszystkie"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "przybytki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:52.004873720Z",
+  "model": "glm-5.3"
+}

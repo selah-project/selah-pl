@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wystawię sobie świadków wiarygodnych ⟨את⟩ Uriję kapłana i ⟨את⟩ Zekarjahu, syna Jewerekjahua.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "i wystawię"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "świadków"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "wiarygodnych"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriję kapłana"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriję"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarjahu, syna Jewerekjahua"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jewerekjahua"
+    }
+  ],
+  "timestamp": "2026-08-25T00:20:30.320326424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I rzekł, i postawił wicher burzy, i wzniósły się jego fale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wicher"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "burzy"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "i wzniósły się"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "jego fale"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:10.304708338Z",
+  "model": "glm-5.3"
+}

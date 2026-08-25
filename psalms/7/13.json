@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Jeśli ⟨on⟩ się nie odwróci, swój miecz wyostrzy, swój łuk naciągnął i przygotował go.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "się odwróci"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "swój miecz"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "wyostrzy"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "swój łuk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "naciągnął"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "i przygotował go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:40.132333013Z",
+  "model": "glm-5.3"
+}

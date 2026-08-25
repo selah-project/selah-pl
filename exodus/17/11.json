@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zdarzało się, gdy Mosze podnosił swoją rękę, że zwyciężał Israel, a gdy opuszczał swoją rękę, zwyciężał Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i zdarzało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "podnosił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "że zwyciężał"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "opuszczał"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "zwyciężał"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:07.628210569Z",
+  "model": "glm-5.3"
+}

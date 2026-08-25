@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I stało się wieczorem, że wziął ⟨את⟩ Leę, córkę swoją, i wprowadził ⟨ją⟩ do niego, a on wszedł do niej.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "że wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leę, córkę swoją"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leę"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "córkę swoją"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i wprowadził"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Leę)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wszedł"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "do niej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:18.847709081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I powiesili ⟨את⟩ Hamana na drzewie, które przygotował dla Mordechaja; i gniew króla się uśmierzył.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "i powiesili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "dla Mordechaja"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "i gniew"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "się uśmierzył"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:41.154485558Z",
+  "model": "glm-5.3"
+}

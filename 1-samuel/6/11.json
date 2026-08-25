@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I położyli ⟨את⟩ aron Jahwe na wóz, oraz ⟨את⟩ skrzynię, oraz ⟨את⟩ złote myszy, oraz ⟨את⟩ obrazy ich wrzodów.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "i położyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Jahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "wóz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "skrzynię"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "skrzynię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "złote myszy"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "myszy"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "obrazy ich wrzodów"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "obrazy"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ich wrzodów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:55.125090784Z",
+  "model": "glm-5.3"
+}

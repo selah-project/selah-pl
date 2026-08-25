@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Kraina pszenicy i jęczmienia, i winnej latorośli, i figi, i granatu — kraina oliwy z drzewa oliwnego i miodu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "kraina"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pszenicy"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "i jęczmienia"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "i winnej latorośli"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "i figi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "i granatu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kraina"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliwy z drzewa oliwnego"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliwy"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i miodu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:45.217482626Z",
+  "model": "glm-5.3"
+}

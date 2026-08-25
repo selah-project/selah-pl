@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wziął Dawid ⟨את⟩ złote tarcze, które były na sługach Hadadezera, i przywiódł je do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złote tarcze"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "tarcze"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "היו",
+      "gloss": "były"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sługach"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i przywiódł je"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:57.752080862Z",
+  "model": "glm-5.3"
+}

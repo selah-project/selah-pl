@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I posłał Dawid zwiadowców i dowiedział się, że Szaul przyszedł do Nachonu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posłał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "zwiadowców"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i dowiedział się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nachonu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:59.706284539Z",
+  "model": "glm-5.3"
+}

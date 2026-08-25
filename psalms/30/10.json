@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Jaki zysk w mojej krwi, gdy schodzę do dołu? Czy proch Cię wysławi, czy oznajmi Twoją wierność?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jaki"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "zysk"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "w mojej krwi"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "gdy schodzę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "dołu"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "czy wysławi Cię"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "proch"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "czy oznajmi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Twoją wierność"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:15.035477089Z",
+  "model": "glm-5.3"
+}

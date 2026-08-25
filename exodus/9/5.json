@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wyznaczył Jahwe termin, mówiąc: Jutro uczyni Jahwe słowo to na ziemi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "I wyznaczył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "termin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczyni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:05.298715856Z",
+  "model": "glm-5.3"
+}

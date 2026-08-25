@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 70,
+  "translation": "Niech zawrócą na skutek ⟨zapłaty⟩ swego wstydu ci, którzy mówią: Aha! Aha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Niech zawrócą"
+    },
+    {
+      "surface": "על",
+      "gloss": "na skutek"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨zapłaty⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "swego wstydu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ci, którzy mówią"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:25.305254973Z",
+  "model": "glm-5.3"
+}

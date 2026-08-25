@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I wziął ⟨את⟩ całe złoto i srebro, oraz ⟨את⟩ wszystkie naczynia znalezione w domu Jahwe i w skarbcach domu królewskiego, oraz ⟨את⟩ synów zakładników, i wrócił do Szomeronu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe złoto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "i srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "wszystkie naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "naczynia"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "znalezione"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "i w skarbcach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "synów zakładników"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "zakładników"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "do Szomeronu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:16.066304250Z",
+  "model": "glm-5.3"
+}

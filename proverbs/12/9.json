@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Lepszy ⟨jest⟩ lekceważony, mający sobie sługę, niż sam się wynoszący, a cierpiący brak chleba.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepszy"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lekceważony"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a mając sługę"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "niż sam się wynoszący"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "a cierpiący brak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:23.736481858Z",
+  "model": "glm-5.3"
+}

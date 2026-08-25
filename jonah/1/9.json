@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł do nich: Hebrajczykiem jestem, a Jahwe, Elohim niebios, ja się boję — ⟨ten⟩, który uczynił ⟨את⟩ morze i ⟨את⟩ ląd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrajczykiem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jestem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "się boję"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ląd"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ląd"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:56.580997885Z",
+  "model": "glm-5.3"
+}

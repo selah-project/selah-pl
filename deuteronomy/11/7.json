@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "albowiem wasze oczy — te, które widziały ⟨את⟩ cały wielki czyn Jahwe, który uczynił",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "albowiem"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "wasze oczy"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "te, które widziały"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały wielki czyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "czyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:40.901938745Z",
+  "model": "glm-5.3"
+}

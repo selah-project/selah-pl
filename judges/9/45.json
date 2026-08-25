@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I walczył Awimelech z miastem przez cały ten dzień, i zdobył ⟨את⟩ miasto, i ⟨את⟩ lud, który w nim ⟨był⟩, zabił, i zburzył ⟨את⟩ miasto, i posiał je solą.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "i walczył Awimelech"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walczył"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "z miastem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "i zburzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "i posiał je"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "solą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:42.627455854Z",
+  "model": "glm-5.3"
+}

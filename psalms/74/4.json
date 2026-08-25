@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Ryczą twoi przeciwnicy wśród twego zgromadzenia; ustawili swoje znaki jako znaki.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Ryczą"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "twoi przeciwnicy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "twego zgromadzenia"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ustawili"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "swoje znaki"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "jako znaki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:39.145974786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Znane ⟨to⟩ jak wprowadzający w górę — w gąszcz drzewa topory.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "znane"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "jak wprowadzający"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "w górę"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "w gąszczu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "topory"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:24.536685888Z",
+  "model": "glm-5.3"
+}

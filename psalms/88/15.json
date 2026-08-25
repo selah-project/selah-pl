@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Dlaczego, Jahwe, odrzucasz nefesz moją, ukrywasz oblicze Twoje przede mną?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "odrzucasz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moją"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ukrywasz"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicze Twoje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "przede mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:25.780527896Z",
+  "model": "glm-5.3"
+}

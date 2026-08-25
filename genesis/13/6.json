@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I nie mogła ziemia unieść ⟨את⟩ ich, aby mieszkać razem, bo był majątek ich wielki, i nie mogli mieszkać razem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mogła unieść"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aby mieszkać"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "majątek ich"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mieszkać"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:47.583243419Z",
+  "model": "glm-5.3"
+}

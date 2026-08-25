@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Synu człowieczy, daj poznać Jeruszalaim ⟨את⟩ jej obrzydliwości.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieczy"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "daj poznać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruszalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej obrzydliwości"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "jej obrzydliwości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:12:35.544188524Z",
+  "model": "glm-5.3"
+}

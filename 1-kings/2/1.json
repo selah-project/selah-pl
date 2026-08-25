@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przybliżyły się dni Dawida, by umrzeć, i przykazał ⟨את⟩ Szlomo, swojemu synowi, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "i przybliżyły się"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "למות",
+      "gloss": "by umrzeć"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "i przykazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szlomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "swojemu synowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:30.700754100Z",
+  "model": "glm-5.3"
+}

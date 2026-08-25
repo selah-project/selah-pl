@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wysłał Szaul posłów do Jeszajego i rzekł: Poślij do mnie Dawida, syna twego, który ⟨jest⟩ przy owcach.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posłów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jeszajego"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "poślij"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syna twego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "przy owcach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:26.125274456Z",
+  "model": "glm-5.3"
+}

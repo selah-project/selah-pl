@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I ucieszyło się serce kapłana, i wziął ⟨את⟩ efod, i ⟨את⟩ terafim, i ⟨את⟩ posąg, i wszedł pośród ludu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "i ucieszyło się"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "posąg"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "posąg"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:31:45.064571314Z",
+  "model": "glm-5.3"
+}

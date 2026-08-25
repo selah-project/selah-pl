@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "i zawładnęli ⟨את⟩ jego ziemią i ⟨את⟩ ziemią Oga, króla ha-Baszanu — dwoma królami ha-Emorego, którzy byli za Jordanem, ku wschodowi słońca.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "i zawładnęli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego ziemią"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "jego ziemią"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ziemią Oga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ha-Baszanu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwoma"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królami"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emorego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanem"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ku wschodowi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:22.720764209Z",
+  "model": "glm-5.3"
+}

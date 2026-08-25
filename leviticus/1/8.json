@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ułożą synowie Ahrona, kohani, ⟨את⟩ kawały, ⟨את⟩ głowę i ⟨את⟩ łój, na drwach, które są na ogniu, który jest na ołtarzu.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "i ułożą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawały"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "kawały"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głowę"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "łój"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "łój"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drwach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogniu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:47.741525418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł Mosze do zgromadzenia: To ⟨jest⟩ rzecz, którą Jahwe nakazał wykonać.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zgromadzenia"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wykonać"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:28.714383721Z",
+  "model": "glm-5.3"
+}

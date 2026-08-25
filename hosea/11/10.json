@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Za Jahwe pójdą, jak lew zaryczy — bo ⟨on⟩ zaryczy, i zadrżą synowie znad morza.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "pójdą"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jak lew"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zaryczy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zaryczy"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "i zadrżą"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "znad morza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:54.558180463Z",
+  "model": "glm-5.3"
+}

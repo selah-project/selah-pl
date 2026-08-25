@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Nie wróci do ziemi Micrajim, a Aszur — on ⟨jest⟩ królem jego, bo odmówili wrócenia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wróci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "a Aszur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "królem jego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmówili"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "wrócenia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:00.789423338Z",
+  "model": "glm-5.3"
+}

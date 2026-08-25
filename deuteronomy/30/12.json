@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Nie w niebiosach ⟨jest⟩ ⟨ono⟩ — by powiedzieć: Kto wstąpi dla nas w niebiosa, i weźmie ją dla nas, i da nam ją usłyszeć ⟨את⟩, i będziemy ją wykonywać?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w niebiosach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ono⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "by powiedzieć"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "wstąpi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "w niebiosa"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "i weźmie ją"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "i da nam ją usłyszeć"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (przykazanie)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "i będziemy ją wykonywać"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:48.909438508Z",
+  "model": "glm-5.3"
+}

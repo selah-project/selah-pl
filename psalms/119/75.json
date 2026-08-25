@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wiem, Jahwe, że sprawiedliwe są twoje wyroki i że w wierności upokorzyłeś mnie.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Wiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "twoje wyroki"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "i w wierności"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "upokorzyłeś mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:02.620346254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I rzekł do niej król: Co ⟨ci⟩ jest? A ona odrzekła: Zaiste, wdową jestem ja i umarł mój mąż.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ci⟩ jest"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a odrzekła"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "zaiste"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobietą"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wdową"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem ja"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mój mąż"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:12.091716957Z",
+  "model": "glm-5.3"
+}

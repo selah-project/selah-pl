@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I posłał król Dawid, i zabrał go z domu Machira, syna Ammiela, z Lo-Dewar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "i zabrał go"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiela"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "z Lo-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dewar"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:09.043269414Z",
+  "model": "glm-5.3"
+}

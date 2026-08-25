@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Moją nefesz przywraca, prowadzi mnie ścieżkami sprawiedliwości przez wzgląd na swoje imię.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "przywraca"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "prowadzi mnie"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ścieżkami"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwości"
+    },
+    {
+      "surface": "למען",
+      "gloss": "przez wzgląd na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "swoje imię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:04.587318001Z",
+  "model": "glm-5.3"
+}

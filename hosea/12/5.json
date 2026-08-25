@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zmagał się z aniołem i przemógł; płakał i błagał go; w Bet-El go znajdzie i tam przemówi z nami.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "i zmagał się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "aniołem"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "i przemógł"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "płakał"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "i błagał"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "znajdzie go"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "przemówi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:29.100973859Z",
+  "model": "glm-5.3"
+}

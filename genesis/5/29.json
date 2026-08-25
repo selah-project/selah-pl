@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 5:29",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I nazwał ⟨את⟩ jego imię Noach, mówiąc: Ten ten nas pocieszy z naszego dzieła i z boleści rąk naszych, z ziemi, którą przeklnął Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego imię"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ינחמנו",
+      "gloss": "pocieszy nas"
+    },
+    {
+      "surface": "ממעשנו",
+      "gloss": "z naszego dzieła"
+    },
+    {
+      "surface": "ומעצבון",
+      "gloss": "i z boleści"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "rąk naszych"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "אררה",
+      "gloss": "przeklnął"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:14.991053756Z",
+  "model": "glm-5.3"
+}

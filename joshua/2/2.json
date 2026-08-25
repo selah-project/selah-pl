@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I ⟨zostało⟩ doniesione królowi Jerycha, mówiąc: Oto mężowie przyszli tutaj tej nocy z synów Iszraela, by przeszukiwać ⟨את⟩ kraj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i ⟨zostało⟩ doniesione"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerycha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przyszli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tej nocy"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "z synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "by przeszukiwać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:39.977997497Z",
+  "model": "glm-5.3"
+}

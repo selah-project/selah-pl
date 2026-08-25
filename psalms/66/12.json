@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Kazałeś ludziom jeździć po naszych głowach, weszliśmy w ogień i w wody, i wyprowadziłeś nas do sytości.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "kazałeś jeździć"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ludziom"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "po naszych głowach"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "weszliśmy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogień"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i w wody"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "i wyprowadziłeś nas"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "do sytości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:49.168226765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I dali Kalebowi ⟨את⟩ Chewron, jak powiedział Mosze; i wypędził stamtąd ⟨את⟩ trzech synów Anaka.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "I dali"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chewron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "i wypędził"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzech synów Anaka"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzech"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaka"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:32.348949714Z",
+  "model": "glm-5.3"
+}

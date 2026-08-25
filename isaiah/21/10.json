@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Wyklepana moja i synu mojego klepiska! Co usłyszałem od ⟨את⟩ Jahwe Zastępów, Elohim Jisraela, to oznajmiłem wam.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "wyklepana moja"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i synu"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "klepiska mojego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe Zastępów, Elohim Jisraela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "oznajmiłem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    }
+  ],
+  "timestamp": "2026-08-25T03:32:33.135432911Z",
+  "model": "glm-5.3"
+}

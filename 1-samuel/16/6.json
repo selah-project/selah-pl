@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I stało się, gdy przyszli, że ujrzał ⟨את⟩ Eliaba i rzekł: Czyż nie przed Jahwe ⟨jest⟩ jego Masziach?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "gdy przyszli"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "że ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliaba"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אך",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "jego Masziach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:09.223096696Z",
+  "model": "glm-5.3"
+}

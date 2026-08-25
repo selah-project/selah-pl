@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I otworzyłem ⟨את⟩ moje usta, i nakarmił mnie ⟨את⟩ tym zwojem.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "I otworzyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje usta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "i nakarmił mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tym zwojem"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "zwojem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tym"
+    }
+  ],
+  "timestamp": "2026-08-25T01:09:14.868268153Z",
+  "model": "glm-5.3"
+}

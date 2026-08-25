@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "Jahwe spisze ludy w rejestrze: ten urodził się tam. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "spisze"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "w rejestrze"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "urodził się"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:21.239570892Z",
+  "model": "glm-5.3"
+}

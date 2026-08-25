@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wieźli go jego słudzy do Jeruszalaim, i pochowali go w grobowcu jego z ojcami jego w mieście Dawida.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "i wieźli (na rydwanie)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "słudzy jego"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pochowali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "w grobowcu jego"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ojcami jego"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:00.856957908Z",
+  "model": "glm-5.3"
+}

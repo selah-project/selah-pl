@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I przyszedł Chizkijahu oraz książęta, i zobaczyli ⟨את⟩ sterty, i błogosławili ⟨את⟩ Jahwe oraz ⟨את⟩ lud jego, Israela.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "oraz książęta"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i zobaczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sterty"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "sterty"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "i błogosławili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "swój lud — Israela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:09:57.117785126Z",
+  "model": "glm-5.3"
+}

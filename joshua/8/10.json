@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wstał rano Jehoszua i przeglądnął ⟨את⟩ lud, i wyruszył on i starsi Jisraela przed ludem — ⟨ku⟩ Haj.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał rano"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i przeglądnął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wyruszył w górę"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i starsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:47.518922441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I zlękli się i zawstydzeni są — od Kusz, nadziei ich, i od Micrajim, chwały ich.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "i zlękli się"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "i zawstydzeni są"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "od Kusz"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "nadziei ich"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "chwały ich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:03.062537978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "⟨את⟩ kołki przybytku i ⟨את⟩ kołki dziedzińca oraz ⟨את⟩ ich sznury,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kołki przybytku"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kołki"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "kołki dziedzińca"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kołki"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedzińca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ich sznury"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ich sznury"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:12.637223086Z",
+  "model": "glm-5.3"
+}

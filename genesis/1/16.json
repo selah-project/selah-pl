@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uczynił Elohim ⟨את⟩ dwa światła wielkie, ⟨את⟩ światło wielkie do rządzenia dniem i ⟨את⟩ światło mniejsze do rządzenia nocą, oraz ⟨את⟩ gwiazdy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I uczynił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa światła wielkie"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "światła"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "światło wielkie"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "do rządzenia"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dniem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "światło mniejsze"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mniejsze"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "do rządzenia"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "gwiazdy"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "gwiazdy"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:05.128034100Z",
+  "model": "glm-5.3"
+}

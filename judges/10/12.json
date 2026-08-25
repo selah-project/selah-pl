@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "i Cydończycy i Amalek i Maon uciskali ⟨את⟩ was, i wołaliście do mnie, i wybawiłem ⟨את⟩ was z ręki ich.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "i Cydończycy"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "i Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "i Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "uciskali"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "i wołaliście"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "i wybawiłem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z ręki ich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:27.837940345Z",
+  "model": "glm-5.3"
+}

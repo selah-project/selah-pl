@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I ⟨jest⟩ to liche w oczach Jahwe, i da ⟨את⟩ Moab w waszą rękę.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "i ⟨jest⟩ liche"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "w waszą rękę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:38.900863664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty ten, kto się kocha z jakimkolwiek zwierzęciem; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kto się kocha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakimkolwiek"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zwierzęciem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:58.177946265Z",
+  "model": "glm-5.3"
+}

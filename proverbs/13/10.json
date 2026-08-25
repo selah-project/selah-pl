@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Tylko z pychy rodzi się sprzeczka, a z ⟨את⟩ radzącymi się ⟨jest⟩ mądrość.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tylko"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "z pychy"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rodzi się"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "sprzeczka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a z ⟨את⟩",
+      "marks": "radzącymi się"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "radzącymi się"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:17.919684036Z",
+  "model": "glm-5.3"
+}

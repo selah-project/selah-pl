@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "bo gdy mają sprawę, przychodzi do mnie, i ja sądzę między mężem a jego bliźnim, i daję im poznać ⟨את⟩ ustawy Elohim i ⟨את⟩ jego Tory.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gdy mają"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprawę"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "i sądzę"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jego bliźnim"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "i daję poznać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustawy"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ustawy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego Tory"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "jego Tory"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:48.829952722Z",
+  "model": "glm-5.3"
+}

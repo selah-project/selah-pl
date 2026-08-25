@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "I rozkazał Josef ⟨את⟩ swoim sługom — ⟨את⟩ lekarzom — aby nabalsamowali ⟨את⟩ jego ojca; i nabalsamowali lekarze ⟨את⟩ Israela.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i rozkazał"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim sługom"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoim sługom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekarzom"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lekarzom"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "aby nabalsamowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego ojca"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "i nabalsamowali"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lekarze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:56.052873736Z",
+  "model": "glm-5.3"
+}

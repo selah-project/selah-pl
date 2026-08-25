@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I będę błogosławił tych, którzy ci błogosławią, a tego, kto ci przeklina, przeklnę; i w tobie błogosławione będą wszystkie rody ziemi.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "i będę błogosławił"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "tych, którzy ci błogosławią"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "a tego, kto ci przeklina"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "przeklnę"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "i błogosławione będą"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rody"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:46.794403250Z",
+  "model": "glm-5.3"
+}

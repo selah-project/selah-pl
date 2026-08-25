@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Gdyż Achaz uszczuplił ⟨את⟩ dom Jahwe oraz ⟨את⟩ dom króla i dostojników, i dał królowi Aszszura — ale nie na pomoc sobie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gdyż"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "uszczuplił"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "dom króla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "i dostojników"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "na pomoc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:08:51.338457044Z",
+  "model": "glm-5.3"
+}

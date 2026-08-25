@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe nad wodami, El chwały zagrzmiał, Jahwe nad wodami licznymi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "chwały"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "zagrzmiał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "licznymi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:39.071485152Z",
+  "model": "glm-5.3"
+}

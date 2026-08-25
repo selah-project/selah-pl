@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Do ciebie mówiło moje serce: „Szukajcie mojego oblicza” — ⟨את⟩ twojego oblicza, Jahwe, będę szukał.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Do ciebie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówiło"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje serce"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Szukajcie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojego oblicza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twojego oblicza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "twojego oblicza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "będę szukał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:53.292450318Z",
+  "model": "glm-5.3"
+}

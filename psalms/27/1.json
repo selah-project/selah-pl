@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Dawidowi. Jahwe ⟨jest⟩ moje światło i moje zbawienie — przed kim będę się bał? Jahwe ⟨jest⟩ twierdzą mego życia — przed kim zadrę?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "moje światło"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "i moje zbawienie"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "przed kim"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "będę się bał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "twierdzą"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mego życia"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "przed kim"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "zadrę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:57.944422747Z",
+  "model": "glm-5.3"
+}

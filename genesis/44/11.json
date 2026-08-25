@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I pospieszyli się i spuścili każdy ⟨את⟩ swój wór na ziemię, i otworzyli każdy swój wór.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "i pospieszyli się"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "i spuścili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój wór"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "swój wór"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "i otworzyli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "swój wór"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:59.137735381Z",
+  "model": "glm-5.3"
+}

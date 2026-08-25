@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Syn mądry ⟨słucha⟩ karcenia ojca, a szyderca nie usłyszał nagany.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Syn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "karcenia"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ojca"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "a szyderca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "nagany"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:55.028693477Z",
+  "model": "glm-5.3"
+}

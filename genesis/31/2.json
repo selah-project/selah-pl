@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I widział Jaakow ⟨את⟩ oblicze Lavana, a oto nie było ono z nim jak wczoraj i przedwczoraj.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicze"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie było ono"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "jak wczoraj"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "i przedwczoraj"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:45.589934528Z",
+  "model": "glm-5.3"
+}

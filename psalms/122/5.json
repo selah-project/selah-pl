@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Bo tam zasiadły trony ⟨do⟩ sądu, trony ⟨dla⟩ domu Dawida.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zasiadły"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trony"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sądu"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trony"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:06.430498539Z",
+  "model": "glm-5.3"
+}

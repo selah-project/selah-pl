@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Cały dzień hańbili mnie moi wrogowie; ci, którzy szaleją przeciwko mnie, przysięgali na mnie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hańbili mnie"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moi wrogowie"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ci, którzy szaleją"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "przysięgali"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:27.120016856Z",
+  "model": "glm-5.3"
+}

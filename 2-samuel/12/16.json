@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I błagał Dawid ⟨את⟩ Elohim za chłopcem, i nakazał sobie Dawid post, i przyszedłszy przenocował, i leżał na ziemi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "i błagał"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopcem"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "i nakazał sobie post"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przyszedłszy"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "przenocował"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "i leżał"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:24.712482576Z",
+  "model": "glm-5.3"
+}

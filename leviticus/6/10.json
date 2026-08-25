@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Nie będzie pieczona z kwasem — ich udział to; dałem ⟨את⟩ niej z moich ofiar ogniowych; święte-świętych ⟨to⟩ ona, jak ofiara za grzech i jak ofiara zadośćuczynienia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "będzie-pieczona"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "z-kwasem"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ich-udział"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nią"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "z-moich-ofiar-ogniowych"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "święte"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "świętych"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to-ona"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "jak-ofiara-za-grzech"
+    },
+    {
+      "surface": "ווכאשם",
+      "gloss": "i-jak-ofiara-zadośćuczynienia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:19.387327493Z",
+  "model": "glm-5.3"
+}

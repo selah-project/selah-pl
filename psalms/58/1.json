@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Przewodnikowi chóru — „Nie niszcz” — Dawidowi, utwór wyryty (michtam).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "niszcz"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "utwór wyryty (michtam)"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:31.694189821Z",
+  "model": "glm-5.3"
+}

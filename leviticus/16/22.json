@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I poniesie kozioł na sobie ⟨את⟩ wszystkich ich nieprawości do ziemi odciętej, i wyśle ⟨את⟩ kozła na pustkowiu.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "i poniesie"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kozioł"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na sobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich ich nieprawości"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "ich nieprawości"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "odciętej"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i wyśle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kozła"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kozła"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustkowiu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.811026223Z",
+  "model": "glm-5.3"
+}

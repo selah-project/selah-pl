@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wziął Jahwe Elohim ⟨את⟩ człowieka i umieścił go w ogrodzie Eden, aby go uprawiać i go strzec.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I wziął"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "i umieścił go"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "w ogrodzie"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "aby go uprawiać"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "i go strzec"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:19.604562959Z",
+  "model": "glm-5.3"
+}

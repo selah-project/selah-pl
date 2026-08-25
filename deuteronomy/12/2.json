@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Bezwzględnie wytracicie ⟨את⟩ wszystkie miejsca, w których służyły tam narody, które wy dziedziczycie ⟨את⟩ nich, ⟨את⟩ bogów ich — na górach wysokich i na pagórkach, i pod każdym drzewem zielonym.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "bezwzględnie"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "wytracicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie miejsca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w których"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "służyły"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "dziedziczycie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów ich"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogów ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "górach"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "wysokich"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "pagórkach"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "i pod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdym"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewem"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zielonym"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:36.106850660Z",
+  "model": "glm-5.3"
+}

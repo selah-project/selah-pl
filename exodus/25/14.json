@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I włożysz ⟨את⟩ drążki w pierścienie na bokach Aron, by nieść ⟨את⟩ Aron nimi.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "i włożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drążki"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "w pierścienie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "bokach"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "by nieść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:35.667860334Z",
+  "model": "glm-5.3"
+}

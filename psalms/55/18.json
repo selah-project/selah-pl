@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Wieczorem i rano i w południe będę rozmyślać i jęczeć, i usłyszał ⟨On⟩ głos mój.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Wieczorem"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i rano"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "i w południe"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "będę rozmyślać"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "i jęczeć"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "głos mój"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:08.629528101Z",
+  "model": "glm-5.3"
+}

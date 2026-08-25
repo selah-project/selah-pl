@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Patrzyłem na ⟨את⟩ ziemię, a oto pustkowie i nicość; i na niebiosa, a ich światła nie ma.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "patrzyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pustkowie"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "i nicość"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nie ma"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ich światła"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:08.445538730Z",
+  "model": "glm-5.3"
+}

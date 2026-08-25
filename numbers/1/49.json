@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Tylko plemienia Lewiego nie policzysz, a ⟨את⟩ ich liczby głównych nie podniesiesz wśród synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plemienia Lewiego"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "plemię"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "policzysz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich liczby głównych"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ich głowy (liczbę głów)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "podniesiesz"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:49:37.302533992Z",
+  "model": "glm-5.3"
+}

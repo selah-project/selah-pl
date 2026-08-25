@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekł: Mów, proszę, do Szlomo, króla, bo nie odwróci ⟨את⟩ twarzy twojej, i niech da mi ⟨את⟩ Abiszag ⟨tę⟩ Szunitkę za żonę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Mów"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "do Szlomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "odwróci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twarzy twojej"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "twarzy twojej"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i niech da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiszag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abiszag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Szunitkę"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:20.031564690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Pieśń Dawidowi, gdy był na pustyni Jehudy.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "gdy był"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:36.344830431Z",
+  "model": "glm-5.3"
+}

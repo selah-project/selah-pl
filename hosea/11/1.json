@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Gdy Iszrael ⟨był⟩ dzieckiem, umiłowałem go, i z Micraim wezwałem mojego syna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dzieckiem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "umiłowałem go"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "i z Micraim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wezwałem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mojego syna"
+    }
+  ],
+  "timestamp": "2026-08-25T03:40:39.426414428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Bo czynisz go błogosławieństwami na wieki, napełniasz go radością ⟨przed⟩ ⟨את⟩ twoim obliczem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "czynisz go"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "błogosławieństwami"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "napełniasz go"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "radością"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoim obliczem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "twoim obliczem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:53.975147534Z",
+  "model": "glm-5.3"
+}

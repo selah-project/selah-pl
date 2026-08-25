@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Mój synu, nie chodź drogą ⟨את⟩ nimi; wstrzymaj swoją stopę od ich ścieżki.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mój synu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "chodź"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "wstrzymaj"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "swoją stopę"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "od ich ścieżki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:45.779918365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "A ja w mojej niewinności będę chodził; wykup mnie i okaż mi łaskę.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "w mojej niewinności"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "będę chodził"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "wykup mnie"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i okaż mi łaskę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:17.975242998Z",
+  "model": "glm-5.3"
+}

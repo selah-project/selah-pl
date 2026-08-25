@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wysłałem ⟨את⟩ Mosze i ⟨את⟩ Ahrona, i dotknąłem plagami ⟨את⟩ Micrajim, jak uczyniłem w jego wnętrzu, a potem wyprowadziłem ⟨את⟩ was.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "i wysłałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "i dotknąłem plagami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "uczyniłem"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "w jego wnętrzu"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "wyprowadziłem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:32.459693197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Jahwe, Elohim Szawaot, kto jak Ty — potężny Jah? A Twoja wierność ⟨jest⟩ dokoła Ciebie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Szawaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jak Ty"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "potężny"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "a Twoja wierność"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "dokoła Ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:32.316612530Z",
+  "model": "glm-5.3"
+}

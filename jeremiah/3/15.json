@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I dam wam pasterzy według mego serca, i paść będą ⟨אתכם⟩ poznaniem i rozwagą.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "I dam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pasterzy"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "według mego serca"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "i paść będą"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "was (objekt paścia)"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "poznaniem"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "i rozwagą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:43:57.228012102Z",
+  "model": "glm-5.3"
+}

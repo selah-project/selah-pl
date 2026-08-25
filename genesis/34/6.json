@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I wyszedł Chamor, ojciec Szkema, do Jaakowa, aby rozmawiać ⟨את⟩ nim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyszedł"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojciec"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Szkema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aby rozmawiać"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "nim (Jaakow)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:24.929680163Z",
+  "model": "glm-5.3"
+}

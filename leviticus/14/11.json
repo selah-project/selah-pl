@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I postawi kohen, ten który oczyszcza, ⟨את⟩ mężczyznę, który się oczyszcza, i ⟨את⟩ nie, przed Jahwe, u wejścia namiotu spotkania.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "i postawi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ten który oczyszcza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężczyznę, który się oczyszcza"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "który się oczyszcza"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "i ⟨את⟩ nie",
+      "marks": "przed Jahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:56.824558975Z",
+  "model": "glm-5.3"
+}

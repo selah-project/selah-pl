@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Ty nakazałeś ⟨nam⟩ twoje przykazania, by strzec ⟨ich⟩ bardzo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "nakazałeś"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "twoje przykazania"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "by strzec"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:40.869232488Z",
+  "model": "glm-5.3"
+}

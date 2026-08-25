@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I oznajmiono Dawidowi, i zebrał ⟨את⟩ cały Jisraël, i przeszedł ⟨את⟩ Jarden, i przyszedł do Chelam; i ustawili się Aramijczycy naprzeciw Dawida, i walczyli z nim.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmiono"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i przeszedł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "do Chelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "i ustawili się"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramijczycy"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:04.134462729Z",
+  "model": "glm-5.3"
+}

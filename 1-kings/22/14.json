@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł Mikajahu: Żyje Jahwe — ⟨את⟩ to, co Jahwe powie mi, ⟨את⟩ to będę mówić.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co Jahwe powie mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (będę mówić)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "będę mówić"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:10.880087048Z",
+  "model": "glm-5.3"
+}

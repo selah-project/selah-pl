@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I uczynił ⟨את⟩ morze odlane — dziesięć łokci od jego brzegu do jego brzegu, okrągłe dookoła; a pięć łokci jego wysokość, a sznur trzydziestu łokci otaczał ⟨את⟩ je dookoła.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "odalane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "od jego brzegu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "jego brzegu"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "okrągłe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pięć"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "jego wysokość"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "a sznur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydziestu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "otaczał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je (morze)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:04.195981452Z",
+  "model": "glm-5.3"
+}

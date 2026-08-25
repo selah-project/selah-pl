@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Głowę ⟨tych, którzy⟩ mnie osaczają — ⟨niech⟩ wysiłek ich warg okryje ich.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "osaczających mnie"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wysiłek"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ich warg"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "okryje ich"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:42.566410363Z",
+  "model": "glm-5.3"
+}

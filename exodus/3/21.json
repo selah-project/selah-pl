@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I will grant ⟨את⟩ favor to this people in the eyes of the Egyptians, and it will come to pass, when you go, you shall not go empty-handed.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "I will grant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "favor"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "to this people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "this"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in the eyes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of the Egyptians"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and it will come to pass"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "you go"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "you shall go"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "empty-handed"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:43.585398328Z",
+  "model": "glm-5.3"
+}

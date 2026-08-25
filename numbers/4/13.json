@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I wygarną ⟨את⟩ ołtarz, i rozciągną na nim szatę purpurową.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "i wygarną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "i rozciągną"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "szatę"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purpurową"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:23.978044439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Moje oczy zawsze ⟨wzrok kierują⟩ ku Jahwe, bo On wydoby moje stopy z sieci.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "wydoby"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "z sieci"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:20.831124518Z",
+  "model": "glm-5.3"
+}

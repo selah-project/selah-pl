@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Wstrząsnąłeś ziemię, rozdarłeś ją — ulecz pęknięcia jej, bo się chwieje",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Wstrząsnąłeś"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "rozdarłeś ją"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ulecz"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "pęknięcia jej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "się chwieje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.580033093Z",
+  "model": "glm-5.3"
+}

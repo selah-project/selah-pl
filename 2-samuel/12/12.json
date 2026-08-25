@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Bo ty uczyniłeś to w ukryciu, a Ja uczynię ⟨את⟩ tę rzecz wobec całego Izraela i wobec słońca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w ukryciu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a Ja"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "uczynię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę rzecz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rzecz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "i wobec"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:21.271680666Z",
+  "model": "glm-5.3"
+}

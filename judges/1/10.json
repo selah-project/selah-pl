@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I poszedł Jehuda przeciw Kenaanczykowi mieszkającemu w Chevronie — a imię Chevronu przedtem ⟨było⟩ Kirjat-Arba — i pobili ⟨את⟩ Szeszaja, i ⟨את⟩ Achimana, i ⟨את⟩ Talmaja.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanczykowi"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "mieszkającemu"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "w Chevronie"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevronu"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "przedtem"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szeszaja"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Szeszaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Achimana"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achimana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Talmaja"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaja"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:46.015551892Z",
+  "model": "glm-5.3"
+}

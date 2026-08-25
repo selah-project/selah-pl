@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Złamanie za złamanie, oko za oko, ząb za ząb — jak wyrządzi skazę człowiekowi, tak zostanie mu wyrządzone.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "złamanie"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "złamanie"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ząb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ząb"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wyrządzi"
+    },
+    {
+      "surface": "מום",
+      "gloss": "skazę"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "zostanie wyrządzone"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:45.581275660Z",
+  "model": "glm-5.3"
+}

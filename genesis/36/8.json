@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I zamieszkał Esaw w górze Seir — Esaw, ten ⟨jest⟩ Edomem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I zamieszkał"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:25.936842879Z",
+  "model": "glm-5.3"
+}

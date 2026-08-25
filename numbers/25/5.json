@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I rzekł Mosze do sędziów Jisraela: Zabijcie każdego mężczyznę ze swoich ludzi, tych, którzy przylgnęli do Baal-Peora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "sędziów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabijcie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdego mężczyznę"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ze swoich ludzi"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "tych, którzy przylgnęli"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "do Baala"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peora"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:22.505365979Z",
+  "model": "glm-5.3"
+}

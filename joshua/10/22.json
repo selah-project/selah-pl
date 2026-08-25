@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekł Jehoszua: Otwórzcie ⟨את⟩ usta ⟨the⟩ jaskini, i wyprowadźcie do mnie ⟨את⟩ tych pięciu królów z ⟨the⟩ jaskini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Otwórzcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "jaskini"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "i wyprowadźcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tych pięciu królów"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pięciu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "jaskini"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:48.393247265Z",
+  "model": "glm-5.3"
+}

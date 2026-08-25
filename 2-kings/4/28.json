@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I powiedziała: Czy prosiłam o syna od pana mego ⟨את⟩? Czy nie mówiłam: Nie zbałamucisz mnie ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "czy prosiłam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o syna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "pana mego"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pana mego"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mówiłam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "zbałamucisz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:12.919288394Z",
+  "model": "glm-5.3"
+}

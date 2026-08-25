@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I umieścisz ⟨את⟩ ołtarz całopalenia przed wejściem Przybytku, Namiotu Spotkania.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i umieścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz całopalenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejściem"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Przybytku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:35.091847475Z",
+  "model": "glm-5.3"
+}

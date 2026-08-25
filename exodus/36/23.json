@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "I zrobił ⟨את⟩ deski dla Przybytku: dwadzieścia desek dla strony południowej, ku południowi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deski"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "deski"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "dla Przybytku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "desek"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "dla strony"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "południowej"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ku południowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:18.213006848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 140,
+  "translation": "Zachowaj mnie, Jahwe, przed rękami złoczyńcy, przed człowiekiem gwałtów strzeż mnie, którzy obmyślili odepchnąć moje kroki.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Zachowaj mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "przed rękami"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "złoczyńcy"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "przed człowiekiem"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "gwałtów"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "strzeż mnie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "obmyślili"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "odepchnąć"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "moje kroki"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:46.629244303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "A gdy powstrzymasz się od ślubowania, nie będzie w tobie grzechu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a gdy"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "powstrzymasz się"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "od ślubowania"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grzechu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:38.492313421Z",
+  "model": "glm-5.3"
+}

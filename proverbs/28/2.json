@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Przez przestępstwo ziemi liczni ⟨są⟩ jej książęta; a przez człowieka rozumnie znającego ⟨sposób⟩ — ⟨ten⟩ przedłuża ⟨jej dni⟩.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "przez-przestępstwo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczni"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "jej-książęta"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "a-przez-człowieka"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "rozumniego"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znającego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tak\/sposób⟩"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "przedłuża"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:17.898763532Z",
+  "model": "glm-5.3"
+}

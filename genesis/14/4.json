@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Dwanaście lat służyli ⟨את⟩ Kedorlaomerowi, a w trzynastym roku zbuntowali się.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naście"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomerowi"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomerowi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a w trzy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-nastym"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "zbuntowali się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:23.308201611Z",
+  "model": "glm-5.3"
+}

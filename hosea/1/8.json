@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A gdy odsadziła Lo-Ruchamę, poczęła i urodziła syna.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "A gdy odsadziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchamę"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamę"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "poczęła"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:30.428097012Z",
+  "model": "glm-5.3"
+}

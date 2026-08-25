@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Nie bądź wśród pijących wino, wśród żarłoków mięsa, dla nich.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bądź"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "wśród pijących"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "wśród żarłoków"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mięsa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dla nich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:46.423421996Z",
+  "model": "glm-5.3"
+}

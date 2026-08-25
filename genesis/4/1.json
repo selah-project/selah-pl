@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A ⟨człowiek⟩ poznał ⟨את⟩ Chawę, żonę swoją; i poczęła, i urodziła ⟨את⟩ Kajina, i powiedziała: Nabyłam męża ⟨את⟩ ⟨z⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "A ⟨człowiek⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chawę"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "żonę swoją"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajina"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Nabyłam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨z⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:50.574852313Z",
+  "model": "glm-5.3"
+}

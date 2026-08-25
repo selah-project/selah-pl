@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Brzemię Bawel, które widział Jeszajahu, syn Amoca.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Brzemię"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "widział"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeszajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoca"
+    }
+  ],
+  "timestamp": "2026-08-25T00:22:38.947713600Z",
+  "model": "glm-5.3"
+}

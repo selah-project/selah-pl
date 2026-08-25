@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł do nich Eliszua: Nie ta ⟨jest⟩ droga i nie to ⟨jest⟩ miasto; idźcie za mną, a poprowadzę was ⟨את⟩ do męża, którego szukacie. I poprowadził ich ⟨את⟩ do Szomronu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "droga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za mną"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "a poprowadzę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "do męża"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "szukacie"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poprowadził"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "do Szomronu"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "do Szomronu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:59.540517378Z",
+  "model": "glm-5.3"
+}

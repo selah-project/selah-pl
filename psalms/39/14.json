@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Odwróć wzrok ode mnie, abym się rozweselił, nim odejdę — i już mnie nie będzie.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Odwróć wzrok"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "abym się rozweselił"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "odejdę"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "i już mnie nie będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:22.675655111Z",
+  "model": "glm-5.3"
+}

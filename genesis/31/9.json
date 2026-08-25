@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I Elohim wyrwał ⟨את⟩ trzody waszego ojca i dał ⟨je⟩ mnie.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "i wyrwał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzody waszego ojca"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "waszego ojca"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:17.569627125Z",
+  "model": "glm-5.3"
+}

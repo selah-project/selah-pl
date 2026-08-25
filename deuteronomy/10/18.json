@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "wymierzający prawo sierocie i wdowie, i miłujący przybysza, by dać mu chleb i szatę;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "wymierzający"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawo\/sprawiedliwość"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sierocie"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "i wdowie"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "i miłujący"
+    },
+    {
+      "surface": "גר",
+      "gloss": "przybysza"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "by dać"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "i szatę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:52.908245611Z",
+  "model": "glm-5.3"
+}

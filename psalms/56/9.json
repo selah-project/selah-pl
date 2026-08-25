@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Tułactwo moje policzyłeś Ty — złóż łzy moje w swym bukłaku; czyż nie ⟨są⟩ w księdze Twojej?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "tułactwo moje"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "policzyłeś"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "złóż"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "łzy moje"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "w swym bukłaku"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "w księdze Twojej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.560228794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I przyśnił się Josefowi sen, i opowiedział ⟨את⟩ jego braciom, a oni jeszcze bardziej nienawidzili ⟨את⟩ jego.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "i przyśnił się"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefowi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i opowiedział"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "jego braciom"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "a oni jeszcze bardziej"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeszcze"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nienawidzili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:47.017803735Z",
+  "model": "glm-5.3"
+}

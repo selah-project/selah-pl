@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "bo zabijesz go — na pewno zabijesz; twoja ręka będzie w nim pierwsza, by go uśmiercić, a ręka całego ludu na końcu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabijesz"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "na pewno zabijesz go"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "twoja ręka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pierwsza"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "by go uśmiercić"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "a ręka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "na końcu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:23.378374833Z",
+  "model": "glm-5.3"
+}

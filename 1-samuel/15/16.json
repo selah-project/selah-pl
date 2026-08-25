@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I rzekł Szmuel do Szaula: Zaniechaj, a oznajmię ci ⟨את⟩ to, co Jahwe mówił do mnie tej nocy. I rzekł do niego: mów!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "zaniechaj"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "a oznajmię"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co Jahwe mówił"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tej nocy"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów!"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:31.614106234Z",
+  "model": "glm-5.3"
+}

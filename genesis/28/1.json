@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I przywołał Jicchak Jaakowa, i pobłogosławił go ⟨את⟩, i przykazał mu, i rzekł mu: nie weźmiesz żony spośród córek Kanaanu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i pobłogosławił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "i przykazał mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "żony"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "spośród córek"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:10.491098895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I rzekł król: Zejdź ⟨na bok⟩, stań tutaj. I ⟨on⟩ obszedł i stanął.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "סב",
+      "gloss": "zejdź na bok"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stań"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i obszedł"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stanął"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:25.089724898Z",
+  "model": "glm-5.3"
+}

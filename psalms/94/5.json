@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Twój lud, Jahwe, miażdżą, i Twoje dziedzictwo gnębią.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Twój lud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "miażdżą"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "i Twoje dziedzictwo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "gnębią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:26.161843665Z",
+  "model": "glm-5.3"
+}

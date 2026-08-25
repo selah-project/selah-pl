@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Bo Ty ⟨jesteś⟩ nadzieją moją, Adonai Jahwe, ufnością moją od mojej młodości.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "nadzieją moją"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ufnością moją"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mojej młodości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:20.254320351Z",
+  "model": "glm-5.3"
+}

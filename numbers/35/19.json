@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Goel krwi — on zabije ⟨את⟩ mordercę; gdy go spotka, on go zabije.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mordercę"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mordercę"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "gdy spotka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "go zabije"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:38.833658626Z",
+  "model": "glm-5.3"
+}

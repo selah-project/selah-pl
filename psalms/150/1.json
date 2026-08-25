@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 150,
+  "translation": "Chwalcie Jah! Chwalcie Ela w ⟨jego⟩ świątyni ⟨jego⟩, chwalcie Go w sklepieniu mocy ⟨jego⟩!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "w ⟨jego⟩ świątyni ⟨jego⟩"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie Go"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "w sklepieniu"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "mocy ⟨jego⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:59.333017068Z",
+  "model": "glm-5.3"
+}

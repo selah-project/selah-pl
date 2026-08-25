@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "i wyleję gniew mój na Sin, twierdzę Micraim, i wytnę ⟨את⟩ tłum No.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "i wyleję"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "gniew mój"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "twierdzę"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i wytnę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tłum No"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tłum"
+    },
+    {
+      "surface": "נא",
+      "gloss": "No"
+    }
+  ],
+  "timestamp": "2026-08-25T01:21:38.157720183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I dam tobie i twojemu potomstwu po tobie ⟨את⟩ ziemię twoich wędrowek, ⟨את⟩ całą ziemię Kenaan na posiadanie wieczne, i będę im za Elohim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i twojemu potomstwu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "po tobie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię twoich wędrowek"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "twoich wędrowek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą ziemię Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "na posiadanie"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczne"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "i będę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:42.814890530Z",
+  "model": "glm-5.3"
+}

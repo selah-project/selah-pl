@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "i usłyszysz na niebiosach ⟨את⟩ ich modlitwę i ⟨את⟩ ich błaganie, i sprawisz ich prawo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "i usłyszysz"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "na niebiosach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich modlitwę"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ich modlitwę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich błaganie"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ich błaganie"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i sprawisz"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ich prawo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:54.934400853Z",
+  "model": "glm-5.3"
+}

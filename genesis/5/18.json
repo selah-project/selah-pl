@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I żył Jered sześćdziesiąt dwa lata oraz sto lat, i zrodził ⟨את⟩ Chanocha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "I żył"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i sześćdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lata"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "oraz sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanocha"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanocha"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:05.143289921Z",
+  "model": "glm-5.3"
+}

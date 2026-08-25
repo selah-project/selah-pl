@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rzekł król: Co mnie i do was, synowie Tserujah? Niech złorzeczy, skoro Jahwe mu powiedział: Złorzecz ⟨את⟩ Dawidowi; i kto powie: Dlaczego tak uczyniłeś?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "i do was"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "skoro"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "złorzeczy"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "skoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Złorzecz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidowi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i kto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "powie"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Dlaczego"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:31.678125195Z",
+  "model": "glm-5.3"
+}

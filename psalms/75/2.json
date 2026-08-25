@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 75,
+  "translation": "Wyznajemy ⟨את⟩ Tobie, Elohim, wyznajemy, bo bliskie ⟨jest⟩ imię Twoje; opowiadają cuda Twoje.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Wyznajemy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tobie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "wyznajemy"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "bo bliskie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "opowiadają"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "cuda Twoje"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:26.819864726Z",
+  "model": "glm-5.3"
+}

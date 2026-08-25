@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Kto ją ukrywa, ukrywa wiatr, a olejek prawicy jego woła ⟨się zdradza⟩.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "kto ją ukrywa"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "ukrywa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "a olejek"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "prawicy jego"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "woła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:27.726356351Z",
+  "model": "glm-5.3"
+}

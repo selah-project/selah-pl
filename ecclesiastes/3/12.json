@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Poznałem, że nie ma w nich dobra, lecz tylko, by się radować i czynić dobro w swoim życiu.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Poznałem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "by się radować"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "i czynić"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "w swoim życiu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:47.549223801Z",
+  "model": "glm-5.3"
+}

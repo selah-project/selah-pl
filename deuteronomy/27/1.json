@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I rozkazał Mosze oraz starsi Jisraela ⟨את⟩ lud, mówiąc: Strzeż ⟨את⟩ całego przykazania, które ja nakazuję ⟨את⟩ wam dzisiaj.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I rozkazał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "oraz starsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Strzeż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całego przykazania"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "przykazania"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nakazuję"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:59.977988777Z",
+  "model": "glm-5.3"
+}

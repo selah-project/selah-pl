@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "a ⟨את⟩ brata waszego najmłodszego przyprowadźcie do mnie, i uprawdopodobnią się słowa wasze, i nie umrzecie. I uczynili tak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "brata waszego najmłodszego"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brata waszego"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "najmłodszego"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "przyprowadźcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "i uprawdopodobnią się"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "słowa wasze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "umrzecie"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:42.845015115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I zmierzył ⟨את⟩ przedsionek bramy od strony świątyni: jedną trzcinę.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "i zmierzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przedsionek bramy"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "przedsionek"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "od strony świątyni"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "trzcinę"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:27:18.669221347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A rzeka wychodziła z Eden, aby nawadniać ⟨את⟩ ogród, i stamtąd się rozdzielała i ⟨stawała się⟩ czterema głowami.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "a rzeka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wychodziła"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "z Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "aby nawadniać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogród"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ogród"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "i stamtąd"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "się rozdzielała"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i stawała się"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "czterema"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "głowami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:08.216692678Z",
+  "model": "glm-5.3"
+}

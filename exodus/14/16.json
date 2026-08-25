@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "A ty podnieś ⟨את⟩ swoją laskę i wyciągnij ⟨את⟩ swoją rękę nad morze i rozetnij je, i wejdą synowie Izraela w środek morza po suchym gruncie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "podnieś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją laskę"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "swoją laskę"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "i wyciągnij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją rękę"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "i rozetnij je"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i wejdą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środek"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suchym gruncie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:29.521652403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Bo ⟨on⟩ powiedział, i ⟨stało się⟩; ⟨on⟩ rozkazał, i ⟨to⟩ stanęło.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ⟨stało się⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i ⟨to⟩ stanęło"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:54.120504320Z",
+  "model": "glm-5.3"
+}

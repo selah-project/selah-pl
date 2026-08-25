@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Każde zwierzę, które ⟨jest⟩ ⟨את⟩ z tobą, z wszelkiego ciała, w ptactwie i w bydle, i w każdym pełzającym, co pełza po ziemi — wyprowadź je ⟨את⟩ z sobą; i niech się rozmnożą na ziemi, i niech się rodzą, i niech się rozmnażają na ziemi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każde"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z tobą",
+      "marks": "zwierzę, które jest z tobą"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z wszelkiego"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciała"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "w ptactwie"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i w bydle"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i w każdym"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "pełzającym"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "co pełza"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "wyprowadź"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ z sobą",
+      "marks": "zwierzęta wyprowadzane z tobą"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "i niech się rozmnożą"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "i niech się rodzą"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i niech się rozmnażają"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:53.686042319Z",
+  "model": "glm-5.3"
+}

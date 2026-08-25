@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Wołam do ciebie, a ty nie odpowiadasz mi; stanąłem, a ty się mnie przypatrujesz.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "wołam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "odpowiadasz mi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "stanąłem"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "a ty się przypatrujesz"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:22:37.952844458Z",
+  "model": "glm-5.3"
+}

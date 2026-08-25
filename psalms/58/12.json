@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "I powie człowiek: zaprawdę, owoc dla sprawiedliwego; zaprawdę, jest Elohim, sądzący na ziemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "dla sprawiedliwego"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sądzący"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:03.628281726Z",
+  "model": "glm-5.3"
+}

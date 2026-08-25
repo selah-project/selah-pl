@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I przeszli ⟨את⟩ Jordan, i rozbili obóz w Aroer, na prawo od miasta, które ⟨jest⟩ w środku doliny Gad, i ⟨doszli⟩ do Jaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "i przeszli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "w Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na prawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "od miasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "doliny"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:19.124845908Z",
+  "model": "glm-5.3"
+}

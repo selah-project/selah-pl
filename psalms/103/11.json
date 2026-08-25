@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Bo jak wysoko niebiosa nad ziemią, tak wzmógł się jego chesed nad tymi, którzy go boją się.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "jak wysoko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wzmógł się"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "tymi, którzy go boją się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.869899543Z",
+  "model": "glm-5.3"
+}

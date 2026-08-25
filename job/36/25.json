@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Każdy człowiek widział ⟨go⟩; śmiertelnik ⟨patrzy⟩ z daleka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "widział"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnik"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "⟨patrzy⟩"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:23:20.301724492Z",
+  "model": "glm-5.3"
+}

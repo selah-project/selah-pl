@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I stanął, i błogosławił ⟨את⟩ cały zgromadzony lud Iszraela głosem wielkim, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "I stanął"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i błogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały zgromadzony lud Iszraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zgromadzony lud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:10.410401638Z",
+  "model": "glm-5.3"
+}

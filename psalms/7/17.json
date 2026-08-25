@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Nieprawość jego wróci na jego głowę, a na jego ciemię zstąpi jego gwałt.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "wróci"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nieprawość jego"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na jego głowę"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "jego ciemię"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "jego gwałt"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zstąpi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:22.881616177Z",
+  "model": "glm-5.3"
+}

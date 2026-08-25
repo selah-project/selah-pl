@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I powierzył naczelnik rzeźników ⟨את⟩ Josefa ⟨את⟩ nimi, i służył ⟨את⟩ im; i byli dni pod strażą.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i powierzył"
+    },
+    {
+      "surface": "שר",
+      "gloss": "naczelnik"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "rzeźników"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nimi",
+      "marks": "nimi (dwoma dworzanami)"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "i służył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ im",
+      "marks": "im"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i byli"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "pod strażą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:55.456334491Z",
+  "model": "glm-5.3"
+}

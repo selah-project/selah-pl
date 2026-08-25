@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wziął ich, i przeprowadził ich ⟨את⟩ przez potok, i przeprowadził ⟨את⟩ wszystko, co miał.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "i wziął ich"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "i przeprowadził ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przez potok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i przeprowadził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko, co miał"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:36.362520789Z",
+  "model": "glm-5.3"
+}

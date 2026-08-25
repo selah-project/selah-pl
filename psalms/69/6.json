@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Elohim, ty znasz ⟨twoją⟩ wiedzę o mojej głupocie — moją głupotę znasz; a moje winy przed tobą nie ⟨są⟩ ukryte.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "moją głupotę"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "a moje winy"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ukryte"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:54.047527960Z",
+  "model": "glm-5.3"
+}

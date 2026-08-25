@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Błogosławcie Jahwe, wszystkie Jego dzieła, we wszystkich miejscach Jego panowania; błogosław, duszo moja, ⟨את⟩ Jahwe!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Błogosławcie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Jego dzieła"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "we wszystkich"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "miejscach"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "Jego panowania"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "błogosław"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:52.871232948Z",
+  "model": "glm-5.3"
+}

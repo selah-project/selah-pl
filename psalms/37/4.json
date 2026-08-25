@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I rozkoszuj się w Jahwe, a da ci prośby twego serca.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "I rozkoszuj się"
+    },
+    {
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "prośby"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "twego serca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:07.368931807Z",
+  "model": "glm-5.3"
+}

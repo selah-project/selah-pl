@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "A jeśli nie usłuchacie głosu Jahwe, lecz zbuntujecie się przeciw ⟨את⟩ ust Jahwe, to będzie ręka Jahwe przeciwko wam i przeciwko waszym ojcom.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "usłuchacie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "lecz zbuntujecie się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ust"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "to będzie"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "przeciwko wam"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "i przeciwko waszym ojcom"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:05.143614357Z",
+  "model": "glm-5.3"
+}

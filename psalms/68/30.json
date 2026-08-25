@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Z twego pałacu nad Jeruszalaim przyprowadzą tobie królowie dary.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Z twego pałacu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "przyprowadzą"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dary"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:49.416841509Z",
+  "model": "glm-5.3"
+}

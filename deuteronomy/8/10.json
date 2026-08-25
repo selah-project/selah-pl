@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I będziesz jadł, i będziesz syty, i będziesz błogosławił ⟨את⟩ Jahwe, Elohim twojego, za ⟨tę⟩ ziemię dobrą, którą dał tobie.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "i będziesz jadł"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "i będziesz syty"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "i będziesz błogosławił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "dobrą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:22.654469060Z",
+  "model": "glm-5.3"
+}

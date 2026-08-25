@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Każdy, który nazwany ⟨jest⟩ moim imieniem, i dla mojej chwały stworzyłem go, ukształtowałem go, nawet uczyniłem go.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Każdy"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "który nazwany"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "moim imieniem"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "i dla mojej chwały"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "stworzyłem go"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ukształtowałem go"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "uczyniłem go"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:53.556952463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 7:18",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I zatrąbię w szofar — ja i wszyscy, którzy ⟨את⟩ ze mną; i zatrącicie wy w szofary, również wy, dokoła całego obozu, i zawołacie: Dla Jahwe i dla Gideona!",
+  "tokens": [
+    {
+      "surface": "ותקעתי",
+      "gloss": "i zatrąbię"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "w szofar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ze mną",
+      "marks": "wszyscy, którzy są ze mną"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "i zatrącicie"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "w szofary"
+    },
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "i zawołacie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "ולגדעון",
+      "gloss": "i dla Gideona"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:17.753749798Z",
+  "model": "glm-5.3"
+}

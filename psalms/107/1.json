@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Wysławiajcie Jahwe, bo ⟨jest⟩ dobry, bo na wieki ⟨trwa⟩ jego chesed.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Wysławiajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:03.523130551Z",
+  "model": "glm-5.3"
+}

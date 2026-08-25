@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Zwróć się ku mnie i zmiłuj się nade mną; daj swoją moc swojemu słudze i wybaw syna swojej niewolnicy.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Zwróć się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i zmiłuj się nade mną"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "swoją moc"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "swojemu słudze"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "i wybaw"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "swojej niewolnicy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:15.257679624Z",
+  "model": "glm-5.3"
+}

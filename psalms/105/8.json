@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Pamiętał na wieki o swoim przymierzu — słowa, które rozkazał na tysiąc pokoleń,",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pamiętał"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "o swoim przymierzu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rozkazał"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "na tysiąc"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokoleń"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.933798426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Schnie trawa, więdnie kwiat, lecz słowo Elohim naszego trwa na wieki.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "schnie"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kwiat"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lecz słowo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszego"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "trwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:20.073559901Z",
+  "model": "glm-5.3"
+}

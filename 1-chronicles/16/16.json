@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "które zawarł ⟨z⟩ ⟨את⟩ Awrahamem, i przysięgę Jego Jicchakowi —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "zawarł (dosł. wy-cut)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahamem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahamem"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "i przysięgę Jego"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:34.922626471Z",
+  "model": "glm-5.3"
+}

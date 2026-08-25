@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zbudował przy ścianie domu przybudówkę dookoła — ⟨את⟩ ścian domu dookoła, hekałowi i debirowi — i uczynił boczne przybudówki dookoła.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ścianie"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "przybudówkę"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ściany domu"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "ściany"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "hekałowi"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "i debirowi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "boczne przybudówki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:58:01.474530934Z",
+  "model": "glm-5.3"
+}

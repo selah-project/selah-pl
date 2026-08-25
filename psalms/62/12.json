@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "Jedną ⟨rzecz⟩ przemówił Elohim, dwie ⟨tę⟩ usłyszałem: że moc ⟨należy⟩ do Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Jedną ⟨rzecz⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨tę⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moc"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "do Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:01.071450085Z",
+  "model": "glm-5.3"
+}

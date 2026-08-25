@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Ojciec twój uczynił ciężkie ⟨את⟩ jarzmo nasze; a ty teraz ulż od pracy ojca twego ciężkiej i od jarzma jego ciężkiego, które nałożył na nas, a będziemy ci służyć.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Ojciec twój"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "uczynił ciężkie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarzmo nasze"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jarzmo nasze"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ulż"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "od pracy"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojca twego"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ciężkiej"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "i od jarzma jego"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ciężkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nałożył"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "a będziemy ci służyć"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:57.012551387Z",
+  "model": "glm-5.3"
+}

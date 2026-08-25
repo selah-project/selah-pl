@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Psalam dla Asafa. Zaprawdę dobry jest Elohim dla Jisraela, dla czystych sercem.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalam"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "dla Asafa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobry"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Jisraela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "dla czystych"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sercem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:46.795378961Z",
+  "model": "glm-5.3"
+}

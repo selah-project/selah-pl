@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Przez wzgląd na Dawida, sługę Twego, nie odwracaj oblicza Twego Masziacha.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "przez wzgląd na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługę Twego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odwracaj"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Twego Masziacha"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:18.097192554Z",
+  "model": "glm-5.3"
+}

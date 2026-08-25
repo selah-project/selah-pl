@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "i nie sprawią, że ⟨את⟩ ⟨oni⟩ poniosą winę przewinienia, jedząc ⟨את⟩ swoje świętości, bo Ja, Jahwe, uświęcam ich.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "i sprawią, że poniosą"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨oni⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "przewinienia"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "jedząc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje świętości"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "swoje świętości"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "uświęcam ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:09.180241273Z",
+  "model": "glm-5.3"
+}

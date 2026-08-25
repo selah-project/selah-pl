@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I usunę moją dłoń, a zobaczysz ⟨את⟩ moje plecy; mojego zaś oblicza nie będzie widać.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "i usunę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją dłoń"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "moją dłoń"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "a zobaczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje plecy"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "moje plecy"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a mojego oblicza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "będzie widać"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:07.686092035Z",
+  "model": "glm-5.3"
+}

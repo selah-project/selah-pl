@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I pouczysz ⟨את⟩ nich ⟨את⟩ ustaw i ⟨את⟩ nauk, i dasz im poznać ⟨את⟩ drogę, którą mają kroczyć, i ⟨את⟩ dzieło, które mają czynić.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "i pouczysz"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ nich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustaw"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nauk"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "nauk"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "i dasz poznać"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drogę"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mają kroczyć"
+    },
+    {
+      "surface": "בה",
+      "gloss": "którą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dzieło"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "mają czynić"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:01.621944498Z",
+  "model": "glm-5.3"
+}

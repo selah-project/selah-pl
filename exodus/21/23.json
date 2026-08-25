@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A jeśli będzie nieszczęście, to dasz nefesz za nefesz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "nieszczęście"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dasz"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:02.155074137Z",
+  "model": "glm-5.3"
+}

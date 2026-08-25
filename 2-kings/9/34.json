@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I wszedł, i jadł, i pił, i rzekł: Zajmijcie się ⟨את⟩ tą przeklętą i pogrzebcie ją, bo jest córką króla.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wszedł"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i jadł"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "i pił"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "zajmijcie się"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(proszę)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tą przeklętą"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "tą przeklętą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tę"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "i pogrzebcie ją"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córką"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jest"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:37.528081445Z",
+  "model": "glm-5.3"
+}

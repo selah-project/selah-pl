@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Kto zwodzi prostych na złą drogę, w swoim dole ⟨on⟩ upadnie, a niewinni odziedziczą dobro.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "zwodzi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prostych"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drogę"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złą"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "w swoim dole"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "upadnie"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "a niewinni"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "odziedziczą"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:44.219672388Z",
+  "model": "glm-5.3"
+}

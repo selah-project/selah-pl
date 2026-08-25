@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I postawił ⟨את⟩ jednego w Bet-El, a ⟨את⟩ jednego dał w Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i postawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jednego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "w Dan"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:42.899176236Z",
+  "model": "glm-5.3"
+}

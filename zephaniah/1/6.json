@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ⟨את⟩ odwracających się od ⟨spodążania⟩ Jahwe, i tych, którzy nie szukali ⟨את⟩ Jahwe i nie pytali o niego.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "odwracających się"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "odwracających się"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od ⟨spodążania⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i tych, którzy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "szukali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "pytali o niego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:22.338420889Z",
+  "model": "glm-5.3"
+}

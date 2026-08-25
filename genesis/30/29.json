@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I rzekł do niego: Ty wiesz, ⟨את⟩ jak ci służyłem i ⟨את⟩ jak było z twoim bydłem ⟨את⟩ u mnie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jak ci służyłem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ci służyłem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jak było z twoim bydłem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "twoje bydło"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ u mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:06.394202482Z",
+  "model": "glm-5.3"
+}

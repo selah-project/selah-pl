@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I dał kapłan dowódcom setników ⟨את⟩ włócznię i ⟨את⟩ tarcze, które należały do króla Dawida, które były w domu Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "dowódcom"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "setników"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "włócznię"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "włócznię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tarcze"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "tarcze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "należały do króla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:18.795428403Z",
+  "model": "glm-5.3"
+}

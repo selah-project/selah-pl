@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I nakaże kapłan, i wyjmą ⟨את⟩ kamienie, w których ⟨jest⟩ zmora, i wyrzucą ⟨את⟩ je na zewnątrz miasta, na miejsce nieczyste.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i nakaże"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "i wyjmą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamienie"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w których"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zmora"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "i wyrzucą"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zewnątrz"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nieczyste"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:26.493614465Z",
+  "model": "glm-5.3"
+}

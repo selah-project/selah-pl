@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Uciska ubogiego, żeby mu przysporzyć; daje bogaczowi — ⟨to⟩ tylko ku niedostatkowi.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "Uciska"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "żeby przysporzyć"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "bogaczowi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ku niedostatkowi"
+    }
+  ],
+  "timestamp": "2026-08-25T03:47:41.023853662Z",
+  "model": "glm-5.3"
+}

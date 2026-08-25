@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Nie wyjawiła Ester ⟨את⟩ swojego ludu ani ⟨את⟩ swojego pochodzenia, bo Mordechaj nakazał jej, aby nie wyjawiła.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "wyjawiła"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojego ludu"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "swojego pochodzenia"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "swoje pochodzenie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "wyjawiła"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:59.562163420Z",
+  "model": "glm-5.3"
+}

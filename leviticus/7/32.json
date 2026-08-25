@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ nogę prawą dacie jako dar wznieśny kapłanowi, z rzeźni waszych ofiar pojednania.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nogę prawą"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "nogę"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "prawą"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dacie"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "jako dar wznieśny"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kapłanowi"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "z rzeźni"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "waszych ofiar pojednania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:53.865750971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I wszyscy mężowie Jisraëla, gdy ujrzeli ⟨את⟩ męża, uciekli przed obliczem jego i bali się bardzo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i wszyscy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëla"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "gdy ujrzeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "męża"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "uciekli"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "przed obliczem jego"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i bali się"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:49.449437072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I zawarł Jehoszafat pokój z królem Jisraela.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "zawarł pokój"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T00:07:20.147093259Z",
+  "model": "glm-5.3"
+}

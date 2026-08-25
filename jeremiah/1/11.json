@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 1:11",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I stało się słowo Jahwe do mnie, mówiąc: Co ty widzisz, Jirmejahu? I rzekłem: Gałązkę szakedu widzę.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzisz"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "gałązkę"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "szakedu (migdału)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:40:04.026219238Z",
+  "model": "glm-5.3"
+}

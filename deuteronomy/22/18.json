@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wezmą starsze tego miasta ⟨את⟩ męża i ⟨את⟩ go_skarzą.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "i wezmą"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsze"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "męża"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "i skarzą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:49.057158692Z",
+  "model": "glm-5.3"
+}

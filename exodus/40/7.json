@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I umieścisz ⟨את⟩ umywalnię między Namiotem Spotkania a ołtarzem, i wlejesz tam wody.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i umieścisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umywalnię"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umywalnię"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzem"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i wlejesz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:35.092003870Z",
+  "model": "glm-5.3"
+}

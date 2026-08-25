@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Nie spiesz się w swoim duchu do gniewu, bo gniew w zanadrzu głupców odpoczywa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "spiesz się"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "w swoim duchu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "do gniewu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "w zanadrzu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "głupców"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "odpoczywa"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:57.578273251Z",
+  "model": "glm-5.3"
+}

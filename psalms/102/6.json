@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Od głosu mego wzdychania przywarły moje kości do mojego ciała.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "od głosu"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mego wzdychania"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "przywarła"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moje kości"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "do mego ciała"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:20.580478545Z",
+  "model": "glm-5.3"
+}

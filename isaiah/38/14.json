@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Jak żuraw, jak jaskółka, tak świergam; gołębicą jęczę; mdleją moje oczy ku wysokości: Adonai, ucisk mnie przygniata — wejdź w poręczenie za mną.",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "jak żuraw"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "jak jaskółka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "świergam"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "jęczę"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "gołębicą"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "mdleją"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oczy"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ku wysokości"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "wejdź w poręczenie za mną"
+    }
+  ],
+  "timestamp": "2026-08-25T00:29:32.236535565Z",
+  "model": "glm-5.3"
+}

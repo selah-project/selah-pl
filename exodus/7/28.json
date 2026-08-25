@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I zaroi się od żab Nil, i wypełzą, i wejdą do twojego domu, i do sypialni twego łoża, i na twoje łóżko, i do domu twoich sług, i do twojego ludu, i do twoich pieców, i do twoich kierek.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "i zaroi się"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nil"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "żab"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "i wypełzą"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "i wejdą"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "do twojego domu"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "i do sypialni"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "twego łoża"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "twoje łóżko"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "i do domu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "twoich sług"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "i do twojego ludu"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "i do twoich pieców"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "i do twoich kierek"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:35.284734248Z",
+  "model": "glm-5.3"
+}

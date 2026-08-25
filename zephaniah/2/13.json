@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I wyciągnie swoją rękę na północ, i zniszczy ⟨את⟩ Aszszur, i uczyni ⟨את⟩ Niniwę pustkowiem, suchym jak pustynia.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i wyciągnie"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "północ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "i zniszczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszszur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i uczyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niniwę"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwę"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "pustkowiem"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suchym"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "jak pustynia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:55.172193903Z",
+  "model": "glm-5.3"
+}

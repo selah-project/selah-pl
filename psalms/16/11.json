@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Ujawnisz mi ścieżkę życia: sytość radości ⟨את⟩ Twoje oblicze, rozkosze w Twej prawicy na wieki.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Ujawnisz mi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ścieżkę"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życia"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sytość"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "radości"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Twoje oblicze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Twoje oblicze"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "rozkosze"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "w Twej prawicy"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:15.480020291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "król Jeruszalaim — jeden; król Chewron — jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:45.689100464Z",
+  "model": "glm-5.3"
+}

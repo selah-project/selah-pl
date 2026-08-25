@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "A Jaakow usłyszał, że zhańbił ⟨את⟩ Dinę, córkę jego, a synowie jego byli ⟨את⟩ trzodami jego na polu, i zamilkł Jaakow, aż przyszli.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "A Jaakow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "zhańbił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinę"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinę"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "córkę jego"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a synowie jego"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trzodami jego"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "trzodami jego"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "i zamilkł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "באם",
+      "gloss": "przyszli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:24.929435074Z",
+  "model": "glm-5.3"
+}

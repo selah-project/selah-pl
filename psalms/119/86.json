@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wszystkie twoje przykazania ⟨są⟩ wiernością; kłamstwem ścigali mnie — wspomóż mnie!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystkie"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoje przykazania"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "wiernością"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwem"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ścigali mnie"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "wspomóż mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:23.773243878Z",
+  "model": "glm-5.3"
+}

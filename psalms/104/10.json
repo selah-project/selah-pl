@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "⟨Ten, który⟩ wysyła źródła w dolinach — między góry one płyną.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "wysyła"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "źródła"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "w dolinach"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "górami"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "płyną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:25.914498418Z",
+  "model": "glm-5.3"
+}

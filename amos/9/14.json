@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 9:14",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przywrócę ⟨את⟩ los niewoli mojego ludu Izraela, a odbudują spustoszone miasta i zamieszkają, i nasadzą winnice, i będą pić ⟨את⟩ ich wino, i założą ogrody, i będą jeść ⟨את⟩ ich owoc.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "I przywrócę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los niewoli"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "los niewoli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojego ludu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "a odbudują"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "spustoszone"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i zamieszkają"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "i nasadzą"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "winnice"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "i będą pić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich wino"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ich wino"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "i założą"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ogrody"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i będą jeść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich owoc"
+    },
+    {
+      "surface": "פריהם",
+      "gloss": "ich owoc"
+    }
+  ],
+  "timestamp": "2026-08-25T01:34:22.272014446Z",
+  "model": "glm-5.3"
+}

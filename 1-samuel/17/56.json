@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł król: Wypytaj — czyim ⟨jest⟩ syn ⟨ten⟩, ów młodzieniec?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wypytaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "czyim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ów młodzieniec"
+    }
+  ],
+  "timestamp": "2026-08-25T04:11:11.285423711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A dawaliście ⟨את⟩ nazirejczykom wino, a prorokom nakazaliście, mówiąc: nie prorokujcie!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "a dawaliście pić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirejczykom"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirejczykom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a … co do"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "nakazaliście"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "prorokujcie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:18:22.404094451Z",
+  "model": "glm-5.3"
+}

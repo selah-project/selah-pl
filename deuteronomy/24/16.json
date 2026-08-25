@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Nie będą zabijani ojcowie za synów, i synowie nie będą zabijani za ojców; każdy człowiek za swój grzech będzie zabity.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "będą zabijani"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ojcowie"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "i synowie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "będą zabijani"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ojców"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy człowiek"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "za swój grzech"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:28.217285708Z",
+  "model": "glm-5.3"
+}

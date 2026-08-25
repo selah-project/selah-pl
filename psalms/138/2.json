@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 138,
+  "translation": "Kłaniam się ku ⟨twojemu⟩ świętemu przybytkowi i dziękuję ⟨את⟩ twemu imieniu, za twój chesed i za twoją wierność, bo wielkim uczyniłeś ponad wszystko twe imię twe słowo.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Kłaniam się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "przybytkowi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "twemu świętemu"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "i dziękuję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twemu imieniu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twemu imieniu"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "twój chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "twoją wierność"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "wielkim uczyniłeś"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "twe imię"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "twe słowo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:38.909503177Z",
+  "model": "glm-5.3"
+}

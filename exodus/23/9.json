@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "A przybysza nie będziesz uciskał, bo wy znacie ⟨את⟩ duszę przybysza, gdyż przybyszami byliście w ziemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "a przybysza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "będziesz uciskał"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duszę przybysza"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duszę"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "przybysza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "przybyszami"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "byliście"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:20.238120827Z",
+  "model": "glm-5.3"
+}

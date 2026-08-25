@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Siedzących w ciemności i cieniu śmierci, więźniów nędzy i żelaza,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "siedzących"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "w ciemności"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "i cieniu śmierci"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "więźniów"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nędzy"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "i żelaza"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:35.777663031Z",
+  "model": "glm-5.3"
+}

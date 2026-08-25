@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Cały dzień okazuje łaskę i pożycza, a jego potomstwo ⟨jest⟩ na błogosławieństwo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "okazuje łaskę"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "i pożycza"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "a jego potomstwo"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "na błogosławieństwo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:37.640514854Z",
+  "model": "glm-5.3"
+}

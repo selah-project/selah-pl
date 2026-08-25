@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Oto morze, wielkie i szerokie ramionami, tam pełzające <istoty> bez liczby, stworzenia małe wraz z wielkimi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "i szerokie"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ramionami"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "pełzające"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "liczby"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "stworzenia"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "małe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wraz z"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "wielkimi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:05.091450556Z",
+  "model": "glm-5.3"
+}

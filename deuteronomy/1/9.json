@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I przemówiłem do was w owym czasie, mówiąc: Nie zdołam sam unieść ⟨את⟩ was.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i przemówiłem"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zdołam"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "unieść"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:31.927103733Z",
+  "model": "glm-5.3"
+}

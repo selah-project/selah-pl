@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Bo ⟨jest⟩ mgnienie w Jego gniewie, życie w Jego łasce; wieczorem zatrzyma się płacz, a rankiem radość ⟨krzyk⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "mgnienie"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "w Jego gniewie"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życie"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "w Jego łasce"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zatrzyma się"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "płacz"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "a rankiem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radość ⟨krzyk⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:49.265105760Z",
+  "model": "glm-5.3"
+}

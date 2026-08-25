@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Rozwesel duszę sługi twego, bo do ciebie, Adonai, duszę moją wznoszę.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Rozwesel"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duszę"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługi twego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszę moją"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wznoszę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:04.640253899Z",
+  "model": "glm-5.3"
+}

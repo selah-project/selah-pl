@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I usunął ⟨את⟩ bogów obcych oraz ⟨את⟩ posążek z domu Jahwe, i wszystkie ołtarze, które zbudował na górze domu Jahwe i w Jeruszalaim, i wyrzucił ⟨je⟩ poza miasto.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogów obcych"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "posążek"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "posążek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "i w Jeruszalaim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i wyrzucił"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "⟨je⟩ poza"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasto"
+    }
+  ],
+  "timestamp": "2026-08-25T03:11:08.931147185Z",
+  "model": "glm-5.3"
+}

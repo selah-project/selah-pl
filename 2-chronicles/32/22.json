@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wybawił Jahwe ⟨את⟩ Chizkijahu oraz ⟨את⟩ mieszkańców Jeruszalaim z ręki Sancheryba, króla Aszszura, i z ręki wszystkich; i dał im spokój dokoła.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "i wybawił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chizkijahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "mieszkańców Jeruszalaim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheryba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszszura"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i z ręki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "i dał im spokój"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:10:42.123097444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "W owe dni, gdy król Achaszérosz zasiadał na tronie swego królestwa, który ⟨jest⟩ w Szuszan, ⟨w twierdzy⟩,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "W dni"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "owe"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "gdy zasiadał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaszérosz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronie"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "swego królestwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "w Szuszan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "twierdzy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:33:59.745014883Z",
+  "model": "glm-5.3"
+}

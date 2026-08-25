@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I nazwał Elohim sklepienie niebiosami; i był wieczór, i był poranek — dzień drugi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nazwał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sklepieniu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wieczór"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "poranek"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:14.307528113Z",
+  "model": "glm-5.3"
+}

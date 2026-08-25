@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "A jeśli nie ma dla niego braci, to dacie ⟨את⟩ jego dziedzictwo braciom jego ojca.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "braci"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "to dacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego dziedzictwo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jego dziedzictwo"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "braciom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    }
+  ],
+  "timestamp": "2026-08-24T22:59:53.694111968Z",
+  "model": "glm-5.3"
+}

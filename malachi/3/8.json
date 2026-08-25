@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Czy okradnie człowiek ⟨את⟩ Elohim? Bo wy okłudacie ⟨את⟩ mnie, a mówiliście: W czym Cię okradamy? W dziesięcinie i w ofierze.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Czy okradnie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wy"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "okradacie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "a mówiliście"
+    },
+    {
+      "surface": "במה",
+      "gloss": "W czym"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "Cię okradamy"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "W dziesięcinie"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "i w ofierze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:14.616019864Z",
+  "model": "glm-5.3"
+}

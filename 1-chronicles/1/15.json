@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ Chiwwitę, i ⟨את⟩ Arkytę, i ⟨את⟩ Sinitę.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chiwwitę"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwwitę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Arkytę"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Sinitę"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinitę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:11.977910848Z",
+  "model": "glm-5.3"
+}

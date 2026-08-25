@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 58,
+  "translation": "Jak ślimak, co się rozpływa, niech odejdzie; jak poroniony płód kobiety, który nie ujrzał słońca.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ślimak"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "rozpływanie się"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "niech odejdzie"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "poroniony płód"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ujrzał"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "słońca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:03.627357910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Nie ⟨ma⟩ świętego jak Jahwe, bo nie ⟨ma⟩ oprócz ciebie, i nie ⟨ma⟩ skały jak Elohim nasz.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nie ⟨ma⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "świętego"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jak Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ⟨ma⟩"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "oprócz ciebie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ⟨ma⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skały"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "jak Elohim nasz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:07.822387539Z",
+  "model": "glm-5.3"
+}

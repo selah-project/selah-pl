@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Oto z ich ust tryskają miecze, na ich wargach — bo kto słyszy?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "tryskają"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "z ich ust"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "miecze"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "na ich wargach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słyszy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:42.735619520Z",
+  "model": "glm-5.3"
+}

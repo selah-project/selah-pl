@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Przed Twoją zapalczywością i Twoim gniewem, bo mnie uniósłeś i strąciłeś mnie.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Przed"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "Twoją zapalczywością"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "i Twoim gniewem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "mnie uniósłeś"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "i strąciłeś mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:27.120449672Z",
+  "model": "glm-5.3"
+}

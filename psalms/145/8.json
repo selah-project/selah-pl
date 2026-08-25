@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Łaskawy i miłosierny ⟨jest⟩ Jahwe, powolny do gniewu i wielki w wiernej miłości ⟨przymierza⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Łaskawy"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "i miłosierny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "powolny"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "do gniewu"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "w wiernej miłości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:09.239594668Z",
+  "model": "glm-5.3"
+}

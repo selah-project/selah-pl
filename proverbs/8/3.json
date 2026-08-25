@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Obok bram, u wejścia ⟨do⟩ miasta, przy wejściu do wrót ona wykrzykuje.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "obok"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bram"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "przy wejściu"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "wrót"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "wykrzykuje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:38.637027767Z",
+  "model": "glm-5.3"
+}

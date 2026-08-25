@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i uczyń według swojej mądrości, i nie zezwól, by jego siwa głowa zeszła w pokoju do Szeolu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczyń"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "według swojej mądrości"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "zezwól, by zeszła"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "jego siwa głowa"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "do Szeolu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:38.813312822Z",
+  "model": "glm-5.3"
+}

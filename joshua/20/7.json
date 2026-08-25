@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I poświęcili ⟨את⟩ Kedesz w Galil, w górze Naftalego, oraz ⟨את⟩ Sychem w górze Efrajima, oraz ⟨את⟩ Kirjat-Arba, to jest Chebron, w górze Jehudy.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "I poświęcili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesz"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "w Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Sychem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sychem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "w górze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:19.813477104Z",
+  "model": "glm-5.3"
+}

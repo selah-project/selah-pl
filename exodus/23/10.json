@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "A sześć lat będziesz siejał ⟨את⟩ swoją ziemię i zbierzesz ⟨את⟩ jej plon.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "a sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "będziesz siejał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoją ziemię"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "swoją ziemię"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i zbierzesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej plon"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jej plon"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:20.238339735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Mosze: Zwrócę się teraz, proszę, i zobaczę ⟨את⟩ to wielkie zjawisko — dlaczego krzak się nie spala?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Zwrócę się"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i zobaczę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to wielkie zjawisko"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "zjawisko"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wielkie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "się spala"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "krzak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:10.362579523Z",
+  "model": "glm-5.3"
+}

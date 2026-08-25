@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Przerażający jest Jahwe przeciw nim, bo wyniszczy ⟨את⟩ wszystkich bogów ziemi; i pokłoni się mu każdy na swoim miejscu, wszystkie wybrzeża narodów.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "Przerażający"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "przeciw nim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "wyniszczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich bogów ziemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłoni się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "na swoim miejscu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "איי",
+      "gloss": "wybrzeża"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:46.479364481Z",
+  "model": "glm-5.3"
+}

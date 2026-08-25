@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Dobry ⟨jest⟩ mąż — łaskawie obdarza i pożycza; podtrzyma swe sprawy w sądzie.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobry"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "łaskawie obdarza"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "i pożycza"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "podtrzyma"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "swe sprawy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w sądzie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:00.228869206Z",
+  "model": "glm-5.3"
+}

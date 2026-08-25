@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Znasz ⟨to⟩, bo wtedy się urodziłeś, i liczba twoich dni jest wielka!",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Znasz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wtedy"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "się urodziłeś"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "i liczba"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "twoich dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "jest wielka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:24:26.399297955Z",
+  "model": "glm-5.3"
+}

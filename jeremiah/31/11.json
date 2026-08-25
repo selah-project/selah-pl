@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Bo Jahwe wykupił ⟨את⟩ Jaakowa i wybawił go z ręki mocniejszego niż on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wykupił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "i wybawił go"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mocniejszego"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niż on"
+    }
+  ],
+  "timestamp": "2026-08-25T00:53:34.684473148Z",
+  "model": "glm-5.3"
+}

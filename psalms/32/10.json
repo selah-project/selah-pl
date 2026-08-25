@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Liczne boleści ⟨są⟩ dla bezbożnego, a temu, który ufa w Jahwe — chesed ⟨otacza⟩ go.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Liczne"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "boleści"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "dla bezbożnego"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "a temu, który ufa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "otacza go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:11.996852939Z",
+  "model": "glm-5.3"
+}

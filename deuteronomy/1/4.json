@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Po pobiciu ⟨את⟩ Sichona, króla Emorytów, który mieszkał w Cheszbonie, i ⟨את⟩ Oga, króla Baszanu, który mieszkał w Asztarot, w Edrej.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Po"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "pobiciu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichona"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorytów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mieszkał"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "w Cheszbonie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Oga"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mieszkał"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "w Asztarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "w Edrej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:25.708984142Z",
+  "model": "glm-5.3"
+}

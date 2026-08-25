@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Pieśń stopni. Pamiętaj, Jahwe, dla Dawida ⟨את⟩ wszystkie udręki jego.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stopni"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Pamiętaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dla Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie udręki jego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "udręki jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:18.943230707Z",
+  "model": "glm-5.3"
+}

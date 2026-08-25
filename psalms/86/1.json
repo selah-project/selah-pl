@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Modlitwa Dawida. Pochyl, Jahwe, ucho twoje, odpowiedz mi, bo biedny i ubogi jestem ja.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Pochyl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ucho twoje"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpowiedz mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:04.639630339Z",
+  "model": "glm-5.3"
+}

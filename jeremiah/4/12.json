@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Wiatr zbyt z tych pełny przyjdzie ku mnie; teraz także Ja wypowiem wyroki ⟨את⟩ nich.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Wiatr"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "zbyt pełny"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "z tych"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "wypowiem"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "wyroki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nich",
+      "marks": "nich"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:35.920092056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Attaj spłodził ⟨את⟩ Natana, a Natan spłodził ⟨את⟩ Zawada.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "A Attaj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zawada"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zawada"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:29.951384933Z",
+  "model": "glm-5.3"
+}

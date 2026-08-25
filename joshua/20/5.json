@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "A gdyby goślańc krwi ścigał, to nie wydadzą zabójcy w jego rękę, bo bez wiedzy zabił on ⟨את⟩ swego bliźniego i nie nienawidził on jemu od wczoraj i przedwczoraj.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a gdyby"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ścigał"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goślańc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "to nie"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "wydadzą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabójcy"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "zabójcy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w jego rękę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wiedzy"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swego bliźniego"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swego bliźniego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nienawidził"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "od wczoraj"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "i przedwczoraj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:19.813035556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I pojmał ⟨את⟩ Agaga, króla Amaleka, żywego, a ⟨את⟩ cały lud obłożył klątwą zagłady na ostrzu miecza.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "i pojmał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żywego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "obłożył klątwą zagłady"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na ostrzu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:10.160463994Z",
+  "model": "glm-5.3"
+}

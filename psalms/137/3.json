@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Bo tam ci, którzy nas uprowadzili w niewolę, żądali od nas słów pieśni, a ci, którzy nas dręczyli — radości: „Zaśpiewajcie nam z pieśni Cijonu!”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "żądali od nas"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ci, którzy nas uprowadzili w niewolę"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśni"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "a ci, którzy nas dręczyli"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radości"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zaśpiewajcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "z pieśni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.620926055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I nie wspomnieli synowie Jisraela ⟨את⟩ Jahwe, Elohima swego, wybawiającego ich z ręki wszystkich nieprzyjaciół ich dokoła.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "wspomnieli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohima swego"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "wybawiającego"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "nieprzyjaciół ich"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:20.129884774Z",
+  "model": "glm-5.3"
+}

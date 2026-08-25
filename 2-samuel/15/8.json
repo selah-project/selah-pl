@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Bo neder złożył twój sługa, gdy przebywałem w Geszur, w Aram, mówiąc: Jeśli Jahwe na pewno mnie sprowadzi z powrotem do Jeruszalaim, to będę służył ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "złożył"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "twój sługa"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "gdy przebywałem"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "w Geszur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "w Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "na pewno sprowadzi"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "mnie z powrotem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "to będę służył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:42.968876594Z",
+  "model": "glm-5.3"
+}

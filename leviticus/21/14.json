@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Wdowę i odrzuconą, i skalana, nierządnicę — ⟨את⟩ tych nie może pojąć, lecz tylko dziewicę spośród jego ludu może pojąć ⟨את⟩ kobietę.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Wdowę"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "i odrzuconą"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "i skalana"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "nierządnicę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tych"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "może pojąć"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "dziewicę"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "spośród jego ludu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "może pojąć"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobietę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:18.459280544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I odpowiedziały im ⟨את⟩ i powiedziały: Jest; oto przed tobą; śpiesz się teraz, bo dziś przyszedł do miasta, bo dziś jest ofiara dla ludu na wyżynie.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "i odpowiedziały"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "im (Saulowi i jego młodzieńcowi)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "i powiedziały"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed tobą"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "śpiesz się"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "do miasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofiara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dla ludu"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "na wyżynie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:01.971597739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Gdy jego lampa świeciła nad moją głową, przy jego świetle chodziłem przez ciemność.",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "gdy świeciła"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "jego lampa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moją głową"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "przy jego świetle"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "chodziłem"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "przez ciemność"
+    }
+  ],
+  "timestamp": "2026-08-25T02:21:44.261823853Z",
+  "model": "glm-5.3"
+}

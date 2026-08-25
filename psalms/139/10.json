@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "i tam Twoja ręka poprowadzi mnie, a Twoja prawa ręka uchwyci mnie.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i (tam)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Twoja ręka"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "poprowadzi mnie"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "uchwyci mnie"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Twoja prawa (ręka)"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:05.960427214Z",
+  "model": "glm-5.3"
+}

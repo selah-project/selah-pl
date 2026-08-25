@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I stało się rano, przy wynoszeniu ofiary z pokarmów — a oto wody nadchodzące od drogi Edomu — i napełniła się ziemia ⟨את⟩ wodami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "przy wynoszeniu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofiary z pokarmów"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nadchodzące"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "od drogi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napełniła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wodami"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:38.901197208Z",
+  "model": "glm-5.3"
+}

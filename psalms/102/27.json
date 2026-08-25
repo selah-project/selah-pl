@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "One przeminą, a Ty trwasz; i wszystkie jak szata się zestarzeją, jak odzienie je zmienisz — i przeminą.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "One"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "przeminą"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a Ty"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "trwasz"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jak szata"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "się zestarzeją"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "jak odzienie"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "je zmienisz"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "i przeminą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.051186826Z",
+  "model": "glm-5.3"
+}

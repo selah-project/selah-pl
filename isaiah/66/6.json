@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Głos zgiełku z miasta, głos z ⟨ה⟩ świątyni, głos Jahwe, który oddaje odpłatę nieprzyjaciołom swoim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "zgiełku"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z miasta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "z świątyni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "który oddaje"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "odpłatę"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "nieprzyjaciołom swoim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:39:54.111283152Z",
+  "model": "glm-5.3"
+}

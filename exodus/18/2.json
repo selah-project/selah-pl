@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wziął Jitro, teść Mosze, ⟨את⟩ Ciporę, żonę Mosze, po jej odesłaniu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I wziął"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "teść"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporę"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporę"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żonę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "jej odesłaniu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:24.261936383Z",
+  "model": "glm-5.3"
+}

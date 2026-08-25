@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "i dla swojej siostry, dziewczyny, bliskiej sobie, która nie była ⟨żoną⟩ mężczyzny — dla niej niech się skala.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "i dla swojej siostry"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "dziewczyny"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "bliskiej"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "była"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨żoną⟩ mężczyzny"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dla niej"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "niech się skala"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:53.049186927Z",
+  "model": "glm-5.3"
+}

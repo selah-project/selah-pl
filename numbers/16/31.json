@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I stało się, gdy skończył mówić ⟨את⟩ wszystkie te słowa, że rozpadła się ziemia, która ⟨była⟩ pod nimi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "gdy skończył"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mówić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie te słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "że rozpadła się"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "pod nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:52.824926853Z",
+  "model": "glm-5.3"
+}

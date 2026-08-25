@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jehoszua: Po tym poznacie, że ⟨jest⟩ El żywy pośród was, i że na pewno wypędzi sprzed was ⟨את⟩ Kanaanejczyka i ⟨את⟩ Chetytę i ⟨את⟩ Chiwwitę i ⟨את⟩ Peryzzytę i ⟨את⟩ Girgaszytę, oraz Emorytę i Jebusytę.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Po tym"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "poznacie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żywy"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pośród was"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "i że wypędzi"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "na pewno"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sprzed was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanejczyka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanejczyka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chetytę"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chiwwitę"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwwitę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Peryzzytę"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Peryzzytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgaszytę"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaszytę"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "oraz Emorytę"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusytę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:25.161332937Z",
+  "model": "glm-5.3"
+}

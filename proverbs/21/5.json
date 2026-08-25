@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Plany gorliwego — tylko ku zyskowi, a każdy pośpieszny — tylko ku niedostatkowi.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "plany"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "gorliwego"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "ku zyskowi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a każdy"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "pośpieszny"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ku niedostatkowi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:42.600454430Z",
+  "model": "glm-5.3"
+}

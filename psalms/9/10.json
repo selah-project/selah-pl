@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I będzie Jahwe warownią dla zgnębionego, warownią na czasy w ucisku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I będzie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "warownią"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "dla zgnębionego"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "warownią"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "na czasy"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "w ucisku"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:01.311169503Z",
+  "model": "glm-5.3"
+}

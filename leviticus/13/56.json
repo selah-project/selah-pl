@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "A jeśli kapłan zobaczy, a oto plaga zbladła po jego upraniu, to wyrwie ⟨את⟩ je z szaty, albo ze skóry, albo z osnowy, albo z wątku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zobaczy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "zbladła"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "upraniu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go (plagi, przy upraniu)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "to wyrwie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je (zarażony przedmiot, przy wyrwaniu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "העור",
+      "gloss": "skóry"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "osnowy"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wątku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:44:52.723255272Z",
+  "model": "glm-5.3"
+}

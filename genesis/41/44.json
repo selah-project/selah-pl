@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I rzekł Paro do Josefa: Ja ⟨jestem⟩ Paro, a bez ciebie nie podniesie nikt ⟨את⟩ swojej ręki ani ⟨את⟩ swojej stopy w całym kraju Micraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "a bez ciebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "podniesie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojej ręki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swojej ręki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "swojej stopy"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "swojej stopy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całym"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kraju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:16:36.195612926Z",
+  "model": "glm-5.3"
+}

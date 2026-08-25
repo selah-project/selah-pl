@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Swoją radą będziesz mnie prowadził, a potem przyjmiesz mnie ⟨do⟩ chwały.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Swoją radą"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "będziesz mnie prowadził"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwały"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "przyjmiesz mnie ⟨do⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:24.401622388Z",
+  "model": "glm-5.3"
+}

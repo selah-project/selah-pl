@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Bo proste ⟨jest⟩ słowo Jahwe, a całe Jego dzieło w wierności.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "proste"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a całe"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "Jego dzieło"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "w wierności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:56.319181406Z",
+  "model": "glm-5.3"
+}

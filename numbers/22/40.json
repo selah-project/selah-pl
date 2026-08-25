@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I złożył Balak w ofierze woły i owce, i posłał ⟨do⟩ Bilama i do książąt, którzy ⟨byli⟩ ⟨את⟩ z nim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i złożył w ofierze"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "woły"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i owce"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "⟨do⟩ Bilama"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "i do książąt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:58:19.139055560Z",
+  "model": "glm-5.3"
+}

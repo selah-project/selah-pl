@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I pobił Jahwe ⟨את⟩ Kuszytów przed Asą i przed Judą, i uciekli Kuszyci.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kuszytów"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kuszytów"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asą"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "i przed"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judą"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kuszyci"
+    }
+  ],
+  "timestamp": "2026-08-25T03:05:39.558501155Z",
+  "model": "glm-5.3"
+}

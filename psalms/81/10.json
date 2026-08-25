@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Niech nie będzie w tobie El obcy i nie będziesz się kłaniał Elowi cudzemu",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "niech nie będzie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "będziesz się kłaniał"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elowi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cudzemu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:22.334088105Z",
+  "model": "glm-5.3"
+}

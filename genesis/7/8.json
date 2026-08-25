@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Z bydła czystego i z bydła, które nie jest czyste, i z ptactwa, i wszystkiego, co pełza po ziemi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "czystego"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bydła"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nie jest"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "czyste"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptactwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "pełza"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:31.636737079Z",
+  "model": "glm-5.3"
+}

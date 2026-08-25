@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I nie będziesz się znęcał żaden człowiek nad ⟨את⟩ swoim bliźnim, i będziesz się bał swojego Elohima, bo ja jestem Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "będziecie się znęcać"
+    },
+    {
+      "surface": "איש",
+      "gloss": "żaden człowiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim bliźnim"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "swoim bliźnim"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "i będziesz się bał"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "swojego Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:48:29.645565043Z",
+  "model": "glm-5.3"
+}

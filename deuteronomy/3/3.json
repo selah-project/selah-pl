@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wydał Jahwe, Elohim nasz, w naszą rękę również ⟨את⟩ Oga, króla Baszanu, oraz ⟨את⟩ cały jego lud, i pobiliśmy go, aż nie pozostawiono ⟨את⟩ mu ocalałego.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "I wydał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "w naszą rękę"
+    },
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oga"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baszanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "cały jego lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego lud"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "i pobiliśmy go"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "pozostawiono"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ocalałego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:46.159258550Z",
+  "model": "glm-5.3"
+}

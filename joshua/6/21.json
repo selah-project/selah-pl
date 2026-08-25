@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I obłożyli klątwą ⟨את⟩ wszystko, co ⟨było⟩ w mieście — od mężczyzny aż do kobiety, od dziecka aż do starca, aż do wołu i owcy, i osła — ostrzem miecza.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "i obłożyli klątwą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od mężczyzny"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od dziecka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starca"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż do"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i owcy"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "i osła"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:33.836431859Z",
+  "model": "glm-5.3"
+}

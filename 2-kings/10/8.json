@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przyszedł ⟨ten⟩ posłaniec, i oznajmił mu, mówiąc: Przyniesiono głowy synów króla. A on rzekł: Połóżcie ⟨את⟩ je w dwóch stosach przy wejściu do bramy aż do rana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "posłaniec"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "przyniesiono"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on rzekł"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "połóżcie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "שני",
+      "gloss": "w dwóch"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "stosach"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "przy wejściu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "do bramy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:04.955283649Z",
+  "model": "glm-5.3"
+}

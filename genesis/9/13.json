@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "⟨את⟩ mój łuk dałem w obłoku i będzie ⟨on⟩ na znak przymierza między mną i między ⟨tą⟩ ziemią.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój łuk"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "mój łuk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "w obłoku"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "na znak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "między mną"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i między"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:15.545573576Z",
+  "model": "glm-5.3"
+}

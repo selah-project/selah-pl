@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "W tym czasie weszli słudzy Nebukadnesara, króla Bawel, przeciw Jeruszalaim, i przyszło ⟨oblężenie na⟩ miasto.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "W czasie"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "weszli (przeciw)"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "słudzy"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i przyszło"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "w oblężeniu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:31:30.271042202Z",
+  "model": "glm-5.3"
+}

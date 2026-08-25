@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A twoje siedzenie i twoje wychodzenie i twoje przychodzenie — wiem, i ⟨את⟩ twoje burzenie się przeciwko Mnie.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "a twoje siedzenie"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i twoje wychodzenie"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "i twoje przychodzenie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twoje burzenie się"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "twoje burzenie się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "przeciwko Mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:19.847303814Z",
+  "model": "glm-5.3"
+}

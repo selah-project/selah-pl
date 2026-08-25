@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I przyszli do Jaakowa, ojca swego, do ziemi Kenaan, i opowiedzieli mu ⟨את⟩ wszystko, co ⟨את⟩ ich spotkało, mówiąc:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "I przyszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "i opowiedzieli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "co ich spotkało"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc:"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:20.548324930Z",
+  "model": "glm-5.3"
+}

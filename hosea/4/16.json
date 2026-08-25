@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Bo jak nieznośna jałówka zbuntował się Israel; teraz Jahwe ich wypasie jak jagnię na rozległym pastwisku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "jak jałówka"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "nieznośna"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "zbuntował się"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ich wypasie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "jak jagnię"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "na rozległym pastwisku"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:42.296099647Z",
+  "model": "glm-5.3"
+}

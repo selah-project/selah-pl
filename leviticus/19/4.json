@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie zwracajcie się ku bożkom i bogów odlanych nie wyrabiajcie sobie — Ja, Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "zwracajcie się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "bożkom"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i bogów"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "odlanych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "wyrabiajcie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.906171761Z",
+  "model": "glm-5.3"
+}

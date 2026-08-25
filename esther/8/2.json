@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I zdjął król ⟨את⟩ swą pieczęć, którą odebrał od Hamana, i dał ją Mordechajowi; a Ester ustanowiła ⟨את⟩ Mordechaja nad domem Hamana.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i zdjął"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swą pieczęć"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "swą pieczęć"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "odebrał"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "od Hamana"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechajowi"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a ustanowiła"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechaja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:15.488849179Z",
+  "model": "glm-5.3"
+}

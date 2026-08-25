@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I był król Szlomoh królem nad całym Jisraelem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I był"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:11.811540167Z",
+  "model": "glm-5.3"
+}

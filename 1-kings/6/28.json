@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I pokrył ⟨את⟩ cherubów złotem.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i pokrył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cherubów"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "cherubów"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:29.541606977Z",
+  "model": "glm-5.3"
+}

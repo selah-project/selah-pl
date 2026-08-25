@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I odpowiedział Szatan ⟨את⟩ Jahwe, i rzekł: Czy za darmo boi się Ijob Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpowiedział"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Szatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "czy za darmo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boi się"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:21.514443532Z",
+  "model": "glm-5.3"
+}

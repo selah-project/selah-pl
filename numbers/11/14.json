@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Nie mogę ja sam nieść ⟨את⟩ wszystkiego tego ludu, bo ⟨jest⟩ zbyt ciężki dla mnie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nieść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkiego tego ludu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkiego"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ciężki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:53.333334710Z",
+  "model": "glm-5.3"
+}

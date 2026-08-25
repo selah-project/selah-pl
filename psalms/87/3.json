@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "Wspaniałe rzeczy mówiono o tobie, miasto Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Wspaniałe rzeczy"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mówiono"
+    },
+    {
+      "surface": "בך",
+      "gloss": "o tobie"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:52.005042911Z",
+  "model": "glm-5.3"
+}

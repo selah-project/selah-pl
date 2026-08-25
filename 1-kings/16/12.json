@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wytępił Zimri ⟨את⟩ cały dom Baaszy, według słowa Jahwe, które przemówił do Baaszy ręką Jehu, proroka.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "i wytępił"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały dom Baaszy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaszy"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "przemówił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaszy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:45.734158465Z",
+  "model": "glm-5.3"
+}

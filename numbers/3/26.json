@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "i zasłony dziedzińca, oraz ⟨את⟩ zasłonę wejścia dziedzińca, która ⟨jest⟩ przy przybytku i przy ołtarzu dokoła, oraz ⟨את⟩ jego sznury do wszelkiej jego służby.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "i zasłony"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedzińca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę wejścia dziedzińca"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedzińca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i przy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jego sznury"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "jego sznury"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "do wszelkiej"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "jego służby"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:30.377204049Z",
+  "model": "glm-5.3"
+}

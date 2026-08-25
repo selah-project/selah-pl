@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "A ja ⟨jestem⟩ biedny i bolejący — Twoja pomoc, Elohim, wyniesie mnie na wysokość.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "i bolejący"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "Twoja pomoc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "wyniesie mnie na wysokość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:19.246274909Z",
+  "model": "glm-5.3"
+}

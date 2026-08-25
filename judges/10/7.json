@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I zapłonął gniew Jahwe na Iszraela, i sprzedał ich w rękę Pelisztym i w rękę synów Ammona.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonął"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Iszraela"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "i sprzedał ich"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztym"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i w rękę"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammona"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:39.784777893Z",
+  "model": "glm-5.3"
+}

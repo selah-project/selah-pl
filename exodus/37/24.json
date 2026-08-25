@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Talent czystego złota zrobił ⟨את⟩ nią i ⟨את⟩ wszystkich jej naczyń.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystego"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nią"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich jej naczyń"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jej naczyń"
+    }
+  ],
+  "timestamp": "2026-08-24T22:38:03.330955297Z",
+  "model": "glm-5.3"
+}

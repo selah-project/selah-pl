@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wysłał ⟨את⟩ młodzieńców synów Jisraela, i wnieśli oni całopalenia, i złożyli ofiary, ofiary pokoju dla Jahwe — młode byki.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "młodzieńców synów Jisraela"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i wnieśli"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "i złożyli ofiary"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ofiary"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "młode byki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:01.902487594Z",
+  "model": "glm-5.3"
+}

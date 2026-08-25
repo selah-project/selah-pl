@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I Dawid z całym domem Israela wnosili ⟨את⟩ aron Jahwe z okrzykiem radości i głosem szofaru.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "i Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "z całym"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "wnosili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "z okrzykiem radości"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "i głosem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "szofaru"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:00.025063946Z",
+  "model": "glm-5.3"
+}

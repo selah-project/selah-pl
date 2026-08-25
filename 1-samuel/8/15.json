@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wasze zboże i wasze winnice zdiesiątkuje i wyda swym dworzanom i swym sługom.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "i wasze zboże"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "i wasze winnice"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "zdiesiątkuje"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i wyda"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "swym dworzanom"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "i swym sługom"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:13.931869831Z",
+  "model": "glm-5.3"
+}

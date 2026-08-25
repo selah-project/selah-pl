@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Weź jego szatę, bo poręczył za obcego, i za obcych weź od niego zastaw.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "jego szatę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "poręczył"
+    },
+    {
+      "surface": "זר",
+      "gloss": "za obcego"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "weź od niego zastaw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:24.323151714Z",
+  "model": "glm-5.3"
+}

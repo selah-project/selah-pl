@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Bo nie ma w jego ustach nic pewnego, ich wnętrze to zagłada, grób otwarty to ich gardło, swym językiem gładką ⟨ją⟩ czynią.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "w jego ustach"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "nic pewnego"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ich wnętrze"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "zagłada"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grób"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "otwarty"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ich gardło"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "swój język"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "gładką czynią"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:52.363368773Z",
+  "model": "glm-5.3"
+}

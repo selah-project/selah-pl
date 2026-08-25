@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "I stało się, gdy skończyli jeść ⟨את⟩ zboże, które przywieźli z Micrajim, że powiedział do nich ich ojciec: Wróćcie, kupcie nam trochę pożywienia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "skończyli"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jeść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zboże"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "zboże"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "przywieźli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ich ojciec"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "wróćcie"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupcie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochę"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pożywienia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:52.497841732Z",
+  "model": "glm-5.3"
+}

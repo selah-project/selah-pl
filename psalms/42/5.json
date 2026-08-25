@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Te rzeczy wspominam i wylewam na mnie moją nefesz, bo przechodziłem wśród tłumu, kroczyłem powoli z nimi do domu Elohim, głosem radosnego okrzyku i dziękczynienia, tłum świętujący święto.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Te rzeczy"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "wspominam"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "i wylewam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "przechodziłem"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "wśród tłumu"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "kroczyłem powoli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radosnego okrzyku"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "i dziękczynienia"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tłum"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "świętujący święto"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:10.977030959Z",
+  "model": "glm-5.3"
+}

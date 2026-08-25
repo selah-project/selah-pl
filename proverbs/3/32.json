@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bo obrzydliwością dla Jahwe ⟨jest⟩ przewrotny, a ⟨את⟩ z prostymi — Jego tajemnica.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "obrzydliwością"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "przewrotny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "z prostymi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "z prostymi"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "Jego tajemnica"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:48.475549443Z",
+  "model": "glm-5.3"
+}

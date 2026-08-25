@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Każdy człowiek z domu Jisraela, który zarżnie wołu, albo jagnię, albo kozę w obozie, albo który zarżnie na zewnątrz obozu,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Każdy człowiek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zarżnie"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wołu"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "jagnię"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kozę"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "w obozie"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zarżnie"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na zewnątrz"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "obozu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:41.177282221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I uczynisz pięćdziesiąt klamer z miedzi, i wprowadzisz ⟨את⟩ klamry w pętle, i połączysz ⟨את⟩ namiot, i będzie ⟨jest⟩ jeden.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "klamer"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z miedzi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesiąt"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "i wprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klamry"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "klamry"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "w pętle"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "i połączysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namiot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i będzie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:48.867876507Z",
+  "model": "glm-5.3"
+}

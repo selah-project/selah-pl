@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Dałeś radość w sercu moim, od czasu gdy zboże ich i moszcz ich się rozmnożyły.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Dałeś"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radość"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "w sercu moim"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "od czasu"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "zboże ich"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "i moszcz ich"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "się rozmnożyły"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:55.953322389Z",
+  "model": "glm-5.3"
+}

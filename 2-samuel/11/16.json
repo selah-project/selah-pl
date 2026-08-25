@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I stało się, gdy Joab czuwał nad miastem, że postawił ⟨את⟩ Uriję w miejscu, o którym wiedział, że tam ⟨są⟩ mężowie dzielni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "gdy czuwał"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miastem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "że postawił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriję"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriję"
+    },
+    {
+      "surface": "אל",
+      "gloss": "w"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejscu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzielni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:50.721029234Z",
+  "model": "glm-5.3"
+}

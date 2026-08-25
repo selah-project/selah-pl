@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Niech zagrzmie morze i wszystko, co je napełnia, światłość ziemia ⟨i⟩ jej mieszkańcy.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Niech zagrzmie"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i wszystko, co je napełnia"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "i jej mieszkańcy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.022652262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 149,
+  "translation": "Niech chasydzi excessively się radują ⟨w⟩ chwale, niech śpiewają radośnie na swoich łożach.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "niech się radują"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "chasydzi"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "w chwale"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "niech śpiewają radośnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "swoich łożach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:23.872929302Z",
+  "model": "glm-5.3"
+}

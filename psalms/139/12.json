@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "lecz nawet ciemność nie zaciemni się od Ciebie, a noc jak dzień rozbłyśnie — jak ciemność, tak światłość.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "zaciemni się"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od Ciebie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jak dzień"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "rozbłyśnie"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "jak ciemność"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "tak światłość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:05.960728253Z",
+  "model": "glm-5.3"
+}

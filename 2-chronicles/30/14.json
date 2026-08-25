@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I powstali, i usunęli ⟨את⟩ ołtarze, które ⟨były⟩ w Jeruszalaim, a ⟨את⟩ wszystkie kadzielnicze ołtarze usunęli, i porzucili je do potoku Kidronu.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "i usunęli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie kadzielnicze ołtarze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "kadzielnicze ołtarze"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "usunęli"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "i porzucili"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "do potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:10:41.299351781Z",
+  "model": "glm-5.3"
+}

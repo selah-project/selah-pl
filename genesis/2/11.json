@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Imię ⟨jednego⟩ to Piszon — on to ⟨ten⟩, który opływa ⟨את⟩ całą ziemię Chawila, gdzie ⟨tam⟩ ⟨jest⟩ złoto.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Imię"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Piszon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "opływa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą ziemię Chawila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Chawila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:03.859715009Z",
+  "model": "glm-5.3"
+}

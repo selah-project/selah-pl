@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Otworzył skałę i popłynęły wody, szły po miejscach suchych jak rzeka.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "otworzył"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skałę"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "i popłynęły"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "szły"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "po miejscach suchych"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "jak rzeka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.685913058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Jahwe go strzeże i go zachowa przy życiu; będzie szczęśliwy na ziemi — i nie wydawaj go w moc jego wrogów.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "go strzeże"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "i go zachowa przy życiu"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "będzie szczęśliwy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "wydawaj go"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "w moc"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jego wrogów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:53.179003366Z",
+  "model": "glm-5.3"
+}

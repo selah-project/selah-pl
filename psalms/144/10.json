@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "⟨Ten, który⟩ daje zwycięstwo królom, ⟨Ten, który⟩ uwalnia ⟨את⟩ Dawida, sługę swego, od miecza złego.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "⟨Ten, który⟩ daje"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "zwycięstwo"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "królom"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "⟨Ten, który⟩ uwalnia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sługę swego"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od miecza"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:12.198494451Z",
+  "model": "glm-5.3"
+}

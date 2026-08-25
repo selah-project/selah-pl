@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I otworzyła ziemia swoje usta, i połknęła ⟨אתם⟩ ich oraz ⟨את⟩ ich domy, i ⟨את⟩ wszystkich ludzi, którzy należeli do Koracha, i ⟨את⟩ cały dobytek.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "I otworzyła"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje usta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "swoje usta"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "i połknęła"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "ich domy"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ich domy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkich ludzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ludzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "należeli do Koracha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały dobytek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "dobYTEK"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:52.825066246Z",
+  "model": "glm-5.3"
+}

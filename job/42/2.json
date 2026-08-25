@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Wiem, że wszystko możesz i że nie może być udaremniona od ciebie żadna zamysł.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "wiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "możesz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "może być udaremniona"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "zamiar"
+    }
+  ],
+  "timestamp": "2026-08-25T02:25:34.859877447Z",
+  "model": "glm-5.3"
+}

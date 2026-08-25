@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I ⟨את⟩ Patrusimów, i ⟨את⟩ Kasluchimów, spośród których wyszli Pelisztymowie, i ⟨את⟩ Kaftorimów.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Patrusimów"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusimów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kasluchimów"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchimów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "spośród których"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wyszli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztymowie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kaftorimów"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorimów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:34.531535678Z",
+  "model": "glm-5.3"
+}

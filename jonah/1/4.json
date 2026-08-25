@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Jahwe rzucił wielki wiatr na morze, i powstała wielka burza na morzu, a okręt myślał, że się roztrzaska.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "rzucił"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i powstała"
+    },
+    {
+      "surface": "סער",
+      "gloss": "burza"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielka"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na morzu"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "a okręt"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "myślał"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "że się roztrzaska"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:04.134552540Z",
+  "model": "glm-5.3"
+}

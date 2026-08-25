@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Oko za oko, ząb za ząb, rękę za rękę, nogę za nogę.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ząb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ząb"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rękę"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rękę"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nogę"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nogę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:02.155204682Z",
+  "model": "glm-5.3"
+}

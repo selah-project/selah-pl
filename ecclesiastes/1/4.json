@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Pokolenie odchodzi i pokolenie przychodzi, a ziemia na wieki stoi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odchodzi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "i pokolenie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a ziemia"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:35.209505499Z",
+  "model": "glm-5.3"
+}

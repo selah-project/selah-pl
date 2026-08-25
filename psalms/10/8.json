@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Siedzi w zasadzce osiedli, w ukryciach zabija niewinnego; jego oczy wyczekują nieszczęśnika, ⟨skrycie⟩ się kryją.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Siedzi"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "w zasadzce"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "osiedli"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "w ukryciach"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "zabija"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "niewinnego"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jego oczy"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "nieszczęśnika"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "⟨skrycie⟩ się kryją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:53.523480345Z",
+  "model": "glm-5.3"
+}

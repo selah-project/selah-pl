@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Ich wnętrze ⟨jest⟩: ich domy na wieki, ich siedziby pokoleniu i pokoleniu; wołali swoimi imionami nad ziemiami.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Ich wnętrze"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ich domy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ich siedziby"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokoleniu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokoleniu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wołali"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "swoimi imionami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "ziemiami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:08.664976126Z",
+  "model": "glm-5.3"
+}

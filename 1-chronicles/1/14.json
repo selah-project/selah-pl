@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "oraz ⟨את⟩ Jebusytę i ⟨את⟩ Amorytę, i ⟨את⟩ Girgaszytę.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Jebusytę"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Amorytę"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorytę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgaszytę"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaszytę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:11.977761245Z",
+  "model": "glm-5.3"
+}

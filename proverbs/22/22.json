@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Nie zagarniaj biedaka, bo ⟨jest⟩ biedny, i nie miażdż uciśnionego w bramie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "zagarniaj"
+    },
+    {
+      "surface": "דל",
+      "gloss": "biedaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "miażdż"
+    },
+    {
+      "surface": "עני",
+      "gloss": "uciśnionego"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "w bramie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:21.496619630Z",
+  "model": "glm-5.3"
+}

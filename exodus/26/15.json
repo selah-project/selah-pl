@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I zrobisz ⟨את⟩ deski dla przybytku z drzewa szittim, stojące.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deski"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "deski"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "dla przybytku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drzewa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojące"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:59.789818753Z",
+  "model": "glm-5.3"
+}

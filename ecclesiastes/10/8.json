@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Kopiący dół w niego wpadnie, a burzący mur ukąsi go wąż.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Kopiący"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "dół"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w niego"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wpadnie"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "a burzący"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ukąsi go"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "wąż"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:55.270768719Z",
+  "model": "glm-5.3"
+}

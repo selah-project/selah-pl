@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A Ty, Jahwe, ⟨jesteś⟩ tarczą około mnie, chwałą moją i tym, który podnosi głowę moją.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tarczą"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "około mnie"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "chwałą moją"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "i który podnosi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "głowę moją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:36.204196467Z",
+  "model": "glm-5.3"
+}

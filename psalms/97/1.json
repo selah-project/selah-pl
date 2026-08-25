@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Jahwe zapanował — niech się raduje ⟨ta⟩ ziemia, niech się cieszą wyspy liczne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "zapanował"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "niech się raduje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "niech się cieszą"
+    },
+    {
+      "surface": "איים",
+      "gloss": "wyspy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczne"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.655781305Z",
+  "model": "glm-5.3"
+}

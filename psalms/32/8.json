@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Pouczyć cię uczynię i wskażę ci drogę, którą pójdziesz; poradzę, oko moje ⟨będzie⟩ na tobie.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "pouczyć cię uczynię"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "i wskażę ci"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "זו",
+      "gloss": "którą"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "poradzę"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tobie"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:08.702466094Z",
+  "model": "glm-5.3"
+}

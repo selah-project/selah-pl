@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przebywał Awimelech w Arumie, a Zewul wypędził ⟨את⟩ Gaala i ⟨את⟩ jego braci, by nie mieszkali w Szkem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i przebywał"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "w Arumie"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "a wypędził"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zewul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaala"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego braci"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jego braci"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "by nie mieszkali"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "w Szkem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:25:46.122524729Z",
+  "model": "glm-5.3"
+}

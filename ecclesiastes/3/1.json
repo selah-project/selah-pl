@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Dla wszystkiego ⟨jest⟩ czas, i pora dla każdego upodobania pod niebiami.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "dla wszystkiego"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "czas"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i pora"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla każdego"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "upodobania"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosami"
+    }
+  ],
+  "timestamp": "2026-08-25T02:30:51.448391387Z",
+  "model": "glm-5.3"
+}

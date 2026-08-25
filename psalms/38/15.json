@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I stałem się ⟨jak⟩ mąż, który nie słyszy, i nie ma w jego ustach wyrzutów",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "i stałem się"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "⟨jak⟩ mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słyszy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "w jego ustach"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "wyrzutów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:39.268612120Z",
+  "model": "glm-5.3"
+}

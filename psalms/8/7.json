@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Władasz nim nad dziełami rąk twoich, wszystko złożyłeś pod stopy jego.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "władasz nim"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nad dziełami"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "rąk twoich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "złożyłeś"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "stopy jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:44:58.182664965Z",
+  "model": "glm-5.3"
+}

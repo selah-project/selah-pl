@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Elohim: Niechaj powstanie sklepienie w środku wód, i niechaj ono oddziela między wodami a wodami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "niechaj powstanie"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "sklepienie"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i niechaj będzie"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "oddzielające"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "למים",
+      "gloss": "a wodami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:14.307100516Z",
+  "model": "glm-5.3"
+}

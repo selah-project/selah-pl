@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Lepiej pokorny duch ⟨być⟩ z ubogimi niż dzielić łupy z pysznymi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepiej"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "pokorny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubogimi"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "z ubogimi"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "niż dzielić"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "łupy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pysznymi"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "z pysznymi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:30.310246802Z",
+  "model": "glm-5.3"
+}

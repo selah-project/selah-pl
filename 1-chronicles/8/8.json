@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A Szacharajim zrodził w polu Moabu, gdy je odesłał — ⟨את⟩ Chuszim oraz ⟨את⟩ Baarę, jego żony.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "A Szacharajim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "w polu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "odesłał je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "Chuszim i Baarę"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chuszim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Baarę"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baarę"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jego żony"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:47.267814074Z",
+  "model": "glm-5.3"
+}

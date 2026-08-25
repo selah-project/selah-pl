@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Gdy kupisz sługę Hebrajczyka, sześć lat będzie służył, a w siódmym wyjdzie na wolność bez zapłaty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "kupisz"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługę"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrajczyka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "będzie służył"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "a w siódmym"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyjdzie"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "na wolność"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez zapłaty"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:41.938523753Z",
+  "model": "glm-5.3"
+}

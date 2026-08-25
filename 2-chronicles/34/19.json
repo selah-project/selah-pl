@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I stało się, gdy usłyszał król ⟨את⟩ słowa Tory, że rozdarł ⟨את⟩ swoje szaty.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tory"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "że rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:11.119667459Z",
+  "model": "glm-5.3"
+}

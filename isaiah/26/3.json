@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Umysł podparty Ty zachowasz ⟨w⟩ pokoju, pokoju, bo w Tobie pokłada ufność.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "umysł"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "podparty"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Ty zachowasz"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w Tobie"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "pokłada ufność"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:36.787379940Z",
+  "model": "glm-5.3"
+}

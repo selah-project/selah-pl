@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "⟨Wtedy⟩ będę uczył przestępców dróg twoich, i grzesznicy do ciebie wrócą.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "będę uczył"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "przestępców"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dróg twoich"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "i grzesznicy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "wrócą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:48.195251384Z",
+  "model": "glm-5.3"
+}

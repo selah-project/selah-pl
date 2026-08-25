@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Nadstawcie uszu, niebiosa, a będę mówić, i niech usłyszy ziemia słowa ust moich.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Nadstawcie uszu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "a będę mówić"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "i niech usłyszy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust moich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:29.021873787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I stało się nazajutrz, że przyszli Pelisztim, aby obdzierać ⟨את⟩ poległych, i znaleźli ⟨את⟩ Szaula i ⟨את⟩ jego trzech synów, leżących na gorie Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazajutrz"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "że przyszli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisztim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "aby obdzierać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poległych"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "poległych"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i znaleźli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trzech synów"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzech"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "leżących\/padłych"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gorie"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:05.963533381Z",
+  "model": "glm-5.3"
+}

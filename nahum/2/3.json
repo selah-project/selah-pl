@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Bo przywrócił Jahwe ⟨את⟩ pyszność Jaakowa, jak pyszność Jisraela, bo pustoszący ich wypustoszyli, a ⟨ich⟩ winne latorośle zniszczyli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "przywrócił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyszność Jaakowa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pyszność"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "jak pyszność"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ich pustoszący"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "wypustoszyli"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "a ⟨ich⟩ winne latorośle"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zniszczyli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:24.947416326Z",
+  "model": "glm-5.3"
+}

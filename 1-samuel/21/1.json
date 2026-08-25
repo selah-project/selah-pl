@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I wstał, i poszedł, a Jonatan wszedł do ⟨tego⟩ miasta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "a Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wszedł"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "do ⟨tego⟩ miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:02.560460974Z",
+  "model": "glm-5.3"
+}

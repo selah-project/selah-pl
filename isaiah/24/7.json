@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Żałuje młode wino, więdnie winnica, wzdychają wszyscy radośni serca.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "żałuje"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "młode wino"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "winnica"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "wzdychają"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "radośni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serca"
+    }
+  ],
+  "timestamp": "2026-08-25T00:25:41.305929166Z",
+  "model": "glm-5.3"
+}

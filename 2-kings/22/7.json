@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "tylko nie będzie rozliczane ⟨את⟩ nimi srebro wydane do ich ręki, bo w wierności oni działają",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "będzie rozliczane"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nimi",
+      "marks": "z nimi (rozliczenie)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "wydane"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ich ręki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "w wierności"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "działają"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:28.405562154Z",
+  "model": "glm-5.3"
+}

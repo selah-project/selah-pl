@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Wyniesiesz liczbę synów Kehata spośród synów Lewiego, według ich rodzin, według domu ich ojców —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "wyniesiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liczbę (rós) synów Kehata"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "liczbę\/głowę"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "według ich rodzin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "według domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ich ojców"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:43.041348288Z",
+  "model": "glm-5.3"
+}

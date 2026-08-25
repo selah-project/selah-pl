@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I spadł ogień Jahwe, i pochłonął ⟨את⟩ całopalenie, i ⟨את⟩ drewno, i ⟨את⟩ kamienie, i ⟨את⟩ proch, a ⟨את⟩ wodę, która była w rowie, wylizał.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "i spadł"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i pochłonął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całopalenie"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "drewno"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drewno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kamienie"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "proch"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "proch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "woda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "woda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "w rowie"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "wylizał"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:35.144264238Z",
+  "model": "glm-5.3"
+}

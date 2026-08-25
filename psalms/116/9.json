@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Będę chodził przed Jahwe w ziemiach żyjących.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "będę chodził"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "w ziemiach"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żyjących"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.466239399Z",
+  "model": "glm-5.3"
+}

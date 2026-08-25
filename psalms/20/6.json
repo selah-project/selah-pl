@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Będziemy radośnie wołać o twoim zbawieniu i w imię naszego Elohim sztandar podniesiemy — niech Jahwe wypełni wszystkie twoje prośby.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "będziemy radośnie wołać"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "o twoim zbawieniu"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "i w imię"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naszego Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "sztandar podniesiemy"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "niech wypełni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "twoje prośby"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:46.486365339Z",
+  "model": "glm-5.3"
+}

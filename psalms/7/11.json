@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Tarcza moja ⟨jest⟩ nad Elohim, zbawiającym prostych sercem.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "tarcza moja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "zbawiającym"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prostych"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sercem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:42.939772360Z",
+  "model": "glm-5.3"
+}

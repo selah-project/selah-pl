@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Przewodnikowi. Pieśń, psalm. Zagrzmijcie Elohim, cała ⟨ta⟩ ziemia!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Zagrzmijcie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ta⟩ ziemia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:27.973749473Z",
+  "model": "glm-5.3"
+}

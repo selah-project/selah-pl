@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 76,
+  "translation": "Z niebiosów sprawiłeś, że usłyszano sąd; ziemia ulękła się i zamilkła.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "z niebiosów"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "sprawiłeś, że usłyszano"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sąd"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ulękła się"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "i zamilkła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:27.613470264Z",
+  "model": "glm-5.3"
+}

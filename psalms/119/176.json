@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Błądziłem jak owca zgubiona; szukaj swojego sługi, bo twoich przykazań nie zapomniałem.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "błądziłem"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "jak owca"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zgubiona"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "szukaj"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "swojego sługi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoich przykazań"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zapomniałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:12.727722792Z",
+  "model": "glm-5.3"
+}

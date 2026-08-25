@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "i ⟨את⟩ świecznik świata i ⟨את⟩ jej naczynia i ⟨את⟩ jej lampy oraz ⟨את⟩ olej świata;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "świecznik świata"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "świecznik"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "świata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej naczynia"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jej naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jej lampy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "olej świata"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "świata"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:37.071573475Z",
+  "model": "glm-5.3"
+}

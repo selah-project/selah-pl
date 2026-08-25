@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Zobacz moją nędzę i moje cierpienie, i odpuść ⟨wszystkie⟩ moje grzechy.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "zobacz"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "moją nędzę"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "i moje cierpienie"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "i odpuść"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨wszystkie⟩"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "moje grzechy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:35.391639569Z",
+  "model": "glm-5.3"
+}

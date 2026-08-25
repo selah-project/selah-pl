@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "Kierownikowi chóru, na instrumentach strunowych, psalm, pieśń.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na instrumentach strunowych"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:32.599204098Z",
+  "model": "glm-5.3"
+}

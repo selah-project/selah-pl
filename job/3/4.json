@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Ten dzień — niech będzie ciemnością; niech go nie poszukuje Eloah z wysoka i niech nie zabłyśnie nad nim światłość.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ten dzień"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ów"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemnością"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "poszukuje go"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "z wysoka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i niech nie"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "zabłyśnie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "światłość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:02.443394794Z",
+  "model": "glm-5.3"
+}

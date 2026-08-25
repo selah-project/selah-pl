@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Według prawa — co uczynić z królową Waszti, za to, że nie wykonała ⟨את⟩ rozkazu króla Achaszwerosza ⟨przekazanego⟩ ręką eunuchów?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "według prawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "uczynić"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "z królową"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Waszti"
+    },
+    {
+      "surface": "על",
+      "gloss": "za to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "wykonała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rozkazu"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "rozkazu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaszwerosza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuchów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:34:07.476131922Z",
+  "model": "glm-5.3"
+}

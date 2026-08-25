@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Bo zapał dla Twojego domu mnie pożarł, a hańby tych, którzy Cię hańbią, spadły na mnie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zapał"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dla Twojego domu"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "mnie pożarł"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "a hańby"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "tych, którzy Cię hańbią"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "spadły"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:46.984231531Z",
+  "model": "glm-5.3"
+}

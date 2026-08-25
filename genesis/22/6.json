@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wziął Abraham ⟨את⟩ drwa całopalenia, i położył na Icchaku, swoim synu; i wziął w swoją rękę ⟨את⟩ ogień i ⟨את⟩ nóż, i szli obaj razem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drwa całopalenia"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Icchaku"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "swoim synu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w swoją rękę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogień"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nóż"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nóż"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i szli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obaj"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:20.650332411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I powiedzieli: To krew! Królowie na pewno wyginęli i pobili każdy ⟨את⟩ bliźniego swego; a teraz — do łupów, Moabie!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i powiedzieli"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "na pewno wyginąć"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "wyginęli"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "królowie"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bliźniego swego"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bliźniego swego"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "do łupów"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:44.228680732Z",
+  "model": "glm-5.3"
+}

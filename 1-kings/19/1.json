@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I opowiedział Achab Izebeli ⟨את⟩ wszystko, co uczynił Elijahu, oraz ⟨את⟩ wszystko, co zabił — ⟨את⟩ wszystkich proroków mieczem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i opowiedział"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich proroków"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:06:04.687346282Z",
+  "model": "glm-5.3"
+}

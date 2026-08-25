@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I usłyszałem ⟨את⟩ głos jego słów, i gdy usłyszałem ⟨את⟩ głos jego słów, wtedy ja byłem pogrążony ⟨w⟩ głębokim śnie na mojej twarzy, a moja twarz ⟨była zwrócona⟩ ku ziemi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "i usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jego słów"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "i gdy usłyszałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jego słów"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "wtedy ja"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byłem"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "pogrążony w głębokim śnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojej twarzy"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a moja twarz"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T04:45:36.943467004Z",
+  "model": "glm-5.3"
+}

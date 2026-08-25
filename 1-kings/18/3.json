@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I zawołał Achab do Owadjahu, który ⟨był› nad ⟨tym⟩ domem; a Owadjahu bał się ⟨את⟩ Jahwe bardzo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I zawołał"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Owadjahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "a Owadjahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bał się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:03.467044457Z",
+  "model": "glm-5.3"
+}

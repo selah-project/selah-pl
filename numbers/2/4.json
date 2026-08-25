@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "i jego zastęp, i policzeni z nich: cztery i siedemdziesiąt tysięcy i sześćset.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i jego zastęp"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i policzeni z nich"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "i siedemdziesiąt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiące"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i sześć"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:02.769367648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Temu, który rozdzielił morze Suf na części, bo na wieki trwa jego chesed (wierna miłość).",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Temu, który rozdzielił"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "na części"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.796063900Z",
+  "model": "glm-5.3"
+}

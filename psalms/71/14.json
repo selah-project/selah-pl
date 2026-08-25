@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "A ja zawsze będę mieć nadzieję i pomnażać ⟨będę⟩ nad całą twoją chwałą.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zawsze"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "będę mieć nadzieję"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "i pomnażać będę"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "twoją chwałą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:20.230158820Z",
+  "model": "glm-5.3"
+}

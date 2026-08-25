@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I rzekł Szemuel: Przyprowadźcie do mnie ⟨את⟩ Agaga, króla Amaleka. I poszedł do niego Agag pełen rozkoszy, i rzekł Agag: Zaprawdę, odszedł gorzki ⟨smak⟩ śmierci.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "przyprowadźcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "pełen rozkoszy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odszedł"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorzki"
+    },
+    {
+      "surface": "המות",
+      "gloss": "śmierci"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:26.779393199Z",
+  "model": "glm-5.3"
+}

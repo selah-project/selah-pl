@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "A jego powrót ⟨był⟩ do Ramaty, bo tam ⟨był⟩ jego dom, i tam sądził ⟨את⟩ Jisraela, i zbudował tam ołtarz dla Jahwe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "a jego powrót"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "do Ramaty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego dom"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sądził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:53.150716094Z",
+  "model": "glm-5.3"
+}

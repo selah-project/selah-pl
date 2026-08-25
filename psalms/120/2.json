@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Jahwe, uwolnij moją nefesz od warg kłamstwa, od języka zdrady!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "uwolnij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "od warg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "od języka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zdrady"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:48.650954455Z",
+  "model": "glm-5.3"
+}

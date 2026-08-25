@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Troska w sercu męża przygniata je, a dobre słowo je raduje.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "troska"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "w sercu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "przygniata je"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a słowo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "raduje je"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:35.092226057Z",
+  "model": "glm-5.3"
+}

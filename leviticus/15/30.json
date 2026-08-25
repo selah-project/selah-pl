@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I uczyni kapłan ⟨את⟩ jednego na ofiarę za grzech, a ⟨את⟩ jednego na ofiarę całopalną, i dokona ekspiacji nad nią kapłan przed Jahwe z powodu wypływu jej nieczystości.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i uczyni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ofiara za grzech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jednego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofiara całopalna"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i dokona ekspiacji"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad nią"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "z wypływu"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "jej nieczystości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:20.866249562Z",
+  "model": "glm-5.3"
+}

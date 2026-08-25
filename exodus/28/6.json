@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zrobią ⟨את⟩ efod: złoto, błękit i purpura, robak szkarłatu i skręcony bisior — dzieło projektanta.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i zrobią"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "błękit"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpura"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "robak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "szkarłatu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i bisior"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "skręcony"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "projektanta"
+    }
+  ],
+  "timestamp": "2026-08-24T22:34:28.530815233Z",
+  "model": "glm-5.3"
+}

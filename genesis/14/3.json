@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Wszyscy ci złączyli się ⟨do⟩ doliny Hasiddim — ⟨to⟩ Morze Solne.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "złączyli się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "doliny"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Hasiddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Morze"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Solne"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:23.308089762Z",
+  "model": "glm-5.3"
+}

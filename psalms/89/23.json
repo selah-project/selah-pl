@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Nie będzie ciemiężył nieprzyjaciel ⟨go⟩, i syn nieprawości nie będzie go uciskał.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "będzie ciemiężył"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i syn"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "będzie go uciskał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:00.301343329Z",
+  "model": "glm-5.3"
+}

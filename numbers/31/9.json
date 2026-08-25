@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I wzięli do niewoli synowie Israela ⟨את⟩ kobiety Midianu i ⟨את⟩ ich dzieci, i ⟨את⟩ całe ich bydło, i ⟨את⟩ cały ich dobytek, i ⟨את⟩ cały ich majątek — splądrowali.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "i wzięli do niewoli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobiety"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich dzieci"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ich dzieci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całe ich bydło"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "ich bydło"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały ich dobytek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "ich dobytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cały ich majątek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ich majątek"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "splądrowali"
+    }
+  ],
+  "timestamp": "2026-08-24T23:01:11.957984337Z",
+  "model": "glm-5.3"
+}

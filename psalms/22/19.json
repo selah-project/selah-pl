@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Dzielą między siebie moje szaty, a na moją szatę rzucają los.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "dzielą"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "moje szaty"
+    },
+    {
+      "surface": "להם",
+      "gloss": "między siebie"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "moją szatę"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "rzucają"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "los"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:54.201869672Z",
+  "model": "glm-5.3"
+}

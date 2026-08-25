@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I rozmnożył ⟨את⟩ swój lud niezmiernie, i uczynił go potężniejszym niż jego ciemiężcy.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "i rozmnożył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój lud"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "niezmiernie"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "i uczynił go potężniejszym"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "niż jego ciemiężcy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:53.999132424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Bo dniem i nocą ciążyła na mnie Twoja ręka, zamienił się mój wigor w letnią posuchę. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dniami"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocami"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ciążyła"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Twoja ręka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "zamienił się"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "mój wigor"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "w posuchę"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "letnią"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:50.480227190Z",
+  "model": "glm-5.3"
+}

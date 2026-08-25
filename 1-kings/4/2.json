@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "A ci ⟨byli⟩ książęta, którzy mieli ⟨być przy⟩ nim: Azarjahu ben Cadok, ⟨on⟩ kapłan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A ci"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "książęta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "przy nim"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:11.811905813Z",
+  "model": "glm-5.3"
+}

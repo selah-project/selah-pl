@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Gdzie ⟨jest⟩ król Chamat, i król Arpad, i król miasta Sefarwajim, Hena i Iwwa?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i król"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "i Iwwa"
+    }
+  ],
+  "timestamp": "2026-08-25T00:30:19.528017642Z",
+  "model": "glm-5.3"
+}

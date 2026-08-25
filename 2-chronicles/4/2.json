@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I zrobił ⟨את⟩ Morze odlane — dziesięć łokci od jego brzegu do brzegu, okrągłe dokoła, a pięć łokci jego wysokość, i sznur trzydziestu łokci opasywał ⟨את⟩ nie dokoła.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Morze"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "odlane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "od jego brzegu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "brzegu"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "okrągłe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pięć"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "jego wysokość"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "i sznur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydziestu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "opasywał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nie (Morze)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:01:33.214563216Z",
+  "model": "glm-5.3"
+}

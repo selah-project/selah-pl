@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Poją wszelkie zwierzęta polne, onygasze pragnienie dzikich osłów.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "poją"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zwierzęta"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polne"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "onygasze"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "dzikich osłów"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "pragnienie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:25.914685955Z",
+  "model": "glm-5.3"
+}

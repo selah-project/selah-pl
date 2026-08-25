@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A wy powstaniecie z zasadzki i zawładniecie ⟨את⟩ miastem, i wyda je Jahwe, wasz Elohim, w wasze ręce",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a wy"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "powstaniecie"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "z zasadzki"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "i zawładniecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miastem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miastem"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i wyda je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wasz Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "w wasze ręce"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:24.092369556Z",
+  "model": "glm-5.3"
+}

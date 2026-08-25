@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Bo otoczyły mnie psy, gromada złoczyńców opasała mnie; ⟨jak lew⟩ moje ręce i moje stopy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "otoczyły mnie"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psy"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gromada"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "opasała mnie"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "⟨jak lew⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ręce"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "i moje stopy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:54.201301441Z",
+  "model": "glm-5.3"
+}

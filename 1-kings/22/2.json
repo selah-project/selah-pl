@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I stało się w roku trzecim, że Jozafat, król Jehudy, zszedł do króla Izraela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trzecim"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "zeszedł"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jozafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:08.181492028Z",
+  "model": "glm-5.3"
+}

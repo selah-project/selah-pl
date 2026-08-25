@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł: Nie bój się, bo liczniejsi ⟨są⟩ ci, którzy ⟨są⟩ ⟨את⟩ z nami, niż ci, którzy ⟨są⟩ ⟨את⟩ z nimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bój się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "liczniejsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ z nami"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "niż ci, którzy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ z nimi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:07.430120533Z",
+  "model": "glm-5.3"
+}

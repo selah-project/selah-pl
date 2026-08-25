@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Niech do mnie się zwrócą Ci, którzy się Ciebie boją, i poznają Twoie świadectwa.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "niech się zwrócą"
+    },
+    {
+      "surface": "לי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "Ci, którzy się Ciebie boją"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "i poznają"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Twoje świadectwa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:38.038501157Z",
+  "model": "glm-5.3"
+}

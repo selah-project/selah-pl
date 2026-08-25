@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I poszła Tamar do domu Amnona, swojego brata, a on leżał; i wzięła ⟨את⟩ ciasto, i ugniotła, i ulepiła placki na jego oczach, i ugotowała ⟨את⟩ placki.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "i poszła"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "swojego brata"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leżał"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i wzięła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciasto"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ciasto"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "i ugniotła"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "i ulepiła placki"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "na jego oczach"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "i ugotowała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "placki"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "placki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:48:49.680959174Z",
+  "model": "glm-5.3"
+}

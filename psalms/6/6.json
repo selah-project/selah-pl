@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Bo nie ma w śmierci pamiątki twojej; w Szeolu któż cię wysławi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "במות",
+      "gloss": "w śmierci"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "pamiątka twoja"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "w Szeolu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "wysławi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:44.229547618Z",
+  "model": "glm-5.3"
+}

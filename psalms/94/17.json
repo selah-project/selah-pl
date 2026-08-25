@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Gdyby nie Jahwe, ⟨który był⟩ pomocą dla mnie — prawie zamieszkałaby ⟨w⟩ ciszy moja nefesz.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Gdyby nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pomocą"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "prawie"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "zamieszkałaby"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "w ciszy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:40.416444713Z",
+  "model": "glm-5.3"
+}

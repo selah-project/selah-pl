@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I ustanowił świadectwo w Jaakowie, a Torę położył w Jisraelu, którą przykazał ⟨את⟩ ojcom naszym, aby im oznajmiać synom ich.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i ustanowił"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "świadectwo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "w Jaakowie"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "a Torę"
+    },
+    {
+      "surface": "שם",
+      "gloss": "położył"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Jisraelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojcom naszym"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ojcom naszym"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "aby im oznajmiać"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "synom ich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:51.965105395Z",
+  "model": "glm-5.3"
+}

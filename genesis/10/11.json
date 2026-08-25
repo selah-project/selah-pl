@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Z owej ziemi wyszedł Aszur i zbudował ⟨את⟩ Niniwe oraz ⟨את⟩ Rechowot-Ir oraz ⟨את⟩ Kalach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "owej ziemi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owej"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wyszedł"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aszur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niniwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Rechowot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechowot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:40.405251709Z",
+  "model": "glm-5.3"
+}

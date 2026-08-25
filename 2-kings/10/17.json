@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I przybył do Szomronu, i pobił ⟨את⟩ wszystkich pozostających po Achabie w Szomronie, aż go wytracił, według słowa Jahwe, które mówił do Elijachu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I przybył"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Szomronu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich pozostających po Achabie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "pozostających"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "po Achabie"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomronie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "go wytracił"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "według słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijachu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:11:00.390794782Z",
+  "model": "glm-5.3"
+}

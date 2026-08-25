@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I ludzie Babelu uczynili ⟨את⟩ Sukkot-Benot, i ludzie Kut uczynili ⟨את⟩ Nergala, i ludzie Chamat uczynili ⟨את⟩ Aszimę.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "i ludzie"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "i ludzie"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergala"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "i ludzie"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uczynili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aszimę"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Aszima"
+    }
+  ],
+  "timestamp": "2026-08-25T00:14:35.191947319Z",
+  "model": "glm-5.3"
+}

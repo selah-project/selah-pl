@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Nieprawy czyni zapłatę kłamstwa, a siejący sprawiedliwość — zapłatę prawdy.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "nieprawy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyni"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "zapłatę"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "a siejący"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zapłatę"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "prawdy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:12.488210445Z",
+  "model": "glm-5.3"
+}

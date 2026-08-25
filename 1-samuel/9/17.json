@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Szmuel ujrzał ⟨את⟩ Szaula, a Jahwe odpowiedział mu: Oto mąż, o którym mówiłem ci: ten będzie rządził moim ludem.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "a Szmuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahwe"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "odpowiedział mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o którym"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "będzie rządził"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "moim ludem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:49.790575819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I Ben-Hadad, król Aramu, zebrał ⟨את⟩ całe swoje wojsko, a trzydziestu dwóch królów ⟨z⟩ nim, oraz konie i rydwany; i ruszył, i przystąpił przeciw Szmronowi, i walczył przeciwko niemu.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "I Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "zebrał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe swoje wojsko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "swoje wojsko"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a trzydziestu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dwóch"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królów"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nim",
+      "marks": "królów"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "oraz konie"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i rydwany"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i ruszył"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "i przystąpił (oblegał)"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szmronowi (Samarii)"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i walczył"
+    },
+    {
+      "surface": "בה",
+      "gloss": "przeciwko niemu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:27.329027659Z",
+  "model": "glm-5.3"
+}

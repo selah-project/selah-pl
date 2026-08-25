@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Jehu napełnił rękę swoją łukiem, i uderzył ⟨את⟩ Jehorama między ramiona jego, i wyszła strzała z serca jego, i ukląkł (osunął się) w rydwanie swoim.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "A Jehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napełnił"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "łukiem"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehorama"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehorama"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "ramiona jego"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszła"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "strzała"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "z serca jego"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "i ukląkł (osunął się)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "w rydwanie swoim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:56.941966270Z",
+  "model": "glm-5.3"
+}

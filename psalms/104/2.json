@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Okrywasz się światłością jak szatą, rozpinasz niebiosa jak zasłonę namiotu.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "okrywasz się"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światłością"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "jak szatą"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "rozpinasz"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "jak zasłonę namiotu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:14.085617670Z",
+  "model": "glm-5.3"
+}

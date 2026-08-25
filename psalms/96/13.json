@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 96,
+  "translation": "Przed Jahwe, bo przyszedł, bo przyszedł sądzić ⟨את⟩ ziemię — osądzi ⟨את⟩ świat w sprawiedliwości, a ludy w swojej wierności.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sądzić"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ziemię"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "osądzi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ świat"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "w sprawiedliwości"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "a ludy"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "w swojej wierności"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:10.851291724Z",
+  "model": "glm-5.3"
+}

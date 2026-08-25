@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I przygotował ⟨את⟩ ołtarz Jahwe, i składał na nim ofiary shelamim i dziękczynne, i powiedział Jehudzie, by służyli ⟨את⟩ Jahwe, Elohim Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "i przygotował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz Jahwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "i składał ofiary"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ofiary"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "i dziękczynne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudzie"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "by służyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:11:08.931337808Z",
+  "model": "glm-5.3"
+}

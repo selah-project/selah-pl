@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Knuje bezbożny przeciw sprawiedliwemu i zgrzyta na niego zębami swymi.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "Knuje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożny"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "przeciw sprawiedliwemu"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "i zgrzyta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zębami swymi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:59.685424212Z",
+  "model": "glm-5.3"
+}

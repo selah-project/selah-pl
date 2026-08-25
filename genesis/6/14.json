@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Zrób sobie skrzynię z drzewa gofer; komory zrobisz ⟨את⟩ skrzynię, i pokryjesz ją ⟨את⟩ od wewnątrz i od zewnątrz smołą.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Zrób"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "skrzynię"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drzewa"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "komory"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zrobisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrzynię"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "skrzynię"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "i pokryjesz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "od wewnątrz"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "i od zewnątrz"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "smołą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:52.105301981Z",
+  "model": "glm-5.3"
+}

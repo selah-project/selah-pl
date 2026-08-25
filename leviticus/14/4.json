@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I przykaże kapłan, i weźmie dla oczyszczającego się dwa ptaki żywe czyste, i drewno cedrowe, i szkarłat ⟨kosz⟩, i hizop.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i przykaże"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "i weźmie"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "dla oczyszczającego się"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ptaki"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "żywe"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "czyste"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "i drewno"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedrowe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "i szkarłat"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "⟨kosz⟩ z czerwca"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "i hizop"
+    }
+  ],
+  "timestamp": "2026-08-24T22:43:43.314701218Z",
+  "model": "glm-5.3"
+}

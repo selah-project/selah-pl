@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Dla Dawida. Błogosławiony Jahwe, skała moja, ⟨który⟩ ćwiczy moje ręce do walki, moje palce do bitwy.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dla Dawida"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skała moja"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "⟨który⟩ ćwiczy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ręce"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "do walki"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "moje palce"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do bitwy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:19.989536561Z",
+  "model": "glm-5.3"
+}

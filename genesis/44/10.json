@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I rzekł: także teraz według waszych słów tak ⟨jest⟩: ten, przy którym zostanie znalezione ⟨את⟩, będzie moim sługą, a wy będziecie niewinni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "według waszych słów"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ten, przy którym"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zostanie znalezione"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sługą"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a wy"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "będziecie"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "niewinni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:59.137507715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Bo moją winę wyznaję, drżę z powodu mego grzechu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moja-wina"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "wyznaję"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "drżę"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "z-powodu-mego-grzechu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:43.375197416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zostawił Dawid ⟨את⟩ rzeczy ⟨od⟩ siebie przy ręce stróża rzeczy, i pobiegł do szyku, i przyszedł, i pytał braci swoich o pokój.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "i zostawił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rzeczy"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "⟨od⟩ siebie"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ręce"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "stróża"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "i pobiegł"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "do szyku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "i pytał"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "braci swoich"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "o pokój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:49.449139077Z",
+  "model": "glm-5.3"
+}

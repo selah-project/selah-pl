@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Aby ziemia nie wyzwielała was, gdy ją skażacie ⟨את⟩ ją — jak wyzwielała ⟨את⟩ naród, który był przed wami.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aby nie"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "wyzwielała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "gdy skażacie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "wyzwielała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naród"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "przed wami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:10.170520438Z",
+  "model": "glm-5.3"
+}

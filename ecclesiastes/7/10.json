@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Nie mów: „Czemu ⟨to⟩ było, że dawne dni były lepsze od tych?” — bo nie z mądrości pytałeś o to.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "że dni"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "dawne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "były"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "lepsze"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od tych"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "z mądrości"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "pytałeś"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-08-25T04:22:57.787671489Z",
+  "model": "glm-5.3"
+}

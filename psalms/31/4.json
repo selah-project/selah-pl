@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Bo Ty ⟨jesteś⟩ moją skałą i moją twierdzą; i przez wzgląd na Twoje imię prowadź mnie i kieruj mną.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "moją skałą"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i moją twierdzą"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i przez wzgląd na"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twoje imię"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "prowadź mnie"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "i kieruj mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:57.952956071Z",
+  "model": "glm-5.3"
+}

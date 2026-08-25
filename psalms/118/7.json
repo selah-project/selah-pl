@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 118,
+  "translation": "Jahwe ⟨jest⟩ dla mnie wśród pomagających mi, a ja ujrzę ⟨przychylne oko⟩ na tych, którzy mnie nienawidzą.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "wśród pomagających mi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ujrzę"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "na tych, którzy mnie nienawidzą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.478717715Z",
+  "model": "glm-5.3"
+}

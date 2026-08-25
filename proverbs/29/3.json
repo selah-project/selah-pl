@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Człowiek miłujący mądrość weseli swego ojca, a pasterz nierządnic trwoni majątek.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miłujący"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "weseli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "swego ojca"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a pasterz"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "nierządnic"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "trwoni"
+    },
+    {
+      "surface": "הון",
+      "gloss": "majątek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:45.684004060Z",
+  "model": "glm-5.3"
+}

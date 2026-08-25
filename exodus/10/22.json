@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wyciągnął Mosze ⟨את⟩ rękę swą ku niebiosom, i była ciemność gęsta w całej ziemi Micraim przez trzy dni.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "I wyciągnął"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swą"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "rękę swą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "gęsta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:25.808006907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "Bo królem całej ⟨the⟩ ziemi ⟨is⟩ Elohim — grajcie z roztropnością!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "grajcie"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "z roztropnością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:55.709878284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "A jeśli go nie poślesz, nie zejdziemy, gdyż ów człowiek powiedział do nas: Nie ujrzycie mego oblicza, jeśli waszego brata nie będzie ⟨את⟩ z wami.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "go nie"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "poślesz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "zejdziemy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ów człowiek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "do nas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ujrzycie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicza"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jeśli nie"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "waszego brata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z wami",
+      "marks": "z wami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:27.608834485Z",
+  "model": "glm-5.3"
+}

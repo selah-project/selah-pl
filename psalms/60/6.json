@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Dałeś tym, którzy się ciebie boją, sztandar, by się ⊃l'hitnosec (wywieszać) wobec prawdy. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "tym, którzy się ciebie boją"
+    },
+    {
+      "surface": "נס",
+      "gloss": "sztandar"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "by się wywieszać"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wobec \/ z powodu"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "prawdy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:55.027319300Z",
+  "model": "glm-5.3"
+}

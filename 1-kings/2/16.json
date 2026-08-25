@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A teraz jedną prośbę ja proszę od ⟨את⟩ ciebie — nie odwracaj ⟨את⟩ mego oblicza. I rzekła do niego: Mów.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "prośbę"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedną"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ ciebie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "odwracaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego oblicza"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mego oblicza"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:22.220452090Z",
+  "model": "glm-5.3"
+}

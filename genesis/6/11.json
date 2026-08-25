@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zepsuta była ziemia przed obliczem Elohim, i napełniła się ziemia gwałtem.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "i zepsuta była"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napełniła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gwałtem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:17.911815378Z",
+  "model": "glm-5.3"
+}

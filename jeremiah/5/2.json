@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A jeśli mówią: „Żyje Jahwe!” — zaprawdę, ku kłamstwu przysięgają.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Żyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ku kłamstwu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "przysięgają"
+    }
+  ],
+  "timestamp": "2026-08-25T00:43:52.585550377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Przyjdźcie, jedzcie z mego chleba i pijcie z wina, które zmieszałam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Przyjdźcie"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jedzcie"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "z mego chleba"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "i pijcie"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "z wina"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "które zmieszałam"
+    }
+  ],
+  "timestamp": "2026-08-25T02:08:32.316607145Z",
+  "model": "glm-5.3"
+}

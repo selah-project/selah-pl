@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Eli mój, Eli mój, czemu mnie opuściłeś? Daleko od mojego wybawienia — słowa mojego ryczenia.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli mój"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli mój"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "mnie opuściłeś"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Daleko"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "od mojego wybawienia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mojego ryczenia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:49.641453667Z",
+  "model": "glm-5.3"
+}

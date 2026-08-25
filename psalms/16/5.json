@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Jahwe ⟨jest⟩ moim działem i moim kielichem; Ty podtrzymujesz mój los.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dział"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "moim"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "i moim kielichem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "podtrzymujesz"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "mój los"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:47.197578019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Jahwe, wysłuchaj modlitwy mojej, a krzyk mój do Ciebie przyjdź ⟨niech⟩ przyjdzie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "wysłuchaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "modlitwy mojej"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "a krzyk mój"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "przyjdzie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.879468481Z",
+  "model": "glm-5.3"
+}

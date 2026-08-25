@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I ⟨את⟩ skórki kozlątko t kóz przykryła jego ręce i gładką część jego karku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "skórki kozlątek kóz"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "skórki"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kozlątek"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kóz"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "przykryła"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jego ręce"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "gładką część"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "jego karku"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:22.706478287Z",
+  "model": "glm-5.3"
+}

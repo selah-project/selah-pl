@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Ziemia — z niej wychodzi chleb, a pod spodem ⟨jest⟩ wywrócona jakby ⟨w⟩ ogień.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ziemia"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z niej"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wychodzi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "a pod spodem"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "wywrócona"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jakby"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    }
+  ],
+  "timestamp": "2026-08-25T02:21:45.525165925Z",
+  "model": "glm-5.3"
+}

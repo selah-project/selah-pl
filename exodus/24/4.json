@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I napisał Mosze ⟨את⟩ wszystkie słowa Jahwe, i wstał wcześnie rano, i zbudował ołtarz pod górą oraz dwanaście stel dla dwunastu pokoleń Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napisał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "i wstał wcześnie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górą"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "oraz dwanaście"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stel"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "dla dwunastu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "pokoleń"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:46.157264507Z",
+  "model": "glm-5.3"
+}

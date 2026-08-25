@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Stopniowo, stopniowo wypędzę ich spod twarzy twojej, aż rozrośniesz się i odziedziczysz ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "stopniowo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "stopniowo"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "wypędzę ich"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "spod twarzy twojej"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨że⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "rozrośniesz się"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "i odziedziczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:01.813475176Z",
+  "model": "glm-5.3"
+}

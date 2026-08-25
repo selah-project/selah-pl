@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "oraz ⟨את⟩ każdy kruk według jego rodzaju",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "każdy kruk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kruk"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "według jego rodzaju"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:00.219732880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Elohimie, spraw, że wrócimy, i rozjaśnij swoje oblicze, i będziemy zbawieni!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "spraw, że wrócimy"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "i rozjaśnij"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "swoje oblicze"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "i będziemy zbawieni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:46.388827583Z",
+  "model": "glm-5.3"
+}

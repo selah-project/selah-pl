@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I przyszli wszyscy starsi Israela, i unieśli Lewici ⟨את⟩ arkę.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i unieśli"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:39.695162334Z",
+  "model": "glm-5.3"
+}

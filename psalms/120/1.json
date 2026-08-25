@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Pieśń wstępowań. Do Jahwe w moim ucisku wołałem i ⟨On⟩ mi odpowiedział.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "w moim ucisku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "i ⟨On⟩ mi odpowiedział"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:48.650751458Z",
+  "model": "glm-5.3"
+}

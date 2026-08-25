@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A jeśli pójdziesz moimi drogami, strzegąc moich ustaw i moich przykazań, jak chodził Dawid, ojciec twój, wtedy przedłużę ⟨את⟩ dni twoje.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "moimi drogami"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "strzegąc"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "moich ustaw"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "i moich przykazań"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodził"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ojciec twój"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "przedłużę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dni twoje"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dni twoje"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:48.415379337Z",
+  "model": "glm-5.3"
+}

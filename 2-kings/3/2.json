@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I czynił zło w oczach Jahwe, tylko nie jak jego ojciec i jak jego matka, i usunął ⟨את⟩ stelę Baala, którą uczynił jego ojciec.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "I czynił"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "jak jego ojciec"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "i jak jego matka"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i usunął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stelę Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stelę"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojciec"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:26.486234001Z",
+  "model": "glm-5.3"
+}

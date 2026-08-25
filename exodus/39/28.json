@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "Oraz ⟨את⟩ zawój z bisioru, i ⟨את⟩ ozdoby czapek z bisioru, i ⟨את⟩ spodnie z lnu z bisioru skręcanego.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Oraz ⟨את⟩",
+      "marks": "zawój"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "zawój"
+    },
+    {
+      "surface": "שש",
+      "gloss": "z bisioru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ozdoby czapek"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ozdoby"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "czapek"
+    },
+    {
+      "surface": "שש",
+      "gloss": "z bisioru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "spodnie"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "spodnie"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "z lnu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "z bisioru"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "skręcanego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:30.353948618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "i ułożył na nim szereg chlebów przed obliczem Jahwe, jak nakazał Jahwe ⟨את⟩ Mosze.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "i ułożył"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nim"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "szereg"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebów"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:18.445172529Z",
+  "model": "glm-5.3"
+}

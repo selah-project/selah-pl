@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Bogaty nad ubogimi panuje, a pożyczający ⟨jest⟩ niewolnikiem człowieka pożyczającego.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Bogaty"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "nad ubogimi"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "panuje"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a ⟨jest⟩ niewolnikiem"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "pożyczający"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "pożyczającego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:12:04.824337097Z",
+  "model": "glm-5.3"
+}

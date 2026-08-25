@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 63,
+  "translation": "Elohim, El mój ⟨ty⟩, o świcie szukam Cię, pragnie Ciebie nefesz moja, tęskni do Ciebie ciało moje, w ziemi suchej i wyczerpanej, bez wód.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mój"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ty⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "o świcie szukam Cię"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "pragnie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ciebie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moja"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "těskni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ciało moje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suchej"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "i wyczerpanej"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:36.345086071Z",
+  "model": "glm-5.3"
+}

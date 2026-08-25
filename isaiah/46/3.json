@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Słuchajcie mnie, domu Jaakowa, i wszelkiej resztko domu Iszraela, noszeni ode mnie od łona, niesieni ode mnie od macicy:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszelkiej"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resztko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "noszeni ode mnie"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "łona"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "niesieni ode mnie"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "macicy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:34:05.456440182Z",
+  "model": "glm-5.3"
+}

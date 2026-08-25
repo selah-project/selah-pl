@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "lecz właśnie po to sprawiłem, że stoisz, aby ci pokazać ⟨את⟩ moją moc, i aby rozgłaszano moje imię po całej ziemi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "lecz właśnie"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "po to"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "sprawiłem, że stoisz"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "aby"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ci pokazać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją moc"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "moją moc"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i aby"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "rozgłaszano"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje imię"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:57.583458193Z",
+  "model": "glm-5.3"
+}

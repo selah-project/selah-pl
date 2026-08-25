@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zasadził Jahwe Elohim ogród w Edenie, na wschodzie, i umieścił tam ⟨את⟩ człowieka, którego ulepił.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "i zasadził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ogród"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "w Edenie"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na wschodzie"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i umieścił"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ulepił"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:07.926236338Z",
+  "model": "glm-5.3"
+}

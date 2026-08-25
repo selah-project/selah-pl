@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł do Jehoszafata: Czy pójdziesz ⟨את⟩ mną na wojnę do Ramot-Gilad? A Jehoszafat rzekł do króla Jisraela: Jak ja, tak ty; jak mój lud, tak twój lud; jak moje konie, tak twoje konie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafata"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "czy pójdziesz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mną",
+      "marks": "ze mną"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na wojnę"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "jak ja"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tak ty"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "jak mój lud"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "tak twój lud"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "jak moje konie"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "tak twoje konie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:46.919417512Z",
+  "model": "glm-5.3"
+}

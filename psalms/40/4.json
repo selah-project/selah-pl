@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I włożył w moje usta nową pieśń, chwałę dla Elohim naszego; wielu zobaczy i ulęknie się, i zaufa Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "I włożył"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "w moje usta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nową"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "dla Elohim naszego"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zobaczą"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielu"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i ulęknie się"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "i zaufa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:55.267072762Z",
+  "model": "glm-5.3"
+}

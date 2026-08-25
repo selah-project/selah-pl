@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 128,
+  "translation": "Żona twoja jak winnica płodna w zakątach domu twego, synowie twoi jak sadzonki oliwne dokoła stołu twego.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Żona twoja"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "jak winnica"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "płodna"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "w zakątach"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "domu twego"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "synowie twoi"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "jak sadzonki"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliwne"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "stołu twego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:58.839663813Z",
+  "model": "glm-5.3"
+}

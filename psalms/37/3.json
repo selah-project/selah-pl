@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Zaufaj Jahwe i czyń dobro, mieszkaj na ziemi i karm się wiernością.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Zaufaj"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i czyń"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mieszkaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "i karm się"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "wiernością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:07.368790752Z",
+  "model": "glm-5.3"
+}

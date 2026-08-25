@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I zbudował ⟨את⟩ przybudówkę przy całym domu, pięć łokci wysokości jej, i uchwyciła ⟨את⟩ dom drewnem Cedrów.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybudówkę"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "przybudówkę"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całym"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "wysokości jej"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "uchwyciła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "drewnem"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "Cedrów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:56:59.922700134Z",
+  "model": "glm-5.3"
+}

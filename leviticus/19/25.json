@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "A w piątym roku będziecie jeść ⟨את⟩ jego owoc, ⟨aby⟩ przydać wam jego plon; Ja ⟨jestem⟩ Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "a w roku"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "piątym"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "będziecie jeść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego owoc"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "jego owoc"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "przydać"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "jego plon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:25.633714353Z",
+  "model": "glm-5.3"
+}

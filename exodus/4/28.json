@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I oznajmił Mosze Aharonowi ⟨את⟩ wszystkie słowa Jahwe, które go posłał, i ⟨את⟩ wszystkie znaki, które mu przykazał.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "go posłał"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie znaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu przykazał"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:50.405893661Z",
+  "model": "glm-5.3"
+}

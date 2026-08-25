@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Nie wróci już do swego domu, i miejsce jego nie pozna go już.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wróci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do swego domu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "pozna go"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "miejsce jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:48.536132826Z",
+  "model": "glm-5.3"
+}

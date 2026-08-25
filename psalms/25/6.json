@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Wspomnij na swoje litości, Jahwe, i na swoje wierności-przymierza, bo od wieków ⟨są⟩ one.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "wspomnij"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "swoje litości"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "i swoje wierności-przymierza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od wieków"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:27.742047951Z",
+  "model": "glm-5.3"
+}

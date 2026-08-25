@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Przysięgam wam ⟨את⟩, córki Jeruszalaim: jeśli znajdziecie ⟨את⟩ mojego miłego, co mu powiecie? — że chora z miłości jestem ja.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Przysięgam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam",
+      "marks": "wam, córki Jeruszalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "córki"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "znajdziecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojego miłego"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mojego miłego"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "powiecie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "chora"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "z miłości"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jestem ja"
+    }
+  ],
+  "timestamp": "2026-08-25T02:26:35.688535102Z",
+  "model": "glm-5.3"
+}

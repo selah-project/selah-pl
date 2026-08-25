@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A synowie Elego — synowie Beliala; nie znali ⟨את⟩ Jahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a synowie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:27:01.393909569Z",
+  "model": "glm-5.3"
+}

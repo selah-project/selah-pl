@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I dali synowie Israela Lewitom ze swego dziedzictwa według ust Jahwe ⟨את⟩ te miasta i ⟨את⟩ ich pastwiska.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "i dali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewitom"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ze swego dziedzictwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "według"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te miasta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich pastwiska"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ich pastwiska"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:58.766113275Z",
+  "model": "glm-5.3"
+}

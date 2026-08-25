@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Bo choćbym szedł doliną cienia śmierci, nie ulęknę się zła, bo Ty ⟨jesteś⟩ ze mną; Twój berło i Twój kij — one mnie pocieszają.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "choć"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "szedłbym"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "doliną"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "cienia śmierci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ulęknę się"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "Twoje berło"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "i Twój kij"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "pocieszają mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:04.587504015Z",
+  "model": "glm-5.3"
+}

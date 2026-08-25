@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Powiedziałem Jahwe: Adonai, ty⟨jesteś⟩; dobro moje — ⟨niczego nie mam⟩ ponad ciebie.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "powiedziałem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "dobro moje"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ponad ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:47.848297199Z",
+  "model": "glm-5.3"
+}

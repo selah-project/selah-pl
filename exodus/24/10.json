@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I ujrzeli ⟨את⟩ Elohim Israela, a pod stopami Jego ⟨było⟩ jak dzieło z cegły szafiru, i jak sama istota niebios co do czystości.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i ujrzeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Israela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "a pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "stopami Jego"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jak dzieło"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "z cegły"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "szafiru"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "i jak istota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "co do czystości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:44.317437445Z",
+  "model": "glm-5.3"
+}

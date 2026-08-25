@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I przemówił Dawid do Jahwe ⟨את⟩ słowa pieśni tej w dniu, gdy Jahwe wyrwał go z ręki wszystkich jego nieprzyjaciół i z ręki Szaula.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "do Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa pieśni tej"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pieśni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wyrwał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go — z ręki wszystkich jego nieprzyjaciół"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jego nieprzyjaciół"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "i z ręki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-24T23:53:09.959775524Z",
+  "model": "glm-5.3"
+}

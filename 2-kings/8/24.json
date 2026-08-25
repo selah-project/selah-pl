@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I spoczął Joram ze swoimi ojcami i został pogrzebany ze swoimi ojcami w mieście Dawida; i królował Achazjahu, jego syn, na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i spoczął"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoimi ojcami"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pogrzebany"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoimi ojcami"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i królował"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:15.682606503Z",
+  "model": "glm-5.3"
+}

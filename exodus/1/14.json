@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uczynili gorzkim ⟨את⟩ ich życie ciężką pracą w glinie i w cegłach i w każdej pracy na polu — ⟨את⟩ całej ich pracy, którą wykonywali przy niej, bezlitośnie.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "uczynili gorzkim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich życie"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ich życie"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "pracą"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ciężką"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "w glinie"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "i w cegłach"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i w każdej"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "pracy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całej ich pracy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ich pracy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "wykonywali"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "przy niej"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "bezlitośnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:35.141166726Z",
+  "model": "glm-5.3"
+}

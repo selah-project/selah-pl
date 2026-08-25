@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I ulepił Jahwe Elohim ⟨את⟩ człowieka — proch z gleby, i tchnął w jego nozdrza tchnienie życia, i stał się człowiek duszą żywą.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "i ulepił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "proch"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gleby"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "i tchnął"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "w jego nozdrza"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "tchnienie"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stał się"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "duszą"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "żywą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:07.926025866Z",
+  "model": "glm-5.3"
+}

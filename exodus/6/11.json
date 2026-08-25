@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Wejdź, mów do Paro, króla Micraim, i niech wyśle ⟨את⟩ synów Jisraela ze swojej ziemi.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "wejdź"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i niech wyśle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze swojej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:11.686878585Z",
+  "model": "glm-5.3"
+}

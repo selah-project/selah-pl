@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I usłyszał Zewul, książę miasta, ⟨את⟩ słowa Gaala, syna Ebeda, i zapłonął jego gniew.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zewul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "książę"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Gaala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebeda"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i zapłonął"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jego gniew"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:14.978803902Z",
+  "model": "glm-5.3"
+}

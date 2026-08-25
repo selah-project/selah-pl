@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "Szczęśliwy ten, kto roztropnie ⟨traktuje⟩ ubogiego; w dniu złego Jahwe go ocali.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kto roztropnie ⟨traktuje⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wobec"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "złego"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "go ocali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:53.178785069Z",
+  "model": "glm-5.3"
+}

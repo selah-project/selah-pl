@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Ojciec mój zrobił mi przysięgę, mówiąc: Oto ja umieram — w grobie moim, który wykopałem sobie w ziemi Kenaan, tam mnie pogrzebiesz. A teraz wstąpię, proszę, i pogrzebię ⟨את⟩ ojca mego, i wrócę.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ojciec mój"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "zrobił mi przysięgę"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umieram"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "w grobie moim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "wykopałem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "mnie pogrzebiesz"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "wstąpię"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "i pogrzebię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca mego"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mego"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "i wrócę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:10.602326431Z",
+  "model": "glm-5.3"
+}

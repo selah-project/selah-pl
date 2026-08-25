@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 131,
+  "translation": "Czy nie zrównałem i nie uciszyłem mojej nefesz, jak odchodziene od swojej matki — jak odchodziene przy mnie moja nefesz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "zrównałem"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "i uciszyłem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moją nefesz"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jak odstawione ⟨dziecię⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "swej matce"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jak odstawione ⟨dziecię⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przy mnie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:05.950145560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I kapłan spali ⟨to⟩ na ołtarzu jako pokarm — ofiarę ogniową dla Jahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na ołtarzu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pokarm"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofiara ogniowa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:47.707448918Z",
+  "model": "glm-5.3"
+}

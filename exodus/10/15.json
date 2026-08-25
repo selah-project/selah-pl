@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I okryła ⟨את⟩ oko całej ziemi, i zaciemniła się ziemia; i zjadła ⟨את⟩ wszelką trawę ziemi oraz ⟨את⟩ wszelki owoc drzewa, który zostawił grad — i nie zostało żadnej zieleni na drzewie i w trawie pola w całej ziemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "i okryła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko całej ziemi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "i zaciemniła się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i zjadła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszelką trawę ziemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelką"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "wszelki owoc drzewa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelki"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "zostawił"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "zostało"
+    },
+    {
+      "surface": "כל",
+      "gloss": "żadnej"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zieleni"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "na drzewie"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "i w trawie"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:25.594259817Z",
+  "model": "glm-5.3"
+}

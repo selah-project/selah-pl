@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I umarł Ja’ir, i został pogrzebany w Kamonie.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ja’ir"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pogrzebany"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "w Kamonie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:39.784339843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "W miarę jak się mnożyli, tak grzeszyli przeciwko mnie; swoją chwałę w hańbę zamienię.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "w miarę jak się mnożyli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "grzeszyli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "swoją chwałę"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "w hańbę"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "zamienię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:39:59.236028840Z",
+  "model": "glm-5.3"
+}

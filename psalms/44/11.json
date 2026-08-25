@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Odwracasz nas tyłem przed wrogiem, a ci, którzy nas nienawidzą, łupią dla siebie.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Odwracasz nas"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tyłem"
+    },
+    {
+      "surface": "מני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wrogiem"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "a ci, którzy nas nienawidzą"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "łupią"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dla siebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:24.485570448Z",
+  "model": "glm-5.3"
+}

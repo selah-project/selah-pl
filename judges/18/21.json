@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I odwrócili się, i odeszli, i postawili ⟨את⟩ dzieci, ⟨את⟩ bydło i ⟨את⟩ cały dobytek przed sobą.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "i odwrócili się"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i postawili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzieci"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "dzieci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bydło"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bydło"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cały dobytek"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "cały dobytek"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed sobą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:31:28.128248427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "i pójdzie, i będzie służył innym bogom, i pokłoni się im, oraz słońcu, albo księżycowi, albo całemu wojsku niebios, czego nie nakazałem —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pójdzie"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "i będzie służył"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innym"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokłoni się"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "oraz słońcu"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "księżycowi"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "całemu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "czego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nakazałem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:24.311361028Z",
+  "model": "glm-5.3"
+}

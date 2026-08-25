@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wyprowadziłem ⟨את⟩ waszych ojców z Micrajim, i doszliście nad morze, i Micrajim ścigali waszych ojców rydwanami i jeźdźcami — Morze Suf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "i wyprowadziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waszych ojców"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "waszych ojców"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micrajim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "i doszliście"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "nad morze"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i ścigali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "waszymi ojcami"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "rydwanami"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "i jeźdźcami"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Morze"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:32.459958598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Nachylę ku przypowieści ucho moje, otworzę przy kinorze zagadkę moją.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Nachylę"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ku przypowieści"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ucho moje"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otworzę"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "przy kinorze"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "zagadkę moją"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:45.549979429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A teraz oto krzyk synów Jisraela doszedł do mnie, i widziałem też ⟨את⟩ ucisk, którym Micraim uciskają ⟨את⟩ ich.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "krzyk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "באה",
+      "gloss": "doszedł"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i też"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucisk"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ucisk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którym"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "uciskają"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:16.142447254Z",
+  "model": "glm-5.3"
+}

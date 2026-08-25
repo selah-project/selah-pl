@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Czy na wieki będziesz się gniewał na nas, czy przeciągniesz nozdrza swoje na pokolenie i pokolenie?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "czy na wieki"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "będziesz się gniewał"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "czy przeciągniesz"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nozdrza swoje"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolenie"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i pokolenie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:38.762334347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Niech będzie wspomniana wina jego ojców przed Jahwe, a grzech jego matki niech nie będzie wymazany.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Niech będzie wspomniana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "wina"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jego ojców"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "a grzech"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jego matki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "będzie wymazany"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:44.690043576Z",
+  "model": "glm-5.3"
+}

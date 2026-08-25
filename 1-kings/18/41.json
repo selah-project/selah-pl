@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I rzekł Elijjahu do Achaba: Wstąp, jedz i pij, bo ⟨jest⟩ odgłos szumu deszczu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijjahu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "do Achaba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Wstąp"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedz"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "i pij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "odgłos"
+    },
+    {
+      "surface": "המון",
+      "gloss": "szum"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deszczu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:49.610164908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "W zgromadzeniach błogosławcie Elohim, Jahwe, ⟨wy⟩ z źródła Izraela.",
+  "tokens": [
+    {
+      "surface": "במקהלות",
+      "gloss": "W zgromadzeniach"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "błogosławcie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ממקור",
+      "gloss": "z źródła"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:29.530535100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Na jego ulicach przepasali się worami; na jego dachach i na jego placach wszystko zawodzi, schodząc z płaczem.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "Na jego ulicach"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "przepasali się"
+    },
+    {
+      "surface": "שק",
+      "gloss": "worami"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "jego dachach"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "i na jego placach"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "zawodzi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "schodząc"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "z płaczem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:23:49.816451467Z",
+  "model": "glm-5.3"
+}

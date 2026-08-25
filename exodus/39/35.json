@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "⟨את⟩ Arkę Świadectwa i ⟨את⟩ jej drążki, oraz ⟨את⟩ wieko przebłagania.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkę"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Arkę"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Świadectwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jej drążki"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "jej drążki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "wieko przebłagania"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "wieko przebłagania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:19.926119685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "Wytyczył drogę swojemu gniewowi, nie wstrzymał od śmierci ich nefesz, a ich życie wydał na pastwę zarazy.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Wytyczył"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "swojemu gniewowi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "wstrzymał"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od śmierci"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ich nefesz"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "a ich życie"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na pastwę zarazy"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "wydał"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:09.077580204Z",
+  "model": "glm-5.3"
+}

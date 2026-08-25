@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 126,
+  "translation": "Wielkie rzeczy uczynił Jahwe z nami — jesteśmy radujący się.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "wielkie rzeczy uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "uczynić"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "jesteśmy"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "radujący się"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:28.319636176Z",
+  "model": "glm-5.3"
+}

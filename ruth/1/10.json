@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekły do niej: Na pewno ⟨את⟩-tobą powrócimy do twego ludu.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "i rzekły"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na pewno"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-tobą",
+      "marks": "przy tobie (ruchomość 'z tobą' oznaczana przez את)"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "powrócimy"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "do twego ludu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:38.680191041Z",
+  "model": "glm-5.3"
+}

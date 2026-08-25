@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Oczekiwaliśmy pokoju, lecz ⟨nie⟩ ⟨ma⟩ dobra; czasu uzdrowienia — a oto trwoga!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "oczekiwaliśmy"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lecz ⟨nie⟩ ⟨ma⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "czasu"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "uzdrowienia"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "trwoga"
+    }
+  ],
+  "timestamp": "2026-08-25T03:35:47.501813452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "Błogosławię ⟨את⟩ Jahwe, który mi radzi udziela; także nocami pouczają mnie moje nerki.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Błogosławię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mi radzi udziela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nocami"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "pouczają mnie"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "moje nerki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:47.198006346Z",
+  "model": "glm-5.3"
+}

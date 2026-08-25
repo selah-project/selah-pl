@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zebrał się Mosze do obozu, on i starsi Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał się"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i starsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:20.265667092Z",
+  "model": "glm-5.3"
+}

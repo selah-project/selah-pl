@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I skłoniła się Bat-Szewa i pokłoniła królowi, a król rzekł: Czego ⟨chcesz⟩?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "i skłoniła się"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewa"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "i pokłoniła"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:04.917134199Z",
+  "model": "glm-5.3"
+}

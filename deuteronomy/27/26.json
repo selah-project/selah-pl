@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Przeklęty, kto nie podeprze ⟨את⟩ słów tej Tory, aby ⟨את⟩ je czynić; i powie cały lud: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Przeklęty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "podeprze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słów tej Tory"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tej Tory"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby czynić"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-24T23:12:53.241331936Z",
+  "model": "glm-5.3"
+}

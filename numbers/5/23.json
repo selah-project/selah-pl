@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I napisze kapłan ⟨את⟩ te klątwy w księdze, i zmazuje je do wód gorzkich.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "i napisze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te klątwy"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "te klątwy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłan"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "w księdze"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "i zmazuje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wód"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "gorzkich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:49.046565474Z",
+  "model": "glm-5.3"
+}

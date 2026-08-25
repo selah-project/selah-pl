@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Wysłał król i uwolnił go, władca ludów i wyzwolił go.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wysłał"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "i uwolnił go"
+    },
+    {
+      "surface": "משל",
+      "gloss": "władca"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludów"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "i wyzwolił go"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:35.722383462Z",
+  "model": "glm-5.3"
+}

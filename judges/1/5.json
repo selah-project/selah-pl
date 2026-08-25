@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I znaleźli ⟨את⟩ Adoni-Bezeka w Bezek, i walczyli z nim, i pobili ⟨את⟩ Kananejczyka i ⟨את⟩ Peryzzejczyka.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "i znaleźli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "w Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i walczyli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kananejczyka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananejczyka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Peryzjejczyka"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Peryzzejczyka"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:06.930486905Z",
+  "model": "glm-5.3"
+}

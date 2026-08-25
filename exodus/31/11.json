@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ olej namaszczenia, i ⟨את⟩ kadzidło wonnych przypraw do ⟨ה⟩ świętości — według wszystkiego, co ci nakazałem, wykonają",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olej namaszczenia"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "namaszczenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadzidło wonnych przypraw"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadzidło"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wonnnych przypraw"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "do świętości"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ci nakazałem"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wykonają"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:17.472269380Z",
+  "model": "glm-5.3"
+}

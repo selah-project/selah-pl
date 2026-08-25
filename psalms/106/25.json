@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I szemrali w swoich namiotach, nie usłuchali głosu Jahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "i szemrali"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "w swoich namiotach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "usłuchali"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:46.544080997Z",
+  "model": "glm-5.3"
+}

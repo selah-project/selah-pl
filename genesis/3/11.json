@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł: Kto ci oznajmił, że ⟨jesteś⟩ nagi? Czy z drzewa, co do którego przykazałem ci, abyś z niego nie jadł, jadłeś?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oznajmił"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nagi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המן",
+      "gloss": "czy z"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co do którego"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "przykazałem ci"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jadł"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "jadłeś"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:22.020731822Z",
+  "model": "glm-5.3"
+}

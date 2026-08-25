@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I doradzał się Dawid ze zwierzchnikami tysięcy i setek, przy każdym przełożonym.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "i doradzał się"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zwierzchnikami"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "i setek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "przy każdym"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "przełożonym"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:18.411684525Z",
+  "model": "glm-5.3"
+}

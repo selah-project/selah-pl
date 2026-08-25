@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "Czyż przez nieprawość ⟨im⟩ ujdzie? W gniewie strąć ludy, o Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "przez"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ujdzie"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "w gniewie"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "strąć"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:40.871728884Z",
+  "model": "glm-5.3"
+}

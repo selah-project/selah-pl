@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Czyż nie oto od ⟨את⟩ Jahwe Zastępów — i mozolą się ludy dla ognia, a narody dla próżności wyczerpią się?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe Zastępów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zastępów"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "i mozolą się"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognia"
+    },
+    {
+      "surface": "ו לאמים",
+      "gloss": "a narody"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dla"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "próżności"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "wyczerpią się"
+    }
+  ],
+  "timestamp": "2026-08-25T01:38:28.693500144Z",
+  "model": "glm-5.3"
+}

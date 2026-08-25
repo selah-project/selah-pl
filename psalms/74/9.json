@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Znaków naszych nie widzimy; nie ma już proroka i nie ma ⟨את⟩ nami tego, który by wiedział, jak długo.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "znaków naszych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "widzimy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wiedział"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "długio"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:27.005857763Z",
+  "model": "glm-5.3"
+}

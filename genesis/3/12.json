@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł człowiek: Ta kobieta, którą dałeś ⟨aby była⟩ ze mną, ona dała mi z drzewa, i zjadłem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta kobieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dałeś"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dała"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i zjadłem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:22.020903087Z",
+  "model": "glm-5.3"
+}

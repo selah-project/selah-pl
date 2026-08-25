@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I dali się pobić Jehoszua i cały Jisrael przed nimi, i uciekli drogę pustyni.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "i dali się pobić"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i uciekli"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:25:12.446324933Z",
+  "model": "glm-5.3"
+}

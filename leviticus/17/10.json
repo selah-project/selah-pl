@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "A człowiek — człowiek z domu Jisraela albo z przybyszów przebywających pośród was, który by zjadł jakiejkolwiek krew — zwrócę oblicze moje przeciw nefesz, która je krew ⟨את⟩, i wytnę ⟨את⟩ ją spośród jej ludu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a człowiek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "albo z"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "przybyszów"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "przebywających"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pośród nich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "by zjadł"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakiejkolwiek"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "zwrócę"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze moje"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "przeciw nefesz"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "która je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i wytnę"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (tę nefesz)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "spośród"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "jej ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:56.443172733Z",
+  "model": "glm-5.3"
+}

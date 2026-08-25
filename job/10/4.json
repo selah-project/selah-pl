@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Czy oczy z ciała masz? Czy jak widzi śmiertelnik, widzisz?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "czy oczy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "z ciała"
+    },
+    {
+      "surface": "לך",
+      "gloss": "masz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "jak widzi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "śmiertelnik"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "widzisz"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:31.648991998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Znam wszelkiego ptaka gór, i zwierz polny ⟨jest⟩ ze mną.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkiego"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "i zwierz"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polny"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ze mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:42.061998779Z",
+  "model": "glm-5.3"
+}

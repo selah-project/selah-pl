@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I poślę na nich ⟨את⟩ miecz, ⟨את⟩ głód i ⟨את⟩ zarazę, aż się skończą z powierzchni ziemi, którą dałem im i ich ojcom.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "i poślę"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miecz"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głód"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "głód"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zarazę"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zarazę"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "się skończą"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z powierzchni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "i ich ojcom"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:59.620353001Z",
+  "model": "glm-5.3"
+}

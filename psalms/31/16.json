@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "W Twojej ręce moje czasy; wyrwij mnie z ręki moich wrogów i z moich prześladowców.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "W Twojej ręce"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "moje czasy"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wyrwij mnie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moich wrogów"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "i z moich prześladowców"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:42.701509200Z",
+  "model": "glm-5.3"
+}

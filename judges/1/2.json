@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Jahwe: Jehuda wstąpi; oto dałem ⟨את⟩ ⟨tę⟩ ziemię w rękę jego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "wstąpi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨tę⟩ ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w rękę jego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:27.019148483Z",
+  "model": "glm-5.3"
+}

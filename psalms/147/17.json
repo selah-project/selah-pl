@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Rzuca lód swój jak okruchy, przed zimnem jego — kto się ostoi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Rzuca"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "lód swój"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "jak okruchy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "zimnem jego"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "się ostoi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:24.199645925Z",
+  "model": "glm-5.3"
+}

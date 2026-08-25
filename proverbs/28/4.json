@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Porzucający torę sławią nieprawego, a strzegący torę spierają się z nimi.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "porzucający"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "torę"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "sławiają"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nieprawego"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "a-strzegący"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "torę"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "spierają-się"
+    },
+    {
+      "surface": "בם",
+      "gloss": "z-nimi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:17.899082626Z",
+  "model": "glm-5.3"
+}

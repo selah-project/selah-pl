@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I rozkazał król ⟨את⟩ cały lud, mówiąc: Czyńcie Pesach dla Jahwe, waszego Elohim, jak jest napisane na księdze przymierza tej.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I rozkazał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "czyńcie"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "waszego Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jak jest napisane"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księdze"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "przymierza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:50.911494434Z",
+  "model": "glm-5.3"
+}

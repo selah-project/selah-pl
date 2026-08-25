@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekła: niech ⟨את⟩ Abiszag Szunamitkę da się Adonijaszowi, bratu twemu, za żonę.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "niech się da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiszag Szunamitkę"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abiszag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Szunamitka"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijaszowi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat twój"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:51.555525802Z",
+  "model": "glm-5.3"
+}

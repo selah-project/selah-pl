@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Niech będą jak plewa przed wiatrem, a posłaniec Jahwe ⟨ich⟩ strącający.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Niech będą"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jak plewa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatrem"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "a posłaniec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "strącający"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:41.937957594Z",
+  "model": "glm-5.3"
+}

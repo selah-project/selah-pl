@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zbudował ⟨את⟩ miasto dokoła, od Millo aż dokoła; a Joab ożywił ⟨את⟩ resztę miasta.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "a Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ożywił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resztę"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "resztę"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:53:23.908117445Z",
+  "model": "glm-5.3"
+}

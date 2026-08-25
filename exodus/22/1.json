@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli w podkopie zostanie znaleziony złodziej i zostanie uderzony i umrze — nie ma dla niego krwi ⟨odpowiedzialności⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "w podkopie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zostanie znaleziony"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "złodziej"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i zostanie uderzony"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krwi ⟨odpowiedzialności⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:48.113700250Z",
+  "model": "glm-5.3"
+}

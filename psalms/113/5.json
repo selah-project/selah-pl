@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 113,
+  "translation": "Kto jak Jahwe, Elohim nasz, ⟨który⟩ wysoko przysiada, aby zamieszkiwać?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kto"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jak Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "wysoko przysiada"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aby zamieszkiwać"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:32.944953952Z",
+  "model": "glm-5.3"
+}

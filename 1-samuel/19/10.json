@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I usiłował Szaul przebić włócznią Dawida ⟨i⟩ w ścianę, lecz ⟨ten⟩ usunął się sprzed oblicza Szaula, i ⟨ten⟩ uderzył ⟨את⟩ włócznię w ścianę; a Dawid uciekł i uszedł noc tę.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "i usiłował"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "przebić"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "włócznią"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "⟨i⟩ w ścianę"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "lecz ⟨ten⟩ usunął się"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sprzed oblicza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i ⟨ten⟩ uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "włócznię"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "włócznię"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "w ścianę"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "נס",
+      "gloss": "uciekł"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i uszedł"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:58.705020559Z",
+  "model": "glm-5.3"
+}

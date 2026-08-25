@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Dziękujcie Jahwe, wzywajcie Jego imienia, oznajmijcie wśród ludów Jego dzieła",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dziękujcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wzywajcie"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "w Jego imieniu"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "oznajmijcie"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "wśród ludów"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Jego dzieła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:54.119633702Z",
+  "model": "glm-5.3"
+}

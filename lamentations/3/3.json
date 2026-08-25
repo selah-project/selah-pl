@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Zaprawdę przeciw mnie odwraca się, odwraca swą rękę przez cały dzień.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zaprawdę"
+    },
+    {
+      "surface": "בי",
+      "gloss": "przeciw mnie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "odwraca się"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "odwraca"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swą rękę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    }
+  ],
+  "timestamp": "2026-08-25T02:28:46.510421226Z",
+  "model": "glm-5.3"
+}

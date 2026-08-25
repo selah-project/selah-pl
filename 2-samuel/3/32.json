@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I pochowali ⟨את⟩ Awnera w Chewronie; i podniósł król ⟨את⟩ swój głos, i zapłakał nad grobem Awnera, i płakał cały lud.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "I pochowali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awnera"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "w Chewronie"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój głos"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "swój głos"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zapłakał"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grobem"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awnera"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i płakał"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:45.894890048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "By oznajmiać o poraniu twoją wierną miłość przymierza, a o nocach twoją wierność.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "oznajmiać"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "o poraniu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "twoją miłość przymierza"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "a twoją wierność"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "o nocach"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:46.667094193Z",
+  "model": "glm-5.3"
+}

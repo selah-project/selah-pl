@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I wezmą z krwi i dadzą na dwa odrzwiowe słupy i na próg górny, na domach, w których będą jeść ⟨את⟩ go w nich.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "i wezmą"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krwi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i dadzą"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "słupy odrzwiowe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "próg górny"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w których"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "będą jeść"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go (baranka)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.670295608Z",
+  "model": "glm-5.3"
+}

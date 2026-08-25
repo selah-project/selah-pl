@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Słowa mędrców w spokoju są słyszane, bardziej niż krzyk władcy wśród głupców.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Słowa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mędrców"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "w spokoju"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "są słyszane"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "niż krzyk"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "władcy"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "wśród głupców"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:27.718121071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I nastąpił dzień, i złożył ofiarę Elkana, i dał Peninnie, swojej żonie, i wszystkim jej synom i jej córkom porcje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I nastąpił"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "i złożył ofiarę"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninnie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "swojej żonie"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i wszystkim"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "jej synom"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "i jej córkom"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "porcje"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:46.435187492Z",
+  "model": "glm-5.3"
+}

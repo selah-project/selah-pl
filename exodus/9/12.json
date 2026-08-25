@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I Jahwe wzmocnił ⟨את⟩ serce Faraona, i nie usłuchał ich, jak mówił Jahwe do Mosze.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i wzmocnił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce Faraona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłuchał"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:43.206768492Z",
+  "model": "glm-5.3"
+}

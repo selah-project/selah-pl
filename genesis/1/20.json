@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Elohim: Niech zaroją się wody rojem istot żywych, i ptactwo niech lata nad ziemią, na obliczu sklepienia niebios",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "niech zaroją się"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wody"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "rojems"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "istot"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "żywych"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "i ptactwo"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "niech lata"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemią"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczu"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "sklepienia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:31.273117534Z",
+  "model": "glm-5.3"
+}

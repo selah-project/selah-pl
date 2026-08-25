@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I stało się trzeciego dnia — dnia narodzin ⟨את⟩ Paroh — że wyprawił ucztę wszystkim swoim sługom; i podniósł ⟨את⟩ głowę nadzoru podczaszych i ⟨את⟩ głowę nadzoru piekarzy pośród swoich sług.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzecim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "narodzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i wyprawił"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkim"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoim sługom"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głowę nadzoru podczaszych"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadzoru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "podczaszych"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "głowę nadzoru piekarzy"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadzoru"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "piekarzy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sług"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:53.321665251Z",
+  "model": "glm-5.3"
+}

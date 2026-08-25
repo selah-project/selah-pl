@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "Ja ⟨jestem⟩ Jahwe, Elohim twój, który cię wyprowadził z ziemi Micraim; rozszerz usta twoje, a ja je napełnię",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "który cię wyprowadził"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "rozszerz"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "usta twoje"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "a ja je napełnię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:22.334254821Z",
+  "model": "glm-5.3"
+}

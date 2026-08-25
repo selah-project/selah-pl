@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "O każdym czasie niech szaty twoje będą białe, a oleju na twojej głowie niech nie brakuje.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "o każdym"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czasie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "niech będą"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "szaty twoje"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "białe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "a oleju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "twojej głowie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "brakuje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:39.970985064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I ujrzała Sara ⟨את⟩ syna Hagar, Egipcjanki, którą ⟨ta⟩ urodziła Abrahamowi, igrającego.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i ujrzała"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Egipcjanki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamowi"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "igrającego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:30.736372085Z",
+  "model": "glm-5.3"
+}

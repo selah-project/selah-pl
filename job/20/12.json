@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Choć zło słodkie ⟨jest⟩ w ustach jego, ukrywa je pod językiem swoim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "choć"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "słodkie ⟨jest⟩"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "w ustach jego"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "ukrywa je"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "językiem jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:20:06.383866915Z",
+  "model": "glm-5.3"
+}

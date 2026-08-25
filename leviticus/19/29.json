@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie czyń nieczystą ⟨את⟩ córki swojej, wydając ją na nierząd, i nie odda się ziemia nierządowi, i napełni się ziemia występkiem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "czyń nieczystą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "córki swojej"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "córki swojej"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "wydając ją na nierząd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "odda się nierządowi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i napełni się"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "występek"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:25.894783409Z",
+  "model": "glm-5.3"
+}

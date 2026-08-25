@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Ty Mnie opuściłaś — wyrok Jahwe — wstecz tyś poszła, a Ja wyciągnąłem ⟨את⟩ rękę swoją na ciebie i zniszczyłem cię; znudziłem się litowaniem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "opuściłaś"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mnie"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wstecz"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "poszłaś"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "a wyciągnąłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na ciebie"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "i zniszczyłem cię"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "znudziłem się"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "litowaniem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:15.749048530Z",
+  "model": "glm-5.3"
+}

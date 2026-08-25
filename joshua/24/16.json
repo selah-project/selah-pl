@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I odpowiedział lud i rzekł:chalila nam porzucać ⟨את⟩ Jahwe, by służyć innym bogom!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpowiedział"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "chalila (niech się to od nas oddali!)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "porzucać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "by służyć"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innym"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:11.509657138Z",
+  "model": "glm-5.3"
+}

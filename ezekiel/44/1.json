@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I zawrócił ⟨את⟩ mnie drogą bramy świątyni zewnętrznej, zwróconej ku wschodowi, a ona ⟨była⟩ zamknięta.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i zawrócił"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "świątyni"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "zewnętrznej"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "zwróconej"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ku wschodowi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "zamknięta"
+    }
+  ],
+  "timestamp": "2026-08-25T01:28:43.268410718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Rzekł Adonai: „Z Baszanu sprowadzę z powrotem, sprowadzę z głębin morza”.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Rzekł"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Z Baszanu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sprowadzę z powrotem"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sprowadzę"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "z głębin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:53.864064494Z",
+  "model": "glm-5.3"
+}

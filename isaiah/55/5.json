@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Oto naród, którego nie znasz, zawołasz, i naród, który cię nie zna, do ciebie pobiegnie — ze względu na Jahwe, Elohim twojego, i Świętego Jisraela, bo on cię przyozdobił.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zawołasz"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "i naród"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "zna cię"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "pobiegnie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ze względu na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twój"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "i Świętego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "przyozdobił cię"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:08.639376375Z",
+  "model": "glm-5.3"
+}

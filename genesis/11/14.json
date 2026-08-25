@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A Szelach żył trzydzieści lat, i zrodził ⟨את⟩ Ebera.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "A Szelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żył"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trzydzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebera"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:01.142980786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 97,
+  "translation": "Jego błyskawice rozświetliły ⟨ten⟩ świat; ujrzała ⟨to⟩ i zadrżała ziemia.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "rozświetliły"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Jego błyskawice"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ujrzała"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "i zadrżała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:47.656427940Z",
+  "model": "glm-5.3"
+}

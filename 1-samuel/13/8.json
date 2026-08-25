@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I czekał siedem dni do wyznaczonego terminu, ⟨jak⟩ Szemuel ⟨umówił⟩; ale Szemuel nie przyszedł do Gilgal, i lud rozproszył się od niego.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "I czekał"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "do wyznaczonego terminu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨jak⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "i rozproszył się"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od niego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:10.780730266Z",
+  "model": "glm-5.3"
+}

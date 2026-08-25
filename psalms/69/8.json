@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Bo znosiłem hańbę dla ciebie, wstyd okrył moje oblicze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "znosiłem"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hańbę"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "okrył"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "wstyd"
+    },
+    {
+      "surface": "פני",
+      "gloss": "moje oblicze"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:54.047897423Z",
+  "model": "glm-5.3"
+}

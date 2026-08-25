@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "Mizmor, pieśń na dzień szabatu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:46.666625647Z",
+  "model": "glm-5.3"
+}

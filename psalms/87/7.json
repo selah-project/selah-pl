@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "I śpiewacy jak gracze ⟨na instrumentach⟩: wszystkie moje źródła są w tobie.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "i śpiewacy"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "jak gracze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "moje źródła"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:21.239786534Z",
+  "model": "glm-5.3"
+}

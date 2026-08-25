@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Kto to ⟨jest⟩, król ⟨ten⟩ chwały? Jahwe, mocarz i bohater, Jahwe bohater wojny.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨ten⟩ chwały"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "mocarz"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "i bohater"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bohater"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:39.563442240Z",
+  "model": "glm-5.3"
+}

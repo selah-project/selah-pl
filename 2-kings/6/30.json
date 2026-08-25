@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I stało się, gdy król usłyszał ⟨את⟩ słowa tej kobiety, że rozdarł ⟨את⟩ swoje szaty — a przechodził po murze — i zobaczył lud, a oto wór włosowy na jego ciele, od wewnątrz.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stało się"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gdy usłyszał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa tej kobiety"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tej kobiety"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przechodził"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "muru"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "zobaczył"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "השק",
+      "gloss": "wór włosowy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jego ciele"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "od wewnątrz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:50.644653153Z",
+  "model": "glm-5.3"
+}

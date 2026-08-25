@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 48,
+  "translation": "Wielki ⟨jest⟩ Jahwe i godzien wielkiej chwały, w mieście Elohim naszego, górze świętości jego.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Wielki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "i godzien chwały"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wielce"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszego"
+    },
+    {
+      "surface": "הר",
+      "gloss": "góra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "świętości jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:01.539293265Z",
+  "model": "glm-5.3"
+}

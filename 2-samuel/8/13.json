@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynił Dawid sobie imię, gdy powrócił ze zniszczenia ⟨את⟩ Aramu w Dolinie Soli — osiemnaście tysięcy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "gdy powrócił"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "ze zniszczenia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "w Dolinie"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osiem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-naście"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysięcy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:10.849775001Z",
+  "model": "glm-5.3"
+}

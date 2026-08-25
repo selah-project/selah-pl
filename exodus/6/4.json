@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I też ustanowiłem moje przymierze ⟨את⟩ z nimi, aby dać im ⟨את⟩ ziemię Kanaan, ⟨את⟩ ziemię ich pielgrzymowania, w której pielgrzymowali.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i też"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ustanowiłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z nimi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby dać"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię ich pielgrzymowania"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ich pielgrzymowania"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "w której"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "pielgrzymowali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:10.772487520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł Jahwe do Szemuela: Usłysz głos ludu do wszystkiego, co mówią do ciebie, bo nie ciebie odrzucili, lecz Mnie odrzucili, aby nie królować nad nimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usłysz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "do wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mówią"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "odrzucili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mnie"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "odrzucili"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "aby nie królować"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:23.453296292Z",
+  "model": "glm-5.3"
+}

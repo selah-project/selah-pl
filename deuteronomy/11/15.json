@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I dam trawę na twoim polu dla twojego bydła, i będziesz jadł i nasycisz się.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dam"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trawę"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "na twoim polu"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "dla twojego bydła"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "i będziesz jadł"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "i nasycisz się"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:47.780777206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 56,
+  "translation": "W Elohim sławić będę jego słowo, w Elohim złożyłem ufność moją — nie ulęknę się: co uczynić może ciało mnie?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "W Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "slawić będę"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jego słowo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "w Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "złożyłem ufność moją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ulęknę się"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uczynić może"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:56.178262381Z",
+  "model": "glm-5.3"
+}

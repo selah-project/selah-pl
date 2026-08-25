@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A Binjamin spłodził ⟨את⟩ Belę, pierworodnego swojego, Aszbel drugiego, i Achracha trzeciego.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "A Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belę"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belę"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "pierworodnego swojego"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Aszbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "i Achracha"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trzeciego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:55.129444043Z",
+  "model": "glm-5.3"
+}

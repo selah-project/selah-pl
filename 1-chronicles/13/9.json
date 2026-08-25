@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I przyszli aż do klepiska Kidon, i Uzza wysunął ⟨את⟩ rękę swoją, aby chwycić ⟨את⟩ Arkę, bo się chwiały woły.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "klepiska"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i wysunął"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swoją"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "rękę swoją"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "aby chwycić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arkę"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Arkę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "się chwiały"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "woły"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:11.740038601Z",
+  "model": "glm-5.3"
+}

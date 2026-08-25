@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I sądził ⟨את⟩ Jisraela dwadzieścia i trzy lata; i umarł, i został pogrzebany w Szamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i sądził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i trzy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pogrzebany"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "w Szamir"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:39.508769047Z",
+  "model": "glm-5.3"
+}

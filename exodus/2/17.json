@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przyszli pasterze i przepędzili je — a wstał Mosze i wybawił je, i napoił ⟨את⟩ ich trzodę.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pasterze"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "i przepędzili je"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a wstał"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "i wybawił je"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "i napoił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich trzodę"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ich trzodę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:44.595820462Z",
+  "model": "glm-5.3"
+}

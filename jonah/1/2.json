@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Wstań, idź do Niniwy, ⟨tej⟩ wielkiej ⟨ Ariel miasta, poprawka: → tego wielkiego miasta⟩, i wołaj przeciwko niemu, bo zło ich wstąpiło przede Mnie.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Wstań"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwy"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "wielkiego"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "i wołaj"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "przeciwko niemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "wstąpiło"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "zło ich"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przede Mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:04.134004370Z",
+  "model": "glm-5.3"
+}

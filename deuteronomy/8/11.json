@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Strzeż się, abyś nie zapomniał ⟨את⟩ Jahwe, Elohim twojego, przestając strzec Jego przykazań i Jego praw, i Jego ustaw, które ja nakazuję tobie dzisiaj.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "strzeż się"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyś nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomniał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "przestając"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strzec"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "Jego przykazań"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i Jego praw"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "i Jego ustaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuję tobie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzisiaj"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:22.654635195Z",
+  "model": "glm-5.3"
+}

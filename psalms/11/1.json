@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Dla kierownika ⟨choóru⟩, Dawidowi. W Jahwe schroniłem się — jak mówicie ⟨mojej⟩ nefesz: «Uciekajcie na waszą górę, ptaku»?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dla kierownika ⟨choóru⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "w Jahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "schroniłem się"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mówicie"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "⟨mojej⟩ nefesz"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "uciekajcie"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "na waszą górę"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptaku"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.257987851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I dał Jehonatan ⟨את⟩ swoje przybory chłopcu, który był przy nim, i rzekł mu: idź, zanieś do miasta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dał"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje przybory"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "swoje przybory"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לו",
+      "gloss": "był przy nim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "zanieś"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "do miasta"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:41.177322940Z",
+  "model": "glm-5.3"
+}

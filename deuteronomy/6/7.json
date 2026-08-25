@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I będziesz je wtłaczał twoim synom i będziesz mówił o nich, gdy siedzisz w twoim domu, i gdy idziesz drogą, i gdy kładziesz się, i gdy wstajesz.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "i będziesz je wtłaczał"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "twoim synom"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i będziesz mówił"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o nich"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "gdy siedzisz"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "w twoim domu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "i gdy idziesz"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "i gdy kładziesz się"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "i gdy wstajesz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:53.907108105Z",
+  "model": "glm-5.3"
+}

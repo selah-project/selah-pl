@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I pobłogosławił ich Elohim, i rzekł do nich Elohim: Rozradzajcie się i rozmnażajcie, i napełnijcie ⟨את⟩ ziemię, i czyńcie ją sobie poddaną; i panujcie nad rybami morza i nad ptactwem niebios, i nad wszelką żywą istotą pełzającą po ziemi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "I pobłogosławił"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Rozradzajcie się"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i rozmnażajcie"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napełnijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "i czyńcie ją sobie poddaną"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "i panujcie"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "nad rybami"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "i nad ptactwem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i nad wszelką"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "żywą istotą"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "pełzającą"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:51.570306011Z",
+  "model": "glm-5.3"
+}

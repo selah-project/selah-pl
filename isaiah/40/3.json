@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Głos wołającego: na pustyni wyprostujcie drogę Jahwe, w stepie równajcie gościniec naszemu Elohim!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Głos"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "wołającego"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "wyprostujcie"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "równajcie"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "w stepie"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "gościniec"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "naszemu Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:02.725883957Z",
+  "model": "glm-5.3"
+}

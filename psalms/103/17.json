@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "A chesed Jahwe ⟨jest⟩ od wieczności i aż po wieczność nad tymi, którzy się Go boją, i Jego sprawiedliwość nad synami synów,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "A chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od wieczności"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż po"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczność"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "tymi, którzy się Go boją"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "i Jego sprawiedliwość"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nad synami"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:43.449146314Z",
+  "model": "glm-5.3"
+}

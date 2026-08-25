@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I nazwała ⟨את⟩ chłopca I-Kawod (Bez-Chwały), mówiąc: Odeszła chwała od Israela, bo wzięto ⟨את⟩ arkę ⟨ה⟩Elohim, i z powodu jej teścia, i z powodu jej męża.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazwała"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨את⟩ chłopca",
+      "marks": "chłopca (I-Kawod)"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kawod (Bez-Chwały)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Odeszła"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwała"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "od Israela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "wzięto"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ה⟩ Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i z powodu"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "jej teścia"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "i jej męża"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:59.054904804Z",
+  "model": "glm-5.3"
+}

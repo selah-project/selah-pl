@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I zaniósł go, i przyprowadził go do matki jego; i siedział na kolanach jej aż do południa, i umarł.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "i zaniósł go"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "i przyprowadził go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matki jego"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i siedział"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "kolanach jej"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "południa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umarł"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:07.281224189Z",
+  "model": "glm-5.3"
+}

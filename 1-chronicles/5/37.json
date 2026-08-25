@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "i Azarjasz spłodził ⟨את⟩ Amarjasza, a Amarjasz spłodził ⟨את⟩ Achituba;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "i spłodził"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjasza"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjasza"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "a Amarjasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituba"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituba"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:18.660084560Z",
+  "model": "glm-5.3"
+}

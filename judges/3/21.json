@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I Ehud wysunął ⟨את⟩ rękę swoją lewą, i wziął ⟨את⟩ miecz znad uda swego prawego, i wbił go w brzuch jego.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i wysunął"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rękę swoją lewą"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rękę"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "swoją lewą"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miecz"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miecz"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "znad"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "uda"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "swego prawego"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "i wbił go"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "w brzuch jego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:25:37.777357218Z",
+  "model": "glm-5.3"
+}

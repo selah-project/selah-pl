@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Chleba nie jedliście, a wina i sycery nie piliście — abyście wiedzieli, że Ja jestem Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "jedliście"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "a wina"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i sycery"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "piliście"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abyście"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "wiedzieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:13:29.688913550Z",
+  "model": "glm-5.3"
+}

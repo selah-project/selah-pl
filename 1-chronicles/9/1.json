@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A cały Jisraél został zapisany według rodowodów, i oto ⟨są⟩ zapisani w księdze królów Jisraéla; a Jehuda został uprowadzony do Babel z powodu swojej niewierności.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "został zapisany według rodowodów"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "i oto"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisani"
+    },
+    {
+      "surface": "על",
+      "gloss": "w"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "księdze"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraéla"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jehuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "został uprowadzony"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "do Babel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "z powodu swojej niewierności"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:05.583679500Z",
+  "model": "glm-5.3"
+}

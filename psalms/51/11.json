@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Ukryj oblicze swoje przed grzechami moimi i wszystkie winy moje wymaż.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "ukryj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicze swoje"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "przed grzechami moimi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "winy moje"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wymaż"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:41.496024823Z",
+  "model": "glm-5.3"
+}

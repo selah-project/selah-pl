@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli wzejdzie słońce na niego — krew ⟨jest⟩ dla niego; w pełni zapłaci; jeśli nie ma mu ⟨czym⟩, to zostanie sprzedany za kradzież jego.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "wzejdzie"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krew"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "w pełni"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu ⟨czym⟩"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "to zostanie sprzedany"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "za kradzież jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:48.113919779Z",
+  "model": "glm-5.3"
+}

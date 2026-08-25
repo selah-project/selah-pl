@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Gdy zapyta cię syn twój jutro, mówiąc: Co znaczą ⟨את⟩ świadectwa i ustawy i prawa, które przykazał Jahwe, Elohim nasz, ⟨את⟩ was?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gżdy"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "zapyta cię"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syn twój"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "świadectwa"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "i ustawy"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "i prawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nasz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:23.236706274Z",
+  "model": "glm-5.3"
+}

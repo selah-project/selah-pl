@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I przeliczył ⟨את⟩ młodzieńców książąt prowincji, a było ich dwieście trzydziestu dwóch; a po nich przeliczył ⟨את⟩ cały lud, wszystkich synów Jisraela — siedem tysięcy.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i przeliczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "młodzieńców książąt prowincji"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "prowincji"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a było ich"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dwieście"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydziestu"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "a po nich"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "przeliczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tysięcy"
+    }
+  ],
+  "timestamp": "2026-08-25T00:05:25.479917292Z",
+  "model": "glm-5.3"
+}

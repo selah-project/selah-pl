@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Szczęśliwy lud znający radosną trąbę — Jahwe! — w świetle oblicza Twego chodzą.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "szczęśliwy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "znający"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "radosną trąbę (okrzyk)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "w świetle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oblicza Twego"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "chodzą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:42.782394564Z",
+  "model": "glm-5.3"
+}

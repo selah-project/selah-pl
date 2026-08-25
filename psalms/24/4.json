@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Niewinne dłonie mający i czyste serce, który nie podniósł ku marności duszy swojej i nie przysięgał na oszustwo.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "niewinne"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "dłonie"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "i czyste"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "podniósł"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ku marności"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszy swojej"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "przysięgał"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "na oszustwo"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.558303110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I wyszedł lud na pole naprzeciw Israelowi, i ⟨była⟩ bitwa w lesie Efraima.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i wyszedł"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na pole"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelowi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "bitwa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "w lesie"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:38.853228398Z",
+  "model": "glm-5.3"
+}

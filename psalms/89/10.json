@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Ty władasz pysznością morza — gdy podnoszą się jego fale, Ty je uciszasz.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "władasz"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "pysznością"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "gdy podnoszą się"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "jego fale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "je uciszasz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:32.316845796Z",
+  "model": "glm-5.3"
+}

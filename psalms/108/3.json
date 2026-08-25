@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 108,
+  "translation": "Przebudź się, nebel i kinnor! Ja przebudzę świt.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Przebudź się"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ja przebudzę"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "świt"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:24.446418871Z",
+  "model": "glm-5.3"
+}

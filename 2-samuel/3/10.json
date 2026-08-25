@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "by przenieść królestwo z domu Szaula i by wznieść ⟨את⟩ tron Dawida nad Izraelem i nad Judą, od Dan aż do Beer-Szewy.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "by przenieść"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "królestwo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "i by wznieść"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tron Dawida"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judą"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:45:34.421210662Z",
+  "model": "glm-5.3"
+}

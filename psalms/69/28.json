@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Przydaj winę na ich winę, i niech nie wejdą w twoją sprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Przydaj"
+    },
+    {
+      "surface": "עון",
+      "gloss": "winę"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ich winę"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i niech nie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wejdą"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "w twoją sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:06.316119330Z",
+  "model": "glm-5.3"
+}

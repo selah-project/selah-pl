@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Tak niech się czyni ⟨dla⟩ każdego wołu, albo ⟨dla⟩ jednego barana, albo ⟨dla⟩ jagnięcia z owiec albo z kóz.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "niech się czyni"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "dla wołu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "dla barana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "dla jagnięcia"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "z owiec"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "z kóz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:55:37.507178650Z",
+  "model": "glm-5.3"
+}

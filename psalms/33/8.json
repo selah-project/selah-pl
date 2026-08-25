@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Niech boi się Jahwe cała ziemia, przed nim niechaj się lękną wszyscy mieszkańcy tebel.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Niech boi się"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "przed Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "niechaj się lękną"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:19.059309329Z",
+  "model": "glm-5.3"
+}

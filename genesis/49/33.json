@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "I skończył Jaakow rozkazywanie ⟨את⟩ swoim synom, i zebrał swoje stopy na łoże, i wyzionął ducha, i został zgromadzony do swego ludu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i skończył"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "rozkazywanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoim synom"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoim synom"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "swoje stopy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "łoże"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "i wyzionął ducha"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i został zgromadzony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "swego ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:47.594117841Z",
+  "model": "glm-5.3"
+}

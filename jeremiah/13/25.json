@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "To jest twój los, dział twoich miar ⟨את⟩ ode mnie — wyrocznia Jahwe, ponieważ zapomniałaś ⟨את⟩ mnie i zaufałaś kłamstwu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "twój los"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dział"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "twoich miar"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ode mnie",
+      "marks": "dział twoich miar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "zapomniałaś"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mnie",
+      "marks": "mnie"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "i zaufałaś"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "w kłamstwie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:47:03.328005938Z",
+  "model": "glm-5.3"
+}

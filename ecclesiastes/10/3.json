@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I nawet na drodze, gdy głupiec idzie, brakuje mu serca, i mówi każdemu, że ⟨jest⟩ głupcem.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i nawet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "gdy głupiec"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "idzie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "serce jego"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "brakuje"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i mówi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "każdemu"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "głupcem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:20.469429523Z",
+  "model": "glm-5.3"
+}

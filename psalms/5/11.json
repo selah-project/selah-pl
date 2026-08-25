@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Uznaj ich za winnych, Elohim; niech upadną od swoich zamysłów, w mnóstwie swoich buntów wypędź ich, bo zbuntowali się przeciw Tobie.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "uznaj ich za winnych"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "niech upadną"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "od swoich zamysłów"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "w mnóstwie"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "swoich buntów"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "wypędź ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "zbuntowali się"
+    },
+    {
+      "surface": "בך",
+      "gloss": "przeciw Tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:52.363533325Z",
+  "model": "glm-5.3"
+}

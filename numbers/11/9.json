@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A gdy rosa schodziła na obóz nocą, schodził na nią man.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "a gdy schodziła"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "rosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "schodził"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:46.387531948Z",
+  "model": "glm-5.3"
+}

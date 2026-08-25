@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 12:2",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I stało się w roku piątym króla Rechabama, wyruszył Szszak, król Micraim, przeciwko Jeruszalaim, bo zdradzili Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "piątym"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabama"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wyruszył"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Szszak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "zdradzili"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:03.825654132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przyprowadził Mosze ⟨את⟩ Ahrona i ⟨את⟩ jego synów, i obmył ⟨את⟩ ich wodą.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i przyprowadził"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "i obmył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wodą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:28.714643057Z",
+  "model": "glm-5.3"
+}

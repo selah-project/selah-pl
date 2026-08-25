@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Mizmor Dawida. Przyznajcie Jahwe, synowie Elim, przyznajcie Jahwe chwałę i moc.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Przyznajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "przyznajcie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "i moc"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:53.004127571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 27:14",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I nie słuchajcie słów proroków mówiących do was: «Nie będziecie służyć ⟨את⟩ królowi Babel», bo kłamstwo oni prorokują wam.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "słuchajcie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "mówiących"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tymi słowami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "będziecie służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "królowi Babel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kłamstwo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prorokują"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    }
+  ],
+  "timestamp": "2026-08-25T00:53:31.064652640Z",
+  "model": "glm-5.3"
+}

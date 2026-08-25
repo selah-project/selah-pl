@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I uczynił ⟨את⟩ dom wyżyn, i uczynił kapłanów ze skraju ludu, którzy nie byli z synów Lewiego.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "במות",
+      "gloss": "wyżyn"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "ze skraju"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "z synów"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewiego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:01:42.899567222Z",
+  "model": "glm-5.3"
+}

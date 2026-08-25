@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Ich miecz wejdzie w ich serce, a ich łuki zostaną złamane.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ich miecz"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "w ich serce"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "a ich łuki"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "zostaną złamane"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.662420114Z",
+  "model": "glm-5.3"
+}

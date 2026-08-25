@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Bo jak dym skończyły się dni moje, a kości moje jak żar zostały wypalone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "skończyły się"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jak dym"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni moje"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "a kości moje"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "קד",
+      "gloss": "żar"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "zostały wypalone"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.879805009Z",
+  "model": "glm-5.3"
+}

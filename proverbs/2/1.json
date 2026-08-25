@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Synu mój, jeśli przyjmiesz moje słowa i moje przykazania ukryjesz ⟨את⟩ przy tobie,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu mój"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "przyjmiesz"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "moje słowa"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "i moje przykazania"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ukryjesz"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ przy tobie",
+      "marks": "przy tobie (przyimka bliskości)"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:41.993375178Z",
+  "model": "glm-5.3"
+}

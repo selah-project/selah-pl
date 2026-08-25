@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I położył się Urija u wejścia domu królewskiego ⟨את⟩ wszystkich sług swego pana, a nie zszedł do swego domu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i położył się"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich sług swego pana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sług"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "swego pana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:47:53.931197628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A synowie Elpaala: Eber, i Miszam, i Szemed — on ⟨ten⟩ zbudował ⟨את⟩ Ono i ⟨את⟩ Lod wraz z jej miejscowościami.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a synowie"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaala"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "i Miszam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "i Szemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "wraz z jej miejscowościami"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:26.791688491Z",
+  "model": "glm-5.3"
+}

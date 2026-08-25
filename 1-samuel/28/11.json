@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I powiedziała kobieta: Kogo mam ci sprowadzić w górę? I powiedział: Szemuela — sprowadź mi ⟨go⟩ w górę.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kobieta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kogo"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mam sprowadzić w górę"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuela"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "sprowadź w górę"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:37.671618665Z",
+  "model": "glm-5.3"
+}

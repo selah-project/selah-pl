@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł do niego Eliszua: Idź, powiedz: ⟨Nie⟩ ⟨chyba⟩ żyć będziesz — ale okazał mi Jahwe, że na pewno umrze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idź"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨Nie⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "⟨chyba⟩ żyć"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "będziesz"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ale okazał mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מות",
+      "gloss": "na pewno umrze"
+    },
+    {
+      "surface": "ימות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:29.459711829Z",
+  "model": "glm-5.3"
+}

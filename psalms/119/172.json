@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Niech odezwie się mój język twoim powiedaniem, bo wszystkie twoje przykazania ⟨to⟩ sprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "niech odezwie się"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mój język"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "twoim powiedaniem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "twoje przykazania"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:14.846051193Z",
+  "model": "glm-5.3"
+}

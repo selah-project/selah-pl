@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "między Mną a między synami Iszraela — znak ⟨jest⟩ na wieki, bo w sześciu dniach uczynił Jahwe ⟨את⟩ niebiosa i ⟨את⟩ ziemię, a siódmego dnia odpoczął i nabrał tchu.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "między Mną"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "w sześciu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dniach"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a w dniu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmym"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "odpoczął"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "i nabrał tchu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:10.922598817Z",
+  "model": "glm-5.3"
+}

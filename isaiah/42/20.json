@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Widzisz wiele, lecz nie zachowujesz; ⟨otwarcie⟩ uszu, lecz nie słyszy.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Widzisz"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "wiele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "zachowujesz"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "⟨otwarcie⟩"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "uszu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lecz nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "słyszy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:15.698929830Z",
+  "model": "glm-5.3"
+}

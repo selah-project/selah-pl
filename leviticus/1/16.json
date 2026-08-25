@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I usunie jego wole z jej pierzem, i rzuci ją obok ołtarza, od strony wschodniej, na miejsce popiołu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "i usunie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego wolę"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "jego wola"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "z jej pierzem"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "i rzuci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "obok"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarza"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "od strony wschodniej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "popiołu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:05.725363485Z",
+  "model": "glm-5.3"
+}

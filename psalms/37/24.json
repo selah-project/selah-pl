@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Choć upadnie — nie będzie strącony, bo Jahwe podtrzymuje jego rękę.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Choć"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "upadnie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "będzie strącony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "podtrzymuje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jego rękę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:31.621041227Z",
+  "model": "glm-5.3"
+}

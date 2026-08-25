@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Jahwe unicestwił radę narodów, pokrzyżował zamysły ludów.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "unicestwił"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "radę"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "pokrzyżował"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "zamysły"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:54.120834386Z",
+  "model": "glm-5.3"
+}

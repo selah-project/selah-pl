@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Rozsądź mnie, Elohim, i prowadź mój spór z narodem nie-quesed, od człowieka oszustwa i krzywdy wyzwij mnie.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Rozsądź mnie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "i prowadź"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mój spór"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "z narodem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "quesed-owy (pobożny)"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od człowieka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "oszustwa"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "i krzywdy"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "wyzwij mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:13.540011111Z",
+  "model": "glm-5.3"
+}

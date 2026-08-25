@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 54,
+  "translation": "Bo twój mąż to twój Twórca — Jahwe Cebaot ⟨jest⟩ jego imię, a twój Odkupiciel, Święty Izraela — Elohim całej ziemi zostanie nazwany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "twój mąż"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "twój Twórca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "a twój Odkupiciel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Święty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zostanie nazwany"
+    }
+  ],
+  "timestamp": "2026-08-25T00:36:22.503273264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "A El Szaddaj niech cię pobłogosławi ⟨את⟩, i niech cię uczyni płodnym, i niech cię rozmnoży, i staniesz się zgromadzeniem ludów.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Szaddaj"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "niech pobłogosławi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "i niech cię uczyni płodnym"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "i niech cię rozmnoży"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "i staniesz się"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "zgromadzeniem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ludów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:10.491478418Z",
+  "model": "glm-5.3"
+}

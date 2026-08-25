@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I uczynili tak czarownicy swoimi łutami, by wyprowadzić ⟨את⟩ komary, ale nie mogli; i były komary na człowieku i na bydle.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "czarownicy"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "swoimi łutami"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "by wyprowadzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komary"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "komary"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i były"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "komary"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na człowieku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na bydle"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:08.367379068Z",
+  "model": "glm-5.3"
+}

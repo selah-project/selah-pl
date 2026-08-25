@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Kruszy się moja nefesz z pragnienia ku twoim wyrokom przez cały czas.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Kruszy się"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "z pragnienia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "twoim wyrokom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "przez cały"
+    },
+    {
+      "surface": "עת",
+      "gloss": "czas"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:13.585493126Z",
+  "model": "glm-5.3"
+}

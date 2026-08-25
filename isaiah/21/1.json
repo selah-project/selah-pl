@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Brzemię pustkowia morza. Jak wiejhry na południu do przelatywania — z pustkowia przychodzi, z ziemi strasznej.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "brzemię"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustkowia"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "jak wiejhry"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na południu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "do przelatywania"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pustkowia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "strasznej"
+    }
+  ],
+  "timestamp": "2026-08-25T00:24:11.945051311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A stamtąd do Beer — ona to ⟨jest⟩ studnią, o której Jahwe powiedział do Mosze: Zgromadź ⟨את⟩ lud, a dam im wody.",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "A stamtąd"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "do Beer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona to"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "studnią"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o której"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "do Mosze"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Zgromadź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a dam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-24T22:57:05.413483435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Bo ⟨את⟩ tego, kogo miłuje Jahwe, karci, i jak ojciec ⟨את⟩ syna, którym się raduje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, kogo miłuje Jahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kogo"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "miłuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "karci"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "i jak ojciec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "którym się raduje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:10.420455095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I wyruszyli synowie Jisraela z Ramsees, i rozbili obóz w Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i wyruszyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "z Ramsees"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i rozbili obóz"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "w Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-24T23:02:34.469249128Z",
+  "model": "glm-5.3"
+}

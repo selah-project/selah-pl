@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wrócił Jehoszafat, król Jehudy, do swego domu w pokoju, do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoszafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "w pokoju"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:06:23.737941649Z",
+  "model": "glm-5.3"
+}

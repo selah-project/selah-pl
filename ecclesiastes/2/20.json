@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zwróciłem się ja, by przywieść ⟨את⟩ serce moje do rozpaczy, z powodu całego trudu, którym się trudziłem pod słońcem.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "I zwróciłem się"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "by przywieść do rozpaczy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serce moje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "על",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "trudu"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "którym się trudziłem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońcem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:25.575169099Z",
+  "model": "glm-5.3"
+}

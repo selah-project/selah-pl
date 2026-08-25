@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Nasze woły ⟨są⟩ mocno obciążone, nie ma wyłomu i nie ma wychodzenia, i nie ma krzyku na naszych placach.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "nasze woły"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "mocno obciążone"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "wyłomu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "wychodzenia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "krzyku"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "na naszych placach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:10.901863716Z",
+  "model": "glm-5.3"
+}

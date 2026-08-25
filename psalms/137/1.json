@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 137,
+  "translation": "Nad rzekami Bawel, tam siedzieliśmy, także płakaliśmy, gdy wspominaliśmy ⟨את⟩ Cijon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rzekami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "siedzieliśmy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "także"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "płakaliśmy"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "gdy wspominaliśmy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:28.620619846Z",
+  "model": "glm-5.3"
+}

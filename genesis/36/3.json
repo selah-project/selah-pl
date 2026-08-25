@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "oraz ⟨את⟩ Bosmat, córkę Jiszmaela, siostrę Nebajota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jiszmaela"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "siostrę"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebajota"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:42.617046144Z",
+  "model": "glm-5.3"
+}

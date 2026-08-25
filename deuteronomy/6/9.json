@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I napiszesz je na odrzwiach twojego domu i na twoich bramach.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "i napiszesz je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "odrzwia"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twojego domu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "i na twoich bramach"
+    }
+  ],
+  "timestamp": "2026-08-24T23:05:21.998688542Z",
+  "model": "glm-5.3"
+}

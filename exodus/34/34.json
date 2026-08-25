@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "A gdy przychodził Mosże przed oblicze Jahwe, aby mówić ⟨z⟩ Nim, zdejmował ⟨את⟩ zasłonę, aż wyszedł; i wychodził, i mówił do synów Jisraela ⟨את⟩ to, co mu nakazano.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "a gdy przychodził"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed oblicze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aby mówić"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "z Nim (przyimek 'z' + sufiks)"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "zdejmował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zasłonę"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "zasłonę"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "wyszedł"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i wychodził"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i mówił"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co mu nakazano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "nakazano"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:28.861908894Z",
+  "model": "glm-5.3"
+}

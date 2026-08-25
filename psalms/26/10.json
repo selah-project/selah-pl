@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "w których rękach ⟨jest⟩ zła zamysł, a prawa ich ręka pełna ⟨jest⟩ przekupstwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "w których"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "rękach ich"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zła zamysł"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a prawa ich ręka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pełna"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "przekupstwa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:17.975019961Z",
+  "model": "glm-5.3"
+}

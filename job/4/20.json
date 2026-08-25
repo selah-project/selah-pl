@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Od rana do wieczora zostają zbici; bez zważania na zawsze zginą.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "od rana"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "do wieczora"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "zostają zbici"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "משים",
+      "gloss": "zważania"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zginą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:16.116901715Z",
+  "model": "glm-5.3"
+}

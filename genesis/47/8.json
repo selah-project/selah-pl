@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "I rzekł Paroh do Jaakowa: ile ⟨są⟩ dni lat życia twego?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lat"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "życia twego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:39.950133136Z",
+  "model": "glm-5.3"
+}

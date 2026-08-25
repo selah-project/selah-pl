@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Czyż nie Ty powrócisz — ożywisz nas, a lud twój rozraduje się w tobie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "powrócisz"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ożywisz nas"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a lud twój"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rozraduje się"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:38.762544168Z",
+  "model": "glm-5.3"
+}

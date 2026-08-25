@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A król Aramu toczył wojnę z Israelem i radził się ze sługami swymi, mówiąc: W takim to a takim miejscu będzie mój obóz.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "A król"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "był"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "toczący wojnę"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "z Israelem"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "i radził się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ze"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sługami swymi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "W"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejscu"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "takim to"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "a takim"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mój obóz"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:52.612346862Z",
+  "model": "glm-5.3"
+}

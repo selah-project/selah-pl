@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Gdy przychodzi niegodziwy, przychodzi też pogarda, a z hańbą — zniewaga.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "gdy przychodzi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "też"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pogarda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a z"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "zniewaga"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:09.211466510Z",
+  "model": "glm-5.3"
+}

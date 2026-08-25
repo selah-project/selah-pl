@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "Sprawiedliwość i prawo — podwaliną tronu Twego; chesed i wierność przed obliczem Twoim kroczą.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i prawo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "podwaliną"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tronu Twego"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i wierność"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "kroczą przed"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "obliczem Twoim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:42.782200665Z",
+  "model": "glm-5.3"
+}

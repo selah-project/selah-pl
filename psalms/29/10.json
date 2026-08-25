@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Jahwe nad potopem zasiadał i zasiada, Jahwe, król, na wieczność.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "nad potopem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zasiadał"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zasiada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieczność"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:03.825778443Z",
+  "model": "glm-5.3"
+}

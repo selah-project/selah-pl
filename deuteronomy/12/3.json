@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zburzycie ⟨את⟩ ołtarze ich, a porozbijacie ⟨את⟩ stele ich, a aszery ich spalicie w ogniu, a rzeźby bogów ich powaście, i wytracicie ⟨את⟩ imię ich z owego miejsca.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "i zburzycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze ich"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ołtarze ich"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "a porozbijacie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stele ich"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "stele ich"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "a aszery ich"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "spalicie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "a rzeźby"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogów ich"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "powaście"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "i wytracicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię ich"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "imię ich"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "miejsca"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:36.107071192Z",
+  "model": "glm-5.3"
+}

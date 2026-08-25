@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wprowadził mnie ⟨את⟩ do wejścia dziedzińca, i ujrzałem, a oto jeden otwór w ścianie.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i wprowadził"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dziedzińca"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i ujrzałem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "חר",
+      "gloss": "otwór"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "w ścianie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:09:32.433181342Z",
+  "model": "glm-5.3"
+}

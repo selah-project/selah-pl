@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "⟨את⟩ całe ⟨to⟩ słowo, które ja ⟨את⟩ wam nakazuję, ⟨⟨את⟩ jego⟩ będziecie strzec, aby je czynić; nie dodasz do niego i nie odejmiesz od niego.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe to słowo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nakazuję"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jego"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "będziecie strzec"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby czynić"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "dodasz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "odejmiesz"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:09:17.705617914Z",
+  "model": "glm-5.3"
+}

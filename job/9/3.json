@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Jeśli zechce się spierać z nim, ⟨nie⟩ odpowie mu ⟨on⟩ na jedno z tysiąca.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "zechce"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "spierać się"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "odpowie mu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "na jedno"
+    },
+    {
+      "surface": "מני",
+      "gloss": "z"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tysiąca"
+    }
+  ],
+  "timestamp": "2026-08-25T03:48:23.984791920Z",
+  "model": "glm-5.3"
+}

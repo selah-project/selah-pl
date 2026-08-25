@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I posłał król, by przywołać ⟨את⟩ Achimeleka syna Achituba kapłana i ⟨את⟩ całego domu jego ojca — kapłanów, którzy w Nob; i przyszli wszyscy do króla.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posłał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "by przywołać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimeleka syna Achituba kapłana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achituba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kapłana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "całego domu jego ojca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całego"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jego ojca"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "w Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przyszli"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:20.431492587Z",
+  "model": "glm-5.3"
+}

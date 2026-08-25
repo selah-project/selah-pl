@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I odejdą żaby od ciebie i z twoich domów, i od twoich sług, i od twojego ludu — tylko w rzece pozostaną.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "i odejdą"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "żaby"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od ciebie"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "i z twoich domów"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "i od twoich sług"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "i od twojego ludu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "w rzece"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "pozostaną"
+    }
+  ],
+  "timestamp": "2026-08-24T22:27:47.103828222Z",
+  "model": "glm-5.3"
+}

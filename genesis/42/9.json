@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I wspomiał Josef ⟨את⟩ sny, które śnił o nich, i rzekł do nich: szpiegami jesteście, aby widzieć ⟨את⟩ nagość ziemi przybyliście.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "i wspomiał"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sny"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "sny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "śnił"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o nich"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "szpiegami"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jesteście"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby widzieć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagość ziemi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "przybyliście"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:26.506292135Z",
+  "model": "glm-5.3"
+}

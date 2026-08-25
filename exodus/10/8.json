@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I sprowadzono z powrotem ⟨את⟩ Mosze i ⟨את⟩ Aharona do Paro, i rzekł do nich: Idźcie, służcie Jahwe, Elohim swojemu — którzy ⟨są ci, którzy⟩ idą?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "i sprowadzono z powrotem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idźcie"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "służcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim swojemu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a którzy"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "idą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:33.133426727Z",
+  "model": "glm-5.3"
+}

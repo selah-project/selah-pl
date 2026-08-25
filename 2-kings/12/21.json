@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I powstali jego słudzy, i spiskowali spisek, i pobili ⟨את⟩ Joasza w Bet-Millo, ⟨tym⟩ schodzącym do Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jego słudzy"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "i spiskowali"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "spisek"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joasza"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "schodzącym"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "do Silla"
+    }
+  ],
+  "timestamp": "2026-08-25T00:12:12.276820490Z",
+  "model": "glm-5.3"
+}

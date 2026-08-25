@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Nienawidzący dobra i miłujący zło, łupieżcy skóry ich znad nich i ciała ich z nad ich kości.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "nenawidzący"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "i miłujący"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "łupieżcy"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "skóry ich"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "znad nich"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "i ciała ich"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z nad"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ich kości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:36:37.314534351Z",
+  "model": "glm-5.3"
+}

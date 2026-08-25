@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I powiedział mąż Elohim: Gdzie spadło? A on pokazał mu ⟨את⟩ to miejsce. I zaczął rąbać drewno i rzucił je tam, i ⟨spowodował, że⟩ żelazo wypłynęło.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I powiedział"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Gdzie"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "spadło"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "a on pokazał mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to miejsce"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "to miejsce"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "I zaczął rąbać"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drewno"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i rzucił"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i ⟨spowodował, że⟩ wypłynęło"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "żelazo"
+    }
+  ],
+  "timestamp": "2026-08-25T00:08:52.612047064Z",
+  "model": "glm-5.3"
+}

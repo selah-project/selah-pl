@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "i ⟨את⟩ wszystkich królów Sor i ⟨את⟩ wszystkich królów Sydonu, i ⟨את⟩ królów wyspy, która ⟨jest⟩ za morzem",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkich królów Sor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Sor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystkich królów Sydonu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Sydonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "królów wyspy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królów"
+    },
+    {
+      "surface": "האי",
+      "gloss": "wyspy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morzem"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:59.395572933Z",
+  "model": "glm-5.3"
+}

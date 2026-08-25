@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 51,
+  "translation": "Gdy przyszedł do niego Natan prorok, gdy przyszedł do Bat-Szewy.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "gdy przyszedł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Szewy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:56.959003919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Bo wiatr sieją, a wir żąć będą; źdźbło — nie ma go; kłos nie wyda mąki; jeśli nawet wyda — obcy go połkną.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "sieją"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "a wir"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "żąć będą"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "źdźbło"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "kłos"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wyda"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "mąki"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "jeśli nawet"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wyda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "go połkną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:07.146135542Z",
+  "model": "glm-5.3"
+}

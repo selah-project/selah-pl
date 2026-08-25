@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "A ty, Jahwe, śmiejesz się z nich, wyśmiewasz wszystkie narody.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "śmiejesz się"
+    },
+    {
+      "surface": "למו",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "wyśmiewasz"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.818618067Z",
+  "model": "glm-5.3"
+}

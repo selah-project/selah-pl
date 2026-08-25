@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Bo bezbożni zginą, a wrogowie Jahwe — jak tłuszcz baranów: się skończą, w dymie się skończą.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożni"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zginą"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "a wrogowie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "jak tłuszcz"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "baranów"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "się skończą"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "w dymie"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "się skończą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:24.624573722Z",
+  "model": "glm-5.3"
+}

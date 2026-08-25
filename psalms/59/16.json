@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Oni błąkają się, by jeść; jeśli się nie nasycą — przeznocą ⟨z narzekaniem⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "błąkają się"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "by jeść"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "się nasycą"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "przeznocą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:52.585739857Z",
+  "model": "glm-5.3"
+}

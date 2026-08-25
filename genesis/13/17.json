@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Wstań, przejdź się po ⟨את⟩ ziemi wzdłuż jej długości i wszerz jej szerokości, bo tobie ją dam.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Wstań"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "przejdź się"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po ziemi"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "wzdłuż jej długości"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "i wszerz jej szerokości"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ją dam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:11:31.471320491Z",
+  "model": "glm-5.3"
+}

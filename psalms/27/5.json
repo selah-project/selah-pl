@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "Bo ukryje mnie w swojej suce, w dniu zła schowa mnie w ukryciu swego namiotu, na skale mnie wyniesie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "ukryje mnie"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "w swojej suce"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zła"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "schowa mnie"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w ukryciu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "swego namiotu"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na skale"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "mnie wyniesie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:53.291690252Z",
+  "model": "glm-5.3"
+}

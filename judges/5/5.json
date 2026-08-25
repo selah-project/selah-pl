@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Góry rozpłynęły się przed obliczem Jahwe — ta ⟨góra⟩, Synaj — przed obliczem Jahwe, Elohim Jisraela.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "góry"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "rozpłynęły się"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T23:25:53.808873333Z",
+  "model": "glm-5.3"
+}

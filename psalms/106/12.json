@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "I uwierzyli w słowa jego, śpiewali chwałę jego.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "i uwierzyli"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "w słowa jego"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "śpiewali"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "chwałę jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:41.686834212Z",
+  "model": "glm-5.3"
+}

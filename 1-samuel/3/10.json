@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I przyszedł Jahwe, i stanął, i zawołał jak za pierwszym razem i znowu: Szemuel, Szemuel! I rzekł Szemuel: Mów, bo słucha sługa twój.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i stanął"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zawołał"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "jak za pierwszym razem"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "i znowu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mów"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "słucha"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługa twój"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:23.045899342Z",
+  "model": "glm-5.3"
+}

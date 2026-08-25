@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I oznajmili Mordechajowi ⟨את⟩ słowa Estery.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "i oznajmili"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechajowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Estery"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estery"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:50.027286838Z",
+  "model": "glm-5.3"
+}

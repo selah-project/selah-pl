@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 2:15",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A my będziemy ścinać drzewa z ⟨the⟩ Libanu według wszelkiej twej potrzeby i sprowadzimy ci je tratwami po morzu do Jafy, a ty wyniesiesz ⟨את⟩ je do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ו אנחנו",
+      "gloss": "A my"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "będziemy ścinać"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszelkiej"
+    },
+    {
+      "surface": "צרכך",
+      "gloss": "twej potrzeby"
+    },
+    {
+      "surface": "ונביאם",
+      "gloss": "i sprowadzimy je"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "רפסדות",
+      "gloss": "tratwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morzu"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "do Jafy"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "wyniesiesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (drzewa)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:01:50.391020836Z",
+  "model": "glm-5.3"
+}

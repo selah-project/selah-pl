@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "⟨את⟩ wszystko widziałem w dniach mojej marności: jest sprawiedliwy, który ginie w swojej sprawiedliwości, i jest bezbożny, który przedłuża ⟨swoje dni⟩ w swojej złości.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "mojej marności"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jest"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ginie"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "w swojej sprawiedliwości"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "i jest"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożny"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "przedłuża"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "w swojej złości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:52.815276410Z",
+  "model": "glm-5.3"
+}

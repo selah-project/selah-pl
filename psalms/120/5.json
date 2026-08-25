@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Biada mi, że mieszkam ⟨jako przybysz⟩ w Moszeku, że przebywam z namiotami Kedaru.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Biada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "mieszkam ⟨jako przybysz⟩"
+    },
+    {
+      "surface": "משך",
+      "gloss": "w Moszeku"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "przebywam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "namiotami"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedaru"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:40.256348797Z",
+  "model": "glm-5.3"
+}

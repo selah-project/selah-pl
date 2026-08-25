@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 57,
+  "translation": "Ześle z niebios i wybawi mnie; ⟨ten, kto⟩ mnie pożera — hańbi. Sela. Ześle Elohim swoją wierną miłość i swoją wierność.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ześle"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z niebios"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "i wybawi mnie"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hańbi"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "mnie pożera"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Ześle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "swoją wierną miłość"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "i swoją wierność"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:27.865660161Z",
+  "model": "glm-5.3"
+}

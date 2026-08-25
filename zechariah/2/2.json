@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekłem do anioła, który mówił we mnie: czym są te? I rzekł do mnie: to są rogi, które rozproszyły ⟨את⟩ Jehudę, ⟨את⟩ Jisraela i Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anioła"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "który mówił"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "są te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "są rogi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "rozproszyły"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:41:01.620669374Z",
+  "model": "glm-5.3"
+}

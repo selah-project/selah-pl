@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I nie będziecie skalali ⟨את⟩ świętego imienia mojego, i będę uświęcony pośród synów Iszraela — Ja ⟨jestem⟩ Jahwe, uświęcający was.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "będziecie skalali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "świętego imienia mojego"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "święte moje"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "i będę uświęcony"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pośród"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "uświęcający was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:53.314390719Z",
+  "model": "glm-5.3"
+}

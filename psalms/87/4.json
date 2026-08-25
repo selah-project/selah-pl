@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "Wspomnę Rahab i Babilon ⟨wśród⟩ znających mnie; oto Peliszet i Cor, z Kusz — ten tam się urodził.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Wspomnę"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "i Babilon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "znającym mnie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peliszet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "i Cor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusz"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "się urodził"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:52.005235889Z",
+  "model": "glm-5.3"
+}

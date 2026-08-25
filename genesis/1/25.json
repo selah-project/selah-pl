@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uczynił Elohim ⟨את⟩ zwierzę ziemi według rodzaju jego, i ⟨את⟩ bydło według rodzaju jego, i ⟨את⟩ wszelkie pełzające gleby według rodzaju jego; i widział Elohim, że ⟨było⟩ dobre.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwierzę ziemi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zwierzę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "według rodzaju jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bydło"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bydło"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "według rodzaju jego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszelkie pełzające gleby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "pełzające"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gleby"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "według rodzaju jego"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:27.120285825Z",
+  "model": "glm-5.3"
+}

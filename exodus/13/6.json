@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "Przez siedem dni będziesz jeść mace, a siódmego dnia ⟨to⟩ święto dla Jahwe.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "będziesz jeść"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mace"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a w dniu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmym"
+    },
+    {
+      "surface": "חג",
+      "gloss": "święto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T22:29:05.036308877Z",
+  "model": "glm-5.3"
+}

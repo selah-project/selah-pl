@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "Wszystkie ludy: klaskajcie dłonią, rabijcie Elohim głosem okrzyku radości!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wszystkie"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ludy"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klaskajcie"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dłonią"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "rabijcie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "okrzyku radości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:58.497769221Z",
+  "model": "glm-5.3"
+}

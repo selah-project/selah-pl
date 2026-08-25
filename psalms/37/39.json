@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 37:39",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "A wybawienie sprawiedliwych ⟨jest⟩ od Jahwe, ⟨On jest⟩ ich warownią w czasie ucisku.",
+  "tokens": [
+    {
+      "surface": "ותשועת",
+      "gloss": "a wybawienie"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sprawiedliwych"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahwe"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "ich warownią"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ucisku"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:45.479782562Z",
+  "model": "glm-5.3"
+}

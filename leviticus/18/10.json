@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Nagość córki twego syna albo córki twej córki — nie odsłaniaj ich nagości, bo ⟨są⟩ twoją nagością.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nagość"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twego syna"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córki"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "twej córki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odsłaniaj"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ich nagości"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "twoją nagością"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨są⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:08.312950467Z",
+  "model": "glm-5.3"
+}

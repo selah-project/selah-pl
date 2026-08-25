@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "A ja mówiłem: Dla nicości się umordowałem, dla pustoty i marności siłę moją wyczerpałem; jednakże prawo moje ⟨jest⟩ ⟨את⟩ Jahwe, i zapłata moja ⟨jest⟩ ⟨את⟩ Elohim mojego.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "dla nicości"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "się umordowałem"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "dla pustoty"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "i marności"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "siłę moją"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "wyczerpałem"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "jednakże"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "prawo moje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "i zapłata moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mojego"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mojego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:34:59.719277480Z",
+  "model": "glm-5.3"
+}

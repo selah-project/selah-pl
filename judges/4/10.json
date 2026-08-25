@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I przywołał Barak ⟨את⟩ Zebuluna i ⟨את⟩ Naftalego do Kadesz, i wstąpił na swoich nogach dziesięć tysięcy mężów, a wstąpiła z nim Debora.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "i przywołał"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebuluna"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Naftalego"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "do Kadesz"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i wstąpił"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na swoich nogach"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dziesięć"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tysięcy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "a wstąpiła"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:01.853818702Z",
+  "model": "glm-5.3"
+}

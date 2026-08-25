@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Zatopiłem się w bagnie głębokim i nie ma oparcia; przyszedłem w głębiny wód, a nurt zalał mnie.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Zatopiłem się"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "w bagnie"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "głębokim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "oparcia"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "przyszedłem"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "w głębiny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "a nurt"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "zalał mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:44.249136031Z",
+  "model": "glm-5.3"
+}

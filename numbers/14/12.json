@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Uczynię ⟨את⟩ nim zarazę i wypędzę go, i uczynię z ciebie ⟨את⟩ naród wielki i potężniejszy od niego.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "uczynię ⟨את⟩ nim (porażę go)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "zarazą"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "i wypędzę go"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "i uczynię"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "z ciebie (naród)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "naród"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "i potężny"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:11.145295376Z",
+  "model": "glm-5.3"
+}

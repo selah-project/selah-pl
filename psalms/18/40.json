@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "A Ty opasujesz mnie mocą do wojny — sprawiasz, że moi przeciwnicy uginate się pode mną.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "A Ty opasujesz mnie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mocą"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do wojny"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "sprawiasz, że się uginają"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "moi przeciwnicy"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pode mną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:34.152549822Z",
+  "model": "glm-5.3"
+}

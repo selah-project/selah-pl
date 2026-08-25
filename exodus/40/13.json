@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I ubierzesz ⟨את⟩ Ahrona w szaty święte, i namaścisz go, i poświęcisz go, i będzie Mi kapłanem.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "i ubierzesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szaty święte"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "szaty"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "święte"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i poświęcisz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "i będzie kapłanem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:49.786887916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Dlaczego powiedziałeś: Sister moja ⟨jest⟩ — i wziąłem ją ⟨את⟩ sobie za żonę? A teraz oto żona twoja — weź i idź.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "powiedziałeś"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "siostra moja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "i wziąłem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "żona twoja"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idź"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:03.357888645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zeszła na klepisko, i uczyniła według wszystkiego, co przykazała jej teściowa.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "i zeszła"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "klepisko"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "i uczyniła"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "według wszystkiego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "przykazała"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "jej teściowa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:48.318408409Z",
+  "model": "glm-5.3"
+}

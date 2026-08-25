@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I powstał król, i rozdarł ⟨את⟩ swoje szaty, i położył się na ziemi; a wszyscy jego słudzy stali obok z rozdartymi szatami.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i rozdarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje szaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "i położył się"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a wszyscy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jego słudzy"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stali"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "z rozdartymi"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "szatami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:49:10.726472527Z",
+  "model": "glm-5.3"
+}

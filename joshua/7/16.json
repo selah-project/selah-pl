@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I wstał Jehoszua rano wcześnie, i przybliżył ⟨את⟩ Israela według jego pokoleń, i zostało schwytane pokolenie Jehudy.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "I wstał rano wcześnie"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "i przybliżył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "według jego pokoleń"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zostało schwytane"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:19:19.190794320Z",
+  "model": "glm-5.3"
+}

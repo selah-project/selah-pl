@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I radował się cały lud ziemi, a miasto było spokojne; a ⟨את⟩ Atalję zabili mieczem w domu królewskim.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "i radował się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a miasto"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "było spokojne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Atalję"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalję"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "królewskim"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:08.223018661Z",
+  "model": "glm-5.3"
+}

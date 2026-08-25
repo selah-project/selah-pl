@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 85,
+  "translation": "Zaprawdę bliskie jest Jego zbawienie dla bojących się Go, by zamieszkała chwała w naszej ziemi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zaprawdę"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "bliskie"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dla bojących się Go"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "Jego zbawienie"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "by zamieszkała"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwała"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "w naszej ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:11.233469123Z",
+  "model": "glm-5.3"
+}

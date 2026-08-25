@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 149,
+  "translation": "Niech chwalcą Jego imię w tańcu, z bębnem i kinorem niech Mu grają.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Niech chwalcą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jego imię"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "w tańcu"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "z bębnem"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinorem"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "niech grają"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:11.772028047Z",
+  "model": "glm-5.3"
+}

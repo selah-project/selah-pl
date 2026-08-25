@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Kolana moje chwieją się od postu, a ciało moje zeszczuplało, ⟨pozbawione⟩ tłuszczu.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Kolana moje"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "chwieją się"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "od postu"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "a ciało moje"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "zeszczuplało"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tłuszczu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:31.284032311Z",
+  "model": "glm-5.3"
+}

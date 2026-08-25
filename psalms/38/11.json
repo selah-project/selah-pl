@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Serce me kołacze, opuściła mnie siła moja, a światło oczu moich — również ono nie ma ⟨przy⟩ ⟨mnie⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "serce me"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "kołacze"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "opuściła mnie"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "siła moja"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a światło"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczus moich"
+    },
+    {
+      "surface": "גם",
+      "gloss": "również"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ono"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "przy mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.697301682Z",
+  "model": "glm-5.3"
+}

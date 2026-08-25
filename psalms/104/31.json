@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Niech będzie chwała Jahwe na wieki, niech się raduje Jahwe w swoich dziełach.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "niech będzie"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwała"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "niech się raduje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "w swoich dziełach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.193790154Z",
+  "model": "glm-5.3"
+}

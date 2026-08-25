@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "I stało się, gdy weszliśmy do sługi twego, ojca mego, oznajmiliśmy mu ⟨את⟩ słowa pana mego.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "weszliśmy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługi twego"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mego"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "oznajmiliśmy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa pana mego"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pana mego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:42.000114008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "On zbuduje mnie dom, a ja utwierdzę ⟨את⟩ jego tron na zawsze.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zbuduje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "a ja utwierdzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego tron"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jego tron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zawsze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:48.798521832Z",
+  "model": "glm-5.3"
+}

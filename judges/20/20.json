@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I wyszli mężowie Jisraëla do wojny z Binjaminem, i uszykowali się mężowie Jisraëla ⟨את⟩ do bitwy pod Givą.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyszli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëla"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do wojny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminem"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "i uszykowali się"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "do bitwy (pozycję bojową) pod Givą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëla"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bitwy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givą"
+    }
+  ],
+  "timestamp": "2026-08-24T23:32:47.207521056Z",
+  "model": "glm-5.3"
+}

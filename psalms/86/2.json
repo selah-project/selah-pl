@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Strzeż duszę moją, bo pobożny jestem ja; wybaw sługę twego, ty Elohim mój, ufającego tobie.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Strzeż"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszę moją"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pobożny"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "wybaw"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sługę twego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ufającego"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:04.639938773Z",
+  "model": "glm-5.3"
+}

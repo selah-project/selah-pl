@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "Głos mówi: Wołaj! I ⟨on⟩ powiedział: Cóż mam wołać? Wszelkie ciało ⟨jest⟩ jak trawa, a cała jego wierna miłość jak kwitnący kwiat pola.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mówi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wołaj"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mam wołać"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszelkie"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a cała"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego wierna miłość"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jak kwitnący kwiat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:20.073243675Z",
+  "model": "glm-5.3"
+}

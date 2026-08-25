@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I przybiegł do Elego, i rzekł: Oto ja, bo mnie zawołałeś; lecz ten rzekł: Nie zawołałem; wróć, połóż się; i poszedł, i położył się.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "i przybiegł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elego"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "oto ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "zawołałeś"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mnie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zawołałem"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "wróć"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "połóż się"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "i położył się"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:24.197523168Z",
+  "model": "glm-5.3"
+}

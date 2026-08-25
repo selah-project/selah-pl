@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Dokąd odejdę od Twojego ruach? I dokąd przed Twoim obliczem ucieknę?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "dokąd"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "odejdę"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "od Twojego ruach"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "i dokąd"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "przed Twoim obliczem"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ucieknę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:15.840233765Z",
+  "model": "glm-5.3"
+}

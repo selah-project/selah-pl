@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Nie będzie tobie bogów innych ponad obliczem moim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogów"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innych"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obliczem moim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:08.034547684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I zawołasz Jiszaja do ofiary, a ja cię powiadomię, ⟨את⟩ co masz zrobić, i namaścisz mi ⟨את⟩ tego, o którym ci powiem.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "i zawołasz"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jiszaja"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "do ofiary"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "cię powiadomię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "co masz zrobić"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "masz zrobić"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i namaścisz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego, o którym ci powiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tego, o którym"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:33.247701273Z",
+  "model": "glm-5.3"
+}

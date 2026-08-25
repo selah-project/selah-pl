@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I błogosławili ⟨את⟩ Riwkę, i rzekli do niej: Siostro nasza, ty bądź tysiącem tysięcy, i niech odziedziczy potomstwo twoje ⟨את⟩ bramę nienawidzących go.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "i błogosławili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riwkę"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riwkę"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rzekli"
+    },
+    {
+      "surface": "לה",
+      "gloss": "do niej"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "siostro nasza"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty",
+      "marks": "ty (zaimek osoby 2. fem.)"
+    },
+    {
+      "surface": "היי",
+      "gloss": "bądź"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "tysiącem tysięcy"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "miriad"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "i niech odziedziczy"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "potomstwo twoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bramę"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramę"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "nienawidzących go"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:18.082732911Z",
+  "model": "glm-5.3"
+}

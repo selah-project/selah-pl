@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł do niego: Racz wybaczyć, Adonai, czymże mam wybawić ⟨את⟩ Jisraela? Oto mój tysiąc ⟨jest⟩ najbiedniejszy w Menasze, a ja jestem najmłodszy w domu mego ojca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "בי",
+      "gloss": "racz wybaczyć"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "במה",
+      "gloss": "czymże"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "mam wybawić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mój tysiąc"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "najbiedniejszy"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "w Menasze"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "najmłodszy"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojego ojca"
+    }
+  ],
+  "timestamp": "2026-08-24T23:26:30.176532955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I ustanowili nad nim nadzorców robót przymusowych, aby go gnębić ciężarami; i zbudował miasta spichlerzowe dla faraona — ⟨את⟩ Pitom i ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i ustanowili"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "nadcadców"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "robót przymusowych"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "gnębić go"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ciężarami"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "spichlerzowe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "dla faraona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:16.595901780Z",
+  "model": "glm-5.3"
+}

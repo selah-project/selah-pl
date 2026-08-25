@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "Wobec Jahwe postępowali zdradziecko, bo synów obcych urodzili — teraz miesiąc pożre ich ⟨את⟩ wraz z ich działami.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Wobec Jahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "postępowali zdradziecko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synów"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "obcych"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "urodzili"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "pożre ich"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "miesiąc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich działy"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "wraz z ich działami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:18.244705428Z",
+  "model": "glm-5.3"
+}

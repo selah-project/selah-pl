@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Niech od oblicza twego wyjdzie mój sąd; oczy twoje niech widzą prostotę.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "od oblicza twego"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mój sąd"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "niech wyjdzie"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oczy twoje"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "niech widzą"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "prostotę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.617288925Z",
+  "model": "glm-5.3"
+}

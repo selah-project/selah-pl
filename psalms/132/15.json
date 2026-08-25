@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Jej zaopatrzenie pobłogosławię obficie, jej ubogich nasycę chlebem.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "zaopatrzenie"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pobłogosławię"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "obficie"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "jej ubodzy"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "nasycę"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:27.045266200Z",
+  "model": "glm-5.3"
+}

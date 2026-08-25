@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Stojące stały nogi nasze w bramach twoich, Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Stojące"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stały"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "nogi nasze"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "w bramach twoich"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:08.467516887Z",
+  "model": "glm-5.3"
+}

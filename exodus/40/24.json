@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I umieścił ⟨את⟩ menorę w Namiocie Spotkania naprzeciw stołu, na boku Przybytku, od strony południowej.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i umieścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorę"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorę"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "w Namiocie"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stołu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "boku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Przybytku"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "od strony południowej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:18.445330557Z",
+  "model": "glm-5.3"
+}

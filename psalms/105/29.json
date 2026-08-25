@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Przekształcił ⟨את⟩ ich wody w krew i zabił ⟨את⟩ ich ryby.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Przekształcił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich wody"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ich wody"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "w krew"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich ryby"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ich ryby"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:34.845496709Z",
+  "model": "glm-5.3"
+}

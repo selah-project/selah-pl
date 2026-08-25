@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł Dawid: To jest ⟨jest⟩ dom Jahwe, ⟨jest⟩ Elohim, a to ołtarz na całopalenie dla Israela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a to"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "na całopalenie"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dla Israela"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:16.685330581Z",
+  "model": "glm-5.3"
+}

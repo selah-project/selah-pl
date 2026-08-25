@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Od ⟨את⟩ pierworodnych synów Israela wziął ⟨את⟩ srebro: pięć i sześćdziesiąt i trzy ⟨od⟩ setek oraz tysiąc, według szekla świętości.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pierworodnych"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i sześćdziesiąt"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i trzy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setek"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "oraz tysiąc"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "według szekla"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "świętości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:09.345996213Z",
+  "model": "glm-5.3"
+}

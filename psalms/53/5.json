@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 53,
+  "translation": "Czy nie poznali sprawcy nieprawości? Zjadacze mego ludu chleb jedli, Elohim nie wzywali.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "czy-nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznali"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sprawcy"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawości"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "zjadacze"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ludu-mego"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wzywali"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:06.717329338Z",
+  "model": "glm-5.3"
+}

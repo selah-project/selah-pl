@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I wyzuli się synowie Iszraela ⟨את⟩ swojej biżuterii od góry Chorew.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "i wyzuli się"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swojej biżuterii"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "biżuterii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "od góry"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorew"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:00.514752448Z",
+  "model": "glm-5.3"
+}

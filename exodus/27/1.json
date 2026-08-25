@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I zrobisz ⟨את⟩ ołtarz z drewna szytan — pięć łokci długości i pięć łokci szerokości; kwadratowy będzie ołtarz, a trzy łokcie jego wysokość.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szytan (akacji)"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pięć"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "długości"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pięć"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szerokości"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kwadratowy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a trzy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "łokcie"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jego wysokość"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:12.496070863Z",
+  "model": "glm-5.3"
+}

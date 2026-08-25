@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A ⟨את⟩ barana konsekracji weźmiesz i ugotujesz ⟨את⟩ jego mięso w miejscu świętym.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "barana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "konsekracji"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "weźmiesz"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "i ugotujesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego mięso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jego mięso"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:33.707920321Z",
+  "model": "glm-5.3"
+}

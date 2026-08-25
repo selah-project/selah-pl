@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Z tyłu i z przodu otoczyłeś mnie, i położyłeś na mnie swą dłoń.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "z tyłu"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "i z przodu"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "otoczyłeś mnie"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "i położyłeś"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "swą dłoń"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:28.519275957Z",
+  "model": "glm-5.3"
+}

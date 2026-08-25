@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I modlił się Awraham do Elohim, i uzdrowił Elohim ⟨את⟩ Awimelecha, i ⟨את⟩ jego żonę, i jego niewolnice, i rodziły.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "i modlił się"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "i uzdrowił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimelecha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelecha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego żonę"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jego żonę"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "i jego niewolnice"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "i rodziły"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:08.057168910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 145,
+  "translation": "Wolę swoich czczących spełni, a ⟨את⟩ ich wołanie usłyszy i wybawi ich.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Wolę"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "swoich czczących"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "spełni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ich wołanie"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ich wołanie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłyszy"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "i wybawi ich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:19.269889373Z",
+  "model": "glm-5.3"
+}

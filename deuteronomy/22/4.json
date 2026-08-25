@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Nie zobaczysz ⟨את⟩ osła twego brata albo jego wołu leżących na drodze i ⟨nie⟩ ukryjesz się przed nimi — podnosząc podniesiesz ⟨je⟩ z nim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zobaczysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osła"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osła"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "twego brata"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "jego wołu"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "leżących"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na drodze"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "i ⟨nie⟩ ukryjesz się"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "przed nimi"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "podnosząc"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "podniesiesz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:10.376427816Z",
+  "model": "glm-5.3"
+}

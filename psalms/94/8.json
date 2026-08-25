@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Rozumejcie, brutalni wśród ludu, i głupcy — jak długo będziecie roztropni ⟨dopiero⟩?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Rozumejcie"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "brutalni"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "wśród ludu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "i głupcy"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jak długo"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "będziecie roztropni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:26.162427567Z",
+  "model": "glm-5.3"
+}

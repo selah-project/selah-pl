@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "Niech zakwitnie za jego dni sprawiedliwy, a obfitość pokoju, aż do niebytu księżyca.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "niech zakwitnie"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "za jego dni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "a obfitość"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "niebytu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "księżyca"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:38.245447369Z",
+  "model": "glm-5.3"
+}

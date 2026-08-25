@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 55,
+  "translation": "Od głosu wroga, od oblicza ucisku bezbożnika, bo zwalają na mnie nieprawość, a w gniewie mnie nienawidzą.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Od głosu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wroga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od oblicza"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ucisku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożnika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "zwalają"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "a w gniewie"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mnie nienawidzą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:24.087269421Z",
+  "model": "glm-5.3"
+}

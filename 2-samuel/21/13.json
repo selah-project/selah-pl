@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I wywiódł stamtąd ⟨את⟩ kości Szaula i ⟨את⟩ kości Jehonatana, syna jego; i zebrali ⟨את⟩ kości powieszonych.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i wywiódł"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kości"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kości"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kości"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kości"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna jego"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i zebrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kości"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kości"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "powieszonych"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:39.955797592Z",
+  "model": "glm-5.3"
+}

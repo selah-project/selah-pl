@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Błogosławcie Jahwe, wszystkie jego zastępy, jego słudzy, wykonujący jego upodobanie!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Błogosławcie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "jego zastępy"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "jego słudzy"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wykonujący"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "jego upodobanie"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:49.492482486Z",
+  "model": "glm-5.3"
+}

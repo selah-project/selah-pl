@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Bo nachylił ucho swoje ku mnie, a ja we dni swoje ⟨będę⟩ wzywał ⟨go⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nachylił"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ucho swoje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "a we dni swoje"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wzywał"
+    },
+    {
+      "gloss": "⟨będę⟩",
+      "surface": "אקרא"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:17.294905369Z",
+  "model": "glm-5.3"
+}

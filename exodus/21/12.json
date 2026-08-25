@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Kto uderzy mężczyznę i umrze, śmiercią zostanie zabity.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "uderzy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    },
+    {
+      "surface": "מות",
+      "gloss": "śmiercią"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zostanie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:56.599372454Z",
+  "model": "glm-5.3"
+}

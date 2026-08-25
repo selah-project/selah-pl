@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Nie czyńcie krzywdy w sądzie, w mierze, w wadze i w objętości.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "czyńcie"
+    },
+    {
+      "surface": "עול",
+      "gloss": "krzywdy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "w sądzie"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "w mierze"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "w wadze"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "i w objętości"
+    }
+  ],
+  "timestamp": "2026-08-24T22:46:28.453368425Z",
+  "model": "glm-5.3"
+}

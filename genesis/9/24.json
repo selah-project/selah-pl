@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przebudził się Noach od wina swego, i poznał ⟨את⟩ to, co mu uczynił syn jego, młodszy.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "i przebudził się"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "od wina swego"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i poznał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co mu uczynił syn młodszy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jego"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "młodszy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:16.983186711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I stało się wieczorem, a przylotem weszła\tsbrowc i pokryła ⟨את⟩ obóz; a rano była warstwa rosy dookoła obozu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "a weszła"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "przylotem"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "i pokryła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obóz"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a rano"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "była"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "warstwa"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "rosy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookoła"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "obozu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:36.562382950Z",
+  "model": "glm-5.3"
+}

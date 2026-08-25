@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I okryjesz ⟨את⟩ niego czystym złotem, i zrobisz mu obramowanie ze złota dokoła.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "i okryjesz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czystym"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "obramowanie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze złota"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:56.202377507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I powstał Jehoram nad królestwem ojca swego, i umocnił się, i zabił ⟨את⟩ wszystkich braci swoich mieczem, a także książąt Izraela.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i powstał"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "królestwem"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "i umocnił się"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "i zabił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich braci swoich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braci swoich"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "książąt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:07:17.226792645Z",
+  "model": "glm-5.3"
+}

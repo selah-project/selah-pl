@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "Podkopują się w ciemności do domów, w dzień zamykają się ⟨samych siebie⟩, nie znają światła.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "podkopują się"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "w ciemności"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "do domów"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "w dzień"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "zamykają się"
+    },
+    {
+      "surface": "למו",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znają"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światła"
+    }
+  ],
+  "timestamp": "2026-08-25T03:49:02.987025714Z",
+  "model": "glm-5.3"
+}

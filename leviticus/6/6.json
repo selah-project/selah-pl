@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Ogień wieczysty będzie płonął na ołtarzu, nie zgaśnie.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ogień"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wieczysty"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "będzie płonął"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ołtarzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "zgaśnie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:40:56.975371592Z",
+  "model": "glm-5.3"
+}

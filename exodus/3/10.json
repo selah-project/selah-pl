@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A teraz idź, a ja poślę cię do faraona, i wyprowadź ⟨את⟩ mój lud, synów Jisraela, z Micraim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "idź"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "a ja poślę cię"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "i wyprowadź"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mój lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mój lud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:16.142719497Z",
+  "model": "glm-5.3"
+}

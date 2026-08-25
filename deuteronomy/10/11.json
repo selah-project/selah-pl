@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I rzekł Jahwe do mnie: Wstań, ruszaj w drogę przed ludem, aby weszli i odziedziczyli ⟨את⟩ ziemię, którą przysiągłem ich ojcom, że im ją dam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Wstań"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ruszaj"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "w drogę"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "aby weszli"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "i odziedziczyli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "przysiągłem"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ich ojcom"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "że dam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-25T03:22:44.260894052Z",
+  "model": "glm-5.3"
+}

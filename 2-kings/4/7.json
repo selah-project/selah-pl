@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I przyszła, i doniosła mężowi ⟨את⟩ Elohim — a on rzekł: Idź, sprzedaj ⟨את⟩ olej i spłać ⟨את⟩ twoje długi, a ty i twoi synowie żyjcie z pozostałego.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i przyszła"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "i doniosła"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mężowi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idź"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sprzedaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "i spłać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twoje długi"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "twoje długi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "twoi synowie"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "żyjcie"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "z pozostałego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:44.184396848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Wszystkie moje kości powiedzą: Jahwe, kto ⟨jest⟩ jak Ty, wyrywający ubogiego od silniejszego od niego, a ubogiego i nędznego od rabującego go?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "moje kości"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "powiedzą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jak Ty"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wyrywający"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "od silniejszego"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "a ubogiego"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i nędznego"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "od rabującego go"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:23.808802554Z",
+  "model": "glm-5.3"
+}

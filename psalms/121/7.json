@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 121,
+  "translation": "Jahwe będzie cię strzegł przed wszelkim złem, będzie strzegł ⟨את⟩ twojej nefesz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "będzie cię strzegł"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "przed wszelkim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złem"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "będzie strzegł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twojej nefesz"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "twojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:52.214119718Z",
+  "model": "glm-5.3"
+}

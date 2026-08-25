@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Zanim zostałem dotknięty, ja błądziłem, a teraz słowo twoje zachowałem.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "zanim"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "zostałem dotknięty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "błądziłem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "słowo twoje"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "zachowałem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:57.683995020Z",
+  "model": "glm-5.3"
+}

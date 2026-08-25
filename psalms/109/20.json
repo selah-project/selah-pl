@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "To ⟨jest⟩ zapłata moim oskarżycielom od Jahwe ⟨את⟩ — i ⟨dla tych⟩, którzy mówią zło przeciwko mojej nefesz.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "zapłata"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "moim oskarżycielom"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "i którzy mówią"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:52.516834945Z",
+  "model": "glm-5.3"
+}

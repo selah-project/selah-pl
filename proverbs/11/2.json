@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Przychodzi pycha, i przychodzi hańba, a ⟨את⟩ pokornymi mądrość.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "przychodzi"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "pycha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przychodzi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hańba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pokornymi"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "pokornymi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mądrość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:09:30.145327088Z",
+  "model": "glm-5.3"
+}

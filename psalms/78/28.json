@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 78,
+  "translation": "I sprawił, że spadło pośrodku ich obozu, dokoła ich namiotów.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "I sprawił, że spadło"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pośrodku"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ich obozu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "ich namiotów"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:57.658979218Z",
+  "model": "glm-5.3"
+}

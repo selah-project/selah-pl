@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I wziął Szmuel ⟨את⟩ flakon oleju, i wylał na jego głowę, i pocałował go, i rzekł: Czyż nie dlatego, że Jahwe cię namaścił na władcę nad swoim dziedzictwem?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flakon oleju"
+    },
+    {
+      "surface": "פך",
+      "gloss": "flakon"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleju"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "i wylał"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jego głowę"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "i pocałował go"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "cię namaścił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "swoim dziedzictwem"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "na władcę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:34.583533482Z",
+  "model": "glm-5.3"
+}

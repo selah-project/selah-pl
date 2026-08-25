@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "⟨Wszyscy⟩ zboczyli, razem się splugawili — nie ma czyniącego dobro, nie ma nawet jednego.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "⟨Wszyscy⟩"
+    },
+    {
+      "surface": "סר",
+      "gloss": "zboczyli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "razem"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "się splugawili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czyniącego"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:33.146791509Z",
+  "model": "glm-5.3"
+}

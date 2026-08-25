@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I odwróciłem się, i zszedłem z góry, i złożyłem ⟨את⟩ tablice w arce, którą zrobiłem, i są tam, jak mi przykazał Jahwe.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "i odwróciłem się"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "i zszedłem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "góry"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "i złożyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tablice"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tablice"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "w arce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "zrobiłem"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i są"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:30.479336382Z",
+  "model": "glm-5.3"
+}

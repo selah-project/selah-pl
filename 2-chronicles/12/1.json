@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I stało się, gdy umocniła się władza królewska Rechabama i gdy się wzmocnił, opuścił ⟨את⟩ Torę Jahwe, i cały Israel z nim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "gdy umocniła się"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "władza królewska"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabama"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "i gdy się wzmocnił"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "opuścił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torę"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:04:03.825379965Z",
+  "model": "glm-5.3"
+}

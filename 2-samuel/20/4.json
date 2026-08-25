@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I rzekł król do Amasy: Zwołaj mi ⟨את⟩ mężów Judy za trzy dni, a ty tutaj stań.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasy"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "zwołaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mężów Judy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stań"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:24.054761173Z",
+  "model": "glm-5.3"
+}

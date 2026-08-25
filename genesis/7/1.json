@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I rzekł Jahwe do Noacha: Wejdź ty i cały twój dom do arki, bo ⟨את⟩ ciebie ujrzałem jako sprawiedliwego przed sobą w tym pokoleniu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "do Noacha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wejdziesz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twój dom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ciebie",
+      "marks": "ראיתי — przy dopełnieniu „ujrzałem”"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ujrzałem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwego"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed sobą"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "w pokoleniu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tym"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:53.664740766Z",
+  "model": "glm-5.3"
+}

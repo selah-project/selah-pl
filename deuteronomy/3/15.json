@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A Machirowi dałem ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "A Machirowi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-24T23:04:31.514912313Z",
+  "model": "glm-5.3"
+}

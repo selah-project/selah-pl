@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Mąż biedny, a uciskający ubogich — deszcz zmywający, i nie ma chleba.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "רש",
+      "gloss": "biedny"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "a-uciskający"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ubogich"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "deszcz"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "zmywający"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i-nie-ma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:17.898951830Z",
+  "model": "glm-5.3"
+}

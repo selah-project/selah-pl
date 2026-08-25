@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Wyrwijcie słabego i ubogiego, z ręki bezbożnych wybawcie.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Wyrwijcie"
+    },
+    {
+      "surface": "דל",
+      "gloss": "słabego"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogiego"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbożnych"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wybawcie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:27.497176885Z",
+  "model": "glm-5.3"
+}

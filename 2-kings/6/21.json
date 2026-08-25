@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I rzekł król Jisraela do Eliszysza, gdy zobaczył ⟨ich⟩: Czy zabić ⟨ich⟩ zabiję, ojcze mój?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszysza"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "gdy zobaczył"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "czy zabić"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "zabiję"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojcze mój"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:28.412036964Z",
+  "model": "glm-5.3"
+}

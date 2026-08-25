@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I zjedzą ⟨את⟩ mięso w nocy tej, pieczone na ogniu, i przaśne chleby — na gorzkich ziołach jedzą je.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "i zjedzą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mięso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w nocy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "pieczone"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na ogniu"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "i przaśne chleby"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "gorzkich ziołach"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "jedzą je"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:42.670466733Z",
+  "model": "glm-5.3"
+}

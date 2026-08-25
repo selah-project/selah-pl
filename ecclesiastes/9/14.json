@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Miasto małe, a ludzi w nim niewielu; i przyszedł przeciwko niemu król wielki, i otoczył ⟨את⟩ je, i zbudował przeciw niemu wielkie umocnienia oblężnicze.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "małe"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "a ludzi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "niewielu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "przeciwko niemu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielki"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "i otoczył"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je (miasto)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "przeciw niemu"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "umocnienia oblężnicze"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "wielkie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:06.884532083Z",
+  "model": "glm-5.3"
+}

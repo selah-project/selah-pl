@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "I wstąpił Dawid stamtąd i zamieszkał w twierdzach En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "I wstąpił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i zamieszkał"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "w twierdzach"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:41:31.142152892Z",
+  "model": "glm-5.3"
+}

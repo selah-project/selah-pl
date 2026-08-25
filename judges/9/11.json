@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I powiedziało im drzewo figowe: Czy mam zaniechać ⟨את⟩ mojej słodyczy i ⟨את⟩ mojego dobrego owocu, i pójść kołysać się nad drzewami?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziało"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "drzewo figowe"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "mam zaniechać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojej słodyczy"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "mojej słodyczy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mojego dobrego owocu"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "mojego owocu"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobrego"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "i pójść"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "kołysać się"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drzewami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:27:36.019178918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Który ⟨pomija⟩ naszą nefesz w ⟨życiu⟩, i nie pozwolił się chwiać naszej stopie.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Który pomija"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naszą nefesz"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "w życiu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pozwolił"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "się chwiać"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "naszej stopie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:49.167455026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I usłyszał lud, ⟨ci⟩ obozujący, mówiąc: „spiskował Zimri, a także pobił ⟨את⟩ króla” — i królem uczynili cały Izrael ⟨את⟩ Omriego, dowódcę wojska, nad Izraelem, w dniu owym, w obozie.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I usłyszał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "obozujący"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "spiskował"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a także"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "i królem uczynili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omriego"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omriego"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dowódcę"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wojska"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owym"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "w obozie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:41.056473576Z",
+  "model": "glm-5.3"
+}

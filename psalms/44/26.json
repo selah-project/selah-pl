@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Bo skłonona ku prochowi jest nasza nefesz, przyklejony ku ziemi jest nasz brzuch.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "skłonona jest"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ku prochowi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nasza nefesz"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "przyklejony jest"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku ziemi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "nasz brzuch"
+    }
+  ],
+  "timestamp": "2026-08-25T04:19:57.235463433Z",
+  "model": "glm-5.3"
+}

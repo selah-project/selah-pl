@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I podrósł chłopiec, i został odstawiony od piersi; i wydał Awraham wielką ucztę w dniu odstawienia ⟨את⟩ Jicchaka.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "I podrósł"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "chłopiec"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "i został odstawiony od piersi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i wydał"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielką"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "odstawienia od piersi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:15.306879420Z",
+  "model": "glm-5.3"
+}

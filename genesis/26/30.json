@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I przygotował im ucztę, i jedli, i pili.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I przygotował"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ucztę"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "i jedli"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "i pili"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:36.356437501Z",
+  "model": "glm-5.3"
+}

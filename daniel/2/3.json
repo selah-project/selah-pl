@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I powiedział do nich król: Sen śniłem, i zatrwożył się mój duch, by poznać ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "śniłem"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "i zatrwożył się"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mój duch"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "by poznać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:41.408684888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I uczynili synowie wygnania ⟨את⟩ Pesach czternastego ⟨dnia⟩ miesiąca pierwszego.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i uczynili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "wygnania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "czternastego"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(naście)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "miesiąca"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pierwszego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:43:24.283273033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Dlatego me biodra napełniły się bolesną konwulsją, skurcze chwyciły mnie jak skurcze rodzącej — zgiąłem się ze słyszenia, zlękłem się z widzenia.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dlatego (na)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego (to)"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napełniły się"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "me biodra"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "bolesną konwulsją"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "skurcze"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "chwyciły mnie"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "jak skurcze"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "rodzącej"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "zgiąłem się"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ze słyszenia"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "zlękłem się"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "z widzenia"
+    }
+  ],
+  "timestamp": "2026-08-25T00:24:11.945497075Z",
+  "model": "glm-5.3"
+}

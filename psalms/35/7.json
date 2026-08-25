@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Bo bez powodu ukryli mi doł-pułapkę — sieć ich; bez powodu wykopali na moją nefesz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ukryli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "doł-pułapkę"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "sieć ich"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez powodu"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "wykopali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na moją nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:41.938337677Z",
+  "model": "glm-5.3"
+}

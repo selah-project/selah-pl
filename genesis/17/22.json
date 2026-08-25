@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zakończył mówić ⟨את⟩ nim, i wstąpił Elohim znad Abrama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "zakończył"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mówić"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nim"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wstąpił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "znad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrama"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:43.702152462Z",
+  "model": "glm-5.3"
+}

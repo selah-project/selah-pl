@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Niech zastawia pułapkę wierzyciel na wszystko, co jego, i niech łupią obcy trud jego.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "niech zastawia pułapkę"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "wierzyciel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jego"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "i niech łupią"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "obcy"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "trud jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:30.372866294Z",
+  "model": "glm-5.3"
+}

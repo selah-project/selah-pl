@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Głos Jahwe w mocy, głos Jahwe w wspaniałości.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "w mocy"
+    },
+    {
+      "surface": "קול",
+      "gloss": "głos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "w wspaniałości"
+    }
+  ],
+  "timestamp": "2026-08-25T03:43:39.071701796Z",
+  "model": "glm-5.3"
+}

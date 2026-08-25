@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Ten, który daje śnieg jak wełnę, szron jak popiół rozsypuje.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ten, który daje"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "śnieg"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "jak wełnę"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "szron"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "jak popiół"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "rozsypuje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:22.104988805Z",
+  "model": "glm-5.3"
+}

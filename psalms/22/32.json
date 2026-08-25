@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Przyjdą i będą głosić jego sprawiedliwość ludowi, który się narodzi, że ⟨on⟩ uczynił.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "przyjdą"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "i będą głosić"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jego sprawiedliwość"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "który się narodzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:05.500067067Z",
+  "model": "glm-5.3"
+}

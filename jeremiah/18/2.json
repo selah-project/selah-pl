@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Wstań i zjdź do domu garncarza, a tam każę ci usłyszeć ⟨את⟩ moje słowa.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "wstań"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "i zjdź"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "garncarza"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "każę ci usłyszeć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje słowa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje słowa"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:10.570582111Z",
+  "model": "glm-5.3"
+}

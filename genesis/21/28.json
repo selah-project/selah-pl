@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I ustawił Awraham ⟨את⟩ siedem owiec trzody osobno.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ustawił"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siedem owiec trzody"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "owiec"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "trzody"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "osobno"
+    }
+  ],
+  "timestamp": "2026-08-24T22:14:23.544118096Z",
+  "model": "glm-5.3"
+}

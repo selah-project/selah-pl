@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł do niego Dawid: twoja krew na twojej głowie, bo twoje usta zeznały przeciw tobie, mówiąc: Ja zabiłem Masziacha Jahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "twoja krew"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "twojej głowie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twoje usta"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "zeznały"
+    },
+    {
+      "surface": "בך",
+      "gloss": "przeciw tobie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "zabiłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masziacha"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Masziacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:48.810272121Z",
+  "model": "glm-5.3"
+}

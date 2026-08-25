@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I policzył Mosze, jak nakazał Jahwe ⟨את⟩ niego, ⟨את⟩ wszystkich pierworodnych wśród synów Israela.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i policzył"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nakazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego",
+      "marks": "Mosze (domyślny podmiot)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich pierworodnych"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "pierworodnych"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wśród synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:24.838557130Z",
+  "model": "glm-5.3"
+}

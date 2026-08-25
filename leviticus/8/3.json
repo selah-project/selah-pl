@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "i ⟨את⟩ całą społeczność zgromadź ku wejściu Namiotu Spotkania.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "całą społeczność"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "społeczność"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zgromadź"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wejściu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:48.680100447Z",
+  "model": "glm-5.3"
+}

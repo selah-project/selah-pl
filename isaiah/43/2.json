@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "Gdy przechodzić będziesz przez wody — ja ⟨את⟩ tobą; a przez rzeki — nie zaleją cię; gdy pójdziesz w sam ogień, nie spłoniesz, a płomień na tobie się nie rozpali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "przechodzić będziesz"
+    },
+    {
+      "surface": "במים",
+      "gloss": "przez wody"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą",
+      "marks": "tobą"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "a przez rzeki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "zaleją cię"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "במו",
+      "gloss": "w sam(ym)"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogień"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "spłoniesz"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "a płomień"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "rozpali się"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:32:49.012992488Z",
+  "model": "glm-5.3"
+}

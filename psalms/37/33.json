@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Jahwe nie opuści go w jego ręce i nie uzna go za winnego, gdy będzie sądzony.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "opuści go"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w jego ręce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "uzna go za winnego"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "gdy będzie sądzony"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:22.216525015Z",
+  "model": "glm-5.3"
+}

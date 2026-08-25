@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 126,
+  "translation": "Idąc będzie szedł i płacząc, niesiąc worek nasienia — przychodząc przyjdzie w radosnym śpiewie, niesiąc snopy swoje.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "idąc"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "będzie szedł"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "i płacząc"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "niesiąc"
+    },
+    {
+      "surface": "משך",
+      "gloss": "worek nasienia"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "nasienie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przychodząc"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "przyjdzie"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "w radosnym śpiewie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "niesiąc"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "snopy swoje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:56.518315279Z",
+  "model": "glm-5.3"
+}

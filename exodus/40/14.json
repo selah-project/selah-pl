@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I ⟨את⟩ jego synów przyprowadzisz, i ubierzesz ⟨את⟩ ich w tuniki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "przyprowadzisz"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "i ubierzesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tuniki"
+    }
+  ],
+  "timestamp": "2026-08-24T22:39:49.787130068Z",
+  "model": "glm-5.3"
+}

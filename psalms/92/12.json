@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 92,
+  "translation": "I ogląda się moje oko na przeciwników moich, tych którzy powstają na mnie, złoczyńców — usłyszą o tym uszy moje.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "i ogląda się"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "na przeciwników moich"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "którzy powstają"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "usłyszą"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "uszy moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.013312232Z",
+  "model": "glm-5.3"
+}

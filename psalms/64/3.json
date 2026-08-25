@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 64,
+  "translation": "Schowaj mnie od zmowy złoczyńców, od wrzawy sprawców nieprawości.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Schowaj mnie"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "od zmowy"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "złoczyńców"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "od wrzawy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sprawców"
+    },
+    {
+      "surface": "און",
+      "gloss": "nieprawości"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:07.358231248Z",
+  "model": "glm-5.3"
+}

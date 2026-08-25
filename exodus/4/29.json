@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I poszedł Mosze oraz Aharon, i zgromadzili ⟨את⟩ wszystkich starszych synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "oraz Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i zgromadzili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkich starszych synów Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:45.492157368Z",
+  "model": "glm-5.3"
+}

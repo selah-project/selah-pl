@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 16:2",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I rzekł król do Ciba: Cóż ci po tym? A Ciba rzekł: Osły — dla domu króla do jazdy, a chleb i owoce lata — dla młodzieńców do jedzenia, a wino — do picia dla znużonego na pustkowiu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cóż"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A rzekł"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "החמורים",
+      "gloss": "Osły"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dla domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "do jazdy"
+    },
+    {
+      "surface": "ולהלחם",
+      "gloss": "a chleb"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "i owoce lata"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "do jedzenia"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "a wino"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "do picia"
+    },
+    {
+      "surface": "היעף",
+      "gloss": "znużonego"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustkowiu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:40.169410747Z",
+  "model": "glm-5.3"
+}

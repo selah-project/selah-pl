@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bo znojnie oczekiwała dobra mieszkanka Marot, bo zstąpiło zło od ⟨את⟩ Jahwe, do bramy Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "znojnie oczekiwała"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "mieszkanka"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zstąpiło"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "do bramy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:53.312348702Z",
+  "model": "glm-5.3"
+}

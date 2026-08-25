@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 8:7",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Widziałem go, jak zbliżał się do barana, i rozgniewał się na niego, i uderzył ⟨את⟩ barana, i złamał ⟨את⟩ jego dwa rogi; i nie było siły w baranie, by stanąć przed nim, i rzucił go na ziemię i podeptał go, i nie było wybawcy dla barana z jego ręki.",
+  "tokens": [
+    {
+      "surface": "וראיתיו",
+      "gloss": "widziałem go"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "zbliżał się"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "ויתמרמר",
+      "gloss": "rozgniewał się"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na niego"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "uderzył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "złamał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego dwa rogi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "קרניו",
+      "gloss": "jego rogi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "כח",
+      "gloss": "siły"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "w baranie"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "by stanąć"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "i rzucił go"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na ziemię"
+    },
+    {
+      "surface": "וירמסהו",
+      "gloss": "i podeptał go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wybawcy"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "dla barana"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "z jego ręki"
+    }
+  ],
+  "timestamp": "2026-08-25T04:23:46.339332439Z",
+  "model": "glm-5.3"
+}

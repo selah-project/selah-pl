@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I wszedł do Hagar, i poczęła; a gdy ujrzała, że poczęła, wtedy pani jej zlekceważona była w jej oczach.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I wszedł"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "i poczęła"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "a gdy ujrzała"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "poczęła"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "zlekceważona była"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "pani jej"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "w jej oczach"
+    }
+  ],
+  "timestamp": "2026-08-24T22:13:35.796824205Z",
+  "model": "glm-5.3"
+}

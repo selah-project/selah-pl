@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A jeśli wyjawisz ⟨את⟩ tę naszą sprawę, będziemy niewinni z twojej przysięgi, którą nas przysięgą zobowiązałaś.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "wyjawisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę naszą sprawę"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "naszą sprawę"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "będziemy"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "niewinni"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "z twojej przysięgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "nas przysięgą zobowiązałaś"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:34.072170271Z",
+  "model": "glm-5.3"
+}

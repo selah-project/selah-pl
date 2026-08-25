@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I doda się ocalałość domu Judy, ⟨ta⟩, która pozostała: korzeń w dół puści i owoc w górę uczyni.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "i doda się"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "ocalałość"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "pozostała"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "korzeń"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "w dół"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i uczyni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "owoc"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "w górę"
+    }
+  ],
+  "timestamp": "2026-08-25T00:16:50.712794455Z",
+  "model": "glm-5.3"
+}

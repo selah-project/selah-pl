@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I podnieśli Dawid oraz lud, który ⟨את⟩​ niego był, ⟨את⟩ swój głos, i płakali, aż nie było w nich siły do płakania.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podnieśli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "oraz lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój głos"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swój głos"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i płakali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie było"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "כח",
+      "gloss": "siły"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "do płakania"
+    }
+  ],
+  "timestamp": "2026-08-24T23:43:21.736269499Z",
+  "model": "glm-5.3"
+}

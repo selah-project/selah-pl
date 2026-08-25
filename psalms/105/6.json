@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Potomstwo Awrahama, sługi jego, synowie Jaakowa, wybrańcy jego!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Potomstwo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sługi jego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "wybrańcy jego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.933448402Z",
+  "model": "glm-5.3"
+}

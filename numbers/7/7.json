@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "⟨את⟩ dwa wozy i ⟨את⟩ cztery sztuki bydła dał synom Gerszona, według ich służby.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa wozy"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "wozy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cztery sztuki bydła"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sztuki bydła"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerszona"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "według"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ich służby"
+    }
+  ],
+  "timestamp": "2026-08-24T22:51:24.130126409Z",
+  "model": "glm-5.3"
+}

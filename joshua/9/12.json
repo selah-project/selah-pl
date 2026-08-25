@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Ten chleb nasz — ciepły zabraliśmy ⟨את⟩ niego z domów naszych w dniu wyjścia naszego, by iść do was; a teraz oto wyschł i ⟨stał się⟩ pokruszony kruszynkami.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "chleb nasz"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ciepły"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "zabraliśmy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go (chleb)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "z domów naszych"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "wyjścia naszego"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "by iść"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wyschł"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i ⟨stał się⟩"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "pokruszony kruszynkami"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:35.933088847Z",
+  "model": "glm-5.3"
+}

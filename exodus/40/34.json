@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 40,
+  "translation": "I okrył obłok ⟨את⟩ namiot spotkania, a chwała Jahwe napełniła ⟨את⟩ przybytek.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "i okrył"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "obłok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namiot"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "namiot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "spotkania"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "a chwała"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napeniła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przybytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "przybytek"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:11.696794383Z",
+  "model": "glm-5.3"
+}

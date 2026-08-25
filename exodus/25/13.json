@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I uczynisz drążki z drewna szittim, i obleczysz ⟨את⟩ nich złotem.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i obleczesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich (drążki)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:35.667615806Z",
+  "model": "glm-5.3"
+}

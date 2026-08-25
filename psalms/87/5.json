@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 87,
+  "translation": "A o Cyjonie będzie powiedziane: ten i tamten ⟨człowiek⟩ urodził się w niej, i On, Eljon ⟨Najwyższy⟩, ją utwierdzi.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "a o Cyjonie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "będzie powiedziane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ten jeden"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i tamten"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "urodził się"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i On sam"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ją utwierdzi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon (Najwyższy)"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:21.239242169Z",
+  "model": "glm-5.3"
+}

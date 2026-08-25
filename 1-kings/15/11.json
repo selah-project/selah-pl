@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I czynił Asa to, co prawe w oczach Jahwe, jak Dawid, ojciec jego.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I czynił"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "to, co prawe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "jak Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojciec jego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:41.574641490Z",
+  "model": "glm-5.3"
+}

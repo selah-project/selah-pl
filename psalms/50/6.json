@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "I oznajmią niebiosa jego sprawiedliwość, że Elohim sam ⟨jest⟩ sędzią. Sela.",
+  "tokens": [
+    {
+      "surface": "והגידו",
+      "gloss": "I oznajmią"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "jego sprawiedliwość"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sędzią"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:44.384975615Z",
+  "model": "glm-5.3"
+}

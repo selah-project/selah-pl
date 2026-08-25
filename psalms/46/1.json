@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "Kierownikowi chóru, synom Koracha, na alamot ⟨śpiew sopranowy⟩ — pieśń.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kierownikowi chóru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:15.072906196Z",
+  "model": "glm-5.3"
+}

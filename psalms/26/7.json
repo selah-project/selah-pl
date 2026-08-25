@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Aby dać się słyszeć głosowi dziękczynienia i opowiedzieć wszystkie Twoje cudowne dzieła.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "aby dać się słyszeć"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosowi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dziękczynienia"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "i opowiedzieć"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Twoje cudowne dzieła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:41.119552536Z",
+  "model": "glm-5.3"
+}

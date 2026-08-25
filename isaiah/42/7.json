@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "abyś otwierał oczy ślepych, wyprowadzał z więzienia więźnia, z domu zamknięcia siedzących w ciemności.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "abyś otwierał"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ślepych"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "wyprowadzał"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "z więzienia"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "więźnia"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zamknięcia"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "siedzących"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "w ciemności"
+    }
+  ],
+  "timestamp": "2026-08-25T00:31:19.059943810Z",
+  "model": "glm-5.3"
+}

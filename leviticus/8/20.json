@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ barana rozczłonkował na jego części, i Mosze spalił jako kadzidło ⟨את⟩ głowę, i ⟨את⟩ części, i ⟨את⟩ łój.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "rozczłonkował"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na jego części"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "spalił jako kadzidło"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "głowę"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "głowę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "części"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "części"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "łój"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "łój"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:39.363527543Z",
+  "model": "glm-5.3"
+}

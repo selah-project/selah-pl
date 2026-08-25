@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I zebrał Dawid ⟨את⟩ cały Jisraël od Szychoru Micrajim aż do wejścia do Chamat, aby sprowadzić ⟨את⟩ aron Elohim z Kirjat-Jearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i zebrał"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cały Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Szychoru"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "wejścia"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "aby sprowadzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "z Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:55:45.089295446Z",
+  "model": "glm-5.3"
+}

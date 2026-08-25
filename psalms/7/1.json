@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Szigajon Dawida, który zaśpiewał Jahwe o sprawach Kusza, Beniaminity.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Szigajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zaśpiewał"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sprawach"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Beniaminity"
+    }
+  ],
+  "timestamp": "2026-08-25T03:42:30.477355909Z",
+  "model": "glm-5.3"
+}

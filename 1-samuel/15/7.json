@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "I poraził Szaul ⟨את⟩ Amaleka, od Chawila, gdy idziesz do Szur, który ⟨jest⟩ przed Micraim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "od Chawila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "gdy idziesz"
+    },
+    {
+      "surface": "שור",
+      "gloss": "do Szur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "על",
+      "gloss": "przed"
+    },
+    {
+      "surface": "פני",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:10.160300634Z",
+  "model": "glm-5.3"
+}

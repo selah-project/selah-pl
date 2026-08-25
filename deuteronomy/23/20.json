@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "Nie będziesz brał odsetek od twojego brata: odsetek od srebra, odsetek od pożywienia, odsetek od każdej rzeczy, która jest pożyczana na odsetki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "będziesz brał odsetek"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "od twojego brata"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "odsetek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "od srebra"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "odsetek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "od pożywienia"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "odsetek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "od każdej"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rzeczy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "jest pożyczana na odsetki"
+    }
+  ],
+  "timestamp": "2026-08-24T23:11:56.833380125Z",
+  "model": "glm-5.3"
+}

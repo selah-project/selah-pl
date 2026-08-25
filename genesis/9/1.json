@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I pobłogosławił Elohim ⟨את⟩ Noacha i ⟨את⟩ jego synów, i rzekł do nich: Płodźcie się i rozmnażajcie się, i napełnijcie ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "I pobłogosławił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noacha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "להם",
+      "gloss": "do nich"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Płodźcie się"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i rozmnażajcie się"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napełnijcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T03:14:19.250873935Z",
+  "model": "glm-5.3"
+}

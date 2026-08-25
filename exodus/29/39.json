@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "⟨את⟩ pierwszego baranka przyrządzisz rano, a ⟨את⟩ drugiego baranka przyrządzisz między wieczorami.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pierwszego baranka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baranka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pierwszego"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "przyrządzisz"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drugiego baranka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baranka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugiego"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "przyrządzisz"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wieczorami"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:35.143131176Z",
+  "model": "glm-5.3"
+}

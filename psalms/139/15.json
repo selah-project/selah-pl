@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Nie było ukryte moje ciało przed Tobą, gdy zostałem uczyniony w ukryciu, utkany w najniższych ⟨częściach⟩ ziemi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ukryte"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moje ciało"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "przed Tobą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "zostałem uczyniony"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "w ukryciu"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "utkany"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "w najniższych"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:23.901958967Z",
+  "model": "glm-5.3"
+}

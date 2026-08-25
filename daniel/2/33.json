@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Jego golenie ⟨były⟩ z żelaza, jego stopy — częściowo z żelaza, a częściowo z gliny.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "jego golenie"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨były⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "z żelaza"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "jego stopy"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "częściowo"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨z⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "żelaza"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "a częściowo"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨z⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "gliny"
+    }
+  ],
+  "timestamp": "2026-08-25T02:36:47.483306824Z",
+  "model": "glm-5.3"
+}

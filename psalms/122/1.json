@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 122,
+  "translation": "Pieśń wstępowań, Dawidowa. Ucieszyłem się, gdy mi mówiono: do domu Jahwe pójdziem.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowa"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ucieszyłem się"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "gdy mówiono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pójdziem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:08.467297738Z",
+  "model": "glm-5.3"
+}

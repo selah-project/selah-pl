@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "I przeprowadził Israela przez jego środek, bo na wieki trwa jego chesed (wierna miłość).",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "I przeprowadził"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "przez jego środek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.796335461Z",
+  "model": "glm-5.3"
+}

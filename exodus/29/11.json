@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I zabijesz ⟨את⟩ cielca przed Jahwe, u wejścia do Namiotu Spotkania.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "i zabijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cielca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "cielca"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "do Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:34:53.060087697Z",
+  "model": "glm-5.3"
+}

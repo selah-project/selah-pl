@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Nie zrobicie ⟨את⟩ Mnie — Elohim srebra i Elohim złota nie zrobicie sobie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "zrobicie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Mnie",
+      "marks": "Elohim srebra i Elohim złota"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zrobicie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:59.341991353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I znalazł się w nim człowiek ubogi, a mądry, i ocalił on ⟨את⟩ miasto swoją mądrością; a nikt nie pamiętał owego ubogiego człowieka.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "i znalazł się"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ubogi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądry"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "i ocalił"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "swoją mądrością"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a nikt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamiętał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owego ubogiego człowieka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ubogiego"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "owego"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:06.884744999Z",
+  "model": "glm-5.3"
+}

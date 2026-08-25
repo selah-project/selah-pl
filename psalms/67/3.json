@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 67,
+  "translation": "By poznano na ziemi drogę Twoją, wśród wszystkich narodów wybawienie Twoje.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "by poznano"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "drogę Twoją"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wśród wszystkich"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "wybawienie Twoje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:32.599707783Z",
+  "model": "glm-5.3"
+}

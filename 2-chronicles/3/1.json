@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I zaczął Szelomo budować ⟨את⟩ dom Jahwe w Jeruszalaim, na górze Moria, gdzie ⟨się⟩ objawiło Dawidowi, ojcu jego — w miejscu, które przygotował Dawid, na klepisku Arnana Jebusytczyka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i zaczął"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "budować"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górze"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdzie"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "objawiło się"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ojcu jego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "przygotował"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "na klepisku"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnana"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusytczyka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:58.476838443Z",
+  "model": "glm-5.3"
+}

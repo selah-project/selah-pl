@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A było tak: cała ziemia ⟨miała⟩ wargę jedną i słowa jedne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A było tak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "warga (język)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "i słowa"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "jedne"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:02.976180032Z",
+  "model": "glm-5.3"
+}

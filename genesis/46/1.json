@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "I wyruszył Israel ze wszystkim, co do niego należy, i przyszedł do Beer-Szewy, i złożył ofiary Elohim ojca swego, Jicchaka.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ze wszystkim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "do niego należy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "do Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewy"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "i złożył ofiary"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ofiary"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:20.549719203Z",
+  "model": "glm-5.3"
+}

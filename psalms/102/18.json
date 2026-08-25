@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Wejrzyje na modlitwę osieroconego i nie wzgardzi ich modlitwą.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wejrzyje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "modlitwę"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "osieroconego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "wzgardzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich modlitwą"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ich modlitwą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.177597360Z",
+  "model": "glm-5.3"
+}

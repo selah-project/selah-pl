@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Przybysz i najemnik nie będą z niego jedli.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "przybysz"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "i najemnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będą jeść"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z niego"
+    }
+  ],
+  "timestamp": "2026-08-25T04:05:21.006175740Z",
+  "model": "glm-5.3"
+}

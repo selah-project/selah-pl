@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "A to jest to, jak ją zrobisz: trzysta łokci długość skrzyni, pięćdziesiąt łokci jej szerokość i trzydzieści łokci jej wysokość.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "A to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, jak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zrobisz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzysta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(set)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "długość"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "skrzyni"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pięćdziesiąt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jej szerokość"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trzydzieści"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "łokci"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "jej wysokość"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:52.105463236Z",
+  "model": "glm-5.3"
+}

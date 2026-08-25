@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 112,
+  "translation": "Chwalcie Jaha! Szczęśliwy ⟨jest⟩ mąż, który boi się ⟨את⟩ Jahwe, ⟨który⟩ w Jego przykazaniach upodobał sobie wielce.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boi się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "w Jego przykazaniach"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "upodobał sobie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "wielce"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:36.939843560Z",
+  "model": "glm-5.3"
+}

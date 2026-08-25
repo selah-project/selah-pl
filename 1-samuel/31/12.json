@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I powstali wszyscy mężowie waleczni, i szli całą noc, i zabrali ⟨את⟩ ciało Szaula i ⟨את⟩ ciała jego synów z muru Beit-Szan, i przybyli do Jawesz, i spalili ⟨את⟩ je tam.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "i powstali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężowie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "waleczni"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i szli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciało Szaula"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ciało"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ciała jego synów"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ciała"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synów"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "z muru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Szan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i przybyli"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "do Jawesz"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "i spalili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:45.977850179Z",
+  "model": "glm-5.3"
+}

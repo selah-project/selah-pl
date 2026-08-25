@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Bo wiatr przejdzie przez niego i już go nie ma, i miejsce jego nie pozna go więcej.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wiatr"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "przejdzie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "przez niego"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "i już go nie ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "pozna go"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "więcej"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "miejsce jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:44.275786083Z",
+  "model": "glm-5.3"
+}

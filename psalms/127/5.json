@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 127,
+  "translation": "Szczęśliwy ⟨jest⟩ mocarz, który napełnił ⟨את⟩ swój kołczan nimi — nie będą zawstydzeni, gdy będą rozmawiać ⟨את⟩ z wrogami w bramie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mocarz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napełnił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój kołczan"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "swój kołczan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "będą zawstydzeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "będą rozmawiać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "wrogami"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "w bramie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:58.753936Z",
+  "model": "glm-5.3"
+}

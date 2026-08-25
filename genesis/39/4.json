@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I znalazł Josef łaskę w jego oczach, i służył ⟨את⟩ niemu, i ustanowił go nad swoim domem, i wszystko, co miał, dał w jego rękę.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "i znalazł"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaskę"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "i służył"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niemu",
+      "marks": "służył ⟨את⟩ niemu"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "i ustanowił go"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swoim domem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "co miał"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "w jego rękę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:15:48.707314096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Bo ty, Jahwe, ⟨jesteś⟩ moją ucieczką; Eljon uczyniłeś swoim przybytkiem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "moją ucieczką"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon (Najwyższy)"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "swoim przybytkiem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:22.477994650Z",
+  "model": "glm-5.3"
+}

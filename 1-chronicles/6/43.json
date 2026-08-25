@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Oraz ⟨את⟩ Chilen i ⟨את⟩ jego pastwiska, ⟨את⟩ Debir i ⟨את⟩ jego pastwiska.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pastwiska"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pastwiska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pastwiska"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pastwiska"
+    }
+  ],
+  "timestamp": "2026-08-25T02:52:21.496017567Z",
+  "model": "glm-5.3"
+}

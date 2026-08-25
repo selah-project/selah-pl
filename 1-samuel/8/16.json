@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ waszych sługi i ⟨את⟩ wasze niewolnice i ⟨את⟩ waszych młodych, ⟨tych⟩ najlepszych, i ⟨את⟩ wasze osły weźmie i zatrudni do swojej pracy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waszych sługi"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "waszych sługi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wasze niewolnice"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "wasze niewolnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waszych młodych"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "waszych młodych"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "⟨tych⟩ najlepszych"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wasze osły"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "wasze osły"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "weźmie"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i zatrudni"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "do swojej pracy"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:13.932007180Z",
+  "model": "glm-5.3"
+}

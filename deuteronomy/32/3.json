@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "Bo imię Jahwe wzywać będę; przypiszcie wielkość Elohim naszemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wzywać będę"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "przypiszcie"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "wielkość"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim naszemu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:15:29.022292182Z",
+  "model": "glm-5.3"
+}

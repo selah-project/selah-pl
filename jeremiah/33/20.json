@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Tak powiedział Jahwe: jeśli unieważnicie ⟨את⟩ moje przymierze dnia i ⟨את⟩ moje przymierze nocy, tak aby dnia i nocy nie było w ich czasie —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "unieważnicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje przymierze dnia"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moje przymierze nocy"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje przymierze"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nocy"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "tak aby nie"
+    },
+    {
+      "surface": "היות",
+      "gloss": "było"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dnia"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocy"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "w ich czasie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:56:22.405300740Z",
+  "model": "glm-5.3"
+}

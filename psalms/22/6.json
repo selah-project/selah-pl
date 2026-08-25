@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Do ciebie wołali i zostali wyratowani, w tobie ufali i nie zostali zawstydzeni.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "wołali"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "i zostali wyratowani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "w tobie"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ufali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "zostali zawstydzeni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:21.553880396Z",
+  "model": "glm-5.3"
+}

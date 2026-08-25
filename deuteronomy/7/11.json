@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I będziesz strzegł ⟨את⟩ przykazania oraz ⟨את⟩ ustaw i ⟨את⟩ praw, które ja nakazuję ci dziś, by je czynić.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "I będziesz strzegł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazania"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "przykazania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ustaw"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "praw"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "praw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakazuję ci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "by je czynić"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:32.383087063Z",
+  "model": "glm-5.3"
+}

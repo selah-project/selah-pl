@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "W zamian za moją miłość oskarżają mnie — a ja ⟨jestem⟩ modlitwą",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "W zamian za"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "moją miłość"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "oskarżają mnie"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitwą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:50.959785582Z",
+  "model": "glm-5.3"
+}

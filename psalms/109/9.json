@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Niech będą synowie jego sierotami, a żona jego wdową.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "niech będą"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synowie jego"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sierotami"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "a żona jego"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wdową"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:30.372464599Z",
+  "model": "glm-5.3"
+}

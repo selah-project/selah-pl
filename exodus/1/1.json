@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A to ⟨są⟩ imiona synów Israela, którzy przybyli do Micrajim: ⟨את⟩ Jaakowa, każdego męża z jego domem, przybyli.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A to"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imiona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "którzy przybyli"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdego męża"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "z jego domem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "przybyli"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:45.468121142Z",
+  "model": "glm-5.3"
+}

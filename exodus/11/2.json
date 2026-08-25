@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Przemów teraz w uszach ludu, i niech poprosi każdy mężczyzna od ⟨את⟩ swego towarzysza, a każda kobieta od ⟨את⟩ swej towarzyszki: przedmioty ze srebra i przedmioty ze złota.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "przemów"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teraz"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "w uszach"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "i niech poprosi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy mężczyzna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "swego towarzysza"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "swego towarzysza"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "a każda kobieta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "swej towarzyszki"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "swej towarzyszki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "przedmioty"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ze srebra"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "i przedmioty"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze złota"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:36.892082347Z",
+  "model": "glm-5.3"
+}

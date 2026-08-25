@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł Kain do Jahwe: „Wielka ⟨jest⟩ moja wina, ⟨zbyt⟩ do uniesienia.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Wielka"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moja wina"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "do uniesienia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:39.287811323Z",
+  "model": "glm-5.3"
+}

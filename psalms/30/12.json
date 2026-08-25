@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Odwróciłeś mój żałobny lament w taniec dla mnie, rozwiązałeś mój wór i przepasałeś mnie radością.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "Odwróciłeś"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "mój żałobny lament"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "w taniec"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "rozwiązałeś"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "mój wór"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "i przepasałeś mnie"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:15.035877983Z",
+  "model": "glm-5.3"
+}

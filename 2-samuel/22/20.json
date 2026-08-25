@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I wyprowadził ⟨את⟩ mnie na przestronność, wyratował mnie, bo we mnie upodobał sobie.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I wyprowadził"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na przestronność"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wyratował mnie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "upodobał sobie"
+    },
+    {
+      "surface": "בי",
+      "gloss": "we mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:02.720567648Z",
+  "model": "glm-5.3"
+}

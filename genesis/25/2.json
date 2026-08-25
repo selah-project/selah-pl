@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I urodziła mu ⟨את⟩ Zimrana, i ⟨את⟩ Jokszana, i ⟨את⟩ Medana, i ⟨את⟩ Midjana, i ⟨את⟩ Jiszbaka, i ⟨את⟩ Szuacha.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "i urodziła"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimrana"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jokszana"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokszana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Medana"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Midjana"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jiszbaka"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jiszbaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szuacha"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Szuacha"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:43.531880944Z",
+  "model": "glm-5.3"
+}

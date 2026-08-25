@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 69,
+  "translation": "Niech się nie zawstydzą przeze mnie ci, którzy w tobie pokładają nadzieję, Adonai Jahwe Cevaot; niech nie będą hańbieni przeze mnie ci, którzy cię szukają, Elohim Iszraela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "zawstydzą się"
+    },
+    {
+      "surface": "בי",
+      "gloss": "przeze mnie"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "pokładający w tobie nadzieję"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niech nie"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "będą hańbieni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "przeze mnie"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "szukający ciebie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:54.047741878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Pieśń wstępowań. Z głębin wołałem do ciebie, Jahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Z głębin"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "wołałem do ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:17.088212125Z",
+  "model": "glm-5.3"
+}

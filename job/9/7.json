@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Co mówi do słońca, a ono nie wschodzi, i gwiazdy zapieczętowuje.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Co mówi"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "do słońca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "wschodzi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "gwiazdy"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "zapieczętowuje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:50.920088219Z",
+  "model": "glm-5.3"
+}

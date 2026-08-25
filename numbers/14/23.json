@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "jeśli zobaczą ⟨את⟩ ziemię, którą przysiągłem ich ojcom — a wszyscy, którzy Mnie znieważali, nie zobaczą jej.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zobaczą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "przysiągłem"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ich ojcom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a wszyscy"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "którzy Mnie znieważali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "zobaczą ją"
+    }
+  ],
+  "timestamp": "2026-08-24T22:54:56.196874421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I pokochał Jaakow ⟨את⟩ Rachel, i rzekł: będę ci służył siedem lat za Rachel, córkę twoją młodszą.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "i pokochał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "będę ci służył"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siedem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "za Rachel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "córkę twoją"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "młodszą"
+    }
+  ],
+  "timestamp": "2026-08-24T22:17:29.179205449Z",
+  "model": "glm-5.3"
+}

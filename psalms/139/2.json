@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Ty znasz moje siadanie i moje wstawanie, rozumiesz myśl moją z daleka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znasz"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "moje siadanie"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "i moje wstawanie"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "rozumiesz"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "myśl moją"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.568916466Z",
+  "model": "glm-5.3"
+}

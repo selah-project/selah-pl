@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I rzekł Szaul do swego młodzieńca: Dobre twoje słowo; chodź, pójdziemy. I poszli do miasta, w którym tam był mąż Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "do swego młodzieńca"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "twoje słowo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "chodź"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "pójdziemy"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i poszli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:01.971274766Z",
+  "model": "glm-5.3"
+}

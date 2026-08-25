@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A ty rozkażesz ⟨את⟩ kapłanom niosącym Arkę Przymierza, mówiąc: Gdy przyjdziecie aż do skraju wód Jardenu, w Jardenie się zatrzymacie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "rozkażesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapłanom"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kapłanom"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "niosącym"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arkę"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Przymierza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Gdy przyjdziecie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "skraju"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wód"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "w Jardenie"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "się zatrzymacie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:44.609328666Z",
+  "model": "glm-5.3"
+}

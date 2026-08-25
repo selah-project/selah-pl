@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 81,
+  "translation": "I karmiłbym go ⟨tłuszczem⟩ pszenicy, a miodem ze skały nasyciłbym cię.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "i karmiłbym go"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "z tłuszczu"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pszenicy"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "a ze skały"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "miodem"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "nasyciłbym cię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:10.223215907Z",
+  "model": "glm-5.3"
+}

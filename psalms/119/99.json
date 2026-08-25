@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Od wszystkich moich nauczycieli zrozumienie zyskałem, bo twoje świadectwa rozmową są mi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od wszystkich"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "moich nauczycieli"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "zrozumienie zyskałem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "twoje świadectwa"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "rozmowa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:27.879627135Z",
+  "model": "glm-5.3"
+}

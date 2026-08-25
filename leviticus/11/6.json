@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ zająca, ponieważ przeżuwa ⟨ona⟩ pokarm, a kopyta nie rozdzieliła — nieczysta ⟨jest⟩ ona dla was.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zająca"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "zając"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "przeżuwa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "pokarm (przeżuwany)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "a kopyta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "rozdzieliła"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nieczysta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dla was"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:30.132488538Z",
+  "model": "glm-5.3"
+}

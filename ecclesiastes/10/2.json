@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Serce mądrego ku jego prawicy, a serce głupca ku jego lewicy.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "serce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mądrego"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ku jego prawicy"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "a serce"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "głupca"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ku jego lewicy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:20.469306633Z",
+  "model": "glm-5.3"
+}

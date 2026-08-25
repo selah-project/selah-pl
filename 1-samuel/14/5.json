@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "Szczęk ⟨jeden⟩ ⟨był⟩ wystawiony od strony północnej naprzeciw Mikmasz, a ⟨drugi⟩ od strony południowej naprzeciw Gewa.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "szczęk"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "wystawiony"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "od strony północnej"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmasz"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "a drugi"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "od strony południowej"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naprzeciw"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gewa"
+    }
+  ],
+  "timestamp": "2026-08-24T23:37:20.638817672Z",
+  "model": "glm-5.3"
+}

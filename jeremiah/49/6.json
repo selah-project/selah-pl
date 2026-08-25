@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "A potem przywrócę ⟨את⟩ los wygnańczy synów Ammonu, wyrocznia Jahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "a potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "przywrócę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los wygnańczy"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "los wygnańczy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:04:05.374374458Z",
+  "model": "glm-5.3"
+}

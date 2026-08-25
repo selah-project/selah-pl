@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I przybyli synowie Jisraela, by kupować zboże wśród przybywających, bo ⟨był⟩ głód w ziemi Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i przybyli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "by kupować zboże"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wśród"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "przybywających"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨był⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "głód"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:40.180793205Z",
+  "model": "glm-5.3"
+}

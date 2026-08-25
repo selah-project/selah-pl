@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I wyszła cała społeczność synów Jisraela spod oblicza Mosze.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i wyszła"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cała"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "społeczność"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "spod oblicza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:12.637545547Z",
+  "model": "glm-5.3"
+}

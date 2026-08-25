@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "I zrobił ⟨את⟩ drążki z drewna akacjowego i pokrył ⟨את⟩ je miedzią.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drążki"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "drążki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i pokrył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "miedzią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:58.901414710Z",
+  "model": "glm-5.3"
+}

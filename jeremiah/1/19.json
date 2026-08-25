@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 1:19",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I będą walczyć przeciwko tobie, ale nie zdołają ⟨ciebie⟩ pokonać, bo ⟨את⟩ tobą jestem Ja — wyrocznia Jahwe — by cię ocalić.",
+  "tokens": [
+    {
+      "surface": "ונלחמו",
+      "gloss": "i będą walczyć"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "przeciw tobie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale nie"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "zdołają"
+    },
+    {
+      "surface": "לך",
+      "gloss": "przeciw tobie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobą",
+      "marks": "tobą"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wyrocznia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "by cię ocalić"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:57.044710849Z",
+  "model": "glm-5.3"
+}

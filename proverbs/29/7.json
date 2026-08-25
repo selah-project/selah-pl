@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "Zna sprawiedliwy sprawę ubogich, występny zaś nie pojmuje poznania.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Zna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sprawę"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ubogich"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "występny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "pojmuje"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznania"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:09.128771127Z",
+  "model": "glm-5.3"
+}

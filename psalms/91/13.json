@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "Na lwa i żmiję nastąpisz, podepczesz lwiątko i smoka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "i żmiję"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "nastąpisz"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "podepczesz"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "lwiątko"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "i smoka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:37.066890532Z",
+  "model": "glm-5.3"
+}

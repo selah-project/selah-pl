@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I rzekł król Achaszwerosz do królowej Estery i do Mordechaja Żyda: Oto ⟨את⟩ dom Hamana dałem Esterze, a jego powiesili na drzewie, za to że wyciągnął swoją rękę przeciw Żydom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achaszwerosz"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "do Estery"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "królowej"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "i do Mordechaja"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Żyda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterze"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ jego",
+      "marks": "jego (Haman) — powiesili"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "powiesili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drzewie"
+    },
+    {
+      "surface": "על",
+      "gloss": "za to że"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wyciągnął"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "swoją rękę"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "przeciw Żydom"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:51.285222956Z",
+  "model": "glm-5.3"
+}

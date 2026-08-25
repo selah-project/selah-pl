@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "A jeśli pożyczy mężczyzna od bliźniego swego ⟨coś⟩, a ⟨to⟩ złamie się lub umrze — właściciela jego nie ma z nim — pełną zapłatę zapłaci.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "A jeśli"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "pożyczy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bliźniego swego"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "a złamie się"
+    },
+    {
+      "surface": "או",
+      "gloss": "lub"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umrze"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "właściciela jego"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pełną zapłatę"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:31.619808674Z",
+  "model": "glm-5.3"
+}

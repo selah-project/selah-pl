@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I radowali się, że się uciszyły, i poprowadził ich do przystani, której pragnęli",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "i radowali się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "się uciszyły"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i poprowadził"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "przystani"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "której pragnęli"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:10.864459372Z",
+  "model": "glm-5.3"
+}

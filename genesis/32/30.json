@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I zapytał Jaakow i rzekł: Oznajmijże, proszę, imię twoje. A ⟨on⟩ rzekł: Czemuż to pytasz o imię moje? I błogosławił ⟨את⟩ niego tam.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i zapytał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "oznajmijże"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię twoje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemuż"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "pytasz"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "o imię moje"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i błogosławił"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niego"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:00.996765078Z",
+  "model": "glm-5.3"
+}

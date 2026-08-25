@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "I nie wydałeś mnie w rękę nieprzyjaciela, postawiłeś moje stopy w przestronnym miejscu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "wydałeś mnie"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nieprzyjaciela"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "postawiłeś"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "w przestronnym miejscu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje stopy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:32.008092276Z",
+  "model": "glm-5.3"
+}

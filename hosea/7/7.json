@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Wszyscy rozpalili się jak piec i pożarli ⟨את⟩ swoich sędziów; wszyscy ich królowie upadli — nie ma wśród nich wołającego do mnie.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "rozpalili się"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "jak piec"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i pożarli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sędziów"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "swoich sędziów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ich królowie"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "upadli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wołającego"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wśród nich"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:31:28.529810492Z",
+  "model": "glm-5.3"
+}

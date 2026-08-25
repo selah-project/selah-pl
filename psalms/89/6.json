@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "I wysławiać będą niebiosa twoje cuda, Jahwe, także twoją wierność w zgromadzeniu świętych.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "I wysławiać będą"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "twoje cuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "także"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "twoją wierność"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "w zgromadzeniu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "świętych"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:29.574731108Z",
+  "model": "glm-5.3"
+}

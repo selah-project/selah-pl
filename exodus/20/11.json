@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Bo sześć dni czynił Jahwe ⟨את⟩ niebiosa i ⟨את⟩ ziemię, ⟨את⟩ morze i ⟨את⟩ wszystko, co w nich ⟨jest⟩, i odpoczął w dniu siódmym; dlatego Jahwe pobłogosławił ⟨את⟩ dzień szabatu i uświęcił go.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "czynił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "wszystko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "i odpoczął"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siódmym"
+    },
+    {
+      "surface": "על",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dlatego"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pobłogosławił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzień"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "i uświęcił go"
+    }
+  ],
+  "timestamp": "2026-08-24T22:31:29.916019287Z",
+  "model": "glm-5.3"
+}

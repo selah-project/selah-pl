@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A jeśli mężczyzna uderzy ⟨את⟩ oko swego niewolnika albo ⟨את⟩ oko swojej niewolnicy i je zniszczy — na wolność wyśle go zamiast jego oka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "uderzy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężczyzna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko swego niewolnika"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "swego niewolnika"
+    },
+    {
+      "surface": "או",
+      "gloss": "albo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko swojej niewolnicy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "swojej niewolnicy"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "i zniszczy ją"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "na wolność"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "wyśle go"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "jego oka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:21.070744987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A wstyd pożarł ⟨את⟩ trud ojców naszych od naszej młodości: ⟨את⟩ ich trzody i ⟨את⟩ ich bydło, ⟨את⟩ ich synów i ⟨את⟩ ich córki.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "A wstyd"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "pożarł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trud ojców naszych"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "trud"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ojców naszych"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "od naszej młodości"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich trzody"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ich trzody"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich bydło"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ich bydło"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich synów"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ich córki"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ich córki"
+    }
+  ],
+  "timestamp": "2026-08-25T00:42:10.887854337Z",
+  "model": "glm-5.3"
+}

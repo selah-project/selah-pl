@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I rzekł Jaakow: Przysięgnij mi jak dziś. A ⟨on⟩ przysiągł mu i sprzedał ⟨את⟩ swe prawo pierworodztwa Jaakowowi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "przysięgnij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jak dziś"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i przysiągł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "i sprzedał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swe prawo pierworodztwa"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "swe prawo pierworodztwa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakowowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:41.193684308Z",
+  "model": "glm-5.3"
+}

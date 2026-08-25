@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zostały ukończone niebiosa i ziemia oraz cały ich zastęp.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "zostały ukończone"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i ziemia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oraz cały"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ich zastęp"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:20.382313973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I lżył ⟨את⟩ Israela, i pobił go Jehonatan, syn Szimei, brata Dawida.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "i lżył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i pobił go"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Szimei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:50.872225082Z",
+  "model": "glm-5.3"
+}

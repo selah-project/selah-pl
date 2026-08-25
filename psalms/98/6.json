@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Trąbami i głosem szofaru ryczcie przed Królem, Jahwe!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Trąbami"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i głosem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "szofaru"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ryczcie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Królem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:39.022484123Z",
+  "model": "glm-5.3"
+}

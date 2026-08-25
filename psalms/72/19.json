@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 72,
+  "translation": "I błogosławione imię chwały jego na wieki, i niechaj napełni chwała jego ⟨את⟩ całą ⟨tę⟩ ziemię — amen i amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "i błogosławione"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imię"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "chwały jego"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i niechaj napełni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "chwała jego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całą ⟨tę⟩ ziemię"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tę⟩ ziemię"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amen"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:34.520793618Z",
+  "model": "glm-5.3"
+}

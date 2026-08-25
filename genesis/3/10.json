@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł: Twój głos usłyszałem w ogrodzie, i zlękłem się, bo ⟨jestem⟩ nagi, i ukryłem się.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twój głos"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "twój głos"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "usłyszałem"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "w ogrodzie"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "i zlękłem się"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nagi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "i ukryłem się"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:22.020522051Z",
+  "model": "glm-5.3"
+}

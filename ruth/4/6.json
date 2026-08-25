@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł wyzwoliciel: Nie mogę wykupić ⟨to⟩ dla siebie, abym nie zniszczył ⟨את⟩ mego dziedzictwa; wykup sobie ty ⟨את⟩ moje prawo wykupu, bo nie mogę wykupić.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "wyzwoliciel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "wykupić"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abym nie"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zniszczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje dziedzictwo"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "moje dziedzictwo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "wykup"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje prawo wykupu"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "moje prawo wykupu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogę"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "wykupić"
+    }
+  ],
+  "timestamp": "2026-08-25T02:27:50.673896631Z",
+  "model": "glm-5.3"
+}

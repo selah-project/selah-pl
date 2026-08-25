@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Lwy młode ryczą o zdobycz i szukają od Ela swego pokarmu.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "lwy młode"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ryczą"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "o zdobycz"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "i szukają"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "od Ela"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "swego pokarmu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:31.070928781Z",
+  "model": "glm-5.3"
+}

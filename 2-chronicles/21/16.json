@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I pobudził Jahwe przeciwko Joramowi ⟨את⟩ duch Pelisztów i Arabów, którzy ⟨byli⟩ przy boku Kuszytów.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "I pobudził"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Joramowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duch Pelisztów i Arabów"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelisztów"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "i Arabów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "על",
+      "gloss": "przy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "boku"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kuszytów"
+    }
+  ],
+  "timestamp": "2026-08-25T03:07:09.595165031Z",
+  "model": "glm-5.3"
+}

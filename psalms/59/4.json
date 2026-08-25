@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 59,
+  "translation": "Bo oto zasadzili się na moją nefesz, gromadzą się przeciwko mnie potężni — nie ⟨jest to⟩ moje odstępstwo ani mój grzech, Jahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oto"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "zasadzili się"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na moją nefesz"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "gromadzą się"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "przeciwko mnie"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "potężni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "moje odstępstwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mój grzech"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:36.593352352Z",
+  "model": "glm-5.3"
+}

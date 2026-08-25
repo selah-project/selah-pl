@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "W dzień szabatu, w dzień szabatu ułoży ⟨go⟩ przed Jahwe nieustannie, ⟨את⟩ od synów Izraela — przymierze wieczne.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "w dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dzień"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "szabatu"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ułoży ⟨go⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "synów Izraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "przymierze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieczne"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:52.553054734Z",
+  "model": "glm-5.3"
+}

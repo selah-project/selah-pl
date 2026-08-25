@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 91,
+  "translation": "od zarazy w mroku kroczącej, od zguby niszczącej w południe",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "od zarazy"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "w mroku"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kroczącej"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "od zguby"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "niszczącej"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "w południe"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:59.364800333Z",
+  "model": "glm-5.3"
+}

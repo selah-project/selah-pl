@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 68,
+  "translation": "Ojciec sierot i sędzia wdów — Elohim w świętym przybytku swoim.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ojciec"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sierot"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "i sędzia"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wdów"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "w przybytku"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "świętym swoim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:07.689874829Z",
+  "model": "glm-5.3"
+}

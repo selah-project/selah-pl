@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I powiedziała jej córka Paroha: Idź. I poszła dziewczyna, i zawołała ⟨את⟩ matkę dziecka.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i powiedziała"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jej"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idź"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "i poszła"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "dziewczyna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i zawołała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matkę"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matkę"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dziecka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:33.235693631Z",
+  "model": "glm-5.3"
+}

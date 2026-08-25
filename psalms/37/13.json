@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Adonai śmieje się z niego, bo widzi, że nadchodzi jego dzień.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "śmieje się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "widzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nadchodzi"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jego dzień"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:55.661774792Z",
+  "model": "glm-5.3"
+}

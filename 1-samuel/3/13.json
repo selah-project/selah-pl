@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 3:13",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I ogłoszę mu, że ja osądzam ⟨את⟩ jego dom na wieki z powodu winy, którą zna: że jego synowie wyklinali ⟨dla siebie⟩, a on ich nie karcił.",
+  "tokens": [
+    {
+      "surface": "והגדתי",
+      "gloss": "ogłoszę mu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "osądzam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jego dom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wieki"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "z powodu winy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "מקללים",
+      "gloss": "wyklinali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jego synowie"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "karcił"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ich"
+    }
+  ],
+  "timestamp": "2026-08-24T23:34:18.630899170Z",
+  "model": "glm-5.3"
+}

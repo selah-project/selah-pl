@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I będzie uciśniony lud — mąż ⟨przez⟩ męża, i mąż ⟨przez⟩ bliźniego swego; zuchwaleć będzie młodzieniec względem starca i wzgardzony względem szanowanego.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "i będzie uciśniony"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mąż"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨przez⟩ męża"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i mąż"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "⟨przez⟩ bliźniego swego"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "zuchwaleć będą"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "młodzieniec"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "względem starca"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "i wzgardzony"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "względem szanowanego"
+    }
+  ],
+  "timestamp": "2026-08-25T00:19:07.364136210Z",
+  "model": "glm-5.3"
+}

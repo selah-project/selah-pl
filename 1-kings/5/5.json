@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "I mieszkał Jehudah i Jisraél bezpiecznie, każdy pod swoją winoroślą i pod swoją figą, od Dan aż do Beér-Szewy, wszystkie dni Szlomona.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i mieszkał"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "i Jisraél"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpiecznie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "swoją winoroślą"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "i pod"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "swoją figą"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Szewy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomona"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:05.324600345Z",
+  "model": "glm-5.3"
+}

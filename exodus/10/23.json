@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Nie widział człowiek ⟨את⟩ brata swego i nie wstawał człowiek z miejsca swego przez trzy dni; a wszystkim synom Jisraél było światło w siedzibach ich.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "widział"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata swego"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata swego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "wstawał"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "z miejsca swego"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a wszystkim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "w siedzibach ich"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:25.808172862Z",
+  "model": "glm-5.3"
+}

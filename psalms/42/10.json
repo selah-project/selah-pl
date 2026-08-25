@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Powiadam do El, opoki mojej: dlaczego zapomniałeś mnie? Dlaczego chodzę ścierpnięty w uciśnieniu wroga?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "powiadam"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "do El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "opoki mojej"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "zapomniałeś mnie"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ścierpnięty"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "chodzę"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "w uciśnieniu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wroga"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:49.325870283Z",
+  "model": "glm-5.3"
+}

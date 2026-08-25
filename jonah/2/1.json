@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przygotował Jahwe wielką rybę, by połknąć ⟨את⟩ Jonę; i był Jonasz w wnętrznościach ryby trzy dni i trzy noce.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "i przygotował"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "rybę"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielką"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "by połknąć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonę"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonę"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonasz"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "w wnętrznościach"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ryby"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "i trzy"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "noce"
+    }
+  ],
+  "timestamp": "2026-08-25T03:41:59.370662283Z",
+  "model": "glm-5.3"
+}

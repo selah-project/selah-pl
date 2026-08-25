@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "Jak śnieg w lecie i jak deszcz w żniwa, tak nie przystoi głupiemu cześć.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "jak śnieg"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "w lecie"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "i jak deszcz"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "w żniwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "przystoi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "głupiemu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "cześć"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:05.278836186Z",
+  "model": "glm-5.3"
+}

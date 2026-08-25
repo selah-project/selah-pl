@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "A teraz, gdy przyjdzie ten list do was — a ⟨את⟩ synowie waszego pana są z wami, i ⟨את⟩ rydwan oraz konie macie z sobą, i miasto warowne, i broń —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "gdy przyjdzie"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ten list"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "do was"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "synowie waszego pana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "waszego pana"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "rydwan oraz konie"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "rydwan"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "oraz konie"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "i miasto"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "warowne"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "oraz broń"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:52.700004832Z",
+  "model": "glm-5.3"
+}

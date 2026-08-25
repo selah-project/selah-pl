@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "Staliśmy się hańbą dla naszych sąsiadów, pośmiewiskiem i wyśmiewiskiem dla tych, którzy ⟨są⟩ dokoła nas.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Staliśmy się"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hańbą"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "dla naszych sąsiadów"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "pośmiewiskiem"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "i wyśmiewiskiem"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "dla tych dokoła nas"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:48.608653493Z",
+  "model": "glm-5.3"
+}

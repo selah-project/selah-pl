@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Łaskawy ⟨jest⟩ Jahwe i sprawiedliwy, a Elohim nasz miłosierny.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Łaskawy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "i sprawiedliwy"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "a Elohim nasz"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "miłosierny"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:26.062326572Z",
+  "model": "glm-5.3"
+}

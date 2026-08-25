@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Zgrzeszyliśmy, popełniliśmy winę, wyrządziliśmy zło i zbuntowaliśmy się, i odwróciliśmy się od twoich przykazań i od twoich praw.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Zgrzeszyliśmy"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "popełniliśmy winę"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "wyrządziliśmy zło"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "i zbuntowaliśmy się"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "i odwróciliśmy się"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "od twoich przykazań"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "i od twoich praw"
+    }
+  ],
+  "timestamp": "2026-08-25T02:40:09.404235353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I opuścili ⟨את⟩ Jahwe, i służyli Baalowi i Asztarotom.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "i opuścili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i służyli"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalowi"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "i Asztarotom"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:54.667971783Z",
+  "model": "glm-5.3"
+}

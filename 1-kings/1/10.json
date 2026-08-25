@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A ⟨את⟩ Natana proroka i Benajahu i ⟨את⟩ bohaterów i ⟨את⟩ Szlomo, brata swego, nie wezwał.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Natana proroka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "i Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bohaterów"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "bohaterów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szlomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata swego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wezwał"
+    }
+  ],
+  "timestamp": "2026-08-24T23:54:55.911418844Z",
+  "model": "glm-5.3"
+}

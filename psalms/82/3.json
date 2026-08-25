@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 82,
+  "translation": "Sądźcie słabego i sierotę, uciśnionego i biednego usprawiedliwcie.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Sądźcie"
+    },
+    {
+      "surface": "דל",
+      "gloss": "słabego"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "i sierotę"
+    },
+    {
+      "surface": "עני",
+      "gloss": "uciśnionego"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "i biednego"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "usprawiedliwcie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:27.497013586Z",
+  "model": "glm-5.3"
+}

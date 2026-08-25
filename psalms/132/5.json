@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 132,
+  "translation": "Aż znajdę miejsce dla Jahwe, mieszkania dla Mocarza Jaakowa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Aż"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "znajdę"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "miejsce"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mieszkania"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "dla Mocarza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:07.840988851Z",
+  "model": "glm-5.3"
+}

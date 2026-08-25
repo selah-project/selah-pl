@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I rzekła: Według waszych słów tak ⟨jest⟩. I wysłała ich, i odeszli; i przywiązała ⟨את⟩ sznur szkarłatny w oknie.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i rzekła"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "według waszych słów"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "i wysłała ich"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odeszli"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "i przywiązała"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sznur szkarłatny"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "sznur"
+    },
+    {
+      "surface": "השני",
+      "gloss": "szkarłatny"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "w oknie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:17:17.841885937Z",
+  "model": "glm-5.3"
+}

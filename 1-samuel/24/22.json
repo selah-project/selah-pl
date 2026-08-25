@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A teraz przysięgnij mi przez Jahwe: że nie wytniesz ⟨את⟩ mego potomstwa po mnie ani nie wytępisz ⟨את⟩ mego imienia z domu ojca mego.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A teraz"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "przysięgnij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "przez Jahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "że"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "nie wytniesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego potomstwa"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mego potomstwa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po mnie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ani że"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "nie wytępisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego imienia"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mego imienia"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ojca mego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:52.564550254Z",
+  "model": "glm-5.3"
+}

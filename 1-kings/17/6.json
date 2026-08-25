@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "A kruki przynosiły mu chleb i mięso rano, i chleb i mięso wieczorem, a z potoku pił.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "a kruki"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "przynosiły"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "i mięso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "i chleb"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "i mięso"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wieczorem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potoku"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pił"
+    }
+  ],
+  "timestamp": "2026-08-25T00:02:41.447777340Z",
+  "model": "glm-5.3"
+}

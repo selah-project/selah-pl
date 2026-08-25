@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "⟨את⟩ moje wyroki czyńcie i ⟨את⟩ moje ustawy zachowujcie, aby chodzić w nich; Ja ⟨jestem⟩ Jahwe, Elohim wasz.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje wyroki"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moje wyroki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "czyńcie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moje ustawy"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje ustawy"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "zachowujcie"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby chodzić"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "w nich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wasz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:15.714348193Z",
+  "model": "glm-5.3"
+}

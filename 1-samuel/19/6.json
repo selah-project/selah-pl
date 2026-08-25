@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I posłuchał Saul głosu Jehonatana, i przysiągł Saul: żywy jest Jahwe, nie będzie zabity.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i posłuchał"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "głosu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i przysiągł"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żywy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nie będzie zabity"
+    }
+  ],
+  "timestamp": "2026-08-24T23:39:23.126054794Z",
+  "model": "glm-5.3"
+}

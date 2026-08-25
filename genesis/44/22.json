@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "A my rzekliśmy ⟨do⟩ pana mego: Nie może chłopiec opuścić ⟨את⟩ ojca swego, gdyż opuści ⟨את⟩ ojca swego — i umrze.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "a my rzekliśmy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pana mego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "może"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chłopiec"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "opuścić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca swego"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "gdyż opuści"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojca swego"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:41.999815854Z",
+  "model": "glm-5.3"
+}

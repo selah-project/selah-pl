@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "Zmiłuj się nade mną, Jahwe, bo oniemiałem ja; ulecz mnie, Jahwe, bo zatrwożyły się kości moje.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Zmiłuj się nade mną"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "oniemiałem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ulecz mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zatrwożyły się"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kości moje"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:45.128957033Z",
+  "model": "glm-5.3"
+}

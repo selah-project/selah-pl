@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I wzbudził Elohim jemu przeciwnika ⟨את⟩ Rezona, syna Eljady, który uciekł od ⟨את⟩ Hadadezera, króla Coby, pana swego.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wzbudził"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "przeciwnika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezona"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljady"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "uciekł"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coby"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pana swego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:38.634342538Z",
+  "model": "glm-5.3"
+}

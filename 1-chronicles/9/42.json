@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "A Achaz spłodził ⟨את⟩ Jaara, a Jaara spłodził ⟨את⟩ Alemet i ⟨את⟩ Azmawet i ⟨את⟩ Zimri, a Zimri spłodził ⟨את⟩ Moca.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "A Achaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "a Jaara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Azmawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "a Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moca"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moca"
+    }
+  ],
+  "timestamp": "2026-08-25T02:54:03.195083541Z",
+  "model": "glm-5.3"
+}

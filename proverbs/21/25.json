@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Pożądanie leniwca go zabija, bo jego ręce odmówiły działać.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Pożądanie"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leniwca"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "go zabija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmówiły"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jego ręce"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "działać"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:38.788130908Z",
+  "model": "glm-5.3"
+}

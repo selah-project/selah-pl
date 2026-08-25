@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I był Jahwe ⟨⟨את⟩ z⟩ Jehoszua, i była jego sława w całej ziemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i był"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z",
+      "marks": "Jehoszua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "jego sława"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    }
+  ],
+  "timestamp": "2026-08-24T23:18:36.973334862Z",
+  "model": "glm-5.3"
+}

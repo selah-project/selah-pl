@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I widziałem ja, że jest przewaga mądrości nad głupotą, jak przewaga światła nad ciemnością.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "i widziałem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "że jest"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "przewaga"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "mądrości"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "głupotą"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "jak przewaga"
+    },
+    {
+      "surface": "האור",
+      "gloss": "światła"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nad"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ciemnością"
+    }
+  ],
+  "timestamp": "2026-08-25T02:31:24.766339816Z",
+  "model": "glm-5.3"
+}

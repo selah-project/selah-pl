@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I będziesz miłował ⟨את⟩ Jahwe, Elohim twojego, i będziesz strzegł Jego straży, i Jego ustaw, i Jego praw, i Jego przykazań, przez wszystkie dni.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "I będziesz miłował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "i będziesz strzegł"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "Jego straży"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "i Jego ustaw"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i Jego praw"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "i Jego przykazań"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:07:45.679783618Z",
+  "model": "glm-5.3"
+}

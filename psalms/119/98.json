@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Od moich wrogów twój przykaz czyni mnie mądrzejszym, bo na wieki ona ⟨jest⟩ ze mną.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "od moich wrogów"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "czyni mnie mądrym"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "twój przykaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dla mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:27.879389550Z",
+  "model": "glm-5.3"
+}

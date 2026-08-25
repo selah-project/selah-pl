@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "A król Szelomo miłował kobiety obce, liczne, oraz ⟨את⟩ córkę Paro: Moabitki, Ammonitki, Edomitki, Cidonitki, Chetytki.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A król"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miłował"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "obce"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "liczne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "córka Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabitki"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonitki"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomitki"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Cidonitki"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chetytki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:37.450105747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 129,
+  "translation": "Jahwe ⟨jest⟩ sprawiedliwy, powycinał powrozy niegodziwych.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "powycinał"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "powrozy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "niegodziwych"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:09.881490946Z",
+  "model": "glm-5.3"
+}

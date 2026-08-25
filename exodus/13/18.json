@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I Elohim oprowadził ⟨את⟩ lud drogą pustyni ku Morzu Suf, uzbrojeni zaś weszli synowie Jisraela z ziemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "i oprowadził"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drogą"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustyni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morza"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf (Sitowia)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "uzbrojeni"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "weszli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:04.475125349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Gdyż sześć miesięcy przebywał tam Joab i cały IszraEl, aż wytępiono każdego mężczyznę w Edomie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sześć"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miesięcy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "przebywał"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "IszraEl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "wytępiono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mężczyznę"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "w Edomie"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:49.948343217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł do wykupiciela: Cząstkę pola, która ⟨należy⟩ naszemu bratu Elimelechowi, sprzedała Noemi, wracająca z pola Moabu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "do wykupiciela"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "cząstkę"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "która"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "naszemu bratu"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelechowi"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sprzedała"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "wracająca"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "z pola"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-08-25T03:50:27.276153230Z",
+  "model": "glm-5.3"
+}

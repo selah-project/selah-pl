@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Błogosław, nefesz moja, ⟨את⟩ Jahwe! Jahwe, Elohim mój, wielki ⟨jesteś⟩ bardzo, świetnością i majestatem przyodziany ⟨jesteś⟩.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Błogosław"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesz moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mój"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "wielki jesteś"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "świetnością"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "i majestatem"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "przyodziany jesteś"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:14.085369254Z",
+  "model": "glm-5.3"
+}

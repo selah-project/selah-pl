@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "Lecz tak uczynicie im: ołtarze ich zburzycie, a stele ich pokruszycie, i aszery ich ścięcie, a posągi ich spalicie w ogniu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "uczynicie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "ołtarze ich"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "zburzycie"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "a stele ich"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "pokruszycie"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "i aszery ich"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "ścięcie"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "a posągi ich"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "spalicie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "w ogniu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:01.030919343Z",
+  "model": "glm-5.3"
+}

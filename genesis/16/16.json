@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A Awram miał osiemdziesiąt sześć lat, gdy Hagar urodziła ⟨את⟩ Jiszmaela Awramowi.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "a Awram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "miał (był synem) lat"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "osiemdziesiąt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i sześć"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lat"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "gdy urodziła"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszmaela"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jiszmaela"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Awramowi"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:56.058767640Z",
+  "model": "glm-5.3"
+}

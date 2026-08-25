@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I uczynił Elohim ⟨את⟩ sklepienie, i oddzielił między wodami, które ⟨są⟩ pod sklepieniem, a między wodami, które ⟨są⟩ nad sklepieniem; i stało się tak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I uczynił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sklepienie"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sklepienie"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "i oddzielił"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sklepieniem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a między"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wodami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sklepieniem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:14.307366337Z",
+  "model": "glm-5.3"
+}

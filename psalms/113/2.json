@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 113,
+  "translation": "Niech ⟨jest⟩ błogosławione Imię Jahwe od teraz i aż na wieczność.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Niech jest"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "błogosławione"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od teraz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i aż"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieczność"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:37.145253268Z",
+  "model": "glm-5.3"
+}

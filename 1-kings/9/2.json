@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "wtedy ukazał się Jahwe Szlomo po raz drugi, jak ukazał się do niego w Giwonie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ukazał się"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "po raz drugi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukazał się"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "w Giwonie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:59:46.391914423Z",
+  "model": "glm-5.3"
+}

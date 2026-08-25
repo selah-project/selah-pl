@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł Jehoszua do synów Israela: Podejdźcie tutaj i słuchajcie ⟨את⟩ słów Jahwe, Elohim waszego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Podejdźcie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "i słuchajcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słów Jahwe, Elohim waszego"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "słów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim waszego"
+    }
+  ],
+  "timestamp": "2026-08-25T03:24:25.161004794Z",
+  "model": "glm-5.3"
+}

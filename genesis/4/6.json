@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I rzekł Jahwe do Kajina: czemu zapłonąłeś gniewem i czemu opadło twoje oblicze?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajina"
+    },
+    {
+      "surface": "למה",
+      "gloss": "czemu"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "zapłonąłeś gniewem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i czemu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "opadło"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "twoje oblicze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:27.751950281Z",
+  "model": "glm-5.3"
+}

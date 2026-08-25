@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Wyczerpała mnie moja gorliwość, bo zapomnieli słów Twoich moi przeciwnicy.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "wyczerpała mnie"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "moja gorliwość"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zapomnieli"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "słów Twoich"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "moi przeciwnicy"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:19.171308330Z",
+  "model": "glm-5.3"
+}

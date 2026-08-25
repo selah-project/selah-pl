@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 39,
+  "translation": "I odmówił, i powiedział do żony swojego pana: Oto mój pan nie zna ⟨את⟩ ze mną niczego w domu, i wszystko, co ma, dał w moją rękę.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "I odmówił"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żony"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "swojego pana"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mój pan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ze mną",
+      "marks": "niczego w domu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czegokolwiek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "w domu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dał"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "w moją rękę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:21:40.514702990Z",
+  "model": "glm-5.3"
+}

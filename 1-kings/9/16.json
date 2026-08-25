@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Paro, król Micraim, wyszedłszy zdobył ⟨את⟩ Gezer i spalił ją ogniem, a ⟨את⟩ Kenaanityczyka zamieszkującego w mieście zabił; i dał ją jako posag córce swojej, żonie Szelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wyszedłszy (dosł. wstąpił)"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "i spalił"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogniem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kenaanityczyka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanityczyka"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "zamieszkującego"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dał ją"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "jako posag"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "córce swojej"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "żonie"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szelomo"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:16.236997364Z",
+  "model": "glm-5.3"
+}

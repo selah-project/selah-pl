@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I zszedł Mosze z góry do ludu, i poświęcił ⟨את⟩ lud, i wyprali swoje szaty.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i zszedł"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "góry"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i poświęcił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "i wyprali"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "swoje szaty"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:40.498569020Z",
+  "model": "glm-5.3"
+}

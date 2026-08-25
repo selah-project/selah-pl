@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 83,
+  "translation": "Elohimie, nie czyń ⟨sobie⟩ ciszy, nie milcz i nie ustawaj, Elu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "czyń ciszy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sobie⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "milcz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ustawaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:57.526529021Z",
+  "model": "glm-5.3"
+}

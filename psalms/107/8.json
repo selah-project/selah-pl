@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "Niech składają dziękczynienie Jahwe za Jego chesed i za Jego cuda synom ludzkim.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "niech składają dziękczynienie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jego chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i Jego cuda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ludzkim"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:01.277760877Z",
+  "model": "glm-5.3"
+}

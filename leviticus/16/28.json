@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A ten, który je spali, wypierze swoje szaty i obra ⟨את⟩ swoje ciało w wodzie, a potem wejdzie do obozu.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "a ten, który spali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wypierze"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "swoje szaty"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i obra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje ciało"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "swoje ciało"
+    },
+    {
+      "surface": "במים",
+      "gloss": "w wodzie"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tym"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wejdzie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "obozu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:45:54.736378073Z",
+  "model": "glm-5.3"
+}

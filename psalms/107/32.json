@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 107,
+  "translation": "I niech Go wywyższają w zgromadzeniu ludu, i na siedzeniu starszych niech Go chwalą",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "i niech Go wywyższają"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "w zgromadzeniu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ludu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "i na siedzeniu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starszych"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "niech Go chwalą"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:10.864788626Z",
+  "model": "glm-5.3"
+}

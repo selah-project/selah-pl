@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "I tak odpowiem ⟨słowem⟩ temu, kto mnie lży, bo zaufałem Twojemu słowu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "i odpowiem"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "temu, kto mnie lży"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨słowem⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "zaufałem"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "Twojemu słowu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:33.580187467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Widziałeś, bo Ty spoglądasz na trud i gniew, aby oddać ⟨to⟩ w swoją rękę; na Ciebie polega nędzarz, sierocie Ty byłeś pomocnikiem.",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "Widziałeś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trud"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "i gniew"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "spoglądasz"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby oddać"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w swoją rękę"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na Ciebie"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "polega"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "nędzarz"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sierota"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "היית",
+      "gloss": "byłeś"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pomocnikiem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:38.304952666Z",
+  "model": "glm-5.3"
+}

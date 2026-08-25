@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 102,
+  "translation": "Modlitwa uciśnionego, gdy mdleje, a przed Jahwe wylewa swą skargę.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitwa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "uciśnionego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "mdleje"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a przed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wylewa"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "swą skargę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:58.879223141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Jeśli stałeś się mądry — to dla siebie stałeś się mądry; a jeśli szydzisz — tylko ty sam poniesiesz ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "stałeś się mądry"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "stałeś się mądry"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla siebie"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "a jeśli szydzisz"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tylko ty sam"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "poniesiesz"
+    }
+  ],
+  "timestamp": "2026-08-25T04:21:33.336767971Z",
+  "model": "glm-5.3"
+}

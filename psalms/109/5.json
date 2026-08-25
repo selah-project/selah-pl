@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "I ustawili nade mną zło za dobre, a nienawiść za moją miłość.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i ustawili"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zło"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "a nienawiść"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "moją miłość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:29.811801246Z",
+  "model": "glm-5.3"
+}

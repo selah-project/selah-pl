@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "Wszystkie narody, które uczyniłeś, przyjdą i pokłonią się przed Tobą, Adonai, i uczczą Twoje imię.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uczyniłeś"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "przyjdą"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i pokłonią się"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "przed Tobą"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "i uczczą"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Twoje imię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:02.688913726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 94,
+  "translation": "Czy Ten, kto zasadził ucho, czy nie usłyszy? Czy Ten, kto uformował oko, czy nie spojrzy?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Czy Ten, kto zasadził"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłyszy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "czy"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Ten, kto uformował"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "czy nie"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "spojrzy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:58:20.419707882Z",
+  "model": "glm-5.3"
+}

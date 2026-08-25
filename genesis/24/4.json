@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "lecz do ziemi mojej i do rodziny mojej pójdziesz, i weźmiesz żonę dla syna mego, dla Jicchaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ziemi mojej"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "rodziny mojej"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pójdziesz"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "żonę"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dla syna mego"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dla Jicchaka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:13.002686875Z",
+  "model": "glm-5.3"
+}

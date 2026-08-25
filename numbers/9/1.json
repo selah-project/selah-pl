@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "I przemówił Jahwe do Mosze na pustyni Synaj w drugim roku ich wyjścia z ziemi Micraim, w pierwszym miesiącu, mówiąc:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i przemówił"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na pustyni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Synaj"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "w roku"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "ich wyjścia"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "w miesiącu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pierwszym"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    }
+  ],
+  "timestamp": "2026-08-24T22:53:33.481437081Z",
+  "model": "glm-5.3"
+}

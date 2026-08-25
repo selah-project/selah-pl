@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 126,
+  "translation": "Pieśń wstępowań. Gdy Jahwe odwracał ⟨את⟩ los powrotu Syjonu, byliśmy jak śniący.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wstępowań"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "gdy odwracał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los powrotu Syjonu"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "los powrotu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Syjonu"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "byliśmy"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "jak śniący"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:28.319289949Z",
+  "model": "glm-5.3"
+}

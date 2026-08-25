@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Skręciłem się, schyliłem aż do skraju, cały dzień chodzę smutny w czerni.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Skręciłem się"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "schyliłem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "skraju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "smutny w czerni"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "chodzę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:35.078996497Z",
+  "model": "glm-5.3"
+}

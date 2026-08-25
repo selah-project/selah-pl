@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I rzekł mu Elohim: imię twoje ⟨to⟩ Jaakow; nie będzie już odtąd imię twoje zwane Jaakow, lecz Iszrael będzie imię twoje. I nazwał ⟨את⟩ imię jego Iszrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię twoje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "będzie zwane"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię twoje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już odtąd"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię twoje"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imię jego"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imię jego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszrael"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:54.381617257Z",
+  "model": "glm-5.3"
+}

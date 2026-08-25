@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "A Oholibama urodziła ⟨את⟩ Jeusza, ⟨את⟩ Jaalama i ⟨את⟩ Koracha — to ⟨są⟩ synowie Esawa, którzy mu się urodzili w ziemi Kanaanu.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "A Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeusza"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeusz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaalama"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Koracha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ktorzy"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "urodzili się"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:25.936163539Z",
+  "model": "glm-5.3"
+}

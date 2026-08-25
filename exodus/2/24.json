@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I usłyszał Elohim ⟨את⟩ jęk ich, i wspomniał Elohim ⟨את⟩ przymierze swoje — ⟨את⟩ Awrahama, ⟨את⟩ Jicchaka i ⟨את⟩ Jaakowa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "usłyszał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jęk ich"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "jęk ich"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "wspomniał"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przymierze swoje"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "przymierze swoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    }
+  ],
+  "timestamp": "2026-08-24T22:25:54.814336178Z",
+  "model": "glm-5.3"
+}

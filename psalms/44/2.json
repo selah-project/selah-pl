@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 44,
+  "translation": "Elohim, uszami naszymi słyszeliśmy; ojcowie nasi opowiedzieli nam dzieło, które uczyniłeś w ich dniach, w dniach dawnych.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "uszami naszymi"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "słyszeliśmy"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ojcowie nasi"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "opowiedzieli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "które uczyniłeś"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "w ich dniach"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dawnych"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:06.371136833Z",
+  "model": "glm-5.3"
+}

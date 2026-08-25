@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I rzekł: Otwórz okno ku wschodowi, i otworzył; i rzekł Eliszua: Strzelaj! I strzelił. I rzekł: Strzała zwycięstwa dla Jahwe i strzała zwycięstwa nad Aramem — i pobijesz ⟨את⟩ Aram w Afek, aż do zupełnego końca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "otwórz"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ku wschodowi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otworzył"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "strzelaj"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "i strzelił"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "strzała"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "zwycięstwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "i strzała"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "zwycięstwa"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "nad Aramem"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "i pobijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "w Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "zupełnego końca"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:42.733205455Z",
+  "model": "glm-5.3"
+}

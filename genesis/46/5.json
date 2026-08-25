@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 46,
+  "translation": "I wstał Jaakow z Beer-Szewy, i zabrali synowie Israela ⟨את⟩ Jaakowa, ojca swego, i ⟨את⟩ dzieci swoje, i ⟨את⟩ kobiety swoje, na wozach, które wysłał Paroh, żeby go wieźć ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i wstał"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "z"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Szewy"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i zabrali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ojca swego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dzieci swoje"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "dzieci swoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kobiety swoje"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "kobiety swoje"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "na wozach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wysłał"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "żeby wieźć"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ go",
+      "marks": "go (Jaakowa)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:24:29.181497885Z",
+  "model": "glm-5.3"
+}

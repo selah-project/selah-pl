@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I okrążał ⟨את⟩ granicę od północy, Channaton, i były jej wyjścia ⟨w⟩ dolinie Jiftach-El.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "i okrążał"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ją — granicę"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "granicę"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "od północy"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Channaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i były"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "jej wyjścia"
+    },
+    {
+      "surface": "גי",
+      "gloss": "dolina"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-24T23:22:03.538421691Z",
+  "model": "glm-5.3"
+}

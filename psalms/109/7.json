@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 109,
+  "translation": "Gdy będzie sądzony, niech wyjdzie jako skazany, a jego modlitwa niech stanie się grzechem.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Gdy będzie sądzony"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "niech wyjdzie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jako skazany"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "a jego modlitwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "niech stanie się"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "grzechem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:29.812176530Z",
+  "model": "glm-5.3"
+}

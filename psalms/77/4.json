@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 77,
+  "translation": "Wspominam Elohim i jęczę; rozmyślam, i mdleje mój duch. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Wspominam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "i jęczę"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "rozmyślam"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "i mdleje"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mój duch"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:28.273430319Z",
+  "model": "glm-5.3"
+}

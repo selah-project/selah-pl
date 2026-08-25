@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "I rozbił ⟨את⟩ ołtarze i ⟨את⟩ Aszery, a posągi potłukł na proch, i wszystkie ołtarze kadzielne porąbał w całej ziemi Jisraela, i wrócił do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "i rozbił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aszery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aszery"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "a posągi"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "potłukł"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "na proch"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkie"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ołtarze kadzielne"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "porąbał"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "w całej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "do Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T03:12:11.824553121Z",
+  "model": "glm-5.3"
+}

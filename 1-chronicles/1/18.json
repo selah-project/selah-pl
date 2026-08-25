@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Arpachszad zrodził ⟨את⟩ Szelacha, a Szelach zrodził ⟨את⟩ Ebera.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "A Arpachszad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szelacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Szelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a Szelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:21.322124739Z",
+  "model": "glm-5.3"
+}

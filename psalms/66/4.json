@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Cała ⟨ta⟩ ziemia będzie Ci się kłaniać i będzie Ci grać, będzie grać Twojemu imieniu. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ta⟩ ziemia"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "będzie się kłaniać"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "i będzie grać"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "będzie grać"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Twojemu imieniu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:27.974992594Z",
+  "model": "glm-5.3"
+}

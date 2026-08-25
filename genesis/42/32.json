@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Dwunastu nas jest, braci, synów ojca naszego; jednego nie ma, a najmłodszy dziś ⟨z⟩ naszym ojcem w ziemi Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "Dwunastu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nas jest"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "braci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ojca naszego"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednego"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "a najmłodszy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naszym ojcem"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "naszym ojcem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-24T22:23:20.549160125Z",
+  "model": "glm-5.3"
+}

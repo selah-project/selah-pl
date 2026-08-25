@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I rzekł: przecież ja będę z tobą, i to ci ⟨jest⟩ znak, że ja cię posłałem: gdy wyprowadzisz ⟨את⟩ lud z Micraim, będziecie służyć Elohim na tej górze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "כי",
+      "gloss": "przecież"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "będę"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "z tobą"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "i to"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "האות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "cię posłałem"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "gdy wyprowadzisz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "będziecie służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "górze"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:16.143138327Z",
+  "model": "glm-5.3"
+}

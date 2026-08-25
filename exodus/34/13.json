@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "gdyż ⟨את⟩ ołtarze ich zburzycie, a ⟨את⟩ stele ich pokruszycie, a ⟨את⟩ Aszery ich wyrąbicie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarze ich"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ołtarze ich"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "zburzycie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "stele ich"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "stele ich"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "pokruszycie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Aszery ich"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Aszery ich"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "wyrąbicie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:11.892855581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "I zrobisz drągi dla ołtarza, drągi z drewna akacjowego, i oblejesz ⟨את⟩ nimi miedzią.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "drągi"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "dla ołtarza"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "drągi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacjowego"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i oblejesz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi (drągi)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "miedzią"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:55.390321190Z",
+  "model": "glm-5.3"
+}

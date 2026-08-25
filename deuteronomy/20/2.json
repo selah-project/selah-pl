@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I ⟨będzie tak⟩: gdy zbliżycie się do bitwy, wtedy przystąpi kohen i przemówi do ludu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I ⟨będzie tak⟩"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "gdy zbliżycie się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "bitwy"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "przystąpi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i przemówi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T23:10:32.112502648Z",
+  "model": "glm-5.3"
+}

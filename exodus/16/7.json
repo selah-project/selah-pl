@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "A rano ujrzycie ⟨את⟩ chwałę Jahwe, gdy usłyszy ⟨את⟩ wasze szemrania przeciwko Jahwe; a my czym ⟨jesteśmy⟩, że szemraliście przeciwko nam?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "a rano"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "ujrzycie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chwałę"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "chwałę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "gdy usłyszy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasze szemrania"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "wasze szemrania"
+    },
+    {
+      "surface": "על",
+      "gloss": "przeciwko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "szemraliście"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "przeciwko nam"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:40.468465880Z",
+  "model": "glm-5.3"
+}

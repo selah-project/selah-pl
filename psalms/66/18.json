@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 66,
+  "translation": "Nieprawość, jeśli widziałem w sercu moim, Adonai nie usłyszy.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "widziałem"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "w sercu moim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "usłyszy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:35.667356448Z",
+  "model": "glm-5.3"
+}

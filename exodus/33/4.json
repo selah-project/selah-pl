@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I usłyszał lud ⟨את⟩ tę złowrogą wieść, i okryli się żałobą, i nikt nie nałożył na siebie swych ozdób.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i usłyszał"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tę złowrogą wieść"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wieść"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "złowrogą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tę"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "i okryli się żałobą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nałożył"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikt"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "swych ozdób"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na siebie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:36:59.451433227Z",
+  "model": "glm-5.3"
+}

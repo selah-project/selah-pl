@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 120,
+  "translation": "Cóż ⟨ono⟩ da tobie, i cóż ⟨ono⟩ doda tobie, języku zdrady?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cóż"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨ono⟩ da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i cóż"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "⟨ono⟩ doda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "języku"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zdrady"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:48.651078398Z",
+  "model": "glm-5.3"
+}

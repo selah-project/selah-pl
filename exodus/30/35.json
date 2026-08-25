@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "I uczynisz ⟨את⟩ nią kadzidło — kompozycję, dzieło wytwórcy wonności, przyprawione solą, czyste, świętość.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i uczynisz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nią (kadzidło)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadzidło"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kompozycję"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "wytwórcy wonności"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "przyprawione solą"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "czyste"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętość"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:39.497438706Z",
+  "model": "glm-5.3"
+}

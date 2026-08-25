@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 106,
+  "translation": "Wspomnij na mnie, Jahwe, w życzliwości dla Twego ludu, nawiedź mnie w Twym zbawieniu.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Wspomnij na mnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "w życzliwości"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Twego ludu"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "nawiedź mnie"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "w Twym zbawieniu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:55.758374345Z",
+  "model": "glm-5.3"
+}

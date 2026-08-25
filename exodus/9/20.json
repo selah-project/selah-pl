@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Ten, który bał się ⟨את⟩ słowa Jahwe spośród sług faraona, sprowadził ucieczką swoich sługi i ⟨את⟩ swoje bydło do domów.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Ten, który bał się"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słowa Jahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "spośród sług"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "sprowadził ucieczką"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich sługi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "swoich sługi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swoje bydło"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "swoje bydło"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domów"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:08.138436179Z",
+  "model": "glm-5.3"
+}

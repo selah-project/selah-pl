@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "i schodzili wszyscy Izraelici do Pelisztów, aby ostrzyć każdy ⟨את⟩ swój lemiesz, i ⟨את⟩ swą motykę, i ⟨את⟩ swój topór, i ⟨את⟩ swe radło.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "i schodzili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelici"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "do Pelisztów"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "aby ostrzyć"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swój lemiesz"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "swój lemiesz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swą motykę"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "swą motykę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swój topór"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "swój topór"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "swe radło"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "swe radło"
+    }
+  ],
+  "timestamp": "2026-08-24T23:36:59.241144914Z",
+  "model": "glm-5.3"
+}

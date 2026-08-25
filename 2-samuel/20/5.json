@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I poszedł Amasa, aby zwołać ⟨את⟩ Jehudę, lecz zwlekał ponad czas oznaczony, który mu wyznaczono.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i poszedł"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "aby zwołać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudę"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "lecz zwlekał"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "czas oznaczony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "mu wyznaczono"
+    }
+  ],
+  "timestamp": "2026-08-24T23:53:09.895692312Z",
+  "model": "glm-5.3"
+}

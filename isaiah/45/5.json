@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Ja ⟨jestem⟩ Jahwe i nie ma nic ponadto — poza Mną nie ma boga; przepasałem cię, a ty Mnie nie znałeś.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nic ponadto"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "poza Mną"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "boga"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "przepasałem cię"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nie"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "znałeś Mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:34:02.157789361Z",
+  "model": "glm-5.3"
+}

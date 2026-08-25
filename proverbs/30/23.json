@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "od znienawidzonej, gdy zostaje poślubiona, i od niewolnicy, gdy dziedziczy po swojej pani.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "od"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "znienawidzonej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "zostaje poślubiona"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "i od niewolnicy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "dziedziczy"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "po swojej pani"
+    }
+  ],
+  "timestamp": "2026-08-25T02:13:18.776201965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A to ⟨jest⟩ napis, który zapisano: MENE, MENE, TEKEL, UFARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "a to"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "napis"
+    },
+    {
+      "surface": "די",
+      "gloss": "który"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "zapisano"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (policzone)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (policzone)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (zważone)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "i FARSIN (podzielone)"
+    }
+  ],
+  "timestamp": "2026-08-25T02:36:32.346002722Z",
+  "model": "glm-5.3"
+}

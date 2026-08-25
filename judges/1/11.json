@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I poszedł stamtąd przeciw mieszkańcom Dewiru — a imię Dewiru przedtem ⟨było⟩ Kirjat-Séfer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I poszedł"
+    },
+    {
+      "surface": "משם",
+      "gloss": "stamtąd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "przeciw"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mieszkańcom"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dewiru"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imię"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dewiru"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "przedtem"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    }
+  ],
+  "timestamp": "2026-08-24T23:23:46.015795641Z",
+  "model": "glm-5.3"
+}

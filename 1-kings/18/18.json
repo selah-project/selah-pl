@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I rzekł: Nie ja zamąciłem ⟨את⟩ Izraela, lecz ty i dom twojego ojca, porzucając ⟨את⟩ przykazania Jahwe i chodząc za Baalami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "zamąciłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lecz"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "twojego ojca"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "porzucając"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "przykazania"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "przykazania"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "chodząc"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalami"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:31.771380587Z",
+  "model": "glm-5.3"
+}

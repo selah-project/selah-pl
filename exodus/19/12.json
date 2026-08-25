@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I wyznaczysz granice ⟨את⟩ ludowi dokoła, mówiąc: Strzeżcie się wchodzenia na górę i dotykania jej skraju; każdy, kto dotknie góry, na śmierć umrze.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "i wyznaczysz granice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludowi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludowi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokoła"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "strzeżcie się"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "siebie"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "wchodzenia"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na górę"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "i dotykania"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "jej skraju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kto dotknie"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "góry"
+    },
+    {
+      "surface": "מות",
+      "gloss": "na śmierć"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "umrze"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:50.285596996Z",
+  "model": "glm-5.3"
+}

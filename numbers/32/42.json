@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "A NoBah poszedł i zdobył ⟨את⟩ Kenat oraz ⟨את⟩ jej córki (osady), i nazwał ją NoBah, według swego imienia.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "A NoBah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "poszedł"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "jej córki (osady)"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "jej córki (osady)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ją"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "NoBah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "według swego imienia"
+    }
+  ],
+  "timestamp": "2026-08-24T23:00:50.984529458Z",
+  "model": "glm-5.3"
+}

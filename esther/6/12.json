@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I wrócił Mordechaj do bramy królewskiej, a Haman pobiegł spiesznie do swego domu, w żałobie i z zasłoniętą głową.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królewskiej"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "a Haman"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "pobiegł spiesznie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "swego domu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "w żałobie"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "z zasłoniętą"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głową"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:11.985807260Z",
+  "model": "glm-5.3"
+}

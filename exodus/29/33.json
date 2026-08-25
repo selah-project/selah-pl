@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I zjedzą ⟨את⟩ te rzeczy, którymi dokonano odkupienia, by napełnić ⟨את⟩ ich ręce, by ⟨את⟩ ich poświęcić; a obcy nie będzie jadł, bo świętość to oni.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "i zjedzą"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "te rzeczy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którymi"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "dokonano odkupienia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "przez nie"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "by napełnić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich ręce"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ich ręce"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "by poświęcić"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich (Ahrona i jego synów)"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "a obcy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "będzie jadł"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętość"
+    },
+    {
+      "surface": "הם",
+      "gloss": "to oni"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:28.044208075Z",
+  "model": "glm-5.3"
+}

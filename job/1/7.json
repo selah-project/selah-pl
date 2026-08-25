@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I rzekł Jahwe do ha-satana: Skąd przychodzisz? I odpowiedział ha-satan ⟨את⟩ Jahwe, i rzekł: Z krążenia po ziemi i z chodzenia po niej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satana"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "skąd"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "przychodzisz"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "I odpowiedział"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "z krążenia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po ziemi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "i z chodzenia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po niej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:25.783893896Z",
+  "model": "glm-5.3"
+}

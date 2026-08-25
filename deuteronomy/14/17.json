@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "oraz pelikana, i ⟨את⟩ ścierwnika, i ⟨את⟩ kormorana",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "oraz pelikana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ścierwnika"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ścierwnika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kormorana"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormorana"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:04.747335361Z",
+  "model": "glm-5.3"
+}

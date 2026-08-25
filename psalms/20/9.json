@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Oni uklękli i upadli, a my powstaliśmy i ⟨jesteśmy⟩ wzniesieni.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "uklękli"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i upadli"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "powstaliśmy"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "i ⟨jesteśmy⟩ wzniesieni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:04.302642233Z",
+  "model": "glm-5.3"
+}

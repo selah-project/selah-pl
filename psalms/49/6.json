@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 49,
+  "translation": "Czego mam się lękać w dniach złych, gdy nieprawość moich pięt mnie otacza?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Czego"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mam się lękać"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "רע",
+      "gloss": "złych"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "moich pięt"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mnie otacza"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:45.550254146Z",
+  "model": "glm-5.3"
+}

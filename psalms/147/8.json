@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 147,
+  "translation": "Ten, który pokrywa niebiosa chmurami, ten, który przygotowuje dla ziemi deszcz, ten, który wydaje trawę na górach.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ten, który pokrywa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "chmurami"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "ten, który przygotowuje"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dla ziemi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "deszcz"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "ten, który wydaje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "na górach"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trawa"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:44.964565781Z",
+  "model": "glm-5.3"
+}

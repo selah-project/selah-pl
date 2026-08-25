@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Słuchajcie tego, starcy, i nadstawcie ucha, wszyscy mieszkańcy ziemi: czy ⟨było⟩ to za waszych dni, czy też za dni waszych ojców?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Słuchajcie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starcy"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "i nadstawcie ucha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mieszkańcy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "czy ⟨było⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "za waszych dni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "czy też"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "za dni"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "waszych ojców"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:21.364643029Z",
+  "model": "glm-5.3"
+}

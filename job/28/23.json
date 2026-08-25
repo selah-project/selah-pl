@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Elohim pojął jej drogę, i ⟨on⟩ zna ⟨את⟩ jej miejsce.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "pojął"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "jej drogę"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jej miejsce"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "jej miejsce"
+    }
+  ],
+  "timestamp": "2026-08-25T02:21:23.590622727Z",
+  "model": "glm-5.3"
+}

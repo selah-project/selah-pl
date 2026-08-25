@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "Każde, które rozszczepia kopyto i całkowicie rozszczepione ma kopyto, ⟨oraz⟩ przeżuwa pokarm z powrotem — wśród bydła — to jeść możecie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Każde"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "które rozszczepia"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyto"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "i całkowicie rozszczepione mające"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "rozszczepienie"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kopyta"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "przeżuwające"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "pokarm z powrotem"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "wśród bydła"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to (zwierzę)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jeść możecie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:42:51.611502621Z",
+  "model": "glm-5.3"
+}

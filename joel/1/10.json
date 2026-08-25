@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Spustoszone ⟨jest⟩ pole, okryła się żałobą ziemia, bo spustoszone ⟨jest⟩ zboże, uschła moszcz, więdnie oliwa.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "spustoszone"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "okryła się żałobą"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ziemia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "spustoszone"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "zboże"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "uschła"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "moszcz"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "więdnie"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "oliwa"
+    }
+  ],
+  "timestamp": "2026-08-25T01:32:44.592427528Z",
+  "model": "glm-5.3"
+}

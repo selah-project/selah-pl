@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "Powstają świadkowie przemocy, o czym nie wiedziałem — pytają mnie.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "powstają"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "świadkowie"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "przemocy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o czym"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wiedziałem"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "pytają mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:23.809188489Z",
+  "model": "glm-5.3"
+}

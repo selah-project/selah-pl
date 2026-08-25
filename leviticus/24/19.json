@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 24,
+  "translation": "A jeśli ktoś wyrządzi skazę bliźniemu swojemu, tak jak zrobił, tak zostanie mu zrobione.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a jeśli ktoś"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wyrządzi"
+    },
+    {
+      "surface": "מום",
+      "gloss": "skazę"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "bliźniemu swojemu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zostanie zrobione"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:47:45.581128342Z",
+  "model": "glm-5.3"
+}

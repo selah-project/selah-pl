@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I wstała w środku nocy, i wzięła ⟨את⟩ mego syna spoode mnie — a twoja służebnica spała — i położyła go na swoim łonie, a ⟨את⟩ jej syna — tego martwego — położyła na moim łonie.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "I wstała"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nocy"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i wzięła"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mego syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mego syna"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "spoode mnie"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "a twoja służebnica"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "spać"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "i położyła go"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "na swoim łonie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jej syna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jej syna"
+    },
+    {
+      "surface": "המת",
+      "gloss": "martwy"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "położyła"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "na moim łonie"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:57.772719773Z",
+  "model": "glm-5.3"
+}

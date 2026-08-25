@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zawrócił Jehoszua w tym czasie, i zdobył ⟨את⟩ Chacor, a ⟨את⟩ jego króla pobił mieczem, bo Chacor dawniej był głową wszystkich tych królestw.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i zawrócił"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "w czasie"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tym"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zdobył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chacor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jego króla"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jego króla"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dawniej"
+    },
+    {
+      "surface": "היא",
+      "gloss": "był"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "głową"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "królestw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tych"
+    }
+  ],
+  "timestamp": "2026-08-24T23:20:12.373319234Z",
+  "model": "glm-5.3"
+}

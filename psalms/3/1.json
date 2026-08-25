@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Pieśń Dawida, gdy uciekał przed obliczem Abszaloma, syna jego.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pieśń"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "gdy uciekał"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abszaloma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna jego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:43:36.203475838Z",
+  "model": "glm-5.3"
+}

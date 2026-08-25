@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I widział cały lud ⟨את⟩ słup obłoku stojący u wejścia namiotu, i wstawał cały lud, i kłaniał się każdy u wejścia swego namiotu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "I widział"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "słup obłoku"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "słup"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "obłoku"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stojący"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "namiotu"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "i wstawał"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "i kłaniał się"
+    },
+    {
+      "surface": "איש",
+      "gloss": "każdy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u wejścia"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "swego namiotu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:25.999186002Z",
+  "model": "glm-5.3"
+}

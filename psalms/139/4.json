@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "Bo nie ma słowa na moim języku — oto, Jahwe, Ty znasz je całkowicie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na moim języku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "oto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ty znasz"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "całkowicie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:09.569282592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 10:26",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "Także i bydło nasze pójdzie z nami — nie zostanie ⟨żadna⟩ kopyto, bo z niego weźmiemy, by służyć ⟨את⟩ Jahwe, Elohim naszemu; a my nie wiemy, czym będziemy służyć ⟨את⟩ Jahwe, aż tam przyjdziemy.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "także i"
+    },
+    {
+      "surface": "מקננו",
+      "gloss": "bydło nasze"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pójdzie"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשאר",
+      "gloss": "zostanie"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z niego"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "weźmiemy"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "by służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszemu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "wiemy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "czym"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "będziemy służyć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "przyjdziemy"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T22:28:19.500900335Z",
+  "model": "glm-5.3"
+}

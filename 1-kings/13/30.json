@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I położył ⟨את⟩ jego zwłoki w jego grobowcu, i lamentowali nad nim: Och, bracie mój!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "i położył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jego zwłoki"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jego zwłoki"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "w jego grobowcu"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "i lamentowali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad nim"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Och"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bracie mój"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:51.920574845Z",
+  "model": "glm-5.3"
+}

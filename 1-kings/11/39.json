@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I ukarzę ⟨את⟩ potomstwo Dawida z powodu tego, jednak nie przez wszystkie dni.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "i ukarzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potomstwo Dawida"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstwo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "למען",
+      "gloss": "z powodu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jednak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:29:28.482069588Z",
+  "model": "glm-5.3"
+}

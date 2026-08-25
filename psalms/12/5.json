@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "Którzy powiedzieli: Językiem naszym zdominujemy, wargi nasze są ⟨את⟩ nami — kto panem nad nami?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "powiedzieli"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "językiem naszym"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "zdominujemy"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "wargi nasze"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kto"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "panem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nad nami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:36.413419394Z",
+  "model": "glm-5.3"
+}

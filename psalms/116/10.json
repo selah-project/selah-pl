@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 116,
+  "translation": "Uwierzyłem, bo mówię — ja, byłem bardzo uciskany.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Uwierzyłem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mówię"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "byłem uciskany"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bardzo"
+    }
+  ],
+  "timestamp": "2026-08-25T02:02:09.466483997Z",
+  "model": "glm-5.3"
+}

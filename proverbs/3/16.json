@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Długość dni w jej prawej ⟨ręce⟩, w jej lewej ⟨ręce⟩ bogactwo i chwała.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Długość"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "w jej prawej"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "w jej lewej"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogactwo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "i chwała"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:23.731194244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 80,
+  "translation": "Nakarmiłeś ich chlebem łez i napoiłeś ich łzami ⟨w miarę⟩ potrójną.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Nakarmiłeś-ich"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "łez"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "i-napoiłeś-ich"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "łzami"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "potrójną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:49.735886774Z",
+  "model": "glm-5.3"
+}

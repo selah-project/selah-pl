@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "A Ty odrzuciłeś i wzgardziłeś, rozgniewałeś się na Masziacha swojego.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A Ty"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "odrzuciłeś"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "i wzgardziłeś"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "rozgniewałeś się"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Masziacha swojego"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:10.016417644Z",
+  "model": "glm-5.3"
+}

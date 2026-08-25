@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I oznajmił Ewjatar Dawidowi, że Szaul zabił ⟨את⟩ kapłanów Jahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i oznajmił"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ewjatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabił"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapłanów"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kapłanów"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    }
+  ],
+  "timestamp": "2026-08-24T23:40:58.037037114Z",
+  "model": "glm-5.3"
+}

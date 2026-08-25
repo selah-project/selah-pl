@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "Bo nieuleczalne są jej rany, bo doszło aż do Jehudy, dotknęło bramy mego ludu, aż do Jeruszalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "nieuleczalne"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "są jej rany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באה",
+      "gloss": "doszło"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotknęło"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bramy"
+    },
+    {
+      "surface": "שער",
+      "gloss": ""
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mego ludu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruszalaim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:35:53.311702710Z",
+  "model": "glm-5.3"
+}

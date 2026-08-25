@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 104,
+  "translation": "Tehom jak szatą okryłeś ją, ponad górami stały wody.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "jak szatą"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "okryłeś ją"
+    },
+    {
+      "surface": "על",
+      "gloss": "ponad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "górami"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stały"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wody"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:52.014549581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "Bogaty niech nie pomnaża, a biedny niech nie umniejsza od połowy szekla, by dać ⟨את⟩ terumę Jahwe, by przebłagać za wasze nefesz.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Bogaty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "niech nie pomnaża"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "a biedny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "niech nie umniejsza"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "od połowy"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "szekla"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "by dać"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumę Jahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "by przebłagać"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "wasze nefesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:59.380479804Z",
+  "model": "glm-5.3"
+}

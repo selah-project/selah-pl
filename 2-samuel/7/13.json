@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "On zbuduje dom dla mojego imienia, a Ja utwierdzę ⟨את⟩ tron jego królestwa na zawsze.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zbuduje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "dla mojego imienia"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "a Ja utwierdzę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tron"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "jego królestwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zawsze"
+    }
+  ],
+  "timestamp": "2026-08-24T23:46:29.212767476Z",
+  "model": "glm-5.3"
+}

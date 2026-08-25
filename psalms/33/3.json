@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Śpiewajcie Mu pieśń nową, pięknie grajcie na strunach z okrzykiem wojennym.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Śpiewajcie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nową"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "pięknie"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "grajcie na strunach"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "z okrzykiem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:56.318965153Z",
+  "model": "glm-5.3"
+}

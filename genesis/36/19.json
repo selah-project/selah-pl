@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Te ⟨są⟩ synowie Esawa, a te ⟨to⟩ ich książęta — on ⟨to jest⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "ich książęta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:04.505639895Z",
+  "model": "glm-5.3"
+}

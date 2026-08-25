@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A dziewczyna była piękna nad miarę, i była królowi pielęgniarką, i usługiwała mu, lecz król nie znał jej.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "A dziewczyna"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "była piękna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "miarę"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i była"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "pielęgniarką"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "i usługiwała mu"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "lecz król"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "znał jej"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:01.910176824Z",
+  "model": "glm-5.3"
+}

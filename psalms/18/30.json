@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "Bo dzięki Tobie piętnę oddział ⟨z wrogów⟩, i dzięki Elohim memu przeskoczę mur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dzięki Tobie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "piętnę"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "oddział ⟨z wrogów⟩"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "i dzięki Elohim memu"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "przeskoczę"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mur"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:10.251794591Z",
+  "model": "glm-5.3"
+}

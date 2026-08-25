@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 36,
+  "translation": "Bo u ciebie ⟨jest⟩ źródło życia, w świetle twoim ujrzymy światło.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u ciebie"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "źródło"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "życia"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "w świetle twoim"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ujrzymy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światło"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:26.818208439Z",
+  "model": "glm-5.3"
+}

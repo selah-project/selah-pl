@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I powiedziała Ester: Człowiek przeciwny i nieprzyjaciel — ten zły Haman. A Haman zlęknął się przed obliczem króla i królowej.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I powiedziała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "człowiek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "przeciwny"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "i nieprzyjaciel"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zły"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "a Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "zlęknął się"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "i królowej"
+    }
+  ],
+  "timestamp": "2026-08-25T02:36:09.581920024Z",
+  "model": "glm-5.3"
+}

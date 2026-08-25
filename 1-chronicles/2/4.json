@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A Tamar, jego synowa, urodziła mu ⟨את⟩ Pereta i ⟨את⟩ Zeracha — wszystkich synów Jehudy ⟨było⟩ pięciu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "A Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "jego synowa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "urodziła"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereta"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zeracha"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeracha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pięciu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:48.118019341Z",
+  "model": "glm-5.3"
+}

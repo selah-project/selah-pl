@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "A Arnan odwrócił się i ujrzał ⟨את⟩ posłańca, a czterej synowie jego z nim ukrywali się; a Arnan młócił pszenicę.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a odwrócił się"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i ujrzał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posłańca"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "posłańca"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "a czterej"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synowie jego"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ukrywali się"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "a Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "młócił"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pszenicę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:56:59.620382510Z",
+  "model": "glm-5.3"
+}

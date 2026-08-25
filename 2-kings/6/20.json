@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I stało się, gdy weszli do Szomronu, że rzekł Eliszua: Jahwe, otwórz ⟨את⟩ oczy tych, a zobaczą; i otworzył Jahwe ⟨את⟩ ich oczy, i zobaczyli, a oto — w środku Szomronu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i stało się"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "gdy weszli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Szomronu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "że rzekł"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otwórz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oczy tych"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oczy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tych"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a zobaczą"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "i otworzył"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ich oczy"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ich oczy"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i zobaczyli"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a oto"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "w środku"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomronu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:09:59.540711468Z",
+  "model": "glm-5.3"
+}

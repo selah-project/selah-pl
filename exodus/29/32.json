@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "I będą jeść Aharon i jego synowie ⟨את⟩ mięso barana i ⟨את⟩ chleb, który jest w koszu, przy wejściu do Namiotu Spotkania.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "i będą jeść"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jego synowie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mięso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mięso"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "barana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "chleb"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "w koszu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "przy wejściu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Namiotu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Spotkania"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:33.708036749Z",
+  "model": "glm-5.3"
+}

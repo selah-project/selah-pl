@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "i pobijesz ⟨את⟩ dom Achaba, pana twojego, i pomszczę krew moich sług, proroków, i krew wszystkich sług Jahwe z ręki Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "i pobijesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Achaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "pana twojego"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "i pomszczę"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krew"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "moich sług"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroków"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "i krew"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkich"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sług"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-25T00:10:20.013936733Z",
+  "model": "glm-5.3"
+}

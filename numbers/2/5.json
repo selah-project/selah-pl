@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "A obozujący przy nim — pokolenie Iszachara, a księciem synów Iszachara ⟨jest⟩ Netanel, syn Cuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "a obozujący"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "przy nim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pokolenie"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Iszachara"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "a księciem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Iszachara"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuar"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:10.543289638Z",
+  "model": "glm-5.3"
+}

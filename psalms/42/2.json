@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "Jak łania pragnie strumieni wód, tak moja nefesz pragnie Ciebie, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Jak łania"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "pragnie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "strumieni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wód"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesz"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "pragnie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ciebie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:14.879729705Z",
+  "model": "glm-5.3"
+}

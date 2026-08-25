@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I podniósł ⟨את⟩ swoje oczy, i zobaczył ⟨את⟩ kobiety i ⟨את⟩ dzieci, i powiedział: Kim są ci ⟨dla ciebie⟩? I powiedział: To dzieci, którymi Elohim obdarzył łaskawie twojego sługę.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podniósł"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoje oczy"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "swoje oczy"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i zobaczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobiety"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kobiety"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dzieci"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dzieci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "są ci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dzieci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którymi"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "obdarzył łaskawie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twojego sługę"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "twojego sługę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:40.388792625Z",
+  "model": "glm-5.3"
+}

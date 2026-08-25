@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 5,
+  "translation": "A Achimaas spłodził ⟨את⟩ Azarjasza, a Azarjasz spłodził ⟨את⟩ Jochanana.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "A Achimaas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjasza"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjasza"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "a Azarjasz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "spłodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanana"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-08-25T02:51:46.549929805Z",
+  "model": "glm-5.3"
+}

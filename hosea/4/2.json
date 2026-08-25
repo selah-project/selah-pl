@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Klątwy i kłamstwa, i zabójstwa, i kradzieże, i cudzołóstwa — wybuchły, i krwie krwią się dotykają.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Klątwy"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "i kłamstwa"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "i zabójstwa"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "i kradzieże"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "i cudzołóstwa"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "wybuchły"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "i krwie"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "krwią"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "się dotykają"
+    }
+  ],
+  "timestamp": "2026-08-25T01:30:34.768312873Z",
+  "model": "glm-5.3"
+}

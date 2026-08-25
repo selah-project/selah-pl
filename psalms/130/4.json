@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 130,
+  "translation": "Bo u ciebie ⟨jest⟩ przebaczenie, abyś był czczony w bojaźni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u ciebie"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "przebaczenie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abyś"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "był czczony w bojaźni"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:05.723696986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 65,
+  "translation": "Szczęśliwy ⟨ten, którego⟩ wybierasz i przybliża, mieszka ⟨w⟩ twoich dziedzińcach; nasycimy się dobrem twojego domu, ⟨świętością⟩ twojej świątyni.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Szczęśliwy"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "wybierasz"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "i przybliża"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "mieszka"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "twoich dziedzińcach"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "nasycimy się"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrem"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "twojego domu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętością"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "twojej świątyni"
+    }
+  ],
+  "timestamp": "2026-08-25T01:53:37.134013937Z",
+  "model": "glm-5.3"
+}

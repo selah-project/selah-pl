@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 144,
+  "translation": "Jahwe, nachyl swoje niebiosa i zstąp; dotknij gór, i zapalą się dymem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nachyl"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "swoje niebiosa"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "i zstąp"
+    },
+    {
+      "surface": "גע",
+      "gloss": "dotknij"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gór"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "i zapalą się dymem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:06:25.000111914Z",
+  "model": "glm-5.3"
+}

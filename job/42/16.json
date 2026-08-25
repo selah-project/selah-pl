@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 42,
+  "translation": "I żył Ijow po tym sto i czterdzieści lat, i widział ⟨את⟩ swoich synów i ⟨את⟩ synów swoich synów — cztery pokolenia.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i żył"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijow"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tym"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "i czterdzieści"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i widział"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "synów swoich synów"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "swoich synów"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "cztery"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "pokolenia"
+    }
+  ],
+  "timestamp": "2026-08-25T02:25:55.806686352Z",
+  "model": "glm-5.3"
+}

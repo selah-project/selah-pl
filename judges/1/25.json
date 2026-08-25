@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "I pokazał im ⟨את⟩ wejście do miasta, i pobili ⟨את⟩ miasto ostrzem miecza, a ⟨את⟩ męża i ⟨את⟩ całą jego rodzinę wysłali ⟨przepadł⟩.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "i pokazał im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejście"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "wejście"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "męża"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "całą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całą"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "jego rodzinę"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wysłali"
+    }
+  ],
+  "timestamp": "2026-08-24T23:24:38.985526926Z",
+  "model": "glm-5.3"
+}

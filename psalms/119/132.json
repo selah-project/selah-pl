@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 119,
+  "translation": "Zwróć się ku mnie i bądź mi łaskawy, jak ⟨to⟩ zwyczaj Twój wobec miłujących imię Twoje.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Zwróć się"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku mnie"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i bądź mi łaskawy"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jak zwyczaj Twój"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "wobec miłujących"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imię Twoje"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:29.229036980Z",
+  "model": "glm-5.3"
+}

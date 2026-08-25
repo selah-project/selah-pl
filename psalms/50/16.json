@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "A do bezbożnego Elohim powiedział: co ci do opowiadania moich ustaw i do noszenia mego przymierza na twoich ustach?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "a do bezbożnego"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedział"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "do opowiadania"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "moich ustaw"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "i do noszenia"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mego przymierza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "twoich ustach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:44:57.065148122Z",
+  "model": "glm-5.3"
+}

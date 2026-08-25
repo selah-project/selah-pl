@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "pl",
+  "chapter": 23,
+  "translation": "I na wodach wielkich zasiew Sichoru, żniwo rzeki — ⟨jej⟩ plon; i ⟨ona⟩ stała się targiem narodów.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "i na wodach"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wielkich"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zasiew"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Sichoru"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "żniwo"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "rzeki"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jej plon"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i stała się"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "targiem"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodów"
+    }
+  ],
+  "timestamp": "2026-08-25T00:26:09.658835621Z",
+  "model": "glm-5.3"
+}

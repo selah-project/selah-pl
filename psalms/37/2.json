@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "Bo jak trawa szybko będą ścięci, i jak zieleń ziela zwiędną.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jak trawa"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "szybko"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "będą ścięci"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "i jak zieleń"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ziela"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "zwiędną"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:07.368617753Z",
+  "model": "glm-5.3"
+}

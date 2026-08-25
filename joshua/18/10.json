@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I rzucił im Jehoszua los w Szilo przed obliczem Jahwe, i podzielił tam Jehoszua ⟨את⟩ ziemię synom Israela według ich działów.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "i rzucił"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "w Szilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "i podzielił"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoszua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "według ich działów"
+    }
+  ],
+  "timestamp": "2026-08-24T23:21:41.928960453Z",
+  "model": "glm-5.3"
+}

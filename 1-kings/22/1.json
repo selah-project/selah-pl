@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I siedzieli ⟨spokojnie⟩ trzy lata — nie było wojny między Aram a Izraelem.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "I siedzieli"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie było"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wojny"
+    },
+    {
+      "surface": "בין",
+      "gloss": "między"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:08.181259823Z",
+  "model": "glm-5.3"
+}

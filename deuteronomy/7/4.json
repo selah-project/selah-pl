@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "bo odwróci ⟨את⟩ syna twojego ode mnie, i będą służyć elohim innym — i zapłonie gniew Jahwe na was, i zniszczy cię szybko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "odwróci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna twojego"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syna twojego"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ode mnie"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i będą służyć"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "innym"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "i zapłonie"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gniew"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na was"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "i zniszczy cię"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "szybko"
+    }
+  ],
+  "timestamp": "2026-08-24T23:06:09.466395734Z",
+  "model": "glm-5.3"
+}

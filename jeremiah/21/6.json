@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "I porazię ⟨את⟩ mieszkańców miasta tego, i ⟨את⟩ człowieka, i ⟨את⟩ bydło — zarazą wielką pomrą.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "i porazię"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieszkańców miasta tego"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mieszkańców"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bydło"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bydło"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "zarazą"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wielką"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "pomrą"
+    }
+  ],
+  "timestamp": "2026-08-25T00:50:29.479048834Z",
+  "model": "glm-5.3"
+}

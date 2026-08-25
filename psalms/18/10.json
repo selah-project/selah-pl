@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I nachylił ⟨את⟩ niebiosa i zstąpił, a gęsta ciemność pod ⟨jego⟩ stopami.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "I nachylił"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨את⟩ niebiosa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i zstąpił"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "a gęsta ciemność"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "⟨jego⟩ stopami"
+    }
+  ],
+  "timestamp": "2026-08-25T01:46:13.326437583Z",
+  "model": "glm-5.3"
+}

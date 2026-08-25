@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I wypedujecie ⟨את⟩ ⟨the⟩ ziemię i zamieszkacie w niej, bo wam dałem ⟨את⟩ ⟨the⟩ ziemię, abyście ⟨את⟩ ją posiedli.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "wypedujecie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "zamieszkacie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "w niej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wam"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dałem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "abyście posiedli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ją"
+    }
+  ],
+  "timestamp": "2026-08-24T23:03:16.531932778Z",
+  "model": "glm-5.3"
+}

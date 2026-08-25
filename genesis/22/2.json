@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I rzekł: Weź proszę ⟨את⟩ syna twego, ⟨את⟩ jedynaka twego, którego miłujesz, ⟨את⟩ Jicchaka, i idź sobie do ziemi Moria, i tam.ofiaruj.go w całopalenie na jednej z gór, o której powiem tobie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna twego"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syna twego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedynaka twego"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "jedynaka twego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którego"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "miłujesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idź"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "Moria"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "i tam.ofiaruj.go (wznieś go)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "w całopalenie"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednej"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "z gór"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o której"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:15:15.537359915Z",
+  "model": "glm-5.3"
+}

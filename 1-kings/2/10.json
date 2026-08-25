@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I zasnął Dawid z ojcami swoimi, i został pogrzebany w mieście Dawida.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i zasnął"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ojcami swoimi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pogrzebany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "w mieście"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:25.637136268Z",
+  "model": "glm-5.3"
+}

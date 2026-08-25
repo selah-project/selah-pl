@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "i sprowadzimy ⟨את⟩ arkę Elohim naszego do nas, bo nie pytaliśmy o nią w dniach Szaula.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "i sprowadzimy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkę"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkę"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naszego"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "do nas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "pytaliśmy o nią"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Szaula"
+    }
+  ],
+  "timestamp": "2026-08-25T03:54:05.452665089Z",
+  "model": "glm-5.3"
+}

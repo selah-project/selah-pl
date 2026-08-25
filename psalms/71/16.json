@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "Przyjdę w potędze Adonai Jahwe, będę wspominać twoją sprawiedliwość — tylko twoją samą.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "przyjdę"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "w potędze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "będę wspominać"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "twoją sprawiedliwość"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tylko twoją samą"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:20.230484426Z",
+  "model": "glm-5.3"
+}

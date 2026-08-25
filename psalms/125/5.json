@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 125,
+  "translation": "A skręcających ku swym krętym drogom Jahwe zaprowadzi ⟨את⟩ czyniących nieprawość ⟨razem⟩ z nimi; pokój ⟨niech będzie⟩ na Izraelu!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "a skręcających"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ku swym krętym drogom"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "zaprowadzi ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "czyniących nieprawość"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "czyniących"
+    },
+    {
+      "surface": "האון",
+      "gloss": "nieprawość"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:03:49.282005178Z",
+  "model": "glm-5.3"
+}

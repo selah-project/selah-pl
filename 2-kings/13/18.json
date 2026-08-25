@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 13,
+  "translation": "I rzekł: Weź strzały — i wziął. I rzekł królowi Jisraela: Uderz w ziemię! I uderzył trzy razy, i ustał.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "קח",
+      "gloss": "weź"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "strzały"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "królowi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הך",
+      "gloss": "uderz"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "w ziemię"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i uderzył"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "razy"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i ustał"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:42.733475544Z",
+  "model": "glm-5.3"
+}

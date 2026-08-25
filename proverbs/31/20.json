@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Swoją dłoń otworzyła biednemu i swoje ręce wyciągnęła potrzebującemu.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "swoją dłoń"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "otworzyła\/rozpostarła"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "biednemu"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "i swoje ręce"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "wyciągnęła"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "potrzebującemu"
+    }
+  ],
+  "timestamp": "2026-08-25T02:14:38.708807055Z",
+  "model": "glm-5.3"
+}

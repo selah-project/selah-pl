@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "I wzeszła dla niego słońce, gdy przekroczył ⟨את⟩ Penuel, a on kulawy był na udo swoje.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "i wzeszła"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dla niego"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "słońce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gdy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przekroczył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kulawy był"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "udo swoje"
+    }
+  ],
+  "timestamp": "2026-08-24T22:19:00.997125704Z",
+  "model": "glm-5.3"
+}

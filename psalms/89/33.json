@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 89,
+  "translation": "I nawiedzę rózgą ich bunt, a ranami ich winę.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "i nawiedzę"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "rózgą"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ich bunt"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "a ranami"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ich winę"
+    }
+  ],
+  "timestamp": "2026-08-25T03:45:28.945573435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "Niech zginie dzień, w którym się urodziłem, i noc, która powiedziała: poczęto mężczyznę.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Niech zginie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dzień"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "(w którym) się urodziłem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "w nim"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "i noc"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "powiedziała"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "poczęto"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mężczyznę"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:02.443234731Z",
+  "model": "glm-5.3"
+}

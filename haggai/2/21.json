@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "Powiedz Zerubbabelowi, namiestnikowi Jehudy: Ja wzruszam ⟨את⟩ niebiosa i ⟨את⟩ ziemię.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Powiedz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabela"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "namiestnika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "wzruszam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niebiosa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ziemię"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemię"
+    }
+  ],
+  "timestamp": "2026-08-25T01:39:04.178514687Z",
+  "model": "glm-5.3"
+}

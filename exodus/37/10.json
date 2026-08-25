@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 37,
+  "translation": "I zrobił ⟨את⟩ stół z drewna szytów, dwa łokcie długości jego, a łokieć szerokości jego, a łokieć i pół wysokości jego.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i zrobił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stół"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stół"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z drewna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "szytów"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dwa łokcie"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "długości jego"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a łokieć"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "szerokości jego"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a łokieć"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pół"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "wysokości jego"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:59.570223917Z",
+  "model": "glm-5.3"
+}

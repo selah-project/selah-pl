@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Gwałt niegodziwych porwie ich, bo odmówili czynić sprawiedliwość.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "gwałt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "niegodziwych"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "porwie ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmówili"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "czynić"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:42.600787802Z",
+  "model": "glm-5.3"
+}

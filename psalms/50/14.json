@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 50,
+  "translation": "Złóż Elohim ofiarę dziękczynną, i wypełnij El Eljonowi swoje śluby.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "złóż ofiarę"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimowi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dziękczynną"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "i wypełnij"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "El Eljonowi"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "swoje śluby"
+    }
+  ],
+  "timestamp": "2026-08-25T04:20:08.654578447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I przyszedł król i cały lud, który ⟨את⟩-niego ⟨był⟩, wyczerpani, i tam nabrał sił.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i cały"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "który"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-niego",
+      "marks": "niego"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "wyczerpani"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "i nabrał sił"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:50:29.577730281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "I spoczął Jehoasz ze swoimi ojcami i został pochowany w Szomeronie z królami Izraela, a Jerobeam, jego syn, królował na jego miejscu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i spoczął"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoasz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "swoimi ojcami"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i został pochowany"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "w Szomeronie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "królami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a królował"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jego syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jego miejscu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:13:16.066696558Z",
+  "model": "glm-5.3"
+}

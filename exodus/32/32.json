@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "A teraz, jeśli uniesiesz grzech ich — a jeśli nie, wymaż mnie, proszę, z twej księgi, którą napisałeś.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a teraz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uniesiesz"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "grzech ich"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jeśli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "wymaż mnie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "proszę"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "z twej księgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "napisałeś"
+    }
+  ],
+  "timestamp": "2026-08-24T22:37:32.439637384Z",
+  "model": "glm-5.3"
+}

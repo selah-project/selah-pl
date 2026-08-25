@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I wziął Elijaszu ⟨את⟩ chłopca, i sprowadził go z górnej izby do domu, i dał go jego matce, i powiedział Elijaszu: Zobacz, żyje twój syn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i wziął"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaszu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chłopca"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "chłopca"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "i sprowadził go"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "górnej izby"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i dał go"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "jego matce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i powiedział"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaszu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "zobacz"
+    },
+    {
+      "surface": "חי",
+      "gloss": "żyje"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "twój syn"
+    }
+  ],
+  "timestamp": "2026-08-25T00:03:14.045378278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "Gdy Dawid usłyszał, wysłał ⟨את⟩ Joaba i ⟨את⟩ cały obóz bohaterów.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Gdy usłyszał"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wysłał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cały obóz bohaterów"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cały"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "obóz"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "bohaterów"
+    }
+  ],
+  "timestamp": "2026-08-25T02:57:17.751604673Z",
+  "model": "glm-5.3"
+}

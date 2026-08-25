@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I rzekł Peszelczyk: Ja zelżyłem ⟨את⟩ szyki bojowe Iszraela dziś ten; dajcie mi męża, a potoczmy się razem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Peszelczyk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "zelżyłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szyki bojowe Iszraela"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "szyki bojowe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iszraela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dziś"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajcie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "a potoczmy się"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "razem"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:57.829067114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Jeśli właściciel jego z nim ⟨jest⟩, nie zapłaci; jeśli najemnikiem on jest, przyszedł w zapłacie swojej.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jeśli"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "właściciel jego"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zapłaci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeśli"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najemnik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "w zapłacie swojej"
+    }
+  ],
+  "timestamp": "2026-08-24T22:32:31.620035658Z",
+  "model": "glm-5.3"
+}

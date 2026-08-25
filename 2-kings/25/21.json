@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "I poraził ich ⟨את⟩ król Babilonu i zabił ich w Ribli, w ziemi Chamat; i uprowadził Jehudę z jego ziemi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i poraził"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ich",
+      "marks": "ich —object:海参們"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonu"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "i zabił ich"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "w Ribli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "w ziemi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "i uprowadził (na wygnanie)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z (ponad)"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "jego ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T00:18:58.404562778Z",
+  "model": "glm-5.3"
+}

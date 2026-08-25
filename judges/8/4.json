@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I przyszedł Gedeon nad Jordan, przekraczał go on i trzystu mężów, którzy z ⟨את⟩ nim byli, wyczerpani, a jednak ścigający.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i przyszedł"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gedeon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "nad Jordan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "przekraczał"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i trzystu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mężów"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którzy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "z ⟨את⟩ nim",
+      "marks": "trzystu mężów"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "wyczerpani"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "a jednak ścigający"
+    }
+  ],
+  "timestamp": "2026-08-24T23:28:17.654085103Z",
+  "model": "glm-5.3"
+}

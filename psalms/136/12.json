@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 136,
+  "translation": "Mocną ręką i wyciągniętym ramieniem, bo na wieki trwa Jego chesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ręką"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mocną"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "i ramieniem"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wyciągniętym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:55.486169670Z",
+  "model": "glm-5.3"
+}

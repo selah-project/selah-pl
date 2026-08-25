@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "I mówił Aharon ⟨את⟩ wszystkie słowa, które wypowiedział Jahwe do Moszego, i uczynił znaki na oczach ludu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I mówił"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie słowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wypowiedział"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moszego"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znaki"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na oczach"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ludu"
+    }
+  ],
+  "timestamp": "2026-08-24T22:26:45.492396937Z",
+  "model": "glm-5.3"
+}

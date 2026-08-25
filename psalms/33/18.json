@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "Oto oko Jahwe ⟨zwrócone jest⟩ ku tym, którzy się Go boją, ku tym, którzy czekają na Jego chesed.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Oto"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "którzy się Go boją"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "ku tym, którzy czekają"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "na Jego chesed"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:30.510551493Z",
+  "model": "glm-5.3"
+}

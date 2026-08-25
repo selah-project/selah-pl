@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 73,
+  "translation": "Dlatego jego lud zawraca tutaj, a wody pełni będą wyciskane dla nich.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Dlatego"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "zawraca"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego lud"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "tutaj"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a wody"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pełni"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "będą wyciskane"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dla nich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:06.879850726Z",
+  "model": "glm-5.3"
+}

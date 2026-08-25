@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "pl",
+  "chapter": 7,
+  "translation": "I przyniesie z nich jeden ⟨z każdego⟩ daru jako terumę dla Jahwe — kapłanowi skraplającemu ⟨את⟩ krew szelamim jemu to będzie.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i przyniesie"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z każdego"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "daru"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "jako terumę"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kapłanowi"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "skraplającemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krew"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krew"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "szelamim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "będzie"
+    }
+  ],
+  "timestamp": "2026-08-25T03:19:07.050641614Z",
+  "model": "glm-5.3"
+}

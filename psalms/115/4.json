@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 115,
+  "translation": "Ich bożki ⟨to⟩ srebro i złoto, dzieło rąk człowieka.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Ich bożki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i złoto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dzieło"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rąk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:03.115284187Z",
+  "model": "glm-5.3"
+}

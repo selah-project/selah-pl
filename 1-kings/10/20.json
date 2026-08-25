@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 10,
+  "translation": "I dwanaście lwów stało tam na sześciu stopniach, z tej strony i z tej — nie zostało tak uczynione dla żadnego z królestw.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "i dwanaście"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(naście)"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "lwów"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stało"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sześciu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stopniach"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z tej strony"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "i z tej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zostało uczynione"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dla żadnego z"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "królestw"
+    }
+  ],
+  "timestamp": "2026-08-25T00:00:08.698870471Z",
+  "model": "glm-5.3"
+}

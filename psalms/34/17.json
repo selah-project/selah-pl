@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 34,
+  "translation": "Oblicze Jahwe ⟨jest⟩ przeciw czyniącym zło, by wytępić z ziemi ich pamięć.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "czyniącym"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zło"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "by wytępić"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ziemi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ich pamięć"
+    }
+  ],
+  "timestamp": "2026-08-25T01:48:16.169863321Z",
+  "model": "glm-5.3"
+}

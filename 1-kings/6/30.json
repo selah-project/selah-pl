@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I ⟨את⟩ posadzkę domu pokrył złotem, wewnątrz i na zewnątrz.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "posadzkę domu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "posadzkę"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "pokrył"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "złotem"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "wewnątrz"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "i na zewnątrz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:57:41.738174467Z",
+  "model": "glm-5.3"
+}

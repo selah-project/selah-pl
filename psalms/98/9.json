@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 98,
+  "translation": "Przed obliczem Jahwe, bo przyszedł sądzić ⟨את⟩ ziemię; sądzić będzie świat w sprawiedliwości, a ludy w prostocie.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Przed obliczem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sądzić"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ziemię"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sądzić będzie"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "świat"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "w sprawiedliwości"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "a ludy"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "w prostocie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:11.708419264Z",
+  "model": "glm-5.3"
+}

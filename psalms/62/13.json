@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 62,
+  "translation": "I przy tobie, Adonai, ⟨jest⟩ chesed, bo ty odpłacasz każdemu człowiekowi według jego dzieła.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "i przy tobie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "odpłacasz"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "każdemu człowiekowi"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "według jego dzieła"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:27.364035441Z",
+  "model": "glm-5.3"
+}

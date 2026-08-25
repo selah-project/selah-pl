@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Joktan zrodził ⟨את⟩ Almodada, i ⟨את⟩ Szelefa, i ⟨את⟩ Chacarmawet, i ⟨את⟩ Jerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "A Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Szelefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Szelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chacarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chacarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerach"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:21.322489353Z",
+  "model": "glm-5.3"
+}

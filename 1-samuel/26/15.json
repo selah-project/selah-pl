@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 26,
+  "translation": "I rzekł Dawid do Awnera: Czyż nie ⟨jesteś⟩ mężem? A kto ⟨jest⟩ jak ty w Israelu? Dlaczego więc nie strzegłeś pana swego, króla? Gdyż przyszedł jeden z ludu, by zgładzić ⟨את⟩ króla, pana twego.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awnera"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "czyż nie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mężem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kto"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jak ty"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Israelu"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dlaczego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "strzegłeś"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "panem swym"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "królem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "בא",
+      "gloss": "przyszedł"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "z ludu"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "by zgładzić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "króla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "pana twego"
+    }
+  ],
+  "timestamp": "2026-08-24T23:44:16.758430494Z",
+  "model": "glm-5.3"
+}

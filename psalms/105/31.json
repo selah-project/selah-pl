@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "Rzekł, i nadszedł rojący owad, komary na całym ich obszarze.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Rzekł"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i nadszedł"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rojący owad"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "komary"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na całym"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ich obszarze"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:34.845854479Z",
+  "model": "glm-5.3"
+}

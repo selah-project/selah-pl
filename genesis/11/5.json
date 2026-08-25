@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 11,
+  "translation": "I zszedł Jahwe, aby obejrzeć ⟨את⟩ miasto i ⟨את⟩ wieżę, które zbudowali synowie człowieka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "I zszedł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "aby obejrzeć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miasto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miasto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wieżę"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "wieżę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zbudowali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synowie"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:12:12.468969058Z",
+  "model": "glm-5.3"
+}

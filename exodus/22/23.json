@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I zapali się gniew mój, i zabiję ⟨את⟩ was mieczem, i będą żony wasze wdowami, a synowie waszy sierotami.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "i zapali się"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "gniew mój"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "i zabiję"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mieczem"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i będą"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "żony wasze"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wdowami"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a synowie waszy"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "sierotami"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:25.629137362Z",
+  "model": "glm-5.3"
+}

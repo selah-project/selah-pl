@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 18,
+  "translation": "I okrążyło dziesięciu młodzieńców niosących przybory Joaba, i pobili ⟨את⟩ Awiszaloma, i zabili go.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "I okrążyło"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dziesięciu"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "młodzieńców"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "niosących"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "przybory"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awiszaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awiszaloma"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i zabili go"
+    }
+  ],
+  "timestamp": "2026-08-24T23:52:06.368861732Z",
+  "model": "glm-5.3"
+}

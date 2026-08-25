@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "I przyprowadził ich przed ⟨את⟩ oblicze króla Moabu, i mieszkali z nim wszystkie dni bywania Dawida w warowni.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i przyprowadził ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblicze króla Moabu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oblicze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "króla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i mieszkali"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z nim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "היות",
+      "gloss": "bywania"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "w warowni"
+    }
+  ],
+  "timestamp": "2026-08-24T23:42:07.871671713Z",
+  "model": "glm-5.3"
+}

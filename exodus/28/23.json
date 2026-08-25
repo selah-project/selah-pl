@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I zrobisz na choszecznie dwie obręcze ze złota, i włożysz ⟨את⟩ dwie obręcze na dwa krańce choszenia.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i zrobisz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choszecznie"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "obręcze"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze złota"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i włożysz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwie"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "obręcze"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "krańce"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choszenia"
+    }
+  ],
+  "timestamp": "2026-08-25T03:18:03.941324347Z",
+  "model": "glm-5.3"
+}

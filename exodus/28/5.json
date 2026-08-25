@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I wezmą ⟨את⟩ złoto, i ⟨את⟩ błękit, i ⟨את⟩ purpurę, i ⟨את⟩ robaka szkarłatu, i ⟨את⟩ bisior.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "wezmą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "złoto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "błękit"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "błękit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "robak szkarłatu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "robak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "szkarłatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bisior"
+    },
+    {
+      "surface": "השש",
+      "gloss": "bisior"
+    }
+  ],
+  "timestamp": "2026-08-24T22:34:28.530573460Z",
+  "model": "glm-5.3"
+}

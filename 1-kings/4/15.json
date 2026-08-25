@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 4,
+  "translation": "Achimaac w Naftali; on też wziął ⟨את⟩ Basmat, córkę Szlomo, za żonę.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaac"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "w Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "też"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wziął"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "córkę"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Szlomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za żonę"
+    }
+  ],
+  "timestamp": "2026-08-24T23:55:43.038502258Z",
+  "model": "glm-5.3"
+}

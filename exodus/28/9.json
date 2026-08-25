@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "I weźmiesz ⟨את⟩ dwa kamienie szoham, i wygrawerujesz na nich imiona synów Jisraela.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i weźmiesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwa kamienie szoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dwa"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamienie"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "szoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "i wygrawerujesz"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imiona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:51.871690539Z",
+  "model": "glm-5.3"
+}

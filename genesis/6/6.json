@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 6,
+  "translation": "I Jahwe żałował, że uczynił ⟨את⟩ człowieka na ziemi, i zasmucił się aż do swego serca.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i żałował"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "człowieka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowieka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ziemi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "i zasmucił się"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aż do"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "swego serca"
+    }
+  ],
+  "timestamp": "2026-08-24T22:10:28.078910967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I usłyszał Toi, król Chamat, że pobił Dawid ⟨את⟩ całe wojsko Hadadezera.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i-usłyszał"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pobił"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "całe wojsko Hadadezera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "całe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wojsko"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    }
+  ],
+  "timestamp": "2026-08-25T03:28:34.863811287Z",
+  "model": "glm-5.3"
+}

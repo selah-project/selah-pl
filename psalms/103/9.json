@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 103,
+  "translation": "Nie na wiek będzie się spierał i nie na zawsze będzie strzegł ⟨gniewu⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na wiek"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "będzie się spierał"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na zawsze"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "będzie strzegł"
+    }
+  ],
+  "timestamp": "2026-08-25T01:59:29.869377071Z",
+  "model": "glm-5.3"
+}

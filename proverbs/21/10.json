@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 21,
+  "translation": "Nefesz niegodziwca pożąda zła: bliźni nie znajdzie łaski w jego oczach.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesz"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "niegodziwca"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "pożąda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zła"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "znajdzie łaski"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "w jego oczach"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bliźni"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:11.736050349Z",
+  "model": "glm-5.3"
+}

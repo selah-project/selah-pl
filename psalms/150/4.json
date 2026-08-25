@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 150,
+  "translation": "Chwalcie Go tofem i tańcem, chwalcie Go strunami i ugabem!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chwalcie Go"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tofem"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "i tańcem"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie Go"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "strunami"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "i ugabem"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:59.333499472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "I zbudował Mosze ołtarz, i nazwał jego imię Jahwe-Nissi (Jahwe moim sztandarem).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i zbudował"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosze"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazwał"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jego imię"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (mój sztandar)"
+    }
+  ],
+  "timestamp": "2026-08-24T22:30:28.371240456Z",
+  "model": "glm-5.3"
+}

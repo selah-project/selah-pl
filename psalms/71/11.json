@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 71,
+  "translation": "mówiąc: Elohim go opuścił; ścigajcie i chwytajcie go, bo nie ma wybawcy.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opuścił go"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ścigajcie"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "i chwytajcie go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie ma"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wybawcy"
+    }
+  ],
+  "timestamp": "2026-08-25T01:54:17.281689784Z",
+  "model": "glm-5.3"
+}

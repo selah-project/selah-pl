@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 45,
+  "translation": "Przewodnikowi chóru, na „Szuszannim”, synom Koracha, maskil, pieśń umiłowanych.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Przewodnikowi chóru"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "„Szuszannim”"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracha"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pieśń"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "umiłowanych"
+    }
+  ],
+  "timestamp": "2026-08-25T01:51:18.596216218Z",
+  "model": "glm-5.3"
+}

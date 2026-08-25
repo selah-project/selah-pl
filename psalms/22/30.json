@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 22,
+  "translation": "Będą jeść i kłaniać się wszyscy tłustości ziemi; przed nim zegną kolana wszyscy zstępujący do prochu — a ⟨ten, czyja⟩ nefesz nie została ożywiona.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "będą jeść"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i kłaniać się"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "tłustości"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "przed nim"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "zegną kolana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszyscy"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "zstępujący"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "do prochu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "a jego nefesz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "została ożywiona"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:05.499794454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 38,
+  "translation": "Niema zdrowia w moim ciele przed twoją srogością, niema pokoju w moich kościach przed moim grzechem.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Niema"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdrowia"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "w moim ciele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "twoją srogością"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoju"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "w moich kościach"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "moim grzechem"
+    }
+  ],
+  "timestamp": "2026-08-25T01:49:48.700696015Z",
+  "model": "glm-5.3"
+}

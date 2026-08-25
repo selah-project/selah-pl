@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I rzekł do niego: Tak rzekł Jahwe: Ponieważ wypuściłeś ⟨את⟩ męża mego wyklęcia z ręki, więc będzie twoja nefesz zamiast jego nefesz, i twój lud zamiast jego ludu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rzekł"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "do niego"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ponieważ"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "wypuściłeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "męża mego wyklęcia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "męża"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "mego wyklęcia"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ręki"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "więc będzie"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "twoja nefesz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jego nefesz"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "i twój lud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zamiast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jego ludu"
+    }
+  ],
+  "timestamp": "2026-08-25T00:04:37.266685704Z",
+  "model": "glm-5.3"
+}

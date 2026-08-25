@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "A to ⟨są⟩ dzieje Jicchaka, syna Awrahama: Awraham zrodził ⟨את⟩ Jicchaka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A to"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dzieje"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    }
+  ],
+  "timestamp": "2026-08-24T22:16:19.672091161Z",
+  "model": "glm-5.3"
+}

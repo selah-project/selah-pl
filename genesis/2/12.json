@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I złoto tej ziemi ⟨jest⟩ dobre — tam ⟨jest⟩ bdolach i kamień szoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "I złoto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tej"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamień"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "szoham"
+    }
+  ],
+  "timestamp": "2026-08-25T03:13:03.859991051Z",
+  "model": "glm-5.3"
+}

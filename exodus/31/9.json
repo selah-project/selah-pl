@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "oraz ⟨את⟩ ołtarz całopalenia i ⟨את⟩ wszystkie jego naczynia, i ⟨את⟩ umywalnię i ⟨את⟩ jej podstawę",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ołtarz całopalenia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ołtarz"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "całopalenia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wszystkie jego naczynia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wszystkie"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jego naczynia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umywalnię"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umywalnię"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jej podstawę"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jej podstawę"
+    }
+  ],
+  "timestamp": "2026-08-24T22:35:17.471881992Z",
+  "model": "glm-5.3"
+}

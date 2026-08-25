@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 74,
+  "translation": "Wejrzyj na przymierze, bo napełniły się mroczne miejsca ziemi siedzibami gwałtu.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Wejrzyj"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "na przymierze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napełniły się"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "mroczne miejsca"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ziemi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "siedziby"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gwałtu"
+    }
+  ],
+  "timestamp": "2026-08-25T01:55:41.101856370Z",
+  "model": "glm-5.3"
+}

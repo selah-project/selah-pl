@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A wąż rzekł do niewiasty: Na pewno nie pomrzecie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a rzekł"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "wąż"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "niewiasty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "umrzeć"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "pomrzecie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:45.135052913Z",
+  "model": "glm-5.3"
+}

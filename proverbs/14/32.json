@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 14,
+  "translation": "W swojej złości bezbożny zostaje strącony, a sprawiedliwy szuka schronienia w swojej śmierci.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "w swojej złości"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "zostaje strącony"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbożny"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "a szuka schronienia"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "w swojej śmierci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sprawiedliwy"
+    }
+  ],
+  "timestamp": "2026-08-25T02:10:10.346540716Z",
+  "model": "glm-5.3"
+}

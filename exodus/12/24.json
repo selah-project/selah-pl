@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 12,
+  "translation": "I będziecie strzec ⟨את⟩ tego słowa jako ustawy dla ciebie i dla twoich synów aż na wieki.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i będziecie strzec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tego słowa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "słowa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tego"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "jako ustawy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dla ciebie"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "i dla twoich synów"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aż"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T03:17:09.249494770Z",
+  "model": "glm-5.3"
+}

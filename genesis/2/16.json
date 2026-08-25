@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 2,
+  "translation": "I przykazał Jahwe Elohim człowiekowi, mówiąc: Z każdego drzewa ogrodu jadając jeść będziesz.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I przykazał"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "człowiekowi (na temat)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "człowiekowi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mówiąc"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Z każdego"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drzewa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ogrodu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jadając"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeść będziesz"
+    }
+  ],
+  "timestamp": "2026-08-24T22:09:19.604819941Z",
+  "model": "glm-5.3"
+}

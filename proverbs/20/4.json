@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "Z powodu zimy leniwy nie orze; prosi w żniwa — i nic.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "z powodu zimy"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leniwy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "orze"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "prosi"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "w żniwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nic"
+    }
+  ],
+  "timestamp": "2026-08-25T02:11:52.670424919Z",
+  "model": "glm-5.3"
+}

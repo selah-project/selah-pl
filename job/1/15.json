@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Szeba uderzyła ⟨na nich⟩ i zabrała je, a ⟨את⟩ sługi pobili ostrzem miecza; i ocalałam tylko ja sama, aby oznajmić tobie.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "a uderzyła"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Szeba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "i zabrała je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sługi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "sługi"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "pobili"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrzem (dosł. ustom)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miecza"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "i ocalałam"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tylko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sama"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "aby oznajmić"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:15:28.619167142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "od syna dwudziestu lat i wzwyż, każdego wychodzącego na wojnę w Jisraelu — spiszecie ⟨את⟩ ich według ich zastępów, ty i Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "od syna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwudziestu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lat"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i wzwyż"
+    },
+    {
+      "surface": "כל",
+      "gloss": "każdego"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wychodzącego"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "na wojnę"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "w Jisraelu"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "spiszecie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ich"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "według ich zastępów"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    }
+  ],
+  "timestamp": "2026-08-24T22:50:05.272552808Z",
+  "model": "glm-5.3"
+}

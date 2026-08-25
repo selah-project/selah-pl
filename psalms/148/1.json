@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 148,
+  "translation": "Chwalcie Jah! Chwalcie ⟨את⟩ Jahwe z niebiosów, chwalcie Go na wysokościach!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chwalcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebiosów"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chwalcie Go"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "na wysokościach"
+    }
+  ],
+  "timestamp": "2026-08-25T03:46:59.155781980Z",
+  "model": "glm-5.3"
+}

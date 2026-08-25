@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 17,
+  "translation": "Próbowałeś serce moje, nawiedziłeś nocą, wypróbowałeś mnie — niczego nie znajdiesz; zamysł mój nie przejdzie ust moich.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Próbowałeś"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "serce moje"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "nawiedziłeś"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocą"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "wypróbowałeś mnie"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niczego"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nie znajdiesz"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "zamysł mój"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "przejdzie"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust moich"
+    }
+  ],
+  "timestamp": "2026-08-25T01:45:55.617469949Z",
+  "model": "glm-5.3"
+}

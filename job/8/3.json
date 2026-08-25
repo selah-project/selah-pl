@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "Czy El przekręca prawo, i czy Szaddaj przekręca sprawiedliwość?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Czy El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "przekręca"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prawo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "i czy"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Szaddaj"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "przekręca"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sprawiedliwość"
+    }
+  ],
+  "timestamp": "2026-08-25T02:16:27.173186296Z",
+  "model": "glm-5.3"
+}

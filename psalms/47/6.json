@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 47,
+  "translation": "Wstąpił Elohim amid okrzyku zwycięstwa, Jahwe przy dźwięku szofaru.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Wstąpił"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "amid okrzyku zwycięstwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "przy dźwięku"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "szofaru"
+    }
+  ],
+  "timestamp": "2026-08-25T01:50:55.709415338Z",
+  "model": "glm-5.3"
+}

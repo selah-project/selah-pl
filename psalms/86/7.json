@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "W dniu mojego ucisku wzywać Cię będę, bo Ty mnie wysłuchasz.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "W dniu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "mojego ucisku"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "wzywać Cię będę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mnie wysłuchasz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:24.862273137Z",
+  "model": "glm-5.3"
+}

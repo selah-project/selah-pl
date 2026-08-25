@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 110,
+  "translation": "Twój lud — dobrowolne dary w dniu twojej potęgi, w szatach świętości; z łona jutrzenki tobie — rosa twojej młodości.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Twój lud"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "dobrowolne dary"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "w dniu"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "twojej potęgi"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "w szatach"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "świętości"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "z łona"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "jutrzenki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobie"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rosa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "twojej młodości"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:30.473737366Z",
+  "model": "glm-5.3"
+}

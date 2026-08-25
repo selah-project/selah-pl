@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 30,
+  "translation": "A ja mówiłem w moim spokoju: Nie zachwieję się na wieki.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mówiłem"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "w moim spokoju"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachwieję się"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na wieki"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:49.265297635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 35,
+  "translation": "I wyruszył Jisraël, i rozbił swój namiot na wschód od Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "i wyruszył"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i rozbił"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "swój namiot"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "na wschód od"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "do Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-Eder"
+    }
+  ],
+  "timestamp": "2026-08-24T22:20:01.907998896Z",
+  "model": "glm-5.3"
+}

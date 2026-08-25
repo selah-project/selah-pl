@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "A ja do Ciebie, Jahwe, wołałem, i rano modlitwa moja uprzedzi Ciebie.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "wołałem"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "i rano"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "modlitwa moja"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "uprzedzi Ciebie"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:25.780356261Z",
+  "model": "glm-5.3"
+}

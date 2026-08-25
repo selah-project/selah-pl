@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 113,
+  "translation": "⟨Ten, który⟩ pochyla się, aby patrzeć — w niebiosach i na ziemi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "pochyla się"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby patrzeć"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "w niebiosach"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na ziemi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:01:32.945162851Z",
+  "model": "glm-5.3"
+}

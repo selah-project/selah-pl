@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "A Elihu czekał na Ijowa słowami, bo oni starsi byli od niego dniami.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "a Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "czekał"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijowa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "na Ijowa"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "słowami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starsi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od niego"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dniami"
+    }
+  ],
+  "timestamp": "2026-08-25T02:23:02.107874366Z",
+  "model": "glm-5.3"
+}

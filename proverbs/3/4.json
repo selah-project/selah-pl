@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "I znajdziesz łaskę i dobre rozeznanie w oczach Elohim i ludzi.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "I znajdziesz"
+    },
+    {
+      "surface": "חן",
+      "gloss": "łaskę"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "i rozeznanie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "w oczach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "i ludzi"
+    }
+  ],
+  "timestamp": "2026-08-25T02:07:31.397418989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 135,
+  "translation": "Błogosławiony Jahwe z Cijjon, mieszkający w Jeruszalaim! Chwalcie Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Błogosławiony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "z Cijjon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mieszkający"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "w Jeruszalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chwalcie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:52.094706807Z",
+  "model": "glm-5.3"
+}

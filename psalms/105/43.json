@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 105,
+  "translation": "I wyprowadził swój lud z radością, z radosnym śpiewem ⟨את⟩ swoich wybranych.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i wyprowadził"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "swój lud"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "z radością"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "z radosnym śpiewem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swoich wybranych"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "swoich wybranych"
+    }
+  ],
+  "timestamp": "2026-08-25T02:00:19.686259926Z",
+  "model": "glm-5.3"
+}

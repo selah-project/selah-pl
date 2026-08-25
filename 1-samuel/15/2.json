@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 15,
+  "translation": "Tak rzekł Jahwe Contwa: Odwiedziłem ⟨את⟩ to, co uczynił Amalek Jisraëlowi, co mu zrobił w drodze przy jego wchodzeniu z Micraim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rzekł"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Contwa"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "odwiedziłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co uczynił Amalek Jisraëlowi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uczynił"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraëlowi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zrobił"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "w drodze"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "przy jego wchodzeniu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Micraim"
+    }
+  ],
+  "timestamp": "2026-08-24T23:38:58.157192799Z",
+  "model": "glm-5.3"
+}

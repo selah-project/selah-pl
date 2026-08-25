@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 41,
+  "translation": "I stało się, jak wyłożył nam, tak się stało: ⟨את⟩ mnie przywrócił na moje stanowisko, a ⟨את⟩ jego powiesił.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stało się"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "wyłożył"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "się stało"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mnie"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "przywrócił"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כני",
+      "gloss": "moje stanowisko"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a ⟨את⟩",
+      "marks": "jego"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "powiesił"
+    }
+  ],
+  "timestamp": "2026-08-24T22:22:27.507083251Z",
+  "model": "glm-5.3"
+}

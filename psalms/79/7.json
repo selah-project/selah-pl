@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 79,
+  "translation": "Bo pożarli ⟨את⟩ Jaakowa i ⟨את⟩ jego siedzibę spustoszyli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pożarli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jego siedzibę"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jego siedzibę"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "spustoszyli"
+    }
+  ],
+  "timestamp": "2026-08-25T01:56:41.404654836Z",
+  "model": "glm-5.3"
+}

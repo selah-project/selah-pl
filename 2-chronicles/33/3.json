@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "pl",
+  "chapter": 33,
+  "translation": "I wrócił, i odbudował ⟨את⟩ wyżyny, które zburzył Chizkijahu, ojciec jego, i wzniósł ołtarze dla Baalim, i uczynił Aszery, i korzył się przed całym wojskiem niebios, i służył ⟨את⟩-im.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i wrócił"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i odbudował"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wyżyny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "wyżyny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "zburzył"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ojciec jego"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i wzniósł"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ołtarze"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "dla Baalim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i uczynił"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "Aszery"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i korzył się"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "przed całym"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wojskiem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "niebios"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "i służył"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-im",
+      "marks": "im (wojsku niebios)"
+    }
+  ],
+  "timestamp": "2026-08-25T03:56:23.505240238Z",
+  "model": "glm-5.3"
+}

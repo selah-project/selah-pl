@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "pl",
+  "chapter": 9,
+  "translation": "Bo żyjący wiedzą, że umrą, a umarli nie wiedzą niczego, i nie ma już dla nich zapłaty, bo pamięć o nich została zapomniana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "żyjący"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "wiedzą"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "że umrą"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "a umarli"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "wiedzą"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niczego"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nie ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "już"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dla nich"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zapłaty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "została zapomniana"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "pamięć o nich"
+    }
+  ],
+  "timestamp": "2026-08-25T02:32:39.970445699Z",
+  "model": "glm-5.3"
+}

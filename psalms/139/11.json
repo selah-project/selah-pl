@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 139,
+  "translation": "I rzekłem: „Aż ciemność mnie zmiażdży, a noc światłem dokoła mnie stanie” —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rzekłem"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aż (zapewne)"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciemność"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "zmiażdży mnie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "אור",
+      "gloss": "światło"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "dokoła mnie"
+    }
+  ],
+  "timestamp": "2026-08-25T02:05:05.960567008Z",
+  "model": "glm-5.3"
+}

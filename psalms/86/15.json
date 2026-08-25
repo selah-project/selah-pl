@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 86,
+  "translation": "A ty, Adonai, ⟨jesteś⟩ El miłosierny i łaskawy, nieskory do gniewu i wielki chesedem i wiernością.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "miłosierny"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "i łaskawy"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "nieskory"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "do gniewu (dosł. długonośny)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i wielki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesedem"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i wiernością"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:15.257360329Z",
+  "model": "glm-5.3"
+}

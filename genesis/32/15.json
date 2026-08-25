@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "pl",
+  "chapter": 32,
+  "translation": "kóz dwieście i kozłów dwadzieścia, owiec dwieście i baranów dwadzieścia —",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kóz"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dwieście"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "i kozłów"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "owiec"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dwieście"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "i baranów"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dwadzieścia"
+    }
+  ],
+  "timestamp": "2026-08-24T22:18:54.801040650Z",
+  "model": "glm-5.3"
+}

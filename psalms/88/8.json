@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 88,
+  "translation": "Na mnie spoczęła Twoja zapalczywość i wszystkimi swoimi falami przygnębiłeś mnie. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na mnie"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "spoczęła"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Twoja zapalczywość"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i wszystkimi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "swoimi falami"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "przygnębiłeś"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-25T01:57:48.149436370Z",
+  "model": "glm-5.3"
+}

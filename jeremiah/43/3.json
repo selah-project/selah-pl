@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "pl",
+  "chapter": 43,
+  "translation": "gdyż Baruch, syn Nerijahu, podżega cię przeciw nam, aby wydać ⟨את⟩ nas w rękę Kasdim, aby nas umorcić i aby nas wygnać do Bawel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gdyż"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerijahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "podżega"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cię",
+      "marks": "ciebie"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "przeciw nam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "תת",
+      "gloss": "wydać"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "w rękę"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "aby umorcić"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "i aby wygnać"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "do Bawel"
+    }
+  ],
+  "timestamp": "2026-08-25T01:02:00.617262261Z",
+  "model": "glm-5.3"
+}

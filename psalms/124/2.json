@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 124,
+  "translation": "Gdyby nie Jahwe, który był dla nas, gdy powstał przeciwko nam człowiek,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Gdyby nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "który był"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dla nas"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "gdy powstał"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "przeciwko nam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "człowiek"
+    }
+  ],
+  "timestamp": "2026-08-25T02:04:30.441455213Z",
+  "model": "glm-5.3"
+}

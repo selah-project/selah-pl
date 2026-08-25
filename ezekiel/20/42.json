@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "pl",
+  "chapter": 20,
+  "translation": "I poznacie, że Ja jestem Jahwe, gdy wprowadzać będę ⟨את⟩ was do gleby Jisraela, do ⟨the⟩ ziemi, którą podniosłem ⟨את⟩ moją rękę, ⟨by⟩ dać ją waszym ojcom.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "i poznacie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "że"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "gdy wprowadzać będę"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ was",
+      "marks": "was"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "gleby"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ziemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "którą"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podniosłem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją rękę"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moją rękę"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "by dać"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "waszym ojcom"
+    }
+  ],
+  "timestamp": "2026-08-25T01:17:06.688931135Z",
+  "model": "glm-5.3"
+}

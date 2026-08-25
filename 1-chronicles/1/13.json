@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "pl",
+  "chapter": 1,
+  "translation": "A Kenaan zrodził ⟨את⟩ Tsidona, swojego pierworodnego, oraz ⟨את⟩ Cheta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "A Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zrodził"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidona"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidona"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "swojego pierworodnego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oraz ⟨את⟩",
+      "marks": "Cheta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    }
+  ],
+  "timestamp": "2026-08-25T02:50:11.977488752Z",
+  "model": "glm-5.3"
+}

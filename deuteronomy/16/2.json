@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "pl",
+  "chapter": 16,
+  "translation": "I złożysz w ofierze Pesach dla Jahwe, Elohim twojego, z trzody i z bydła, w miejscu, które wybierze Jahwe, aby zamieszkało tam Jego imię.",
+  "tokens": [
+    {
+      "surface": "ו זבחת",
+      "gloss": "I złożysz w ofierze"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ל יהוה",
+      "gloss": "dla Jahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim twojego"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "z trzody"
+    },
+    {
+      "surface": "ו בקר",
+      "gloss": "i z bydła"
+    },
+    {
+      "surface": "ב מקום",
+      "gloss": "w miejscu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "które"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "wybierze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "ל שכן",
+      "gloss": "aby zamieszkało"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jego imię"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-08-24T23:08:54.485576007Z",
+  "model": "glm-5.3"
+}

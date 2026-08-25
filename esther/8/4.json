@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "pl",
+  "chapter": 8,
+  "translation": "I wyciągnął król do Ester ⟨את⟩ berło złote; wtedy powstała Ester i stanęła przed obliczem króla.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "i wyciągnął"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "król"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "do Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berło złote"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "berło"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "złote"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wtedy powstała"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "i stanęła"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed obliczem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "króla"
+    }
+  ],
+  "timestamp": "2026-08-25T02:35:15.489170448Z",
+  "model": "glm-5.3"
+}

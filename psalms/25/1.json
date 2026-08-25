@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 25,
+  "translation": "Dawidowi. Do Ciebie, Jahwe, duszę moją wznoszę.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidowi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do Ciebie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duszę moją"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wznoszę"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:37.481323163Z",
+  "model": "glm-5.3"
+}

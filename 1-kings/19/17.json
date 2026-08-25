@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "pl",
+  "chapter": 19,
+  "translation": "I stanie się: ten, który ujdzie przed mieczem Chazaela, zabije Jehu; a ten, który ujdzie przed mieczem Jehu, zabije Eliszua.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I stanie się"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "ten, który ujdzie"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "przed mieczem"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaela"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "zabije"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "a ten, który ujdzie"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "przed mieczem"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "zabije"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliszua"
+    }
+  ],
+  "timestamp": "2026-08-25T03:30:09.189710717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "pl",
+  "chapter": 27,
+  "translation": "A ty rozkażesz ⟨את⟩ synów Jisraela, i wezmą do ciebie oliwę z oliwek czystą, tłoczoną, na światło, do wznoszenia lampy nieustannie",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "rozkażesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synów Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synów"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i wezmą"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do ciebie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliwę"
+    },
+    {
+      "surface": "זית",
+      "gloss": "z oliwek"
+    },
+    {
+      "surface": "זך",
+      "gloss": "czystą"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tłoczoną"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "na światło"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "do wznoszenia"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nieustannie"
+    }
+  ],
+  "timestamp": "2026-08-24T22:33:56.118095467Z",
+  "model": "glm-5.3"
+}

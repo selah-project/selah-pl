@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 31,
+  "translation": "Będę się radować i weselić w Twoim chesedzie, że ⟨את⟩ moją nędzę widziałeś, poznałeś udręki mojej nefesz.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "będę się radować"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "i weselić"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "w Twoim chesedzie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "że"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "widziałeś"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moją nędzę"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "moją nędzę"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznałeś"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "udręki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojej nefesz"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:53.013085841Z",
+  "model": "glm-5.3"
+}

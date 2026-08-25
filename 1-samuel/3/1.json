@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "pl",
+  "chapter": 3,
+  "translation": "A chłopiec Szemuël służył ⟨את⟩ Jahwe przed Elim, a słowo Jahwe było rzadkie w tamtych dniach — nie było widzenia wybuchającego na zewnątrz.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "A chłopiec"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Szemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "służył"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "przed"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a słowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "było"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "rzadkie\/cenne"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "w dniach"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tych"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie było"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "widzenia"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "wybuchającego na zewnątrz"
+    }
+  ],
+  "timestamp": "2026-08-24T23:33:58.112217328Z",
+  "model": "glm-5.3"
+}

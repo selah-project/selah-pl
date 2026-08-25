@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 60,
+  "translation": "Moab ⟨jest⟩ garnkiem mycia mego, na Edom rzucę sandał mój, nade mną, Filasztynie, rozbrzmiewaj!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "garnkiem"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mycia mego"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "rzucę"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandał mój"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mną"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filasztynie"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "rozbrzmiewaj"
+    }
+  ],
+  "timestamp": "2026-08-25T01:52:58.057101073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "pl",
+  "chapter": 29,
+  "translation": "A ich ofiara z pokarmów: mąka wyborowa zmieszana w oleju, trzy dziesiąte efy dla cielca, dwie dziesiąte dla barana.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "a ich ofiara z pokarmów"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mąka wyborowa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "zmieszana"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "w oleju"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trzy"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dziesiąte"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "dla cielca"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dwie"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dziesiąte"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "dla barana"
+    }
+  ],
+  "timestamp": "2026-08-24T23:00:29.287959337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "pl",
+  "chapter": 28,
+  "translation": "Jahwe ⟨jest⟩ mocą ich, i twierdzą zbawień pomazańca Jego ⟨On⟩ ⟨jest⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mocą"
+    },
+    {
+      "surface": "למו",
+      "gloss": "im"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "i twierdzą"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "zbawień"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "pomazańca Jego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-08-25T01:47:22.945457807Z",
+  "model": "glm-5.3"
+}
