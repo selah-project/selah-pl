@@ -65,3 +65,8 @@ otwarte dowody. Opiekunowie sprawdzają propozycje z hebrajskim,
 z zasadami, ze źródłami i z wyrównaniem — mogą przyjąć, dopracować
 razem z tobą, czekać na dalsze dowody albo odrzucić z podaniem
 przyczyny. Oceniane jest słowo, a nie człowiek.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
